@@ -1,12 +1,12 @@
 ---
 name: Feature request
-about: Something OmniMind should do that it doesn't yet
+about: Something AgentQon should do that it doesn't yet
 title: "[feature] "
 labels: enhancement
 ---
 
 **The problem**
-What are you trying to do that OmniMind makes hard or impossible?
+What are you trying to do that AgentQon makes hard or impossible?
 
 **The feature you'd like**
 
