@@ -1,6 +1,6 @@
 ---
 name: Bug report
-about: Something OmniMind did wrong, or failed to do
+about: Something AgentQon did wrong, or failed to do
 title: "[bug] "
 labels: bug
 ---
@@ -11,10 +11,10 @@ A clear description of the bug.
 **What you expected**
 
 **Steps to reproduce**
-1. Command or action: `omnimind …`
+1. Command or action: `agentqon …`
 2. …
 
-**`omnimind doctor` output**
+**`agentqon doctor` output**
 Paste it here (it includes versions and connection state — no keys).
 
 **Your environment**
