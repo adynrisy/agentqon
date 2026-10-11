@@ -1,5 +1,5 @@
 blank_issues_enabled: true
 contact_links:
-  - name: OmniMind AI on npm
-    url: https://www.npmjs.com/package/omnimind-ai
+  - name: AgentQon AI on npm
+    url: https://www.npmjs.com/package/agentqon
     about: The package page — versions, install stats, and the release being installed.
