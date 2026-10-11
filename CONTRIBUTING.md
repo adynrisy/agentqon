@@ -1,13 +1,13 @@
-# Contributing to OmniMind AI
+# Contributing to AgentQon
 
-This repository is OmniMind AI's public home: documentation, guides and
+This repository is AgentQon's public home: documentation, guides and
 issue tracking. The product itself ships as the
-[`omnimind-ai` npm package](https://www.npmjs.com/package/omnimind-ai).
+[`agentqon` npm package](https://www.npmjs.com/package/agentqon).
 
 ## Ways to help
 
 - **Report bugs** — open an issue with the Bug report template. The
-  single most useful thing you can include is your `omnimind doctor`
+  single most useful thing you can include is your `agentqon doctor`
   output.
 - **Request features** — use the Feature request template; concrete
   example missions beat abstract wishes.
@@ -23,4 +23,4 @@ issue tracking. The product itself ships as the
 - Be kind and specific; argue with drafts like our critic does —
   attack the work, never the person.
 - No secrets in issues: never paste API keys, tokens, or vault contents.
-  `omnimind doctor` output is safe by design.
+  `agentqon doctor` output is safe by design.
