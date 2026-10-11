@@ -8,7 +8,7 @@ OmniMind AI ships as a single npm package that contains the terminal harness
 | Requirement | Version | Why |
 |---|---|---|
 | Node.js | ≥ 18 | Runs the `omnimind` terminal harness |
-| Python | ≥ 3.11 | Runs the local platform server (in OmniMind's own virtual environment — your system Python is never modified) |
+| Python | **3.12 exactly** | Runs the local platform server (in OmniMind's own virtual environment — your system Python is never modified). The Shield-protected payload in the current release is compiled for Python 3.12, so setup refuses any other version and tells you so in plain words — install 3.12 even if you already have 3.11 or 3.13. |
 
 You don't need to install these by hand on most systems: the standalone
 installers (below) detect what's missing and offer to install it through your
@@ -76,7 +76,8 @@ npm install -g omnimind-ai
 omnimind
 ```
 
-Most distributions carry a new-enough Python; for Node.js ≥ 18 use your
+You need **Python 3.12 specifically** (see the requirements table above) —
+check with `python3.12 --version`. For Node.js ≥ 18 use your
 distribution's packages or the NodeSource setup for your distro.
 
 ## Verify the install
