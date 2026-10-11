@@ -21,7 +21,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/node-%E2%89%A518-brightgreen.svg" alt="node >= 18">
-  <img src="https://img.shields.io/badge/python-%E2%89%A53.11-blue.svg" alt="python >= 3.11">
+  <img src="https://img.shields.io/badge/python-3.12-blue.svg" alt="python 3.12">
   <img src="https://img.shields.io/badge/platform-Windows%20%7C%20macOS%20%7C%20Linux-lightgrey.svg" alt="platforms">
   <img src="https://img.shields.io/badge/mock%20mode-none-red.svg" alt="no mock mode">
 </p>
@@ -43,7 +43,7 @@
 
 ## 🧠 What is OmniMind AI?
 
-Most "multi-agent" tools are one model talking to itself. OmniMind is built around **structured rivalry**: instead of asking a single model once, it convenes a panel of specialist agents — chosen from a roster of **280+** by measured suitability for your task — and makes them *compete*. A critic attacks every draft. An evaluator scores the survivors. A performance ledger remembers who actually performs.
+Most "multi-agent" tools are one model talking to itself. OmniMind is built around **structured rivalry**: instead of asking a single model once, it convenes a panel of specialist agents — chosen from a roster of **6,668 agents** by measured suitability for your task — and makes them *compete*. A critic attacks every draft. An evaluator scores the survivors. A performance ledger remembers who actually performs.
 
 Everything runs **on your machine**. Your missions, keys and data live in `~/.omnimind/data` — nothing goes anywhere except the model *you* connect.
 
@@ -73,7 +73,7 @@ flowchart LR
 | | |
 |---|---|
 | 🖥️ **Terminal harness + web UI in one install** | Chat-first in the terminal and the browser; the full dashboard lives one click away |
-| 👥 **280+ agent roster** | Strategists, researchers, writers, engineers, critics — ranked per task by live performance data |
+| 👥 **6,668-agent roster** | 280 curated agency specialists + 6,385 from the open subagents library — strategists, researchers, writers, engineers, critics, ranked per task by live performance data |
 | 🎯 **Suitability panels** | Up to 5 best-fit agents per mission; no two task types get the same panel by default |
 | ⚔️ **Critic-verified output** | Every candidate is attacked before it can win |
 | 📦 **Proof Packs** | Exportable evidence trail for any mission |
@@ -82,10 +82,11 @@ flowchart LR
 | 🌍 **Simulation worlds** | Run a mission's strategies through a deterministic model world before committing |
 | 📱 **WhatsApp & Telegram front doors** | Run missions from your phone — see the [channels guide](docs/whatsapp-and-telegram.md) |
 | 🔐 **Budgets & BYOK vault** | Encrypted per-tenant key storage and spend caps |
+| 🛡️ **OmniMind Shield** (v20.2) | Compiled, encrypted payload with a signed integrity manifest — a tampered install refuses to start; per-install local token and an HMAC-signed CLI↔server channel protect the local API |
 
 ## 📦 Install
 
-**Requirements:** Node.js ≥ 18 and Python ≥ 3.11. (On first run, OmniMind checks both and tells you exactly what to install if anything is missing.)
+**Requirements:** Node.js ≥ 18 and **Python 3.12 exactly**. The current release's Shield-protected payload is compiled for Python 3.12, so setup refuses other Python versions (3.11, 3.13, …) with a plain message telling you to install 3.12. (On first run, OmniMind checks both and tells you exactly what to install if anything is missing.)
 
 ```sh
 npm install -g omnimind-ai
