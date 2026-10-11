@@ -42,7 +42,7 @@ Watch the phases:
 
 1. **Planning** — the mission is classified (strategy, research, writing,
    code, plan, Q&A…) and broken into a task graph
-2. **Panel** — up to 5 agents are chosen from the 280+ roster by suitability
+2. **Panel** — up to 5 agents are chosen from the 6,668-agent roster by suitability
    for this task type, weighted by their measured track record
 3. **Researching / Drafting** — the panel drafts competing solutions
 4. **Critic** — every draft is attacked; weak ones are revised or dropped
