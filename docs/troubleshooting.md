@@ -25,17 +25,45 @@ the server log if startup failed for another reason.
 
 ## Python errors on first run
 
-OmniMind needs Python ≥ 3.11 and builds its own environment in
-`~/.omnimind/venv`. If setup reports a missing or old Python, install a
-current one (see [Installation](installation.md)) and run:
+OmniMind's current release needs **Python 3.12 exactly** and builds its
+own environment in `~/.omnimind/venv`. The Shield-protected payload is
+compiled for 3.12, so if your machine offers 3.11, 3.13 or no Python at
+all, setup stops with a message naming the version it found and the one
+it needs. Install 3.12 (Windows: `winget install Python.Python.3.12`;
+macOS: `brew install python@3.12`), **close and reopen your terminal** so
+the new Python is on the path, then run:
 
 ```sh
 omnimind setup
 ```
 
+If an earlier install already failed part-way (for example a Shield
+integrity error), use `omnimind setup --repair` instead — it restores
+the payload from the installed package and rotates the local credentials.
+
 Setup verifies **every** required library imports cleanly in the
 environment and says so; `omnimind doctor` includes a Libraries line if
 you want to re-check later.
+
+## "Shield: the bundled payload failed integrity verification"
+
+That refusal is Shield working as designed — it will not run a bundle
+whose files don't match the signed release manifest. Do not use that
+copy; repair it from the current release instead:
+
+```sh
+npm install -g omnimind-ai@latest
+omnimind setup --repair
+omnimind
+```
+
+Known cause on Windows: releases up to 20.2.0 bundled 88 roster files
+whose names contain characters Windows forbids (colons, a stray control
+character), so those files could never be created on disk and the
+manifest check correctly failed. **Fixed in 20.2.1** — the filenames are
+sanitized and the manifest re-signed. If you still see this error on
+20.2.1 or later, reinstall from npm as above and report the exact error
+text with your version (`omnimind --version`).
 
 ## A mission failed — where's the answer?
 
