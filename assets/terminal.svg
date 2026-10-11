@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="430" viewBox="0 0 880 430">
+  <rect x="1" y="1" width="878" height="428" rx="12" fill="#0d1117" stroke="#30363d" stroke-width="2"/>
+  <rect x="1" y="1" width="878" height="40" rx="12" fill="#161b22"/>
+  <rect x="1" y="28" width="878" height="13" fill="#161b22"/>
+  <circle cx="26" cy="21" r="6" fill="#ff5f57"/>
+  <circle cx="48" cy="21" r="6" fill="#febc2e"/>
+  <circle cx="70" cy="21" r="6" fill="#28c840"/>
+  <text x="440" y="26" text-anchor="middle" font-family="ui-monospace, Menlo, Consolas, monospace" font-size="13" fill="#8b949e">terminal — omnimind</text>
+  <g font-family="ui-monospace, Menlo, Consolas, monospace" font-size="14.5">
+    <text x="24" y="72"><tspan fill="#22d3ee">$ </tspan><tspan fill="#e6edf3">npm install -g omnimind-ai</tspan></text>
+    <text x="24" y="96"><tspan fill="#22d3ee">$ </tspan><tspan fill="#e6edf3">omnimind --help</tspan></text>
+    <text x="24" y="132" fill="#a371f7" font-weight="bold">OMNIMIND AI</text>
+    <text x="150" y="132" fill="#8b949e">· missions run by rival agents — critic-verified, evidence-labelled</text>
+    <text x="24" y="156" fill="#8b949e">terminal harness v20.0.0</text>
+    <text x="24" y="192" fill="#e6edf3">command</text>
+    <text x="330" y="192" fill="#e6edf3">what it does</text>
+    <text x="24" y="212" fill="#30363d">────────────────────────────────────────────────────────────────────────────</text>
+    <text x="24" y="238" fill="#7ee787">omnimind</text>
+    <text x="330" y="238" fill="#c9d1d9">set up (first run), start the server, open the UI, chat</text>
+    <text x="24" y="264" fill="#7ee787">omnimind run &lt;mission…&gt;</text>
+    <text x="330" y="264" fill="#c9d1d9">run one mission and watch it happen</text>
+    <text x="24" y="290" fill="#7ee787">omnimind agents</text>
+    <text x="330" y="290" fill="#c9d1d9">suitability-ranked agents from the 280+ roster</text>
+    <text x="24" y="316" fill="#7ee787">omnimind arena &lt;task…&gt;</text>
+    <text x="330" y="316" fill="#c9d1d9">blind agent duel — you pick the winner</text>
+    <text x="24" y="342" fill="#7ee787">omnimind proof &lt;id&gt;</text>
+    <text x="330" y="342" fill="#c9d1d9">evidence labels + save the proof pack</text>
+    <text x="24" y="368" fill="#7ee787">omnimind doctor</text>
+    <text x="330" y="368" fill="#c9d1d9">styled health checklist</text>
+    <text x="24" y="404"><tspan fill="#22d3ee">omnimind ❯ </tspan><tspan fill="#e6edf3">Compare pricing strategies for a subscription coffee brand</tspan><tspan fill="#a371f7">▊</tspan></text>
+  </g>
+</svg>
