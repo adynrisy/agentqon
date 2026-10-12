@@ -7,13 +7,16 @@ ways to connect one, checked in this order:
 
 ## 1. Bring your own key (BYOK) — web UI
 
-Open the web UI → **Connections** → add an OpenAI-compatible provider
-(base URL, API key, model name). Keys are stored in AgentQon's
-envelope-encrypted vault on your machine — never in plain text, never
-sent anywhere except the provider you named.
+Open the web UI → **Connections** → add a connection. Connections come in
+exactly two kinds: a **local model server** on your own machine (no API
+key), or an **API key (BYOK)** connection to any OpenAI-compatible
+provider or gateway. Either kind can use any address, including one on
+your own machine. Keys are stored in AgentQon's envelope-encrypted vault
+on your machine — never in plain text, never sent anywhere except the
+provider you named.
 
 Best for: hosted models (OpenAI-compatible APIs, gateways, your own
-endpoints) with per-tenant budgets.
+endpoints) and key-backed local servers alike.
 
 ## 2. Environment endpoint
 
