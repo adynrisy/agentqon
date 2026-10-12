@@ -103,7 +103,7 @@ you the evidence trail (the Proof Pack) with the answer.
 
 **Can multiple people use one deployment?**
 Yes — hosted deployments support accounts with owner/admin/member/viewer
-roles and per-tenant isolation of missions, keys and budgets.
+roles and per-tenant isolation of missions, keys and usage.
 
 **Why does the version list on npm show a `0.0.0-stage`?**
 That was the placeholder created by npm's staged-publishing flow during
