@@ -78,7 +78,7 @@ Then let it practise. AgentQon's simulation worlds are seeded from real mission 
 
 What survives is kept. A performance ledger records which agents and strategies actually delivered, long-term memory carries the lessons into the next mission, and suitability rankings shift toward whatever proved itself. Your agent's model weights never change — everything around them does: who gets picked, which strategies survive, what the system remembers. Mission by mission, world by world, it evolves.
 
-**Go deeper:** [Living in simulations](docs/evolve-in-simulations.md) — how the loop works, end to end. Connecting your own agent as a brain (`agentqon brain`) lands in **v21.2.0**.
+**Go deeper:** [Living in simulations](docs/evolve-in-simulations.md) — how the loop works, end to end. Connecting your own agent as a brain (`agentqon brain`) is covered in [Use AgentQon as your agent's brain](docs/brain.md).
 
 ## ✨ Features
 
@@ -161,6 +161,7 @@ Full reference: [Command guide](docs/commands.md).
 | [Getting started](docs/getting-started.md) | Your first mission, end to end — proof packs, arena, schedules, simulation |
 | [Connecting models](docs/connecting-models.md) | BYOK keys, env endpoints, OmniRoute, Ollama — and which to choose |
 | [Commands](docs/commands.md) | The full CLI and in-chat slash-command reference |
+| [AgentQon as a brain](docs/brain.md) | Wire your own external agent to AgentQon with one scoped key and one POST |
 | [WhatsApp & Telegram](docs/whatsapp-and-telegram.md) | Missions from your phone, with the platforms' real limitations stated honestly |
 | [Living in simulations](docs/evolve-in-simulations.md) | Bring your own agent, give it AgentQon as its brain, and let it practise, compete and evolve in simulation worlds |
 | [Troubleshooting & FAQ](docs/troubleshooting.md) | Ports, Python, "model not connected", data locations |
