@@ -92,8 +92,8 @@ Response:
 ```
 
 Every brain call is an ordinary mission under the hood — it shows up
-in `agentqon missions`, carries a proof pack, and is costed against
-the mission budget. Pass a stable `session` id and the exchange is
+in `agentqon missions`, carries a proof pack, and records its usage
+like any mission. Pass a stable `session` id and the exchange is
 written to long-term memory (session scope) and used to ground the
 next call with the same id.
 
