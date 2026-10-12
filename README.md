@@ -43,7 +43,7 @@
 
 ## 🧠 What is AgentQon?
 
-Most "multi-agent" tools are one model talking to itself. AgentQon is built around **structured rivalry**: instead of asking a single model once, it convenes a panel of specialist agents — chosen from a roster of **6,668 agents** by measured suitability for your task — and makes them *compete*. A critic attacks every draft. An evaluator scores the survivors. A performance ledger remembers who actually performs.
+Most "multi-agent" tools are one model talking to itself. AgentQon is built around **structured rivalry**: instead of asking a single model once, it convenes a panel of specialist agents — chosen from a roster of **6,799 agents** by measured suitability for your task — and makes them *compete*. A critic attacks every draft. An evaluator scores the survivors. A performance ledger remembers who actually performs.
 
 Everything runs **on your machine**. Your missions, keys and data live in `~/.agentqon/data` — nothing goes anywhere except the model *you* connect.
 
@@ -73,7 +73,7 @@ flowchart LR
 | | |
 |---|---|
 | 🖥️ **Terminal harness + web UI in one install** | Chat-first in the terminal and the browser; the full dashboard lives one click away |
-| 👥 **6,668-agent roster** | 280 curated agency specialists + 6,385 from the open subagents library — strategists, researchers, writers, engineers, critics, ranked per task by live performance data |
+| 👥 **6,799-agent roster** | 280 curated agency specialists + 6,385 from the open subagents library + 131 use-case specialists — strategists, researchers, writers, engineers, critics, ranked per task by live performance data |
 | 🎯 **Suitability panels** | Up to 5 best-fit agents per mission; no two task types get the same panel by default |
 | ⚔️ **Critic-verified output** | Every candidate is attacked before it can win |
 | 📦 **Proof Packs** | Exportable evidence trail for any mission |
@@ -89,7 +89,7 @@ flowchart LR
 **Requirements:** Node.js ≥ 18 and **Python 3.12 exactly**. The current release's Shield-protected payload is compiled for Python 3.12, so setup refuses other Python versions (3.11, 3.13, …) with a plain message telling you to install 3.12. (On first run, AgentQon checks both and tells you exactly what to install if anything is missing.)
 
 ```sh
-npm install -g agentqon
+npm install -g omnimind-ai
 ```
 
 Then:
