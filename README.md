@@ -93,7 +93,7 @@ What survives is kept. A performance ledger records which agents and strategies 
 | ⏰ **Scheduled missions** | Recurring work that fires on its own |
 | 🌍 **Simulation worlds** | Run a mission's strategies through a deterministic model world before committing |
 | 📱 **WhatsApp & Telegram front doors** | Run missions from your phone — see the [channels guide](docs/whatsapp-and-telegram.md) |
-| 🔐 **Budgets & BYOK vault** | Encrypted per-tenant key storage and spend caps |
+| 🔐 **BYOK vault** | Encrypted per-tenant key storage; two connection kinds — local server or API key |
 | 🛡️ **AgentQon Shield** (v20.2) | Compiled, encrypted payload with a signed integrity manifest — a tampered install refuses to start; per-install local token and an HMAC-signed CLI↔server channel protect the local API |
 
 ## 📦 Install
