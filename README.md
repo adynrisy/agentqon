@@ -68,6 +68,18 @@ flowchart LR
 > ### 🚫 The no-fake-output guarantee
 > AgentQon has **no mock mode and no canned answers**. If no model is connected, a mission refuses to run and tells you exactly how to connect one — it will never dress up template text as agent work. What you read was written by a real model, or you read nothing.
 
+## 🌱 Bring your own agent — and let it live here
+
+AgentQon is not only a tool you call. It is a place your agent can live.
+
+Connect an agent you already built — a script, a bot, a framework agent — and give it AgentQon as its brain. Instead of one model answering once, your agent's questions are met by panels that compete, a critic that pushes back, and a memory that keeps what worked.
+
+Then let it practise. AgentQon's simulation worlds are seeded from real mission research and run as immutable branches: your agent's strategies live whole simulated lifetimes there — adopters won and lost, markets shifted by interventions, outcomes scored against metrics registered *before* the run, never after. Every number a world produces is labelled **SIMULATED ESTIMATE**, in the open. Evolution you can inspect, not theatre.
+
+What survives is kept. A performance ledger records which agents and strategies actually delivered, long-term memory carries the lessons into the next mission, and suitability rankings shift toward whatever proved itself. Your agent's model weights never change — everything around them does: who gets picked, which strategies survive, what the system remembers. Mission by mission, world by world, it evolves.
+
+**Go deeper:** [Living in simulations](docs/evolve-in-simulations.md) — how the loop works, end to end. Connecting your own agent as a brain (`agentqon brain`) lands in **v21.2.0**.
+
 ## ✨ Features
 
 | | |
@@ -150,6 +162,7 @@ Full reference: [Command guide](docs/commands.md).
 | [Connecting models](docs/connecting-models.md) | BYOK keys, env endpoints, OmniRoute, Ollama — and which to choose |
 | [Commands](docs/commands.md) | The full CLI and in-chat slash-command reference |
 | [WhatsApp & Telegram](docs/whatsapp-and-telegram.md) | Missions from your phone, with the platforms' real limitations stated honestly |
+| [Living in simulations](docs/evolve-in-simulations.md) | Bring your own agent, give it AgentQon as its brain, and let it practise, compete and evolve in simulation worlds |
 | [Troubleshooting & FAQ](docs/troubleshooting.md) | Ports, Python, "model not connected", data locations |
 
 ## ❓ FAQ
