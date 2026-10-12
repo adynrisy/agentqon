@@ -18,7 +18,7 @@ and prints exact, per-OS guidance if something is missing.
 ## The npm way (all platforms)
 
 ```sh
-npm install -g agentqon
+npm install -g omnimind-ai
 agentqon
 ```
 
@@ -38,7 +38,7 @@ Your data — missions, connections, encrypted keys — lives in
 Open PowerShell:
 
 ```powershell
-npm install -g agentqon
+npm install -g omnimind-ai
 agentqon
 ```
 
@@ -59,7 +59,7 @@ winget install Python.Python.3.12
 ## macOS
 
 ```sh
-npm install -g agentqon
+npm install -g omnimind-ai
 agentqon
 ```
 
@@ -72,7 +72,7 @@ brew install node python@3.12
 ## Linux
 
 ```sh
-npm install -g agentqon
+npm install -g omnimind-ai
 agentqon
 ```
 
@@ -94,7 +94,7 @@ AgentQon has no mock mode: missions need a real model. See
 ## Updating
 
 ```sh
-npm install -g agentqon@latest
+npm install -g omnimind-ai@latest
 agentqon setup
 ```
 
@@ -104,7 +104,7 @@ directory is untouched by updates.
 ## Uninstalling
 
 ```sh
-npm uninstall -g agentqon
+npm uninstall -g omnimind-ai
 ```
 
 To remove everything including your data, also delete the `~/.agentqon`
