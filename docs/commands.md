@@ -54,6 +54,18 @@ AgentQon deployment instead:
 Your CLI token is stored in `~/.agentqon/config.json` with owner-only
 permissions and is never printed.
 
+## Brain (for your own external agent)
+
+| Command | What it does |
+|---|---|
+| `agentqon brain` | Brain endpoint URL, key status, and copy-paste snippets (curl / Python / Node) |
+| `agentqon brain key [--label NAME]` | Create or rotate the scoped brain key (shown once, saved to your local config) |
+| `agentqon brain revoke` | Revoke the brain key |
+
+The brain key authorises `POST /v1/brain` only — see
+[brain.md](brain.md) for the five-minute integration path and the
+MCP bridge.
+
 ## In the chat REPL
 
 Running plain `agentqon` drops you into the chat. Type any mission in
