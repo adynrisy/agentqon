@@ -52,7 +52,7 @@ whose files don't match the signed release manifest. Do not use that
 copy; repair it from the current release instead:
 
 ```sh
-npm install -g agentqon@latest
+npm install -g omnimind-ai@latest
 agentqon setup --repair
 agentqon
 ```
