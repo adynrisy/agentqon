@@ -150,30 +150,32 @@ A performance ledger remembers which agents actually deliver, so panels get bett
 
 ## 📸 Screenshots
 
-Real screens from the product, unedited — success states only, in four frames.
+The product, in motion — real captures, unedited. Success states only.
 
 <table>
   <tr>
     <td width="50%">
-      <img src="assets/shots/welcome.png" alt="The panel welcome screen — Put it to the panel">
-      <br><strong>The panel, in session</strong> — the seated bench (Drafter, Researcher, Critic, Evaluator), the exhibits, and the chatbox at the bottom of the main screen.
+      <img src="assets/shots/panel.gif" alt="The panel taking a question and answering it — animated capture">
+      <br><strong>The panel, in session</strong> — the seated bench (Drafter, Researcher, Critic, Evaluator) takes a question typed into the chatbox and answers it, live on the main screen.
     </td>
     <td width="50%">
-      <img src="assets/shots/skills.png" alt="The skill library browser">
-      <br><strong>The skill library</strong> — 5,053 skills, searchable, each shown with its source collection and license.
+      <img src="assets/shots/skills.gif" alt="Searching the skill library and pinning a skill — animated capture">
+      <br><strong>The skill library</strong> — 5,053 skills, searchable, each shown with its source collection and license. Watch a search filter the library live, and a skill get pinned.
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <img src="assets/shots/society.png" alt="The society simulation graph">
-      <br><strong>Society simulation</strong> — a simulated room of 100 agents reacts to a finished mission. A SIMULATED ESTIMATE — never a prediction.
+      <img src="assets/shots/society.gif" alt="A society run completing, round by round — animated capture">
+      <br><strong>Society simulation</strong> — a simulated room of 100 agents reacts to a finished mission, round by round, until the run lands. A SIMULATED ESTIMATE — never a prediction.
     </td>
     <td width="50%">
-      <img src="assets/shots/self-test.png" alt="Model self-test results">
-      <br><strong>Model self-test</strong> — one tiny real request per model; each is stamped WORKING or NOT WORKING, with the reason in plain words.
+      <img src="assets/shots/self-test.gif" alt="The model self-test stamping each model working or not working — animated capture">
+      <br><strong>Model self-test</strong> — one tiny real request per model; watch each one get stamped WORKING or NOT WORKING, with the reason in plain words.
     </td>
   </tr>
 </table>
+
+<sub>All four are real captures of the shipped interface, recorded against the scripted test model used for screenshots; everything that moves is AgentQon itself.</sub>
 
 ## ✨ Features in detail
 
