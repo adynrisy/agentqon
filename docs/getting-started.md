@@ -2,6 +2,11 @@
 
 From zero to your first critic-verified mission in about five minutes.
 
+<p align="center">
+  <img src="../assets/shots/welcome.png" alt="The panel welcome screen — Put it to the panel" width="880">
+  <br><sub>The main screen once a model is connected: the seated panel, the exhibits, and the chatbox at the bottom.</sub>
+</p>
+
 ## 1. Install and launch
 
 ```sh
