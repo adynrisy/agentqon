@@ -32,6 +32,17 @@
 | `agentqon stats` | The performance ledger: per-agent records from evaluations and your picks, plus the arena leaderboard |
 | `agentqon arena <task…>` | A blind duel between two agents — you pick the winner |
 
+## Skills
+
+| Command | What it does |
+|---|---|
+| `agentqon skills` | The library at a glance: totals and source collections |
+| `agentqon skills search <words…>` | Search the 5,053-skill library |
+| `agentqon skills show <id>` | Read one skill in full |
+
+Retrieval into chats and missions is automatic — see the
+[skills guide](skills.md).
+
 ## Schedules
 
 | Command | What it does |
