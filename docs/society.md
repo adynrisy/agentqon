@@ -92,7 +92,7 @@ agents never responded — stamped with the model that powered it, the
 room size, and the sizer's reason.
 
 It **does** tell you: how a plausible crowd, built from personas and
-played by your model, pushes on an idea — where it catches, where it
+played by the connected model, pushes on an idea — where it catches, where it
 bounces off, which objection keeps coming back.
 
 It **does not** tell you: how real people will react. It is a
