@@ -1,5 +1,10 @@
 # Troubleshooting & FAQ
 
+<p align="center">
+  <img src="../assets/shots/errors.png" alt="An AgentQon error shown in plain words, with a Try again" width="880">
+  <br><sub>What an AgentQon error looks like: plain words, what to do next, and a way back — never a code or a stack trace.</sub>
+</p>
+
 ## "Model not connected"
 
 The most common first-run state — and a deliberate one. AgentQon has no
