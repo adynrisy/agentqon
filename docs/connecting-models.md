@@ -1,78 +1,80 @@
 # Connecting models
 
-AgentQon has **no built-in model and no mock mode**. A mission runs on a
-model you connect — and if none is connected, the mission refuses with a
-`model_not_connected` message instead of inventing output. There are four
-ways to connect one, checked in this order:
+AgentQon has **no built-in model and no mock mode**. Work runs on a
+model you connect — and if none is connected, work refuses with a
+plain "no model connected" message instead of inventing output.
 
-## 1. Bring your own key (BYOK) — web UI
+There are exactly **two kinds of connection**. That is the whole
+design, on purpose:
 
-Open the web UI → **Connections** → add a connection. Connections come in
-exactly two kinds: a **local model server** on your own machine (no API
-key), or an **API key (BYOK)** connection to any OpenAI-compatible
-provider or gateway. Either kind can use any address, including one on
-your own machine. Keys are stored in AgentQon's envelope-encrypted vault
-on your machine — never in plain text, never sent anywhere except the
+## Kind 1 — A local model server
+
+A model running on your own machine. No API key, no account, and with
+a fully local server, nothing leaves your computer at all.
+
+AgentQon **auto-detects** the common local servers on its first run —
+Ollama (port 11434), LM Studio (1234), llama.cpp (8080), and local
+router apps (20128) — and says so on the connect screen. If yours is
+already running when you first launch, you may find the model
+connected before you've done anything.
+
+To add one by hand: **Connections → Add**, choose *Local model
+server*, give its address (for example `http://127.0.0.1:11434`).
+
+Best for: free everyday work, privacy, offline use.
+
+## Kind 2 — An API key (BYOK)
+
+Any hosted provider or gateway that speaks the OpenAI-style API. Paste
+your key once; it is stored in AgentQon's **envelope-encrypted vault**
+on your machine — never in plain text, and sent nowhere except the
 provider you named.
 
-Best for: hosted models (OpenAI-compatible APIs, gateways, your own
-endpoints) and key-backed local servers alike.
+To add one: **Connections → Add**, choose *API key*, name the
+provider's address, paste the key, and sync — the connection's models
+appear in the catalog, ready to seat.
 
-## 2. Environment endpoint
+Best for: the strongest hosted models. Your provider bills you at
+their rates; AgentQon charges nothing and adds nothing.
 
-Set three variables before starting AgentQon:
-
-```sh
-export AGENTQON_LLM_BASE_URL="https://your-endpoint.example/v1"
-export AGENTQON_LLM_API_KEY="…"
-export AGENTQON_LLM_MODEL="your-model-name"
-agentqon start
-```
-
-On Windows (PowerShell): `$env:AGENTQON_LLM_BASE_URL = "…"`, and so on.
-
-Best for: servers, containers, and scripted setups.
-
-## 3. OmniRoute sidecar
-
-If an OmniRoute sidecar is
-running on port **20128**, AgentQon detects and uses it automatically.
-That routes missions through OmniRoute's own provider pool and pricing.
-
-Best for: existing OmniRoute users.
-
-## 4. Ollama (fully local)
-
-Install [Ollama](https://ollama.com), pull any chat model, and AgentQon
-detects it on port **11434** automatically:
-
-```sh
-ollama pull qwen2.5
-agentqon doctor     # "model: <name> (ollama)" when detected
-```
-
-No key, no account, no data leaves your machine. Detection is a live
-probe: a configured-but-unreachable endpoint counts as **not connected** —
-AgentQon will never silently pretend a dead endpoint answered.
+<p align="center">
+  <img src="../assets/shots/connect.png" alt="The first-run connect screen — the full connection form on the main screen" width="880">
+  <br><sub>First run ever: the connect screen is the landing page. Once you have connected once, you land on the panel instead — a saved connection that is down shows as "Not connected" on the panel, never as a fresh start.</sub>
+</p>
 
 ## Which should I choose?
 
-| Route | Cost | Privacy | Setup |
-|---|---|---|---|
-| BYOK key | Provider pricing | Prompts go to your provider | 2 minutes in the UI |
-| Env endpoint | Provider pricing | Same as BYOK | 3 variables |
-| OmniRoute | OmniRoute pricing | Via your OmniRoute pool | Already running? Nothing |
-| Ollama | Free | Fully local | Install + one `pull` |
+| | Local server | API key (BYOK) |
+|---|---|---|
+| Cost | Free | Your provider's rates |
+| Privacy | Nothing leaves your machine | Prompts go to your provider |
+| Strength | Bounded by your hardware | The best hosted models |
+| Setup | Install a local server once | Paste a key |
+
+Most people end up with one of each: local for everyday work, a key
+for the missions that deserve a stronger model. Connections can be
+switched per mission — or left on **Auto**, and pinned per chat when
+it matters.
+
+## For scripts and servers
+
+The same two kinds can be declared by environment before starting
+AgentQon — base URL, key, and model name — which is how containers
+and hosted (accounts-mode) deployments are wired. The kinds do not
+change; only who fills the form in.
 
 ## Checking the connection
 
-- Web UI status chip: green `model: <name>` or amber **No model connected**
-- Terminal: `agentqon doctor` or `agentqon status`
-- Server: `GET /health` reports `model: { connected, name, source }`
+- **Web UI:** the sidebar shows the seated model and its state —
+  Connected, or Not connected, in plain words.
+- **Terminal:** `agentqon doctor` or `agentqon status`.
+- **Proof, not claims:** run the [model self-test](model-self-test.md).
+  A configured-but-unreachable endpoint counts as **not connected** —
+  AgentQon will never pretend a dead endpoint answered.
 
 ## If a model call fails
 
-A connected model whose call fails makes the mission fail **loudly** —
-you'll see the failure and its reason, never a silently substituted
-template answer. Check the endpoint, the key, and the model name, then
-re-run.
+A connected model whose call fails makes the work fail **loudly** —
+you see the failure and its reason in plain words, never a silently
+substituted template answer. Check the address, the key, and the
+model name; run the self-test; then re-run.
