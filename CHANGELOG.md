@@ -3,28 +3,90 @@
 The honest version story. Full notes for each release live on the
 [releases page](https://github.com/adynrisy/agentqon/releases).
 
-## Incoming — in staging now
+## v22.4.0 — staged, rolling out on approval
 
-The next release, described in full on the [README](README.md):
+- **The world shows its work** — society runs now report live
+  progress *inside* a round (round 1 of 5 · 4 of 6 calls answered ·
+  still working) on the mission panel and the Simulations page,
+  instead of showing nothing until a whole round finished.
+- **Honest time estimates** — a run's pace is measured from your own
+  finished runs first, then from the model self-test's timing; with
+  no evidence at all, the panel says the time is unknown — it depends
+  on your model's speed — instead of printing a confident guess.
+- **Interruptions keep what they earned** — answers from a partial
+  round stay on the record, and the interrupted note says how far
+  the run got.
+
+## v22.3.0 — staged, rolling out on approval
+
+- **Stop mission** — a running mission can be stopped from its chat
+  card or its detail page; work already done stays on record.
+- **Every feature its own page** — the sidebar is Chat · Missions ·
+  Agents · Simulations · Skills · Advanced; missions, agents, skills
+  and simulations each live on their own page, and connections live
+  only in Advanced (no sidebar entry).
+- **Retry visibility** — when a model call fails mid-mission, the
+  card says "Your model isn't answering — retrying" instead of
+  sitting at "Starting…".
+- **Plain-first simulation output** — the story leads; the outcome
+  hash and the technical record sit behind a "Full record" fold,
+  with the SIMULATED ESTIMATE label as prominent as ever.
+- **Custom headers + the AgentRouter preset** — connections can
+  carry their own headers (validated, stored encrypted, shown only
+  masked), including the Claude Code identity headers AgentRouter
+  demands; its preset fills address and headers in one pick.
+- **Provider presets** — 115 providers drawn from OmniRoute's
+  registry: pick the name, the exact address fills in, still
+  editable; Custom remains for anything else. 17 registry entries
+  are not offered — web chat pages, CLI tools and OAuth doors are
+  not API endpoints — each with its reason recorded.
+- **Model combos** — named chains of models across connections,
+  with glob-pattern mappings and a live-scored auto-combo.
+  Failover in missions and chat: a call moves to the next model on
+  provider or quota failures — never when the request itself is
+  wrong — and every move is recorded in the mission's minutes.
+  Twelve routing strategies are fully real; seven are deferred,
+  named in the product with their reasons, and refused by the
+  editor rather than faked.
+
+## v22.2.0 — staged, rolling out on approval
+
+- **The Extended Library** — the 213 security-research skills cut
+  from the npm package in v22.1.3 return as one optional download:
+  a single tarball signed with Ed25519 and verified before anything
+  installs, offered once at setup with the default answer No, and
+  any time with `agentqon skills extended`. It lands only in
+  `~/.agentqon/extended-library` and removes cleanly. Counts are
+  reported both ways everywhere: **4,840 skills in the box · 5,053
+  with the Extended Library**.
+
+## v22.1.3 — live on npm
 
 - **The Verdict Room** — a ground-up interface identity: carbon and
   bone, verdict-lime spent like highlighter ink, findings stamped and
   facts tagged. The chatbox lives on the main (panel) screen only;
   the first-run connect screen is a proper landing page that shows
   exactly once ever.
-- **The skill library** — 5,053 skills with automatic retrieval into
-  chats and missions, a Skills browser, and `agentqon skills`.
+- **The skill library** — automatic retrieval into chats and
+  missions, a Skills browser, and `agentqon skills`.
 - **Model self-test** — one click stamps every model on every
   connection WORKING or NOT WORKING, with plain-word reasons.
 - **Society simulation** — an optional simulated room of 100 agents
   reacting to a finished mission, drawn as a 2D network graph and
   labelled a simulated estimate, never a prediction.
-- **AgentQon's own roster and library** — all 6,799 agents and 5,053
-  skills carry AgentQon's own names, IDs included; existing installs
-  keep their pins, history and settings.
+- **AgentQon's own roster and library** — all 6,799 agents and the
+  whole library carry AgentQon's own names, IDs included; existing
+  installs keep their pins, history and settings.
+- **The exclusion cut** — npm's automated review blocked 22.1.0,
+  22.1.1 and 22.1.2 with no reason given. A file-by-file diff traced
+  the block to one cluster of offensive-security documentation
+  inside the library; v22.1.3 removes exactly that cluster — **213
+  skills cut, 4,840 shipped**, agents untouched at 6,799 — and npm
+  let it through. The cut skills are not gone: they return in
+  v22.2.0 as the optional Extended Library.
 - **A full-harness audit and repair pass** — five audit axes,
   everything found fixed and re-proven on a frozen tree before this
-  release ships.
+  release shipped.
 
 ## v22.0.0 — live on npm
 
