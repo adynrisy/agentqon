@@ -5,30 +5,36 @@ From zero to your first critic-verified mission in about five minutes.
 ## 1. Install and launch
 
 ```sh
-npm install -g omnimind-ai
+npm install -g agentqon
 agentqon
 ```
 
 The first run sets up the platform, starts the local server and opens the
-web UI at http://127.0.0.1:8000. You land in a chat — that's deliberate.
-AgentQon is chat-first; the full dashboard lives behind the ⚙ **Advanced**
-button when you want it.
+web UI at http://127.0.0.1:8000. AgentQon is chat-first; the full dashboard
+lives behind the ⚙ **Advanced** button when you want it.
 
 ## 2. Connect a model (one-time)
 
 AgentQon never fakes output: missions run on a model **you** connect.
+The first time you ever launch, the connect screen *is* the first screen —
+the full connection form, on the main screen, nothing to hunt for.
 
-The easiest local option is [Ollama](https://ollama.com): install it, pull a
-model, and AgentQon detects it automatically — no configuration at all.
+There are exactly two kinds of connection:
 
-```sh
-ollama pull qwen2.5
-```
+- **A local model server** — [Ollama](https://ollama.com), LM Studio and
+  friends are detected automatically; no key, no account, nothing leaves
+  your machine.
 
-Or add a provider key in the UI (**Connections** panel), or point AgentQon
-at an OpenAI-compatible endpoint. All four routes are covered in
-[Connecting models](connecting-models.md). The status chip in the UI (and
-`agentqon doctor`) tells you at a glance whether a model is connected.
+  ```sh
+  ollama pull qwen2.5
+  ```
+
+- **An API key (BYOK)** — paste a provider key in the **Connections**
+  panel; it lands in an encrypted vault on your machine.
+
+Full guide: [Connecting models](connecting-models.md). The sidebar (and
+`agentqon doctor`) tells you at a glance whether a model is connected —
+and the [model self-test](model-self-test.md) proves it actually answers.
 
 ## 3. Run your first mission
 
@@ -94,8 +100,19 @@ deterministic model world, so you can compare outcomes before committing.
 Simulated numbers are always labelled **SIMULATED ESTIMATE** — AgentQon
 never lets a projection masquerade as research.
 
+## 8. Go further, when you're ready
+
+- **Let an agent use tools** — [Agent sessions](agent-sessions.md):
+  files, commands and the web, inside a workspace, under your approval.
+- **Seat the room** — [Society simulation](society.md): a simulated
+  crowd reacts to a finished mission. A simulated estimate, never a
+  prediction.
+- **Browse the know-how** — [Skills](skills.md): 5,053 skills the
+  harness pulls into your work automatically.
+
 ## Next steps
 
-- [Connecting models](connecting-models.md) — BYOK, endpoints, OmniRoute, Ollama
+- [Your first mission](first-mission.md) — the walkthrough version of step 3
+- [Connecting models](connecting-models.md) — the two connection kinds, in full
 - [Commands](commands.md) — the full CLI reference
 - [WhatsApp & Telegram](whatsapp-and-telegram.md) — missions from your phone
