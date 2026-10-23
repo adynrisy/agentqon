@@ -37,8 +37,9 @@
 | Command | What it does |
 |---|---|
 | `agentqon skills` | The library at a glance: totals and source collections |
-| `agentqon skills search <words…>` | Search the 5,053-skill library |
+| `agentqon skills search <words…>` | Search the skill library (4,840 in the box; 5,053 with the Extended Library) |
 | `agentqon skills show <id>` | Read one skill in full |
+| `agentqon skills extended [--install\|--remove]` | The Extended Library pack: its status, or install/remove the optional signed download |
 
 Retrieval into chats and missions is automatic — see the
 [skills guide](skills.md).
