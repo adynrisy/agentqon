@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="400" viewBox="0 0 1280 400" role="img" aria-label="The exhibits: 6,799 specialist agents, 5,053 skills, a 100-agent society room, 1,055 tests at the final gate with zero failures.">
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="400" viewBox="0 0 1280 400" role="img" aria-label="The exhibits: 6,799 specialist agents, 4,840 skills in the box — 5,053 with the Extended Library, a 100-agent society room, 1,055 tests at the final gate with zero failures.">
   <title>The exhibits — AgentQon's hard numbers</title>
   <rect x="1" y="1" width="1278" height="398" rx="18" fill="#070907" stroke="#232a23" stroke-width="2"/>
   <g font-family="'Public Sans','Segoe UI',Arial,sans-serif">
@@ -23,12 +23,12 @@
     </g>
     <g opacity="0">
       <animate attributeName="opacity" from="0" to="1" dur="0.6s" begin="0.45s" fill="freeze"/><animate attributeName="opacity" values="1;0.86;1" keyTimes="0;0.5;1" begin="3.7s" dur="6s" repeatCount="indefinite"/>
-      <text x="372" y="216" font-size="62" font-weight="800" fill="#e9ead9">5,053</text>
+      <text x="372" y="216" font-size="62" font-weight="800" fill="#e9ead9">4,840</text>
       <rect x="374" y="238" width="0" height="5" fill="#c8ff3d">
         <animate attributeName="width" from="0" to="170" dur="0.9s" begin="0.55s" fill="freeze"/><animate attributeName="width" values="170;146;170" keyTimes="0;0.5;1" begin="2.2s" dur="5s" repeatCount="indefinite"/>
       </rect>
       <text x="372" y="282" font-size="17.5" fill="#a9b3a4">skills in the library</text>
-      <text x="372" y="308" font-family="'IBM Plex Mono',Consolas,monospace" font-size="13" fill="#6f7a6c">4,585 unique — searched, not dumped</text>
+      <text x="372" y="308" font-family="'IBM Plex Mono',Consolas,monospace" font-size="13" fill="#6f7a6c">5,053 with the free Extended Library</text>
     </g>
     <g opacity="0">
       <animate attributeName="opacity" from="0" to="1" dur="0.6s" begin="0.65s" fill="freeze"/><animate attributeName="opacity" values="1;0.86;1" keyTimes="0;0.5;1" begin="5.2s" dur="6s" repeatCount="indefinite"/>
