@@ -35,6 +35,11 @@
 </p>
 
 <p align="center">
+  <code><strong>&nbsp;npm install -g agentqon&nbsp;</strong></code>
+  <br><sub>One command installs it — then just run <code>agentqon</code>. Free forever. No account, no signup.</sub>
+</p>
+
+<p align="center">
   <a href="#-install">Install</a> ·
   <a href="#-see-it-work">See it work</a> ·
   <a href="#-what-is-agentqon">What it is</a> ·
@@ -62,10 +67,11 @@
 - [Quick start](#-quick-start)
 - [Commands](#-commands)
 - [Guides and tutorials](#-guides-and-tutorials)
-- [Honest limits](#-honest-limits)
 - [FAQ](#-faq)
 - [Roadmap](#-roadmap)
 - [Support and contact](#-support-and-contact)
+- [Honest limits](#-honest-limits)
+- [Put it to the panel.](#-put-it-to-the-panel)
 
 ---
 
@@ -77,11 +83,11 @@ AgentQon is **free — no paid tier, no trial clock, no catch.** **Bring your ow
 
 ## 🎬 See it work
 
-This is the society room, replaying itself: after a mission lands, a simulated room of 100 agents reacts to the result over three rounds. Press play in the product and the room replays — watch the split move as agents soften, harden, and settle.
+The whole story, drawn in one loop: you state a mission, the panel plans it and works it — drafts checked, verdict stamped, Proof Pack attached — and then the finished work meets the society room, where a hundred simulated agents react to it in waves.
 
 <p align="center">
-  <img src="assets/demo-society.gif" alt="The society graph playing its rounds — the split moves as the room reacts" width="880">
-  <br><sub>A real capture of the shipped interface. The room's words in this capture came from the scripted test model used for screenshots; everything that moves is AgentQon itself. A SIMULATED ESTIMATE — never a prediction.</sub>
+  <img src="assets/feat-journey.svg" alt="Drawn animation: a job card arrives, the panel works it and stamps the verdict with a Proof Pack, then a ring of simulated agents reacts to the finished work" width="880">
+  <br><sub>A drawn explainer of a mission's full journey — panel first, Proof Pack second, the room last. A SIMULATED ESTIMATE — never a prediction.</sub>
 </p>
 
 ### The exhibits
@@ -114,11 +120,6 @@ Everything runs **on your machine**. Your missions, keys and data live in `~/.ag
 | **Skill library** | 5,053 skills, retrieved automatically for each task |
 | **Also inside** | Tool-using agent sessions · model self-test · society simulation · arena · scheduled missions · WhatsApp & Telegram |
 | **Your data** | Stays in `~/.agentqon/data`; keys in an envelope-encrypted vault |
-
-<p align="center">
-  <img src="assets/shots/welcome.png" alt="The AgentQon panel — Put it to the panel" width="880">
-  <br><sub>The panel screen. The chatbox lives here, at the bottom of the main screen — nowhere else.</sub>
-</p>
 
 ## 🤔 Why a panel, not one chatbot?
 
@@ -181,7 +182,7 @@ The features, drawn in motion — how each one works, in the product's own visua
   </tr>
 </table>
 
-<sub>These five are drawn explainers — illustrations of how each feature works, not screenshots or recordings. The one real capture on this page is the society run under "See it work", above.</sub>
+<sub>Every visual on this page is drawn — illustrations of how each feature works, not screenshots or recordings.</sub>
 
 ## ✨ Features in detail
 
@@ -204,16 +205,16 @@ Skills are packaged know-how: procedures, checklists, and methods an agent can f
 A model can be listed by a provider and still not answer. The self-test sends one tiny real request to every model on every connection and stamps each one **WORKING** or **NOT WORKING**, with the reason in plain words — wrong key, model gone, rate limit, timeout. One click: **Test all**. Guide: [Model self-test](docs/model-self-test.md).
 
 <p align="center">
-  <img src="assets/shots/self-test.png" alt="Model self-test results — working and not working, in plain words" width="880">
-  <br><sub>The self-test. A model the catalog listed as fine was caught not answering — listing is not answering.</sub>
+  <img src="assets/feat-selftest.svg" alt="Drawn animation: a probe sweeps down the model rows, stamping each model working or not working" width="880">
+  <br><sub>Model self-test, drawn in motion — every model stamped before it is trusted with a job. A model the catalog listed as fine was caught not answering: listing is not answering.</sub>
 </p>
 
 ### 🌐 Society simulation — watch a room react
 After a mission finishes, you can optionally seat a **simulated room of 100 agents** — leads who think individually and crowd tables that react together — and watch them respond to the result over several rounds: who supports it, who pushes back, how the split moves. The result is a 2D network graph of the room with every agent's actual lines one click away. It is always labelled what it is: a **SIMULATED ESTIMATE — never a prediction**. Opt-in only, never automatic; the harness sizes the room to your task and tells you the cost before anything runs. Guide: [Society simulation](docs/society.md).
 
 <p align="center">
-  <img src="assets/shots/society.png" alt="The society graph — the mission at the centre, the room's stance as coloured nodes" width="880">
-  <br><sub>The room, settled: the mission at the centre, every dot an agent, coloured by its stance in the round you are viewing.</sub>
+  <img src="assets/feat-society.svg" alt="Drawn animation: a finished mission lands in the middle of a ring of simulated agents, who light up in waves as stances form" width="880">
+  <br><sub>Society simulation, drawn in motion — the finished work lands mid-room and the room settles into stances around it. A SIMULATED ESTIMATE — never a prediction.</sub>
 </p>
 
 ### And the rest of the bench
@@ -328,37 +329,30 @@ Start with the **[docs index](docs/README.md)** — every guide, in the order yo
 
 </details>
 
-## ⚖️ Honest limits
-
-- **A local install cannot be made literally untouchable by its own machine's owner.** Shield guarantees package integrity, encrypted data at rest, and resistance to outside attackers — it cannot, and does not claim to, stop the person whose computer it is.
-- **Your results are bounded by the connected model.** AgentQon's panel, critic and checks organise a model's work; they cannot give a small model a big model's judgement. Free local models are a fine start; demanding missions reward a stronger model.
-- **Simulated numbers are estimates, never predictions** — in simulation worlds and in the society room alike. They are labelled that way on every surface that shows them.
-- **The interface is English.** The work itself is not: the connected model answers in whatever language it speaks, so missions and chats run in your language today — only the buttons and labels are English.
-
 ## ❓ FAQ
 
 <details>
-<summary><strong>Is AgentQon really free?</strong></summary>
+<summary><strong>Is it really free?</strong></summary>
 <br>
-Yes — the software is MIT-licensed and free, with no paid tier. Bring your own key (BYOK): a free local model costs nothing; a hosted provider charges its own rates, and AgentQon shows every run's cost as a footnote.
+Yes — MIT-licensed, no paid tier, no trial clock, nothing to unlock. The only money that can ever move is between you and a model provider you choose — and with a free local model, even that is zero. AgentQon shows every run's model cost as a footnote.
 </details>
 
 <details>
-<summary><strong>Does my data leave my machine?</strong></summary>
+<summary><strong>Do I need an account?</strong></summary>
 <br>
-Only to your connected model. With a local model, nothing leaves at all. Missions, keys and settings live in <code>~/.agentqon/data</code>, with keys in an envelope-encrypted vault.
+No. There is no AgentQon account, no signup, no activation step. Install it, connect a model, and work — your data lives on your machine, in <code>~/.agentqon/data</code>.
 </details>
 
 <details>
-<summary><strong>How is this different from a chatbot wrapper?</strong></summary>
+<summary><strong>Which models can I use — do I have to pay for one?</strong></summary>
 <br>
-A wrapper gives you one model's first draft. AgentQon runs a suitability-picked panel of specialists, attacks their drafts with a critic, scores the survivors, tracks every agent's record — and hands you the evidence trail with the answer.
+No payment needed. Two connection kinds, and only two: a <strong>free local model</strong> on your own computer (localhost — Ollama, LM Studio, llama.cpp), which costs nothing to run; or <strong>BYOK</strong> — an API key from a provider you already have, billed by that provider at their rates. Full guide: <a href="docs/connecting-models.md">Connecting models</a>.
 </details>
 
 <details>
-<summary><strong>Which language does it work in?</strong></summary>
+<summary><strong>Does my work leave my computer?</strong></summary>
 <br>
-The interface is English-only. The work is any-language: chat and run missions in whatever language the connected model speaks.
+Only to the model you connect — and with a local model, nothing leaves at all. There is no AgentQon cloud in the middle: missions, keys and settings stay in <code>~/.agentqon/data</code>, with keys in an envelope-encrypted vault.
 </details>
 
 More answers in [Troubleshooting & FAQ](docs/troubleshooting.md).
@@ -378,6 +372,32 @@ Kept deliberately short and honest: the local product is the product. Later, a h
 ## About this repository
 
 This repository is AgentQon's public home — product documentation, guides and release notes. AgentQon itself is distributed as the [`agentqon` npm package](https://www.npmjs.com/package/agentqon); the one-line install above is all you need.
+
+## ⚖️ Honest limits
+
+- **A local install cannot be made literally untouchable by its own machine's owner.** Shield guarantees package integrity, encrypted data at rest, and resistance to outside attackers — it cannot, and does not claim to, stop the person whose computer it is.
+- **Your results are bounded by the connected model.** AgentQon's panel, critic and checks organise a model's work; they cannot give a small model a big model's judgement. Free local models are a fine start; demanding missions reward a stronger model.
+- **Simulated numbers are estimates, never predictions** — in simulation worlds and in the society room alike. They are labelled that way on every surface that shows them.
+- **The interface is English.** The work itself is not: the connected model answers in whatever language it speaks, so missions and chats run in your language today — only the buttons and labels are English.
+
+## 🏁 Put it to the panel.
+
+One command between you and a panel that plans, checks its own work, and finishes the job:
+
+```sh
+npm install -g agentqon
+agentqon
+```
+
+Free on localhost · your own API key (BYOK) · completely free · no account, no signup · one-command install · private by design · no per-seat pricing.
+
+npm:
+https://www.npmjs.com/package/agentqon
+
+GitHub:
+https://github.com/adynrisy/agentqon
+
+New here? [Getting started](docs/getting-started.md) takes you to your first mission in about five minutes.
 
 ## License
 
