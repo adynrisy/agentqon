@@ -68,8 +68,8 @@ The answer arrives as more than text:
   behind them, so you can tell a supported claim from a bare opinion.
 - **What the critic found** — the weaknesses that were caught, and in
   drafts that lost, the weaknesses that beat them.
-- **The cost footnote** — what the run spent on your model, recorded
-  as plain accounting.
+- **The cost footnote** — what the run spent on the connected model,
+  recorded as plain accounting.
 
 ## Step 4 — Save the Proof Pack
 
