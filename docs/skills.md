@@ -9,8 +9,8 @@ go and fetch them**: the harness retrieves them for each task on its
 own.
 
 <p align="center">
-  <img src="../assets/shots/skills.png" alt="The Skills browser in the web UI" width="880">
-  <br><sub>The Skills browser — totals, source collections, and search, one click from the main screen.</sub>
+  <img src="../assets/feat-skills.svg" alt="Drawn animation: a query beam sweeps a grid of skill cards, three light up and fly to the panel bench" width="880">
+  <br><sub>The skill library, drawn in motion — a query sweeps the shelves and the fitting skills fly to the bench. In the product, the Skills browser shows the same library with totals, source collections, and search.</sub>
 </p>
 
 ## How retrieval works
@@ -43,7 +43,7 @@ pinning promotes, it does not force irrelevant material into a run.
 
 ## Browsing the library
 
-- **Web UI:** the Skills browser (screenshot above) — search, filter
+- **Web UI:** the Skills browser (drawn above) — search, filter
   by collection, read any skill in full, pin it.
 - **Terminal:** `agentqon skills` — counts, collections, search, and
   full text of any skill by its id.
