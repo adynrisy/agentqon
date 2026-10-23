@@ -7,43 +7,43 @@
     <rect x="88" y="46" width="10" height="26" fill="#e9ead9"/>
     <text x="118" y="66" font-size="27" font-weight="800" letter-spacing="5" fill="#e9ead9">THE EXHIBITS</text>
     <rect x="118" y="80" width="0" height="3" fill="#c8ff3d">
-      <animate attributeName="width" from="0" to="300" dur="0.9s" begin="0.15s" fill="freeze"/>
+      <animate attributeName="width" from="0" to="300" dur="0.9s" begin="0.15s" fill="freeze"/><animate attributeName="width" values="300;262;300" keyTimes="0;0.5;1" begin="1.3s" dur="5.5s" repeatCount="indefinite"/>
     </rect>
     <text x="56" y="118" font-family="'IBM Plex Mono',Consolas,monospace" font-size="14.5" fill="#8b968a">Counted from the shipping build and the final audit gate — not marketing numbers.</text>
   </g>
   <g font-family="'Public Sans','Segoe UI',Arial,sans-serif">
     <g opacity="0">
-      <animate attributeName="opacity" from="0" to="1" dur="0.6s" begin="0.25s" fill="freeze"/>
+      <animate attributeName="opacity" from="0" to="1" dur="0.6s" begin="0.25s" fill="freeze"/><animate attributeName="opacity" values="1;0.86;1" keyTimes="0;0.5;1" begin="2.2s" dur="6s" repeatCount="indefinite"/>
       <text x="56" y="216" font-size="62" font-weight="800" fill="#e9ead9">6,799</text>
       <rect x="58" y="238" width="0" height="5" fill="#c8ff3d">
-        <animate attributeName="width" from="0" to="170" dur="0.9s" begin="0.35s" fill="freeze"/>
+        <animate attributeName="width" from="0" to="170" dur="0.9s" begin="0.35s" fill="freeze"/><animate attributeName="width" values="170;146;170" keyTimes="0;0.5;1" begin="1.7s" dur="5s" repeatCount="indefinite"/>
       </rect>
       <text x="56" y="282" font-size="17.5" fill="#a9b3a4">specialist agents on the roster</text>
       <text x="56" y="308" font-family="'IBM Plex Mono',Consolas,monospace" font-size="13" fill="#6f7a6c">seated by fit for each mission</text>
     </g>
     <g opacity="0">
-      <animate attributeName="opacity" from="0" to="1" dur="0.6s" begin="0.45s" fill="freeze"/>
+      <animate attributeName="opacity" from="0" to="1" dur="0.6s" begin="0.45s" fill="freeze"/><animate attributeName="opacity" values="1;0.86;1" keyTimes="0;0.5;1" begin="3.7s" dur="6s" repeatCount="indefinite"/>
       <text x="372" y="216" font-size="62" font-weight="800" fill="#e9ead9">5,053</text>
       <rect x="374" y="238" width="0" height="5" fill="#c8ff3d">
-        <animate attributeName="width" from="0" to="170" dur="0.9s" begin="0.55s" fill="freeze"/>
+        <animate attributeName="width" from="0" to="170" dur="0.9s" begin="0.55s" fill="freeze"/><animate attributeName="width" values="170;146;170" keyTimes="0;0.5;1" begin="2.2s" dur="5s" repeatCount="indefinite"/>
       </rect>
       <text x="372" y="282" font-size="17.5" fill="#a9b3a4">skills in the library</text>
       <text x="372" y="308" font-family="'IBM Plex Mono',Consolas,monospace" font-size="13" fill="#6f7a6c">4,585 unique — searched, not dumped</text>
     </g>
     <g opacity="0">
-      <animate attributeName="opacity" from="0" to="1" dur="0.6s" begin="0.65s" fill="freeze"/>
+      <animate attributeName="opacity" from="0" to="1" dur="0.6s" begin="0.65s" fill="freeze"/><animate attributeName="opacity" values="1;0.86;1" keyTimes="0;0.5;1" begin="5.2s" dur="6s" repeatCount="indefinite"/>
       <text x="688" y="216" font-size="62" font-weight="800" fill="#e9ead9">100</text>
       <rect x="690" y="238" width="0" height="5" fill="#c8ff3d">
-        <animate attributeName="width" from="0" to="170" dur="0.9s" begin="0.75s" fill="freeze"/>
+        <animate attributeName="width" from="0" to="170" dur="0.9s" begin="0.75s" fill="freeze"/><animate attributeName="width" values="170;146;170" keyTimes="0;0.5;1" begin="2.7s" dur="5s" repeatCount="indefinite"/>
       </rect>
       <text x="688" y="282" font-size="17.5" fill="#a9b3a4">agents in one society room</text>
       <text x="688" y="308" font-family="'IBM Plex Mono',Consolas,monospace" font-size="13" fill="#6f7a6c">a simulated crowd — never a prediction</text>
     </g>
     <g opacity="0">
-      <animate attributeName="opacity" from="0" to="1" dur="0.6s" begin="0.85s" fill="freeze"/>
+      <animate attributeName="opacity" from="0" to="1" dur="0.6s" begin="0.85s" fill="freeze"/><animate attributeName="opacity" values="1;0.86;1" keyTimes="0;0.5;1" begin="6.7s" dur="6s" repeatCount="indefinite"/>
       <text x="1004" y="216" font-size="62" font-weight="800" fill="#e9ead9">1,055</text>
       <rect x="1006" y="238" width="0" height="5" fill="#c8ff3d">
-        <animate attributeName="width" from="0" to="170" dur="0.9s" begin="0.95s" fill="freeze"/>
+        <animate attributeName="width" from="0" to="170" dur="0.9s" begin="0.95s" fill="freeze"/><animate attributeName="width" values="170;146;170" keyTimes="0;0.5;1" begin="3.2s" dur="5s" repeatCount="indefinite"/>
       </rect>
       <text x="1004" y="282" font-size="17.5" fill="#a9b3a4">tests at the final gate</text>
       <text x="1004" y="308" font-family="'IBM Plex Mono',Consolas,monospace" font-size="13" fill="#6f7a6c">zero failures</text>
