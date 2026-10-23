@@ -65,6 +65,33 @@ throttled models get smaller rooms, and the sizer says why.
   respond**. The run completes around the gaps and reports them; a
   room is never silently padded with invented reactions.
 
+## Watching a run — live progress and honest time
+
+A round can take minutes on a small local model, so a run **shows
+its work while it works** (v22.4.0):
+
+- **Progress lands call by call.** The run's record is updated as
+  each call completes — the current round, how many of its calls
+  have answered, how many agents have responded. The mission panel
+  and the Simulations page's World runs list show the same live
+  line: *round 1 of 5 · 4 of 6 calls answered · still working*.
+  Before this, nothing was visible until a whole round finished,
+  and a healthy run could look dead for twenty minutes.
+- **The time estimate names its evidence.** The sizer's pace comes
+  from your own finished runs on that model first, then from the
+  model self-test's measured timing. When neither exists, the
+  estimate is labelled rough and the panel says so in plain words —
+  *the time is unknown — it depends on your model's speed* —
+  instead of printing a precise figure nobody measured. Every
+  finished run times its own calls, so estimates get truer the
+  more you run.
+- **An interrupted run keeps what it earned.** If a run stops
+  mid-round — the server stops, the machine sleeps — the answers
+  already given in that round stay on the record. When the run is
+  later marked interrupted, the note says how far it got: *it had
+  finished 3 of 6 calls in round 1 — every answer it gave is still
+  on record.*
+
 ## Reading the graph
 
 - The **mission node** sits at the centre. Agents orbit it; leads are
