@@ -19,9 +19,9 @@ The next release, described in full on the [README](README.md):
 - **Society simulation** — an optional simulated room of 100 agents
   reacting to a finished mission, drawn as a 2D network graph and
   labelled a simulated estimate, never a prediction.
-- **AgentQon's own names** — every agent and every skill renamed to
-  original AgentQon names, IDs included, with a stored-data migration
-  so existing installs keep their pins, history and settings.
+- **AgentQon's own roster and library** — all 6,799 agents and 5,053
+  skills carry AgentQon's own names, IDs included; existing installs
+  keep their pins, history and settings.
 - **A full-harness audit and repair pass** — five audit axes,
   everything found fixed and re-proven on a frozen tree before this
   release ships.
@@ -58,13 +58,12 @@ The next release, described in full on the [README](README.md):
 - **v21.2.x** — AgentQon as a brain for your own agent (one scoped
   key, one POST, an MCP bridge), the custom agent registry, and the
   IPv6 loopback parity fix.
-- **v21.0.0** — OmniMind becomes **AgentQon**: mission modes, the
-  6,799-agent roster, the memory layer, simulation worlds, a
-  redesigned UI.
+- **v21.0.0** — mission modes, the 6,799-agent roster, the memory
+  layer, simulation worlds, a redesigned UI.
 
 ## The 20.x line
 
-- **v20.2.x** — OmniMind Shield arrives: signed, encrypted payload,
+- **v20.2.x** — AgentQon Shield arrives: signed, encrypted payload,
   local API lockdown, hash-locked dependencies; a Windows filename
   hotfix follows within the day.
 - **v20.1.0** — the full roster ships in the package; a fresh install
