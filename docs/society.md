@@ -12,8 +12,8 @@ prediction.** Read the last section before you read anything into a
 result.
 
 <p align="center">
-  <img src="../assets/shots/society.png" alt="The society graph — the mission at the centre, agents as stance-coloured nodes, a selected agent's lines beside it" width="880">
-  <br><sub>The room: the mission at the centre; leads drawn larger; every node's colour is its stance in the round you are viewing. Click any agent to read its actual lines.</sub>
+  <img src="../assets/feat-society.svg" alt="Drawn animation: a finished mission lands in the middle of a ring of simulated agents, who light up in waves as stances form" width="880">
+  <br><sub>The room, drawn in motion: the mission at the centre; every node's colour is its stance in the round you are viewing. In the product, click any agent to read its actual lines.</sub>
 </p>
 
 ## How you start one
