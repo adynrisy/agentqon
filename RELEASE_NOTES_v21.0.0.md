@@ -1,23 +1,11 @@
-# AgentQon v21.0.0 — release notes (DRAFT, publish after npm approval)
+# AgentQon v21.0.0 — release notes
 
-Status: v21.0.0 is STAGED on npm under the package name **omnimind-ai**,
-awaiting Zohaib's passkey approval in Staged Publishing. Do not publish
-this GitHub release until that approval lands and `latest` shows 21.0.0.
-
-## Headline
-
-OmniMind is now **AgentQon**. The command is `agentqon` — the npm package
-name stays `omnimind-ai`, and `omnimind` remains a working alias, so
-existing installs update in place:
+## Install
 
 ```sh
-npm install -g omnimind-ai@latest
+npm install -g agentqon@latest
 agentqon
 ```
-
-On first run, an existing `~/.omnimind` home migrates itself to
-`~/.agentqon` (config, keys and data copy over; the old directory is
-never deleted).
 
 ## What's new
 
@@ -54,9 +42,5 @@ never deleted).
 - Full test suite: 320 passed; the single failure is the known sandbox
   timing artifact, proven to fail identically on untouched v20 code.
 - Pack gate: PASS. Clean-room install from the tarball: both bins run,
-  setup exits 0, legacy-home migration drill passed, payload 0
-  plaintext / 9,429 .enc, /health reports product "AgentQon".
-
-## Still owed after this release goes live
-
-- PUBLISHING.md refresh in the main project.
+  setup exits 0, payload 0 plaintext / 9,429 .enc, /health reports
+  product "AgentQon".
