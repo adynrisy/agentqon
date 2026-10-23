@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.png" alt="AgentQon — a panel of AI agents on your own model. Free." width="100%">
+  <img src="assets/banner-animated.svg" alt="AgentQon — a panel of AI agents that plans, checks its own work, and finishes the job. Free." width="100%">
 </p>
 
 <p align="center">
@@ -10,8 +10,12 @@
 </p>
 
 <p align="center">
-  <strong>Give it a mission. A panel of specialist agents competes to solve it, a critic attacks the drafts,<br>
-  an evaluator scores what survives — and every claim in the answer carries its evidence.</strong>
+  <strong>A panel of AI agents that plans, checks its own work, and finishes the job.</strong>
+</p>
+
+<p align="center">
+  Give it a mission. Specialist agents compete to solve it, a critic attacks the drafts,<br>
+  an evaluator scores what survives — and every claim in the answer carries its evidence.
 </p>
 
 <p align="center">
@@ -31,6 +35,7 @@
 
 <p align="center">
   <a href="#-install">Install</a> ·
+  <a href="#-see-it-work">See it work</a> ·
   <a href="#-what-is-agentqon">What it is</a> ·
   <a href="#-features-in-detail">Features</a> ·
   <a href="#-how-it-works">How it works</a> ·
@@ -42,6 +47,7 @@
 ## Contents
 
 - [Free. Completely.](#-free-completely)
+- [See it work](#-see-it-work)
 - [What is AgentQon?](#-what-is-agentqon)
 - [Why a panel, not one chatbot?](#-why-a-panel-not-one-chatbot)
 - [Screenshots](#-screenshots)
@@ -60,13 +66,33 @@
 
 ## 💸 Free. Completely.
 
-AgentQon is **free — no paid tier, no trial clock, no catch.** You bring the model: run one locally (free) or connect your own API key (your provider bills you, not us). There is nothing to unlock and nothing that expires.
+AgentQon is **free — no paid tier, no trial clock, no catch.** **Bring your own key (BYOK):** an API key from a provider you already have — or run a free local model on your own computer. No AgentQon account, nothing to top up. There is nothing to unlock and nothing that expires.
 
 > **Release status, stated plainly:** v22.0.0 is live on npm today. A larger release is in staging now — the Verdict Room interface, the skill library, the model self-test, and the society simulation described on this page. The install and update commands stay exactly the same.
 
+## 🎬 See it work
+
+This is the society room, replaying itself: after a mission lands, a simulated room of 100 agents reacts to the result over three rounds. Press play in the product and the room replays — watch the split move as agents soften, harden, and settle.
+
+<p align="center">
+  <img src="assets/demo-society.gif" alt="The society graph playing its rounds — the split moves as the room reacts" width="880">
+  <br><sub>A real capture of the shipped interface. The room's words in this capture came from the scripted test model used for screenshots; everything that moves is AgentQon itself. A SIMULATED ESTIMATE — never a prediction.</sub>
+</p>
+
+### The exhibits
+
+<table>
+  <tr>
+    <td align="center" width="25%"><h3>6,799</h3>agents on the roster — strategists, researchers, engineers, critics — each with a record you can inspect</td>
+    <td align="center" width="25%"><h3>5,053</h3>skills in the library, retrieved automatically for the task at hand</td>
+    <td align="center" width="25%"><h3>100</h3>agents in a standard society room, reacting to your finished work</td>
+    <td align="center" width="25%"><h3>1,055</h3>automated tests passed at the final audit gate — 642 unit, 200 integration, 160 interface, 53 CLI — with zero failures</td>
+  </tr>
+</table>
+
 ## 🧠 What is AgentQon?
 
-AgentQon is a **harness**: one install that seats a panel of AI agents in front of a model *you* connect, and puts real work to them. Chat when a question is small. Give it a **mission** when the work matters. Open an **agent session** when the work needs tools — files read and written, commands run, the web checked — each step under your approval.
+AgentQon is a **harness**: one install that seats a panel of AI agents on the model you connect — BYOK or a free local model — and puts real work to them. Chat when a question is small. Give it a **mission** when the work matters. Open an **agent session** when the work needs tools — files read and written, commands run, the web checked — each step under your approval.
 
 Everything runs **on your machine**. Your missions, keys and data live in `~/.agentqon/data` — nothing goes anywhere except the model *you* connect.
 
@@ -76,7 +102,7 @@ Everything runs **on your machine**. Your missions, keys and data live in `~/.ag
 |---|---|
 | **Price** | Free — no paid tier, no trial clock (MIT) |
 | **Runs on** | Your machine — Windows, macOS, Linux (Node ≥ 18, Python 3.12) |
-| **Models** | Yours: a local model server, or your own API key (BYOK) |
+| **Models** | BYOK — an API key from a provider you already have, or a free local model on your own computer |
 | **The panel** | Planner → up to 5 specialist agents → critic → evaluator → Proof Pack |
 | **Roster** | 6,799 agents, suitability-ranked per task, each with an inspectable record |
 | **Skill library** | 5,053 skills, retrieved automatically for each task |
@@ -100,12 +126,25 @@ One model, asked once, gives you its first draft — including the parts it got 
 
 A performance ledger remembers which agents actually deliver, so panels get better at picking themselves. It's the difference between asking one person and convening a panel that has to defend its work.
 
+### AgentQon vs one chatbot
+
+| | **AgentQon** | **One chatbot** |
+|---|---|---|
+| Who does the work | A panel of up to 5 specialists, picked for this task | One model, one voice |
+| Planning | The job is planned into tasks first | It answers in one pass |
+| Checking | A critic attacks every draft; an evaluator scores the survivors | The first draft is the answer |
+| Evidence | Every result ships with a Proof Pack | You take its word for it |
+| Specialists | 6,799 agents, ranked by measured record | None |
+| Skills | 5,053, retrieved automatically per task | None |
+| Memory of what works | A performance ledger re-picks panels by results | Starts from zero each time |
+| Price | Free — no paid tier | Varies |
+
 > ### 🚫 The no-fake-output guarantee
 > AgentQon has **no mock mode and no canned answers**. If no model is connected, work refuses to run and tells you exactly how to connect one — it will never dress up template text as agent work. What you read was written by a real model, or you read nothing.
 
 ## 📸 Screenshots
 
-Real screens from the product, unedited — the whole tour in eight frames.
+Real screens from the product, unedited — success states only, the whole tour in eight frames.
 
 <table>
   <tr>
@@ -144,8 +183,8 @@ Real screens from the product, unedited — the whole tour in eight frames.
       <br><strong>Society simulation</strong> — a simulated room of 100 agents reacts to a finished mission. A SIMULATED ESTIMATE — never a prediction.
     </td>
     <td>
-      <img src="assets/shots/errors.png" alt="An error in plain words, with a Try again">
-      <br><strong>Errors, in plain words</strong> — no codes and no stack traces: what happened, what to do, and a Try again.
+      <img src="assets/shots/society-focus.png" alt="One agent selected in the society graph — its lines traced, the room dimmed">
+      <br><strong>Trace any agent</strong> — select one dot and its lines light up against the room; click to read exactly what it said, round by round.
     </td>
   </tr>
 </table>
@@ -206,7 +245,7 @@ flowchart LR
     E --> F["🏆 Answer + Proof Pack<br/>evidence-labelled"]
 ```
 
-In plain words: a small server runs on your own machine and holds your data, your keys (encrypted), your roster, and your history. The terminal harness and the web UI both talk to that server — never to us. When work runs, the server calls the model *you* connected, through the connection *you* made, and records what happened: the plan, the drafts, the criticism, the scores, the spend. There is no AgentQon cloud in the middle, because there is no AgentQon cloud.
+In plain words: a small server runs on your own machine and holds your data, your keys (encrypted), your roster, and your history. The terminal harness and the web UI both talk to that server — never to us. When work runs, the server calls your connected model, through the connection you made, and records what happened: the plan, the drafts, the criticism, the scores, the spend. There is no AgentQon cloud in the middle, because there is no AgentQon cloud.
 
 ## 📦 Install
 
@@ -273,6 +312,10 @@ Full reference: [Command guide](docs/commands.md).
 
 Start with the **[docs index](docs/README.md)** — every guide, in the order you'd want them.
 
+<details>
+<summary><strong>📚 All 13 guides and tutorials</strong></summary>
+<br>
+
 | Guide | What's inside |
 |---|---|
 | [Installation](docs/installation.md) | Every platform, updates, uninstall, environment switches |
@@ -289,25 +332,27 @@ Start with the **[docs index](docs/README.md)** — every guide, in the order yo
 | [Living in simulations](docs/evolve-in-simulations.md) | Let an agent practise, compete and evolve in simulation worlds |
 | [Troubleshooting & FAQ](docs/troubleshooting.md) | Ports, Python, rate limits, "model not connected", data locations |
 
+</details>
+
 ## ⚖️ Honest limits
 
 - **A local install cannot be made literally untouchable by its own machine's owner.** Shield guarantees package integrity, encrypted data at rest, and resistance to outside attackers — it cannot, and does not claim to, stop the person whose computer it is.
-- **Your results are bounded by your model.** AgentQon's panel, critic and checks organise a model's work; they cannot give a small model a big model's judgement. Free local models are a fine start; demanding missions reward a stronger model.
+- **Your results are bounded by the connected model.** AgentQon's panel, critic and checks organise a model's work; they cannot give a small model a big model's judgement. Free local models are a fine start; demanding missions reward a stronger model.
 - **Simulated numbers are estimates, never predictions** — in simulation worlds and in the society room alike. They are labelled that way on every surface that shows them.
-- **The interface is English.** The work itself is not: your model answers in whatever language it speaks, so missions and chats run in your language today — only the buttons and labels are English.
+- **The interface is English.** The work itself is not: the connected model answers in whatever language it speaks, so missions and chats run in your language today — only the buttons and labels are English.
 
 ## ❓ FAQ
 
 <details>
 <summary><strong>Is AgentQon really free?</strong></summary>
 <br>
-Yes — the software is MIT-licensed and free, with no paid tier. You bring the model: a local model costs nothing; a hosted provider charges its own rates, and AgentQon shows every run's cost as a footnote.
+Yes — the software is MIT-licensed and free, with no paid tier. Bring your own key (BYOK): a free local model costs nothing; a hosted provider charges its own rates, and AgentQon shows every run's cost as a footnote.
 </details>
 
 <details>
 <summary><strong>Does my data leave my machine?</strong></summary>
 <br>
-Only to the model you connected. With a local model, nothing leaves at all. Missions, keys and settings live in <code>~/.agentqon/data</code>, with keys in an envelope-encrypted vault.
+Only to your connected model. With a local model, nothing leaves at all. Missions, keys and settings live in <code>~/.agentqon/data</code>, with keys in an envelope-encrypted vault.
 </details>
 
 <details>
@@ -319,7 +364,7 @@ A wrapper gives you one model's first draft. AgentQon runs a suitability-picked 
 <details>
 <summary><strong>Which language does it work in?</strong></summary>
 <br>
-The interface is English-only. The work is any-language: chat and run missions in whatever language your model speaks.
+The interface is English-only. The work is any-language: chat and run missions in whatever language the connected model speaks.
 </details>
 
 More answers in [Troubleshooting & FAQ](docs/troubleshooting.md).
