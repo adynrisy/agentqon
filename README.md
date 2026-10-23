@@ -55,7 +55,7 @@
 - [See it work](#-see-it-work)
 - [What is AgentQon?](#-what-is-agentqon)
 - [Why a panel, not one chatbot?](#-why-a-panel-not-one-chatbot)
-- [Screenshots](#-screenshots)
+- [Features, drawn in motion](#-the-features-drawn-in-motion)
 - [Features in detail](#-features-in-detail)
 - [How it works](#-how-it-works)
 - [Install](#-install)
@@ -148,34 +148,40 @@ A performance ledger remembers which agents actually deliver, so panels get bett
 > ### 🚫 The no-fake-output guarantee
 > AgentQon has **no mock mode and no canned answers**. If no model is connected, work refuses to run and tells you exactly how to connect one — it will never dress up template text as agent work. What you read was written by a real model, or you read nothing.
 
-## 📸 Screenshots
+## 🎬 The features, drawn in motion
 
-The product, in motion — real captures, unedited. Success states only.
+The features, drawn in motion — how each one works, in the product's own visual language.
 
 <table>
   <tr>
     <td width="50%">
-      <img src="assets/shots/panel.gif" alt="The panel taking a question and answering it — animated capture">
-      <br><strong>The panel, in session</strong> — the seated bench (Drafter, Researcher, Critic, Evaluator) takes a question typed into the chatbox and answers it, live on the main screen.
+      <img src="assets/feat-panel.svg" alt="Drawn animation: a job card travels between four seated agents, each checks it, a verdict stamp lands, and a Proof Pack sheet slides out">
+      <br><strong>Missions and the panel</strong> — one job travels the bench (Drafter, Researcher, Critic, Evaluator); each specialist checks it, the verdict lands, and the Proof Pack slides out.
     </td>
     <td width="50%">
-      <img src="assets/shots/skills.gif" alt="Searching the skill library and pinning a skill — animated capture">
-      <br><strong>The skill library</strong> — 5,053 skills, searchable, each shown with its source collection and license. Watch a search filter the library live, and a skill get pinned.
+      <img src="assets/feat-sessions.svg" alt="Drawn animation: lines are written into a file, an approval gate halts the work, the approved stamp lands, and writing resumes">
+      <br><strong>Agent sessions</strong> — an agent writes into a file in your folder; the approval gate stops the work cold, your stamp lands, and the writing finishes.
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <img src="assets/shots/society.gif" alt="A society run completing, round by round — animated capture">
-      <br><strong>Society simulation</strong> — a simulated room of 100 agents reacts to a finished mission, round by round, until the run lands. A SIMULATED ESTIMATE — never a prediction.
+      <img src="assets/feat-skills.svg" alt="Drawn animation: a query beam sweeps a grid of skill cards, three light up and fly to the panel bench">
+      <br><strong>The skill library</strong> — a query sweeps the shelves; the skills that fit light up and fly to the bench. 5,053 skills, 6,799 agents.
     </td>
     <td width="50%">
-      <img src="assets/shots/self-test.gif" alt="The model self-test stamping each model working or not working — animated capture">
-      <br><strong>Model self-test</strong> — one tiny real request per model; watch each one get stamped WORKING or NOT WORKING, with the reason in plain words.
+      <img src="assets/feat-selftest.svg" alt="Drawn animation: a probe sweeps down the model rows, stamping each model working or not working">
+      <br><strong>Model self-test</strong> — a probe walks your models one by one and stamps each WORKING or NOT WORKING, before any of them is trusted with a job.
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <img src="assets/feat-society.svg" alt="Drawn animation: a finished mission lands in the middle of a ring of simulated agents, who light up in waves as stances form">
+      <br><strong>Society simulation</strong> — a finished mission lands in a simulated room; the room reacts in waves and settles into stances. A SIMULATED ESTIMATE — never a prediction.
     </td>
   </tr>
 </table>
 
-<sub>All four are real captures of the shipped interface, recorded against the scripted test model used for screenshots; everything that moves is AgentQon itself.</sub>
+<sub>These five are drawn explainers — illustrations of how each feature works, not screenshots or recordings. The one real capture on this page is the society run under "See it work", above.</sub>
 
 ## ✨ Features in detail
 
