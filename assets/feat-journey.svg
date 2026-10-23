@@ -1,0 +1,195 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="460" viewBox="0 0 880 460" role="img" aria-label="The journey, drawn in motion: a mission arrives, the panel of agents works it and stamps the verdict with a Proof Pack, then a simulated room of agents reacts to the finished work. A simulated estimate — never a prediction.">
+  <rect x="1" y="1" width="878" height="458" rx="18" fill="#070907" stroke="#232a23" stroke-width="2"/>
+  <title>The journey — drawn in motion</title>
+  <g font-family="'Public Sans','Segoe UI',Arial,sans-serif">
+    <rect x="48" y="44" width="10" height="26" fill="#e9ead9"/>
+    <rect x="64" y="36" width="10" height="34" fill="#c8ff3d"/>
+    <rect x="80" y="44" width="10" height="26" fill="#e9ead9"/>
+    <text x="110" y="68" font-size="30" font-weight="800" letter-spacing="5" fill="#e9ead9">THE JOURNEY</text>
+    <rect x="112" y="82" width="0" height="3" fill="#c8ff3d">
+      <animate attributeName="width" from="0" to="302" dur="0.9s" begin="0.15s" fill="freeze"/><animate attributeName="width" values="302;262;302" keyTimes="0;0.5;1" begin="1.3s" dur="5.5s" repeatCount="indefinite"/>
+    </rect>
+    <text x="48" y="118" font-family="'IBM Plex Mono',Consolas,monospace" font-size="16" fill="#8b968a">One mission, start to finish — the panel, the Proof Pack, and the room's reaction.</text>
+  </g>
+  <rect x="48" y="140" width="784" height="1" fill="#232a23"/>
+  <text x="64" y="176" font-family="'IBM Plex Mono',Consolas,monospace" font-size="13" letter-spacing="2" fill="#8b968a">1 · THE MISSION</text>
+  <text x="330" y="176" font-family="'IBM Plex Mono',Consolas,monospace" font-size="13" letter-spacing="2" fill="#8b968a">2 · THE PANEL</text>
+  <text x="624" y="176" font-family="'IBM Plex Mono',Consolas,monospace" font-size="13" letter-spacing="2" fill="#8b968a">3 · THE ROOM REACTS</text>
+  <g opacity="0">
+    <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.020;0.050;0.95;1" dur="14s" repeatCount="indefinite"/>
+    <animateTransform attributeName="transform" type="translate" values="0 14;0 14;0 0;0 0;0 14" keyTimes="0;0.02;0.06;0.95;1" dur="14s" repeatCount="indefinite"/>
+    <rect x="64" y="196" width="170" height="104" rx="10" fill="#11140f" stroke="#3a4433" stroke-width="1.5"/>
+    <text x="80" y="226" font-family="'IBM Plex Mono',Consolas,monospace" font-size="15" font-weight="700" letter-spacing="2" fill="#c8ff3d">THE JOB</text>
+    <rect x="80" y="240" width="122" height="6" fill="#2e362a"/>
+    <rect x="80" y="258" width="96" height="6" fill="#2e362a"/>
+    <rect x="80" y="276" width="110" height="6" fill="#2e362a"/>
+  </g>
+  <g opacity="0.75">
+    <animate attributeName="opacity" values="0.45;1;0.45" keyTimes="0;0.5;1" dur="2.8s" begin="0.0s" repeatCount="indefinite"/>
+    <line x1="248" y1="248" x2="302" y2="248" stroke="#3a4433" stroke-width="2"/>
+    <path d="M 302 248 l -9 -5 v 10 z" fill="#3a4433"/>
+  </g>
+  <g opacity="0.75">
+    <animate attributeName="opacity" values="0.45;1;0.45" keyTimes="0;0.5;1" dur="2.8s" begin="0.7s" repeatCount="indefinite"/>
+    <line x1="570" y1="248" x2="604" y2="248" stroke="#3a4433" stroke-width="2"/>
+    <path d="M 604 248 l -9 -5 v 10 z" fill="#3a4433"/>
+  </g>
+  <g>
+    <rect x="352" y="192" width="120" height="54" rx="8" fill="#161a13" stroke="#3a4433" stroke-width="1.5"/>
+    <text x="412" y="226" text-anchor="middle" font-family="'IBM Plex Mono',Consolas,monospace" font-size="14" font-weight="700" letter-spacing="2" fill="#f1efe3">THE JOB</text>
+  </g>
+  <g>
+    <rect x="332" y="288" width="7" height="14" fill="#e9ead9"/>
+    <rect x="343" y="279" width="7" height="23" fill="#c8ff3d"/>
+    <rect x="354" y="285" width="7" height="17" fill="#e9ead9"/>
+    <rect x="328" y="308" width="40" height="3" fill="#c8ff3d" opacity="0">
+      <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.20;0.23;0.95;1" dur="14s" repeatCount="indefinite"/>
+    </rect>
+    <text x="348" y="330" text-anchor="middle" font-family="'IBM Plex Mono',Consolas,monospace" font-size="9.5" fill="#8b968a">DRAFTER</text>
+    <g opacity="0">
+      <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.22;0.25;0.95;1" dur="14s" repeatCount="indefinite"/>
+      <circle cx="348" cy="264" r="9" fill="#c8ff3d"/>
+      <text x="348" y="269" text-anchor="middle" font-family="'Public Sans','Segoe UI',Arial,sans-serif" font-size="12" font-weight="700" fill="#070907">✓</text>
+    </g>
+  </g>
+  <g>
+    <rect x="388" y="288" width="7" height="14" fill="#e9ead9"/>
+    <rect x="399" y="279" width="7" height="23" fill="#c8ff3d"/>
+    <rect x="410" y="285" width="7" height="17" fill="#e9ead9"/>
+    <rect x="384" y="308" width="40" height="3" fill="#c8ff3d" opacity="0">
+      <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.30;0.33;0.95;1" dur="14s" repeatCount="indefinite"/>
+    </rect>
+    <text x="404" y="330" text-anchor="middle" font-family="'IBM Plex Mono',Consolas,monospace" font-size="9.5" fill="#8b968a">RESEARCH</text>
+    <g opacity="0">
+      <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.32;0.35;0.95;1" dur="14s" repeatCount="indefinite"/>
+      <circle cx="404" cy="264" r="9" fill="#c8ff3d"/>
+      <text x="404" y="269" text-anchor="middle" font-family="'Public Sans','Segoe UI',Arial,sans-serif" font-size="12" font-weight="700" fill="#070907">✓</text>
+    </g>
+  </g>
+  <g>
+    <rect x="444" y="288" width="7" height="14" fill="#e9ead9"/>
+    <rect x="455" y="279" width="7" height="23" fill="#c8ff3d"/>
+    <rect x="466" y="285" width="7" height="17" fill="#e9ead9"/>
+    <rect x="440" y="308" width="40" height="3" fill="#c8ff3d" opacity="0">
+      <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.40;0.43;0.95;1" dur="14s" repeatCount="indefinite"/>
+    </rect>
+    <text x="460" y="330" text-anchor="middle" font-family="'IBM Plex Mono',Consolas,monospace" font-size="9.5" fill="#8b968a">CRITIC</text>
+    <g opacity="0">
+      <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.42;0.45;0.95;1" dur="14s" repeatCount="indefinite"/>
+      <circle cx="460" cy="264" r="9" fill="#c8ff3d"/>
+      <text x="460" y="269" text-anchor="middle" font-family="'Public Sans','Segoe UI',Arial,sans-serif" font-size="12" font-weight="700" fill="#070907">✓</text>
+    </g>
+  </g>
+  <g>
+    <rect x="500" y="288" width="7" height="14" fill="#e9ead9"/>
+    <rect x="511" y="279" width="7" height="23" fill="#c8ff3d"/>
+    <rect x="522" y="285" width="7" height="17" fill="#e9ead9"/>
+    <rect x="496" y="308" width="40" height="3" fill="#c8ff3d" opacity="0">
+      <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.50;0.53;0.95;1" dur="14s" repeatCount="indefinite"/>
+    </rect>
+    <text x="516" y="330" text-anchor="middle" font-family="'IBM Plex Mono',Consolas,monospace" font-size="9.5" fill="#8b968a">EVALUATOR</text>
+    <g opacity="0">
+      <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.52;0.55;0.95;1" dur="14s" repeatCount="indefinite"/>
+      <circle cx="516" cy="264" r="9" fill="#c8ff3d"/>
+      <text x="516" y="269" text-anchor="middle" font-family="'Public Sans','Segoe UI',Arial,sans-serif" font-size="12" font-weight="700" fill="#070907">✓</text>
+    </g>
+  </g>
+  <g transform="translate(458 196) rotate(-7)" opacity="0">
+    <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.585;0.615;0.95;1" dur="14s" repeatCount="indefinite"/>
+    <g>
+      <animateTransform attributeName="transform" type="scale" values="1.7;1.7;1;1;1.7" keyTimes="0;0.585;0.63;0.95;1" dur="14s" repeatCount="indefinite"/>
+      <rect x="-75" y="-20" width="150" height="40" rx="6" fill="none" stroke="#c8ff3d" stroke-width="3"/>
+      <text x="0" y="7" text-anchor="middle" font-family="'IBM Plex Mono',Consolas,monospace" font-size="20" font-weight="700" letter-spacing="4" fill="#c8ff3d">VERDICT</text>
+    </g>
+  </g>
+  <g opacity="0">
+    <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.660;0.690;0.95;1" dur="14s" repeatCount="indefinite"/>
+    <animateTransform attributeName="transform" type="translate" values="16 0;16 0;0 0;0 0;16 0" keyTimes="0;0.66;0.70;0.95;1" dur="14s" repeatCount="indefinite"/>
+    <rect x="472" y="256" width="86" height="60" rx="6" fill="#11140f" stroke="#2a2f22"/>
+    <text x="482" y="276" font-family="'IBM Plex Mono',Consolas,monospace" font-size="9.5" font-weight="700" letter-spacing="1" fill="#c8ff3d">PROOF PACK</text>
+    <path d="M483 288 l3 4 l6 -7" fill="none" stroke="#c8ff3d" stroke-width="2"/>
+    <rect x="498" y="286" width="44" height="4" fill="#2e362a"/>
+    <path d="M483 303 l3 4 l6 -7" fill="none" stroke="#c8ff3d" stroke-width="2"/>
+    <rect x="498" y="301" width="36" height="4" fill="#2e362a"/>
+  </g>
+  <line x1="716" y1="258" x2="716" y2="188" stroke="#232a23" stroke-width="1.2" opacity="0.6">
+    <animate attributeName="opacity" values="0.35;0.9;0.35" keyTimes="0;0.5;1" dur="3.1s" begin="0.00s" repeatCount="indefinite"/>
+  </line>
+  <line x1="716" y1="258" x2="796" y2="214" stroke="#232a23" stroke-width="1.2" opacity="0.6">
+    <animate attributeName="opacity" values="0.35;0.9;0.35" keyTimes="0;0.5;1" dur="3.1s" begin="0.44s" repeatCount="indefinite"/>
+  </line>
+  <line x1="716" y1="258" x2="815" y2="274" stroke="#232a23" stroke-width="1.2" opacity="0.6">
+    <animate attributeName="opacity" values="0.35;0.9;0.35" keyTimes="0;0.5;1" dur="3.1s" begin="0.88s" repeatCount="indefinite"/>
+  </line>
+  <line x1="716" y1="258" x2="760" y2="321" stroke="#232a23" stroke-width="1.2" opacity="0.6">
+    <animate attributeName="opacity" values="0.35;0.9;0.35" keyTimes="0;0.5;1" dur="3.1s" begin="1.32s" repeatCount="indefinite"/>
+  </line>
+  <line x1="716" y1="258" x2="672" y2="321" stroke="#232a23" stroke-width="1.2" opacity="0.6">
+    <animate attributeName="opacity" values="0.35;0.9;0.35" keyTimes="0;0.5;1" dur="3.1s" begin="1.76s" repeatCount="indefinite"/>
+  </line>
+  <line x1="716" y1="258" x2="617" y2="274" stroke="#232a23" stroke-width="1.2" opacity="0.6">
+    <animate attributeName="opacity" values="0.35;0.9;0.35" keyTimes="0;0.5;1" dur="3.1s" begin="2.20s" repeatCount="indefinite"/>
+  </line>
+  <line x1="716" y1="258" x2="636" y2="214" stroke="#232a23" stroke-width="1.2" opacity="0.6">
+    <animate attributeName="opacity" values="0.35;0.9;0.35" keyTimes="0;0.5;1" dur="3.1s" begin="2.64s" repeatCount="indefinite"/>
+  </line>
+  <circle cx="716" cy="258" r="30" fill="none" stroke="#c8ff3d" stroke-width="1.5" opacity="0">
+    <animate attributeName="r" values="30;30;64;64" keyTimes="0;0.68;0.86;1" dur="14s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;0;0.55;0" keyTimes="0;0.68;0.86;1" dur="14s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="716" cy="188" r="8" fill="#232a23">
+    <animate attributeName="fill" values="#232a23;#232a23;#c8ff3d;#c8ff3d;#232a23" keyTimes="0;0.72;0.75;0.95;1" dur="14s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="760" cy="195" r="6" fill="#232a23">
+    <animate attributeName="fill" values="#232a23;#232a23;#e9ead9;#e9ead9;#232a23" keyTimes="0;0.78;0.81;0.95;1" dur="14s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="796" cy="214" r="6" fill="#232a23">
+    <animate attributeName="fill" values="#232a23;#232a23;#c8ff3d;#c8ff3d;#232a23" keyTimes="0;0.84;0.87;0.95;1" dur="14s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="815" cy="242" r="6" fill="#232a23">
+    <animate attributeName="fill" values="#232a23;#232a23;#5a6355;#5a6355;#232a23" keyTimes="0;0.72;0.75;0.95;1" dur="14s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="815" cy="274" r="6" fill="#232a23">
+    <animate attributeName="fill" values="#232a23;#232a23;#e9ead9;#e9ead9;#232a23" keyTimes="0;0.78;0.81;0.95;1" dur="14s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="796" cy="302" r="8" fill="#232a23">
+    <animate attributeName="fill" values="#232a23;#232a23;#c8ff3d;#c8ff3d;#232a23" keyTimes="0;0.84;0.87;0.95;1" dur="14s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="760" cy="321" r="6" fill="#232a23">
+    <animate attributeName="fill" values="#232a23;#232a23;#5a6355;#5a6355;#232a23" keyTimes="0;0.72;0.75;0.95;1" dur="14s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="716" cy="328" r="6" fill="#232a23">
+    <animate attributeName="fill" values="#232a23;#232a23;#c8ff3d;#c8ff3d;#232a23" keyTimes="0;0.78;0.81;0.95;1" dur="14s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="672" cy="321" r="6" fill="#232a23">
+    <animate attributeName="fill" values="#232a23;#232a23;#e9ead9;#e9ead9;#232a23" keyTimes="0;0.84;0.87;0.95;1" dur="14s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="636" cy="302" r="6" fill="#232a23">
+    <animate attributeName="fill" values="#232a23;#232a23;#c8ff3d;#c8ff3d;#232a23" keyTimes="0;0.72;0.75;0.95;1" dur="14s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="617" cy="274" r="8" fill="#232a23">
+    <animate attributeName="fill" values="#232a23;#232a23;#5a6355;#5a6355;#232a23" keyTimes="0;0.78;0.81;0.95;1" dur="14s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="617" cy="242" r="6" fill="#232a23">
+    <animate attributeName="fill" values="#232a23;#232a23;#e9ead9;#e9ead9;#232a23" keyTimes="0;0.84;0.87;0.95;1" dur="14s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="636" cy="214" r="6" fill="#232a23">
+    <animate attributeName="fill" values="#232a23;#232a23;#c8ff3d;#c8ff3d;#232a23" keyTimes="0;0.72;0.75;0.95;1" dur="14s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="672" cy="195" r="6" fill="#232a23">
+    <animate attributeName="fill" values="#232a23;#232a23;#5a6355;#5a6355;#232a23" keyTimes="0;0.78;0.81;0.95;1" dur="14s" repeatCount="indefinite"/>
+  </circle>
+  <g opacity="0">
+    <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.640;0.670;0.95;1" dur="14s" repeatCount="indefinite"/>
+    <rect x="672" y="240" width="88" height="36" rx="18" fill="#161a13" stroke="#c8ff3d" stroke-width="1.2"/>
+    <text x="716" y="263" text-anchor="middle" font-family="'IBM Plex Mono',Consolas,monospace" font-size="12.5" font-weight="700" letter-spacing="1" fill="#f1efe3">THE WORK</text>
+  </g>
+  <g opacity="0">
+    <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.840;0.870;0.95;1" dur="14s" repeatCount="indefinite"/>
+    <rect x="600" y="350" width="232" height="26" rx="4" fill="none" stroke="#c8ff3d" stroke-width="1.2"/>
+    <text x="716" y="367" text-anchor="middle" font-family="'IBM Plex Mono',Consolas,monospace" font-size="9" letter-spacing="0.5" fill="#c8ff3d">SIMULATED ESTIMATE — NEVER A PREDICTION</text>
+  </g>
+  <text x="149" y="428" text-anchor="middle" font-family="'IBM Plex Mono',Consolas,monospace" font-size="12.5" fill="#8b968a">You state the job.</text>
+  <text x="435" y="428" text-anchor="middle" font-family="'IBM Plex Mono',Consolas,monospace" font-size="12.5" fill="#8b968a">The panel proves its work.</text>
+  <text x="716" y="428" text-anchor="middle" font-family="'IBM Plex Mono',Consolas,monospace" font-size="12.5" fill="#8b968a">The room reacts.</text>
+</svg>
