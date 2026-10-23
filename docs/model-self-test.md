@@ -25,8 +25,8 @@ the summary at the end says it in one line: **"X of Y models
 working."**
 
 <p align="center">
-  <img src="../assets/shots/self-test.png" alt="Self-test results — one model stamped NOT WORKING with its plain reason" width="880">
-  <br><sub>A real catch: the catalog listed this model as fine; the probe found it gone. That is the whole point of the test.</sub>
+  <img src="../assets/feat-selftest.svg" alt="Drawn animation: a probe sweeps down the model rows, stamping each model working or not working" width="880">
+  <br><sub>The self-test, drawn in motion — every model stamped before it is trusted. Why it exists, in one real catch: the catalog listed a model as fine; the probe found it gone.</sub>
 </p>
 
 ## Honest rules of the test
