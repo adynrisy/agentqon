@@ -3,8 +3,8 @@
 From zero to your first critic-verified mission in about five minutes.
 
 <p align="center">
-  <img src="../assets/shots/welcome.png" alt="The panel welcome screen — Put it to the panel" width="880">
-  <br><sub>The main screen once a model is connected: the seated panel, the exhibits, and the chatbox at the bottom.</sub>
+  <img src="../assets/feat-journey.svg" alt="Drawn animation: a job card arrives, the panel works it and stamps the verdict with a Proof Pack, then a ring of simulated agents reacts to the finished work" width="880">
+  <br><sub>The shape of every mission, drawn in motion: you state the job, the panel works it and proves it, and the finished work can meet the room. A SIMULATED ESTIMATE — never a prediction.</sub>
 </p>
 
 ## 1. Install and launch
