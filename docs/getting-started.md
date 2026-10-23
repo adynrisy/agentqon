@@ -112,7 +112,7 @@ never lets a projection masquerade as research.
 - **Seat the room** — [Society simulation](society.md): a simulated
   crowd reacts to a finished mission. A simulated estimate, never a
   prediction.
-- **Browse the know-how** — [Skills](skills.md): 5,053 skills the
+- **Browse the know-how** — [Skills](skills.md): 4,840 skills in the box (5,053 with the free Extended Library) the
   harness pulls into your work automatically.
 
 ## Next steps
