@@ -1,10 +1,5 @@
 # Troubleshooting & FAQ
 
-<p align="center">
-  <img src="../assets/shots/errors.png" alt="An AgentQon error shown in plain words, with a Try again" width="880">
-  <br><sub>What an AgentQon error looks like: plain words, what to do next, and a way back — never a code or a stack trace.</sub>
-</p>
-
 ## "Model not connected"
 
 The most common first-run state — and a deliberate one. AgentQon has no
@@ -136,12 +131,12 @@ Back up the `data` folder and you've backed up AgentQon.
 ## FAQ
 
 **Is AgentQon free?**
-The software is MIT-licensed and free. You bring the model: a local
+The software is MIT-licensed and free. Bring your own key (BYOK): a free local
 Ollama model costs nothing; hosted providers charge their own rates, and
 AgentQon shows every run's cost as a footnote before it can surprise you.
 
 **Does my data leave my machine?**
-Only to the model you connected. With Ollama, nothing leaves at all.
+Only to your connected model. With Ollama, nothing leaves at all.
 
 **How is this different from a chatbot wrapper?**
 A wrapper gives you one model's first draft. AgentQon runs a
