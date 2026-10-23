@@ -1,0 +1,159 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="450" viewBox="0 0 880 450" role="img" aria-label="The skill library, drawn in motion: a query beam sweeps the shelves, three skill cards light up and fly to the panel bench.">
+  <rect x="1" y="1" width="878" height="448" rx="18" fill="#070907" stroke="#232a23" stroke-width="2"/>
+  <title>The library — drawn in motion</title>
+  <g font-family="'Public Sans','Segoe UI',Arial,sans-serif">
+    <rect x="48" y="44" width="10" height="26" fill="#e9ead9"/>
+    <rect x="64" y="36" width="10" height="34" fill="#c8ff3d"/>
+    <rect x="80" y="44" width="10" height="26" fill="#e9ead9"/>
+    <text x="110" y="68" font-size="30" font-weight="800" letter-spacing="5" fill="#e9ead9">THE LIBRARY</text>
+    <rect x="112" y="82" width="0" height="3" fill="#c8ff3d">
+      <animate attributeName="width" from="0" to="302" dur="0.9s" begin="0.15s" fill="freeze"/><animate attributeName="width" values="302;262;302" keyTimes="0;0.5;1" begin="1.3s" dur="5.5s" repeatCount="indefinite"/>
+    </rect>
+    <text x="48" y="118" font-family="'IBM Plex Mono',Consolas,monospace" font-size="16" fill="#8b968a">Thousands of skills on the shelf — the right ones fly to the panel on their own.</text>
+  </g>
+  <rect x="48" y="140" width="784" height="1" fill="#232a23"/>
+  <g>
+    <rect x="48" y="158" width="568" height="34" rx="17" fill="#11140f" stroke="#2a2f22"/>
+    <text x="70" y="181" font-family="'IBM Plex Mono',Consolas,monospace" font-size="15" fill="#a9b3a4">QUERY: <tspan fill="#c8ff3d">code review</tspan></text>
+  </g>
+  <rect x="48" y="200" width="568" height="46" fill="#c8ff3d" opacity="0">
+    <animate attributeName="opacity" values="0;0.10;0.10;0;0" keyTimes="0;0.06;0.42;0.50;1" dur="9s" repeatCount="indefinite"/>
+    <animateTransform attributeName="transform" type="translate" values="0 0;0 0;0 177;0 177;0 0" keyTimes="0;0.06;0.46;0.52;1" dur="9s" repeatCount="indefinite"/>
+  </rect>
+  <g>
+    <rect x="48" y="200" width="104" height="46" rx="6" fill="#10130e" stroke="#232a23"/>
+    <rect x="60" y="213" width="58" height="5" rx="2.5" fill="#333a2e"/>
+    <rect x="60" y="226" width="38" height="5" rx="2.5" fill="#2a3026"/>
+  </g>
+  <g>
+    <rect x="164" y="200" width="104" height="46" rx="6" fill="#10130e" stroke="#232a23"/>
+    <rect x="176" y="213" width="58" height="5" rx="2.5" fill="#333a2e"/>
+    <rect x="176" y="226" width="38" height="5" rx="2.5" fill="#2a3026"/>
+  </g>
+  <g>
+    <rect x="280" y="200" width="104" height="46" rx="6" fill="#10130e" stroke="#232a23"/>
+    <rect x="292" y="213" width="58" height="5" rx="2.5" fill="#333a2e"/>
+    <rect x="292" y="226" width="38" height="5" rx="2.5" fill="#2a3026"/>
+  </g>
+  <g>
+    <rect x="512" y="200" width="104" height="46" rx="6" fill="#10130e" stroke="#232a23"/>
+    <rect x="524" y="213" width="58" height="5" rx="2.5" fill="#333a2e"/>
+    <rect x="524" y="226" width="38" height="5" rx="2.5" fill="#2a3026"/>
+  </g>
+  <g>
+    <rect x="48" y="259" width="104" height="46" rx="6" fill="#10130e" stroke="#232a23"/>
+    <rect x="60" y="272" width="58" height="5" rx="2.5" fill="#333a2e"/>
+    <rect x="60" y="285" width="38" height="5" rx="2.5" fill="#2a3026"/>
+  </g>
+  <g>
+    <rect x="164" y="259" width="104" height="46" rx="6" fill="#10130e" stroke="#232a23"/>
+    <rect x="176" y="272" width="58" height="5" rx="2.5" fill="#333a2e"/>
+    <rect x="176" y="285" width="38" height="5" rx="2.5" fill="#2a3026"/>
+  </g>
+  <g>
+    <rect x="280" y="259" width="104" height="46" rx="6" fill="#10130e" stroke="#232a23"/>
+    <rect x="292" y="272" width="58" height="5" rx="2.5" fill="#333a2e"/>
+    <rect x="292" y="285" width="38" height="5" rx="2.5" fill="#2a3026"/>
+  </g>
+  <g>
+    <rect x="396" y="259" width="104" height="46" rx="6" fill="#10130e" stroke="#232a23"/>
+    <rect x="408" y="272" width="58" height="5" rx="2.5" fill="#333a2e"/>
+    <rect x="408" y="285" width="38" height="5" rx="2.5" fill="#2a3026"/>
+  </g>
+  <g>
+    <rect x="512" y="259" width="104" height="46" rx="6" fill="#10130e" stroke="#232a23"/>
+    <rect x="524" y="272" width="58" height="5" rx="2.5" fill="#333a2e"/>
+    <rect x="524" y="285" width="38" height="5" rx="2.5" fill="#2a3026"/>
+  </g>
+  <g>
+    <rect x="48" y="318" width="104" height="46" rx="6" fill="#10130e" stroke="#232a23"/>
+    <rect x="60" y="331" width="58" height="5" rx="2.5" fill="#333a2e"/>
+    <rect x="60" y="344" width="38" height="5" rx="2.5" fill="#2a3026"/>
+  </g>
+  <g>
+    <rect x="280" y="318" width="104" height="46" rx="6" fill="#10130e" stroke="#232a23"/>
+    <rect x="292" y="331" width="58" height="5" rx="2.5" fill="#333a2e"/>
+    <rect x="292" y="344" width="38" height="5" rx="2.5" fill="#2a3026"/>
+  </g>
+  <g>
+    <rect x="396" y="318" width="104" height="46" rx="6" fill="#10130e" stroke="#232a23"/>
+    <rect x="408" y="331" width="58" height="5" rx="2.5" fill="#333a2e"/>
+    <rect x="408" y="344" width="38" height="5" rx="2.5" fill="#2a3026"/>
+  </g>
+  <g>
+    <rect x="512" y="318" width="104" height="46" rx="6" fill="#10130e" stroke="#232a23"/>
+    <rect x="524" y="331" width="58" height="5" rx="2.5" fill="#333a2e"/>
+    <rect x="524" y="344" width="38" height="5" rx="2.5" fill="#2a3026"/>
+  </g>
+  <g>
+    <rect x="48" y="377" width="104" height="46" rx="6" fill="#10130e" stroke="#232a23"/>
+    <rect x="60" y="390" width="58" height="5" rx="2.5" fill="#333a2e"/>
+    <rect x="60" y="403" width="38" height="5" rx="2.5" fill="#2a3026"/>
+  </g>
+  <g>
+    <rect x="164" y="377" width="104" height="46" rx="6" fill="#10130e" stroke="#232a23"/>
+    <rect x="176" y="390" width="58" height="5" rx="2.5" fill="#333a2e"/>
+    <rect x="176" y="403" width="38" height="5" rx="2.5" fill="#2a3026"/>
+  </g>
+  <g>
+    <rect x="280" y="377" width="104" height="46" rx="6" fill="#10130e" stroke="#232a23"/>
+    <rect x="292" y="390" width="58" height="5" rx="2.5" fill="#333a2e"/>
+    <rect x="292" y="403" width="38" height="5" rx="2.5" fill="#2a3026"/>
+  </g>
+  <g>
+    <rect x="396" y="377" width="104" height="46" rx="6" fill="#10130e" stroke="#232a23"/>
+    <rect x="408" y="390" width="58" height="5" rx="2.5" fill="#333a2e"/>
+    <rect x="408" y="403" width="38" height="5" rx="2.5" fill="#2a3026"/>
+  </g>
+  <g>
+    <rect x="648" y="158" width="184" height="264" rx="10" fill="#0d100c" stroke="#2a2f22"/>
+    <text x="740" y="186" text-anchor="middle" font-family="'IBM Plex Mono',Consolas,monospace" font-size="14" letter-spacing="2.5" fill="#a9b3a4">THE BENCH</text>
+    <rect x="664" y="204" width="152" height="46" rx="6" fill="none" stroke="#2a2f22" stroke-dasharray="5 5"/>
+    <rect x="664" y="204" width="152" height="46" rx="6" fill="none" stroke="#c8ff3d" stroke-width="1.6" opacity="0">
+      <animate attributeName="opacity" values="0;0;0.9;0.9;0;0" keyTimes="0;0.715;0.75;0.885;0.93;1" dur="9s" repeatCount="indefinite"/>
+    </rect>
+    <rect x="664" y="266" width="152" height="46" rx="6" fill="none" stroke="#2a2f22" stroke-dasharray="5 5"/>
+    <rect x="664" y="266" width="152" height="46" rx="6" fill="none" stroke="#c8ff3d" stroke-width="1.6" opacity="0">
+      <animate attributeName="opacity" values="0;0;0.9;0.9;0;0" keyTimes="0;0.715;0.75;0.885;0.93;1" dur="9s" repeatCount="indefinite"/>
+    </rect>
+    <rect x="664" y="328" width="152" height="46" rx="6" fill="none" stroke="#2a2f22" stroke-dasharray="5 5"/>
+    <rect x="664" y="328" width="152" height="46" rx="6" fill="none" stroke="#c8ff3d" stroke-width="1.6" opacity="0">
+      <animate attributeName="opacity" values="0;0;0.9;0.9;0;0" keyTimes="0;0.715;0.75;0.885;0.93;1" dur="9s" repeatCount="indefinite"/>
+    </rect>
+    <text x="740" y="394" text-anchor="middle" font-family="'IBM Plex Mono',Consolas,monospace" font-size="13.5" fill="#8b968a"><tspan fill="#c8ff3d" font-weight="700">5,053</tspan> SKILLS</text>
+    <text x="740" y="412" text-anchor="middle" font-family="'IBM Plex Mono',Consolas,monospace" font-size="13.5" fill="#8b968a"><tspan fill="#c8ff3d" font-weight="700">6,799</tspan> AGENTS</text>
+  </g>
+  <g opacity="1">
+    <animate attributeName="opacity" values="1;1;0;0;1" keyTimes="0;0.885;0.915;0.955;1" dur="9s" repeatCount="indefinite"/>
+    <g>
+      <animateTransform attributeName="transform" type="translate" values="0 0;0 0;268 4;268 4;0 0;0 0" keyTimes="0;0.55;0.72;0.90;0.95;1" dur="9s" repeatCount="indefinite"/>
+      <rect x="396" y="200" width="104" height="46" rx="6" fill="#10130e" stroke="#232a23">
+        <animate attributeName="stroke" values="#232a23;#232a23;#c8ff3d;#c8ff3d;#232a23;#232a23" keyTimes="0;0.45;0.52;0.90;0.96;1" dur="9s" repeatCount="indefinite"/>
+      </rect>
+      <rect x="408" y="213" width="58" height="5" rx="2.5" fill="#333a2e"/>
+      <rect x="408" y="226" width="38" height="5" rx="2.5" fill="#2a3026"/>
+    </g>
+  </g>
+  <g opacity="1">
+    <animate attributeName="opacity" values="1;1;0;0;1" keyTimes="0;0.885;0.915;0.955;1" dur="9s" repeatCount="indefinite"/>
+    <g>
+      <animateTransform attributeName="transform" type="translate" values="0 0;0 0;500 -52;500 -52;0 0;0 0" keyTimes="0;0.55;0.72;0.90;0.95;1" dur="9s" repeatCount="indefinite"/>
+      <rect x="164" y="318" width="104" height="46" rx="6" fill="#10130e" stroke="#232a23">
+        <animate attributeName="stroke" values="#232a23;#232a23;#c8ff3d;#c8ff3d;#232a23;#232a23" keyTimes="0;0.45;0.52;0.90;0.96;1" dur="9s" repeatCount="indefinite"/>
+      </rect>
+      <rect x="176" y="331" width="58" height="5" rx="2.5" fill="#333a2e"/>
+      <rect x="176" y="344" width="38" height="5" rx="2.5" fill="#2a3026"/>
+    </g>
+  </g>
+  <g opacity="1">
+    <animate attributeName="opacity" values="1;1;0;0;1" keyTimes="0;0.885;0.915;0.955;1" dur="9s" repeatCount="indefinite"/>
+    <g>
+      <animateTransform attributeName="transform" type="translate" values="0 0;0 0;152 -46;152 -46;0 0;0 0" keyTimes="0;0.55;0.72;0.90;0.95;1" dur="9s" repeatCount="indefinite"/>
+      <rect x="512" y="377" width="104" height="46" rx="6" fill="#10130e" stroke="#232a23">
+        <animate attributeName="stroke" values="#232a23;#232a23;#c8ff3d;#c8ff3d;#232a23;#232a23" keyTimes="0;0.45;0.52;0.90;0.96;1" dur="9s" repeatCount="indefinite"/>
+      </rect>
+      <rect x="524" y="390" width="58" height="5" rx="2.5" fill="#333a2e"/>
+      <rect x="524" y="403" width="38" height="5" rx="2.5" fill="#2a3026"/>
+    </g>
+  </g>
+</svg>
