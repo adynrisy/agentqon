@@ -38,10 +38,10 @@ appear in the catalog, ready to seat.
 Best for: the strongest hosted models. Your provider bills you at
 their rates; AgentQon charges nothing and adds nothing.
 
-<p align="center">
-  <img src="../assets/shots/connect.png" alt="The first-run connect screen — the full connection form on the main screen" width="880">
-  <br><sub>First run ever: the connect screen is the landing page. Once you have connected once, you land on the panel instead — a saved connection that is down shows as "Not connected" on the panel, never as a fresh start.</sub>
-</p>
+**First run ever:** the connect screen is the landing page — the full
+connection form, on the main screen. Once you have connected once, you
+land on the panel instead; a saved connection that is down shows as
+"Not connected" on the panel, never as a fresh start.
 
 ## Which should I choose?
 
