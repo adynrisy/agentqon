@@ -10,8 +10,8 @@ the mission will refuse — honestly, in plain words — instead of
 inventing an answer.
 
 <p align="center">
-  <img src="../assets/shots/advanced.png" alt="Advanced — the mission contract form and the docketed folds beneath it" width="880">
-  <br><sub>Where a mission starts: the contract form in Advanced, validated before any agent runs.</sub>
+  <img src="../assets/feat-panel.svg" alt="Drawn animation: a job card travels between four seated agents, each checks it, a verdict stamp lands, and a Proof Pack sheet slides out" width="880">
+  <br><sub>Missions, drawn in motion — one job travels the bench and comes back with a verdict and a Proof Pack. In the product, a mission starts from the contract form in Advanced, validated before any agent runs.</sub>
 </p>
 
 ## The example brief
