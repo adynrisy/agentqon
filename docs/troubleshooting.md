@@ -52,7 +52,7 @@ whose files don't match the signed release manifest. Do not use that
 copy; repair it from the current release instead:
 
 ```sh
-npm install -g omnimind-ai@latest
+npm install -g agentqon@latest
 agentqon setup --repair
 agentqon
 ```
@@ -64,6 +64,49 @@ manifest check correctly failed. **Fixed in 20.2.1** — the filenames are
 sanitized and the manifest re-signed. If you still see this error on
 20.2.1 or later, reinstall from npm as above and report the exact error
 text with your version (`agentqon --version`).
+
+## "The provider said slow down" — rate limits (429)
+
+Free tiers throttle. When a provider answers 429, AgentQon does not
+pretend and does not immediately die: the mission waits the time the
+provider asked for and retries, and the step shows, in plain words,
+that it is waiting on the provider. Three honest consequences:
+
+- **Missions on a tight free tier run slower in throttled minutes** —
+  that is the provider's limit, not a hang. The status line tells you
+  which one it is.
+- If throttling outlasts the retry budget, the mission ends FAILED
+  with the reason. Re-run it when the tier resets, or seat a second
+  connection and spread the work.
+- The [model self-test](model-self-test.md) shows a rate-limit stamp
+  per model, so you can see a throttled model before a mission finds
+  it the hard way.
+
+## A model is connected but missions still fail
+
+"Connected" means AgentQon can see the endpoint. It does not prove
+the model answers. Run the **self-test** (Model catalog → Test all):
+each model is stamped WORKING or NOT WORKING with the reason — a dead
+key, a model the provider removed, a timeout. Fix the reason it
+names; if a model stamps WORKING and missions still fail, include the
+self-test result and `agentqon doctor` output in your report.
+
+## Updating didn't take — the old version still answers
+
+A server left running from an older install keeps serving the old
+code. Always update in this exact order:
+
+```sh
+agentqon stop
+npm install -g agentqon@latest
+agentqon setup
+agentqon
+```
+
+The stop matters most: it is the difference between "the new version
+is installed" and "the new version is what is running". `agentqon
+status` and the version line in `agentqon doctor` tell you which one
+is live.
 
 ## A mission failed — where's the answer?
 
