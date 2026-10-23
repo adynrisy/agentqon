@@ -23,6 +23,7 @@
   <a href="https://www.npmjs.com/package/agentqon"><img src="https://img.shields.io/npm/dm/agentqon.svg" alt="npm downloads"></a>
   <a href="https://github.com/adynrisy/agentqon/releases"><img src="https://img.shields.io/github/v/release/adynrisy/agentqon" alt="latest release"></a>
   <img src="https://img.shields.io/npm/l/agentqon.svg" alt="license">
+  <a href="https://github.com/adynrisy/agentqon"><img src="https://img.shields.io/github/stars/adynrisy/agentqon?style=social" alt="GitHub stars"></a>
 </p>
 
 <p align="center">
@@ -81,14 +82,15 @@ This is the society room, replaying itself: after a mission lands, a simulated r
 
 ### The exhibits
 
-<table>
-  <tr>
-    <td align="center" width="25%"><h3>6,799</h3>agents on the roster — strategists, researchers, engineers, critics — each with a record you can inspect</td>
-    <td align="center" width="25%"><h3>5,053</h3>skills in the library, retrieved automatically for the task at hand</td>
-    <td align="center" width="25%"><h3>100</h3>agents in a standard society room, reacting to your finished work</td>
-    <td align="center" width="25%"><h3>1,055</h3>automated tests passed at the final audit gate — 642 unit, 200 integration, 160 interface, 53 CLI — with zero failures</td>
-  </tr>
-</table>
+<p align="center">
+  <img src="assets/exhibits.svg" alt="The exhibits: 6,799 specialist agents on the roster, 5,053 skills in the library, 100 agents in one society room, 1,055 tests at the final gate — zero failures" width="100%">
+</p>
+
+> **Counted, not claimed.** The roster and library counts come from the shipping build itself; the test counts are the final audit gate's own record (642 unit · 200 integration · 160 interface · 53 CLI, zero failures). Open the product and count them yourself — the roster, the library and the records are all inspectable.
+
+<p align="center">
+  <sub>⭐ <strong>Star the repo</strong> if AgentQon earns a place in your toolbox — it is the only applause meter we keep.</sub>
+</p>
 
 ## 🧠 What is AgentQon?
 
