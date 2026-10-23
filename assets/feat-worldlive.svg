@@ -1,0 +1,136 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="420" viewBox="0 0 880 420" role="img" aria-label="The world, live, drawn in motion: a ring of simulated agents lights up call by call while a progress bar fills — round 1 of 5, 4 of 6 calls answered, still working. A simulated estimate — never a prediction.">
+  <rect x="1" y="1" width="878" height="418" rx="18" fill="#070907" stroke="#232a23" stroke-width="2"/>
+  <title>The world, live — drawn in motion</title>
+  <g font-family="'Public Sans','Segoe UI',Arial,sans-serif">
+    <rect x="48" y="44" width="10" height="26" fill="#e9ead9"/>
+    <rect x="64" y="36" width="10" height="34" fill="#c8ff3d"/>
+    <rect x="80" y="44" width="10" height="26" fill="#e9ead9"/>
+    <text x="110" y="68" font-size="30" font-weight="800" letter-spacing="5" fill="#e9ead9">THE WORLD, LIVE</text>
+    <rect x="112" y="82" width="0" height="3" fill="#c8ff3d">
+      <animate attributeName="width" from="0" to="365" dur="0.9s" begin="0.15s" fill="freeze"/><animate attributeName="width" values="365;318;365" keyTimes="0;0.5;1" begin="1.3s" dur="5.5s" repeatCount="indefinite"/>
+    </rect>
+    <text x="48" y="118" font-family="'IBM Plex Mono',Consolas,monospace" font-size="16" fill="#8b968a">A society run shows its work — every answered call lands on the record, live.</text>
+  </g>
+  <rect x="48" y="140" width="784" height="1" fill="#232a23"/>
+  <line x1="250" y1="258" x2="408" y2="258" stroke="#232a23" stroke-width="1.2" opacity="0.6">
+    <animate attributeName="opacity" values="0.35;0.95;0.35" keyTimes="0;0.5;1" dur="3.1s" begin="0.00s" repeatCount="indefinite"/>
+  </line>
+  <line x1="250" y1="258" x2="329" y2="334" stroke="#232a23" stroke-width="1.2" opacity="0.6">
+    <animate attributeName="opacity" values="0.35;0.95;0.35" keyTimes="0;0.5;1" dur="3.1s" begin="0.35s" repeatCount="indefinite"/>
+  </line>
+  <line x1="250" y1="258" x2="250" y2="346" stroke="#232a23" stroke-width="1.2" opacity="0.6">
+    <animate attributeName="opacity" values="0.35;0.95;0.35" keyTimes="0;0.5;1" dur="3.1s" begin="0.70s" repeatCount="indefinite"/>
+  </line>
+  <line x1="250" y1="258" x2="171" y2="334" stroke="#232a23" stroke-width="1.2" opacity="0.6">
+    <animate attributeName="opacity" values="0.35;0.95;0.35" keyTimes="0;0.5;1" dur="3.1s" begin="1.05s" repeatCount="indefinite"/>
+  </line>
+  <line x1="250" y1="258" x2="92" y2="258" stroke="#232a23" stroke-width="1.2" opacity="0.6">
+    <animate attributeName="opacity" values="0.35;0.95;0.35" keyTimes="0;0.5;1" dur="3.1s" begin="1.40s" repeatCount="indefinite"/>
+  </line>
+  <line x1="250" y1="258" x2="171" y2="182" stroke="#232a23" stroke-width="1.2" opacity="0.6">
+    <animate attributeName="opacity" values="0.35;0.95;0.35" keyTimes="0;0.5;1" dur="3.1s" begin="1.75s" repeatCount="indefinite"/>
+  </line>
+  <line x1="250" y1="258" x2="250" y2="170" stroke="#232a23" stroke-width="1.2" opacity="0.6">
+    <animate attributeName="opacity" values="0.35;0.95;0.35" keyTimes="0;0.5;1" dur="3.1s" begin="2.10s" repeatCount="indefinite"/>
+  </line>
+  <line x1="250" y1="258" x2="329" y2="182" stroke="#232a23" stroke-width="1.2" opacity="0.6">
+    <animate attributeName="opacity" values="0.35;0.95;0.35" keyTimes="0;0.5;1" dur="3.1s" begin="2.45s" repeatCount="indefinite"/>
+  </line>
+  <circle cx="250" cy="258" r="24" fill="none" stroke="#c8ff3d" stroke-width="1.6" opacity="0">
+    <animate attributeName="r" values="24;110" keyTimes="0;1" dur="6s" begin="0s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;0.45;0" keyTimes="0;0.12;1" dur="6s" begin="0s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="338" cy="258" r="6.5" fill="#262c26">
+    <animate attributeName="fill" values="#262c26;#262c26;#c8ff3d;#c8ff3d;#262c26" keyTimes="0;0.1000;0.1400;0.94;1" dur="12s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="250" cy="306" r="6.5" fill="#262c26">
+    <animate attributeName="fill" values="#262c26;#262c26;#f1efe3;#f1efe3;#262c26" keyTimes="0;0.1600;0.2000;0.94;1" dur="12s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="162" cy="258" r="6.5" fill="#262c26">
+    <animate attributeName="fill" values="#262c26;#262c26;#c8ff3d;#c8ff3d;#262c26" keyTimes="0;0.2200;0.2600;0.94;1" dur="12s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="250" cy="210" r="6.5" fill="#262c26">
+    <animate attributeName="fill" values="#262c26;#262c26;#77816f;#77816f;#262c26" keyTimes="0;0.2800;0.3200;0.94;1" dur="12s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="408" cy="258" r="7.5" fill="#262c26">
+    <animate attributeName="fill" values="#262c26;#262c26;#c8ff3d;#c8ff3d;#262c26" keyTimes="0;0.2000;0.2400;0.94;1" dur="12s" repeatCount="indefinite"/>
+    <animate attributeName="fill-opacity" values="1;0.72;1" keyTimes="0;0.5;1" dur="3.4s" begin="2.60s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="387" cy="302" r="7.5" fill="#262c26">
+    <animate attributeName="fill" values="#262c26;#262c26;#f1efe3;#f1efe3;#262c26" keyTimes="0;0.2600;0.3000;0.94;1" dur="12s" repeatCount="indefinite"/>
+    <animate attributeName="fill-opacity" values="1;0.72;1" keyTimes="0;0.5;1" dur="3.4s" begin="3.30s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="329" cy="334" r="7.5" fill="#262c26">
+    <animate attributeName="fill" values="#262c26;#262c26;#c8ff3d;#c8ff3d;#262c26" keyTimes="0;0.3200;0.3600;0.94;1" dur="12s" repeatCount="indefinite"/>
+    <animate attributeName="fill-opacity" values="1;0.72;1" keyTimes="0;0.5;1" dur="3.4s" begin="4.00s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="250" cy="346" r="7.5" fill="#262c26">
+    <animate attributeName="fill" values="#262c26;#262c26;#f1efe3;#f1efe3;#262c26" keyTimes="0;0.3800;0.4200;0.94;1" dur="12s" repeatCount="indefinite"/>
+    <animate attributeName="fill-opacity" values="1;0.72;1" keyTimes="0;0.5;1" dur="3.4s" begin="4.70s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="171" cy="334" r="7.5" fill="#262c26">
+    <animate attributeName="fill" values="#262c26;#262c26;#c8ff3d;#c8ff3d;#262c26" keyTimes="0;0.4400;0.4800;0.94;1" dur="12s" repeatCount="indefinite"/>
+    <animate attributeName="fill-opacity" values="1;0.72;1" keyTimes="0;0.5;1" dur="3.4s" begin="5.40s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="113" cy="302" r="7.5" fill="#262c26">
+    <animate attributeName="fill" values="#262c26;#262c26;#77816f;#77816f;#262c26" keyTimes="0;0.5000;0.5400;0.94;1" dur="12s" repeatCount="indefinite"/>
+    <animate attributeName="fill-opacity" values="1;0.72;1" keyTimes="0;0.5;1" dur="3.4s" begin="6.10s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="92" cy="258" r="7.5" fill="#262c26">
+    <animate attributeName="fill" values="#262c26;#262c26;#f1efe3;#f1efe3;#262c26" keyTimes="0;0.5400;0.5800;0.94;1" dur="12s" repeatCount="indefinite"/>
+    <animate attributeName="fill-opacity" values="1;0.72;1" keyTimes="0;0.5;1" dur="3.4s" begin="6.60s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="113" cy="214" r="7.5" fill="#262c26">
+    <animate attributeName="fill" values="#262c26;#262c26;#c8ff3d;#c8ff3d;#262c26" keyTimes="0;0.5800;0.6200;0.94;1" dur="12s" repeatCount="indefinite"/>
+    <animate attributeName="fill-opacity" values="1;0.72;1" keyTimes="0;0.5;1" dur="3.4s" begin="7.10s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="171" cy="182" r="7.5" fill="#262c26">
+    <animate attributeName="fill" values="#262c26;#262c26;#f1efe3;#f1efe3;#262c26" keyTimes="0;0.6200;0.6600;0.94;1" dur="12s" repeatCount="indefinite"/>
+    <animate attributeName="fill-opacity" values="1;0.72;1" keyTimes="0;0.5;1" dur="3.4s" begin="7.60s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="250" cy="170" r="7.5" fill="#262c26">
+    <animate attributeName="fill" values="#262c26;#262c26;#c8ff3d;#c8ff3d;#262c26" keyTimes="0;0.6600;0.7000;0.94;1" dur="12s" repeatCount="indefinite"/>
+    <animate attributeName="fill-opacity" values="1;0.72;1" keyTimes="0;0.5;1" dur="3.4s" begin="8.10s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="329" cy="182" r="7.5" fill="#262c26">
+    <animate attributeName="fill" values="#262c26;#262c26;#77816f;#77816f;#262c26" keyTimes="0;0.7000;0.7400;0.94;1" dur="12s" repeatCount="indefinite"/>
+    <animate attributeName="fill-opacity" values="1;0.72;1" keyTimes="0;0.5;1" dur="3.4s" begin="8.60s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="387" cy="214" r="7.5" fill="#262c26">
+    <animate attributeName="fill" values="#262c26;#262c26;#c8ff3d;#c8ff3d;#262c26" keyTimes="0;0.7400;0.7800;0.94;1" dur="12s" repeatCount="indefinite"/>
+    <animate attributeName="fill-opacity" values="1;0.72;1" keyTimes="0;0.5;1" dur="3.4s" begin="9.10s" repeatCount="indefinite"/>
+  </circle>
+  <g>
+    <rect x="194" y="241" width="112" height="34" rx="17" fill="#11140f" stroke="#c8ff3d" stroke-width="2.2"/>
+    <circle cx="212" cy="258" r="5.5" fill="#c8ff3d">
+      <animate attributeName="opacity" values="1;0.5;1" keyTimes="0;0.5;1" dur="2.2s" repeatCount="indefinite"/>
+    </circle>
+    <text x="258" y="263" text-anchor="middle" font-family="'IBM Plex Mono',Consolas,monospace" font-size="12.5" letter-spacing="1.5" fill="#f1efe3">THE WORK</text>
+  </g>
+  <g font-family="'IBM Plex Mono',Consolas,monospace">
+    <text x="470" y="190" font-size="12.5" letter-spacing="2" fill="#6f7a6c">WORLD RUN — LIVE PROGRESS</text>
+    <text x="470" y="232" font-size="17" fill="#e9ead9">ROUND 1 OF 5</text>
+    <rect x="470" y="252" width="330" height="16" rx="8" fill="#161a13" stroke="#2a2f22"/>
+    <rect x="470" y="252" width="0" height="16" rx="8" fill="#c8ff3d">
+      <animate attributeName="width" values="0;0;110;110;220;220" keyTimes="0;0.18;0.34;0.52;0.68;1" dur="12s" repeatCount="indefinite"/>
+    </rect>
+    <text x="470" y="306" font-size="16" fill="#a9b3a4">
+      <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.30;0.34;1" dur="12s" repeatCount="indefinite"/>
+      0 OF 6 CALLS ANSWERED
+    </text>
+    <text x="470" y="306" font-size="16" fill="#a9b3a4" opacity="0">
+      <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.34;0.38;0.62;0.66;1" dur="12s" repeatCount="indefinite"/>
+      2 OF 6 CALLS ANSWERED
+    </text>
+    <text x="470" y="306" font-size="16" fill="#e9ead9" opacity="0">
+      <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.68;0.72;0.94;1" dur="12s" repeatCount="indefinite"/>
+      4 OF 6 CALLS ANSWERED · <tspan fill="#c8ff3d">STILL WORKING</tspan>
+    </text>
+    <text x="470" y="344" font-size="12.5" fill="#8b968a">THE TIME ESTIMATE COMES FROM MEASURED PACE —</text>
+    <text x="470" y="364" font-size="12.5" fill="#8b968a">OR THE PANEL SAYS THE TIME IS UNKNOWN.</text>
+  </g>
+  <g>
+    <rect x="225" y="384" width="430" height="28" rx="14" fill="#070907" stroke="#c8ff3d" stroke-width="1.4"/>
+    <text x="440" y="403" text-anchor="middle" font-family="'IBM Plex Mono',Consolas,monospace" font-size="13.5" letter-spacing="1.5" fill="#c8ff3d">SIMULATED ESTIMATE — NEVER A PREDICTION</text>
+  </g>
+</svg>
