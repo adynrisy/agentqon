@@ -5,10 +5,14 @@ title: "[feature] "
 labels: enhancement
 ---
 
-**The problem**
-What are you trying to do that AgentQon makes hard or impossible?
+**What are you trying to do?**
+The job you want done — in plain words.
+
+**What does AgentQon make hard, or impossible, today?**
 
 **The feature you'd like**
+What should exist instead?
 
-**How you'd use it**
-A concrete example — a mission, a command, a workflow.
+**A concrete example**
+A real mission, command, or workflow you would run with it. Concrete
+examples beat abstract wishes — they are how features get picked.
