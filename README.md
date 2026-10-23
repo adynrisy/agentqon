@@ -1,9 +1,12 @@
 <p align="center">
-  <img src="assets/banner.png" alt="AgentQon — missions run by rival agents" width="100%">
+  <img src="assets/banner.png" alt="AgentQon — a panel of AI agents on your own model. Free." width="100%">
 </p>
 
 <p align="center">
-  <img src="assets/logo.png" alt="AgentQon logo" width="110">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/logo.png">
+    <img src="assets/logo-light.png" alt="AgentQon" width="330">
+  </picture>
 </p>
 
 <p align="center">
@@ -15,7 +18,6 @@
   <a href="https://www.npmjs.com/package/agentqon"><img src="https://img.shields.io/npm/v/agentqon.svg" alt="npm version"></a>
   <a href="https://www.npmjs.com/package/agentqon"><img src="https://img.shields.io/npm/dm/agentqon.svg" alt="npm downloads"></a>
   <a href="https://github.com/adynrisy/agentqon/releases"><img src="https://img.shields.io/github/v/release/adynrisy/agentqon" alt="latest release"></a>
-  <a href="https://github.com/adynrisy/agentqon"><img src="https://img.shields.io/github/stars/adynrisy/agentqon" alt="GitHub stars"></a>
   <img src="https://img.shields.io/npm/l/agentqon.svg" alt="license">
 </p>
 
@@ -23,31 +25,100 @@
   <img src="https://img.shields.io/badge/node-%E2%89%A518-brightgreen.svg" alt="node >= 18">
   <img src="https://img.shields.io/badge/python-3.12-blue.svg" alt="python 3.12">
   <img src="https://img.shields.io/badge/platform-Windows%20%7C%20macOS%20%7C%20Linux-lightgrey.svg" alt="platforms">
+  <img src="https://img.shields.io/badge/price-FREE%20forever-c8ff3d.svg" alt="free forever">
   <img src="https://img.shields.io/badge/mock%20mode-none-red.svg" alt="no mock mode">
 </p>
 
 <p align="center">
   <a href="#-install">Install</a> ·
-  <a href="#-quick-start">Quick start</a> ·
-  <a href="#-how-a-mission-works">How it works</a> ·
-  <a href="#-guides">Guides</a> ·
+  <a href="#-what-is-agentqon">What it is</a> ·
+  <a href="#-features-in-detail">Features</a> ·
+  <a href="#-how-it-works">How it works</a> ·
+  <a href="#-guides-and-tutorials">Guides</a> ·
   <a href="#-commands">Commands</a> ·
   <a href="docs/troubleshooting.md">FAQ</a>
 </p>
 
 ---
 
-<p align="center">
-  <img src="assets/terminal.svg" alt="The agentqon terminal harness" width="880">
-</p>
+## 💸 Free. Completely.
+
+AgentQon is **free — no paid tier, no trial clock, no catch.** You bring the model: run one locally (free) or connect your own API key (your provider bills you, not us). There is nothing to unlock and nothing that expires.
+
+> **Release status, stated plainly:** v22.0.0 is live on npm today. A larger release is in staging now — the Verdict Room interface, the skill library, the model self-test, the society simulation, and AgentQon's own names for every agent and skill described on this page. The install and update commands stay exactly the same.
 
 ## 🧠 What is AgentQon?
 
-Most "multi-agent" tools are one model talking to itself. AgentQon is built around **structured rivalry**: instead of asking a single model once, it convenes a panel of specialist agents — chosen from a roster of **6,799 agents** by measured suitability for your task — and makes them *compete*. A critic attacks every draft. An evaluator scores the survivors. A performance ledger remembers who actually performs.
+AgentQon is a **harness**: one install that seats a panel of AI agents in front of a model *you* connect, and puts real work to them. Chat when a question is small. Give it a **mission** when the work matters. Open an **agent session** when the work needs tools — files read and written, commands run, the web checked — each step under your approval.
 
 Everything runs **on your machine**. Your missions, keys and data live in `~/.agentqon/data` — nothing goes anywhere except the model *you* connect.
 
-## 🔁 How a mission works
+<p align="center">
+  <img src="assets/shots/panel.png" alt="The AgentQon panel — the Verdict Room interface" width="880">
+  <br><sub>The panel screen. The chatbox lives here, at the bottom of the main screen — nowhere else.</sub>
+</p>
+
+## 🤔 Why a panel, not one chatbot?
+
+One model, asked once, gives you its first draft — including the parts it got wrong, delivered with total confidence. AgentQon is built around **structured rivalry** instead:
+
+1. **A planner** breaks your mission into a task graph.
+2. **A panel of up to 5 specialist agents** — picked from the roster by measured suitability for *this* task — drafts competing answers.
+3. **A critic** attacks every draft. Weak work is revised or rejected.
+4. **An evaluator** scores what survives; the best becomes your answer.
+5. **You get the Proof Pack** — the winning answer, the evidence behind every claim, what the critic found, and what it cost.
+
+A performance ledger remembers which agents actually deliver, so panels get better at picking themselves. It's the difference between asking one person and convening a panel that has to defend its work.
+
+> ### 🚫 The no-fake-output guarantee
+> AgentQon has **no mock mode and no canned answers**. If no model is connected, work refuses to run and tells you exactly how to connect one — it will never dress up template text as agent work. What you read was written by a real model, or you read nothing.
+
+## ✨ Features in detail
+
+### 💬 Chat
+Plain conversation with your connected model, in the terminal or the browser. Small questions get single-call answers — no mission machinery, no panel, no waste. Ask for a deliverable ("write…", "research…", "compare…") and it routes to a mission instead. See [Getting started](docs/getting-started.md).
+
+### 🎯 Missions
+The core unit of work: a goal in plain words, planned into tasks, run by a panel, critic-checked, and delivered with a Proof Pack. Missions can be scheduled to recur, and a finished mission can be re-examined from every angle — the plan, the drafts, the criticism, the scores. Tutorial: [Your first mission](docs/first-mission.md).
+
+### 🛠️ Agent sessions — agents that use tools
+An agent session lets an agent *do* things, not just say things: read and write files inside a workspace you choose, run commands, and read the web. Writes and network commands stop and ask for your approval first (unless you switch approvals off for that session), everything is confined to the workspace, and two guards check the agent's claims against what its tools actually did — an agent cannot claim it built something its own tool results contradict. Guide: [Agent sessions](docs/agent-sessions.md).
+
+### 👥 The roster — 6,799 agents, AgentQon's own names
+Strategists, researchers, writers, engineers, critics, and hundreds of narrower specialists — every one carrying an AgentQon name, ranked per task by the suitability engine and the performance ledger. Open any agent's record from the registry and read what it has actually done before you trust it with a job.
+
+### 📚 The skill library — 5,053 skills, pulled in automatically
+Skills are packaged know-how: procedures, checklists, and methods an agent can follow. AgentQon ships a library of **5,053 skills** and retrieves the right ones *for* each task — the top matches are folded into the agent's working context under a strict size cap, so your panel gets the relevant method without you hunting for it. Pin the skills you trust most and they are always considered first. Browse the library in the web UI or with `agentqon skills`. Guide: [Skills](docs/skills.md).
+
+### 🔌 Model self-test — know which of your models actually answer
+A model can be listed by a provider and still not answer. The self-test sends one tiny real request to every model on every connection and stamps each one **WORKING** or **NOT WORKING**, with the reason in plain words — wrong key, model gone, rate limit, timeout. One click: **Test all**. Guide: [Model self-test](docs/model-self-test.md).
+
+<p align="center">
+  <img src="assets/shots/self-test.png" alt="Model self-test results — working and not working, in plain words" width="880">
+  <br><sub>The self-test. A model the catalog listed as fine was caught not answering — listing is not answering.</sub>
+</p>
+
+### 🌐 Society simulation — watch a room react
+After a mission finishes, you can optionally seat a **simulated room of 100 agents** — leads who think individually and crowd tables that react together — and watch them respond to the result over several rounds: who supports it, who pushes back, how the split moves. The result is a 2D network graph of the room with every agent's actual lines one click away. It is always labelled what it is: a **SIMULATED ESTIMATE — never a prediction**. Opt-in only, never automatic; the harness sizes the room to your task and tells you the cost before anything runs. Guide: [Society simulation](docs/society.md).
+
+<p align="center">
+  <img src="assets/shots/society.png" alt="The society graph — the mission at the centre, the room's stance as coloured nodes" width="880">
+  <br><sub>The room, settled: the mission at the centre, every dot an agent, coloured by its stance in the round you are viewing.</sub>
+</p>
+
+### And the rest of the bench
+
+| | |
+|---|---|
+| 🏟️ **Agent Arena** | Blind duels — two agents, one task, you pick the winner; results feed the leaderboard |
+| ⏰ **Scheduled missions** | Recurring work that fires on its own |
+| 🧪 **Simulation worlds** | Run a mission's strategies through a deterministic model world before committing — every number labelled SIMULATED ESTIMATE |
+| 🌱 **Bring your own agent** | Give an agent you built elsewhere AgentQon as its brain with one scoped key — [guide](docs/brain.md) |
+| 📱 **WhatsApp & Telegram** | Run missions from your phone — [channels guide](docs/whatsapp-and-telegram.md), limitations stated honestly |
+| 🔐 **BYOK vault** | Keys in an envelope-encrypted vault on your machine; exactly two connection kinds — local server or API key |
+| 🛡️ **AgentQon Shield** | Compiled, encrypted payload under a signed integrity manifest — a tampered install refuses to start; a per-install token and a signed CLI↔server channel guard the local API |
+
+## 🔁 How it works
 
 ```mermaid
 flowchart LR
@@ -58,59 +129,27 @@ flowchart LR
     E --> F["🏆 Answer + Proof Pack<br/>evidence-labelled"]
 ```
 
-1. **You state a mission** — strategy, research, writing, code, a plan, a question.
-2. **A planner** classifies it and breaks it into a task graph.
-3. **A panel of up to 5 agents** drafts competing solutions in parallel.
-4. **A critic** attacks every draft; weak work is revised or rejected.
-5. **An evaluator** scores what survives; the best becomes your answer.
-6. **You get the Proof Pack** — the winning draft, the evidence behind every claim, what the critic found, and what it cost.
-
-> ### 🚫 The no-fake-output guarantee
-> AgentQon has **no mock mode and no canned answers**. If no model is connected, a mission refuses to run and tells you exactly how to connect one — it will never dress up template text as agent work. What you read was written by a real model, or you read nothing.
-
-## 🌱 Bring your own agent — and let it live here
-
-AgentQon is not only a tool you call. It is a place your agent can live.
-
-Connect an agent you already built — a script, a bot, a framework agent — and give it AgentQon as its brain. Instead of one model answering once, your agent's questions are met by panels that compete, a critic that pushes back, and a memory that keeps what worked.
-
-Then let it practise. AgentQon's simulation worlds are seeded from real mission research and run as immutable branches: your agent's strategies live whole simulated lifetimes there — adopters won and lost, markets shifted by interventions, outcomes scored against metrics registered *before* the run, never after. Every number a world produces is labelled **SIMULATED ESTIMATE**, in the open. Evolution you can inspect, not theatre.
-
-What survives is kept. A performance ledger records which agents and strategies actually delivered, long-term memory carries the lessons into the next mission, and suitability rankings shift toward whatever proved itself. Your agent's model weights never change — everything around them does: who gets picked, which strategies survive, what the system remembers. Mission by mission, world by world, it evolves.
-
-**Go deeper:** [Living in simulations](docs/evolve-in-simulations.md) — how the loop works, end to end. Connecting your own agent as a brain (`agentqon brain`) is covered in [Use AgentQon as your agent's brain](docs/brain.md).
-
-## ✨ Features
-
-| | |
-|---|---|
-| 🖥️ **Terminal harness + web UI in one install** | Chat-first in the terminal and the browser; the full dashboard lives one click away |
-| 👥 **6,799-agent roster** | 280 curated agency specialists + 6,385 from the open subagents library + 131 use-case specialists — strategists, researchers, writers, engineers, critics, ranked per task by live performance data |
-| 🎯 **Suitability panels** | Up to 5 best-fit agents per mission; no two task types get the same panel by default |
-| ⚔️ **Critic-verified output** | Every candidate is attacked before it can win |
-| 📦 **Proof Packs** | Exportable evidence trail for any mission |
-| 🏟️ **Agent Arena** | Blind duels — two agents, one task, you pick the winner; results feed the leaderboard |
-| ⏰ **Scheduled missions** | Recurring work that fires on its own |
-| 🌍 **Simulation worlds** | Run a mission's strategies through a deterministic model world before committing |
-| 📱 **WhatsApp & Telegram front doors** | Run missions from your phone — see the [channels guide](docs/whatsapp-and-telegram.md) |
-| 🔐 **BYOK vault** | Encrypted per-tenant key storage; two connection kinds — local server or API key |
-| 🛡️ **AgentQon Shield** (v20.2) | Compiled, encrypted payload with a signed integrity manifest — a tampered install refuses to start; per-install local token and an HMAC-signed CLI↔server channel protect the local API |
+In plain words: a small server runs on your own machine and holds your data, your keys (encrypted), your roster, and your history. The terminal harness and the web UI both talk to that server — never to us. When work runs, the server calls the model *you* connected, through the connection *you* made, and records what happened: the plan, the drafts, the criticism, the scores, the spend. There is no AgentQon cloud in the middle, because there is no AgentQon cloud.
 
 ## 📦 Install
 
-**Requirements:** Node.js ≥ 18 and **Python 3.12 exactly**. The current release's Shield-protected payload is compiled for Python 3.12, so setup refuses other Python versions (3.11, 3.13, …) with a plain message telling you to install 3.12. (On first run, AgentQon checks both and tells you exactly what to install if anything is missing.)
+**Requirements:** Node.js ≥ 18 and **Python 3.12 exactly** (the protected payload is compiled for 3.12; setup checks and tells you in plain words if anything is missing).
 
 ```sh
-npm install -g omnimind-ai
-```
-
-Then:
-
-```sh
+npm install -g agentqon
 agentqon
 ```
 
-The first run installs the bundled platform into `~/.agentqon`, builds its private Python environment, starts the local server on http://127.0.0.1:8000 (or the next free port) and opens your workspace.
+The first run installs the platform into `~/.agentqon`, starts the local server, and opens your workspace. First time ever, the connect screen is the first thing you see — connect a model there, on the main screen, no hunting through settings.
+
+**Updating** — always in this order:
+
+```sh
+agentqon stop
+npm install -g agentqon@latest
+agentqon setup
+agentqon
+```
 
 Platform walkthroughs: [Installation guide](docs/installation.md).
 
@@ -120,14 +159,13 @@ Platform walkthroughs: [Installation guide](docs/installation.md).
 agentqon                                  # set up, start, open the UI, chat
 agentqon run "Compare pricing strategies for a subscription coffee brand"
 agentqon agents                           # who's on the roster, suitability-ranked
+agentqon skills                           # browse the skill library
 agentqon arena "Write a launch tweet for a smart lamp"   # blind duel — you judge
 agentqon proof <mission-id>               # the evidence behind a result
 agentqon doctor                           # health checklist
 ```
 
-**Connect a model first** (one-time): Ollama is auto-detected, or add a provider key in the UI's Connections panel. All four routes — BYOK, environment endpoint, OmniRoute sidecar, Ollama — are in [Connecting models](docs/connecting-models.md).
-
-Full walkthrough: [Getting started](docs/getting-started.md).
+**Connect a model first** (one-time): a local model server on your machine, or an API key — the only two kinds there are. Full guide: [Connecting models](docs/connecting-models.md).
 
 ## ⌨️ Commands
 
@@ -140,6 +178,7 @@ Full walkthrough: [Getting started](docs/getting-started.md).
 | `agentqon serve` | Run the local server in the foreground |
 | `agentqon open` / `logs` | Open the web UI / tail the server log |
 | `agentqon agents` | Suitability-ranked agents |
+| `agentqon skills` | Browse and search the skill library |
 | `agentqon stats` | Performance ledger + arena leaderboard |
 | `agentqon missions` | Recent missions |
 | `agentqon proof <mission-id>` | Evidence labels + save the proof pack |
@@ -153,31 +192,49 @@ Full walkthrough: [Getting started](docs/getting-started.md).
 
 Full reference: [Command guide](docs/commands.md).
 
-## 📚 Guides
+## 📚 Guides and tutorials
+
+Start with the **[docs index](docs/README.md)** — every guide, in the order you'd want them.
 
 | Guide | What's inside |
 |---|---|
 | [Installation](docs/installation.md) | Every platform, updates, uninstall, environment switches |
-| [Getting started](docs/getting-started.md) | Your first mission, end to end — proof packs, arena, schedules, simulation |
-| [Connecting models](docs/connecting-models.md) | BYOK keys, env endpoints, OmniRoute, Ollama — and which to choose |
+| [Getting started](docs/getting-started.md) | Zero to your first critic-verified mission |
+| [Connecting models](docs/connecting-models.md) | The two connection kinds — local server or API key — and which to choose |
+| [Your first mission](docs/first-mission.md) | A full walkthrough with an example brief, step by step |
+| [Agent sessions](docs/agent-sessions.md) | Tool-using agents: tools, approvals, workspaces, the claim guards |
+| [Skills](docs/skills.md) | How automatic retrieval works, and what pins do |
+| [Model self-test](docs/model-self-test.md) | Proving which of your models actually answer |
+| [Society simulation](docs/society.md) | The simulated room: sizes, cost, and what the output does and does not mean |
 | [Commands](docs/commands.md) | The full CLI and in-chat slash-command reference |
 | [AgentQon as a brain](docs/brain.md) | Wire your own external agent to AgentQon with one scoped key and one POST |
 | [WhatsApp & Telegram](docs/whatsapp-and-telegram.md) | Missions from your phone, with the platforms' real limitations stated honestly |
-| [Living in simulations](docs/evolve-in-simulations.md) | Bring your own agent, give it AgentQon as its brain, and let it practise, compete and evolve in simulation worlds |
-| [Troubleshooting & FAQ](docs/troubleshooting.md) | Ports, Python, "model not connected", data locations |
+| [Living in simulations](docs/evolve-in-simulations.md) | Let an agent practise, compete and evolve in simulation worlds |
+| [Troubleshooting & FAQ](docs/troubleshooting.md) | Ports, Python, rate limits, "model not connected", data locations |
+
+## ⚖️ Honest limits
+
+- **A local install cannot be made literally untouchable by its own machine's owner.** Shield guarantees package integrity, encrypted data at rest, and resistance to outside attackers — it cannot, and does not claim to, stop the person whose computer it is.
+- **Your results are bounded by your model.** AgentQon's panel, critic and checks organise a model's work; they cannot give a small model a big model's judgement. Free local models are a fine start; demanding missions reward a stronger model.
+- **Simulated numbers are estimates, never predictions** — in simulation worlds and in the society room alike. They are labelled that way on every surface that shows them.
+- **The interface is English.** The work itself is not: your model answers in whatever language it speaks, so missions and chats run in your language today — only the buttons and labels are English.
+
+## 🗺️ Roadmap
+
+Kept deliberately short and honest: the local product is the product. Later, a hosted option and team features may follow for people who want AgentQon on a server with shared workspaces. No dates are promised, and nothing on this page depends on them.
 
 ## ❓ FAQ
 
 <details>
-<summary><strong>Is AgentQon free?</strong></summary>
+<summary><strong>Is AgentQon really free?</strong></summary>
 <br>
-The software is MIT-licensed and free. You bring the model: a local Ollama model costs nothing; hosted providers charge their own rates, and AgentQon shows every run's cost as a footnote.
+Yes — the software is MIT-licensed and free, with no paid tier. You bring the model: a local model costs nothing; a hosted provider charges its own rates, and AgentQon shows every run's cost as a footnote.
 </details>
 
 <details>
 <summary><strong>Does my data leave my machine?</strong></summary>
 <br>
-Only to the model you connected. With Ollama, nothing leaves at all. Missions, keys and settings live in <code>~/.agentqon/data</code>, with keys in an envelope-encrypted vault.
+Only to the model you connected. With a local model, nothing leaves at all. Missions, keys and settings live in <code>~/.agentqon/data</code>, with keys in an envelope-encrypted vault.
 </details>
 
 <details>
@@ -186,11 +243,20 @@ Only to the model you connected. With Ollama, nothing leaves at all. Missions, k
 A wrapper gives you one model's first draft. AgentQon runs a suitability-picked panel of specialists, attacks their drafts with a critic, scores the survivors, tracks every agent's record — and hands you the evidence trail with the answer.
 </details>
 
+<details>
+<summary><strong>Which language does it work in?</strong></summary>
+<br>
+The interface is English-only. The work is any-language: chat and run missions in whatever language your model speaks.
+</details>
+
 More answers in [Troubleshooting & FAQ](docs/troubleshooting.md).
 
-## 🤝 Contributing
+## 🤝 Support and contact
 
-Bug reports, feature requests and documentation fixes are welcome — see [CONTRIBUTING.md](CONTRIBUTING.md). Security reports: see [SECURITY.md](SECURITY.md).
+- **Help with the product:** [SUPPORT.md](SUPPORT.md) — where to ask, what to include, and how security reports work.
+- **Bugs and feature requests:** GitHub Issues on this repository.
+- **Security reports:** see [SECURITY.md](SECURITY.md) — report privately, never in a public issue.
+- **Contributing:** documentation fixes and guides are welcome — see [CONTRIBUTING.md](CONTRIBUTING.md).
 
 ## About this repository
 
@@ -201,7 +267,7 @@ This repository is AgentQon's public home — product documentation, guides and 
 MIT © 2026 Zohaib Khan
 
 <p align="center">
-  <img src="assets/logo.png" alt="" width="42">
+  <img src="assets/logo-mark.png" alt="" width="42">
   <br>
   <sub>AgentQon — built by Zohaib Khan · <a href="https://www.npmjs.com/package/agentqon">npm</a> · <a href="docs/getting-started.md">Get started</a></sub>
 </p>
