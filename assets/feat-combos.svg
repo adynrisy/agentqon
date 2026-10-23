@@ -1,0 +1,76 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="420" viewBox="0 0 880 420" role="img" aria-label="Model combos, drawn in motion: a call travels a chain of model chips, the first stamps NOT ANSWERING, and the call hops to the next model, which stamps ANSWERED.">
+  <rect x="1" y="1" width="878" height="418" rx="18" fill="#070907" stroke="#232a23" stroke-width="2"/>
+  <title>Model combos — drawn in motion</title>
+  <g font-family="'Public Sans','Segoe UI',Arial,sans-serif">
+    <rect x="48" y="44" width="10" height="26" fill="#e9ead9"/>
+    <rect x="64" y="36" width="10" height="34" fill="#c8ff3d"/>
+    <rect x="80" y="44" width="10" height="26" fill="#e9ead9"/>
+    <text x="110" y="68" font-size="30" font-weight="800" letter-spacing="5" fill="#e9ead9">MODEL COMBOS</text>
+    <rect x="112" y="82" width="0" height="3" fill="#c8ff3d">
+      <animate attributeName="width" from="0" to="290" dur="0.9s" begin="0.15s" fill="freeze"/><animate attributeName="width" values="290;252;290" keyTimes="0;0.5;1" begin="1.3s" dur="5.5s" repeatCount="indefinite"/>
+    </rect>
+    <text x="48" y="118" font-family="'IBM Plex Mono',Consolas,monospace" font-size="16" fill="#8b968a">One name, a chain of models — if the first will not answer, the next one does.</text>
+  </g>
+  <rect x="48" y="140" width="784" height="1" fill="#232a23"/>
+  <text x="170" y="196" text-anchor="middle" font-family="'IBM Plex Mono',Consolas,monospace" font-size="12" letter-spacing="2" fill="#6f7a6c">FIRST TRY</text>
+  <text x="440" y="196" text-anchor="middle" font-family="'IBM Plex Mono',Consolas,monospace" font-size="12" letter-spacing="2" fill="#6f7a6c">FAILOVER</text>
+  <text x="710" y="196" text-anchor="middle" font-family="'IBM Plex Mono',Consolas,monospace" font-size="12" letter-spacing="2" fill="#6f7a6c">RESERVE</text>
+  <path d="M292 236 l14 6 l-14 6 z" fill="#39402f">
+    <animate attributeName="opacity" values="0.5;1;0.5" keyTimes="0;0.5;1" dur="2.4s" repeatCount="indefinite"/>
+  </path>
+  <path d="M562 236 l14 6 l-14 6 z" fill="#39402f">
+    <animate attributeName="opacity" values="0.5;1;0.5" keyTimes="0;0.5;1" dur="2.4s" begin="0.8s" repeatCount="indefinite"/>
+  </path>
+  <g font-family="'IBM Plex Mono',Consolas,monospace">
+    <rect x="60" y="210" width="220" height="64" rx="8" fill="#11140f" stroke="#232a23">
+      <animate attributeName="stroke" values="#232a23;#232a23;#2a2f22;#2a2f22;#232a23;#232a23" keyTimes="0;0.1200;0.1500;0.93;0.98;1" dur="10s" repeatCount="indefinite"/>
+    </rect>
+    <circle cx="88" cy="242" r="6" fill="#39402f">
+      <animate attributeName="fill" values="#39402f;#39402f;#f1efe3;#f1efe3;#39402f;#39402f" keyTimes="0;0.2200;0.2600;0.93;0.98;1" dur="10s" repeatCount="indefinite"/>
+    </circle>
+    <text x="108" y="248" font-size="15.5" fill="#a9b3a4">MODEL A — KEY 1</text>
+  </g>
+  <g font-family="'IBM Plex Mono',Consolas,monospace">
+    <rect x="330" y="210" width="220" height="64" rx="8" fill="#11140f" stroke="#232a23">
+      <animate attributeName="stroke" values="#232a23;#232a23;#2a2f22;#2a2f22;#232a23;#232a23" keyTimes="0;0.3300;0.3600;0.93;0.98;1" dur="10s" repeatCount="indefinite"/>
+    </rect>
+    <circle cx="358" cy="242" r="6" fill="#39402f">
+      <animate attributeName="fill" values="#39402f;#39402f;#c8ff3d;#c8ff3d;#39402f;#39402f" keyTimes="0;0.3800;0.4200;0.93;0.98;1" dur="10s" repeatCount="indefinite"/>
+    </circle>
+    <text x="378" y="248" font-size="15.5" fill="#a9b3a4">MODEL B — LOCAL</text>
+  </g>
+  <g font-family="'IBM Plex Mono',Consolas,monospace" opacity="0.55">
+    <rect x="600" y="210" width="220" height="64" rx="8" fill="#11140f" stroke="#232a23"/>
+    <circle cx="628" cy="242" r="6" fill="#39402f"/>
+    <text x="648" y="248" font-size="15.5" fill="#a9b3a4">MODEL C — KEY 2</text>
+  </g>
+  <g transform="translate(170 242) rotate(-7)" opacity="0">
+    <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.2350;0.2600;0.93;0.97;1" dur="10s" repeatCount="indefinite"/>
+    <g>
+      <animateTransform attributeName="transform" type="scale" values="1.6;1.6;1;1;1" keyTimes="0;0.2350;0.2850;0.93;1" dur="10s" repeatCount="indefinite"/>
+      <rect x="-108" y="-22" width="216" height="44" rx="6" fill="none" stroke="#f1efe3" stroke-width="3"/>
+      <text x="0" y="7" text-anchor="middle" font-family="'IBM Plex Mono',Consolas,monospace" font-size="18" font-weight="700" letter-spacing="2.5" fill="#a9b3a4">NOT ANSWERING</text>
+    </g>
+  </g>
+  <g transform="translate(440 242) rotate(-7)" opacity="0">
+    <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.4050;0.4300;0.93;0.97;1" dur="10s" repeatCount="indefinite"/>
+    <g>
+      <animateTransform attributeName="transform" type="scale" values="1.6;1.6;1;1;1" keyTimes="0;0.4050;0.4550;0.93;1" dur="10s" repeatCount="indefinite"/>
+      <rect x="-86" y="-22" width="172" height="44" rx="6" fill="none" stroke="#c8ff3d" stroke-width="3"/>
+      <text x="0" y="7" text-anchor="middle" font-family="'IBM Plex Mono',Consolas,monospace" font-size="18" font-weight="700" letter-spacing="3" fill="#c8ff3d">ANSWERED</text>
+    </g>
+  </g>
+  <circle cx="30" cy="242" r="9" fill="#c8ff3d" opacity="0">
+    <animate attributeName="cx" values="30;170;170;440;440" keyTimes="0;0.12;0.24;0.33;1" dur="10s" repeatCount="indefinite"/>
+    <animate attributeName="cy" values="242;242;242;196;242;242" keyTimes="0;0.12;0.24;0.285;0.33;1" dur="10s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.03;0.94;1" dur="10s" repeatCount="indefinite"/>
+  </circle>
+  <text x="440" y="330" text-anchor="middle" font-family="'IBM Plex Mono',Consolas,monospace" font-size="14.5" letter-spacing="1.5" fill="#8b968a" opacity="0">
+    <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.36;0.42;0.93;1" dur="10s" repeatCount="indefinite"/>
+    THE CALL MOVES — THE WORK DOES NOT STOP
+  </text>
+  <text x="440" y="394" text-anchor="middle" font-family="'IBM Plex Mono',Consolas,monospace" font-size="13.5" letter-spacing="2" fill="#c8ff3d" opacity="0">
+    <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.46;0.52;0.93;1" dur="10s" repeatCount="indefinite"/>
+    EVERY MOVE IS RECORDED IN THE MISSION'S MINUTES
+  </text>
+</svg>
