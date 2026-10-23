@@ -62,7 +62,7 @@
 
 AgentQon is **free — no paid tier, no trial clock, no catch.** You bring the model: run one locally (free) or connect your own API key (your provider bills you, not us). There is nothing to unlock and nothing that expires.
 
-> **Release status, stated plainly:** v22.0.0 is live on npm today. A larger release is in staging now — the Verdict Room interface, the skill library, the model self-test, the society simulation, and AgentQon's own names for every agent and skill described on this page. The install and update commands stay exactly the same.
+> **Release status, stated plainly:** v22.0.0 is live on npm today. A larger release is in staging now — the Verdict Room interface, the skill library, the model self-test, and the society simulation described on this page. The install and update commands stay exactly the same.
 
 ## 🧠 What is AgentQon?
 
