@@ -52,8 +52,8 @@ agentqon
 ### Release pipeline
 - The pack-gate now scans the compiled payload, asserts the package
   identity and the Python 3.12 build, and uses wider secret patterns.
-- The package rename is a verified script (11 replacements, gate PASS
-  with identity verified for this staging).
+- The package identity check is scripted and verified (11 checks, gate
+  PASS with identity verified for this staging).
 
 ## Test evidence
 - Backend unit: 240 passed (the one sandbox queue-timing failure is
