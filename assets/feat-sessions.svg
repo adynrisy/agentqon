@@ -1,0 +1,77 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="450" viewBox="0 0 880 450" role="img" aria-label="Agent sessions, drawn in motion: lines are written into a file in your folder, an approval gate halts the work, the stamp lands, and writing resumes to a saved file.">
+  <rect x="1" y="1" width="878" height="448" rx="18" fill="#070907" stroke="#232a23" stroke-width="2"/>
+  <title>Agent sessions — drawn in motion</title>
+  <g font-family="'Public Sans','Segoe UI',Arial,sans-serif">
+    <rect x="48" y="44" width="10" height="26" fill="#e9ead9"/>
+    <rect x="64" y="36" width="10" height="34" fill="#c8ff3d"/>
+    <rect x="80" y="44" width="10" height="26" fill="#e9ead9"/>
+    <text x="110" y="68" font-size="30" font-weight="800" letter-spacing="5" fill="#e9ead9">AGENT SESSIONS</text>
+    <rect x="112" y="82" width="0" height="3" fill="#c8ff3d">
+      <animate attributeName="width" from="0" to="368" dur="0.9s" begin="0.15s" fill="freeze"/><animate attributeName="width" values="368;320;368" keyTimes="0;0.5;1" begin="1.3s" dur="5.5s" repeatCount="indefinite"/>
+    </rect>
+    <text x="48" y="118" font-family="'IBM Plex Mono',Consolas,monospace" font-size="16" fill="#8b968a">Agents that do the work in your folder — and stop to ask before anything risky.</text>
+  </g>
+  <rect x="48" y="140" width="784" height="1" fill="#232a23"/>
+  <g>
+    <rect x="48" y="166" width="112" height="26" rx="8" fill="#0d100c" stroke="#2a2f22"/>
+    <rect x="48" y="182" width="302" height="208" rx="10" fill="#0d100c" stroke="#2a2f22"/>
+    <text x="68" y="206" font-family="'IBM Plex Mono',Consolas,monospace" font-size="13" fill="#6f7a6c">YOUR FOLDER</text>
+    <rect x="68" y="224" width="262" height="40" rx="6" fill="#11140f" stroke="#232a23"></rect>
+    <text x="86" y="250" font-family="'IBM Plex Mono',Consolas,monospace" font-size="15" fill="#a9b3a4">notes.md</text>
+    <circle cx="308" cy="244" r="5" fill="#39402f"/>
+    <rect x="68" y="276" width="262" height="40" rx="6" fill="#11140f" stroke="#232a23"><animate attributeName="stroke" values="#232a23;#232a23;#c8ff3d;#c8ff3d;#232a23" keyTimes="0;0.03;0.06;0.95;1" dur="11s" repeatCount="indefinite"/></rect>
+    <text x="86" y="302" font-family="'IBM Plex Mono',Consolas,monospace" font-size="15" fill="#a9b3a4">draft.txt</text>
+    <circle cx="308" cy="296" r="5" fill="#39402f"/>
+    <rect x="68" y="328" width="262" height="40" rx="6" fill="#11140f" stroke="#232a23"></rect>
+    <text x="86" y="354" font-family="'IBM Plex Mono',Consolas,monospace" font-size="15" fill="#a9b3a4">report.md</text>
+    <circle cx="308" cy="348" r="5" fill="#39402f"/>
+  </g>
+  <g>
+    <rect x="400" y="166" width="432" height="224" rx="10" fill="#11140f" stroke="#2a2f22"/>
+    <text x="424" y="196" font-family="'IBM Plex Mono',Consolas,monospace" font-size="14.5" fill="#6f7a6c">draft.txt — being written</text>
+    <rect x="424" y="222" width="0" height="9" rx="4" fill="#a9b3a4">
+      <animate attributeName="width" values="0;0;330;330;0;0" keyTimes="0;0.0500;0.1200;0.955;0.985;1" dur="11s" repeatCount="indefinite"/>
+    </rect>
+    <rect x="424" y="249" width="0" height="9" rx="4" fill="#a9b3a4">
+      <animate attributeName="width" values="0;0;288;288;0;0" keyTimes="0;0.1400;0.2100;0.955;0.985;1" dur="11s" repeatCount="indefinite"/>
+    </rect>
+    <rect x="424" y="276" width="0" height="9" rx="4" fill="#a9b3a4">
+      <animate attributeName="width" values="0;0;348;348;0;0" keyTimes="0;0.2300;0.3000;0.955;0.985;1" dur="11s" repeatCount="indefinite"/>
+    </rect>
+    <rect x="424" y="303" width="0" height="9" rx="4" fill="#a9b3a4">
+      <animate attributeName="width" values="0;0;238;238;0;0" keyTimes="0;0.6800;0.7500;0.955;0.985;1" dur="11s" repeatCount="indefinite"/>
+    </rect>
+    <rect x="424" y="330" width="0" height="9" rx="4" fill="#a9b3a4">
+      <animate attributeName="width" values="0;0;318;318;0;0" keyTimes="0;0.7600;0.8300;0.955;0.985;1" dur="11s" repeatCount="indefinite"/>
+    </rect>
+    <rect x="424" y="357" width="0" height="9" rx="4" fill="#a9b3a4">
+      <animate attributeName="width" values="0;0;178;178;0;0" keyTimes="0;0.8400;0.9100;0.955;0.985;1" dur="11s" repeatCount="indefinite"/>
+    </rect>
+    <line x1="400" y1="306" x2="832" y2="306" stroke="#f1efe3" stroke-width="1.6" stroke-dasharray="7 7" opacity="0">
+      <animate attributeName="opacity" values="0;0;0.85;0.85;0;0" keyTimes="0;0.435;0.46;0.655;0.70;1" dur="11s" repeatCount="indefinite"/>
+    </line>
+    <g opacity="0">
+      <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.44;0.465;0.635;0.66;1" dur="11s" repeatCount="indefinite"/>
+      <g transform="translate(616 306)">
+        <g>
+          <animateTransform attributeName="transform" type="scale" values="1;1.07;1" keyTimes="0;0.5;1" dur="0.9s" repeatCount="indefinite"/>
+          <rect x="-88" y="-23" width="176" height="46" rx="23" fill="#070907" stroke="#f1efe3" stroke-width="1.8"/>
+          <text x="0" y="6" text-anchor="middle" font-family="'IBM Plex Mono',Consolas,monospace" font-size="17" font-weight="700" letter-spacing="2.5" fill="#f1efe3">APPROVAL?</text>
+        </g>
+      </g>
+    </g>
+    <g transform="translate(616 306) rotate(-8)" opacity="0">
+      <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.655;0.685;0.955;0.985;1" dur="11s" repeatCount="indefinite"/>
+      <g>
+        <animateTransform attributeName="transform" type="scale" values="1.6;1.6;1;1;1" keyTimes="0;0.655;0.695;0.955;1" dur="11s" repeatCount="indefinite"/>
+        <rect x="-97" y="-25" width="194" height="50" rx="6" fill="none" stroke="#c8ff3d" stroke-width="3"/>
+        <text x="0" y="8" text-anchor="middle" font-family="'IBM Plex Mono',Consolas,monospace" font-size="23" font-weight="700" letter-spacing="4" fill="#c8ff3d">APPROVED</text>
+      </g>
+    </g>
+    <g opacity="0">
+      <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.905;0.93;0.955;0.985;1" dur="11s" repeatCount="indefinite"/>
+      <path d="M424 379 l5 6 l9 -11" fill="none" stroke="#c8ff3d" stroke-width="2.6" stroke-linecap="round"/>
+      <text x="446" y="384" font-family="'IBM Plex Mono',Consolas,monospace" font-size="14.5" letter-spacing="2" fill="#c8ff3d">FILE SAVED</text>
+    </g>
+  </g>
+</svg>
