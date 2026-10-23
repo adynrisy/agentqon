@@ -20,8 +20,9 @@ way the product talks: plain words, nothing readable two ways.
 - **[Agent sessions](agent-sessions.md)** — agents that use tools:
   files, commands and the web, inside a workspace, under your
   approval, with the claim guards explained.
-- **[Skills](skills.md)** — the 5,053-skill library: how automatic
-  retrieval works, and what pins do.
+- **[Skills](skills.md)** — the skill library: 4,840 skills in the
+  box, 5,053 with the Extended Library — how automatic retrieval
+  works, and what pins do.
 - **[Model self-test](model-self-test.md)** — one click that proves
   which of your models actually answer, and what each stamp means.
 - **[Society simulation](society.md)** — the simulated room of 100
