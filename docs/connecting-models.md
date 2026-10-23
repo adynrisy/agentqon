@@ -1,8 +1,9 @@
 # Connecting models
 
-AgentQon has **no built-in model and no mock mode**. Work runs on a
-model you connect — and if none is connected, work refuses with a
-plain "no model connected" message instead of inventing output.
+AgentQon has **no built-in model and no mock mode**. Work runs on the
+model you connect (BYOK or a free local model) — and if none is
+connected, work refuses with a plain "no model connected" message
+instead of inventing output.
 
 There are exactly **two kinds of connection**. That is the whole
 design, on purpose:
