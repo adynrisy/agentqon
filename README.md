@@ -45,6 +45,10 @@
   <a href="docs/troubleshooting.md">FAQ</a>
 </p>
 
+<p align="center">
+  <img src="assets/catchers.svg" alt="Free on localhost · Your own API key (BYOK) · Completely free · No account, no signup · One-command install · Private by design · No per-seat pricing" width="100%">
+</p>
+
 ## Contents
 
 - [Free. Completely.](#-free-completely)
@@ -67,7 +71,7 @@
 
 ## 💸 Free. Completely.
 
-AgentQon is **free — no paid tier, no trial clock, no catch.** **Bring your own key (BYOK):** an API key from a provider you already have — or run a free local model on your own computer. No AgentQon account, nothing to top up. There is nothing to unlock and nothing that expires.
+AgentQon is **free — no paid tier, no trial clock, no catch.** **Bring your own key (BYOK):** an API key from a provider you already have — or run a free local model on your own computer: **free on localhost, zero cost forever.** No AgentQon account, no signup, nothing to top up. There is nothing to unlock and nothing that expires.
 
 > **Release status, stated plainly:** v22.0.0 is live on npm today. A larger release is in staging now — the Verdict Room interface, the skill library, the model self-test, and the society simulation described on this page. The install and update commands stay exactly the same.
 
@@ -146,7 +150,7 @@ A performance ledger remembers which agents actually deliver, so panels get bett
 
 ## 📸 Screenshots
 
-Real screens from the product, unedited — success states only, the whole tour in eight frames.
+Real screens from the product, unedited — success states only, in four frames.
 
 <table>
   <tr>
@@ -155,38 +159,18 @@ Real screens from the product, unedited — success states only, the whole tour 
       <br><strong>The panel, in session</strong> — the seated bench (Drafter, Researcher, Critic, Evaluator), the exhibits, and the chatbox at the bottom of the main screen.
     </td>
     <td width="50%">
-      <img src="assets/shots/first-run.png" alt="The first-run connect page">
-      <br><strong>First run</strong> — connecting a model is the first thing a new user ever sees; once a model seats, this page never shows again.
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <img src="assets/shots/advanced.png" alt="Advanced — the mission contract form and the docketed folds">
-      <br><strong>Advanced</strong> — the mission contract up top; every subsystem folded beneath it, docketed 01–09.
-    </td>
-    <td>
-      <img src="assets/shots/registry.png" alt="The agent registry">
-      <br><strong>The agent registry</strong> — every agent's capabilities, quality score and record, open to check before you trust it with a job.
-    </td>
-  </tr>
-  <tr>
-    <td>
       <img src="assets/shots/skills.png" alt="The skill library browser">
       <br><strong>The skill library</strong> — 5,053 skills, searchable, each shown with its source collection and license.
     </td>
-    <td>
-      <img src="assets/shots/self-test.png" alt="Model self-test results">
-      <br><strong>Model self-test</strong> — one tiny real request per model; each is stamped WORKING or NOT WORKING, with the reason in plain words.
-    </td>
   </tr>
   <tr>
-    <td>
+    <td width="50%">
       <img src="assets/shots/society.png" alt="The society simulation graph">
       <br><strong>Society simulation</strong> — a simulated room of 100 agents reacts to a finished mission. A SIMULATED ESTIMATE — never a prediction.
     </td>
-    <td>
-      <img src="assets/shots/society-focus.png" alt="One agent selected in the society graph — its lines traced, the room dimmed">
-      <br><strong>Trace any agent</strong> — select one dot and its lines light up against the room; click to read exactly what it said, round by round.
+    <td width="50%">
+      <img src="assets/shots/self-test.png" alt="Model self-test results">
+      <br><strong>Model self-test</strong> — one tiny real request per model; each is stamped WORKING or NOT WORKING, with the reason in plain words.
     </td>
   </tr>
 </table>
