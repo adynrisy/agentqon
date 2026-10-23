@@ -44,6 +44,7 @@ Three checks solve most reports before they're filed:
 
 Reviewing AgentQon, featuring it, or writing about it? Everything you
 need is public: this repository, the npm page, and the guides above.
-For direct contact, open an issue marked "business" and it will reach
-the maker. There is no paid placement and no review embargo game —
+For direct contact, write to the maker at bussiness.agentqon@gmail.com —
+that mailbox is the business and creator contact. (GitHub Issues still
+work too; the email is simply the direct route.) There is no paid placement and no review embargo game —
 the product is free; try it the way your audience would.
