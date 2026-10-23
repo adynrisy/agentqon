@@ -3,7 +3,7 @@
 A **skill** is a packaged method: a procedure, a checklist, a way of
 doing a kind of work well — pricing analysis, code review, research
 triangulation, hundreds more. Agents are the *who*; skills are the
-*how*. AgentQon ships a library of **5,053 skills**, every one under
+*how*. AgentQon ships a library of **4,840 skills in the box — 5,053 with the free Extended Library**, every one under
 an AgentQon name, and the important part is that **you never have to
 go and fetch them**: the harness retrieves them for each task on its
 own.
