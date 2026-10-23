@@ -79,7 +79,7 @@
 
 AgentQon is **free — no paid tier, no trial clock, no catch.** **Bring your own key (BYOK):** an API key from a provider you already have — or run a free local model on your own computer: **free on localhost, zero cost forever.** No AgentQon account, no signup, nothing to top up. There is nothing to unlock and nothing that expires.
 
-> **Release status, stated plainly:** v22.0.0 is live on npm today. A larger release is in staging now — the Verdict Room interface, the skill library, the model self-test, and the society simulation described on this page. The install and update commands stay exactly the same.
+> **Release status, stated plainly:** v22.1.3 is live on npm today — the Verdict Room interface, the skill library, the model self-test and the society simulation. Three more releases are staged and roll out as they are approved: **v22.2.0** (the Extended Library), **v22.3.0** (model combos, provider presets, the new page map) and **v22.4.0** (live world progress) — all described on this page. The install and update commands stay exactly the same.
 
 ## 🎬 See it work
 
@@ -93,7 +93,7 @@ The whole story, drawn in one loop: you state a mission, the panel plans it and 
 ### The exhibits
 
 <p align="center">
-  <img src="assets/exhibits.svg" alt="The exhibits: 6,799 specialist agents on the roster, 5,053 skills in the library, 100 agents in one society room, 1,055 tests at the final gate — zero failures" width="100%">
+  <img src="assets/exhibits.svg" alt="The exhibits: 6,799 specialist agents on the roster, 4,840 skills in the box — 5,053 with the Extended Library, 100 agents in one society room, 1,055 tests at the final gate — zero failures" width="100%">
 </p>
 
 > **Counted, not claimed.** The roster and library counts come from the shipping build itself; the test counts are the final audit gate's own record (642 unit · 200 integration · 160 interface · 53 CLI, zero failures). Open the product and count them yourself — the roster, the library and the records are all inspectable.
@@ -117,8 +117,8 @@ Everything runs **on your machine**. Your missions, keys and data live in `~/.ag
 | **Models** | BYOK — an API key from a provider you already have, or a free local model on your own computer |
 | **The panel** | Planner → up to 5 specialist agents → critic → evaluator → Proof Pack |
 | **Roster** | 6,799 agents, suitability-ranked per task, each with an inspectable record |
-| **Skill library** | 5,053 skills, retrieved automatically for each task |
-| **Also inside** | Tool-using agent sessions · model self-test · society simulation · arena · scheduled missions · WhatsApp & Telegram |
+| **Skill library** | 4,840 skills in the box — 5,053 with the free Extended Library — retrieved automatically for each task |
+| **Also inside** | Tool-using agent sessions · model self-test · model combos · provider presets · society simulation · arena · scheduled missions · WhatsApp & Telegram |
 | **Your data** | Stays in `~/.agentqon/data`; keys in an envelope-encrypted vault |
 
 ## 🤔 Why a panel, not one chatbot?
@@ -142,7 +142,7 @@ A performance ledger remembers which agents actually deliver, so panels get bett
 | Checking | A critic attacks every draft; an evaluator scores the survivors | The first draft is the answer |
 | Evidence | Every result ships with a Proof Pack | You take its word for it |
 | Specialists | 6,799 agents, ranked by measured record | None |
-| Skills | 5,053, retrieved automatically per task | None |
+| Skills | 4,840 in the box (5,053 with the Extended Library), retrieved automatically per task | None |
 | Memory of what works | A performance ledger re-picks panels by results | Starts from zero each time |
 | Price | Free — no paid tier | Varies |
 
@@ -167,11 +167,31 @@ The features, drawn in motion — how each one works, in the product's own visua
   <tr>
     <td width="50%">
       <img src="assets/feat-skills.svg" alt="Drawn animation: a query beam sweeps a grid of skill cards, three light up and fly to the panel bench">
-      <br><strong>The skill library</strong> — a query sweeps the shelves; the skills that fit light up and fly to the bench. 5,053 skills, 6,799 agents.
+      <br><strong>The skill library</strong> — a query sweeps the shelves; the skills that fit light up and fly to the bench. 4,840 skills in the box, 5,053 with the Extended Library, 6,799 agents.
     </td>
     <td width="50%">
       <img src="assets/feat-selftest.svg" alt="Drawn animation: a probe sweeps down the model rows, stamping each model working or not working">
       <br><strong>Model self-test</strong> — a probe walks your models one by one and stamps each WORKING or NOT WORKING, before any of them is trusted with a job.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <img src="assets/feat-combos.svg" alt="Drawn animation: a call travels a chain of model chips, the first stamps NOT ANSWERING, and the call hops to the next model, which stamps ANSWERED">
+      <br><strong>Model combos</strong> — one name, a chain of models. If the first will not answer, the call moves to the next — in missions and in chat, with every move on record.
+    </td>
+    <td width="50%">
+      <img src="assets/feat-presets.svg" alt="Drawn animation: a provider name is picked from a row of names and its address fills itself into the connection form">
+      <br><strong>Provider presets</strong> — pick the provider and its address fills itself in. 115 presets from the registry, each still editable — and Custom, for any address at all.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <img src="assets/feat-extended.svg" alt="Drawn animation: a sealed pack is stamped VERIFIED for its signature, and the library count rises from 4,840 to 5,053">
+      <br><strong>The Extended Library</strong> — the 213 skills npm will not carry, back as one optional, signed pack. Asked first, default No, verified before it installs — never on npm.
+    </td>
+    <td width="50%">
+      <img src="assets/feat-worldlive.svg" alt="Drawn animation: a ring of simulated agents lights up call by call while a progress bar fills — round 1 of 5, 4 of 6 calls answered, still working">
+      <br><strong>The world, live</strong> — a society run shows its work while it works: round 1 of 5 · 4 of 6 calls answered · still working. A SIMULATED ESTIMATE — never a prediction.
     </td>
   </tr>
   <tr>
@@ -192,14 +212,25 @@ Plain conversation with your connected model, in the terminal or the browser. Sm
 ### 🎯 Missions
 The core unit of work: a goal in plain words, planned into tasks, run by a panel, critic-checked, and delivered with a Proof Pack. Missions can be scheduled to recur, and a finished mission can be re-examined from every angle — the plan, the drafts, the criticism, the scores. Tutorial: [Your first mission](docs/first-mission.md).
 
+Missions have their own page now: the sidebar's **Missions** entry opens the list and the full record — nothing routes through Advanced to reach them. A running mission can be **stopped** from its chat card or its detail page, and work already done stays on record. And when a model call fails mid-mission, the card says so in plain words — **"Your model isn't answering — retrying"** — instead of sitting silent at "Starting…".
+
 ### 🛠️ Agent sessions — agents that use tools
 An agent session lets an agent *do* things, not just say things: read and write files inside a workspace you choose, run commands, and read the web. Writes and network commands stop and ask for your approval first (unless you switch approvals off for that session), everything is confined to the workspace, and two guards check the agent's claims against what its tools actually did — an agent cannot claim it built something its own tool results contradict. Guide: [Agent sessions](docs/agent-sessions.md).
 
 ### 👥 The roster — 6,799 agents, AgentQon's own names
 Strategists, researchers, writers, engineers, critics, and hundreds of narrower specialists — every one carrying an AgentQon name, ranked per task by the suitability engine and the performance ledger. Open any agent's record from the registry and read what it has actually done before you trust it with a job.
 
-### 📚 The skill library — 5,053 skills, pulled in automatically
-Skills are packaged know-how: procedures, checklists, and methods an agent can follow. AgentQon ships a library of **5,053 skills** and retrieves the right ones *for* each task — the top matches are folded into the agent's working context under a strict size cap, so your panel gets the relevant method without you hunting for it. Pin the skills you trust most and they are always considered first. Browse the library in the web UI or with `agentqon skills`. Guide: [Skills](docs/skills.md).
+### 📚 The skill library — 4,840 skills in the box, pulled in automatically
+Skills are packaged know-how: procedures, checklists, and methods an agent can follow. AgentQon ships a library of **4,840 skills** in the box and retrieves the right ones *for* each task — the top matches are folded into the agent's working context under a strict size cap, so your panel gets the relevant method without you hunting for it. Pin the skills you trust most and they are always considered first. Browse the library in the web UI or with `agentqon skills`. Guide: [Skills](docs/skills.md).
+
+#### 📦 The Extended Library — the 213 npm doesn't carry
+
+The library originally held 5,053 skills. To pass npm's automated review, a cluster of **213 security-research skills** was cut from the package in v22.1.3 — stated plainly, not silently. They return as the **Extended Library**: one optional pack, **signed (Ed25519)** and verified before anything installs, offered **once at setup with the default answer No** — and later any time with `agentqon skills extended`. It lands only in `~/.agentqon/extended-library`, never inside the npm package, and removes as cleanly as it installs. The counts are reported both ways, everywhere: **4,840 in the box · 5,053 with the Extended Library**.
+
+<p align="center">
+  <img src="assets/feat-extended.svg" alt="Drawn animation: a sealed pack is stamped VERIFIED for its signature, and the library count rises from 4,840 to 5,053" width="880">
+  <br><sub>The Extended Library, drawn in motion — sealed, signature-checked, and counted both ways. Change one byte or fake the signature and the install is refused in plain words.</sub>
+</p>
 
 ### 🔌 Model self-test — know which of your models actually answer
 A model can be listed by a provider and still not answer. The self-test sends one tiny real request to every model on every connection and stamps each one **WORKING** or **NOT WORKING**, with the reason in plain words — wrong key, model gone, rate limit, timeout. One click: **Test all**. Guide: [Model self-test](docs/model-self-test.md).
@@ -209,12 +240,35 @@ A model can be listed by a provider and still not answer. The self-test sends on
   <br><sub>Model self-test, drawn in motion — every model stamped before it is trusted with a job. A model the catalog listed as fine was caught not answering: listing is not answering.</sub>
 </p>
 
+### 🔀 Model combos — one name, a chain of models
+A **combo** is a named chain of models — across any of your connections — that answers to one name. Pin `combo:<name>` in a mission or a chat and every call goes through the chain: if a provider fails, times out, refuses, or runs out of quota, the call **moves to the next model automatically**, and every move is written into the mission's minutes as a `ComboFailover` event. It never fails over when the request itself is wrong, and a chain that runs out of models says so — it never quietly answers from somewhere else. Name patterns (like `claude-*`) can route to a combo by rule, with priorities and on/off switches; or pin `combo:auto` and the chain builds itself from your healthy connected models, scored live. Twelve routing strategies are fully real — priority, fill-first, round-robin, weighted, cost-optimized and more. Seven are deferred, and the product names them with their reasons instead of faking them. Guide: [Connecting models](docs/connecting-models.md).
+
+<p align="center">
+  <img src="assets/feat-combos.svg" alt="Drawn animation: a call travels a chain of model chips, the first stamps NOT ANSWERING, and the call hops to the next model, which stamps ANSWERED" width="880">
+  <br><sub>Model combos, drawn in motion — the call moves, the work does not stop, and the move is on the record.</sub>
+</p>
+
+### 🧭 Provider presets & custom headers — connect without the hunting
+Adding a hosted provider used to mean finding its exact API address yourself. Now the connection form carries **115 provider presets**, drawn from OmniRoute's registry: pick the name and the address fills itself in — still editable, and **Custom** remains for any address at all. Seventeen registry entries are deliberately *not* offered — web chat pages, command-line tools and OAuth-only doors are not API endpoints — and the reason is recorded for each one. Connections can also carry **custom headers**, validated and stored in the encrypted vault like keys, shown only masked in API responses. That unlocks gateways with identity gates: the built-in **AgentRouter preset** fills in its address (`https://agentrouter.org/v1`) together with the Claude Code identity headers it demands, which a plain client cannot send. Guide: [Connecting models](docs/connecting-models.md).
+
+<p align="center">
+  <img src="assets/feat-presets.svg" alt="Drawn animation: a provider name is picked from a row of names and its address fills itself into the connection form" width="880">
+  <br><sub>Provider presets, drawn in motion — pick the name, the address fills in. A wrong address is how a connection quietly fails; a preset cannot be typed wrong.</sub>
+</p>
+
 ### 🌐 Society simulation — watch a room react
 After a mission finishes, you can optionally seat a **simulated room of 100 agents** — leads who think individually and crowd tables that react together — and watch them respond to the result over several rounds: who supports it, who pushes back, how the split moves. The result is a 2D network graph of the room with every agent's actual lines one click away. It is always labelled what it is: a **SIMULATED ESTIMATE — never a prediction**. Opt-in only, never automatic; the harness sizes the room to your task and tells you the cost before anything runs. Guide: [Society simulation](docs/society.md).
+
+And the run **shows its work while it works** (v22.4.0): a live line — *round 1 of 5 · 4 of 6 calls answered · still working* — on the mission panel and on the Simulations page, updated as each call lands, not only when a round ends. The time estimate is honest about where it comes from: measured from your own finished runs when there are any, from the self-test's timing when there are not — and when there is no evidence at all, it says **"the time is unknown — it depends on your model's speed"** instead of printing a confident guess. If a run is interrupted mid-round, the answers already given stay on the record, with a note of how far it got.
 
 <p align="center">
   <img src="assets/feat-society.svg" alt="Drawn animation: a finished mission lands in the middle of a ring of simulated agents, who light up in waves as stances form" width="880">
   <br><sub>Society simulation, drawn in motion — the finished work lands mid-room and the room settles into stances around it. A SIMULATED ESTIMATE — never a prediction.</sub>
+</p>
+
+<p align="center">
+  <img src="assets/feat-worldlive.svg" alt="Drawn animation: a ring of simulated agents lights up call by call while a progress bar fills — round 1 of 5, 4 of 6 calls answered, still working" width="880">
+  <br><sub>The world, live — progress as it happens, on the record from the first call of the round, not the last.</sub>
 </p>
 
 ### And the rest of the bench
@@ -271,6 +325,7 @@ agentqon                                  # set up, start, open the UI, chat
 agentqon run "Compare pricing strategies for a subscription coffee brand"
 agentqon agents                           # who's on the roster, suitability-ranked
 agentqon skills                           # browse the skill library
+agentqon skills extended                  # the optional Extended Library pack
 agentqon arena "Write a launch tweet for a smart lamp"   # blind duel — you judge
 agentqon proof <mission-id>               # the evidence behind a result
 agentqon doctor                           # health checklist
@@ -290,6 +345,7 @@ agentqon doctor                           # health checklist
 | `agentqon open` / `logs` | Open the web UI / tail the server log |
 | `agentqon agents` | Suitability-ranked agents |
 | `agentqon skills` | Browse and search the skill library |
+| `agentqon skills extended` | The Extended Library: status, or install/remove the optional signed pack |
 | `agentqon stats` | Performance ledger + arena leaderboard |
 | `agentqon missions` | Recent missions |
 | `agentqon proof <mission-id>` | Evidence labels + save the proof pack |
@@ -315,7 +371,7 @@ Start with the **[docs index](docs/README.md)** — every guide, in the order yo
 |---|---|
 | [Installation](docs/installation.md) | Every platform, updates, uninstall, environment switches |
 | [Getting started](docs/getting-started.md) | Zero to your first critic-verified mission |
-| [Connecting models](docs/connecting-models.md) | The two connection kinds — local server or API key — and which to choose |
+| [Connecting models](docs/connecting-models.md) | The two connection kinds — local server or API key — plus presets, custom headers and model combos |
 | [Your first mission](docs/first-mission.md) | A full walkthrough with an example brief, step by step |
 | [Agent sessions](docs/agent-sessions.md) | Tool-using agents: tools, approvals, workspaces, the claim guards |
 | [Skills](docs/skills.md) | How automatic retrieval works, and what pins do |
