@@ -39,6 +39,23 @@
   <a href="docs/troubleshooting.md">FAQ</a>
 </p>
 
+## Contents
+
+- [Free. Completely.](#-free-completely)
+- [What is AgentQon?](#-what-is-agentqon)
+- [Why a panel, not one chatbot?](#-why-a-panel-not-one-chatbot)
+- [Screenshots](#-screenshots)
+- [Features in detail](#-features-in-detail)
+- [How it works](#-how-it-works)
+- [Install](#-install)
+- [Quick start](#-quick-start)
+- [Commands](#-commands)
+- [Guides and tutorials](#-guides-and-tutorials)
+- [Honest limits](#-honest-limits)
+- [FAQ](#-faq)
+- [Roadmap](#-roadmap)
+- [Support and contact](#-support-and-contact)
+
 ---
 
 ## 💸 Free. Completely.
@@ -53,8 +70,21 @@ AgentQon is a **harness**: one install that seats a panel of AI agents in front 
 
 Everything runs **on your machine**. Your missions, keys and data live in `~/.agentqon/data` — nothing goes anywhere except the model *you* connect.
 
+### AgentQon at a glance
+
+| | |
+|---|---|
+| **Price** | Free — no paid tier, no trial clock (MIT) |
+| **Runs on** | Your machine — Windows, macOS, Linux (Node ≥ 18, Python 3.12) |
+| **Models** | Yours: a local model server, or your own API key (BYOK) |
+| **The panel** | Planner → up to 5 specialist agents → critic → evaluator → Proof Pack |
+| **Roster** | 6,799 agents, suitability-ranked per task, each with an inspectable record |
+| **Skill library** | 5,053 skills, retrieved automatically for each task |
+| **Also inside** | Tool-using agent sessions · model self-test · society simulation · arena · scheduled missions · WhatsApp & Telegram |
+| **Your data** | Stays in `~/.agentqon/data`; keys in an envelope-encrypted vault |
+
 <p align="center">
-  <img src="assets/shots/panel.png" alt="The AgentQon panel — the Verdict Room interface" width="880">
+  <img src="assets/shots/welcome.png" alt="The AgentQon panel — Put it to the panel" width="880">
   <br><sub>The panel screen. The chatbox lives here, at the bottom of the main screen — nowhere else.</sub>
 </p>
 
@@ -72,6 +102,53 @@ A performance ledger remembers which agents actually deliver, so panels get bett
 
 > ### 🚫 The no-fake-output guarantee
 > AgentQon has **no mock mode and no canned answers**. If no model is connected, work refuses to run and tells you exactly how to connect one — it will never dress up template text as agent work. What you read was written by a real model, or you read nothing.
+
+## 📸 Screenshots
+
+Real screens from the product, unedited — the whole tour in eight frames.
+
+<table>
+  <tr>
+    <td width="50%">
+      <img src="assets/shots/welcome.png" alt="The panel welcome screen — Put it to the panel">
+      <br><strong>The panel, in session</strong> — the seated bench (Drafter, Researcher, Critic, Evaluator), the exhibits, and the chatbox at the bottom of the main screen.
+    </td>
+    <td width="50%">
+      <img src="assets/shots/first-run.png" alt="The first-run connect page">
+      <br><strong>First run</strong> — connecting a model is the first thing a new user ever sees; once a model seats, this page never shows again.
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="assets/shots/advanced.png" alt="Advanced — the mission contract form and the docketed folds">
+      <br><strong>Advanced</strong> — the mission contract up top; every subsystem folded beneath it, docketed 01–09.
+    </td>
+    <td>
+      <img src="assets/shots/registry.png" alt="The agent registry">
+      <br><strong>The agent registry</strong> — every agent's capabilities, quality score and record, open to check before you trust it with a job.
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="assets/shots/skills.png" alt="The skill library browser">
+      <br><strong>The skill library</strong> — 5,053 skills, searchable, each shown with its source collection and license.
+    </td>
+    <td>
+      <img src="assets/shots/self-test.png" alt="Model self-test results">
+      <br><strong>Model self-test</strong> — one tiny real request per model; each is stamped WORKING or NOT WORKING, with the reason in plain words.
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="assets/shots/society.png" alt="The society simulation graph">
+      <br><strong>Society simulation</strong> — a simulated room of 100 agents reacts to a finished mission. A SIMULATED ESTIMATE — never a prediction.
+    </td>
+    <td>
+      <img src="assets/shots/errors.png" alt="An error in plain words, with a Try again">
+      <br><strong>Errors, in plain words</strong> — no codes and no stack traces: what happened, what to do, and a Try again.
+    </td>
+  </tr>
+</table>
 
 ## ✨ Features in detail
 
@@ -219,10 +296,6 @@ Start with the **[docs index](docs/README.md)** — every guide, in the order yo
 - **Simulated numbers are estimates, never predictions** — in simulation worlds and in the society room alike. They are labelled that way on every surface that shows them.
 - **The interface is English.** The work itself is not: your model answers in whatever language it speaks, so missions and chats run in your language today — only the buttons and labels are English.
 
-## 🗺️ Roadmap
-
-Kept deliberately short and honest: the local product is the product. Later, a hosted option and team features may follow for people who want AgentQon on a server with shared workspaces. No dates are promised, and nothing on this page depends on them.
-
 ## ❓ FAQ
 
 <details>
@@ -250,6 +323,10 @@ The interface is English-only. The work is any-language: chat and run missions i
 </details>
 
 More answers in [Troubleshooting & FAQ](docs/troubleshooting.md).
+
+## 🗺️ Roadmap
+
+Kept deliberately short and honest: the local product is the product. Later, a hosted option and team features may follow for people who want AgentQon on a server with shared workspaces. No dates are promised, and nothing on this page depends on them.
 
 ## 🤝 Support and contact
 
