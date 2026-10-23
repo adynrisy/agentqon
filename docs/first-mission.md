@@ -9,6 +9,11 @@ stage does and what you get back.
 the mission will refuse — honestly, in plain words — instead of
 inventing an answer.
 
+<p align="center">
+  <img src="../assets/shots/advanced.png" alt="Advanced — the mission contract form and the docketed folds beneath it" width="880">
+  <br><sub>Where a mission starts: the contract form in Advanced, validated before any agent runs.</sub>
+</p>
+
 ## The example brief
 
 We will use a brief with a real decision inside it:
