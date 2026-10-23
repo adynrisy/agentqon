@@ -255,6 +255,7 @@ More answers in [Troubleshooting & FAQ](docs/troubleshooting.md).
 
 - **Help with the product:** [SUPPORT.md](SUPPORT.md) — where to ask, what to include, and how security reports work.
 - **Bugs and feature requests:** GitHub Issues on this repository.
+- **Creator and business contact:** bussiness.agentqon@gmail.com — write directly for reviews, features, and business questions.
 - **Security reports:** see [SECURITY.md](SECURITY.md) — report privately, never in a public issue.
 - **Contributing:** documentation fixes and guides are welcome — see [CONTRIBUTING.md](CONTRIBUTING.md).
 
