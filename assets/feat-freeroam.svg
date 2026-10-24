@@ -1,0 +1,96 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="420" viewBox="0 0 880 420" role="img" aria-label="Free-roam, drawn in motion: a home folder sits at the centre while the helper reads files across the machine, and a write outside the home is stopped by an ASK FIRST stamp.">
+  <rect x="1" y="1" width="878" height="418" rx="18" fill="#070907" stroke="#232a23" stroke-width="2"/>
+  <title>Free-roam — drawn in motion</title>
+  <g font-family="'Public Sans','Segoe UI',Arial,sans-serif">
+    <rect x="48" y="44" width="10" height="26" fill="#e9ead9"/>
+    <rect x="64" y="36" width="10" height="34" fill="#c8ff3d"/>
+    <rect x="80" y="44" width="10" height="26" fill="#e9ead9"/>
+    <text x="110" y="68" font-size="30" font-weight="800" letter-spacing="5" fill="#e9ead9">FREE-ROAM</text>
+    <rect x="112" y="82" width="0" height="3" fill="#c8ff3d">
+      <animate attributeName="width" values="0;310;310" keyTimes="0;0.06;1" dur="14s" repeatCount="indefinite"/>
+    </rect>
+    <text x="48" y="118" font-family="'IBM Plex Mono',Consolas,monospace" font-size="16" fill="#8b968a">A task helper for your whole machine — reads roam, writes ask first, nothing harmed.</text>
+  </g>
+  <rect x="48" y="140" width="784" height="1" fill="#232a23"/>
+  <!-- Read beams: home folder to each file card -->
+  <line x1="282" y1="232" x2="412" y2="200" stroke="#c8ff3d" stroke-width="1.4" stroke-dasharray="5 5" opacity="0.25">
+    <animate attributeName="opacity" values="0.25;0.25;0.9;0.9;0.25" keyTimes="0;0.07;0.10;0.90;1" dur="14s" repeatCount="indefinite"/>
+  </line>
+  <line x1="282" y1="252" x2="632" y2="200" stroke="#c8ff3d" stroke-width="1.4" stroke-dasharray="5 5" opacity="0.25">
+    <animate attributeName="opacity" values="0.25;0.25;0.9;0.9;0.25" keyTimes="0;0.18;0.21;0.90;1" dur="14s" repeatCount="indefinite"/>
+  </line>
+  <line x1="282" y1="272" x2="412" y2="312" stroke="#c8ff3d" stroke-width="1.4" stroke-dasharray="5 5" opacity="0.25">
+    <animate attributeName="opacity" values="0.25;0.25;0.9;0.9;0.25" keyTimes="0;0.28;0.31;0.90;1" dur="14s" repeatCount="indefinite"/>
+  </line>
+  <!-- Home folder -->
+  <g>
+    <rect x="110" y="196" width="66" height="20" rx="4" fill="#232a23" stroke="#c8ff3d" stroke-width="1.4"/>
+    <rect x="110" y="212" width="172" height="88" rx="8" fill="#161a13" stroke="#c8ff3d" stroke-width="1.8"/>
+    <text x="196" y="262" text-anchor="middle" font-family="'IBM Plex Mono',Consolas,monospace" font-size="20" font-weight="700" letter-spacing="3" fill="#f1efe3">HOME</text>
+    <text x="196" y="326" text-anchor="middle" font-family="'IBM Plex Mono',Consolas,monospace" font-size="12.5" letter-spacing="1.5" fill="#8b968a">YOUR PROJECT FOLDER</text>
+  </g>
+  <!-- File card A: notes -->
+  <g>
+    <rect x="420" y="168" width="150" height="64" rx="8" fill="#161a13" stroke="#2a2f22" stroke-width="1.4"/>
+    <text x="434" y="196" font-family="'IBM Plex Mono',Consolas,monospace" font-size="14" fill="#e9ead9">notes.txt</text>
+    <text x="434" y="218" font-family="'IBM Plex Mono',Consolas,monospace" font-size="11" letter-spacing="1.5" fill="#c8ff3d" opacity="0">
+      <animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.10;0.13;1" dur="14s" repeatCount="indefinite"/>
+      READ
+    </text>
+    <circle cx="552" cy="190" r="5" fill="#262c26">
+      <animate attributeName="fill" values="#262c26;#262c26;#c8ff3d;#c8ff3d;#262c26" keyTimes="0;0.07;0.10;0.93;1" dur="14s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+  <!-- File card B: report -->
+  <g>
+    <rect x="640" y="168" width="150" height="64" rx="8" fill="#161a13" stroke="#2a2f22" stroke-width="1.4"/>
+    <text x="654" y="196" font-family="'IBM Plex Mono',Consolas,monospace" font-size="14" fill="#e9ead9">report.md</text>
+    <text x="654" y="218" font-family="'IBM Plex Mono',Consolas,monospace" font-size="11" letter-spacing="1.5" fill="#c8ff3d" opacity="0">
+      <animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.21;0.24;1" dur="14s" repeatCount="indefinite"/>
+      READ
+    </text>
+    <circle cx="772" cy="190" r="5" fill="#262c26">
+      <animate attributeName="fill" values="#262c26;#262c26;#c8ff3d;#c8ff3d;#262c26" keyTimes="0;0.18;0.21;0.93;1" dur="14s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+  <!-- File card C: log -->
+  <g>
+    <rect x="420" y="280" width="150" height="64" rx="8" fill="#161a13" stroke="#2a2f22" stroke-width="1.4"/>
+    <text x="434" y="308" font-family="'IBM Plex Mono',Consolas,monospace" font-size="14" fill="#e9ead9">server.log</text>
+    <text x="434" y="330" font-family="'IBM Plex Mono',Consolas,monospace" font-size="11" letter-spacing="1.5" fill="#c8ff3d" opacity="0">
+      <animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.31;0.34;1" dur="14s" repeatCount="indefinite"/>
+      READ
+    </text>
+    <circle cx="552" cy="302" r="5" fill="#262c26">
+      <animate attributeName="fill" values="#262c26;#262c26;#c8ff3d;#c8ff3d;#262c26" keyTimes="0;0.28;0.31;0.93;1" dur="14s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+  <!-- Write path to the outside file + ASK FIRST stamp -->
+  <g opacity="0">
+    <animate attributeName="opacity" values="0;0;1;1;1" keyTimes="0;0.39;0.43;0.93;1" dur="14s" repeatCount="indefinite"/>
+    <polyline points="282,330 600,330 628,318" fill="none" stroke="#f1efe3" stroke-width="1.6"/>
+    <polygon points="628,318 612,312 614,326" fill="#f1efe3"/>
+  </g>
+  <g>
+    <rect x="640" y="280" width="150" height="64" rx="8" fill="#161a13" stroke="#2a2f22" stroke-width="1.4"/>
+    <text x="654" y="308" font-family="'IBM Plex Mono',Consolas,monospace" font-size="14" fill="#e9ead9">outside-file</text>
+    <text x="654" y="330" font-family="'IBM Plex Mono',Consolas,monospace" font-size="11" letter-spacing="1.5" fill="#8b968a">NOT YET CHANGED</text>
+  </g>
+  <g opacity="0">
+    <animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.50;0.54;1" dur="14s" repeatCount="indefinite"/>
+    <g transform="rotate(-8 715 312)">
+      <rect x="645" y="295" width="140" height="34" rx="4" fill="#070907" stroke="#c8ff3d" stroke-width="2.2"/>
+      <text x="715" y="318" text-anchor="middle" font-family="'IBM Plex Mono',Consolas,monospace" font-size="15" font-weight="700" letter-spacing="2" fill="#c8ff3d">ASK FIRST</text>
+    </g>
+  </g>
+  <!-- Home-writes chip -->
+  <g opacity="0">
+    <animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.64;0.68;1" dur="14s" repeatCount="indefinite"/>
+    <rect x="110" y="340" width="172" height="22" rx="11" fill="#11140f" stroke="#2a2f22"/>
+    <text x="196" y="355" text-anchor="middle" font-family="'IBM Plex Mono',Consolas,monospace" font-size="11" letter-spacing="1" fill="#c8ff3d">✓ HOME WRITES: FREE</text>
+  </g>
+  <g>
+    <rect x="205" y="384" width="470" height="28" rx="14" fill="#070907" stroke="#c8ff3d" stroke-width="1.4"/>
+    <text x="440" y="403" text-anchor="middle" font-family="'IBM Plex Mono',Consolas,monospace" font-size="12" letter-spacing="1.5" fill="#c8ff3d">READS ROAM · WRITES ASK FIRST · NEVER ITS OWN FILES</text>
+  </g>
+</svg>
