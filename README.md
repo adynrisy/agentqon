@@ -79,7 +79,7 @@
 
 AgentQon is **free — no paid tier, no trial clock, no catch.** **Bring your own key (BYOK):** an API key from a provider you already have — or run a free local model on your own computer: **free on localhost, zero cost forever.** No AgentQon account, no signup, nothing to top up. There is nothing to unlock and nothing that expires.
 
-> **Release status, stated plainly:** v22.1.3 is live on npm today — the Verdict Room interface, the skill library, the model self-test and the society simulation. Three more releases are staged and roll out as they are approved: **v22.2.0** (the Extended Library), **v22.3.0** (model combos, provider presets, the new page map) and **v22.4.0** (live world progress) — all described on this page. The install and update commands stay exactly the same.
+> **Release status, stated plainly:** v22.1.3 is live on npm today — the Verdict Room interface, the skill library, the model self-test and the society simulation. Four more releases are staged and roll out as they are approved: **v22.2.0** (the Extended Library), **v22.3.0** (model combos, provider presets, the new page map), **v22.4.0** (live world progress) and **v22.5.0** (free-roam — your machine, under your law) — all described on this page. The install and update commands stay exactly the same.
 
 ## 🎬 See it work
 
@@ -200,6 +200,12 @@ The features, drawn in motion — how each one works, in the product's own visua
       <br><strong>Society simulation</strong> — a finished mission lands in a simulated room; the room reacts in waves and settles into stances. A SIMULATED ESTIMATE — never a prediction.
     </td>
   </tr>
+  <tr>
+    <td colspan="2">
+      <img src="assets/feat-freeroam.svg" alt="Drawn animation: a home folder sits at the centre while the helper reads files across the machine, and a write outside the home is stopped by an ASK FIRST stamp">
+      <br><strong>Free-roam</strong> — the helper reads anywhere on your machine to do real work, and changes nothing outside its home without asking you first.
+    </td>
+  </tr>
 </table>
 
 <sub>Every visual on this page is drawn — illustrations of how each feature works, not screenshots or recordings.</sub>
@@ -212,10 +218,28 @@ Plain conversation with your connected model, in the terminal or the browser. Sm
 ### 🎯 Missions
 The core unit of work: a goal in plain words, planned into tasks, run by a panel, critic-checked, and delivered with a Proof Pack. Missions can be scheduled to recur, and a finished mission can be re-examined from every angle — the plan, the drafts, the criticism, the scores. Tutorial: [Your first mission](docs/first-mission.md).
 
-Missions have their own page now: the sidebar's **Missions** entry opens the list and the full record — nothing routes through Advanced to reach them. A running mission can be **stopped** from its chat card or its detail page, and work already done stays on record. And when a model call fails mid-mission, the card says so in plain words — **"Your model isn't answering — retrying"** — instead of sitting silent at "Starting…".
+Missions have their own page now: the sidebar's **Missions** entry opens the list and the full record — nothing routes through Advanced to reach them. A running mission can be **stopped** from its chat card or its detail page, and work already done stays on record. And when a model call fails mid-mission, the card says so in plain words — **"Your model isn't answering — retrying"** — instead of sitting silent at "Starting…". And opening a mission now scrolls straight to its detail card — a fix for long mission lists, where the opened mission used to sit below the screen, invisible.
 
 ### 🛠️ Agent sessions — agents that use tools
 An agent session lets an agent *do* things, not just say things: read and write files inside a workspace you choose, run commands, and read the web. Writes and network commands stop and ask for your approval first (unless you switch approvals off for that session), everything is confined to the workspace, and two guards check the agent's claims against what its tools actually did — an agent cannot claim it built something its own tool results contradict. Guide: [Agent sessions](docs/agent-sessions.md).
+
+### 🏠 Free-roam — a task helper for your whole machine, without harming
+Agent sessions used to work inside one locked folder. Free-roam (v22.5.0) turns the agent into what it should have been all along: **a task helper for you, at machine level, with smart processing — that does not harm your files.**
+
+It works like this, in plain words:
+
+- **Start it where the work is.** Open AgentQon inside a project folder and that folder becomes its **home**. No setup, no paths to type — the folder you are standing in is the folder it works in.
+- **It can read anywhere on your machine.** Notes in another folder, a file on your desktop, a log three folders away — the helper can find and read them, because real tasks are never confined to one folder. Reading harms nothing; it is how the helper understands the job.
+- **It changes almost nothing.** Inside its home, it writes freely, as before. Outside its home, it may change **one specific file you approve** — and only that one. The ask comes to you in plain words, naming the exact file: *"write outside your project: /path/to/that/file"*. Say no, or say nothing, and the file is never touched. A second outside file asks again — permission is per file, never per folder.
+- **It never touches AgentQon's own files.** Not its data, not its install — no approval can override that. The helper cannot rewrite the tool that runs it.
+- **Deleting stays an approval, always.** There is no delete button that skips you.
+
+Two honest limits, stated the same plainly. First, a **shell command you approve yourself can still reach anywhere** — that is the nature of an approved command, not a hidden loophole: the law is enforced hard on the file tools, and for the shell it is enforced by your approval plus the agent's written instructions. Second, the tool **remembers the folder it was started from until you restart it** — open it in a second project while the server is running and it keeps the first home until you stop and start again. On a shared or hosted setup, the old locked-down behaviour stays exactly as it was — free-roam is for your own machine.
+
+<p align="center">
+  <img src="assets/feat-freeroam.svg" alt="Drawn animation: a home folder sits at the centre while the helper reads files across the machine, and a write outside the home is stopped by an ASK FIRST stamp" width="880">
+  <br><sub>Free-roam, drawn in motion — reads roam, writes ask first, and AgentQon's own files are never touched.</sub>
+</p>
 
 ### 👥 The roster — 6,799 agents, AgentQon's own names
 Strategists, researchers, writers, engineers, critics, and hundreds of narrower specialists — every one carrying an AgentQon name, ranked per task by the suitability engine and the performance ledger. Open any agent's record from the registry and read what it has actually done before you trust it with a job.
