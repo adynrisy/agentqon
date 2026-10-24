@@ -3,6 +3,21 @@
 The honest version story. Full notes for each release live on the
 [releases page](https://github.com/adynrisy/agentqon/releases).
 
+## v22.5.0 — staged, rolling out on approval
+
+- **Free-roam** — start AgentQon inside a project folder and that
+  folder becomes its home; the agent can read files anywhere on
+  your machine so it can help with real tasks, and it changes
+  files only inside its home — or one specific outside file you
+  approve, asked in plain words naming the exact file. It never
+  touches AgentQon's own files, and permission is per file, never
+  per folder. On a shared or hosted setup, the old locked-down
+  behaviour is unchanged.
+- **Mission Open, fixed** — opening a mission now scrolls straight
+  to its detail card. The old code scrolled to the top of the
+  page, so on a long mission list the opened mission sat below
+  the screen, invisible — which read as a dead button.
+
 ## v22.4.0 — staged, rolling out on approval
 
 - **The world shows its work** — society runs now report live
