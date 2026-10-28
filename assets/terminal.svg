@@ -15,17 +15,17 @@
     <text x="24" y="192" fill="#e6edf3">command</text>
     <text x="330" y="192" fill="#e6edf3">what it does</text>
     <text x="24" y="212" fill="#30363d">────────────────────────────────────────────────────────────────────────────</text>
-    <text x="24" y="238" fill="#7ee787">agentqon</text>
+    <text x="24" y="238" fill="#4D9FFF">agentqon</text>
     <text x="330" y="238" fill="#c9d1d9">set up (first run), start the server, open the UI, chat</text>
-    <text x="24" y="264" fill="#7ee787">agentqon run &lt;mission…&gt;</text>
+    <text x="24" y="264" fill="#4D9FFF">agentqon run &lt;mission…&gt;</text>
     <text x="330" y="264" fill="#c9d1d9">run one mission and watch it happen</text>
-    <text x="24" y="290" fill="#7ee787">agentqon agents</text>
+    <text x="24" y="290" fill="#4D9FFF">agentqon agents</text>
     <text x="330" y="290" fill="#c9d1d9">suitability-ranked agents from the 6,799 roster</text>
-    <text x="24" y="316" fill="#7ee787">agentqon arena &lt;task…&gt;</text>
+    <text x="24" y="316" fill="#4D9FFF">agentqon arena &lt;task…&gt;</text>
     <text x="330" y="316" fill="#c9d1d9">blind agent duel — you pick the winner</text>
-    <text x="24" y="342" fill="#7ee787">agentqon proof &lt;id&gt;</text>
+    <text x="24" y="342" fill="#4D9FFF">agentqon proof &lt;id&gt;</text>
     <text x="330" y="342" fill="#c9d1d9">evidence labels + save the proof pack</text>
-    <text x="24" y="368" fill="#7ee787">agentqon doctor</text>
+    <text x="24" y="368" fill="#4D9FFF">agentqon doctor</text>
     <text x="330" y="368" fill="#c9d1d9">styled health checklist</text>
     <text x="24" y="404"><tspan fill="#22d3ee">agentqon ❯ </tspan><tspan fill="#e6edf3">Compare pricing strategies for a subscription coffee brand</tspan><tspan fill="#a371f7">▊</tspan></text>
   </g>
