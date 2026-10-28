@@ -35,6 +35,11 @@
 </p>
 
 <p align="center">
+  <a target="_blank" href="https://www.aitoolfinder.com/"><img src="https://www.aitoolfinder.com//function/badge-generator.php?type=0&theme=light&domain=www.aitoolfinder.com" alt="#1 Product on www.aitoolfinder.com" height="84"></a>
+  <a href="https://www.toolpilot.ai/" target="_blank"><img src="https://www.toolpilot.ai/cdn/shop/files/toolpilot-badge-w.png" alt="AgentQon Is Featured On ToolPilot.ai"></a>
+</p>
+
+<p align="center">
   <code><strong>&nbsp;npm install -g agentqon&nbsp;</strong></code>
   <br><sub>One command installs it — then just run <code>agentqon</code>. Free forever. No account, no signup.</sub>
 </p>
