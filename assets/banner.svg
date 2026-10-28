@@ -1,13 +1,13 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 640">
-<rect width="1280" height="640" fill="#070907"/>
-<g opacity="0.10"><g transform="translate(905,55) scale(6.2)" opacity="1.0"><rect x="4" y="4" width="88" height="88" rx="20" fill="#070907" stroke="#2a2f22" stroke-width="1.5"/><rect x="27" y="50" width="10" height="20" rx="2.5" fill="#f1efe3"/><rect x="43" y="34" width="10" height="36" rx="2.5" fill="#c8ff3d"/><rect x="59" y="43" width="10" height="27" rx="2.5" fill="#f1efe3"/></g></g>
-<g transform="translate(84,64) scale(1.25)" opacity="1.0"><rect x="4" y="4" width="88" height="88" rx="20" fill="#070907" stroke="#2a2f22" stroke-width="1.5"/><rect x="27" y="50" width="10" height="20" rx="2.5" fill="#f1efe3"/><rect x="43" y="34" width="10" height="36" rx="2.5" fill="#c8ff3d"/><rect x="59" y="43" width="10" height="27" rx="2.5" fill="#f1efe3"/></g>
-<text x="84" y="330" font-family="Liberation Sans, Arial, Helvetica, sans-serif" font-size="98" font-weight="700" letter-spacing="-2" fill="#f1efe3">AgentQon</text>
-<text x="88" y="394" font-family="Liberation Sans, Arial, Helvetica, sans-serif" font-size="34" fill="#c9c7b8">A panel of AI agents that plans, checks its own work,</text>
-<text x="88" y="440" font-family="Liberation Sans, Arial, Helvetica, sans-serif" font-size="34" fill="#c9c7b8">and finishes the job. <tspan fill="#c8ff3d" font-weight="700">Free.</tspan></text>
-<rect x="88" y="456" width="712" height="4" fill="#c8ff3d"/>
-<g><rect x="84" y="486" width="430" height="56" rx="8" fill="#11140f" stroke="#2a2f22"/>
-<text x="104" y="523" font-family="DejaVu Sans Mono, Liberation Mono, monospace" font-size="24" fill="#f1efe3">$ npm install -g agentqon</text></g>
-<line x1="84" y1="572" x2="1196" y2="572" stroke="#2a2f22" stroke-width="1.5"/>
-<text x="84" y="606" font-family="DejaVu Sans Mono, Liberation Mono, monospace" font-size="19" letter-spacing="3" fill="#6d7061">MISSIONS &#183; AGENT SESSIONS &#183; 6,799 AGENTS &#183; 4,840 SKILLS &#183; SOCIETY SIMULATION</text>
+<rect width="1280" height="640" fill="#050505"/>
+<g opacity="0.10"><g transform="translate(905,55) scale(6.2)" opacity="1.0"><rect x="4" y="4" width="88" height="88" rx="20" fill="#050505" stroke="#1F1F1F" stroke-width="1.5"/><rect x="27" y="50" width="10" height="20" rx="2.5" fill="#F5F5F5"/><rect x="43" y="34" width="10" height="36" rx="2.5" fill="#0274E7"/><rect x="59" y="43" width="10" height="27" rx="2.5" fill="#F5F5F5"/></g></g>
+<g transform="translate(84,64) scale(1.25)" opacity="1.0"><rect x="4" y="4" width="88" height="88" rx="20" fill="#050505" stroke="#1F1F1F" stroke-width="1.5"/><rect x="27" y="50" width="10" height="20" rx="2.5" fill="#F5F5F5"/><rect x="43" y="34" width="10" height="36" rx="2.5" fill="#0274E7"/><rect x="59" y="43" width="10" height="27" rx="2.5" fill="#F5F5F5"/></g>
+<text x="84" y="330" font-family="Liberation Sans, Arial, Helvetica, sans-serif" font-size="98" font-weight="700" letter-spacing="-2" fill="#F5F5F5">AgentQon</text>
+<text x="88" y="394" font-family="Liberation Sans, Arial, Helvetica, sans-serif" font-size="34" fill="#A1A1A6">A panel of AI agents that plans, checks its own work,</text>
+<text x="88" y="440" font-family="Liberation Sans, Arial, Helvetica, sans-serif" font-size="34" fill="#A1A1A6">and finishes the job. <tspan fill="#0274E7" font-weight="700">Free.</tspan></text>
+<rect x="88" y="456" width="712" height="4" fill="#0274E7"/>
+<g><rect x="84" y="486" width="430" height="56" rx="8" fill="#050505" stroke="#1F1F1F"/>
+<text x="104" y="523" font-family="DejaVu Sans Mono, Liberation Mono, monospace" font-size="24" fill="#F5F5F5">$ npm install -g agentqon</text></g>
+<line x1="84" y1="572" x2="1196" y2="572" stroke="#1F1F1F" stroke-width="1.5"/>
+<text x="84" y="606" font-family="DejaVu Sans Mono, Liberation Mono, monospace" font-size="19" letter-spacing="3" fill="#646466">MISSIONS &#183; AGENT SESSIONS &#183; 6,799 AGENTS &#183; 4,840 SKILLS &#183; SOCIETY SIMULATION</text>
 </svg>
