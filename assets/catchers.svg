@@ -1,16 +1,16 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1280" height="118" viewBox="0 0 1280 118" role="img" aria-label="Free on localhost. Your own API key — BYOK. Completely free. No account, no signup. One-command install. Private by design. No per-seat pricing.">
   <title>The deal, in one strip — AgentQon</title>
-  <rect x="1" y="1" width="1278" height="116" rx="18" fill="#070907" stroke="#232a23" stroke-width="2"/>
+  <rect x="1" y="1" width="1278" height="116" rx="18" fill="#050505" stroke="#1F1F1F" stroke-width="2"/>
   <g font-family="'IBM Plex Mono',Consolas,monospace" font-size="15" letter-spacing="1.5" font-weight="700">
-    <text x="160" y="50" text-anchor="middle" fill="#a9b3a4">FREE ON LOCALHOST<animate attributeName="fill" values="#a9b3a4;#f1efe3;#a9b3a4;#a9b3a4" keyTimes="0.0000;0.0714;0.1429;1.0000" dur="7s" begin="0s" repeatCount="indefinite"/></text>
-    <text x="481" y="50" text-anchor="middle" fill="#a9b3a4">BYOK — YOUR OWN API KEY<animate attributeName="fill" values="#a9b3a4;#a9b3a4;#f1efe3;#a9b3a4;#a9b3a4" keyTimes="0.0000;0.1429;0.2143;0.2857;1.0000" dur="7s" begin="0s" repeatCount="indefinite"/></text>
-    <text x="791" y="50" text-anchor="middle" fill="#a9b3a4">COMPLETELY FREE<animate attributeName="fill" values="#a9b3a4;#a9b3a4;#f1efe3;#a9b3a4;#a9b3a4" keyTimes="0.0000;0.2857;0.3571;0.4286;1.0000" dur="7s" begin="0s" repeatCount="indefinite"/></text>
-    <text x="1090" y="50" text-anchor="middle" fill="#a9b3a4">NO ACCOUNT, NO SIGNUP<animate attributeName="fill" values="#a9b3a4;#a9b3a4;#f1efe3;#a9b3a4;#a9b3a4" keyTimes="0.0000;0.4286;0.5000;0.5714;1.0000" dur="7s" begin="0s" repeatCount="indefinite"/></text>
-    <text x="320" y="90" text-anchor="middle" fill="#a9b3a4">ONE-COMMAND INSTALL<animate attributeName="fill" values="#a9b3a4;#a9b3a4;#f1efe3;#a9b3a4;#a9b3a4" keyTimes="0.0000;0.5714;0.6429;0.7143;1.0000" dur="7s" begin="0s" repeatCount="indefinite"/></text>
-    <text x="640" y="90" text-anchor="middle" fill="#a9b3a4">PRIVATE BY DESIGN<animate attributeName="fill" values="#a9b3a4;#a9b3a4;#f1efe3;#a9b3a4;#a9b3a4" keyTimes="0.0000;0.7143;0.7857;0.8571;1.0000" dur="7s" begin="0s" repeatCount="indefinite"/></text>
-    <text x="960" y="90" text-anchor="middle" fill="#a9b3a4">NO PER-SEAT PRICING<animate attributeName="fill" values="#a9b3a4;#a9b3a4;#f1efe3;#a9b3a4" keyTimes="0.0000;0.8571;0.9286;1.0000" dur="7s" begin="0s" repeatCount="indefinite"/></text>
+    <text x="160" y="50" text-anchor="middle" fill="#A1A1A6">FREE ON LOCALHOST<animate attributeName="fill" values="#A1A1A6;#F5F5F5;#A1A1A6;#A1A1A6" keyTimes="0.0000;0.0714;0.1429;1.0000" dur="7s" begin="0s" repeatCount="indefinite"/></text>
+    <text x="481" y="50" text-anchor="middle" fill="#A1A1A6">BYOK — YOUR OWN API KEY<animate attributeName="fill" values="#A1A1A6;#A1A1A6;#F5F5F5;#A1A1A6;#A1A1A6" keyTimes="0.0000;0.1429;0.2143;0.2857;1.0000" dur="7s" begin="0s" repeatCount="indefinite"/></text>
+    <text x="791" y="50" text-anchor="middle" fill="#A1A1A6">COMPLETELY FREE<animate attributeName="fill" values="#A1A1A6;#A1A1A6;#F5F5F5;#A1A1A6;#A1A1A6" keyTimes="0.0000;0.2857;0.3571;0.4286;1.0000" dur="7s" begin="0s" repeatCount="indefinite"/></text>
+    <text x="1090" y="50" text-anchor="middle" fill="#A1A1A6">NO ACCOUNT, NO SIGNUP<animate attributeName="fill" values="#A1A1A6;#A1A1A6;#F5F5F5;#A1A1A6;#A1A1A6" keyTimes="0.0000;0.4286;0.5000;0.5714;1.0000" dur="7s" begin="0s" repeatCount="indefinite"/></text>
+    <text x="320" y="90" text-anchor="middle" fill="#A1A1A6">ONE-COMMAND INSTALL<animate attributeName="fill" values="#A1A1A6;#A1A1A6;#F5F5F5;#A1A1A6;#A1A1A6" keyTimes="0.0000;0.5714;0.6429;0.7143;1.0000" dur="7s" begin="0s" repeatCount="indefinite"/></text>
+    <text x="640" y="90" text-anchor="middle" fill="#A1A1A6">PRIVATE BY DESIGN<animate attributeName="fill" values="#A1A1A6;#A1A1A6;#F5F5F5;#A1A1A6;#A1A1A6" keyTimes="0.0000;0.7143;0.7857;0.8571;1.0000" dur="7s" begin="0s" repeatCount="indefinite"/></text>
+    <text x="960" y="90" text-anchor="middle" fill="#A1A1A6">NO PER-SEAT PRICING<animate attributeName="fill" values="#A1A1A6;#A1A1A6;#F5F5F5;#A1A1A6" keyTimes="0.0000;0.8571;0.9286;1.0000" dur="7s" begin="0s" repeatCount="indefinite"/></text>
   </g>
-  <g fill="#c8ff3d">
+  <g fill="#0274E7">
     <circle cx="320" cy="45" r="3"><animate attributeName="opacity" values="0.45;1;0.45" keyTimes="0;0.5;1" dur="3.5s" repeatCount="indefinite"/></circle>
     <circle cx="636" cy="45" r="3"><animate attributeName="opacity" values="0.45;1;0.45" keyTimes="0;0.5;1" dur="3.5s" repeatCount="indefinite"/></circle>
     <circle cx="941" cy="45" r="3"><animate attributeName="opacity" values="0.45;1;0.45" keyTimes="0;0.5;1" dur="3.5s" repeatCount="indefinite"/></circle>
