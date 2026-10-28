@@ -173,5 +173,5 @@ jobs:
         run: |
           cp app/build/outputs/apk/debug/app-debug.apk "AgentQon-v${{ inputs.version }}.apk"
           ls -lh "AgentQon-v${{ inputs.version }}.apk"
-          gh release view "android-v${{ inputs.version }}" >/dev/null 2>&1 || gh release create "android-v${{ inputs.version }}" --prerelease --title "AgentQon Android v${{ inputs.version }}" --notes "AgentQon for Android — the full harness on your phone. Install: uninstall any older AgentQon app first (each build signs with a fresh debug key), then install this APK. Requires 64-bit Android (arm64), Android 8.0 or newer. This is a debug build. The app is distributed as a release build only — its source code is not published here."
-          gh release upload "android-v${{ inputs.version }}" "AgentQon-v${{ inputs.version }}.apk" --clobber
+          gh release view "android-v${{ inputs.version }}" --repo adynrisy/agentqon >/dev/null 2>&1 || gh release create "android-v${{ inputs.version }}" --repo adynrisy/agentqon --prerelease --title "AgentQon Android v${{ inputs.version }}" --notes "AgentQon for Android — the full harness on your phone. Install: uninstall any older AgentQon app first (each build signs with a fresh debug key), then install this APK. Requires 64-bit Android (arm64), Android 8.0 or newer. This is a debug build. The app is distributed as a release build only — its source code is not published here."
+          gh release upload "android-v${{ inputs.version }}" --repo adynrisy/agentqon "AgentQon-v${{ inputs.version }}.apk" --clobber
