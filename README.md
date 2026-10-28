@@ -81,6 +81,23 @@ AgentQon is **free — no paid tier, no trial clock, no catch.** **Bring your ow
 
 > **Release status, stated plainly:** v22.6.0 is live on npm today — the Muse-mirror activity panel, composer file attachments, and the societies list fix, on top of everything before it: **v22.2.0** (the Extended Library), **v22.3.0** (model combos, provider presets, the new page map), **v22.4.0** (live world progress) and **v22.5.0** (free-roam — your machine, under your law) — all live, all described on this page. v22.7.0 is staged and awaits the owner's approval to go live: the merged redesign UI plus the four v22.6.0 bug fixes. The install and update commands stay exactly the same.
 
+## 📱 Android app
+
+AgentQon also runs on your phone — the full harness, not a
+companion app: chat, missions, agents, simulations, skills, and the
+app-wide activity feed, with the computer character at the top of
+the panel.
+
+The app is distributed as a release build only — its source code
+is not published here. Android builds publish on the releases page:
+
+[AgentQon Android releases](https://github.com/adynrisy/agentqon/releases)
+
+Install: uninstall any older AgentQon app first (each build signs
+with a fresh debug key, so Android blocks installing over the old
+one), then install the downloaded APK. Requires 64-bit Android
+(arm64), Android 8.0 or newer.
+
 ## 🎬 See it work
 
 The whole story, drawn in one loop: you state a mission, the panel plans it and works it — drafts checked, verdict stamped, Proof Pack attached — and then the finished work meets the society room, where a hundred simulated agents react to it in waves.
