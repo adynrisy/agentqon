@@ -3,7 +3,20 @@
 The honest version story. Full notes for each release live on the
 [releases page](https://github.com/adynrisy/agentqon/releases).
 
-## v22.5.0 — staged, rolling out on approval
+## v22.6.0 — live
+
+- **The activity panel, mirrored on Muse** — an app-wide activity
+  center in the right panel: a Today-style feed with a status mark,
+  a plain-words title, a short result line and a time per row,
+  covering work across the whole app, not only missions. Click a
+  task to see its files. The personified computer character sits
+  at the top of the panel.
+- **Composer file attachments** — attach files to a chat message
+  from the composer.
+- **Societies list, fixed** — the societies list no longer fails
+  with a server error; the list loads.
+
+## v22.5.0 — live
 
 - **Free-roam** — start AgentQon inside a project folder and that
   folder becomes its home; the agent can read files anywhere on
@@ -18,7 +31,7 @@ The honest version story. Full notes for each release live on the
   page, so on a long mission list the opened mission sat below
   the screen, invisible — which read as a dead button.
 
-## v22.4.0 — staged, rolling out on approval
+## v22.4.0 — live
 
 - **The world shows its work** — society runs now report live
   progress *inside* a round (round 1 of 5 · 4 of 6 calls answered ·
@@ -32,7 +45,7 @@ The honest version story. Full notes for each release live on the
   round stay on the record, and the interrupted note says how far
   the run got.
 
-## v22.3.0 — staged, rolling out on approval
+## v22.3.0 — live
 
 - **Stop mission** — a running mission can be stopped from its chat
   card or its detail page; work already done stays on record.
@@ -64,7 +77,7 @@ The honest version story. Full notes for each release live on the
   named in the product with their reasons, and refused by the
   editor rather than faked.
 
-## v22.2.0 — staged, rolling out on approval
+## v22.2.0 — live
 
 - **The Extended Library** — the 213 security-research skills cut
   from the npm package in v22.1.3 return as one optional download:
