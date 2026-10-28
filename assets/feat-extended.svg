@@ -1,64 +1,64 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="880" height="420" viewBox="0 0 880 420" role="img" aria-label="The Extended Library, drawn in motion: a sealed pack is stamped VERIFIED for its signature, and the library count rises from 4,840 to 5,053. Optional, signed, never on npm.">
-  <rect x="1" y="1" width="878" height="418" rx="18" fill="#070907" stroke="#232a23" stroke-width="2"/>
+  <rect x="1" y="1" width="878" height="418" rx="18" fill="#050505" stroke="#1F1F1F" stroke-width="2"/>
   <title>The Extended Library — drawn in motion</title>
   <g font-family="'Public Sans','Segoe UI',Arial,sans-serif">
-    <rect x="48" y="44" width="10" height="26" fill="#e9ead9"/>
-    <rect x="64" y="36" width="10" height="34" fill="#c8ff3d"/>
-    <rect x="80" y="44" width="10" height="26" fill="#e9ead9"/>
-    <text x="110" y="68" font-size="30" font-weight="800" letter-spacing="5" fill="#e9ead9">THE EXTENDED LIBRARY</text>
-    <rect x="112" y="82" width="0" height="3" fill="#c8ff3d">
+    <rect x="48" y="44" width="10" height="26" fill="#F5F5F5"/>
+    <rect x="64" y="36" width="10" height="34" fill="#0274E7"/>
+    <rect x="80" y="44" width="10" height="26" fill="#F5F5F5"/>
+    <text x="110" y="68" font-size="30" font-weight="800" letter-spacing="5" fill="#F5F5F5">THE EXTENDED LIBRARY</text>
+    <rect x="112" y="82" width="0" height="3" fill="#0274E7">
       <animate attributeName="width" from="0" to="480" dur="0.9s" begin="0.15s" fill="freeze"/><animate attributeName="width" values="480;424;480" keyTimes="0;0.5;1" begin="1.3s" dur="5.5s" repeatCount="indefinite"/>
     </rect>
-    <text x="48" y="118" font-family="'IBM Plex Mono',Consolas,monospace" font-size="16" fill="#8b968a">213 security-research skills npm will not carry — one optional, signed pack.</text>
+    <text x="48" y="118" font-family="'IBM Plex Mono',Consolas,monospace" font-size="16" fill="#A1A1A6">213 security-research skills npm will not carry — one optional, signed pack.</text>
   </g>
-  <rect x="48" y="140" width="784" height="1" fill="#232a23"/>
+  <rect x="48" y="140" width="784" height="1" fill="#1F1F1F"/>
   <g font-family="'IBM Plex Mono',Consolas,monospace">
-    <rect x="64" y="176" width="250" height="140" rx="10" fill="#11140f" stroke="#2a2f22"/>
-    <line x1="64" y1="212" x2="314" y2="212" stroke="#2a2f22" stroke-width="1.4"/>
-    <text x="189" y="200" text-anchor="middle" font-size="13.5" fill="#a9b3a4">EXTENDED-LIBRARY-V1</text>
-    <circle cx="189" cy="256" r="24" fill="#161a13" stroke="#c8ff3d" stroke-width="1.6">
+    <rect x="64" y="176" width="250" height="140" rx="10" fill="#050505" stroke="#1F1F1F"/>
+    <line x1="64" y1="212" x2="314" y2="212" stroke="#1F1F1F" stroke-width="1.4"/>
+    <text x="189" y="200" text-anchor="middle" font-size="13.5" fill="#A1A1A6">EXTENDED-LIBRARY-V1</text>
+    <circle cx="189" cy="256" r="24" fill="#050505" stroke="#0274E7" stroke-width="1.6">
       <animate attributeName="stroke-opacity" values="0.45;1;0.45" keyTimes="0;0.5;1" dur="3s" repeatCount="indefinite"/>
     </circle>
-    <path d="M177 256 l9 9 l18 -19" fill="none" stroke="#c8ff3d" stroke-width="3" stroke-linecap="round" opacity="0">
+    <path d="M177 256 l9 9 l18 -19" fill="none" stroke="#0274E7" stroke-width="3" stroke-linecap="round" opacity="0">
       <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.24;0.28;0.93;1" dur="11s" repeatCount="indefinite"/>
     </path>
-    <text x="189" y="302" text-anchor="middle" font-size="11.5" fill="#6f7a6c">213 SKILLS · ONE SIGNED TARBALL</text>
+    <text x="189" y="302" text-anchor="middle" font-size="11.5" fill="#646466">213 SKILLS · ONE SIGNED TARBALL</text>
   </g>
   <g transform="translate(306 182) rotate(-8)" opacity="0">
     <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.1950;0.2200;0.93;0.97;1" dur="11s" repeatCount="indefinite"/>
     <g>
       <animateTransform attributeName="transform" type="scale" values="1.6;1.6;1;1;1" keyTimes="0;0.1950;0.2450;0.93;1" dur="11s" repeatCount="indefinite"/>
-      <rect x="-82" y="-21" width="164" height="42" rx="6" fill="none" stroke="#c8ff3d" stroke-width="3"/>
-      <text x="0" y="7" text-anchor="middle" font-family="'IBM Plex Mono',Consolas,monospace" font-size="18" font-weight="700" letter-spacing="3" fill="#c8ff3d">VERIFIED</text>
+      <rect x="-82" y="-21" width="164" height="42" rx="6" fill="none" stroke="#0274E7" stroke-width="3"/>
+      <text x="0" y="7" text-anchor="middle" font-family="'IBM Plex Mono',Consolas,monospace" font-size="18" font-weight="700" letter-spacing="3" fill="#0274E7">VERIFIED</text>
     </g>
   </g>
-  <line x1="330" y1="246" x2="330" y2="246" stroke="#39402f" stroke-width="2.5">
+  <line x1="330" y1="246" x2="330" y2="246" stroke="#353638" stroke-width="2.5">
     <animate attributeName="x2" values="330;330;452;452" keyTimes="0;0.30;0.38;1" dur="11s" repeatCount="indefinite"/>
   </line>
-  <polygon points="452,246 438,239 438,253" fill="#39402f" opacity="0">
+  <polygon points="452,246 438,239 438,253" fill="#353638" opacity="0">
     <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.37;0.40;0.93;1" dur="11s" repeatCount="indefinite"/>
   </polygon>
   <g font-family="'Public Sans','Segoe UI',Arial,sans-serif">
-    <text x="500" y="208" font-family="'IBM Plex Mono',Consolas,monospace" font-size="12.5" letter-spacing="2" fill="#6f7a6c">SKILLS IN THE LIBRARY</text>
-    <text x="500" y="282" font-size="62" font-weight="800" fill="#e9ead9">
+    <text x="500" y="208" font-family="'IBM Plex Mono',Consolas,monospace" font-size="12.5" letter-spacing="2" fill="#646466">SKILLS IN THE LIBRARY</text>
+    <text x="500" y="282" font-size="62" font-weight="800" fill="#F5F5F5">
       <animate attributeName="opacity" values="1;1;0;0;1" keyTimes="0;0.42;0.47;0.95;1" dur="11s" repeatCount="indefinite"/>
       4,840
     </text>
-    <text x="500" y="282" font-size="62" font-weight="800" fill="#c8ff3d" opacity="0">
+    <text x="500" y="282" font-size="62" font-weight="800" fill="#0274E7" opacity="0">
       <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.42;0.47;0.93;1" dur="11s" repeatCount="indefinite"/>
       5,053
     </text>
-    <text x="500" y="314" font-family="'IBM Plex Mono',Consolas,monospace" font-size="13" fill="#8b968a" opacity="0">
+    <text x="500" y="314" font-family="'IBM Plex Mono',Consolas,monospace" font-size="13" fill="#A1A1A6" opacity="0">
       <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.47;0.52;0.93;1" dur="11s" repeatCount="indefinite"/>
       + 213 FROM THE PACK — COUNTED BOTH WAYS, ALWAYS
     </text>
   </g>
   <g font-family="'IBM Plex Mono',Consolas,monospace" font-size="12.5">
-    <rect x="64" y="352" width="330" height="32" rx="16" fill="#070907" stroke="#3a4433"/>
-    <text x="229" y="373" text-anchor="middle" fill="#f1efe3">OPTIONAL · ASKED FIRST · DEFAULT NO</text>
-    <rect x="410" y="352" width="180" height="32" rx="16" fill="#070907" stroke="#3a4433"/>
-    <text x="500" y="373" text-anchor="middle" fill="#f1efe3">SIGNED — Ed25519</text>
-    <rect x="606" y="352" width="226" height="32" rx="16" fill="#070907" stroke="#3a4433"/>
-    <text x="719" y="373" text-anchor="middle" fill="#f1efe3">NEVER ON NPM</text>
+    <rect x="64" y="352" width="330" height="32" rx="16" fill="#050505" stroke="#353638"/>
+    <text x="229" y="373" text-anchor="middle" fill="#F5F5F5">OPTIONAL · ASKED FIRST · DEFAULT NO</text>
+    <rect x="410" y="352" width="180" height="32" rx="16" fill="#050505" stroke="#353638"/>
+    <text x="500" y="373" text-anchor="middle" fill="#F5F5F5">SIGNED — Ed25519</text>
+    <rect x="606" y="352" width="226" height="32" rx="16" fill="#050505" stroke="#353638"/>
+    <text x="719" y="373" text-anchor="middle" fill="#F5F5F5">NEVER ON NPM</text>
   </g>
 </svg>
