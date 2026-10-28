@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="880" height="420" viewBox="0 0 880 420" role="img" aria-label="Provider presets, drawn in motion: a provider name is picked from a row of names and its address fills itself into the connection form. 115 presets, and custom always available.">
-  <rect x="1" y="1" width="878" height="418" rx="18" fill="#070907" stroke="#232a23" stroke-width="2"/>
+  <rect x="1" y="1" width="878" height="418" rx="18" fill="#050505" stroke="#1F1F1F" stroke-width="2"/>
   <title>Provider presets — drawn in motion</title>
   <defs>
     <clipPath id="addrClip">
@@ -9,62 +9,62 @@
     </clipPath>
   </defs>
   <g font-family="'Public Sans','Segoe UI',Arial,sans-serif">
-    <rect x="48" y="44" width="10" height="26" fill="#e9ead9"/>
-    <rect x="64" y="36" width="10" height="34" fill="#c8ff3d"/>
-    <rect x="80" y="44" width="10" height="26" fill="#e9ead9"/>
-    <text x="110" y="68" font-size="30" font-weight="800" letter-spacing="5" fill="#e9ead9">PROVIDER PRESETS</text>
-    <rect x="112" y="82" width="0" height="3" fill="#c8ff3d">
+    <rect x="48" y="44" width="10" height="26" fill="#F5F5F5"/>
+    <rect x="64" y="36" width="10" height="34" fill="#0274E7"/>
+    <rect x="80" y="44" width="10" height="26" fill="#F5F5F5"/>
+    <text x="110" y="68" font-size="30" font-weight="800" letter-spacing="5" fill="#F5F5F5">PROVIDER PRESETS</text>
+    <rect x="112" y="82" width="0" height="3" fill="#0274E7">
       <animate attributeName="width" from="0" to="390" dur="0.9s" begin="0.15s" fill="freeze"/><animate attributeName="width" values="390;340;390" keyTimes="0;0.5;1" begin="1.3s" dur="5.5s" repeatCount="indefinite"/>
     </rect>
-    <text x="48" y="118" font-family="'IBM Plex Mono',Consolas,monospace" font-size="16" fill="#8b968a">Pick the provider — its address fills itself in. No hunting, no typos.</text>
+    <text x="48" y="118" font-family="'IBM Plex Mono',Consolas,monospace" font-size="16" fill="#A1A1A6">Pick the provider — its address fills itself in. No hunting, no typos.</text>
   </g>
-  <rect x="48" y="140" width="784" height="1" fill="#232a23"/>
-  <text x="48" y="176" font-family="'IBM Plex Mono',Consolas,monospace" font-size="12" letter-spacing="2" fill="#6f7a6c">PROVIDER</text>
+  <rect x="48" y="140" width="784" height="1" fill="#1F1F1F"/>
+  <text x="48" y="176" font-family="'IBM Plex Mono',Consolas,monospace" font-size="12" letter-spacing="2" fill="#646466">PROVIDER</text>
   <g font-family="'IBM Plex Mono',Consolas,monospace" font-size="14">
     <g>
-      <rect x="48" y="190" width="140" height="38" rx="8" fill="#11140f" stroke="#232a23"/>
-      <text x="118" y="214" text-anchor="middle" fill="#a9b3a4">OPENROUTER</text>
+      <rect x="48" y="190" width="140" height="38" rx="8" fill="#050505" stroke="#1F1F1F"/>
+      <text x="118" y="214" text-anchor="middle" fill="#A1A1A6">OPENROUTER</text>
     </g>
     <g>
-      <rect x="200" y="190" width="90" height="38" rx="8" fill="#11140f" stroke="#232a23">
-        <animate attributeName="stroke" values="#232a23;#232a23;#c8ff3d;#c8ff3d;#232a23" keyTimes="0;0.10;0.14;0.93;1" dur="9s" repeatCount="indefinite"/>
-        <animate attributeName="fill" values="#11140f;#11140f;#161a13;#161a13;#11140f" keyTimes="0;0.10;0.14;0.93;1" dur="9s" repeatCount="indefinite"/>
+      <rect x="200" y="190" width="90" height="38" rx="8" fill="#050505" stroke="#1F1F1F">
+        <animate attributeName="stroke" values="#1F1F1F;#1F1F1F;#0274E7;#0274E7;#1F1F1F" keyTimes="0;0.10;0.14;0.93;1" dur="9s" repeatCount="indefinite"/>
+        <animate attributeName="fill" values="#050505;#050505;#050505;#050505;#050505" keyTimes="0;0.10;0.14;0.93;1" dur="9s" repeatCount="indefinite"/>
       </rect>
-      <text x="245" y="214" text-anchor="middle" fill="#a9b3a4">
-        <animate attributeName="fill" values="#a9b3a4;#a9b3a4;#c8ff3d;#c8ff3d;#a9b3a4" keyTimes="0;0.10;0.14;0.93;1" dur="9s" repeatCount="indefinite"/>
+      <text x="245" y="214" text-anchor="middle" fill="#A1A1A6">
+        <animate attributeName="fill" values="#A1A1A6;#A1A1A6;#0274E7;#0274E7;#A1A1A6" keyTimes="0;0.10;0.14;0.93;1" dur="9s" repeatCount="indefinite"/>
         GROQ
       </text>
     </g>
     <g>
-      <rect x="302" y="190" width="120" height="38" rx="8" fill="#11140f" stroke="#232a23"/>
-      <text x="362" y="214" text-anchor="middle" fill="#a9b3a4">DEEPSEEK</text>
+      <rect x="302" y="190" width="120" height="38" rx="8" fill="#050505" stroke="#1F1F1F"/>
+      <text x="362" y="214" text-anchor="middle" fill="#A1A1A6">DEEPSEEK</text>
     </g>
     <g>
-      <rect x="434" y="190" width="118" height="38" rx="8" fill="#11140f" stroke="#232a23"/>
-      <text x="493" y="214" text-anchor="middle" fill="#a9b3a4">TOGETHER</text>
+      <rect x="434" y="190" width="118" height="38" rx="8" fill="#050505" stroke="#1F1F1F"/>
+      <text x="493" y="214" text-anchor="middle" fill="#A1A1A6">TOGETHER</text>
     </g>
     <g>
-      <rect x="564" y="190" width="104" height="38" rx="8" fill="#11140f" stroke="#232a23"/>
-      <text x="616" y="214" text-anchor="middle" fill="#a9b3a4">MISTRAL</text>
+      <rect x="564" y="190" width="104" height="38" rx="8" fill="#050505" stroke="#1F1F1F"/>
+      <text x="616" y="214" text-anchor="middle" fill="#A1A1A6">MISTRAL</text>
     </g>
     <g>
-      <rect x="680" y="190" width="152" height="38" rx="8" fill="none" stroke="#2a2f22" stroke-dasharray="5 5"/>
-      <text x="756" y="214" text-anchor="middle" fill="#6f7a6c">+ 110 MORE</text>
+      <rect x="680" y="190" width="152" height="38" rx="8" fill="none" stroke="#1F1F1F" stroke-dasharray="5 5"/>
+      <text x="756" y="214" text-anchor="middle" fill="#646466">+ 110 MORE</text>
     </g>
   </g>
   <g>
-    <rect x="48" y="262" width="560" height="104" rx="8" fill="#11140f" stroke="#232a23"/>
-    <text x="72" y="292" font-family="'IBM Plex Mono',Consolas,monospace" font-size="12" letter-spacing="2" fill="#6f7a6c">ADDRESS — FILLED IN BY THE PRESET, STILL EDITABLE</text>
-    <text x="72" y="330" font-family="'IBM Plex Mono',Consolas,monospace" font-size="17" fill="#e9ead9" clip-path="url(#addrClip)">https://api.groq.com/openai/v1</text>
-    <rect x="72" y="310" width="10" height="22" fill="#c8ff3d" opacity="0">
+    <rect x="48" y="262" width="560" height="104" rx="8" fill="#050505" stroke="#1F1F1F"/>
+    <text x="72" y="292" font-family="'IBM Plex Mono',Consolas,monospace" font-size="12" letter-spacing="2" fill="#646466">ADDRESS — FILLED IN BY THE PRESET, STILL EDITABLE</text>
+    <text x="72" y="330" font-family="'IBM Plex Mono',Consolas,monospace" font-size="17" fill="#F5F5F5" clip-path="url(#addrClip)">https://api.groq.com/openai/v1</text>
+    <rect x="72" y="310" width="10" height="22" fill="#0274E7" opacity="0">
       <animate attributeName="x" values="72;72;544;544" keyTimes="0;0.18;0.52;1" dur="9s" repeatCount="indefinite"/>
       <animate attributeName="opacity" values="0;1;1;0;1;1;0" keyTimes="0;0.18;0.52;0.62;0.72;0.93;1" dur="9s" repeatCount="indefinite"/>
     </rect>
   </g>
   <g opacity="0">
     <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.55;0.60;0.93;1" dur="9s" repeatCount="indefinite"/>
-    <rect x="632" y="292" width="200" height="44" rx="22" fill="#070907" stroke="#c8ff3d" stroke-width="1.4"/>
-    <text x="732" y="319" text-anchor="middle" font-family="'IBM Plex Mono',Consolas,monospace" font-size="13" letter-spacing="1.5" fill="#c8ff3d">FILLED IN FOR YOU</text>
+    <rect x="632" y="292" width="200" height="44" rx="22" fill="#050505" stroke="#0274E7" stroke-width="1.4"/>
+    <text x="732" y="319" text-anchor="middle" font-family="'IBM Plex Mono',Consolas,monospace" font-size="13" letter-spacing="1.5" fill="#0274E7">FILLED IN FOR YOU</text>
   </g>
-  <text x="440" y="398" text-anchor="middle" font-family="'IBM Plex Mono',Consolas,monospace" font-size="14" letter-spacing="2" fill="#a9b3a4">115 PRESETS — AND CUSTOM, FOR ANY ADDRESS AT ALL</text>
+  <text x="440" y="398" text-anchor="middle" font-family="'IBM Plex Mono',Consolas,monospace" font-size="14" letter-spacing="2" fill="#A1A1A6">115 PRESETS — AND CUSTOM, FOR ANY ADDRESS AT ALL</text>
 </svg>
