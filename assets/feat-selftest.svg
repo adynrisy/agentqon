@@ -1,95 +1,95 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="880" height="450" viewBox="0 0 880 450" role="img" aria-label="The model self-test, drawn in motion: a probe sweeps down the model rows and each model is stamped working or not working.">
-  <rect x="1" y="1" width="878" height="448" rx="18" fill="#070907" stroke="#232a23" stroke-width="2"/>
+  <rect x="1" y="1" width="878" height="448" rx="18" fill="#050505" stroke="#1F1F1F" stroke-width="2"/>
   <title>Model self-test — drawn in motion</title>
   <g font-family="'Public Sans','Segoe UI',Arial,sans-serif">
-    <rect x="48" y="44" width="10" height="26" fill="#e9ead9"/>
-    <rect x="64" y="36" width="10" height="34" fill="#c8ff3d"/>
-    <rect x="80" y="44" width="10" height="26" fill="#e9ead9"/>
-    <text x="110" y="68" font-size="30" font-weight="800" letter-spacing="5" fill="#e9ead9">MODEL SELF-TEST</text>
-    <rect x="112" y="82" width="0" height="3" fill="#c8ff3d">
+    <rect x="48" y="44" width="10" height="26" fill="#F5F5F5"/>
+    <rect x="64" y="36" width="10" height="34" fill="#0274E7"/>
+    <rect x="80" y="44" width="10" height="26" fill="#F5F5F5"/>
+    <text x="110" y="68" font-size="30" font-weight="800" letter-spacing="5" fill="#F5F5F5">MODEL SELF-TEST</text>
+    <rect x="112" y="82" width="0" height="3" fill="#0274E7">
       <animate attributeName="width" from="0" to="368" dur="0.9s" begin="0.15s" fill="freeze"/><animate attributeName="width" values="368;320;368" keyTimes="0;0.5;1" begin="1.3s" dur="5.5s" repeatCount="indefinite"/>
     </rect>
-    <text x="48" y="118" font-family="'IBM Plex Mono',Consolas,monospace" font-size="16" fill="#8b968a">One tiny real request to every model — each one stamped before it is trusted.</text>
+    <text x="48" y="118" font-family="'IBM Plex Mono',Consolas,monospace" font-size="16" fill="#A1A1A6">One tiny real request to every model — each one stamped before it is trusted.</text>
   </g>
-  <rect x="48" y="140" width="784" height="1" fill="#232a23"/>
+  <rect x="48" y="140" width="784" height="1" fill="#1F1F1F"/>
   <g>
-    <rect x="48" y="158" width="380" height="52" rx="8" fill="#11140f" stroke="#232a23">
-      <animate attributeName="stroke" values="#232a23;#232a23;#2a2f22;#2a2f22;#232a23;#232a23" keyTimes="0;0.0800;0.1000;0.93;0.98;1" dur="10s" repeatCount="indefinite"/>
+    <rect x="48" y="158" width="380" height="52" rx="8" fill="#050505" stroke="#1F1F1F">
+      <animate attributeName="stroke" values="#1F1F1F;#1F1F1F;#1F1F1F;#1F1F1F;#1F1F1F;#1F1F1F" keyTimes="0;0.0800;0.1000;0.93;0.98;1" dur="10s" repeatCount="indefinite"/>
     </rect>
-    <circle cx="76" cy="184" r="6" fill="#39402f">
-      <animate attributeName="fill" values="#39402f;#39402f;#c8ff3d;#c8ff3d;#39402f;#39402f" keyTimes="0;0.0800;0.1000;0.93;0.98;1" dur="10s" repeatCount="indefinite"/>
+    <circle cx="76" cy="184" r="6" fill="#353638">
+      <animate attributeName="fill" values="#353638;#353638;#0274E7;#0274E7;#353638;#353638" keyTimes="0;0.0800;0.1000;0.93;0.98;1" dur="10s" repeatCount="indefinite"/>
     </circle>
-    <text x="96" y="190" font-family="'IBM Plex Mono',Consolas,monospace" font-size="16.5" fill="#a9b3a4">LOCAL MODEL — OLLAMA</text>
+    <text x="96" y="190" font-family="'IBM Plex Mono',Consolas,monospace" font-size="16.5" fill="#A1A1A6">LOCAL MODEL — OLLAMA</text>
   </g>
   <g transform="translate(616 184) rotate(-7)" opacity="0">
     <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.0850;0.1000;0.93;0.97;1" dur="10s" repeatCount="indefinite"/>
     <g>
       <animateTransform attributeName="transform" type="scale" values="1.6;1.6;1;1;1" keyTimes="0;0.0850;0.1250;0.93;1" dur="10s" repeatCount="indefinite"/>
-      <rect x="-100" y="-23" width="200" height="46" rx="6" fill="none" stroke="#c8ff3d" stroke-width="3"/>
-      <text x="0" y="8" text-anchor="middle" font-family="'IBM Plex Mono',Consolas,monospace" font-size="21" font-weight="700" letter-spacing="3" fill="#c8ff3d">WORKING</text>
+      <rect x="-100" y="-23" width="200" height="46" rx="6" fill="none" stroke="#0274E7" stroke-width="3"/>
+      <text x="0" y="8" text-anchor="middle" font-family="'IBM Plex Mono',Consolas,monospace" font-size="21" font-weight="700" letter-spacing="3" fill="#0274E7">WORKING</text>
     </g>
   </g>
   <g>
-    <rect x="48" y="226" width="380" height="52" rx="8" fill="#11140f" stroke="#232a23">
-      <animate attributeName="stroke" values="#232a23;#232a23;#2a2f22;#2a2f22;#232a23;#232a23" keyTimes="0;0.2800;0.3000;0.93;0.98;1" dur="10s" repeatCount="indefinite"/>
+    <rect x="48" y="226" width="380" height="52" rx="8" fill="#050505" stroke="#1F1F1F">
+      <animate attributeName="stroke" values="#1F1F1F;#1F1F1F;#1F1F1F;#1F1F1F;#1F1F1F;#1F1F1F" keyTimes="0;0.2800;0.3000;0.93;0.98;1" dur="10s" repeatCount="indefinite"/>
     </rect>
-    <circle cx="76" cy="252" r="6" fill="#39402f">
-      <animate attributeName="fill" values="#39402f;#39402f;#c8ff3d;#c8ff3d;#39402f;#39402f" keyTimes="0;0.2800;0.3000;0.93;0.98;1" dur="10s" repeatCount="indefinite"/>
+    <circle cx="76" cy="252" r="6" fill="#353638">
+      <animate attributeName="fill" values="#353638;#353638;#0274E7;#0274E7;#353638;#353638" keyTimes="0;0.2800;0.3000;0.93;0.98;1" dur="10s" repeatCount="indefinite"/>
     </circle>
-    <text x="96" y="258" font-family="'IBM Plex Mono',Consolas,monospace" font-size="16.5" fill="#a9b3a4">LOCAL MODEL — LM STUDIO</text>
+    <text x="96" y="258" font-family="'IBM Plex Mono',Consolas,monospace" font-size="16.5" fill="#A1A1A6">LOCAL MODEL — LM STUDIO</text>
   </g>
   <g transform="translate(616 252) rotate(-7)" opacity="0">
     <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.2850;0.3000;0.93;0.97;1" dur="10s" repeatCount="indefinite"/>
     <g>
       <animateTransform attributeName="transform" type="scale" values="1.6;1.6;1;1;1" keyTimes="0;0.2850;0.3250;0.93;1" dur="10s" repeatCount="indefinite"/>
-      <rect x="-100" y="-23" width="200" height="46" rx="6" fill="none" stroke="#c8ff3d" stroke-width="3"/>
-      <text x="0" y="8" text-anchor="middle" font-family="'IBM Plex Mono',Consolas,monospace" font-size="21" font-weight="700" letter-spacing="3" fill="#c8ff3d">WORKING</text>
+      <rect x="-100" y="-23" width="200" height="46" rx="6" fill="none" stroke="#0274E7" stroke-width="3"/>
+      <text x="0" y="8" text-anchor="middle" font-family="'IBM Plex Mono',Consolas,monospace" font-size="21" font-weight="700" letter-spacing="3" fill="#0274E7">WORKING</text>
     </g>
   </g>
   <g>
-    <rect x="48" y="294" width="380" height="52" rx="8" fill="#11140f" stroke="#232a23">
-      <animate attributeName="stroke" values="#232a23;#232a23;#2a2f22;#2a2f22;#232a23;#232a23" keyTimes="0;0.4800;0.5000;0.93;0.98;1" dur="10s" repeatCount="indefinite"/>
+    <rect x="48" y="294" width="380" height="52" rx="8" fill="#050505" stroke="#1F1F1F">
+      <animate attributeName="stroke" values="#1F1F1F;#1F1F1F;#1F1F1F;#1F1F1F;#1F1F1F;#1F1F1F" keyTimes="0;0.4800;0.5000;0.93;0.98;1" dur="10s" repeatCount="indefinite"/>
     </rect>
-    <circle cx="76" cy="320" r="6" fill="#39402f">
-      <animate attributeName="fill" values="#39402f;#39402f;#f1efe3;#f1efe3;#39402f;#39402f" keyTimes="0;0.4800;0.5000;0.93;0.98;1" dur="10s" repeatCount="indefinite"/>
+    <circle cx="76" cy="320" r="6" fill="#353638">
+      <animate attributeName="fill" values="#353638;#353638;#F5F5F5;#F5F5F5;#353638;#353638" keyTimes="0;0.4800;0.5000;0.93;0.98;1" dur="10s" repeatCount="indefinite"/>
     </circle>
-    <text x="96" y="326" font-family="'IBM Plex Mono',Consolas,monospace" font-size="16.5" fill="#a9b3a4">HOSTED MODEL — KEY 1</text>
+    <text x="96" y="326" font-family="'IBM Plex Mono',Consolas,monospace" font-size="16.5" fill="#A1A1A6">HOSTED MODEL — KEY 1</text>
   </g>
   <g transform="translate(616 320) rotate(-7)" opacity="0">
     <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.4850;0.5000;0.93;0.97;1" dur="10s" repeatCount="indefinite"/>
     <g>
       <animateTransform attributeName="transform" type="scale" values="1.6;1.6;1;1;1" keyTimes="0;0.4850;0.5250;0.93;1" dur="10s" repeatCount="indefinite"/>
-      <rect x="-118" y="-23" width="236" height="46" rx="6" fill="none" stroke="#f1efe3" stroke-width="3"/>
-      <text x="0" y="8" text-anchor="middle" font-family="'IBM Plex Mono',Consolas,monospace" font-size="21" font-weight="700" letter-spacing="3" fill="#a9b3a4">NOT WORKING</text>
+      <rect x="-118" y="-23" width="236" height="46" rx="6" fill="none" stroke="#F5F5F5" stroke-width="3"/>
+      <text x="0" y="8" text-anchor="middle" font-family="'IBM Plex Mono',Consolas,monospace" font-size="21" font-weight="700" letter-spacing="3" fill="#A1A1A6">NOT WORKING</text>
     </g>
   </g>
   <g>
-    <rect x="48" y="362" width="380" height="52" rx="8" fill="#11140f" stroke="#232a23">
-      <animate attributeName="stroke" values="#232a23;#232a23;#2a2f22;#2a2f22;#232a23;#232a23" keyTimes="0;0.6800;0.7000;0.93;0.98;1" dur="10s" repeatCount="indefinite"/>
+    <rect x="48" y="362" width="380" height="52" rx="8" fill="#050505" stroke="#1F1F1F">
+      <animate attributeName="stroke" values="#1F1F1F;#1F1F1F;#1F1F1F;#1F1F1F;#1F1F1F;#1F1F1F" keyTimes="0;0.6800;0.7000;0.93;0.98;1" dur="10s" repeatCount="indefinite"/>
     </rect>
-    <circle cx="76" cy="388" r="6" fill="#39402f">
-      <animate attributeName="fill" values="#39402f;#39402f;#c8ff3d;#c8ff3d;#39402f;#39402f" keyTimes="0;0.6800;0.7000;0.93;0.98;1" dur="10s" repeatCount="indefinite"/>
+    <circle cx="76" cy="388" r="6" fill="#353638">
+      <animate attributeName="fill" values="#353638;#353638;#0274E7;#0274E7;#353638;#353638" keyTimes="0;0.6800;0.7000;0.93;0.98;1" dur="10s" repeatCount="indefinite"/>
     </circle>
-    <text x="96" y="394" font-family="'IBM Plex Mono',Consolas,monospace" font-size="16.5" fill="#a9b3a4">HOSTED MODEL — KEY 2</text>
+    <text x="96" y="394" font-family="'IBM Plex Mono',Consolas,monospace" font-size="16.5" fill="#A1A1A6">HOSTED MODEL — KEY 2</text>
   </g>
   <g transform="translate(616 388) rotate(-7)" opacity="0">
     <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.6850;0.7000;0.93;0.97;1" dur="10s" repeatCount="indefinite"/>
     <g>
       <animateTransform attributeName="transform" type="scale" values="1.6;1.6;1;1;1" keyTimes="0;0.6850;0.7250;0.93;1" dur="10s" repeatCount="indefinite"/>
-      <rect x="-100" y="-23" width="200" height="46" rx="6" fill="none" stroke="#c8ff3d" stroke-width="3"/>
-      <text x="0" y="8" text-anchor="middle" font-family="'IBM Plex Mono',Consolas,monospace" font-size="21" font-weight="700" letter-spacing="3" fill="#c8ff3d">WORKING</text>
+      <rect x="-100" y="-23" width="200" height="46" rx="6" fill="none" stroke="#0274E7" stroke-width="3"/>
+      <text x="0" y="8" text-anchor="middle" font-family="'IBM Plex Mono',Consolas,monospace" font-size="21" font-weight="700" letter-spacing="3" fill="#0274E7">WORKING</text>
     </g>
   </g>
   <g opacity="1">
     <animate attributeName="opacity" values="1;1;0;0;1" keyTimes="0;0.84;0.885;0.96;1" dur="10s" repeatCount="indefinite"/>
     <g>
       <animateTransform attributeName="transform" type="translate" values="0 0;0 0;0 68;0 68;0 136;0 136;0 204;0 204;0 204" keyTimes="0;0.12;0.22;0.36;0.46;0.60;0.70;0.84;1" dur="10s" repeatCount="indefinite"/>
-      <rect x="446" y="158" width="26" height="52" fill="#c8ff3d" opacity="0.14"/>
-      <rect x="456" y="158" width="5" height="52" fill="#c8ff3d"/>
+      <rect x="446" y="158" width="26" height="52" fill="#0274E7" opacity="0.14"/>
+      <rect x="456" y="158" width="5" height="52" fill="#0274E7"/>
     </g>
   </g>
   <g opacity="0">
     <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.845;0.88;0.96;1" dur="10s" repeatCount="indefinite"/>
-    <text x="440" y="440" text-anchor="middle" font-family="'IBM Plex Mono',Consolas,monospace" font-size="15" letter-spacing="2.5" fill="#c8ff3d">EVERY MODEL STAMPED BEFORE IT WORKS</text>
+    <text x="440" y="440" text-anchor="middle" font-family="'IBM Plex Mono',Consolas,monospace" font-size="15" letter-spacing="2.5" fill="#0274E7">EVERY MODEL STAMPED BEFORE IT WORKS</text>
   </g>
 </svg>
