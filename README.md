@@ -79,7 +79,7 @@
 
 AgentQon is **free — no paid tier, no trial clock, no catch.** **Bring your own key (BYOK):** an API key from a provider you already have — or run a free local model on your own computer: **free on localhost, zero cost forever.** No AgentQon account, no signup, nothing to top up. There is nothing to unlock and nothing that expires.
 
-> **Release status, stated plainly:** v22.6.0 is live on npm today — the Muse-mirror activity panel, composer file attachments, and the societies list fix, on top of everything before it: **v22.2.0** (the Extended Library), **v22.3.0** (model combos, provider presets, the new page map), **v22.4.0** (live world progress) and **v22.5.0** (free-roam — your machine, under your law) — all live, all described on this page. The install and update commands stay exactly the same.
+> **Release status, stated plainly:** v22.6.0 is live on npm today — the Muse-mirror activity panel, composer file attachments, and the societies list fix, on top of everything before it: **v22.2.0** (the Extended Library), **v22.3.0** (model combos, provider presets, the new page map), **v22.4.0** (live world progress) and **v22.5.0** (free-roam — your machine, under your law) — all live, all described on this page. v22.7.0 is staged and awaits the owner's approval to go live: the merged redesign UI plus the four v22.6.0 bug fixes. The install and update commands stay exactly the same.
 
 ## 🎬 See it work
 
