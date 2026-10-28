@@ -3,6 +3,19 @@
 The honest version story. Full notes for each release live on the
 [releases page](https://github.com/adynrisy/agentqon/releases).
 
+## v22.7.0 — staged, rolling out on approval
+
+- **Redesign merged into the 22.6.0 UI** — multi-model chat and
+  mission picks, per-connection advanced settings folds, verified
+  connection delete, and the mobile shell fix, kept inside the
+  shipped 22.6.0 look (Muse-mirror activity panel and composer
+  attachments unchanged).
+- **Four v22.6.0 bugs fixed** — double-click draft/project
+  duplicates (1s post-success cooldown); deep dry-run no longer
+  500s on graphs with no start node (iterative walk, honest
+  400s); orphaned running sessions after a restart can be
+  re-driven with the transcript preserved.
+
 ## v22.6.0 — live
 
 - **The activity panel, mirrored on Muse** — an app-wide activity
