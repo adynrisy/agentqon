@@ -1,8 +1,7 @@
 # AgentQon v22.4.0 — release notes (prepared 2026-10-24)
 
-Status: STAGED ON NPM — built and verified, awaiting the owner's
-approval to publish. It ships after v22.3.0 is approved; until then,
-`agentqon@latest` remains v22.1.3.
+Status: LIVE ON NPM (status updated 2026-10-28 — approved by the
+owner and published).
 
 ## Install / update
 
