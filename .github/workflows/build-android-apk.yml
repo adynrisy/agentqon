@@ -1,0 +1,177 @@
+name: Build Android APK
+
+# Builds the AgentQon Android app (debug APK) and publishes it as a
+# release asset HERE, on the public repo.
+#
+# Source-code boundary — read this before touching this file:
+# - NO app source lives in this repo: no Kotlin, no engine Python,
+#   no payload archive. This file is build automation only.
+# - The source is checked out at build time from the PRIVATE repo
+#   (adynrisy/agentqon-android) using the ANDROID_SOURCE_TOKEN
+#   secret. That token needs Contents: read on the private repo
+#   only. It is never printed, never committed, never in this file.
+# - The built APK is published as a release asset on THIS repo.
+#   Nothing else from the private checkout leaves the runner.
+# - Triggered manually only (workflow_dispatch), so docs pushes
+#   here never start a build.
+
+on:
+  workflow_dispatch:
+    inputs:
+      version:
+        description: "App version to build and release (must match the private repo's build.gradle versionName)"
+        required: true
+        default: "1.17.0"
+
+permissions:
+  contents: write
+
+defaults:
+  run:
+    working-directory: app-source
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out the private app source (secret token, never logged)
+        uses: actions/checkout@v4
+        with:
+          repository: adynrisy/agentqon-android
+          token: ${{ secrets.ANDROID_SOURCE_TOKEN }}
+          path: app-source
+
+      - name: Unpack the harness payload
+        run: |
+          mkdir -p app/src/main/python
+          tar -xzf payload.tar.gz -C app/src/main
+          test -f app/src/main/python/app/main.py
+          test -f app/src/main/python/apps/web/index.html
+          echo "payload files: $(find app/src/main/python -type f | wc -l)"
+
+      - name: Set up JDK 17
+        uses: actions/setup-java@v4
+        with:
+          distribution: temurin
+          java-version: "17"
+
+      - name: Set up Python 3.12 (Chaquopy build requirement)
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install Android SDK components
+        run: |
+          SDKMANAGER="$(find "$ANDROID_HOME/cmdline-tools" -name sdkmanager -type f | sort -V | tail -1)"
+          echo "sdkmanager: $SDKMANAGER"
+          yes | "$SDKMANAGER" --licenses >/dev/null 2>&1 || true
+          "$SDKMANAGER" "platforms;android-34" "build-tools;34.0.0"
+
+      - name: Build the pydantic-core Android wheel
+        # No public index serves a pydantic-core wheel for Android, so
+        # its wheel is cross-compiled here with maturin + the NDK and
+        # handed to Chaquopy's pip as a local find-links directory.
+        run: |
+          set -euo pipefail
+          SDKMANAGER="$(find "$ANDROID_HOME/cmdline-tools" -name sdkmanager -type f | sort -V | tail -1)"
+          yes | "$SDKMANAGER" --licenses >/dev/null 2>&1 || true
+          "$SDKMANAGER" "ndk;26.1.10909125"
+          export NDK_HOME="$ANDROID_HOME/ndk/26.1.10909125"
+          rustup target add aarch64-linux-android
+          pip install maturin
+          mkdir -p "$RUNNER_TEMP/pcsrc"
+          curl -sL -o "$RUNNER_TEMP/pcsrc/pydantic_core-2.50.0.tar.gz" "https://files.pythonhosted.org/packages/e6/6d/196e8c819e0e934f35a1a33b3530396feadb0af4ca38fe9f995249e55794/pydantic_core-2.50.0.tar.gz"
+          tar -xzf "$RUNNER_TEMP"/pcsrc/*.tar.gz -C "$RUNNER_TEMP/pcsrc"
+          cd "$RUNNER_TEMP"/pcsrc/pydantic_core-*/
+          TOOLCHAIN="$NDK_HOME/toolchains/llvm/prebuilt/linux-x86_64"
+          export ANDROID_API_LEVEL=24
+          export CC_aarch64_linux_android="$TOOLCHAIN/bin/aarch64-linux-android24-clang"
+          export CXX_aarch64_linux_android="$TOOLCHAIN/bin/aarch64-linux-android24-clang++"
+          export AR_aarch64_linux_android="$TOOLCHAIN/bin/llvm-ar"
+          export CARGO_TARGET_AARCH64_LINUX_ANDROID_LINKER="$TOOLCHAIN/bin/aarch64-linux-android24-clang"
+          # Unquoted heredoc ON PURPOSE: lib_dir needs $GITHUB_WORKSPACE
+          # expanded here (a quoted heredoc would write the literal $VAR
+          # into the config and pyo3 would look in a nonexistent dir).
+          cat > "$RUNNER_TEMP/pyo3-config.txt" <<PYEOF
+          implementation=CPython
+          version=3.12
+          lib_dir=$GITHUB_WORKSPACE/app-source/app/linklibs
+          lib_name=python3.12
+          pointer_width=64
+          PYEOF
+          export PYO3_CONFIG_FILE="$RUNNER_TEMP/pyo3-config.txt"
+          maturin build --release --target aarch64-linux-android
+          mkdir -p "$GITHUB_WORKSPACE/app-source/app/wheels"
+          cp target/wheels/*.whl "$GITHUB_WORKSPACE/app-source/app/wheels/"
+          ls -lh "$GITHUB_WORKSPACE/app-source/app/wheels/"
+
+      - name: Normalize the pydantic-core extension name
+        # Chaquopy's pip_install parses the wheel's RECORD and dies
+        # when the renamed file has no RECORD entry, so the rename
+        # MUST update RECORD too (same content => same hash, new path).
+        run: |
+          python3 - <<'PYEOF'
+          import base64, glob, hashlib, zipfile, shutil
+          for whl in glob.glob("app/wheels/*.whl"):
+              zin = zipfile.ZipFile(whl)
+              tagged = [n for n in zin.namelist()
+                        if n.startswith("pydantic_core/_pydantic_core") and n.endswith(".so")]
+              assert len(tagged) == 1, (whl, tagged)
+              old, new = tagged[0], "pydantic_core/_pydantic_core.so"
+              data = zin.read(old)
+              digest = "sha256=" + base64.urlsafe_b64encode(
+                  hashlib.sha256(data).digest()).rstrip(b"=").decode()
+              record_name = [n for n in zin.namelist()
+                             if n.endswith(".dist-info/RECORD")][0]
+              record = zin.read(record_name).decode()
+              new_lines = []
+              for line in record.splitlines():
+                  parts = line.split(",")
+                  if len(parts) >= 3 and parts[0] == old:
+                      new_lines.append(f"{new},{digest},{len(data)}")
+                  else:
+                      new_lines.append(line)
+              new_record = "\n".join(new_lines) + "\n"
+              tmp = whl + ".tmp"
+              zout = zipfile.ZipFile(tmp, "w", zipfile.ZIP_DEFLATED)
+              for item in zin.infolist():
+                  if item.filename == old:
+                      info = zipfile.ZipInfo(new, date_time=item.date_time)
+                      info.compress_type = item.compress_type
+                      info.external_attr = item.external_attr
+                      info.create_system = item.create_system
+                      zout.writestr(info, data)
+                  elif item.filename == record_name:
+                      info = zipfile.ZipInfo(record_name, date_time=item.date_time)
+                      info.compress_type = item.compress_type
+                      info.external_attr = item.external_attr
+                      info.create_system = item.create_system
+                      zout.writestr(info, new_record)
+                  else:
+                      zout.writestr(item, zin.read(item.filename))
+              zout.close(); zin.close()
+              shutil.move(tmp, whl)
+              print(f"renamed {old} -> {new} (RECORD updated)")
+          PYEOF
+          python3 -c "import zipfile,glob; print([n for n in zipfile.ZipFile(glob.glob('app/wheels/*.whl')[0]).namelist() if n.endswith('.so')])"
+
+      - name: Set up Gradle 8.7
+        uses: gradle/actions/setup-gradle@v4
+        with:
+          gradle-version: "8.7"
+
+      - name: Build the debug APK
+        run: gradle assembleDebug --stacktrace
+
+      - name: Verify the built version matches the requested version
+        run: |
+          grep -q "\"${{ inputs.version }}\"" app/build.gradle || { echo "build.gradle has no quoted ${{ inputs.version }} — refusing to publish under that version"; grep -n "version" app/build.gradle | head; exit 1; }
+
+      - name: Publish the APK to this repo's release
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          cp app/build/outputs/apk/debug/app-debug.apk "AgentQon-v${{ inputs.version }}.apk"
+          ls -lh "AgentQon-v${{ inputs.version }}.apk"
+          gh release view "android-v${{ inputs.version }}" >/dev/null 2>&1 || gh release create "android-v${{ inputs.version }}" --prerelease --title "AgentQon Android v${{ inputs.version }}" --notes "AgentQon for Android — the full harness on your phone. Install: uninstall any older AgentQon app first (each build signs with a fresh debug key), then install this APK. Requires 64-bit Android (arm64), Android 8.0 or newer. This is a debug build. The app is distributed as a release build only — its source code is not published here."
+          gh release upload "android-v${{ inputs.version }}" "AgentQon-v${{ inputs.version }}.apk" --clobber
