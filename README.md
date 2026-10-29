@@ -44,7 +44,7 @@
 
 <p align="center">
   <code><strong>&nbsp;npm install -g agentqon&nbsp;</strong></code>
-  <br><sub>One command installs it — then just run <code>agentqon</code>. Free forever. No account, no signup.</sub>
+  <br><sub>One command installs this free AI agentic harness — then just run <code>agentqon</code>. Free forever. No account, no signup.</sub>
 </p>
 
 <p align="center">
@@ -129,7 +129,7 @@ The whole story, drawn in one loop: you state a mission, the panel plans it and 
 
 ## 🧠 What is AgentQon?
 
-AgentQon is a **harness**: one install that seats a panel of AI agents on the model you connect — BYOK or a free local model — and puts real work to them. Chat when a question is small. Give it a **mission** when the work matters. Open an **agent session** when the work needs tools — files read and written, commands run, the web checked — each step under your approval.
+AgentQon is a **free AI agentic harness**: one install that seats a panel of AI agents on the model you connect — BYOK or a free local model — and puts real work to them. Chat when a question is small. Give it a **mission** when the work matters. Open an **agent session** when the work needs tools — files read and written, commands run, the web checked — each step under your approval.
 
 Everything runs **on your machine**. Your missions, keys and data live in `~/.agentqon/data` — nothing goes anywhere except the model *you* connect.
 
@@ -435,6 +435,12 @@ Start with the **[docs index](docs/README.md)** — every guide, in the order yo
 </details>
 
 ## ❓ FAQ
+
+<details>
+<summary><strong>Is AgentQon a free AI agentic harness?</strong></summary>
+<br>
+Yes. AgentQon is a free AI agentic harness: one install that seats a panel of AI agents on the model you connect — your own key or a free local model — with no paid tier, no account, and no signup. Your work stays on your machine.
+</details>
 
 <details>
 <summary><strong>Is it really free?</strong></summary>
