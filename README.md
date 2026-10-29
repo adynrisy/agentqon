@@ -37,6 +37,9 @@
 <p align="center">
   <a target="_blank" href="https://www.aitoolfinder.com/"><img src="https://www.aitoolfinder.com//function/badge-generator.php?type=0&theme=light&domain=www.aitoolfinder.com" alt="#1 Product on www.aitoolfinder.com" height="84"></a>
   <a href="https://www.toolpilot.ai/" target="_blank"><img src="https://www.toolpilot.ai/cdn/shop/files/toolpilot-badge-w.png" alt="AgentQon Is Featured On ToolPilot.ai"></a>
+  <a href="https://publishyoursaas.com/listing/github-com" target="_blank" rel="noopener" data-publishyoursaas-badge="github-com">
+    <img src="https://publishyoursaas.com/publishyoursaas-badge.svg" alt="AgentQon is listed on publishyoursaas" width="240" height="60">
+  </a>
 </p>
 
 <p align="center">
