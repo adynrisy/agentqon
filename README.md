@@ -15,7 +15,7 @@
 
 <p align="center">
   Give it a mission. Specialist agents compete to solve it, a critic attacks the drafts,<br>
-  an evaluator scores what survives — and every claim in the answer carries its evidence.
+  an evaluator scores what survives — and every mission result carries its evidence labels (see Proof Pack).
 </p>
 
 <p align="center">
@@ -35,16 +35,21 @@
 </p>
 
 <p align="center">
-  <a target="_blank" href="https://www.aitoolfinder.com/"><img src="https://www.aitoolfinder.com//function/badge-generator.php?type=0&theme=light&domain=www.aitoolfinder.com" alt="#1 Product on www.aitoolfinder.com" height="84"></a>
-  <a href="https://www.toolpilot.ai/" target="_blank"><img src="https://www.toolpilot.ai/cdn/shop/files/toolpilot-badge-w.png" alt="AgentQon Is Featured On ToolPilot.ai"></a>
-  <a href="https://publishyoursaas.com/listing/github-com" target="_blank" rel="noopener" data-publishyoursaas-badge="github-com">
-    <img src="https://publishyoursaas.com/publishyoursaas-badge.svg" alt="AgentQon is listed on publishyoursaas" width="240" height="60">
-  </a>
+  <a target="_blank" href="https://www.aitoolfinder.com/"><img src="https://www.aitoolfinder.com/function/badge-generator.php?type=0&theme=light&domain=www.aitoolfinder.com" alt="AgentQon on www.aitoolfinder.com" height="84"></a>
+  <a href="https://www.toolpilot.ai/" target="_blank"><img src="https://www.toolpilot.ai/cdn/shop/files/toolpilot-badge-w.png" alt="AgentQon on ToolPilot.ai"></a>
+</p>
+
+<p align="center">
+  AgentQon is a free AI agentic harness: one install (<code>npm install -g agentqon</code>) seats a panel of AI agents on the model you connect — by your own key (BYOK; your provider may bill you) or a free local model. Rival agents run each mission, a critic verifies it, and results are evidence-labelled in a Proof Pack. It ships with 6,799 agents, 4,840 skills built in, plus an optional 213-skill Extended Library. AgentQon is free forever — no paywall, no credits, no ads, no commissions — but it is not open source: this repository is documentation only.
 </p>
 
 <p align="center">
   <code><strong>&nbsp;npm install -g agentqon&nbsp;</strong></code>
   <br><sub>One command installs this free AI agentic harness — then just run <code>agentqon</code>. Free forever. No account, no signup.</sub>
+</p>
+
+<p align="center">
+  <sub>Requires Node.js ≥ 18 and Python 3.12 exactly. The repository installers handle missing runtimes; with a bare <code>npm install -g</code>, the library install happens on first run.</sub>
 </p>
 
 <p align="center">
@@ -65,6 +70,7 @@
 ## Contents
 
 - [Free. Completely.](#-free-completely)
+- [Android app](#-android-app)
 - [See it work](#-see-it-work)
 - [What is AgentQon?](#-what-is-agentqon)
 - [Why a panel, not one chatbot?](#-why-a-panel-not-one-chatbot)
@@ -78,8 +84,10 @@
 - [FAQ](#-faq)
 - [Roadmap](#-roadmap)
 - [Support and contact](#-support-and-contact)
+- [About this repository](#about-this-repository)
 - [Honest limits](#-honest-limits)
 - [Put it to the panel.](#-put-it-to-the-panel)
+- [License](#license)
 
 ---
 
@@ -87,7 +95,7 @@
 
 AgentQon is **free — no paid tier, no trial clock, no catch.** **Bring your own key (BYOK):** an API key from a provider you already have — or run a free local model on your own computer: **free on localhost, zero cost forever.** No AgentQon account, no signup, nothing to top up. There is nothing to unlock and nothing that expires.
 
-> **Release status, stated plainly:** v22.6.0 is live on npm today — the Muse-mirror activity panel, composer file attachments, and the societies list fix, on top of everything before it: **v22.2.0** (the Extended Library), **v22.3.0** (model combos, provider presets, the new page map), **v22.4.0** (live world progress) and **v22.5.0** (free-roam — your machine, under your law) — all live, all described on this page. v22.7.0 is staged and awaits the owner's approval to go live: the merged redesign UI plus the four v22.6.0 bug fixes. The install and update commands stay exactly the same.
+> **Release status:** latest release — see the agentqon page on npm: https://www.npmjs.com/package/agentqon
 
 ## 📱 Android app
 
@@ -96,15 +104,11 @@ companion app: chat, missions, agents, simulations, skills, and the
 app-wide activity feed, with the computer character at the top of
 the panel.
 
-The app is distributed as a release build only — its source code
-is not published here. Android builds publish on the releases page:
+This is a public build, debug-signed — not a production-signed store release. Its source code is not published here. Android builds publish on the releases page:
 
 [AgentQon Android releases](https://github.com/adynrisy/agentqon/releases)
 
-Install: uninstall any older AgentQon app first (each build signs
-with a fresh debug key, so Android blocks installing over the old
-one), then install the downloaded APK. Requires 64-bit Android
-(arm64), Android 8.0 or newer.
+Install: uninstall any earlier build before installing a new one: each build is signed with a fresh debug key, and Android blocks installing a new debug-signed build over an old one with a different key. Requires 64-bit Android (arm64), Android 8.0 or newer.
 
 ## 🎬 See it work
 
@@ -466,6 +470,30 @@ No payment needed. Two connection kinds, and only two: a <strong>free local mode
 Only to the model you connect — and with a local model, nothing leaves at all. There is no AgentQon cloud in the middle: missions, keys and settings stay in <code>~/.agentqon/data</code>, with keys in an envelope-encrypted vault.
 </details>
 
+<details>
+<summary><strong>What do I need installed?</strong></summary>
+<br>
+Node.js ≥ 18 and Python 3.12 exactly (see Install); Windows, macOS, and Linux; Android 64-bit, Android 8.0+ for the app.
+</details>
+
+<details>
+<summary><strong>Is there an Android app?</strong></summary>
+<br>
+Yes — a public build, debug-signed, not a production-signed store release. Uninstall any earlier build before installing a new one: each build is signed with a fresh debug key, and Android blocks installing a new debug-signed build over an old one with a different key. Requires 64-bit Android (arm64), Android 8.0 or newer.
+</details>
+
+<details>
+<summary><strong>What is the Extended Library?</strong></summary>
+<br>
+An optional 213-skill library, separate from the 4,840 skills built in. It is always labelled as optional, so the two figures are never added together into an invented total.
+</details>
+
+<details>
+<summary><strong>Troubleshooting: setup refuses my Python version</strong></summary>
+<br>
+Setup requires Python 3.12 exactly and refuses other minors; use the repository installers or install Python 3.12, then rerun setup.
+</details>
+
 More answers in [Troubleshooting & FAQ](docs/troubleshooting.md).
 
 ## 🗺️ Roadmap
@@ -508,7 +536,7 @@ https://www.npmjs.com/package/agentqon
 GitHub:
 https://github.com/adynrisy/agentqon
 
-New here? [Getting started](docs/getting-started.md) takes you to your first mission in about five minutes.
+New here? [Getting started](docs/getting-started.md) takes you to your first mission.
 
 ## License
 
