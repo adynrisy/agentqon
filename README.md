@@ -81,6 +81,8 @@
 - [Quick start](#-quick-start)
 - [Commands](#-commands)
 - [Guides and tutorials](#-guides-and-tutorials)
+- [AI agent harness](docs/agent-harness.md)
+- [Multi-agent harness](docs/panel-model.md)
 - [FAQ](#-faq)
 - [Roadmap](#-roadmap)
 - [Support and contact](#-support-and-contact)
@@ -130,6 +132,43 @@ The whole story, drawn in one loop: you state a mission, the panel plans it and 
 <p align="center">
   <sub>⭐ <strong>Star the repo</strong> if AgentQon earns a place in your toolbox — it is the only applause meter we keep.</sub>
 </p>
+
+### 📸 Screenshots from the real product
+
+Real frames from the product itself — the home screen, the missions
+list, a finished mission, the connections panel, and the agent
+registry. The model shown in these frames is a local stand-in endpoint
+("stub-1" / "SEO stub") used for the capture, standing in for a user's
+own local model; the screens, the statuses, the timestamps and the
+roster count are the real product. No frame below shows a model answer:
+the finished-mission frame shows its steps, its Minutes log and its
+Proof Pack button only.
+
+![Home screen with the activity panel](assets/screenshots/seo-max-home-activity.png)
+*Home: ask AgentQon for work, and the activity panel on the right keeps
+the plain-words record. The model picker here reads "stub-1", the local
+stand-in endpoint used for this capture.*
+
+![Missions list](assets/screenshots/seo-max-missions-list.png)
+*Missions: every job, its status, and one tap to open it. This capture
+comes from a fresh workspace, so the list holds the single finished
+mission shown.*
+
+![A finished mission](assets/screenshots/seo-max-mission-finished.png)
+*A finished mission: its steps (Research, Critique, Synthesis), its
+Minutes log, and the Download proof pack button. The model-pick note
+reads "stub-1" — the local stand-in endpoint used for this capture —
+and the checked answer itself is not shown in this frame.*
+
+![AI connections](assets/screenshots/seo-max-connections.png)
+*Connections: add a local model server or an API-key connection, and
+see what is already connected. The saved row shown is "SEO stub", the
+local stand-in endpoint used for this capture, active with 1 model.*
+
+![Agent registry](assets/screenshots/seo-max-registry.png)
+*The registry: the first 100 of 6,799 agents, each with its
+capabilities, quality score and stage. The roster behind the panel is
+what every mission picks from.*
 
 ## 🧠 What is AgentQon?
 
@@ -237,7 +276,7 @@ The features, drawn in motion — how each one works, in the product's own visua
   </tr>
 </table>
 
-<sub>Every visual on this page is drawn — illustrations of how each feature works, not screenshots or recordings.</sub>
+<sub>The feature animations on this page are drawn — illustrations of how each feature works, not screenshots or recordings. The five frames in "Screenshots from the real product" above are the exception: they are real screenshots of the product itself — the home screen with its activity panel, the missions list, a finished mission with its steps and Proof Pack button, the connections panel, and the agent registry showing the first 100 of 6,799 agents. The model visible in those screenshots is a local stand-in endpoint ("stub-1" / "SEO stub") used for the capture, standing in for a user's own local model; no screenshot shows a model answer, so no stand-in text is presented as a real reply.</sub>
 
 ## ✨ Features in detail
 
