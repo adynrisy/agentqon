@@ -1,0 +1,11 @@
+{
+  "name": "cowork-code-bridge",
+  "display_name": "Cowork Code Bridge",
+  "description": "Use an already-installed, independently verified cowork-to-code bridge to run narrowly approved actions on the user's own macOS, Linux, or WSL2 machine through a local file queue.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "skills/cowork-to-code-bridge/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/skills/cowork-to-code-bridge/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 10734,
+  "truncated": false
+}

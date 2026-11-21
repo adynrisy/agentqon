@@ -1,0 +1,11 @@
+{
+  "name": "create-audit-files",
+  "display_name": "Create Audit Files",
+  "description": "Create, revise, or audit AGENTS.md files from repository evidence, verified commands, and correctly scoped instructions without overwriting maintainer intent.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/agents-md/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/agents-md/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 8904,
+  "truncated": false
+}

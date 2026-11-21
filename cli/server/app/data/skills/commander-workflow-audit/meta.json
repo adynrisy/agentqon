@@ -1,0 +1,11 @@
+{
+  "name": "commander-workflow-audit",
+  "display_name": "Commander Workflow Audit",
+  "description": "7-stage super workflow for GitHub repo audit, cleanup, PR review, and competitor analysis",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/openclaw-github-repo-commander/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/openclaw-github-repo-commander/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 3686,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "coo-advisor",
+  "display_name": "Coo Advisor",
+  "description": "Operations leadership for scaling companies. Process design, OKR execution, operational cadence, and scaling playbooks. Use when designing operations, setting up OKRs, building processes, scaling teams, analyzing bottlenecks, planning operational cadence, or when user mentions COO, operations, process improvement, OKRs, scaling, operational efficiency, or execution.",
+  "repo": "alirezarezvani/claude-skills",
+  "path": ".gemini/skills/coo-advisor/SKILL.md",
+  "url": "https://github.com/alirezarezvani/claude-skills/tree/HEAD/.gemini/skills/coo-advisor/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 5783,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "content-image-adapter",
+  "display_name": "Content Image Adapter",
+  "description": "Adapts one finished image into a horizontal 16:9 and a vertical 9:16 version for social platforms without redrawing the artwork. Use when asked to resize a picture for posts.",
+  "repo": "khasky/awesome-agent-skills",
+  "path": "skills/awesome-content-image-adapter/SKILL.md",
+  "url": "https://github.com/khasky/awesome-agent-skills/tree/HEAD/skills/awesome-content-image-adapter/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 6513,
+  "truncated": false
+}

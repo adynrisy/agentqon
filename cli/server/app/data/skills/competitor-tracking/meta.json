@@ -1,0 +1,11 @@
+{
+  "name": "competitor-tracking",
+  "display_name": "Competitor Tracking",
+  "description": "Systematic competitor analysis for developer tools. Track features, pricing, positioning, content strategy, and community sentiment for direct and indirect competitors.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/competitor-tracking/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/competitor-tracking/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 9270,
+  "truncated": false
+}

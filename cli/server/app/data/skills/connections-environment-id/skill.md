@@ -1,0 +1,42 @@
+<!--
+Source: microsoft/power-platform-skills
+Path: plugins/code-apps/skills/list-connections/SKILL.md
+License: MIT
+URL: https://github.com/microsoft/power-platform-skills/tree/HEAD/plugins/code-apps/skills/list-connections/SKILL.md
+-->
+
+**📋 Shared Instructions: [shared-instructions.md](${PLUGIN_ROOT}/shared/shared-instructions.md)** - Cross-cutting concerns (Windows CLI compatibility, memory bank, etc.).
+
+# List Connections
+
+Lists all Power Platform connections in the current environment using the Power Apps CLI.
+
+## Workflow
+
+1. Fetch Connections → 2. Present Results
+
+---
+
+### Step 1: Fetch Connections
+
+> Resolve the CLI first (see [cli-binary.md](${PLUGIN_ROOT}/shared/cli-binary.md)): run as `$PA connection list` (`npx --no-install pa …`), never a bare `pa`. On `power-apps`-only projects, translate to `power-apps list-connections`.
+
+```bash
+pa connection list
+```
+
+If the CLI is not authenticated, it will open a browser for login automatically. Complete the login and retry.
+
+**Other failures:**
+- Non-zero exit for any reason other than auth: Report the exact output. STOP.
+- No output or empty results: Verify the correct environment ID is set in `power.config.json`, then retry once.
+
+### Step 2: Present Results
+
+Show the connection list to the user. The **Connection ID** is what goes into `-c <connection-id>` when adding a data source.
+
+**If the needed connector is missing:**
+
+1. Share the direct Connections URL using the active environment ID from context (from `power.config.json` or a prior step): `https://make.powerapps.com/environments/<environment-id>/connections` → **+ New connection**
+2. Search for and create the connector, then complete the sign-in/consent flow
+3. Re-run `/list-connections` to get the new connection ID

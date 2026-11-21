@@ -1,0 +1,11 @@
+{
+  "name": "community-building",
+  "display_name": "Community Building",
+  "description": "When the user wants to build, grow, or improve a developer community on Discord, Slack, or forums.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/community-building/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/community-building/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 11522,
+  "truncated": false
+}

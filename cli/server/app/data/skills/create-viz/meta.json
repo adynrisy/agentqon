@@ -1,0 +1,11 @@
+{
+  "name": "create-viz",
+  "display_name": "Create Viz",
+  "description": "Create publication-quality visualizations with Python. Use when turning query results or a DataFrame into a chart, selecting the right chart type for a trend or comparison, generating a plot for a report or presentation, or needing an interactive chart with hover and zoom.",
+  "repo": "anthropics/knowledge-work-plugins",
+  "path": "data/skills/create-viz/SKILL.md",
+  "url": "https://github.com/anthropics/knowledge-work-plugins/tree/HEAD/data/skills/create-viz/SKILL.md",
+  "license": "Apache-2.0",
+  "body_bytes": 4794,
+  "truncated": false
+}

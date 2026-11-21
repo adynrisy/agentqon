@@ -1,0 +1,11 @@
+{
+  "name": "cohort-analysis",
+  "display_name": "Cohort Analysis",
+  "description": "Perform cohort analysis on user engagement data — retention curves, feature adoption trends, and segment-level insights. Use when analyzing user retention by cohort, studying feature adoption over time, investigating churn patterns, or identifying engagement trends.",
+  "repo": "phuryn/pm-skills",
+  "path": "pm-data-analytics/skills/cohort-analysis/SKILL.md",
+  "url": "https://github.com/phuryn/pm-skills/tree/HEAD/pm-data-analytics/skills/cohort-analysis/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 4711,
+  "truncated": false
+}

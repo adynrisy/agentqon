@@ -1,0 +1,11 @@
+{
+  "name": "codebase-cleanup-deps-audit",
+  "display_name": "Codebase Cleanup Deps Audit",
+  "description": "You are a dependency security expert specializing in vulnerability scanning, license compliance, and supply chain security. Analyze project dependencies for known vulnerabilities, licensing issues, outdated packages, and provide actionable remediation strategies.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/codebase-cleanup-deps-audit/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/codebase-cleanup-deps-audit/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 1954,
+  "truncated": false
+}

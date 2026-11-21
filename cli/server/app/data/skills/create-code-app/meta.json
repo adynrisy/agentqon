@@ -1,0 +1,11 @@
+{
+  "name": "create-code-app",
+  "display_name": "Create Code App",
+  "description": "Creates Power Apps code apps using React and Vite. Use when building code apps, scaffolding projects, or deploying to Power Platform.",
+  "repo": "microsoft/power-platform-skills",
+  "path": "plugins/code-apps/skills/create-code-app/SKILL.md",
+  "url": "https://github.com/microsoft/power-platform-skills/tree/HEAD/plugins/code-apps/skills/create-code-app/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 16512,
+  "truncated": false
+}

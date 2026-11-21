@@ -1,0 +1,11 @@
+{
+  "name": "copy-editing-edit",
+  "display_name": "Copy Editing · Edit",
+  "description": "When the user wants to edit, review, or improve existing marketing copy, or refresh outdated content. Also use when the user mentions 'edit this copy,' 'review my copy,' 'copy feedback,' 'proofread,' 'polish this,' 'make this better,' 'copy sweep,' 'tighten this up,' 'this reads awkwardly,' 'clean up this text,' 'too wordy,' 'sharpen the messaging,' 'refresh this content,' 'update this page,' 'this content is outdated,' or 'content audit,' 'this sounds like AI,' 'AI slop,' 'de-slop this,' or 'make it sound human.' Use this when the user already has copy and wants it improved or refreshed rather than rewritten from scratch. Every edit removes AI tells such as 'it's not X, it's Y' reveals, 'no X, no Y, no Z' lists, and sentences that trail into extra comma clauses. A request to fix one line gets a point edit that changes only that line. For writing new copy, see copywriting.",
+  "repo": "coreyhaines31/marketingskills",
+  "path": "skills/copy-editing/SKILL.md",
+  "url": "https://github.com/coreyhaines31/marketingskills/tree/HEAD/skills/copy-editing/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 17503,
+  "truncated": false
+}

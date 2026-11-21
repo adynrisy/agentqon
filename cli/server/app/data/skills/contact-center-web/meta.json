@@ -1,0 +1,11 @@
+{
+  "name": "contact-center-web",
+  "display_name": "Contact Center Web",
+  "description": "Zoom Contact Center SDK for Web. Use for web chat/video/campaign embeds, engagement event handling, app-context integrations, and Smart Embed postMessage workflows.",
+  "repo": "anthropics/knowledge-work-plugins",
+  "path": "partner-built/zoom-plugin/skills/contact-center/web/SKILL.md",
+  "url": "https://github.com/anthropics/knowledge-work-plugins/tree/HEAD/partner-built/zoom-plugin/skills/contact-center/web/SKILL.md",
+  "license": "Apache-2.0",
+  "body_bytes": 1355,
+  "truncated": false
+}

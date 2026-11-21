@@ -1,0 +1,11 @@
+{
+  "name": "crossframe-critical",
+  "display_name": "Crossframe Critical",
+  "description": "Use only when the user explicitly names crossframe-critical for a Chinese structural critique dossier, article plan, or long-form critical essay.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/crossframe-critical/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/crossframe-critical/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 4692,
+  "truncated": false
+}

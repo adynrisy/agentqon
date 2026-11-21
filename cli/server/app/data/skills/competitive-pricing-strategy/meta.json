@@ -1,0 +1,11 @@
+{
+  "name": "competitive-pricing-strategy",
+  "display_name": "Competitive Pricing Strategy",
+  "description": "Build an evidence-based competitive pricing strategy for ecommerce products. Use when a seller asks how to position a price against competitors, set regular and promotional prices, protect contribution margin, design bundles or price tiers, respond to competitor moves, or coordinate prices across Amazon, Shopify, TikTok Shop, Walmart, eBay, or other channels. Do not use for automated repricing implementation or claims of a mathematically proven optimal price without sufficient data.",
+  "repo": "nexscope-ai/eCommerce-Skills",
+  "path": "competitive-pricing-strategy/SKILL.md",
+  "url": "https://github.com/nexscope-ai/eCommerce-Skills/tree/HEAD/competitive-pricing-strategy/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 10468,
+  "truncated": false
+}

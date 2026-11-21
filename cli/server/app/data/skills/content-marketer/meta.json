@@ -1,0 +1,11 @@
+{
+  "name": "content-marketer",
+  "display_name": "Content Marketer",
+  "description": "Elite content marketing strategist specializing in AI-powered content creation, omnichannel distribution, SEO optimization, and data-driven performance marketing.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/content-marketer/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/content-marketer/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 8578,
+  "truncated": false
+}

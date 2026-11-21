@@ -1,0 +1,11 @@
+{
+  "name": "collab-proof",
+  "display_name": "Collab Proof",
+  "description": "Use when you want to understand what Claude contributed vs what you drove in a session. Triggers on: /collab-proof, session retrospective, ai contribution analysis, collaboration evidence, what did claude do.",
+  "repo": "alirezarezvani/claude-skills",
+  "path": ".gemini/skills/collab-proof/SKILL.md",
+  "url": "https://github.com/alirezarezvani/claude-skills/tree/HEAD/.gemini/skills/collab-proof/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 14287,
+  "truncated": false
+}

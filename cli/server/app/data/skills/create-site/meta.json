@@ -1,0 +1,11 @@
+{
+  "name": "create-site",
+  "display_name": "Create Site",
+  "description": "Creates a new Power Pages code site (SPA) from a curated template or from scratch using React, Angular, Vue, or Astro. Guides through the full process from initial concept to deployed site: requirements discovery, template selection or scaffolding, component planning, design, implementation, validation, and deployment. Use when the user wants to create, build, use a template for, or scaffold a new Power Pages website or portal.",
+  "repo": "microsoft/power-platform-skills",
+  "path": "plugins/power-pages/skills/create-site/SKILL.md",
+  "url": "https://github.com/microsoft/power-platform-skills/tree/HEAD/plugins/power-pages/skills/create-site/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 65536,
+  "truncated": true
+}

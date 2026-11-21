@@ -1,0 +1,11 @@
+{
+  "name": "coding-task-cli-delegate",
+  "display_name": "Coding Task CLI · Delegate",
+  "description": "Delegate a coding task to the Cline coding agent CLI (`cline`) as a background implementer, then review its diff and land it yourself. Use this whenever the user wants to delegate implementation work to Cline - phrasings like \"have Cline implement X\", \"delegate this to cline\", \"run it through Cline\", or \"use cline to implement/fix/refactor\" - or wants to run a queue of coding tasks through Cline while staying the reviewer. DO NOT USE for tasks small enough to do inline, or when the user wants the code written directly without delegating.",
+  "repo": "amElnagdy/delegate-skills",
+  "path": "skills/cline-delegate/SKILL.md",
+  "url": "https://github.com/amElnagdy/delegate-skills/tree/HEAD/skills/cline-delegate/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 6232,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "content-voice",
+  "display_name": "Content Voice",
+  "description": "Builds a reusable profile of the user's own writing voice from their posts, files, samples or an interview, for other skills to read. Use when asked to learn the user's voice.",
+  "repo": "khasky/awesome-agent-skills",
+  "path": "skills/awesome-content-voice/SKILL.md",
+  "url": "https://github.com/khasky/awesome-agent-skills/tree/HEAD/skills/awesome-content-voice/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 21041,
+  "truncated": false
+}

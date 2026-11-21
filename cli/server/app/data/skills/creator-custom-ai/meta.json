@@ -1,0 +1,11 @@
+{
+  "name": "creator-custom-ai",
+  "display_name": "Creator Custom AI",
+  "description": "Create custom AI subagents with proper plugin structure, persona generation, and companion routing skills.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "skills/agent-creator/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/skills/agent-creator/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 11615,
+  "truncated": false
+}

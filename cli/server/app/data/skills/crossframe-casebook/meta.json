@@ -1,0 +1,11 @@
+{
+  "name": "crossframe-casebook",
+  "display_name": "Crossframe Casebook",
+  "description": "Use when CrossFrame Suite routes explicit Chinese casebook work: turning materials into reusable cases, anonymized entries, mechanisms, and retrieval indexes.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/crossframe-casebook/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/crossframe-casebook/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 6369,
+  "truncated": false
+}

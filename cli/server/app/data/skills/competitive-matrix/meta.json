@@ -1,0 +1,11 @@
+{
+  "name": "competitive-matrix",
+  "display_name": "Competitive Matrix",
+  "description": "Build competitive analysis matrices with scoring and gap analysis. Usage: /competitive-matrix <analyze> [options]",
+  "repo": "alirezarezvani/claude-skills",
+  "path": ".gemini/skills/competitive-matrix/SKILL.md",
+  "url": "https://github.com/alirezarezvani/claude-skills/tree/HEAD/.gemini/skills/competitive-matrix/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 922,
+  "truncated": false
+}

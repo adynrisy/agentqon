@@ -1,0 +1,11 @@
+{
+  "name": "content-campaign",
+  "display_name": "Content Campaign",
+  "description": "Plans a scheduled batch of platform-fit posts about a product from repos, sites or files, every claim traced to evidence. Use when asked for a content plan or product posts.",
+  "repo": "khasky/awesome-agent-skills",
+  "path": "skills/awesome-content-campaign/SKILL.md",
+  "url": "https://github.com/khasky/awesome-agent-skills/tree/HEAD/skills/awesome-content-campaign/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 65360,
+  "truncated": false
+}

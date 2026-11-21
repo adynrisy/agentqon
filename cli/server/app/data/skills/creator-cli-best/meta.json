@@ -1,0 +1,11 @@
+{
+  "name": "creator-cli-best",
+  "display_name": "Creator CLI Best",
+  "description": "To create new CLI skills following Anthropic's official best practices with zero manual configuration. This skill automates brainstorming, template application, validation, and installation processes while maintaining progressive disclosure patterns and writing style standards.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/skill-creator/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/skill-creator/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 1044,
+  "truncated": false
+}

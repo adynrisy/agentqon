@@ -1,0 +1,11 @@
+{
+  "name": "content-production",
+  "display_name": "Content Production",
+  "description": "Full content production pipeline — takes a topic from blank page to published-ready piece. Use when you need to execute content: write a blog post, article, or guide end-to-end. Triggers: 'write a post about', 'draft an article', 'create content for', 'help me write', 'I need a blog post'. NOT for content strategy or calendar planning (use content-strategy). NOT for repurposing existing content (use content-repurposing). NOT for social captions only.",
+  "repo": "alirezarezvani/claude-skills",
+  "path": ".gemini/skills/content-production/SKILL.md",
+  "url": "https://github.com/alirezarezvani/claude-skills/tree/HEAD/.gemini/skills/content-production/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 10750,
+  "truncated": false
+}

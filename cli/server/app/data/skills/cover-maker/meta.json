@@ -1,0 +1,11 @@
+{
+  "name": "cover-maker",
+  "display_name": "Cover Maker",
+  "description": "Install and use the official Xiaohongshu Cover Maker package, pinned by digest, for paid hosted work on the Beatra service.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/zhongcao-cover-maker/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/zhongcao-cover-maker/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 15304,
+  "truncated": false
+}

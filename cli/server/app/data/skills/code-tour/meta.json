@@ -1,0 +1,11 @@
+{
+  "name": "code-tour",
+  "display_name": "Code Tour",
+  "description": "Use when the user asks to create a CodeTour .tour file — persona-targeted, step-by-step walkthroughs that link to real files and line numbers. Trigger for: create a tour, onboarding tour, architecture tour, PR review tour, explain how X works, vibe check, RCA tour, contributor guide, or any structured code walkthrough request.",
+  "repo": "alirezarezvani/claude-skills",
+  "path": ".gemini/skills/code-tour/SKILL.md",
+  "url": "https://github.com/alirezarezvani/claude-skills/tree/HEAD/.gemini/skills/code-tour/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 5959,
+  "truncated": false
+}

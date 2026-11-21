@@ -1,0 +1,11 @@
+{
+  "name": "context-manager",
+  "display_name": "Context Manager",
+  "description": "Elite AI context engineering specialist mastering dynamic context management, vector databases, knowledge graphs, and intelligent memory systems.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/context-manager/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/context-manager/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 8249,
+  "truncated": false
+}

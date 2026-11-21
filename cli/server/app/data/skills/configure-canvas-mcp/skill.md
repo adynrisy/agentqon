@@ -1,0 +1,111 @@
+<!--
+Source: microsoft/power-platform-skills
+Path: plugins/canvas-apps/skills/configure-canvas-mcp/SKILL.md
+License: MIT
+URL: https://github.com/microsoft/power-platform-skills/tree/HEAD/plugins/canvas-apps/skills/configure-canvas-mcp/SKILL.md
+-->
+
+# Configure the Canvas Authoring MCP Server
+
+This skill configures the Canvas Authoring MCP server for the user's current Power Apps coauthoring session. The MCP server is auto-registered by the plugin — this skill connects it to a specific app session.
+
+## Instructions
+
+### 1. Ask for the studio URL
+
+Ask the user:
+
+> What is the URL of your canvas app studio session?
+>
+> Copy the URL from the browser address bar while your app is open in Power Apps Designer (it should look like `https://make.powerapps.com/e/Default-xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx/canvas/?action=edit&app-id=...`).
+>
+> Make sure coauthoring is enabled in the app (Settings → Updates → Coauthoring).
+>
+> **Keep this browser tab open for the entire session.** The MCP server communicates with Power Apps through the coauthoring session tied to that tab. Closing the tab ends the coauthoring session, which prevents `compile_canvas` and `sync_canvas` from working and means you can't see or save generated changes.
+
+### 2. Extract parameters from the URL
+
+Parse the following from the studio URL:
+
+- **ENV_ID**: the path segment between `/e/` and the next `/` (e.g. `Default-91bee3d9-0c15-4f17-8624-c92bb8b36ead`).
+- **APP_ID**: URL-decode the `app-id` query parameter value, then take the last segment after the final `/` (e.g. `6fc3e3d1-292b-4281-8826-577f78512e56`)
+- **MAKER_HOSTNAME**: the hostname of the URL (e.g. `make.powerapps.com`)
+- **ENVIRONMENT_CATEGORY**: determined from MAKER_HOSTNAME (see table below)
+
+**Determine ENVIRONMENT_CATEGORY from MAKER_HOSTNAME:**
+
+| MAKER_HOSTNAME               | ENVIRONMENT_CATEGORY |
+| ---------------------------- | -------------------- |
+| `make.powerapps.com`         | `prod`               |
+| `make.preview.powerapps.com` | `prod`               |
+| `make.preprod.powerapps.com` | `preprod`            |
+| `make.gov.powerapps.us`      | `gov`                |
+| `make.high.powerapps.us`     | `high`               |
+| `make.apps.appsplatform.us`  | `dod`                |
+| `make.powerapps.cn`          | `china`              |
+| Any other hostname           | `test`               |
+
+**Example:**
+
+Example URL: `https://make.powerapps.com/e/Default-91bee3d9-0c15-4f17-8624-c92bb8b36ead/canvas/?action=edit&app-id=%2Fproviders%2FMicrosoft.PowerApps%2Fapps%2F6fc3e3d1-292b-4281-8826-577f78512e56`
+
+- ENV_ID → `Default-91bee3d9-0c15-4f17-8624-c92bb8b36ead`
+- APP_ID → `6fc3e3d1-292b-4281-8826-577f78512e56`
+- MAKER_HOSTNAME → `make.powerapps.com`
+- ENVIRONMENT_CATEGORY → `prod`
+
+### 3. Configure the MCP server
+
+Call the `connect` MCP tool on the `canvas-authoring` server to connect to the user's coauthoring session.
+
+```
+connect(
+  environment_id: ENV_ID,
+  app_id: APP_ID,
+  environment_category: ENVIRONMENT_CATEGORY,
+  // Optional — include only if the user has expressed a preference or a prior sign-in failed (see below):
+  auth_flow: "broker" | "browser" | "devicecode",
+  login_hint: "user@contoso.com",
+  tenant_id: "00000000-0000-0000-0000-000000000000",
+  force_account_select: true
+)
+```
+
+**Optional parameters — do NOT prompt the user for these.** Only include them if the user has already expressed a preference earlier in the conversation, or if a prior connect attempt failed:
+
+- `login_hint`: Pass the user's UPN or email **only if** they have indicated they want to connect as a specific/different user (e.g. "log in as alice@contoso.com"). These values cannot be derived from the maker portal URL — never guess. Omit otherwise to use the first signed-in user. When reconnecting to switch environment/app, reuse the same `login_hint` value as the previous successful connect (if known) so the same user is reused without re-prompting.
+- `auth_flow`: Pass `"browser"`, `"broker"`, or `"devicecode"` if the user has explicitly stated a preferred auth flow (e.g. "use browser sign-in"), or use `"browser"` for the 404 recovery below. Use `"devicecode"` on headless/SSH hosts where neither broker nor browser flow can pop a UI — the verification URL and user code are surfaced via an MCP elicitation request and require a client that supports elicitation. Omit otherwise to use the default.
+- `tenant_id`: Pass a tenant GUID **only** for Entra B2B guest access — set it to the host/resource tenant where the user is a guest so the token is issued by that tenant rather than the user's home tenant. Combine with `login_hint` (the guest's home UPN) to pre-fill the account. Omit for normal same-tenant sign-in.
+- `force_account_select`: Pass `true` **only** to force the account picker instead of silently reusing a cached account — set this for the 404 recovery below, or when a previous connect failed with a 401/403 and no `login_hint` was given, so the user can pick the correct account. Omit otherwise.
+
+If the Canvas Authoring `connect` tool is **not available** under the current host's name, run the following command to check whether the server failed to launch due to a missing .NET 10 SDK. Do not treat the absence of the other host's tool name as a server failure.
+
+```bash
+dotnet --list-sdks
+```
+
+If a version 10.x.y or higher is **not** listed, tell the user:
+
+> ⚠️ .NET 10 SDK is required to run the Canvas Authoring MCP server. It looks like you don't have it installed. Please install it from https://dotnet.microsoft.com/download/dotnet/10.0 and then try again.
+
+**If `connect` fails with HTTP 404**, a likely cause is signing in with a different account from the one used for the Studio session. Report the error and recover in this order:
+
+1. Remind the user to sign in with the **same account they used for the Power Apps Studio browser session**.
+2. Run `connect` again with the same environment/app parameters and `force_account_select: true` so the user can select that account.
+3. If that retry fails, run `connect` once more with `auth_flow: "browser"` and `force_account_select: true`, keeping the same environment/app parameters. Remind the user to select their Studio account in the browser sign-in. On a headless/SSH host where browser sign-in is unavailable, use `auth_flow: "devicecode"` instead as described above.
+
+Stop retrying after a successful connection. If both recovery attempts fail, report the final error and follow the checks below; do not claim the server is configured.
+
+For other connection errors, or if 404 recovery fails, report the error and suggest checking that:
+
+1. The studio URL is correct and the browser tab is still open
+2. Coauthoring is enabled in the app settings
+3. If sign-in failed, the user may need to specify `auth_flow` (`broker`, `browser`, or `devicecode`) or a `login_hint` (UPN/email) to authenticate as the correct account. On a headless/SSH host, use `auth_flow: "devicecode"`. If a cached account keeps getting picked, retry with `force_account_select: true`. For Entra B2B guest access, set `tenant_id` to the host tenant.
+
+### 4. Confirm
+
+Only after `connect` succeeds, tell the user:
+
+> ✅ Canvas Authoring MCP server configured for your coauthoring session.
+>
+> You can now use Canvas App skills like `/canvas-app` to create or edit your app.

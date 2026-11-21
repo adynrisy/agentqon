@@ -1,0 +1,11 @@
+{
+  "name": "competitive-brief",
+  "display_name": "Competitive Brief",
+  "description": "Create a competitive analysis brief for one or more competitors or a feature area. Use when informing product strategy or feature prioritization, building sales battle cards, prepping board or investor materials, or deciding where to differentiate vs. achieve parity.",
+  "repo": "anthropics/knowledge-work-plugins",
+  "path": "product-management/skills/competitive-brief/SKILL.md",
+  "url": "https://github.com/anthropics/knowledge-work-plugins/tree/HEAD/product-management/skills/competitive-brief/SKILL.md",
+  "license": "Apache-2.0",
+  "body_bytes": 14414,
+  "truncated": false
+}

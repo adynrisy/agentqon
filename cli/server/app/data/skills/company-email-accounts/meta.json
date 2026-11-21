@@ -1,0 +1,11 @@
+{
+  "name": "company-email-accounts",
+  "display_name": "Company Email Accounts",
+  "description": "Mailbox and licence register: employee, account type, aliases, groups, tool, licence cost, 2FA and password policy state, and access-review dates. Use for account provisioning.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/company-email-accounts/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/company-email-accounts/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 19525,
+  "truncated": false
+}

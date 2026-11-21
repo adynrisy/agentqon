@@ -1,0 +1,11 @@
+{
+  "name": "content-creator-draft",
+  "display_name": "Content Creator · Draft",
+  "description": "Draft and review audience-specific content using supplied brand examples, local text diagnostics, and adaptable channel templates.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/content-creator/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/content-creator/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 9789,
+  "truncated": false
+}

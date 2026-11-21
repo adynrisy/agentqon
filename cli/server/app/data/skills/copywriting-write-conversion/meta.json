@@ -1,0 +1,11 @@
+{
+  "name": "copywriting-write-conversion",
+  "display_name": "Copywriting Write Conversion",
+  "description": "Write rigorous, conversion-focused marketing copy for landing pages and emails. Enforces brief confirmation and strict no-fabrication rules.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/copywriting/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/copywriting/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 5362,
+  "truncated": false
+}

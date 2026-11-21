@@ -1,0 +1,11 @@
+{
+  "name": "color-blocking",
+  "display_name": "Color Blocking",
+  "description": "Web and App implementation guide for Color Blocking. Trigger when user wants large color sections, striking layout divisions, and Mondrian-style grids.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/design-it/color-blocking/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/design-it/color-blocking/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 9371,
+  "truncated": false
+}

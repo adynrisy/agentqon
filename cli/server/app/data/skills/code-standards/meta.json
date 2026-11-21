@@ -1,0 +1,11 @@
+{
+  "name": "code-standards",
+  "display_name": "Code Standards",
+  "description": "Coding conventions that fill the gaps a project's own rules leave: naming, structure, immutability, types, error handling, layering. Use when starting a module, setting lint rules, refactoring to conventions, or onboarding.",
+  "repo": "khasky/awesome-agent-skills",
+  "path": "skills/awesome-code-standards/SKILL.md",
+  "url": "https://github.com/khasky/awesome-agent-skills/tree/HEAD/skills/awesome-code-standards/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 19316,
+  "truncated": false
+}

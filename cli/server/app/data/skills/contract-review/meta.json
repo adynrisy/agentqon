@@ -1,0 +1,11 @@
+{
+  "name": "contract-review",
+  "display_name": "Contract Review",
+  "description": "Lightweight NDA, MSA, and vendor contract review for SMBs without legal on staff. Reads contracts from local files, mail attachments (Gmail or M365), a connected file store (Google Drive or M365), or DocuSign envelopes; flags non-standard terms; explains risks in plain English; and outputs a marked-up redline as a separate DOCX. Use when the user says \"review this contract,\" \"what am I signing,\" \"red flags,\" \"flag any concerns,\" \"check the payment terms,\" or uploads/forwards a contract or legal agreement.",
+  "repo": "anthropics/knowledge-work-plugins",
+  "path": "small-business/skills/contract-review/SKILL.md",
+  "url": "https://github.com/anthropics/knowledge-work-plugins/tree/HEAD/small-business/skills/contract-review/SKILL.md",
+  "license": "Apache-2.0",
+  "body_bytes": 11000,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "commit-human-engineer",
+  "display_name": "Commit Human Engineer",
+  "description": "Rewrites commit messages so they sound like a careful human engineer wrote them. Strips AI/marketing slop (\"comprehensive solution\", \"robust implementation\", \"leverage\", \"enhance\", \"seamlessly\", \"This commit...\"). Keeps Conventional Commits format.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/unslop-commit/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/unslop-commit/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 3799,
+  "truncated": false
+}

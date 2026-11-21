@@ -1,0 +1,11 @@
+{
+  "name": "company-values",
+  "display_name": "Company Values",
+  "description": "Help define company values and culture for a minimalist business. Use when someone is setting up their company culture, preparing to hire, or wanting to codify what their company stands for.",
+  "repo": "slavingia/skills",
+  "path": "skills/company-values/SKILL.md",
+  "url": "https://github.com/slavingia/skills/tree/HEAD/skills/company-values/SKILL.md",
+  "license": "unknown",
+  "body_bytes": 3940,
+  "truncated": false
+}

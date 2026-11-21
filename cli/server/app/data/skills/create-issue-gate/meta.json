@@ -1,0 +1,11 @@
+{
+  "name": "create-issue-gate",
+  "display_name": "Create Issue Gate",
+  "description": "Use when starting a new implementation task and an issue must be created with strict acceptance criteria gating before execution.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/create-issue-gate/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/create-issue-gate/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 3127,
+  "truncated": false
+}

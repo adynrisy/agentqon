@@ -1,0 +1,11 @@
+{
+  "name": "context-guardian",
+  "display_name": "Context Guardian",
+  "description": "Guardiao de contexto que preserva dados criticos antes da compactacao automatica. Snapshots, verificacao de integridade e zero perda de informacao.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/context-guardian/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/context-guardian/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 12896,
+  "truncated": false
+}

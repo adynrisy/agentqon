@@ -1,0 +1,11 @@
+{
+  "name": "constant-time-analysis-analyze",
+  "display_name": "Constant Time Analysis · Analyze",
+  "description": "Analyze cryptographic code to detect operations that leak secret data through execution timing variations.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/constant-time-analysis/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/constant-time-analysis/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 10497,
+  "truncated": false
+}

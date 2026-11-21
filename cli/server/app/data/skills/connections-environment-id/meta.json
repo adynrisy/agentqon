@@ -1,0 +1,11 @@
+{
+  "name": "connections-environment-id",
+  "display_name": "Connections Environment ID",
+  "description": "Lists Power Platform connections in the current environment. Use when you need a connection ID before adding a connector to a code app.",
+  "repo": "microsoft/power-platform-skills",
+  "path": "plugins/code-apps/skills/list-connections/SKILL.md",
+  "url": "https://github.com/microsoft/power-platform-skills/tree/HEAD/plugins/code-apps/skills/list-connections/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 1529,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "comic-knowledge-creator",
+  "display_name": "Comic Knowledge Creator",
+  "description": "Knowledge comic creator supporting multiple art styles and tones. Creates original educational comics with detailed panel layouts and batch-capable image generation. Use when user asks to create \"知识漫画\", \"教育漫画\", \"biography comic\", \"tutorial comic\", or \"Logicomix-style comic\".",
+  "repo": "JimLiu/baoyu-skills",
+  "path": "skills/baoyu-comic/SKILL.md",
+  "url": "https://github.com/JimLiu/baoyu-skills/tree/HEAD/skills/baoyu-comic/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 22024,
+  "truncated": false
+}

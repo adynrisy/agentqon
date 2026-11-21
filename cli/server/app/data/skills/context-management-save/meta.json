@@ -1,0 +1,11 @@
+{
+  "name": "context-management-save",
+  "display_name": "Context Management Save",
+  "description": "Use when working with context management context save",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/context-management-context-save/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/context-management-context-save/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 5576,
+  "truncated": false
+}

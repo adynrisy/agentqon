@@ -1,0 +1,11 @@
+{
+  "name": "container-security-hardening",
+  "display_name": "Container Security Hardening",
+  "description": "Harden Docker/container images and runtime deployments with secure base images, non-root users, CVE scanning, SBOM/signing, seccomp/AppArmor, and Kubernetes pod security controls. Use for Dockerfile security reviews, container CVEs, image scanning, distroless images, or production hardening.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/container-security-hardening/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/container-security-hardening/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 3644,
+  "truncated": false
+}

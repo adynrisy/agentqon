@@ -1,0 +1,11 @@
+{
+  "name": "compliance-tracking",
+  "display_name": "Compliance Tracking",
+  "description": "Track compliance requirements and audit readiness. Trigger with \"compliance\", \"audit prep\", \"SOC 2\", \"ISO 27001\", \"GDPR\", \"regulatory requirement\", or when the user needs help tracking, preparing for, or documenting compliance activities.",
+  "repo": "anthropics/knowledge-work-plugins",
+  "path": "operations/skills/compliance-tracking/SKILL.md",
+  "url": "https://github.com/anthropics/knowledge-work-plugins/tree/HEAD/operations/skills/compliance-tracking/SKILL.md",
+  "license": "Apache-2.0",
+  "body_bytes": 1305,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "codebase-onboarding",
+  "display_name": "Codebase Onboarding",
+  "description": "Analyze a codebase and generate onboarding documentation for engineers, tech leads, and contractors. Fast fact-gathering and repeatable onboarding outputs. Use when onboarding a new engineer, writing architecture-overview docs for a new project, or producing tech-lead briefings for unfamiliar repos.",
+  "repo": "alirezarezvani/claude-skills",
+  "path": ".gemini/skills/codebase-onboarding/SKILL.md",
+  "url": "https://github.com/alirezarezvani/claude-skills/tree/HEAD/.gemini/skills/codebase-onboarding/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 2253,
+  "truncated": false
+}

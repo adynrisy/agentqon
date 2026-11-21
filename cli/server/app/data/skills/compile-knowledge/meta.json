@@ -1,0 +1,11 @@
+{
+  "name": "compile-knowledge",
+  "display_name": "Compile Knowledge",
+  "description": "Compile durable, non-obvious findings into an interlinked markdown knowledge store — atomic files, [[wiki-links]], a maintained index — so an agent gets smarter across sessions instead of relearning the same facts.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/compile-knowledge/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/compile-knowledge/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 8452,
+  "truncated": false
+}

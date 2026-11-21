@@ -1,0 +1,11 @@
+{
+  "name": "coverage-analyze-test",
+  "display_name": "Coverage Analyze Test",
+  "description": "Analyze test coverage gaps. Use when user says \"test coverage\", \"what's not tested\", \"coverage gaps\", \"missing tests\", \"coverage report\", or \"what needs testing\".",
+  "repo": "alirezarezvani/claude-skills",
+  "path": ".gemini/skills/coverage/SKILL.md",
+  "url": "https://github.com/alirezarezvani/claude-skills/tree/HEAD/.gemini/skills/coverage/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 2504,
+  "truncated": false
+}

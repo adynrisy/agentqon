@@ -1,0 +1,11 @@
+{
+  "name": "criminal",
+  "display_name": "Criminal",
+  "description": "Advogado criminalista especializado em Maria da Penha, violencia domestica, feminicidio, direito penal brasileiro, medidas protetivas, inquerito policial e acao penal.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/advogado-criminal/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/advogado-criminal/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 1308,
+  "truncated": false
+}

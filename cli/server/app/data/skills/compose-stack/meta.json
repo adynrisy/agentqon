@@ -1,0 +1,11 @@
+{
+  "name": "compose-stack",
+  "display_name": "Compose Stack",
+  "description": "Preserve the coding agent's explicit AAS skill selection as a validated stack and optional evidence.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/aas-compose-stack/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/aas-compose-stack/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 2574,
+  "truncated": false
+}

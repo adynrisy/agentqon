@@ -1,0 +1,11 @@
+{
+  "name": "credit-cycle-analysis",
+  "display_name": "Credit Cycle Analysis",
+  "description": "Debtor and creditor credit-cycle analysis: weighted collection or payment days, ageing buckets, credit limit utilisation and gap against benchmark. Use for working-capital review.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/credit-cycle-analysis/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/credit-cycle-analysis/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 16211,
+  "truncated": false
+}

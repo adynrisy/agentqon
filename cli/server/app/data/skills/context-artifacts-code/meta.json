@@ -1,0 +1,11 @@
+{
+  "name": "context-artifacts-code",
+  "display_name": "Context Artifacts Code",
+  "description": "Evaluate, adapt, and safely install Context Kit personal context artifacts for Claude Code or adjacent agent workflows.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/context-kit/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/context-kit/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 6536,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "code-systematic-debugging",
+  "display_name": "Code Systematic Debugging",
+  "description": "Four-phase debugging methodology with root cause analysis. Use when investigating bugs, fixing test failures, or troubleshooting unexpected behavior. Emphasizes NO FIXES WITHOUT ROOT CAUSE FIRST.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/code-showcase-systematic-debugging/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/code-showcase-systematic-debugging/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 5259,
+  "truncated": false
+}

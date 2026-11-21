@@ -1,0 +1,11 @@
+{
+  "name": "compliance-readiness",
+  "display_name": "Compliance Readiness",
+  "description": "/compliance-os:compliance-readiness [program] — Multi-framework compliance officer 6-question forcing interrogation of any compliance program. Use before starting a new framework, planning the annual audit calendar, or preparing for certification stage 1.",
+  "repo": "alirezarezvani/claude-skills",
+  "path": ".gemini/skills/compliance-readiness/SKILL.md",
+  "url": "https://github.com/alirezarezvani/claude-skills/tree/HEAD/.gemini/skills/compliance-readiness/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 5458,
+  "truncated": false
+}

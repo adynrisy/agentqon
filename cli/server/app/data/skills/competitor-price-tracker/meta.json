@@ -1,0 +1,11 @@
+{
+  "name": "competitor-price-tracker",
+  "display_name": "Competitor Price Tracker",
+  "description": "Set up competitor price tracking and monitoring workflows. Track price changes, detect promotions, analyze pricing patterns, and get alerts for competitive price movements.",
+  "repo": "nexscope-ai/eCommerce-Skills",
+  "path": "competitor-price-tracker/SKILL.md",
+  "url": "https://github.com/nexscope-ai/eCommerce-Skills/tree/HEAD/competitor-price-tracker/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 2019,
+  "truncated": false
+}

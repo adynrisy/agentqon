@@ -1,0 +1,11 @@
+{
+  "name": "cohesivity-backend-ai",
+  "display_name": "Cohesivity Backend AI",
+  "description": "Provision headless backend services for AI agents through Cohesivity: hosting, databases, storage, LLMs, and third-party APIs over one HTTP API. Use when a trusted .cohesivity file exists or the user approves a new backend.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/cohesivity/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/cohesivity/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 18414,
+  "truncated": false
+}

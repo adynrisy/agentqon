@@ -1,0 +1,11 @@
+{
+  "name": "context-window-management",
+  "display_name": "Context Window Management",
+  "description": "Strategies for managing LLM context windows including summarization, trimming, routing, and avoiding context rot",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/context-window-management/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/context-window-management/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 9287,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "cross-eval",
+  "display_name": "Cross Eval",
+  "description": "/c-level-agents:cross-eval [memo] — Multi-model consensus on a board memo or strategy brief. Claude + Codex + Gemini cross-review with graceful degradation. Use when a high-stakes memo needs an independent sanity check before the boardroom — e.g. a bet-the-company pivot or fundraise terms.",
+  "repo": "alirezarezvani/claude-skills",
+  "path": ".gemini/skills/cross-eval/SKILL.md",
+  "url": "https://github.com/alirezarezvani/claude-skills/tree/HEAD/.gemini/skills/cross-eval/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 4092,
+  "truncated": false
+}

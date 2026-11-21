@@ -1,0 +1,11 @@
+{
+  "name": "commandcode-delegate",
+  "display_name": "Commandcode Delegate",
+  "description": "Delegate coding tasks to the Command Code CLI (`cmd`) only when the user explicitly requests it, while the orchestrator retains review and landing responsibility.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/commandcode-delegate/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/commandcode-delegate/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 10552,
+  "truncated": false
+}

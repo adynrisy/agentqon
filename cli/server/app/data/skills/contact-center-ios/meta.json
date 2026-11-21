@@ -1,0 +1,11 @@
+{
+  "name": "contact-center-ios",
+  "display_name": "Contact Center iOS",
+  "description": "Zoom Contact Center SDK for iOS. Use for native iOS chat/video/ZVA/scheduled callback integrations, app lifecycle bridging, rejoin flow, and callback handling.",
+  "repo": "anthropics/knowledge-work-plugins",
+  "path": "partner-built/zoom-plugin/skills/contact-center/ios/SKILL.md",
+  "url": "https://github.com/anthropics/knowledge-work-plugins/tree/HEAD/partner-built/zoom-plugin/skills/contact-center/ios/SKILL.md",
+  "license": "Apache-2.0",
+  "body_bytes": 1229,
+  "truncated": false
+}

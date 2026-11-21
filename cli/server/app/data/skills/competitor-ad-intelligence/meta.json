@@ -1,0 +1,11 @@
+{
+  "name": "competitor-ad-intelligence",
+  "display_name": "Competitor Ad Intelligence",
+  "description": "Research public competitor ads, analyze creative patterns and landing pages, and produce an evidence-labeled strategic teardown.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/competitor-ad-intelligence/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/competitor-ad-intelligence/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 14988,
+  "truncated": false
+}

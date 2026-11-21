@@ -1,0 +1,11 @@
+{
+  "name": "crm-autopilot",
+  "display_name": "CRM Autopilot",
+  "description": "Keeps the CRM current without the owner ever opening it. Creates and updates contacts and deals from email, calendar, and call transcripts; logs activity automatically; drafts follow-ups on deals that have gone quiet; and maintains a next-step queue so nothing sits unowned. Runs on demand or on a schedule, includes a hygiene sweep for duplicates and stale records, and builds a lightweight CRM in a spreadsheet for owners who don't have one. Use this whenever CRM data or pipeline hygiene comes up — including phrasings like \"update my CRM,\" \"log this call,\" \"clean up HubSpot,\" \"clean up Salesforce,\" \"add this to the deal,\" \"turn my meeting into a deal note,\" \"which deals have gone quiet,\" \"I hate data entry,\" or \"my pipeline is out of date.\" Reach for it when the owner describes a call or meeting worth recording, even without naming the CRM.",
+  "repo": "anthropics/knowledge-work-plugins",
+  "path": "small-business/skills/crm-autopilot/SKILL.md",
+  "url": "https://github.com/anthropics/knowledge-work-plugins/tree/HEAD/small-business/skills/crm-autopilot/SKILL.md",
+  "license": "Apache-2.0",
+  "body_bytes": 14257,
+  "truncated": false
+}

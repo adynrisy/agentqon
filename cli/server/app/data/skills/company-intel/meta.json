@@ -1,0 +1,11 @@
+{
+  "name": "company-intel",
+  "display_name": "Company Intel",
+  "description": "Research a company, industry, or competitor set using web search and seven analytical lenses. Use when you need structured intel that feeds downstream PM skills.",
+  "repo": "deanpeters/Product-Manager-Skills",
+  "path": "skills/company-intel/SKILL.md",
+  "url": "https://github.com/deanpeters/Product-Manager-Skills/tree/HEAD/skills/company-intel/SKILL.md",
+  "license": "CC",
+  "body_bytes": 30861,
+  "truncated": false
+}

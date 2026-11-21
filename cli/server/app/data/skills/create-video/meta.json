@@ -1,0 +1,11 @@
+{
+  "name": "create-video",
+  "display_name": "Create Video",
+  "description": "Create a new Remotion video",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/remotion-create/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/remotion-create/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 2937,
+  "truncated": false
+}

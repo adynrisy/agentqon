@@ -1,0 +1,11 @@
+{
+  "name": "cro-advisor",
+  "display_name": "Cro Advisor",
+  "description": "Revenue leadership for B2B SaaS companies. Revenue forecasting, sales model design, pricing strategy, net revenue retention, and sales team scaling. Use when designing the revenue engine, setting quotas, modeling NRR, evaluating pricing, building board forecasts, or when user mentions CRO, chief revenue officer, revenue strategy, sales model, ARR growth, NRR, expansion revenue, churn, pricing strategy, or sales capacity.",
+  "repo": "alirezarezvani/claude-skills",
+  "path": ".gemini/skills/cro-advisor/SKILL.md",
+  "url": "https://github.com/alirezarezvani/claude-skills/tree/HEAD/.gemini/skills/cro-advisor/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 8152,
+  "truncated": false
+}

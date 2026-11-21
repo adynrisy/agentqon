@@ -1,0 +1,11 @@
+{
+  "name": "concise-planning",
+  "display_name": "Concise Planning",
+  "description": "Use when a user asks for a plan for a coding task, to generate a clear, actionable, and atomic checklist.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/concise-planning/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/concise-planning/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 1667,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "cowork-customizer",
+  "display_name": "Cowork Customizer",
+  "description": "Customize a Claude Code plugin for a specific organization's tools and workflows. Use when: customize plugin, set up plugin, configure plugin, tailor plugin, adjust plugin settings, customize plugin connectors, customize plugin skill, tweak plugin, modify plugin configuration.",
+  "repo": "anthropics/knowledge-work-plugins",
+  "path": "cowork-plugin-management/skills/cowork-plugin-customizer/SKILL.md",
+  "url": "https://github.com/anthropics/knowledge-work-plugins/tree/HEAD/cowork-plugin-management/skills/cowork-plugin-customizer/SKILL.md",
+  "license": "Apache-2.0",
+  "body_bytes": 9230,
+  "truncated": false
+}

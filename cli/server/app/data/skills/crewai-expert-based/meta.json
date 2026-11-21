@@ -1,0 +1,11 @@
+{
+  "name": "crewai-expert-based",
+  "display_name": "Crewai Expert Based",
+  "description": "Expert in CrewAI - the leading role-based multi-agent framework used by 60% of Fortune 500 companies.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/crewai/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/crewai/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 10944,
+  "truncated": false
+}

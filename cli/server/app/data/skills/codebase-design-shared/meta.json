@@ -1,0 +1,11 @@
+{
+  "name": "codebase-design-shared",
+  "display_name": "Codebase Design · Shared",
+  "description": "Shared vocabulary for designing deep modules. Use when the user wants to design or improve a module's interface, find deepening opportunities, decide where a seam goes, make code more testable or AI-navigable, or when another skill needs the deep-module vocabulary.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/codebase-design/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/codebase-design/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 6922,
+  "truncated": false
+}

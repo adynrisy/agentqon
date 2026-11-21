@@ -1,0 +1,11 @@
+{
+  "name": "cold-email-emails",
+  "display_name": "Cold Email · Emails",
+  "description": "Write B2B cold emails and follow-up sequences that earn replies. Use when creating outbound prospecting emails, SDR outreach, personalized opening lines, subject lines, CTAs, and multi-touch follow-up sequences.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/cold-email/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/cold-email/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 7131,
+  "truncated": false
+}

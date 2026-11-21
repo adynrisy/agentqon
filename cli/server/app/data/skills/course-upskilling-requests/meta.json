@@ -1,0 +1,11 @@
+{
+  "name": "course-upskilling-requests",
+  "display_name": "Course Upskilling Requests",
+  "description": "Training request register: course, provider, cost, duration, budget line, the three approval steps, service bond and completion evidence. Use for upskilling approvals.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/course-upskilling-requests/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/course-upskilling-requests/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 15649,
+  "truncated": false
+}
