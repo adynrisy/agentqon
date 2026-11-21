@@ -1,0 +1,11 @@
+{
+  "name": "performance-management",
+  "display_name": "Performance Management",
+  "description": "Performance review register: review type, period, employee and reviewer, KPI, OKR and behaviour scores, overall rating, PIP and promotion flags, development plan. Use for performance reviews.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/performance-management/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/performance-management/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 15878,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "multi-tenant-llm-hosting",
+  "display_name": "Multi Tenant LLM Hosting",
+  "description": "Design secure, multi-tenant LLM hosting platforms with tenant isolation, quotas, billing attribution, noisy-neighbor protection, and per-tenant policy controls.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/multi-tenant-llm-hosting/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/multi-tenant-llm-hosting/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 11656,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "obsess-mode-one",
+  "display_name": "Obsess Mode One",
+  "description": "Perfectionist mode for one target: checked attempts on a UI detail or hot path, keeps the best version, stops on a budget. Only on explicit /obsess.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/obsess/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/obsess/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 8201,
+  "truncated": false
+}

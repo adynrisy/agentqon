@@ -1,0 +1,11 @@
+{
+  "name": "outside-sandbox",
+  "display_name": "Outside Sandbox",
+  "description": "Run Git and GitHub CLI commands on the host when sandboxing blocks Keychain auth, network access, or .git writes. Use for gh auth, repo/PR operations, index.lock, or permission errors; covers execution context only.",
+  "repo": "davidondrej/skills",
+  "path": "skills/ops-and-setup/github-outside-sandbox/SKILL.md",
+  "url": "https://github.com/davidondrej/skills/tree/HEAD/skills/ops-and-setup/github-outside-sandbox/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 1055,
+  "truncated": false
+}

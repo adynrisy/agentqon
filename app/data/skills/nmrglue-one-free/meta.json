@@ -1,0 +1,11 @@
+{
+  "name": "nmrglue-one-free",
+  "display_name": "Nmrglue One Free",
+  "description": "Processes calibrated one-dimensional complex NMR free-induction decays with nmrglue into phased spectra, peak candidates, and signed integration regions. Use for raw 1D NMR processing, ppm-axis verification, apodization, Fourier transformation, manual phasing, baseline correction, or reproducible spectral integration.",
+  "repo": "K-Dense-AI/scientific-agent-skills",
+  "path": "skills/nmrglue/SKILL.md",
+  "url": "https://github.com/K-Dense-AI/scientific-agent-skills/tree/HEAD/skills/nmrglue/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 7811,
+  "truncated": false
+}

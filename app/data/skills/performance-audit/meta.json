@@ -1,0 +1,11 @@
+{
+  "name": "performance-audit",
+  "display_name": "Performance Audit",
+  "description": "Read-only performance and reliability audit: event loop, backpressure, memory and CPU, timeouts, retries, queues, Core Web Vitals, bundles, with a verdict. Use when something is slow, memory climbs or latency spikes.",
+  "repo": "khasky/awesome-agent-skills",
+  "path": "skills/awesome-performance-audit/SKILL.md",
+  "url": "https://github.com/khasky/awesome-agent-skills/tree/HEAD/skills/awesome-performance-audit/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 16840,
+  "truncated": false
+}

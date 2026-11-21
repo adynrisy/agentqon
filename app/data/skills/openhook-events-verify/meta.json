@@ -1,0 +1,11 @@
+{
+  "name": "openhook-events-verify",
+  "display_name": "Openhook Events Verify",
+  "description": "Creates private callback inboxes with Openhook. Use when an agent needs to wait for a webhook, inspect received HTTP/email/DNS events, or verify a test callback's contents.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/openhook/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/openhook/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 5529,
+  "truncated": false
+}

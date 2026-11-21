@@ -1,0 +1,11 @@
+{
+  "name": "org-planning",
+  "display_name": "Org Planning",
+  "description": "Headcount planning, org design, and team structure optimization. Trigger with \"org planning\", \"headcount plan\", \"team structure\", \"reorg\", \"who should we hire next\", or when the user is thinking about team size, reporting structure, or organizational design.",
+  "repo": "anthropics/knowledge-work-plugins",
+  "path": "human-resources/skills/org-planning/SKILL.md",
+  "url": "https://github.com/anthropics/knowledge-work-plugins/tree/HEAD/human-resources/skills/org-planning/SKILL.md",
+  "license": "Apache-2.0",
+  "body_bytes": 927,
+  "truncated": false
+}

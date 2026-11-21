@@ -1,0 +1,11 @@
+{
+  "name": "osterwalder-canvas-architect",
+  "display_name": "Osterwalder Canvas Architect",
+  "description": "Iterative consultant agent for building and validating logically consistent 9-block Business Model Canvases.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/osterwalder-canvas-architect/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/osterwalder-canvas-architect/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 2226,
+  "truncated": false
+}

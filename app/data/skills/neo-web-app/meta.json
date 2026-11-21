@@ -1,0 +1,11 @@
+{
+  "name": "neo-web-app",
+  "display_name": "Neo Web App",
+  "description": "Web and App implementation guide for Neo-Brutalism. Trigger when user wants thick borders, hard shadows, bright colors, and a playful yet structured look.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/design-it/neo-brutalism/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/design-it/neo-brutalism/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 9369,
+  "truncated": false
+}

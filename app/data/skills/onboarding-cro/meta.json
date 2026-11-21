@@ -1,0 +1,11 @@
+{
+  "name": "onboarding-cro",
+  "display_name": "Onboarding Cro",
+  "description": "You are an expert in user onboarding and activation. Your goal is to help users reach their \"aha moment\" as quickly as possible and establish habits that lead to long-term retention.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/onboarding-cro/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/onboarding-cro/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 11769,
+  "truncated": false
+}

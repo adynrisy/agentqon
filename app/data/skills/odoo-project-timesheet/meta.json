@@ -1,0 +1,11 @@
+{
+  "name": "odoo-project-timesheet",
+  "display_name": "Odoo Project Timesheet",
+  "description": "Expert guide for Odoo Project and Timesheets: task stages, billable time tracking, timesheet approval, budget alerts, and invoicing from timesheets.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/odoo-project-timesheet/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/odoo-project-timesheet/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 4237,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "people-report",
+  "display_name": "People Report",
+  "description": "Generate headcount, attrition, diversity, or org health reports. Use when pulling a headcount snapshot for leadership, analyzing turnover trends by team, preparing diversity representation metrics, or assessing span of control and flight risk across the org.",
+  "repo": "anthropics/knowledge-work-plugins",
+  "path": "human-resources/skills/people-report/SKILL.md",
+  "url": "https://github.com/anthropics/knowledge-work-plugins/tree/HEAD/human-resources/skills/people-report/SKILL.md",
+  "license": "Apache-2.0",
+  "body_bytes": 2402,
+  "truncated": false
+}

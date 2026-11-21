@@ -1,0 +1,11 @@
+{
+  "name": "nft-standards",
+  "display_name": "Nft Standards",
+  "description": "Implement NFT standards (ERC-721, ERC-1155) with proper metadata handling, minting strategies, and marketplace integration. Use when creating NFT contracts, building NFT marketplaces, or implementing digital asset systems.",
+  "repo": "wshobson/agents",
+  "path": "plugins/blockchain-web3/skills/nft-standards/SKILL.md",
+  "url": "https://github.com/wshobson/agents/tree/HEAD/plugins/blockchain-web3/skills/nft-standards/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 7368,
+  "truncated": false
+}

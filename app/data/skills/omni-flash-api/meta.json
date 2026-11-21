@@ -1,0 +1,11 @@
+{
+  "name": "omni-flash-api",
+  "display_name": "Omni Flash API",
+  "description": "Use this skill for generative video editing, text-to-video, image-referenced video generation, and first-frame-to-video transition animations using the official google-genai SDK.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/gemini-omni-flash-api/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/gemini-omni-flash-api/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 16223,
+  "truncated": false
+}

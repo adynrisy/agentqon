@@ -1,0 +1,11 @@
+{
+  "name": "outlines-structure-generation",
+  "display_name": "Outlines Structure Generation",
+  "description": "Guarantee valid JSON/XML/code structure during generation, use Pydantic models for type-safe outputs, support local models (Transformers, vLLM), and maximize inference speed with Outlines - dottxt.ai's structured generation library",
+  "repo": "Orchestra-Research/AI-Research-SKILLs",
+  "path": "16-prompt-engineering/outlines/SKILL.md",
+  "url": "https://github.com/Orchestra-Research/AI-Research-SKILLs/tree/HEAD/16-prompt-engineering/outlines/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 15416,
+  "truncated": false
+}

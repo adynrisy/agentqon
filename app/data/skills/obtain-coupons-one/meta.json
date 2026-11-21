@@ -1,0 +1,11 @@
+{
+  "name": "obtain-coupons-one",
+  "display_name": "Obtain Coupons One",
+  "description": "All-in-one coupon fetcher supporting takeout (Meituan, Ele.me, JD), parcel/courier (SF, ZTO, YTO, etc.), travel (DiDi, Ctrip), and movie tickets (Taopiaopiao, Maoyan) coupons with one-click access to all discounts.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/obtain-coupons-all-in-one/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/obtain-coupons-all-in-one/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 4366,
+  "truncated": false
+}

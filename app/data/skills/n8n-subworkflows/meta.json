@@ -1,0 +1,11 @@
+{
+  "name": "n8n-subworkflows",
+  "display_name": "N8n Subworkflows",
+  "description": "Build reusable n8n sub-workflows with typed inputs, all-vs-each execution, discoverable naming, and agent-tool exposure.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/n8n-subworkflows/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/n8n-subworkflows/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 20275,
+  "truncated": false
+}

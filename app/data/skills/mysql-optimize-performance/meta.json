@@ -1,0 +1,11 @@
+{
+  "name": "mysql-optimize-performance",
+  "display_name": "Mysql Optimize Performance",
+  "description": "Administer MySQL/MariaDB databases. Configure replication and optimize performance. Use when managing MySQL deployments.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/mysql/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/mysql/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 10067,
+  "truncated": false
+}

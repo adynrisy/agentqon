@@ -1,0 +1,11 @@
+{
+  "name": "n8n-error-handling",
+  "display_name": "N8n Error Handling",
+  "description": "Design visible, structured, recoverable n8n failures using error outputs, retries, Error Trigger workflows, and HTTP error responses.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/n8n-error-handling/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/n8n-error-handling/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 19411,
+  "truncated": false
+}

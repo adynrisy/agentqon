@@ -1,0 +1,11 @@
+{
+  "name": "neumorphism-web-app",
+  "display_name": "Neumorphism Web App",
+  "description": "Web and App implementation guide for Neumorphism (Soft UI). Trigger when user wants soft shadows, extruded appearance, and light source simulation.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/design-it/neumorphism/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/design-it/neumorphism/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 9241,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "narrow-react-prop-types",
+  "display_name": "Narrow React Prop Types",
+  "description": "narrow React component prop types to match live code paths",
+  "repo": "humanlayer/skills",
+  "path": "plugins/narrow-react-prop-types/skills/narrow-react-prop-types/SKILL.md",
+  "url": "https://github.com/humanlayer/skills/tree/HEAD/plugins/narrow-react-prop-types/skills/narrow-react-prop-types/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 7653,
+  "truncated": false
+}

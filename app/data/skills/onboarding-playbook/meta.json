@@ -1,0 +1,11 @@
+{
+  "name": "onboarding-playbook",
+  "display_name": "Onboarding Playbook",
+  "description": "Onboarding checklist: step, phase and order, department, owner, linked SOP and required flag. Use for joiner onboarding.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/onboarding-playbook/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/onboarding-playbook/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 11979,
+  "truncated": false
+}

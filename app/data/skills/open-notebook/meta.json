@@ -1,0 +1,11 @@
+{
+  "name": "open-notebook",
+  "display_name": "Open Notebook",
+  "description": "Organizes research with the self-hosted Open Notebook alternative to NotebookLM. Supports source ingestion (PDFs, web pages, audio, video, and Office documents), cited document chat, text and vector search, notes, custom transformations, and multi-speaker podcasts. Use when automating Open Notebook through its REST API or configuring its local or cloud AI providers, including OpenAI, Anthropic, Google, Ollama, Groq, and Mistral.",
+  "repo": "K-Dense-AI/scientific-agent-skills",
+  "path": "skills/open-notebook/SKILL.md",
+  "url": "https://github.com/K-Dense-AI/scientific-agent-skills/tree/HEAD/skills/open-notebook/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 10197,
+  "truncated": false
+}

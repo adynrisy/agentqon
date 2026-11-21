@@ -1,0 +1,11 @@
+{
+  "name": "okr-generate-company",
+  "display_name": "Okr Generate Company",
+  "description": "Generate OKR cascades from company strategy to team objectives. Usage: /okr generate <strategy>",
+  "repo": "alirezarezvani/claude-skills",
+  "path": ".gemini/skills/okr/SKILL.md",
+  "url": "https://github.com/alirezarezvani/claude-skills/tree/HEAD/.gemini/skills/okr/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 852,
+  "truncated": false
+}

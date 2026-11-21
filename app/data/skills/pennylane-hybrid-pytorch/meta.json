@@ -1,0 +1,11 @@
+{
+  "name": "pennylane-hybrid-pytorch",
+  "display_name": "Pennylane Hybrid PyTorch",
+  "description": "Builds and differentiates PennyLane quantum circuits, hybrid PyTorch or JAX models, molecular VQE and QAOA workflows. Use for variational quantum algorithms, quantum machine learning, simulator validation, and moving validated circuits to provider plugins. For hardware-specific compilation use qiskit or cirq; for open-system dynamics use qutip.",
+  "repo": "K-Dense-AI/scientific-agent-skills",
+  "path": "skills/pennylane/SKILL.md",
+  "url": "https://github.com/K-Dense-AI/scientific-agent-skills/tree/HEAD/skills/pennylane/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 6406,
+  "truncated": false
+}

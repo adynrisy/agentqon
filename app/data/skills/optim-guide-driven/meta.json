@@ -1,0 +1,11 @@
+{
+  "name": "optim-guide-driven",
+  "display_name": "Optim Guide Driven",
+  "description": "Guide agent-driven parameter optimization for configurable systems with measurable objectives. Use for HPO, inference tuning, simulations, or RL/control experiments.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/optim-agent/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/optim-agent/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 3511,
+  "truncated": false
+}

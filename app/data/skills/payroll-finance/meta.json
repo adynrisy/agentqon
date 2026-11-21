@@ -1,0 +1,11 @@
+{
+  "name": "payroll-finance",
+  "display_name": "Payroll Finance",
+  "description": "Payroll register: employee, department and month, basic, DA, HRA and TA, bonus, deductions, net pay, pay period, payment date and method. Use for payroll records.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/payroll-finance/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/payroll-finance/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 15017,
+  "truncated": false
+}

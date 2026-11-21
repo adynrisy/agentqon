@@ -1,0 +1,11 @@
+{
+  "name": "odoo-qweb-templates",
+  "display_name": "Odoo Qweb Templates",
+  "description": "Expert in Odoo QWeb templating for PDF reports, email templates, and website pages. Covers t-if, t-foreach, t-field, and report actions.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/odoo-qweb-templates/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/odoo-qweb-templates/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 3921,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "odoo-docker-deployment",
+  "display_name": "Odoo Docker Deployment",
+  "description": "Production-ready Docker and docker-compose setup for Odoo with PostgreSQL, persistent volumes, environment-based configuration, and Nginx reverse proxy.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/odoo-docker-deployment/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/odoo-docker-deployment/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 4723,
+  "truncated": false
+}

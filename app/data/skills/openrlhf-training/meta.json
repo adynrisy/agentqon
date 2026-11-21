@@ -1,0 +1,11 @@
+{
+  "name": "openrlhf-training",
+  "display_name": "Openrlhf Training",
+  "description": "High-performance RLHF framework with Ray+vLLM acceleration. Use for PPO, GRPO, RLOO, DPO training of large models (7B-70B+). Built on Ray, vLLM, ZeRO-3. 2× faster than DeepSpeedChat with distributed architecture and GPU resource sharing.",
+  "repo": "Orchestra-Research/AI-Research-SKILLs",
+  "path": "06-post-training/openrlhf/SKILL.md",
+  "url": "https://github.com/Orchestra-Research/AI-Research-SKILLs/tree/HEAD/06-post-training/openrlhf/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 7856,
+  "truncated": false
+}

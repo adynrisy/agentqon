@@ -1,0 +1,11 @@
+{
+  "name": "observability-monitoring-monitor-setup",
+  "display_name": "Observability Monitoring Monitor Setup",
+  "description": "Set up metrics, distributed tracing, log aggregation, and dashboards for application and infrastructure monitoring.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/observability-monitoring-monitor-setup/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/observability-monitoring-monitor-setup/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 2251,
+  "truncated": false
+}

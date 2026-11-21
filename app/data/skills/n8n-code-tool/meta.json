@@ -1,0 +1,11 @@
+{
+  "name": "n8n-code-tool",
+  "display_name": "N8n Code Tool",
+  "description": "Write and debug JavaScript or Python for the AI-callable n8n Custom Code Tool, including schemas, sandbox limits, and return formats.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/n8n-code-tool/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/n8n-code-tool/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 16143,
+  "truncated": false
+}

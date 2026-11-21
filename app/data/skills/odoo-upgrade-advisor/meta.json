@@ -1,0 +1,11 @@
+{
+  "name": "odoo-upgrade-advisor",
+  "display_name": "Odoo Upgrade Advisor",
+  "description": "Step-by-step Odoo version upgrade advisor: pre-upgrade checklist, community vs enterprise upgrade path, OCA module compatibility, and post-upgrade validation.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/odoo-upgrade-advisor/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/odoo-upgrade-advisor/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 5030,
+  "truncated": false
+}

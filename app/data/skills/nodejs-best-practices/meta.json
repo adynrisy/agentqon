@@ -1,0 +1,11 @@
+{
+  "name": "nodejs-best-practices",
+  "display_name": "Nodejs Best Practices",
+  "description": "Node.js development principles and decision-making. Framework selection, async patterns, security, and architecture. Teaches thinking, not copying.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/nodejs-best-practices/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/nodejs-best-practices/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 8515,
+  "truncated": false
+}

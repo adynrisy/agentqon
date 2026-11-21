@@ -1,0 +1,11 @@
+{
+  "name": "nextjs-seo-indexing",
+  "display_name": "Nextjs SEO Indexing",
+  "description": "Fix SEO indexing issues, crawl budget problems, and Search Console coverage errors for Next.js apps. Covers canonical tags, noindex audits, sitemap health, static rendering, and internal linking.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/nextjs-seo-indexing/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/nextjs-seo-indexing/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 7253,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "paypal-integration",
+  "display_name": "Paypal Integration",
+  "description": "Master PayPal payment integration including Express Checkout, IPN handling, recurring billing, and refund workflows.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/paypal-integration/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/paypal-integration/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 14620,
+  "truncated": false
+}

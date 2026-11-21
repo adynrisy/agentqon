@@ -1,0 +1,11 @@
+{
+  "name": "odoo-strategy",
+  "display_name": "Odoo Strategy",
+  "description": "Complete Odoo backup and restore strategy: database dumps, filestore backup, automated scheduling, cloud storage upload, and tested restore procedures.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/odoo-backup-strategy/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/odoo-backup-strategy/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 3949,
+  "truncated": false
+}

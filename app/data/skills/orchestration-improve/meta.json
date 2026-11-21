@@ -1,0 +1,11 @@
+{
+  "name": "orchestration-improve",
+  "display_name": "Orchestration Improve",
+  "description": "Systematic improvement of existing agents through performance analysis, prompt engineering, and continuous iteration.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/agent-orchestration-improve-agent/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/agent-orchestration-improve-agent/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 11239,
+  "truncated": false
+}

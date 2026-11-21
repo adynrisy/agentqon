@@ -1,0 +1,11 @@
+{
+  "name": "opentrons-integration",
+  "display_name": "Opentrons Integration",
+  "description": "Authors, reviews, migrates, simulates, and troubleshoots official Opentrons Python Protocol API v2 protocols for Flex and OT-2 robots. Use for robot-specific liquid handling, deck and labware setup, pipettes, modules, runtime parameters, liquid classes, and Opentrons App analysis. Use pylabrobot instead when one workflow must support multiple robot vendors.",
+  "repo": "K-Dense-AI/scientific-agent-skills",
+  "path": "skills/opentrons-integration/SKILL.md",
+  "url": "https://github.com/K-Dense-AI/scientific-agent-skills/tree/HEAD/skills/opentrons-integration/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 14299,
+  "truncated": false
+}

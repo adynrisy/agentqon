@@ -1,0 +1,11 @@
+{
+  "name": "niche-intelligence",
+  "display_name": "Niche Intelligence",
+  "description": "Usar tras definir el sector de un proyecto: prepara un dossier en español con contexto, normas aplicables, patrones UX y riesgos, distinguiendo fuentes verificadas de hipótesis.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/20-andruia-niche-intelligence/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/20-andruia-niche-intelligence/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 5626,
+  "truncated": false
+}

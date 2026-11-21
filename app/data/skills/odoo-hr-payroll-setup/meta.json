@@ -1,0 +1,11 @@
+{
+  "name": "odoo-hr-payroll-setup",
+  "display_name": "Odoo HR Payroll Setup",
+  "description": "Expert guide for Odoo HR and Payroll: salary structures, payslip rules, leave policies, employee contracts, and payroll journal entries.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/odoo-hr-payroll-setup/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/odoo-hr-payroll-setup/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 4716,
+  "truncated": false
+}

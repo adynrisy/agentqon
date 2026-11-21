@@ -1,0 +1,11 @@
+{
+  "name": "open-wrap-url",
+  "display_name": "Open Wrap URL",
+  "description": "Use when the user wants to open the Power Apps Wrap page for an app ID in the active environment.",
+  "repo": "microsoft/power-platform-skills",
+  "path": "plugins/mobile-apps/skills/open-wrap-url/SKILL.md",
+  "url": "https://github.com/microsoft/power-platform-skills/tree/HEAD/plugins/mobile-apps/skills/open-wrap-url/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 1511,
+  "truncated": false
+}

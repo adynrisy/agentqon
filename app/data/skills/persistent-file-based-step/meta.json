@@ -1,0 +1,11 @@
+{
+  "name": "persistent-file-based-step",
+  "display_name": "Persistent File Based · Step",
+  "description": "Persistent file-based planning for multi-step AI-agent work. Keeps task_plan.md, findings.md, and progress.md on disk; lifecycle hooks inject selected project planning context. Automatic recovery reads project planning files only. Explicit session-catchup.py --metadata reads same-project local agent session records and emits aggregate counts only; --replay may emit bounded nonce-framed excerpts. Optional gated mode can request continuation only when the host supports it and never runs commands declared in Markdown. The skill has no network upload path. Use for research or work needing 5+ tool calls.",
+  "repo": "OthmanAdi/planning-with-files",
+  "path": ".agents/skills/planning-with-files/SKILL.md",
+  "url": "https://github.com/OthmanAdi/planning-with-files/tree/HEAD/.agents/skills/planning-with-files/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 33758,
+  "truncated": false
+}

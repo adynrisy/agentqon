@@ -1,0 +1,11 @@
+{
+  "name": "openapi-spec-generator",
+  "display_name": "Openapi Spec Generator",
+  "description": "Generate complete, production-ready OpenAPI 3.x and Swagger 2.0 specifications from natural language descriptions, code, or partial specs.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/openapi-spec-generator/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/openapi-spec-generator/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 9914,
+  "truncated": false
+}

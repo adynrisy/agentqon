@@ -1,0 +1,11 @@
+{
+  "name": "oneroster-csv-validator",
+  "display_name": "Oneroster CSV Validator",
+  "description": "Validates 1EdTech / IMS Global OneRoster v1.1 and v1.2 CSV roster sets: manifest integrity, bulk vs delta strictness, foreign key references, and encoding sanitization. Trigger phrases: oneroster csv validator, validate oneroster zip, clever roster error, oneroster sourcedid.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/oneroster-csv-validator/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/oneroster-csv-validator/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 12919,
+  "truncated": false
+}

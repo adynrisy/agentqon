@@ -1,0 +1,11 @@
+{
+  "name": "multi-platform-apps",
+  "display_name": "Multi Platform Apps",
+  "description": "Build and deploy the same feature consistently across web, mobile, and desktop platforms using API-first architecture and parallel implementation strategies.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/multi-platform-apps-multi-platform/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/multi-platform-apps-multi-platform/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 10139,
+  "truncated": false
+}

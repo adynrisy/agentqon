@@ -1,0 +1,11 @@
+{
+  "name": "neon-postgres-branches",
+  "display_name": "Neon Postgres Branches",
+  "description": "Choose and create the right Neon branch type for testing and development. Use when users ask about Neon branching, migration testing with real data, isolated test environments, schema-only branch workflows for sensitive data, or branch creation via Neon CLI or Neon MCP.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/neon-postgres-branches/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/neon-postgres-branches/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 12935,
+  "truncated": false
+}

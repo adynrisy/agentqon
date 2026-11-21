@@ -1,0 +1,11 @@
+{
+  "name": "n8n-multi-instance",
+  "display_name": "N8n Multi Instance",
+  "description": "Select, verify, and safely switch n8n MCP instances across production, staging, teams, or clients, especially before credential writes.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/n8n-multi-instance/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/n8n-multi-instance/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 12806,
+  "truncated": false
+}

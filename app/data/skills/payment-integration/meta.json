@@ -1,0 +1,11 @@
+{
+  "name": "payment-integration",
+  "display_name": "Payment Integration",
+  "description": "Integrate Stripe, PayPal, and payment processors. Handles checkout flows, subscriptions, webhooks, and PCI compliance. Use PROACTIVELY when implementing payments, billing, or subscription features.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/payment-integration/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/payment-integration/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 3718,
+  "truncated": false
+}

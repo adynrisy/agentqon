@@ -1,0 +1,11 @@
+{
+  "name": "odoo-module-developer",
+  "display_name": "Odoo Module Developer",
+  "description": "Expert guide for creating custom Odoo modules. Covers __manifest__.py, model inheritance, ORM patterns, and module structure best practices.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/odoo-module-developer/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/odoo-module-developer/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 4020,
+  "truncated": false
+}

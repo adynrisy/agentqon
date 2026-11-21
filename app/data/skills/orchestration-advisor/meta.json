@@ -1,0 +1,11 @@
+{
+  "name": "orchestration-advisor",
+  "display_name": "Orchestration Advisor",
+  "description": "Design multi-agent AI workflows with clear boundaries, handoffs, and monitoring. Use when a complex PM task should run as parallel specialized agents instead of one linear process.",
+  "repo": "deanpeters/Product-Manager-Skills",
+  "path": "skills/agent-orchestration-advisor/SKILL.md",
+  "url": "https://github.com/deanpeters/Product-Manager-Skills/tree/HEAD/skills/agent-orchestration-advisor/SKILL.md",
+  "license": "CC",
+  "body_bytes": 33447,
+  "truncated": false
+}

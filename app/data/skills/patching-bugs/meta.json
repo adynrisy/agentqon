@@ -1,0 +1,11 @@
+{
+  "name": "patching-bugs",
+  "display_name": "Patching Bugs",
+  "description": "Use when a known bug or falsifiable bug hypothesis in a local codebase needs a patch commit and reviewable proof report.",
+  "repo": "trailofbits/skills",
+  "path": "plugins/patching-bugs/skills/patching-bugs/SKILL.md",
+  "url": "https://github.com/trailofbits/skills/tree/HEAD/plugins/patching-bugs/skills/patching-bugs/SKILL.md",
+  "license": "CC",
+  "body_bytes": 7061,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "ontoly-software-graph",
+  "display_name": "Ontoly Software Graph",
+  "description": "Use Ontoly's deterministic Software Graph, MCP server, and agent skills for architecture review, request tracing, impact analysis, and dependency analysis.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/ontoly-software-graph/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/ontoly-software-graph/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 6686,
+  "truncated": false
+}

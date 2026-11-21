@@ -1,0 +1,11 @@
+{
+  "name": "observability-instrumentation",
+  "display_name": "Observability Instrumentation",
+  "description": "Instruments code so production behavior is visible and diagnosable. Use when adding logging, metrics, tracing, or alerting. Use when shipping any feature that runs in production and you need evidence it works.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/observability-and-instrumentation/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/observability-and-instrumentation/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 11168,
+  "truncated": false
+}

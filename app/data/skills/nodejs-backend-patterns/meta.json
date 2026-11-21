@@ -1,0 +1,11 @@
+{
+  "name": "nodejs-backend-patterns",
+  "display_name": "Nodejs Backend Patterns",
+  "description": "Comprehensive guidance for building scalable, maintainable, and production-ready Node.js backend applications with modern frameworks, architectural patterns, and best practices.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/nodejs-backend-patterns/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/nodejs-backend-patterns/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 1377,
+  "truncated": false
+}

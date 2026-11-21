@@ -1,0 +1,11 @@
+{
+  "name": "offers-user-design",
+  "display_name": "Offers User Design",
+  "description": "When the user wants to design, construct, or improve an offer — the thing they actually sell — including value framing, bonus stacking, guarantee design, scarcity/urgency, naming, and payment structure.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/offers/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/offers/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 9114,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "onboarding-user-optimize",
+  "display_name": "Onboarding User Optimize",
+  "description": "When the user wants to optimize post-signup onboarding, user activation, first-run experience, or time-to-value.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/onboarding/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/onboarding/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 6588,
+  "truncated": false
+}

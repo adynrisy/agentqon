@@ -1,0 +1,11 @@
+{
+  "name": "music-playlist",
+  "display_name": "Music Playlist",
+  "description": "Generate personalized music playlists by analyzing the user's music taste and generation feedback history. Triggers on any request involving playlist generation, music taste profiling, or personalized music recommendations. Supports multilingual triggers — match equivalent phrases in any language.",
+  "repo": "MiniMax-AI/skills",
+  "path": "skills/minimax-music-playlist/SKILL.md",
+  "url": "https://github.com/MiniMax-AI/skills/tree/HEAD/skills/minimax-music-playlist/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 12397,
+  "truncated": false
+}

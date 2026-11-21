@@ -1,0 +1,11 @@
+{
+  "name": "n8n-workflow-patterns",
+  "display_name": "N8n Workflow Patterns",
+  "description": "Proven architectural patterns for building n8n workflows.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/n8n-workflow-patterns/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/n8n-workflow-patterns/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 11529,
+  "truncated": false
+}

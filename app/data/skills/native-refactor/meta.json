@@ -1,0 +1,11 @@
+{
+  "name": "native-refactor",
+  "display_name": "Native Refactor",
+  "description": "Review diffs without editing, or perform evidence-based cleanup while preserving authorized behavior, public contracts, and domain ownership.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/repo-native-refactor/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/repo-native-refactor/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 12355,
+  "truncated": false
+}

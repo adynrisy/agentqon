@@ -1,0 +1,11 @@
+{
+  "name": "multiplayer-game-development",
+  "display_name": "Multiplayer Game Development",
+  "description": "Multiplayer game development principles. Architecture, networking, synchronization.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/game-development/multiplayer/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/game-development/multiplayer/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 3652,
+  "truncated": false
+}

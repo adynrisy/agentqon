@@ -1,0 +1,11 @@
+{
+  "name": "music-gen",
+  "display_name": "Music Gen",
+  "description": "Use when user wants to generate music, songs, or audio tracks. Triggers on any request involving music creation, song writing, lyrics generation, audio production, or covers. Also triggers when user provides lyrics and wants them turned into a song, or describes a mood/scene and wants background music. Supports multilingual triggers — match equivalent phrases in any language. Do NOT use for music playback of existing files, music theory questions, or music recommendation without generation.",
+  "repo": "MiniMax-AI/skills",
+  "path": "skills/minimax-music-gen/SKILL.md",
+  "url": "https://github.com/MiniMax-AI/skills/tree/HEAD/skills/minimax-music-gen/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 13440,
+  "truncated": false
+}

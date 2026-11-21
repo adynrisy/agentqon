@@ -1,0 +1,11 @@
+{
+  "name": "odoo-security-rules",
+  "display_name": "Odoo Security Rules",
+  "description": "Expert in Odoo access control: ir.model.access.csv, record rules (ir.rule), groups, and multi-company security patterns.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/odoo-security-rules/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/odoo-security-rules/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 4117,
+  "truncated": false
+}

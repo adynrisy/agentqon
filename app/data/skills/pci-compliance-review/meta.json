@@ -1,0 +1,11 @@
+{
+  "name": "pci-compliance-review",
+  "display_name": "PCI Compliance · Review",
+  "description": "Review payment data flows and engineering control evidence for a scoped PCI assessment, without claiming certification.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/pci-compliance/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/pci-compliance/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 2877,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "n8n-binary-data",
+  "display_name": "N8n Binary Data",
+  "description": "Handle n8n files and binary data across uploads, downloads, transforms, multimodal inputs, agent tools, and chat surfaces.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/n8n-binary-and-data/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/n8n-binary-and-data/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 15920,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "paypal-integration-payment-processing",
+  "display_name": "Paypal Integration · Payment Processing",
+  "description": "Integrate PayPal payment processing with support for express checkout, subscriptions, and refund management. Use when implementing PayPal payments, processing online transactions, or building e-commerce checkout flows.",
+  "repo": "wshobson/agents",
+  "path": "plugins/payment-processing/skills/paypal-integration/SKILL.md",
+  "url": "https://github.com/wshobson/agents/tree/HEAD/plugins/payment-processing/skills/paypal-integration/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 3745,
+  "truncated": false
+}

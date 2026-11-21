@@ -1,0 +1,11 @@
+{
+  "name": "odoo-automated-tests",
+  "display_name": "Odoo Automated Tests",
+  "description": "Write and run Odoo automated tests using TransactionCase, HttpCase, and browser tour tests. Covers test data setup, mocking, and CI integration.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/odoo-automated-tests/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/odoo-automated-tests/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 4904,
+  "truncated": false
+}

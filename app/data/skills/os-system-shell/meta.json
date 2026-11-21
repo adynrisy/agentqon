@@ -1,0 +1,11 @@
+{
+  "name": "os-system-shell",
+  "display_name": "OS System Shell",
+  "description": "Operating system and shell scripting troubleshooting workflow for Linux, macOS, and Windows. Covers bash scripting, system administration, debugging, and automation.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/os-scripting/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/os-scripting/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 8346,
+  "truncated": false
+}

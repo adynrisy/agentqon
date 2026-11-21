@@ -1,0 +1,11 @@
+{
+  "name": "ollama-stack",
+  "display_name": "Ollama Stack",
+  "description": "Run local LLM workloads with Ollama, Open WebUI, and GPU-aware tuning for private development environments.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/ollama-stack/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/ollama-stack/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 9182,
+  "truncated": false
+}

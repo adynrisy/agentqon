@@ -1,0 +1,11 @@
+{
+  "name": "nosql-expert",
+  "display_name": "Nosql Expert",
+  "description": "Expert guidance for distributed NoSQL databases (Cassandra, DynamoDB). Focuses on mental models, query-first modeling, single-table design, and avoiding hot partitions in high-scale systems.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/nosql-expert/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/nosql-expert/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 6113,
+  "truncated": false
+}

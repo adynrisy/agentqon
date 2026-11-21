@@ -1,0 +1,11 @@
+{
+  "name": "net-core-expert",
+  "display_name": ".NET Core Expert",
+  "description": "Use when building .NET 8 applications with minimal APIs, clean architecture, or cloud-native microservices. Invoke for Entity Framework Core, CQRS with MediatR, JWT authentication, AOT compilation.",
+  "repo": "Jeffallan/claude-skills",
+  "path": "skills/dotnet-core-expert/SKILL.md",
+  "url": "https://github.com/Jeffallan/claude-skills/tree/HEAD/skills/dotnet-core-expert/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 4592,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "omero-integration",
+  "display_name": "Omero Integration",
+  "description": "Inspects and automates microscopy data workflows against OMERO.server with omero-py, BlitzGateway, OMERO CLI, tables, annotations, ROIs, rendering, and documented OMERO.web APIs. Use this skill for scoped OMERO inventory, metadata export, import/export planning, or reviewed write workflows.",
+  "repo": "K-Dense-AI/scientific-agent-skills",
+  "path": "skills/omero-integration/SKILL.md",
+  "url": "https://github.com/K-Dense-AI/scientific-agent-skills/tree/HEAD/skills/omero-integration/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 9628,
+  "truncated": false
+}

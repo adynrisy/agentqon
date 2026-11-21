@@ -1,0 +1,11 @@
+{
+  "name": "n8n-mcp-tools-expert",
+  "display_name": "N8n MCP Tools Expert",
+  "description": "Expert guide for using n8n-mcp MCP tools effectively. Use when searching for nodes, validating configurations, accessing templates, managing workflows, or using any n8n-mcp tool. Provides tool selection guidance, parameter formats, and common patterns.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/n8n-mcp-tools-expert/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/n8n-mcp-tools-expert/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 4117,
+  "truncated": false
+}

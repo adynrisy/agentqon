@@ -1,0 +1,11 @@
+{
+  "name": "panel-review",
+  "display_name": "Panel Review",
+  "description": "Reviews a code target by launching a panel of specialist auditor agents and merging their reports. Use when asked to run a panel review.",
+  "repo": "trailofbits/skills",
+  "path": "plugins/code-improver/tests/fixtures/review-panel/skills/panel-review/SKILL.md",
+  "url": "https://github.com/trailofbits/skills/tree/HEAD/plugins/code-improver/tests/fixtures/review-panel/skills/panel-review/SKILL.md",
+  "license": "CC",
+  "body_bytes": 733,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "observability-instrumentation-instruments",
+  "display_name": "Observability Instrumentation · Instruments",
+  "description": "Instruments code so production behavior is visible and diagnosable. Use when adding logging, metrics, tracing, or alerting. Use when shipping any feature that runs in production and you need evidence it works. Use when production issues are reported but you can't tell what happened from the available data.",
+  "repo": "addyosmani/agent-skills",
+  "path": "skills/observability-and-instrumentation/SKILL.md",
+  "url": "https://github.com/addyosmani/agent-skills/tree/HEAD/skills/observability-and-instrumentation/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 13578,
+  "truncated": false
+}

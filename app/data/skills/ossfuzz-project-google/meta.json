@@ -1,0 +1,11 @@
+{
+  "name": "ossfuzz-project-google",
+  "display_name": "Ossfuzz Project Google",
+  "description": "Enrolls a project in OSS-Fuzz, Google's free continuous fuzzing service for open source, and drives it locally. Covers project.yaml, Dockerfile and build.sh setup, the helper scripts, reproducing OSS-Fuzz crash reports, and the acceptance criteria. Use when setting up continuous fuzzing for an open-source project, reproducing an OSS-Fuzz bug report, or testing an OSS-Fuzz build before submitting it.",
+  "repo": "trailofbits/skills",
+  "path": "plugins/testing-handbook-skills/skills/ossfuzz/SKILL.md",
+  "url": "https://github.com/trailofbits/skills/tree/HEAD/plugins/testing-handbook-skills/skills/ossfuzz/SKILL.md",
+  "license": "CC",
+  "body_bytes": 16283,
+  "truncated": false
+}

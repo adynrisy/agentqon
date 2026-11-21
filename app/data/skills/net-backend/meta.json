@@ -1,0 +1,11 @@
+{
+  "name": "net-backend",
+  "display_name": ".NET Backend",
+  "description": "Build ASP.NET Core 8+ backend services with EF Core, auth, background jobs, and production API patterns.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/dotnet-backend/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/dotnet-backend/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 7533,
+  "truncated": false
+}

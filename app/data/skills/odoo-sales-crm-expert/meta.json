@@ -1,0 +1,11 @@
+{
+  "name": "odoo-sales-crm-expert",
+  "display_name": "Odoo Sales CRM Expert",
+  "description": "Expert guide for Odoo Sales and CRM: pipeline stages, quotation templates, pricelists, sales teams, lead scoring, and forecasting.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/odoo-sales-crm-expert/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/odoo-sales-crm-expert/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 4188,
+  "truncated": false
+}

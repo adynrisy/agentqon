@@ -1,0 +1,11 @@
+{
+  "name": "people-data",
+  "display_name": "People Data",
+  "description": "Research LinkedIn professional profiles and public business-contact data, including email/phone lookup, people search, and YouTube channel business-email discovery.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/people-data/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/people-data/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 4300,
+  "truncated": false
+}

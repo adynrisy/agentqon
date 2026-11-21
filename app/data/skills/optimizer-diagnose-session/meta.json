@@ -1,0 +1,11 @@
+{
+  "name": "optimizer-diagnose-session",
+  "display_name": "Optimizer Diagnose Session",
+  "description": "Diagnose and optimize Agent Skills (SKILL.md) with real session data and research-backed static analysis. Works with Claude Code, Codex, and any Agent Skills-compatible agent.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "skills/skill-optimizer/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/skills/skill-optimizer/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 11791,
+  "truncated": false
+}

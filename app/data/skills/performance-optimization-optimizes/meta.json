@@ -1,0 +1,11 @@
+{
+  "name": "performance-optimization-optimizes",
+  "display_name": "Performance Optimization · Optimizes",
+  "description": "Optimizes application performance across frontend, backend, queries, and databases. Use when performance requirements exist, when you suspect performance regressions, when Core Web Vitals or load times need improvement, when N+1 query patterns need fixing, or when profiling reveals bottlenecks.",
+  "repo": "addyosmani/agent-skills",
+  "path": "skills/performance-optimization/SKILL.md",
+  "url": "https://github.com/addyosmani/agent-skills/tree/HEAD/skills/performance-optimization/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 16349,
+  "truncated": false
+}

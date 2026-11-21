@@ -1,0 +1,11 @@
+{
+  "name": "open-dynamic-workflows",
+  "display_name": "Open Dynamic Workflows",
+  "description": "Plan, orchestrate, and adversarially verify parallel AI coding agents with a dynamic multi-agent workflow engine.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/open-dynamic-workflows/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/open-dynamic-workflows/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 3826,
+  "truncated": false
+}

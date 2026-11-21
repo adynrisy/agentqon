@@ -1,0 +1,11 @@
+{
+  "name": "observability-ai-token",
+  "display_name": "Observability AI Token",
+  "description": "Instrument AI agents with tracing, token metrics, latency, and cost visibility. Use for reliability and debugging.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/agent-observability/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/agent-observability/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 11192,
+  "truncated": false
+}

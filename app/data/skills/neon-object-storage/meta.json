@@ -1,0 +1,11 @@
+{
+  "name": "neon-object-storage",
+  "display_name": "Neon Object Storage",
+  "description": "S3-compatible object storage that branches with your Neon project, so files and the database stay in sync across every branch.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/neon-object-storage/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/neon-object-storage/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 11183,
+  "truncated": false
+}

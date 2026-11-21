@@ -1,0 +1,11 @@
+{
+  "name": "pagespeed-enhancer",
+  "display_name": "Pagespeed Enhancer",
+  "description": "Scan, audit, and fix web performance issues across all four Lighthouse/PageSpeed Insights pillars — Performance, Accessibility, Best Practices, and SEO — in structured batches.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/pagespeed-enhancer/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/pagespeed-enhancer/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 2564,
+  "truncated": false
+}

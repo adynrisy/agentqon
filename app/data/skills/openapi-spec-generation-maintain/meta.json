@@ -1,0 +1,11 @@
+{
+  "name": "openapi-spec-generation-maintain",
+  "display_name": "Openapi Spec Generation · Maintain",
+  "description": "Generate and maintain OpenAPI 3.1 specifications from code, design-first specs, and validation patterns. Use when creating API documentation, generating SDKs, or ensuring API contract compliance.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/openapi-spec-generation/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/openapi-spec-generation/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 1224,
+  "truncated": false
+}

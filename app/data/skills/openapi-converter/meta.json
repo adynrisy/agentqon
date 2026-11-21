@@ -1,0 +1,11 @@
+{
+  "name": "openapi-converter",
+  "display_name": "Openapi Converter",
+  "description": "Convert OpenAPI 3.x or Swagger 2.0 specs (YAML or JSON) into complete, import-ready Postman Collection v2.1 JSON files.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/postman-openapi-converter/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/postman-openapi-converter/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 5609,
+  "truncated": false
+}

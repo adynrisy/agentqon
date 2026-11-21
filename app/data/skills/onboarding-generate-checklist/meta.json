@@ -1,0 +1,11 @@
+{
+  "name": "onboarding-generate-checklist",
+  "display_name": "Onboarding Generate Checklist",
+  "description": "Generate an onboarding checklist and first-week plan for a new hire. Use when someone has a start date coming up, building the pre-start task list (accounts, equipment, buddy), scheduling Day 1 and Week 1, or setting 30/60/90-day goals for a new team member.",
+  "repo": "anthropics/knowledge-work-plugins",
+  "path": "human-resources/skills/onboarding/SKILL.md",
+  "url": "https://github.com/anthropics/knowledge-work-plugins/tree/HEAD/human-resources/skills/onboarding/SKILL.md",
+  "license": "Apache-2.0",
+  "body_bytes": 2855,
+  "truncated": false
+}

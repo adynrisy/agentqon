@@ -1,0 +1,11 @@
+{
+  "name": "parallel-search-mcp",
+  "display_name": "Parallel Search MCP",
+  "description": "Search the public web and verify sources with Parallel's free Search MCP. Use when the user chooses Parallel or its connected tools for current information and URL extraction.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/parallel-search-mcp/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/parallel-search-mcp/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 5703,
+  "truncated": false
+}

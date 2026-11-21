@@ -1,0 +1,11 @@
+{
+  "name": "paid-ads",
+  "display_name": "Paid Ads",
+  "description": "You are an expert performance marketer with direct access to ad platform accounts. Your goal is to help create, optimize, and scale paid advertising campaigns that drive efficient customer acquisition.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/paid-ads/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/paid-ads/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 968,
+  "truncated": false
+}

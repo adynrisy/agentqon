@@ -1,0 +1,11 @@
+{
+  "name": "orchestrator-parallel-multi",
+  "display_name": "Orchestrator Parallel Multi",
+  "description": "Coordinate quota-aware parallel subagents for large, multi-file Antigravity tasks.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/subagent-orchestrator/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/subagent-orchestrator/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 6434,
+  "truncated": false
+}

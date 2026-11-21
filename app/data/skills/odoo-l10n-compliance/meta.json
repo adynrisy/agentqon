@@ -1,0 +1,11 @@
+{
+  "name": "odoo-l10n-compliance",
+  "display_name": "Odoo L10n Compliance",
+  "description": "Country-specific Odoo localization: tax configuration, e-invoicing (CFDI, FatturaPA, SAF-T), fiscal reporting, and country chart of accounts setup.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/odoo-l10n-compliance/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/odoo-l10n-compliance/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 4114,
+  "truncated": false
+}

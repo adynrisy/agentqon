@@ -1,0 +1,11 @@
+{
+  "name": "permission-manager",
+  "display_name": "Permission Manager",
+  "description": "Manage opencode permissions: review always-allow lists, suggest safe read-only commands, configure permission patterns",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/permission-manager/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/permission-manager/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 1977,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "onboard-founder-interview",
+  "display_name": "Onboard Founder Interview",
+  "description": "Founder onboarding interview that captures company context across 7 dimensions. Invoke with /cs-onboard setup for initial interview or /cs-onboard update for quarterly refresh. Generates ~/.claude/company-context.md used by all C-suite advisor skills. Use when setting up the C-suite advisors for the first time, or when company context is missing or more than 90 days old — e.g. after a fundraise or pivot.",
+  "repo": "alirezarezvani/claude-skills",
+  "path": ".gemini/skills/cs-onboard/SKILL.md",
+  "url": "https://github.com/alirezarezvani/claude-skills/tree/HEAD/.gemini/skills/cs-onboard/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 4192,
+  "truncated": false
+}

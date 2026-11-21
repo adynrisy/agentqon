@@ -1,0 +1,11 @@
+{
+  "name": "neon-postgres",
+  "display_name": "Neon Postgres",
+  "description": "Guides and best practices for working with Neon Serverless Postgres. Covers setup, connection methods, branching, autoscaling, scale-to-zero, read replicas, connection pooling, Neon Auth, and the Neon CLI, MCP server, REST API, TypeScript SDK, and Python SDK.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/neon-postgres/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/neon-postgres/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 16288,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "nagent-launch-bb",
+  "display_name": "Nagent Launch Bb",
+  "description": "Launch a new bb worker thread with the right project, model, worktree, and task brief. Use for nagent, launching a bb session, or a standalone bb agent. Covers thread creation; use bb-cli for managing existing threads.",
+  "repo": "davidondrej/skills",
+  "path": "skills/agent-orchestration/nagent/SKILL.md",
+  "url": "https://github.com/davidondrej/skills/tree/HEAD/skills/agent-orchestration/nagent/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 6440,
+  "truncated": false
+}

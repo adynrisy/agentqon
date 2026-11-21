@@ -1,0 +1,11 @@
+{
+  "name": "orchestrate-work",
+  "display_name": "Orchestrate Work",
+  "description": "Coordinate focused subagents on substantial work, keep their ownership non-overlapping, and integrate verified results. Use for large-scope Codex tasks; keep trivial work with the coordinator.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/orchestrate/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/orchestrate/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 2071,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "paperclip-documents-clinical",
+  "display_name": "Paperclip Documents Clinical",
+  "description": "Searches and reads biomedical papers, FDA/PMDA/EMA documents, clinical trials, and protein records with the GXL Paperclip CLI and Python SDK. Supports source-scoped search, full-text grep, metadata SQL, map/reduce extraction, figure analysis, optional repositories and claim verification, and line-pinned citations. Use when a task names GXL paperclip, asks to install or authenticate it, or requests literature retrieval and evidence extraction through Paperclip.",
+  "repo": "K-Dense-AI/scientific-agent-skills",
+  "path": "skills/paperclip/SKILL.md",
+  "url": "https://github.com/K-Dense-AI/scientific-agent-skills/tree/HEAD/skills/paperclip/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 11677,
+  "truncated": false
+}

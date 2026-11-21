@@ -1,0 +1,11 @@
+{
+  "name": "observation-fetching",
+  "display_name": "Observation Fetching",
+  "description": "Retrieve surface and upper-air weather observations from authoritative APIs and archives with station identity, time, units, and quality flags preserved.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/weather-observation-fetching/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/weather-observation-fetching/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 10409,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "note-copywriter",
+  "display_name": "Note Copywriter",
+  "description": "Install and use the official Xiaohongshu Copywriter package, pinned by digest, for paid hosted work on the Beatra service.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/zhongcao-note-copywriter/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/zhongcao-note-copywriter/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 15400,
+  "truncated": false
+}

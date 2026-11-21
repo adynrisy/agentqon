@@ -1,0 +1,11 @@
+{
+  "name": "outreach-composer",
+  "display_name": "Outreach Composer",
+  "description": "Writes prospect outreach and follow-up sequences that sound like the owner wrote them, not like an AI did. Learns a voice profile from the owner's own sent mail, grounds every message in something specific about that prospect, builds the follow-up sequence behind it, queues every send for approval, and logs each touch to the CRM. Runs draft-only when no mail connector is available, so the copy can be pasted anywhere. Use this whenever the owner needs to reach out to prospects or customers — including phrasings like \"write this cold email,\" \"draft a follow-up,\" \"reach out to these leads,\" \"what do I say to them,\" \"I need a sequence for this list,\" \"nudge the people who didn't reply,\" or \"write it but don't make it sound like a robot.\" Reach for it whenever outreach copy is the deliverable, even for a single message.",
+  "repo": "anthropics/knowledge-work-plugins",
+  "path": "small-business/skills/outreach-composer/SKILL.md",
+  "url": "https://github.com/anthropics/knowledge-work-plugins/tree/HEAD/small-business/skills/outreach-composer/SKILL.md",
+  "license": "Apache-2.0",
+  "body_bytes": 9530,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "patterns-reference-document",
+  "display_name": "Patterns Reference Document",
+  "description": "Reference document for monopoly patterns.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/monopoly/patterns/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/monopoly/patterns/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 10401,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "nft-standards-master",
+  "display_name": "Nft Standards · Master",
+  "description": "Master ERC-721 and ERC-1155 NFT standards, metadata best practices, and advanced NFT features.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/nft-standards/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/nft-standards/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 12655,
+  "truncated": false
+}

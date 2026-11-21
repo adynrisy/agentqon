@@ -1,0 +1,11 @@
+{
+  "name": "odoo-ecommerce-configurator",
+  "display_name": "Odoo Ecommerce Configurator",
+  "description": "Expert guide for Odoo eCommerce and Website: product catalog, payment providers, shipping methods, SEO, and order-to-fulfillment workflow.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/odoo-ecommerce-configurator/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/odoo-ecommerce-configurator/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 5185,
+  "truncated": false
+}

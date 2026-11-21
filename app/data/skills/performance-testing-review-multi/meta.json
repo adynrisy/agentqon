@@ -1,0 +1,11 @@
+{
+  "name": "performance-testing-review-multi",
+  "display_name": "Performance Testing Review Multi",
+  "description": "Review a defined code diff from relevant correctness, authorization and performance perspectives; delegate only when authorized and reproduce findings centrally.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/performance-testing-review-multi-agent-review/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/performance-testing-review-multi-agent-review/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 2695,
+  "truncated": false
+}

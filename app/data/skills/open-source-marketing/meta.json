@@ -1,0 +1,11 @@
+{
+  "name": "open-source-marketing",
+  "display_name": "Open Source Marketing",
+  "description": "When the user wants to market an open source project authentically. Trigger phrases include \"open source marketing,\" \"OSS marketing,\" \"GitHub marketing,\" \"promote my library,\" \"grow stars,\" \"launch open source,\" \"open source growth,\" or \"contributor marketing.\"",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/open-source-marketing/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/open-source-marketing/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 12116,
+  "truncated": false
+}

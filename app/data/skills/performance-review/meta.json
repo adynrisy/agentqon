@@ -1,0 +1,11 @@
+{
+  "name": "performance-review",
+  "display_name": "Performance Review",
+  "description": "Structure a performance review with self-assessment, manager template, and calibration prep. Use when review season kicks off and you need a self-assessment template, writing a manager review for a direct report, prepping rating distributions and promotion cases for calibration, or turning vague feedback into specific behavioral examples.",
+  "repo": "anthropics/knowledge-work-plugins",
+  "path": "human-resources/skills/performance-review/SKILL.md",
+  "url": "https://github.com/anthropics/knowledge-work-plugins/tree/HEAD/human-resources/skills/performance-review/SKILL.md",
+  "license": "Apache-2.0",
+  "body_bytes": 4473,
+  "truncated": false
+}

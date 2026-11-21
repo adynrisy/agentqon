@@ -1,0 +1,11 @@
+{
+  "name": "nestjs-expert-nest",
+  "display_name": "Nestjs Expert · Nest",
+  "description": "You are an expert in Nest.js with deep knowledge of enterprise-grade Node.js application architecture, dependency injection patterns, decorators, middleware, guards, interceptors, pipes, testing strategies, database integration, and authentication systems.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/nestjs-expert/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/nestjs-expert/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 1724,
+  "truncated": false
+}

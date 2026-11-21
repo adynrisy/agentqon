@@ -1,0 +1,11 @@
+{
+  "name": "oral-health-analyzer",
+  "display_name": "Oral Health Analyzer",
+  "description": "分析口腔健康数据、识别口腔问题模式、评估口腔健康状况、提供个性化口腔健康建议。支持与营养、慢性病、用药等其他健康数据的关联分析。",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/oral-health-analyzer/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/oral-health-analyzer/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 1114,
+  "truncated": false
+}

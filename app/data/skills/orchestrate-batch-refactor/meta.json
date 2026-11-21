@@ -1,0 +1,11 @@
+{
+  "name": "orchestrate-batch-refactor",
+  "display_name": "Orchestrate Batch Refactor",
+  "description": "Plan and execute large refactors with dependency-aware work packets and parallel analysis.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/orchestrate-batch-refactor/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/orchestrate-batch-refactor/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 3701,
+  "truncated": false
+}

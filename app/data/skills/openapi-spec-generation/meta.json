@@ -1,0 +1,11 @@
+{
+  "name": "openapi-spec-generation",
+  "display_name": "Openapi Spec Generation",
+  "description": "Generate and maintain OpenAPI 3.1 specifications from code, design-first specs, and validation patterns. Use when creating API documentation, generating SDKs, or ensuring API contract compliance.",
+  "repo": "wshobson/agents",
+  "path": "plugins/documentation-generation/skills/openapi-spec-generation/SKILL.md",
+  "url": "https://github.com/wshobson/agents/tree/HEAD/plugins/documentation-generation/skills/openapi-spec-generation/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 1795,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "onboard-trainer-first",
+  "display_name": "Onboard Trainer First",
+  "description": "Claude as the trainer. Walks an SMB owner through connecting their first two tools, runs one recipe to prove immediate value, interviews them about their business (industry, size, top three headaches), stores that context persistently so every other skill benefits, and sets a weekly check-in cadence. Use when the owner is getting started or says any of: \"set me up,\" \"setup,\" \"help me get set up,\" \"get started,\" \"help me get started,\" \"get me started,\" \"what can you do,\" \"I'm new to this,\" or is in their first session.",
+  "repo": "anthropics/knowledge-work-plugins",
+  "path": "small-business/skills/smb-onboard/SKILL.md",
+  "url": "https://github.com/anthropics/knowledge-work-plugins/tree/HEAD/small-business/skills/smb-onboard/SKILL.md",
+  "license": "Apache-2.0",
+  "body_bytes": 10150,
+  "truncated": false
+}

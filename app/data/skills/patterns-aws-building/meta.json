@@ -1,0 +1,11 @@
+{
+  "name": "patterns-aws-building",
+  "display_name": "Patterns AWS Building",
+  "description": "Common AWS CDK patterns and constructs for building cloud infrastructure with TypeScript, Python, or Java. Use when designing reusable CDK stacks and L3 constructs.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/cdk-patterns/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/cdk-patterns/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 3486,
+  "truncated": false
+}

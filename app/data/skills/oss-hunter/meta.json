@@ -1,0 +1,11 @@
+{
+  "name": "oss-hunter",
+  "display_name": "Oss Hunter",
+  "description": "Automatically hunt for high-impact OSS contribution opportunities in trending repositories.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/oss-hunter/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/oss-hunter/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 2337,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "onboard-founder-interview-that",
+  "display_name": "Onboard Founder Interview · That",
+  "description": "/cs-onboard — Founder interview that populates ~/.claude/company-context.md using the canonical 7-dimension cs-onboard schema. The first command to run when starting with c-level-agents. Use when setting up the virtual C-suite for a new company, or when advisors lack company context — e.g. before a first /c-level-agents:boardroom or after a fundraise changes the numbers.",
+  "repo": "alirezarezvani/claude-skills",
+  "path": ".gemini/skills/onboard/SKILL.md",
+  "url": "https://github.com/alirezarezvani/claude-skills/tree/HEAD/.gemini/skills/onboard/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 4783,
+  "truncated": false
+}
