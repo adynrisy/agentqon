@@ -1,0 +1,11 @@
+{
+  "name": "earllm-build",
+  "display_name": "Earllm Build",
+  "description": "Build, maintain, and extend the EarLLM One Android project — a Kotlin/Compose app that connects Bluetooth earbuds to an LLM via voice pipeline.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/earllm-build/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/earllm-build/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 7865,
+  "truncated": false
+}

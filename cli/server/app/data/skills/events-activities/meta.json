@@ -1,0 +1,11 @@
+{
+  "name": "events-activities",
+  "display_name": "Events Activities",
+  "description": "Event register: type, date and time, venue, organizer, audience, budget against actual cost, RSVP and attendance counts and feedback score. Use for event tracking.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/events-activities/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/events-activities/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 15109,
+  "truncated": false
+}

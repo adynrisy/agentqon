@@ -1,0 +1,11 @@
+{
+  "name": "error-diagnostics-smart-debug",
+  "display_name": "Error Diagnostics Smart Debug",
+  "description": "Diagnose failures from reproduction steps, traces, logs and code; test hypotheses and verify a scoped fix without inventing production evidence.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/error-diagnostics-smart-debug/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/error-diagnostics-smart-debug/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 7113,
+  "truncated": false
+}

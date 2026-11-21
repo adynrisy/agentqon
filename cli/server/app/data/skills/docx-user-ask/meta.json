@@ -1,0 +1,11 @@
+{
+  "name": "docx-user-ask",
+  "display_name": "Docx User Ask",
+  "description": "A user may ask you to create, edit, or analyze the contents of a .docx file. A .docx file is essentially a ZIP archive containing XML files and other resources that you can read or edit. You have different tools and workflows available for different tasks.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/docx-official/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/docx-official/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 10122,
+  "truncated": false
+}

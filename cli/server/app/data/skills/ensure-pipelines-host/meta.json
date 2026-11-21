@@ -1,0 +1,11 @@
+{
+  "name": "ensure-pipelines-host",
+  "display_name": "Ensure Pipelines Host",
+  "description": "Ensures the tenant has a usable Power Platform Pipelines host environment before any pipeline operation runs. Detects host state via the same resolution order as the Power Apps UI (org-db setting → BAP env metadata → default-custom-host setting); if any existing host (Platform or Custom) is found, uses it. If no host is bound to the source env, provisions a new **Platform Host** (recommended, idempotent) or a **Custom Host** via the BAP env-create API with the `D365_ProjectHost` template, or guides the user through PPAC install / `New custom host` (manual fallbacks). Polls lifecycle operations, verifies the host responds to Pipelines API calls, writes a host-check artifact other ALM skills consume. Use when asked to: \"set up pipelines host\", \"ensure pipelines host\", \"no pipelines host\", \"install pipelines\", \"create pipelines host\", \"provision platform host\", \"provision custom host\". Also invoked transparently by /power-pages:setup-pipeline when its host discovery step finds nothing.",
+  "repo": "microsoft/power-platform-skills",
+  "path": "plugins/power-pages/skills/ensure-pipelines-host/SKILL.md",
+  "url": "https://github.com/microsoft/power-platform-skills/tree/HEAD/plugins/power-pages/skills/ensure-pipelines-host/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 65536,
+  "truncated": true
+}

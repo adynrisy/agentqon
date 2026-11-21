@@ -1,0 +1,11 @@
+{
+  "name": "evaluation-methodology",
+  "display_name": "Evaluation Methodology",
+  "description": "PluginEval quality methodology, covering dimensions, rubrics, and scoring formulas. Use this skill when understanding how plugin quality is measured, when interpreting a low score on a specific dimension, when deciding how to improve a skill's triggering accuracy or orchestration fitness, when setting score thresholds for your marketplace, or when explaining quality badges to external partners like Neon.",
+  "repo": "wshobson/agents",
+  "path": "plugins/plugin-eval/skills/evaluation-methodology/SKILL.md",
+  "url": "https://github.com/wshobson/agents/tree/HEAD/plugins/plugin-eval/skills/evaluation-methodology/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 7447,
+  "truncated": false
+}

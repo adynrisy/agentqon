@@ -1,0 +1,11 @@
+{
+  "name": "draw-vector-diagram",
+  "display_name": "Draw Vector Diagram",
+  "description": "Vector graphics and diagram creation, format conversion (ODG/SVG/PDF) with LibreOffice Draw.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/libreoffice/draw/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/libreoffice/draw/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 3905,
+  "truncated": false
+}

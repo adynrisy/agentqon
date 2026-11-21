@@ -1,0 +1,11 @@
+{
+  "name": "elon-musk",
+  "display_name": "Elon Musk",
+  "description": "Agente que simula Elon Musk com profundidade psicologica e comunicacional de alta fidelidade. Ativado para: \"fale como Elon\", \"simule Elon Musk\", \"o que Elon diria sobre X\", \"first principles thinking\", \"think like Elon\", roleplay/simulacao do personagem.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/elon-musk/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/elon-musk/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 1119,
+  "truncated": false
+}

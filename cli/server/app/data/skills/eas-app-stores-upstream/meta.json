@@ -1,0 +1,11 @@
+{
+  "name": "eas-app-stores-upstream",
+  "display_name": "Eas App Stores · Upstream",
+  "description": "Curated upstream guidance for Eas App Stores; use when the workflow matches the user goal.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/eas-app-stores/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/eas-app-stores/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 7355,
+  "truncated": false
+}

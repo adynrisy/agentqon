@@ -1,0 +1,11 @@
+{
+  "name": "dynamic-pricing",
+  "display_name": "Dynamic Pricing",
+  "description": "Design a controlled dynamic-pricing or repricing system for ecommerce products. Use when a seller asks for demand-based, inventory-based, competitor-responsive, or time-based price rules; SKU eligibility; price floors and ceilings; automation approvals; simulations; monitoring; or rollback plans across Amazon, Shopify, TikTok Shop, Walmart, eBay, or other channels. Do not use for a one-time optimal-price calculation or to change live prices without explicit authorization.",
+  "repo": "nexscope-ai/eCommerce-Skills",
+  "path": "dynamic-pricing-ecommerce/SKILL.md",
+  "url": "https://github.com/nexscope-ai/eCommerce-Skills/tree/HEAD/dynamic-pricing-ecommerce/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 12380,
+  "truncated": false
+}

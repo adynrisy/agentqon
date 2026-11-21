@@ -1,0 +1,11 @@
+{
+  "name": "eas-workflows",
+  "display_name": "Eas Workflows",
+  "description": "Helps understand and write EAS workflow YAML files for Expo projects. Use this skill when the user asks about CI/CD or workflows in an Expo or EAS context, mentions .eas/workflows/, or wants help with EAS build pipelines or deployment automation.",
+  "repo": "expo/skills",
+  "path": "plugins/expo/skills/eas-workflows/SKILL.md",
+  "url": "https://github.com/expo/skills/tree/HEAD/plugins/expo/skills/eas-workflows/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 4463,
+  "truncated": false
+}

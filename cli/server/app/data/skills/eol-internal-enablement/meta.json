@@ -1,0 +1,11 @@
+{
+  "name": "eol-internal-enablement",
+  "display_name": "Eol Internal Enablement",
+  "description": "Build the support FAQ, sales talking points, and objection handling teams need before an EOL announcement. Use when customer-facing teams must be ready before customers hear.",
+  "repo": "deanpeters/Product-Manager-Skills",
+  "path": "skills/eol-internal-enablement/SKILL.md",
+  "url": "https://github.com/deanpeters/Product-Manager-Skills/tree/HEAD/skills/eol-internal-enablement/SKILL.md",
+  "license": "CC",
+  "body_bytes": 11341,
+  "truncated": false
+}

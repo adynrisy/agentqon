@@ -1,0 +1,11 @@
+{
+  "name": "email-marketing-builder",
+  "display_name": "Email Marketing Builder",
+  "description": "E-commerce email marketing system builder. Creates complete email automation flows with full copywriting, subject lines, ESP setup instructions, segmentation rules, and annual campaign calendars. Generates copy-paste-ready email sequences for Klaviyo, Omnisend, Mailchimp, or any ESP. Covers welcome series, cart abandonment, browse abandonment, post-purchase, review requests, cross-sell, win-back, VIP/loyalty, replenishment, and sunset flows. Includes A/B test subject line variants, send timing, trigger conditions, branching logic, and seasonal campaign calendar. No API key required. Use when: (1) setting up email marketing for an e-commerce store, (2) writing email sequences and flows, (3) planning seasonal email campaigns.",
+  "repo": "nexscope-ai/eCommerce-Skills",
+  "path": "ecommerce-email-marketing-builder/SKILL.md",
+  "url": "https://github.com/nexscope-ai/eCommerce-Skills/tree/HEAD/ecommerce-email-marketing-builder/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 24410,
+  "truncated": false
+}

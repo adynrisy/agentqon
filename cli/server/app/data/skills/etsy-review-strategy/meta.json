@@ -1,0 +1,11 @@
+{
+  "name": "etsy-review-strategy",
+  "display_name": "Etsy Review Strategy",
+  "description": "Etsy review generation — thank you cards, follow-up messages, photo review incentives",
+  "repo": "nexscope-ai/eCommerce-Skills",
+  "path": "etsy-review-strategy/SKILL.md",
+  "url": "https://github.com/nexscope-ai/eCommerce-Skills/tree/HEAD/etsy-review-strategy/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 1549,
+  "truncated": false
+}

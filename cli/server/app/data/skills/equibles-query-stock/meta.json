@@ -1,0 +1,11 @@
+{
+  "name": "equibles-query-stock",
+  "display_name": "Equibles Query Stock",
+  "description": "Query Equibles for US stock market data: SEC filing search, XBRL financial statements, earnings call transcripts, insider and 13F holdings, and daily prices.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/equibles/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/equibles/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 8956,
+  "truncated": false
+}

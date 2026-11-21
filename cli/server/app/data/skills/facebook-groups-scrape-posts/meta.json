@@ -1,0 +1,11 @@
+{
+  "name": "facebook-groups-scrape-posts",
+  "display_name": "Facebook Groups Scrape Posts",
+  "description": "Scrapes posts from a Facebook group given a group URL, sort order, and desired count — returns structured post metadata including post_id, permalink, author, timestamp, body text, images/videos, reaction counts, reaction type breakdown, comment count, and share count. Use when: user wants to scrape/extract Facebook group posts, collect FB group content, harvest group data, get posts from a Facebook group, monitor Facebook group activity, bulk export group posts, facebook groups scraping, facebook-groups-scrape-posts, fetch FB group feed.",
+  "repo": "browser-act/skills",
+  "path": "solutions/social-listening/facebook-groups-scrape-posts/SKILL.md",
+  "url": "https://github.com/browser-act/skills/tree/HEAD/solutions/social-listening/facebook-groups-scrape-posts/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 10035,
+  "truncated": false
+}

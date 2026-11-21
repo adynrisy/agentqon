@@ -1,0 +1,11 @@
+{
+  "name": "epic-hypothesis",
+  "display_name": "Epic Hypothesis",
+  "description": "Frame an epic as a testable hypothesis with target user, expected outcome, and validation method. Use when defining a major initiative before roadmap, discovery, or delivery planning.",
+  "repo": "deanpeters/Product-Manager-Skills",
+  "path": "skills/epic-hypothesis/SKILL.md",
+  "url": "https://github.com/deanpeters/Product-Manager-Skills/tree/HEAD/skills/epic-hypothesis/SKILL.md",
+  "license": "CC",
+  "body_bytes": 11485,
+  "truncated": false
+}

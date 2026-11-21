@@ -1,0 +1,11 @@
+{
+  "name": "etsy-multi-shop",
+  "display_name": "Etsy Multi Shop",
+  "description": "Multi-shop management — category separation, brand differentiation, efficiency optimization",
+  "repo": "nexscope-ai/eCommerce-Skills",
+  "path": "etsy-multi-shop/SKILL.md",
+  "url": "https://github.com/nexscope-ai/eCommerce-Skills/tree/HEAD/etsy-multi-shop/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 1566,
+  "truncated": false
+}

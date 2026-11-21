@@ -1,0 +1,11 @@
+{
+  "name": "evals-build-ai",
+  "display_name": "Evals Build AI",
+  "description": "Build automated evaluation suites for AI agents using golden datasets, rubrics, and regression gates. Use when shipping agent features, validating prompt changes, or gating deployments on quality.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/agent-evals/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/agent-evals/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 12593,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "expo-animation",
+  "display_name": "Expo Animation",
+  "description": "Curated upstream guidance for Expo Animation; use when the workflow matches the user goal.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/expo-animation/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/expo-animation/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 18871,
+  "truncated": false
+}

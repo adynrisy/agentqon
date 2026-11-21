@@ -1,0 +1,11 @@
+{
+  "name": "employee-suggestion-hub",
+  "display_name": "Employee Suggestion Hub",
+  "description": "Suggestion register: submitter or anonymous flag, category, votes, reviewer, decision and response status. Use for employee feedback programs.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/employee-suggestion-hub/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/employee-suggestion-hub/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 13252,
+  "truncated": false
+}

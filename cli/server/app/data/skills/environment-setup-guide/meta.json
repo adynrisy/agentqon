@@ -1,0 +1,11 @@
+{
+  "name": "environment-setup-guide",
+  "display_name": "Environment Setup Guide",
+  "description": "Guide developers through setting up development environments with proper tools, dependencies, and configurations",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/environment-setup-guide/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/environment-setup-guide/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 11623,
+  "truncated": false
+}

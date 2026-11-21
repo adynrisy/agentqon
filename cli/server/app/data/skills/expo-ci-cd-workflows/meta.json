@@ -1,0 +1,11 @@
+{
+  "name": "expo-ci-cd-workflows",
+  "display_name": "Expo CI/CD Workflows",
+  "description": "Helps understand and write EAS workflow YAML files for Expo projects. Use this skill when the user asks about CI/CD or workflows in an Expo or EAS context, mentions .eas/workflows/, or wants help with EAS build pipelines or deployment automation.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/expo-cicd-workflows/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/expo-cicd-workflows/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 3879,
+  "truncated": false
+}

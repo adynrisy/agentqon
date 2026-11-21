@@ -1,0 +1,11 @@
+{
+  "name": "facilitation-one-multi",
+  "display_name": "Facilitation One Multi",
+  "description": "Facilitate workshop sessions in a one-step, multi-turn flow. Use when an interactive skill needs consistent pacing, options, and progress tracking.",
+  "repo": "deanpeters/Product-Manager-Skills",
+  "path": "skills/workshop-facilitation/SKILL.md",
+  "url": "https://github.com/deanpeters/Product-Manager-Skills/tree/HEAD/skills/workshop-facilitation/SKILL.md",
+  "license": "CC",
+  "body_bytes": 5008,
+  "truncated": false
+}

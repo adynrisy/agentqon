@@ -1,0 +1,11 @@
+{
+  "name": "entropy-box",
+  "display_name": "Entropy Box",
+  "description": "Entropy Box knowledge-compiler for embodied-AI: turns bounded requirements into grounded workflows via Solution Consult, Search, Lookup, and Evidence. Do not use it to control physical robots.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/entropy-box/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/entropy-box/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 20803,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "extract-document-data",
+  "display_name": "Extract Document Data",
+  "description": "Extract structured, grounded fields from documents — values cite their page, missing values abstain instead of hallucinating. Use for parsing invoices, payslips, statements, contracts.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/extract-document-data/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/extract-document-data/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 3833,
+  "truncated": false
+}

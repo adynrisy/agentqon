@@ -1,0 +1,11 @@
+{
+  "name": "famulor-communication-history",
+  "display_name": "Famulor Communication History",
+  "description": "Operate Famulor assistants, communication history, campaigns, knowledge, automations, telephony, and workspace administration through its hosted MCP server.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/famulor-skill/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/famulor-skill/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 10038,
+  "truncated": false
+}

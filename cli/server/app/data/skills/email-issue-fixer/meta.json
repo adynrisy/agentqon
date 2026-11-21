@@ -1,0 +1,11 @@
+{
+  "name": "email-issue-fixer",
+  "display_name": "Email Issue Fixer",
+  "description": "Fix small email mistakes without touching the writer's voice, and strip tracking parameters from links on request. Always returns the corrected draft plus a change list.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/email-issue-fixer/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/email-issue-fixer/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 4322,
+  "truncated": false
+}

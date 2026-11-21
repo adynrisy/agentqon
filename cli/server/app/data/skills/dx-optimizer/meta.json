@@ -1,0 +1,11 @@
+{
+  "name": "dx-optimizer",
+  "display_name": "Dx Optimizer",
+  "description": "Developer Experience specialist. Improves tooling, setup, and workflows. Use for requested project setup or measured development friction; respect existing team conventions.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/dx-optimizer/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/dx-optimizer/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 2988,
+  "truncated": false
+}

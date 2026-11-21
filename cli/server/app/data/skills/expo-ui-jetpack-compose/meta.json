@@ -1,0 +1,11 @@
+{
+  "name": "expo-ui-jetpack-compose",
+  "display_name": "Expo UI Jetpack Compose",
+  "description": "Build Android-native Expo SDK 55 UI with Jetpack Compose views/modifiers, Host sizing and platform-specific integration.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/expo-ui-jetpack-compose/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/expo-ui-jetpack-compose/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 2885,
+  "truncated": false
+}

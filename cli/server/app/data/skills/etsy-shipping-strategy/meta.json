@@ -1,0 +1,11 @@
+{
+  "name": "etsy-shipping-strategy",
+  "display_name": "Etsy Shipping Strategy",
+  "description": "Shipping strategy — free shipping vs markup, shipping profiles, international shipping, tracking",
+  "repo": "nexscope-ai/eCommerce-Skills",
+  "path": "etsy-shipping-strategy/SKILL.md",
+  "url": "https://github.com/nexscope-ai/eCommerce-Skills/tree/HEAD/etsy-shipping-strategy/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 1570,
+  "truncated": false
+}

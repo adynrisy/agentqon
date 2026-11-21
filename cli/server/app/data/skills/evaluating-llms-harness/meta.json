@@ -1,0 +1,11 @@
+{
+  "name": "evaluating-llms-harness",
+  "display_name": "Evaluating LLMs Harness",
+  "description": "Evaluates LLMs across 60+ academic benchmarks (MMLU, HumanEval, GSM8K, TruthfulQA, HellaSwag). Use when benchmarking model quality, comparing models, reporting academic results, or tracking training progress. Industry standard used by EleutherAI, HuggingFace, and major labs. Supports HuggingFace, vLLM, APIs.",
+  "repo": "Orchestra-Research/AI-Research-SKILLs",
+  "path": "11-evaluation/lm-evaluation-harness/SKILL.md",
+  "url": "https://github.com/Orchestra-Research/AI-Research-SKILLs/tree/HEAD/11-evaluation/lm-evaluation-harness/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 11287,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "email-security",
+  "display_name": "Email Security",
+  "description": "Authorized email security review: phishing analysis, SPF/DKIM/DMARC header authentication, BEC pattern investigation, and mailbox token abuse research.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/email-security/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/email-security/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 2379,
+  "truncated": false
+}

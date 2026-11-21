@@ -1,0 +1,11 @@
+{
+  "name": "eas-hosting-upstream",
+  "display_name": "Eas Hosting · Upstream",
+  "description": "Curated upstream guidance for Eas Hosting; use when the workflow matches the user goal.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/eas-hosting/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/eas-hosting/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 11259,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "exa-search-searches",
+  "display_name": "Exa Search · Searches",
+  "description": "Searches scientific and technical web content with Exa and extracts page or PDF text from URLs in batches. Supports scholarly discovery with the publication category and academic domain filters. Applies to requests to search the web, look up current research, fetch a page, or extract an article using Exa.",
+  "repo": "K-Dense-AI/scientific-agent-skills",
+  "path": "skills/exa-search/SKILL.md",
+  "url": "https://github.com/K-Dense-AI/scientific-agent-skills/tree/HEAD/skills/exa-search/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 5647,
+  "truncated": false
+}

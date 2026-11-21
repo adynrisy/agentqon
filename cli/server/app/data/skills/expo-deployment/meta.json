@@ -1,0 +1,11 @@
+{
+  "name": "expo-deployment",
+  "display_name": "Expo Deployment",
+  "description": "Deploy Expo apps with EAS: build and submit iOS and Android releases, configure build and submit profiles, manage versions and store metadata, and deploy web bundles or API routes.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/expo-deployment/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/expo-deployment/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 4379,
+  "truncated": false
+}

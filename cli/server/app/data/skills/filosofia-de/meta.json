@@ -1,0 +1,11 @@
+{
+  "name": "filosofia-de",
+  "display_name": "Filosofia De",
+  "description": "Sub-skill filosófica e pedagógica de Yann LeCun.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/yann-lecun-filosofia/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/yann-lecun-filosofia/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 17934,
+  "truncated": false
+}

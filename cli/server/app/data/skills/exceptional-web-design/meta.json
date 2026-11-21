@@ -1,0 +1,11 @@
+{
+  "name": "exceptional-web-design",
+  "display_name": "Exceptional Web Design",
+  "description": "Reviews the design of an existing Power Pages site - a live URL or a local project folder - and recommends what to change, without modifying anything. Captures up to eight key pages at desktop and mobile, scores them against the plugin's design rubric (first impression, hierarchy, narrative, copy, trust, brand, responsive and accessible design, motion, detail), and returns prioritized, concrete recommendations. Use when the user wants a design review, critique, or audit of a site, asks how to make an existing site look better, more polished, or more impressive, or asks why it looks generic or dated.",
+  "repo": "microsoft/power-platform-skills",
+  "path": "plugins/power-pages/skills/exceptional-web-design/SKILL.md",
+  "url": "https://github.com/microsoft/power-platform-skills/tree/HEAD/plugins/power-pages/skills/exceptional-web-design/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 11618,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "docs-search",
+  "display_name": "Docs Search",
+  "description": "Search Remotion documentation",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/remotion-docs/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/remotion-docs/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 1765,
+  "truncated": false
+}

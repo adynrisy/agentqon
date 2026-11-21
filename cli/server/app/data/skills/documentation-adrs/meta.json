@@ -1,0 +1,11 @@
+{
+  "name": "documentation-adrs",
+  "display_name": "Documentation Adrs",
+  "description": "Records decisions and documentation. Use when you need to document an architecture decision (ADR) or the reasoning behind a design choice, when changing public APIs, shipping features, or when you need to record context that future engineers and agents will need to understand the codebase.",
+  "repo": "addyosmani/agent-skills",
+  "path": "skills/documentation-and-adrs/SKILL.md",
+  "url": "https://github.com/addyosmani/agent-skills/tree/HEAD/skills/documentation-and-adrs/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 10568,
+  "truncated": false
+}

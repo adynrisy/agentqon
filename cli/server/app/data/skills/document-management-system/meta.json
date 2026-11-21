@@ -1,0 +1,11 @@
+{
+  "name": "document-management-system",
+  "display_name": "Document Management System",
+  "description": "Document register: type, owner, upload and signed dates, version, storage link, confidentiality and signature-required flag. Use for document control.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/document-management-system/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/document-management-system/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 13634,
+  "truncated": false
+}

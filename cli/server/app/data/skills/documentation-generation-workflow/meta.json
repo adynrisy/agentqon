@@ -1,0 +1,11 @@
+{
+  "name": "documentation-generation-workflow",
+  "display_name": "Documentation Generation Workflow",
+  "description": "Documentation generation workflow covering API docs, architecture docs, README files, code comments, and technical writing.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/documentation/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/documentation/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 5831,
+  "truncated": false
+}

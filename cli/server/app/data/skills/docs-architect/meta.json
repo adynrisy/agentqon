@@ -1,0 +1,11 @@
+{
+  "name": "docs-architect",
+  "display_name": "Docs Architect",
+  "description": "Creates comprehensive technical documentation from existing codebases. Analyzes architecture, design patterns, and implementation details to produce long-form technical manuals and ebooks.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/docs-architect/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/docs-architect/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 4233,
+  "truncated": false
+}

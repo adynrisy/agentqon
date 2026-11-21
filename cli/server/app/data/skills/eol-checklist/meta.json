@@ -1,0 +1,11 @@
+{
+  "name": "eol-checklist",
+  "display_name": "Eol Checklist",
+  "description": "Build a phase-gated EOL checklist sized to the sunset, with a named owner on every item. Use when the decision to retire is made and you need the operational plan.",
+  "repo": "deanpeters/Product-Manager-Skills",
+  "path": "skills/eol-checklist/SKILL.md",
+  "url": "https://github.com/deanpeters/Product-Manager-Skills/tree/HEAD/skills/eol-checklist/SKILL.md",
+  "license": "CC",
+  "body_bytes": 11515,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "ebay-search-listing",
+  "display_name": "Ebay Search Listing",
+  "description": "Extracts product listings from any eBay search or category page URL, returning per-item cards (itemNumber, url, title, subtitle, caption, price, priceWithCurrency, currency, wasPrice, bids, shipping, seller, sellerFeedbackCount, sellerPositiveRating, reviewsCount, starRating, image) plus pagination state (currentPage, nextPageUrl, hasNextPage, totalResultsApprox). Works across all eBay regional TLDs. Use when user mentions eBay, ebay.com, eBay scraper, eBay search results, eBay category page, eBay SRP, eBay product list, eBay item cards, scrape eBay listings, extract eBay items, eBay bulk products, eBay keyword search, eBay category scraper, eBay pagination, eBay startUrls, eBay items scraper, eBay marketplace scraping. Also applies to price comparison across marketplaces, competitive listing monitoring, category catalog audits, brand keyword tracking on eBay, and paginated bulk extraction of eBay item cards from a search or category URL.",
+  "repo": "browser-act/skills",
+  "path": "solutions/ecommerce/ebay-search-listing/SKILL.md",
+  "url": "https://github.com/browser-act/skills/tree/HEAD/solutions/ecommerce/ebay-search-listing/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 10297,
+  "truncated": false
+}

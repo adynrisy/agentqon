@@ -1,0 +1,11 @@
+{
+  "name": "esop-equity-tracker",
+  "display_name": "Esop Equity Tracker",
+  "description": "ESOP and equity grant register: grant date, shares granted, strike price, vesting start, schedule and cliff, plus vested and exercised shares. Use for equity tracking.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/esop-equity-tracker/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/esop-equity-tracker/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 13709,
+  "truncated": false
+}

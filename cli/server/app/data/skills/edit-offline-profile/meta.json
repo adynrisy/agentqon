@@ -1,0 +1,11 @@
+{
+  "name": "edit-offline-profile",
+  "display_name": "Edit Offline Profile",
+  "description": "Internal mobile-app workflow read and executed only by mobile orchestrators to change one table's scope, columns, or sync settings in a Mobile Offline Profile.",
+  "repo": "microsoft/power-platform-skills",
+  "path": "plugins/mobile-apps/skills/edit-offline-profile/SKILL.md",
+  "url": "https://github.com/microsoft/power-platform-skills/tree/HEAD/plugins/mobile-apps/skills/edit-offline-profile/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 13359,
+  "truncated": false
+}

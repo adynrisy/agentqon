@@ -1,0 +1,11 @@
+{
+  "name": "e2e-testing-patterns-reliable",
+  "display_name": "E2e Testing Patterns · Reliable",
+  "description": "Build reliable, fast, and maintainable end-to-end test suites that provide confidence to ship code quickly and catch regressions before users do.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/e2e-testing-patterns/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/e2e-testing-patterns/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 2316,
+  "truncated": false
+}

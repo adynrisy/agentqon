@@ -1,0 +1,11 @@
+{
+  "name": "feature-forge",
+  "display_name": "Feature Forge",
+  "description": "Conducts structured requirements workshops to produce feature specifications, user stories, EARS-format functional requirements, acceptance criteria, and implementation checklists. Use when defining new features, gathering requirements, or writing specifications. Invoke for feature definition, requirements gathering, user stories, EARS format specs, PRDs, acceptance criteria, or requirement matrices.",
+  "repo": "Jeffallan/claude-skills",
+  "path": "skills/feature-forge/SKILL.md",
+  "url": "https://github.com/Jeffallan/claude-skills/tree/HEAD/skills/feature-forge/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 3666,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "feature-flags",
+  "display_name": "Feature Flags",
+  "description": "Implement feature flags for progressive feature rollout using LaunchDarkly, Unleash, or custom solutions.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/feature-flags/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/feature-flags/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 9622,
+  "truncated": false
+}

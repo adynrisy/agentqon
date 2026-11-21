@@ -1,0 +1,11 @@
+{
+  "name": "event-store-design-backend-development",
+  "display_name": "Event Store Design · Backend Development",
+  "description": "Design and implement event stores for event-sourced systems. Use when building event sourcing infrastructure, choosing event store technologies, or implementing event persistence patterns.",
+  "repo": "wshobson/agents",
+  "path": "plugins/backend-development/skills/event-store-design/SKILL.md",
+  "url": "https://github.com/wshobson/agents/tree/HEAD/plugins/backend-development/skills/event-store-design/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 3912,
+  "truncated": false
+}

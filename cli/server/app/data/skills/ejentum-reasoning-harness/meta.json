@@ -1,0 +1,11 @@
+{
+  "name": "ejentum-reasoning-harness",
+  "display_name": "Ejentum Reasoning Harness",
+  "description": "MCP server exposing four cognitive harness modes (reasoning, code, anti-deception, memory). Each call returns an engineered scaffold (failure pattern, procedure, suppression vectors, falsification test) the agent ingests before generating.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "skills/ejentum-reasoning-harness/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/skills/ejentum-reasoning-harness/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 6518,
+  "truncated": false
+}

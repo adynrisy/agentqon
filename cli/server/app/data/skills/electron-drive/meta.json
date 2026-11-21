@@ -1,0 +1,11 @@
+{
+  "name": "electron-drive",
+  "display_name": "Electron Drive",
+  "description": "Launch the project's Electron app on a scratch profile and drive it: click, type, screenshot, run renderer or main-process code, read logs. Use to verify UI changes end to end.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "skills/electron-drive-skill/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/skills/electron-drive-skill/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 9648,
+  "truncated": false
+}

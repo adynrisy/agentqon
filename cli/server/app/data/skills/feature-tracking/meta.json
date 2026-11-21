@@ -1,0 +1,11 @@
+{
+  "name": "feature-tracking",
+  "display_name": "Feature Tracking",
+  "description": "Maintain durable feature-level memory across AI coding sessions with lightweight Markdown tracks for status, source-of-truth docs, decisions, risks, and changes.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/feature-tracking/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/feature-tracking/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 9673,
+  "truncated": false
+}

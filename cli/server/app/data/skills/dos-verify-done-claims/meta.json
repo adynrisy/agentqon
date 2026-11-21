@@ -1,0 +1,11 @@
+{
+  "name": "dos-verify-done-claims",
+  "display_name": "Dos Verify Done Claims",
+  "description": "Before accepting an agent's 'done / shipped / fixed' claim, verify it against ground truth (git ancestry + the commit's own diff) using the DOS kernel's `dos verify` and `dos commit-audit` — never the agent's own narration.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "skills/dos-verify-done-claims/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/skills/dos-verify-done-claims/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 7575,
+  "truncated": false
+}

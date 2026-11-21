@@ -1,0 +1,11 @@
+{
+  "name": "event-compliance",
+  "display_name": "Event Compliance",
+  "description": "Assess worker-classification and compliance risk for temporary event staffing in the US and Canada — W-2 vs 1099, misclassification penalties, joint-employer liability, COI, and wage/hour rules. Includes live state-by-state lookups via MCP.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/event-staffing-compliance/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/event-staffing-compliance/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 5090,
+  "truncated": false
+}

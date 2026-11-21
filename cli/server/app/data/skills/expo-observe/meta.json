@@ -1,0 +1,11 @@
+{
+  "name": "expo-observe",
+  "display_name": "Expo Observe",
+  "description": "Set up and query EAS Observe for Expo apps, including root integration, interactive markers, route metrics, CLI summaries, traces, logs, and performance diagnosis.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/expo-observe/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/expo-observe/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 2673,
+  "truncated": false
+}

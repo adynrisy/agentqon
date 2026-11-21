@@ -1,0 +1,11 @@
+{
+  "name": "documentation-generation-doc-generate",
+  "display_name": "Documentation Generation Doc Generate",
+  "description": "You are a documentation expert specializing in creating comprehensive, maintainable documentation from code. Generate API docs, architecture diagrams, user guides, and technical references using AI-powered analysis and industry best practices.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/documentation-generation-doc-generate/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/documentation-generation-doc-generate/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 2773,
+  "truncated": false
+}

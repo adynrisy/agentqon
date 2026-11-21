@@ -1,0 +1,11 @@
+{
+  "name": "etsy-seo",
+  "display_name": "Etsy SEO",
+  "description": "Etsy SEO analyzer and optimizer. Improve search visibility with title optimization, tag analysis, description scoring, and keyword research. Includes SEO scoring (0-100), long-tail keyword suggestions, and prioritized action plans. No API key required.",
+  "repo": "nexscope-ai/eCommerce-Skills",
+  "path": "etsy-seo/SKILL.md",
+  "url": "https://github.com/nexscope-ai/eCommerce-Skills/tree/HEAD/etsy-seo/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 3887,
+  "truncated": false
+}

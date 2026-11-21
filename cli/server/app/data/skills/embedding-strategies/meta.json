@@ -1,0 +1,11 @@
+{
+  "name": "embedding-strategies",
+  "display_name": "Embedding Strategies",
+  "description": "Guide to selecting and optimizing embedding models for vector search applications.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/embedding-strategies/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/embedding-strategies/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 14480,
+  "truncated": false
+}

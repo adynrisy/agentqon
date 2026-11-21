@@ -1,0 +1,11 @@
+{
+  "name": "etsy-search-listings",
+  "display_name": "Etsy Search Listings",
+  "description": "Fetch live Etsy search listing rows for a keyword, market phrase, or category via Apify Actor publicrecords/etsy-search-scraper (MCP). Needs an Apify token; Actor run is billed.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/etsy-search-listings/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/etsy-search-listings/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 4382,
+  "truncated": false
+}

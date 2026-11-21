@@ -1,0 +1,11 @@
+{
+  "name": "documentation-templates",
+  "display_name": "Documentation Templates",
+  "description": "Documentation templates and structure guidelines. README, API docs, code comments, and AI-friendly documentation.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/documentation-templates/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/documentation-templates/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 4162,
+  "truncated": false
+}

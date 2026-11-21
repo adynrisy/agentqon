@@ -1,0 +1,11 @@
+{
+  "name": "email-systems",
+  "display_name": "Email Systems",
+  "description": "Email has the highest ROI of any marketing channel. $36 for every $1 spent. Yet most startups treat it as an afterthought - bulk blasts, no personalization, landing in spam folders.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/email-systems/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/email-systems/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 1130,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "esl-price-sync",
+  "display_name": "Esl Price Sync",
+  "description": "Synchronizes retail prices between ERP/POS systems and Electronic Shelf Labels (SES-imagotag, ZKONG, Pricer, Hanshow, SOLUM) with delta watermarking, idempotency, and battery modeling. Trigger phrases: esl price sync, electronic shelf labels, zkong sync, ses imagotag price, ghost pricing audit.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/esl-price-sync/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/esl-price-sync/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 13190,
+  "truncated": false
+}

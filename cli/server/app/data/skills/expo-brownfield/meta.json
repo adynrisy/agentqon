@@ -1,0 +1,11 @@
+{
+  "name": "expo-brownfield",
+  "display_name": "Expo Brownfield",
+  "description": "Integrate Expo and React Native into an existing native iOS or Android app. Use when the user mentions brownfield, embedding React Native in a native app, AAR/XCFramework, or adding Expo to an existing Kotlin/Swift project. Covers both the isolated approach and the integrated approach.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/expo-brownfield/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/expo-brownfield/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 4010,
+  "truncated": false
+}

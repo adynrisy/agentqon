@@ -1,0 +1,11 @@
+{
+  "name": "draft-nda",
+  "display_name": "Draft Nda",
+  "description": "Draft a detailed Non-Disclosure Agreement between two parties covering information types, jurisdiction, and clauses needing legal review. Use when creating confidentiality agreements or preparing an NDA for a partnership.",
+  "repo": "phuryn/pm-skills",
+  "path": "pm-toolkit/skills/draft-nda/SKILL.md",
+  "url": "https://github.com/phuryn/pm-skills/tree/HEAD/pm-toolkit/skills/draft-nda/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 7223,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "dwarf-expert-analyzes",
+  "display_name": "Dwarf Expert · Analyzes",
+  "description": "Analyzes DWARF debug information in compiled binaries. Use when inspecting .debug_* sections, DIE trees, or DW_TAG_/DW_AT_ entries with dwarfdump/llvm-dwarfdump or readelf, verifying debug info with llvm-dwarfdump --verify, answering DWARF standard questions, or writing code that parses DWARF (libdwarf, pyelftools, gimli).",
+  "repo": "trailofbits/skills",
+  "path": "plugins/dwarf-expert/skills/dwarf-expert/SKILL.md",
+  "url": "https://github.com/trailofbits/skills/tree/HEAD/plugins/dwarf-expert/skills/dwarf-expert/SKILL.md",
+  "license": "CC",
+  "body_bytes": 5575,
+  "truncated": false
+}

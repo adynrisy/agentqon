@@ -1,0 +1,11 @@
+{
+  "name": "eol-resistor-calculator",
+  "display_name": "Eol Resistor Calculator",
+  "description": "Calculates and validates end-of-line (EOL, SEOL, DEOL, TEOL) resistor loops for intrusion alarm panels (Honeywell, DSC, Paradox, Bosch) with wire gauge drop and state tables. Trigger phrases: eol resistor, deol wiring, alarm zone resistor, calculate end of line, double eol tamper.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/eol-resistor-calculator/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/eol-resistor-calculator/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 13669,
+  "truncated": false
+}

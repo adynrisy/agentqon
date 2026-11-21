@@ -1,0 +1,11 @@
+{
+  "name": "expansion-whitespace",
+  "display_name": "Expansion Whitespace",
+  "description": "Find the expansion whitespace in an account or a book - what they own vs. what they could own, the evidence for each play, and the open opps to create. Use when the user asks \"what's the whitespace at [account]\", \"where can I expand [account]\", \"upsell opportunities in my book\", or \"which customers should I be growing\".",
+  "repo": "anthropics/knowledge-work-plugins",
+  "path": "sales/skills/expansion-whitespace/SKILL.md",
+  "url": "https://github.com/anthropics/knowledge-work-plugins/tree/HEAD/sales/skills/expansion-whitespace/SKILL.md",
+  "license": "Apache-2.0",
+  "body_bytes": 7609,
+  "truncated": false
+}

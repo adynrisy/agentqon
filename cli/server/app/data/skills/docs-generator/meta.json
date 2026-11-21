@@ -1,0 +1,11 @@
+{
+  "name": "docs-generator",
+  "display_name": "Docs Generator",
+  "description": "Generate technical deliverables from completed analysis: reverse-engineering reports, penetration-test reports, CTF write-ups, and signature-analysis documentation with evidence-backed structure.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/docs-generator/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/docs-generator/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 8149,
+  "truncated": false
+}

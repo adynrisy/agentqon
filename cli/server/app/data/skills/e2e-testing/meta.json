@@ -1,0 +1,11 @@
+{
+  "name": "e2e-testing",
+  "display_name": "E2e Testing",
+  "description": "End-to-end testing workflow with Playwright for browser automation, visual regression, cross-browser testing, and CI/CD integration.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/e2e-testing/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/e2e-testing/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 4151,
+  "truncated": false
+}

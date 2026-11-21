@@ -1,0 +1,11 @@
+{
+  "name": "explore-data",
+  "display_name": "Explore Data",
+  "description": "Profile and explore a dataset to understand its shape, quality, and patterns. Use when encountering a new table or file, checking null rates and column distributions, spotting data quality issues like duplicates or suspicious values, or deciding which dimensions and metrics to analyze.",
+  "repo": "anthropics/knowledge-work-plugins",
+  "path": "data/skills/explore-data/SKILL.md",
+  "url": "https://github.com/anthropics/knowledge-work-plugins/tree/HEAD/data/skills/explore-data/SKILL.md",
+  "license": "Apache-2.0",
+  "body_bytes": 11159,
+  "truncated": false
+}

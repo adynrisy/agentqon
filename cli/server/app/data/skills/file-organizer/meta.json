@@ -1,0 +1,11 @@
+{
+  "name": "file-organizer",
+  "display_name": "File Organizer",
+  "description": "Organize files and folders by inspecting their contents, proposing a structure, and reviewing duplicates before authorized changes.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/file-organizer/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/file-organizer/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 6594,
+  "truncated": false
+}

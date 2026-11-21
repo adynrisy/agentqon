@@ -1,0 +1,11 @@
+{
+  "name": "fact-check",
+  "display_name": "Fact Check",
+  "description": "Compare claims from one or more AI answers, verify their citations against public primary sources, and produce an evidence-linked fact-check report without installing a bundled browser runtime.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/fact-check-x-complete/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/fact-check-x-complete/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 8443,
+  "truncated": false
+}

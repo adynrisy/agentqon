@@ -1,0 +1,11 @@
+{
+  "name": "escrow-timelock",
+  "display_name": "Escrow Timelock",
+  "description": "Decentralized conditional escrow and timelock contract register: multi-signature release conditions, clawback expiry, and settlement triggers.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/stellar-escrow-timelock/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/stellar-escrow-timelock/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 4828,
+  "truncated": false
+}

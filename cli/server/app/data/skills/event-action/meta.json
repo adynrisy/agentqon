@@ -1,0 +1,11 @@
+{
+  "name": "event-action",
+  "display_name": "Event Action",
+  "description": "CRITICAL: Use for Robius event and action patterns. Triggers on:\ncustom action, MatchEvent, post_action, cx.widget_action,\nhandle_actions, DefaultNone, widget action, event handling,\n事件处理, 自定义动作",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/robius-event-action/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/robius-event-action/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 11243,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "docker-compose",
+  "display_name": "Docker Compose",
+  "description": "Define and run multi-container Docker applications using Docker Compose.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/docker-compose/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/docker-compose/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 9387,
+  "truncated": false
+}

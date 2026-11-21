@@ -1,0 +1,11 @@
+{
+  "name": "engine-selection",
+  "display_name": "Engine Selection",
+  "description": "Selects game engines and frameworks by platform, genre, and architecture (full canvas shell vs hybrid DOM shell + guest viewport). Covers Phaser, PixiJS, Kaplay, Canvas/WebGL, Three.js, Babylon.js, Godot, Unity, Ink, Twine. Use when choosing a stack or comparing runtimes before implementation.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/game-development/engine-selection/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/game-development/engine-selection/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 4471,
+  "truncated": false
+}

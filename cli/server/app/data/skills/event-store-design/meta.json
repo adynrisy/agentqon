@@ -1,0 +1,11 @@
+{
+  "name": "event-store-design",
+  "display_name": "Event Store Design",
+  "description": "Design and implement event stores for event-sourced systems. Use when building event sourcing infrastructure, choosing event store technologies, or implementing event persistence patterns.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/event-store-design/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/event-store-design/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 16039,
+  "truncated": false
+}

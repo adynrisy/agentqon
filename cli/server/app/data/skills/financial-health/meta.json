@@ -1,0 +1,11 @@
+{
+  "name": "financial-health",
+  "display_name": "Financial Health",
+  "description": "Run financial ratio analysis, DCF valuation, budget variance analysis, and rolling forecasts. Usage: /financial-health <ratios|dcf|budget|forecast> <data.json>",
+  "repo": "alirezarezvani/claude-skills",
+  "path": ".gemini/skills/financial-health/SKILL.md",
+  "url": "https://github.com/alirezarezvani/claude-skills/tree/HEAD/.gemini/skills/financial-health/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 1340,
+  "truncated": false
+}

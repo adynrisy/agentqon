@@ -1,0 +1,11 @@
+{
+  "name": "factory-expert-fine",
+  "display_name": "Factory Expert Fine",
+  "description": "Expert guidance for fine-tuning LLMs with LLaMA-Factory - WebUI no-code, 100+ models, 2/3/4/5/6/8-bit QLoRA, multimodal support",
+  "repo": "Orchestra-Research/AI-Research-SKILLs",
+  "path": "03-fine-tuning/llama-factory/SKILL.md",
+  "url": "https://github.com/Orchestra-Research/AI-Research-SKILLs/tree/HEAD/03-fine-tuning/llama-factory/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 2051,
+  "truncated": false
+}

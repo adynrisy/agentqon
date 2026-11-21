@@ -1,0 +1,11 @@
+{
+  "name": "facebook-page-profile-posts",
+  "display_name": "Facebook Page Profile Posts",
+  "description": "Scrapes posts from any public Facebook Page or personal Profile timeline, returning structured data including post text, author info with profile picture, engagement metrics (likes/comments/shares), full reaction breakdown (Like/Love/Wow/Haha/Sad/Angry/Care as both array and flat counts), hashtags and external links, media assets with full thumbnail URLs and dimensions, page ad library status, and collaborators. Use when user wants to scrape Facebook posts, extract Facebook page content, get Facebook post data, collect Facebook engagement stats, download Facebook posts, monitor a Facebook page, crawl Facebook timeline, get Facebook reactions, get like count comment count share count from Facebook, Facebook post bulk export, Facebook social media analytics, get profile picture, get page ad library status, fetch Facebook collaborators. Supports date range filtering (afterTime/beforeTime) and cursor-based pagination for bulk collection.",
+  "repo": "browser-act/skills",
+  "path": "solutions/social-listening/facebook-page-profile-posts/SKILL.md",
+  "url": "https://github.com/browser-act/skills/tree/HEAD/solutions/social-listening/facebook-page-profile-posts/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 9944,
+  "truncated": false
+}

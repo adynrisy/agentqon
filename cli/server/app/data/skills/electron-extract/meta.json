@@ -1,0 +1,11 @@
+{
+  "name": "electron-extract",
+  "display_name": "Electron Extract",
+  "description": "Extracts resources and JavaScript from any installed Electron app (`.asar` bundle), restoring original sources from `.js.map` files when available or formatting minified code with Prettier otherwise. Use when user wants to \"extract Electron app\", \"decompile Electron\", \"get the source code of <app>\", \"inspect app.asar\", \"看 Electron 应用源码\", \"提取 .asar\", or asks how a desktop Electron app is built. Skips `node_modules` and supports both macOS and Windows.",
+  "repo": "JimLiu/baoyu-skills",
+  "path": "skills/baoyu-electron-extract/SKILL.md",
+  "url": "https://github.com/JimLiu/baoyu-skills/tree/HEAD/skills/baoyu-electron-extract/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 9639,
+  "truncated": false
+}

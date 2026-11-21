@@ -1,0 +1,11 @@
+{
+  "name": "expo-examples",
+  "display_name": "Expo Examples",
+  "description": "Expo's official example projects — the expo/examples repo of ~70 `with-*` integrations (Stripe, Clerk, Supabase, OpenAI, maps, Reanimated, SQLite, Skia, NativeWind, and more).",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/expo-examples/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/expo-examples/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 6286,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "employment-contract-templates-hr-legal-compliance",
+  "display_name": "Employment Contract Templates · HR Legal Compliance",
+  "description": "Create employment contracts, offer letters, and HR policy documents following legal best practices. Use when drafting employment agreements, creating HR policies, or standardizing employment documentation.",
+  "repo": "wshobson/agents",
+  "path": "plugins/hr-legal-compliance/skills/employment-contract-templates/SKILL.md",
+  "url": "https://github.com/wshobson/agents/tree/HEAD/plugins/hr-legal-compliance/skills/employment-contract-templates/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 2131,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "fable-review",
+  "display_name": "Fable Review",
+  "description": "Launch an independent Fable code review and return it verbatim. Use only when the user explicitly invokes /fable-review.",
+  "repo": "davidondrej/skills",
+  "path": "skills/agent-orchestration/fable-review/SKILL.md",
+  "url": "https://github.com/davidondrej/skills/tree/HEAD/skills/agent-orchestration/fable-review/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 1350,
+  "truncated": false
+}

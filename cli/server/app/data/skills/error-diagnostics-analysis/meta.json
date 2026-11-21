@@ -1,0 +1,11 @@
+{
+  "name": "error-diagnostics-analysis",
+  "display_name": "Error Diagnostics Analysis",
+  "description": "You are an expert error analysis specialist with deep expertise in debugging distributed systems, analyzing production incidents, and implementing comprehensive observability solutions.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/error-diagnostics-error-analysis/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/error-diagnostics-error-analysis/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 3065,
+  "truncated": false
+}

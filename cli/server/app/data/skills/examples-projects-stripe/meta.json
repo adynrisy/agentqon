@@ -1,0 +1,11 @@
+{
+  "name": "examples-projects-stripe",
+  "display_name": "Examples Projects Stripe",
+  "description": "Expo's official example projects - the expo/examples repo of ~70 `with-*` integrations (Stripe, Clerk, Supabase, OpenAI, maps, Reanimated, SQLite, Skia, NativeWind, and more). Use when integrating a third-party library or service into an existing Expo app and you want the canonical, version-matched pattern to adapt, or when scaffolding a new project from one with `npx create-expo --example`.",
+  "repo": "expo/skills",
+  "path": "plugins/expo/skills/expo-examples/SKILL.md",
+  "url": "https://github.com/expo/skills/tree/HEAD/plugins/expo/skills/expo-examples/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 6189,
+  "truncated": false
+}

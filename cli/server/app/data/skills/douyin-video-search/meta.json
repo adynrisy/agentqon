@@ -1,0 +1,11 @@
+{
+  "name": "douyin-video-search",
+  "display_name": "Douyin Video Search",
+  "description": "Searches Douyin (douyin.com) for videos by keyword and returns structured video data including author info, stats, cover, description, hashtags, and download URL. Supports date range filtering and sorting by relevance, likes, or recency. Use when user mentions Douyin search, scrape Douyin videos, collect TikTok China videos, extract douyin video data, grab douyin results, fetch douyin keyword videos, douyin video list, douyin content mining, search douyin by keyword, douyin likes filter, douyin date filter, douyin video download links, douyin creator info, douyin hashtag extraction, douyin video scraper, douyin KOL research, douyin content analysis.",
+  "repo": "browser-act/skills",
+  "path": "solutions/video-platforms/douyin-video-search/SKILL.md",
+  "url": "https://github.com/browser-act/skills/tree/HEAD/solutions/video-platforms/douyin-video-search/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 6925,
+  "truncated": false
+}

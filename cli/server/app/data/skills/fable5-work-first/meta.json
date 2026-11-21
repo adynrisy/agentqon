@@ -1,0 +1,11 @@
+{
+  "name": "fable5-work-first",
+  "display_name": "Fable5 Work First",
+  "description": "Apply Fable-inspired discipline to Codex work: inspect first, track goals and findings, ground conclusions in evidence, verify before completion, and adapt Claude/Fable prompt guidance without identity or provider claims.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "skills/codex-fable5/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/skills/codex-fable5/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 6874,
+  "truncated": false
+}

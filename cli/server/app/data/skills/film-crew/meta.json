@@ -1,0 +1,11 @@
+{
+  "name": "film-crew",
+  "display_name": "Film Crew",
+  "description": "Turn a one-line AI video idea into a shot list and per-shot, model-ready prompts via a film crew (director, DP, gaffer, editor, script supervisor). Also fixes failing video prompts and diagnoses bad clips before a reroll. Works with Wan, LTX, Kling, Veo, Seedance, Hailuo, Runway.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/film-crew/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/film-crew/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 6317,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "executing-plans",
+  "display_name": "Executing Plans",
+  "description": "Use when you have a written implementation plan to execute in a separate session with review checkpoints",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/executing-plans/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/executing-plans/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 3500,
+  "truncated": false
+}
