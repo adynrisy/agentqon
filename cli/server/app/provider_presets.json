@@ -1,0 +1,839 @@
+{
+ "source": "OmniRoute provider registry (132 entries), extracted 2026-10-23; picker carries the entries that honestly work as OpenAI-style API-key endpoints, plus the AgentRouter preset (item 5).",
+ "presets": [
+  {
+   "id": "adapta-web",
+   "name": "Adapta Web",
+   "base_url": "https://agent.adapta.one/api/chat/stream/v1",
+   "auth": "apikey"
+  },
+  {
+   "id": "agentrouter",
+   "name": "AgentRouter",
+   "base_url": "https://agentrouter.org/v1",
+   "auth": "apikey",
+   "headers": {
+    "User-Agent": "claude-cli/1.0.0 (external, cli)",
+    "anthropic-version": "2023-06-01",
+    "x-app": "cli"
+   },
+   "note": "AgentRouter only answers clients that present a Claude Code identity \u2014 this preset fills its address and those identity headers for you."
+  },
+  {
+   "id": "ai21",
+   "name": "AI21 Labs",
+   "base_url": "https://api.ai21.com/studio/v1",
+   "auth": "apikey"
+  },
+  {
+   "id": "aimlapi",
+   "name": "Aimlapi",
+   "base_url": "https://api.aimlapi.com/v1",
+   "auth": "apikey"
+  },
+  {
+   "id": "ant-ling",
+   "name": "Ant Ling",
+   "base_url": "https://api.ant-ling.com/v1",
+   "auth": "apikey"
+  },
+  {
+   "id": "bai",
+   "name": "Bai",
+   "base_url": "https://api.b.ai/v1",
+   "auth": "apikey"
+  },
+  {
+   "id": "baichuan",
+   "name": "Baichuan",
+   "base_url": "https://api.baichuan-ai.com/v1",
+   "auth": "apikey"
+  },
+  {
+   "id": "baidu",
+   "name": "Baidu",
+   "base_url": "https://qianfan.baidubce.com/v2",
+   "auth": "apikey"
+  },
+  {
+   "id": "baseten",
+   "name": "Baseten",
+   "base_url": "https://inference.baseten.co/v1",
+   "auth": "apikey"
+  },
+  {
+   "id": "blackbox-web",
+   "name": "Blackbox Web",
+   "base_url": "https://app.blackbox.ai/api/chat",
+   "auth": "apikey"
+  },
+  {
+   "id": "bytez",
+   "name": "Bytez",
+   "base_url": "https://api.bytez.com/models/v2/openai/v1",
+   "auth": "apikey"
+  },
+  {
+   "id": "cerebras",
+   "name": "Cerebras",
+   "base_url": "https://api.cerebras.ai/v1",
+   "auth": "apikey"
+  },
+  {
+   "id": "charm-hyper",
+   "name": "Charm Hyper",
+   "base_url": "https://hyper.charm.land/v1",
+   "auth": "apikey"
+  },
+  {
+   "id": "chenzk",
+   "name": "Chenzk",
+   "base_url": "https://chenzk.top/v1",
+   "auth": "apikey"
+  },
+  {
+   "id": "chutes",
+   "name": "Chutes",
+   "base_url": "https://llm.chutes.ai/v1",
+   "auth": "apikey"
+  },
+  {
+   "id": "claude-web",
+   "name": "Claude Web",
+   "base_url": "https://claude.ai/api/organizations",
+   "auth": "apikey"
+  },
+  {
+   "id": "cloudflare-ai",
+   "name": "Cloudflare Ai",
+   "base_url": "https://api.cloudflare.com/client/v4/accounts",
+   "auth": "apikey"
+  },
+  {
+   "id": "codestral",
+   "name": "Codestral",
+   "base_url": "https://codestral.mistral.ai/v1",
+   "auth": "apikey"
+  },
+  {
+   "id": "conol-web",
+   "name": "Conol Web",
+   "base_url": "https://conol.ai/api/sessions",
+   "auth": "apikey"
+  },
+  {
+   "id": "coze",
+   "name": "Coze",
+   "base_url": "https://api.coze.com/v1",
+   "auth": "apikey"
+  },
+  {
+   "id": "crof",
+   "name": "Crof",
+   "base_url": "https://crof.ai/v1",
+   "auth": "apikey"
+  },
+  {
+   "id": "dahl",
+   "name": "Dahl",
+   "base_url": "https://inference.dahl.global/v1",
+   "auth": "apikey"
+  },
+  {
+   "id": "databricks",
+   "name": "Databricks",
+   "base_url": "https://adb-0000000000000000.0.azuredatabricks.net/serving-endpoints",
+   "auth": "apikey"
+  },
+  {
+   "id": "deepinfra",
+   "name": "Deepinfra",
+   "base_url": "https://api.deepinfra.com/v1/openai",
+   "auth": "apikey"
+  },
+  {
+   "id": "deepseek",
+   "name": "DeepSeek",
+   "base_url": "https://api.deepseek.com",
+   "auth": "apikey"
+  },
+  {
+   "id": "deepseek-web",
+   "name": "Deepseek Web",
+   "base_url": "https://chat.deepseek.com/api/v0/chat/completion",
+   "auth": "apikey"
+  },
+  {
+   "id": "dgrid",
+   "name": "Dgrid",
+   "base_url": "https://api.dgrid.ai/v1",
+   "auth": "apikey"
+  },
+  {
+   "id": "dify",
+   "name": "Dify",
+   "base_url": "https://api.dify.ai",
+   "auth": "apikey"
+  },
+  {
+   "id": "doubao",
+   "name": "Doubao",
+   "base_url": "https://ark.cn-beijing.volces.com/api/v3",
+   "auth": "apikey"
+  },
+  {
+   "id": "doubao-web",
+   "name": "Doubao Web",
+   "base_url": "https://www.dola.com/chat/completion",
+   "auth": "apikey"
+  },
+  {
+   "id": "factory",
+   "name": "Factory",
+   "base_url": "https://api.factory.ai/v1",
+   "auth": "apikey"
+  },
+  {
+   "id": "featherless-ai",
+   "name": "Featherless Ai",
+   "base_url": "https://api.featherless.ai/v1",
+   "auth": "apikey"
+  },
+  {
+   "id": "freebuff",
+   "name": "Freebuff",
+   "base_url": "https://www.codebuff.com/api/v1",
+   "auth": "apikey"
+  },
+  {
+   "id": "galadriel",
+   "name": "Galadriel",
+   "base_url": "https://api.galadriel.ai/v1",
+   "auth": "apikey"
+  },
+  {
+   "id": "gemini-web",
+   "name": "Gemini Web",
+   "base_url": "https://gemini.google.com/app",
+   "auth": "apikey"
+  },
+  {
+   "id": "gigachat",
+   "name": "Gigachat",
+   "base_url": "https://gigachat.devices.sberbank.ru/api/v1",
+   "auth": "apikey"
+  },
+  {
+   "id": "gitlawb",
+   "name": "Gitlawb",
+   "base_url": "https://opengateway.gitlawb.com/v1/xiaomi-mimo",
+   "auth": "apikey"
+  },
+  {
+   "id": "gitlawb-gmi",
+   "name": "Gitlawb Gmi",
+   "base_url": "https://opengateway.gitlawb.com/v1/gmi-cloud",
+   "auth": "apikey"
+  },
+  {
+   "id": "grok-web",
+   "name": "Grok Web",
+   "base_url": "https://grok.com/rest/app-chat/conversations/new",
+   "auth": "apikey"
+  },
+  {
+   "id": "groq",
+   "name": "Groq",
+   "base_url": "https://api.groq.com/openai/v1",
+   "auth": "apikey"
+  },
+  {
+   "id": "haiper",
+   "name": "Haiper",
+   "base_url": "https://api.haiper.ai/v1",
+   "auth": "apikey"
+  },
+  {
+   "id": "heroku",
+   "name": "Heroku",
+   "base_url": "https://us.inference.heroku.com/v1",
+   "auth": "apikey"
+  },
+  {
+   "id": "huggingchat",
+   "name": "Huggingchat",
+   "base_url": "https://huggingface.co/chat/conversation",
+   "auth": "apikey"
+  },
+  {
+   "id": "hyperagent",
+   "name": "Hyperagent",
+   "base_url": "https://hyperagent.com/api/threads",
+   "auth": "apikey"
+  },
+  {
+   "id": "hyperbolic",
+   "name": "Hyperbolic",
+   "base_url": "https://api.hyperbolic.xyz/v1",
+   "auth": "apikey"
+  },
+  {
+   "id": "ideogram",
+   "name": "Ideogram",
+   "base_url": "https://api.ideogram.ai",
+   "auth": "apikey"
+  },
+  {
+   "id": "iflytek",
+   "name": "Iflytek",
+   "base_url": "https://spark-api-open.xf-yun.com/v1",
+   "auth": "apikey"
+  },
+  {
+   "id": "inception",
+   "name": "Inception",
+   "base_url": "https://api.inceptionlabs.ai/v1",
+   "auth": "apikey"
+  },
+  {
+   "id": "inference-net",
+   "name": "Inference Net",
+   "base_url": "https://api.inference.net/v1",
+   "auth": "apikey"
+  },
+  {
+   "id": "inner-ai",
+   "name": "Inner Ai",
+   "base_url": "https://chatapi.innerai.com/chat",
+   "auth": "apikey"
+  },
+  {
+   "id": "internlm",
+   "name": "Internlm",
+   "base_url": "https://chat.intern-ai.org.cn/api/v1",
+   "auth": "apikey"
+  },
+  {
+   "id": "kenari",
+   "name": "Kenari",
+   "base_url": "https://kenari.id/v1",
+   "auth": "apikey"
+  },
+  {
+   "id": "kie",
+   "name": "Kie",
+   "base_url": "https://api.kie.ai/v1",
+   "auth": "apikey"
+  },
+  {
+   "id": "kimi-web",
+   "name": "Kimi Web",
+   "base_url": "https://www.kimi.ai",
+   "auth": "apikey"
+  },
+  {
+   "id": "lambda-ai",
+   "name": "Lambda Ai",
+   "base_url": "https://api.lambda.ai/v1",
+   "auth": "apikey"
+  },
+  {
+   "id": "leonardo",
+   "name": "Leonardo",
+   "base_url": "https://cloud.leonardo.ai/api/rest/v1",
+   "auth": "apikey"
+  },
+  {
+   "id": "llamagate",
+   "name": "Llamagate",
+   "base_url": "https://llamagate.ai/v1",
+   "auth": "apikey"
+  },
+  {
+   "id": "lmarena",
+   "name": "Lmarena",
+   "base_url": "https://arena.ai/nextjs-api/stream/create-evaluation",
+   "auth": "apikey"
+  },
+  {
+   "id": "longcat",
+   "name": "Longcat",
+   "base_url": "https://api.longcat.chat/openai/v1",
+   "auth": "apikey"
+  },
+  {
+   "id": "maxai",
+   "name": "Maxai",
+   "base_url": "https://api.maxai.me",
+   "auth": "apikey"
+  },
+  {
+   "id": "meta-llama",
+   "name": "Meta Llama",
+   "base_url": "https://api.llama.com/compat/v1",
+   "auth": "apikey"
+  },
+  {
+   "id": "mistral",
+   "name": "Mistral AI",
+   "base_url": "https://api.mistral.ai/v1",
+   "auth": "apikey"
+  },
+  {
+   "id": "modal",
+   "name": "Modal",
+   "base_url": "https://api.modal.ai/v1",
+   "auth": "apikey"
+  },
+  {
+   "id": "monsterapi",
+   "name": "Monsterapi",
+   "base_url": "https://api.monsterapi.ai/v1",
+   "auth": "apikey"
+  },
+  {
+   "id": "moonshot",
+   "name": "Moonshot",
+   "base_url": "https://api.moonshot.ai/v1",
+   "auth": "apikey"
+  },
+  {
+   "id": "morph",
+   "name": "Morph",
+   "base_url": "https://api.morphllm.com/v1",
+   "auth": "apikey"
+  },
+  {
+   "id": "muse-spark-web",
+   "name": "Muse Spark Web",
+   "base_url": "https://www.meta.ai/api/graphql",
+   "auth": "apikey"
+  },
+  {
+   "id": "nlpcloud",
+   "name": "Nlpcloud",
+   "base_url": "https://api.nlpcloud.io/v1/gpu",
+   "auth": "apikey"
+  },
+  {
+   "id": "notion-web",
+   "name": "Notion Web",
+   "base_url": "https://app.notion.com/api/v3/runInferenceTranscript",
+   "auth": "apikey"
+  },
+  {
+   "id": "nous-research",
+   "name": "Nous Research",
+   "base_url": "https://inference-api.nousresearch.com/v1",
+   "auth": "apikey"
+  },
+  {
+   "id": "nscale",
+   "name": "Nscale",
+   "base_url": "https://inference.api.nscale.com/v1",
+   "auth": "apikey"
+  },
+  {
+   "id": "nvidia",
+   "name": "NVIDIA NIM",
+   "base_url": "https://integrate.api.nvidia.com/v1",
+   "auth": "apikey"
+  },
+  {
+   "id": "oneminai",
+   "name": "Oneminai",
+   "base_url": "https://api.1min.ai/api/chat-with-ai",
+   "auth": "apikey"
+  },
+  {
+   "id": "openrouter",
+   "name": "OpenRouter",
+   "base_url": "https://openrouter.ai/api/v1",
+   "auth": "apikey"
+  },
+  {
+   "id": "orcarouter",
+   "name": "Orcarouter",
+   "base_url": "https://api.orcarouter.ai/v1",
+   "auth": "apikey"
+  },
+  {
+   "id": "perplexity-web",
+   "name": "Perplexity Web",
+   "base_url": "https://www.perplexity.ai/rest/sse/perplexity_ask",
+   "auth": "apikey"
+  },
+  {
+   "id": "pioneer",
+   "name": "Pioneer",
+   "base_url": "https://api.pioneer.ai/v1",
+   "auth": "apikey"
+  },
+  {
+   "id": "plamo",
+   "name": "Plamo",
+   "base_url": "https://api.platform.preferredai.jp/v1",
+   "auth": "apikey"
+  },
+  {
+   "id": "predibase",
+   "name": "Predibase",
+   "base_url": "https://serving.app.predibase.com/v1",
+   "auth": "apikey"
+  },
+  {
+   "id": "promptql",
+   "name": "Promptql",
+   "base_url": "https://data.prompt.ql.app/promptql/playground-v2-hge/v1/graphql",
+   "auth": "apikey"
+  },
+  {
+   "id": "publicai",
+   "name": "Publicai",
+   "base_url": "https://api.publicai.co/v1",
+   "auth": "apikey"
+  },
+  {
+   "id": "qiniu",
+   "name": "Qiniu",
+   "base_url": "https://api.qnaigc.com/v1",
+   "auth": "apikey"
+  },
+  {
+   "id": "qoder",
+   "name": "Qoder",
+   "base_url": "https://api.qoder.com/v1",
+   "auth": "apikey"
+  },
+  {
+   "id": "reka",
+   "name": "Reka",
+   "base_url": "https://api.reka.ai/v1",
+   "auth": "apikey"
+  },
+  {
+   "id": "sambanova",
+   "name": "SambaNova",
+   "base_url": "https://api.sambanova.ai/v1",
+   "auth": "apikey"
+  },
+  {
+   "id": "sarvam",
+   "name": "Sarvam",
+   "base_url": "https://api.sarvam.ai/v1",
+   "auth": "apikey"
+  },
+  {
+   "id": "scaleway",
+   "name": "Scaleway",
+   "base_url": "https://api.scaleway.ai/v1",
+   "auth": "apikey"
+  },
+  {
+   "id": "sensenova",
+   "name": "Sensenova",
+   "base_url": "https://token.sensenova.cn/v1",
+   "auth": "apikey"
+  },
+  {
+   "id": "snowflake",
+   "name": "Snowflake",
+   "base_url": "https://{account}.snowflakecomputing.com/api/v2",
+   "auth": "apikey"
+  },
+  {
+   "id": "sparkdesk",
+   "name": "Sparkdesk",
+   "base_url": "https://spark-api-open.xf-yun.com/v1",
+   "auth": "apikey"
+  },
+  {
+   "id": "stepfun",
+   "name": "Stepfun",
+   "base_url": "https://api.stepfun.com/v1",
+   "auth": "apikey"
+  },
+  {
+   "id": "sumopod",
+   "name": "Sumopod",
+   "base_url": "https://ai.sumopod.com/v1",
+   "auth": "apikey"
+  },
+  {
+   "id": "t3-web",
+   "name": "T3 Web",
+   "base_url": "https://t3.chat/api/chat",
+   "auth": "apikey"
+  },
+  {
+   "id": "tencent",
+   "name": "Tencent",
+   "base_url": "https://api.hunyuan.cloud.tencent.com/v1",
+   "auth": "apikey"
+  },
+  {
+   "id": "tencent-aistudio-web",
+   "name": "Tencent Aistudio Web",
+   "base_url": "https://aistudio.tencent.ai/api/chat",
+   "auth": "apikey"
+  },
+  {
+   "id": "tinycms-web",
+   "name": "Tinycms Web",
+   "base_url": "https://gov.freegpt.win/api/openai/oneapi/v1",
+   "auth": "apikey"
+  },
+  {
+   "id": "typhoon",
+   "name": "Typhoon",
+   "base_url": "https://api.opentyphoon.ai/v1",
+   "auth": "apikey"
+  },
+  {
+   "id": "uc-direct",
+   "name": "Uc Direct",
+   "base_url": "https://api.uncensored.com/api/v1",
+   "auth": "apikey"
+  },
+  {
+   "id": "udio",
+   "name": "Udio",
+   "base_url": "https://www.udio.com/api/generate-proxy",
+   "auth": "apikey"
+  },
+  {
+   "id": "upstage",
+   "name": "Upstage",
+   "base_url": "https://api.upstage.ai/v1",
+   "auth": "apikey"
+  },
+  {
+   "id": "v0-vercel",
+   "name": "V0 Vercel",
+   "base_url": "https://api.v0.dev/v1",
+   "auth": "apikey"
+  },
+  {
+   "id": "venice",
+   "name": "Venice",
+   "base_url": "https://api.venice.ai/api/v1",
+   "auth": "apikey"
+  },
+  {
+   "id": "vercel-ai-gateway",
+   "name": "Vercel Ai Gateway",
+   "base_url": "https://ai-gateway.vercel.sh/v1",
+   "auth": "apikey"
+  },
+  {
+   "id": "volcengine",
+   "name": "Volcengine",
+   "base_url": "https://ark.cn-beijing.volces.com/api/v3",
+   "auth": "apikey"
+  },
+  {
+   "id": "volcengine-agent-plan",
+   "name": "Volcengine Agent Plan",
+   "base_url": "https://ark.cn-beijing.volces.com/api/plan/v3",
+   "auth": "apikey"
+  },
+  {
+   "id": "volcengine-coding-plan",
+   "name": "Volcengine Coding Plan",
+   "base_url": "https://ark.cn-beijing.volces.com/api/coding/v3",
+   "auth": "apikey"
+  },
+  {
+   "id": "wandb",
+   "name": "Wandb",
+   "base_url": "https://api.inference.wandb.ai/v1",
+   "auth": "apikey"
+  },
+  {
+   "id": "writer",
+   "name": "Writer",
+   "base_url": "https://api.writer.com/v1",
+   "auth": "apikey"
+  },
+  {
+   "id": "x5lab",
+   "name": "X5lab",
+   "base_url": "https://api.x5lab.dev/v1",
+   "auth": "apikey"
+  },
+  {
+   "id": "xiaomi-mimo",
+   "name": "Xiaomi Mimo",
+   "base_url": "https://api.xiaomimimo.com/v1",
+   "auth": "apikey"
+  },
+  {
+   "id": "xiaomi-mimo-token-plan",
+   "name": "Xiaomi Mimo Token Plan",
+   "base_url": "https://token-plan-sgp.xiaomimimo.com/v1",
+   "auth": "apikey"
+  },
+  {
+   "id": "yi",
+   "name": "Yi",
+   "base_url": "https://api.lingyiwanwu.com/v1",
+   "auth": "apikey"
+  },
+  {
+   "id": "yuanbao-web",
+   "name": "Yuanbao Web",
+   "base_url": "https://yuanbao.tencent.com/api/chat",
+   "auth": "apikey"
+  },
+  {
+   "id": "zai-web",
+   "name": "Zai Web",
+   "base_url": "https://chat.z.ai",
+   "auth": "apikey"
+  },
+  {
+   "id": "zenmux-free",
+   "name": "Zenmux Free",
+   "base_url": "https://zenmux.ai/api/anthropic/v1/messages",
+   "auth": "apikey"
+  }
+ ],
+ "excluded": [
+  {
+   "id": "auggie",
+   "name": "Auggie",
+   "base_url": "auggie://cli/stdio",
+   "format": "openai",
+   "auth": "none",
+   "note": "Runs as a local program over stdio \u2014 there is no HTTP endpoint to connect."
+  },
+  {
+   "id": "cloudflare-playground",
+   "name": "Cloudflare Playground",
+   "base_url": "https://playground.ai.cloudflare.com",
+   "format": "openai",
+   "auth": "none",
+   "note": "A web chat page, not an API \u2014 no key or stable API endpoint to connect."
+  },
+  {
+   "id": "clova-studio",
+   "name": "Clova Studio",
+   "base_url": "https://clovastudio.stream.ntruss.com/v3/chat-completions",
+   "format": "clova",
+   "auth": "apikey",
+   "note": "Speaks Naver Clova's own API shape, not the OpenAI-style chat API AgentQon sends."
+  },
+  {
+   "id": "codebuddy-cn",
+   "name": "Codebuddy Cn",
+   "base_url": "https://copilot.tencent.com/v2",
+   "format": "openai",
+   "auth": "oauth",
+   "note": "Signs in with OAuth \u2014 there is no API key to paste."
+  },
+  {
+   "id": "copilot-m365-web",
+   "name": "Copilot M365 Web",
+   "base_url": "wss://substrate.office.com/m365Copilot/Chathub",
+   "format": "openai",
+   "auth": "apikey",
+   "note": "A web chat page signed in through a Microsoft 365 session \u2014 no API key to paste."
+  },
+  {
+   "id": "copilot-web",
+   "name": "Copilot Web",
+   "base_url": "wss://copilot.microsoft.com/c/api/chat?api-version=2",
+   "format": "openai",
+   "auth": "apikey",
+   "note": "A web chat page signed in through a browser session \u2014 no API key to paste."
+  },
+  {
+   "id": "deepai",
+   "name": "Deepai",
+   "base_url": "https://api.deepai.org",
+   "format": "custom",
+   "auth": "apikey",
+   "note": "Uses DeepAI's own API and key header, not OpenAI-style chat completions."
+  },
+  {
+   "id": "devin-cli",
+   "name": "Devin Cli",
+   "base_url": "devin://acp/stdio",
+   "format": "openai",
+   "auth": "oauth",
+   "note": "Runs as a local program over stdio \u2014 there is no HTTP endpoint to connect."
+  },
+  {
+   "id": "devin-cli-agentic",
+   "name": "Devin Cli Agentic",
+   "base_url": "devin://acp/stdio",
+   "format": "claude",
+   "auth": "none",
+   "note": "Runs as a local program over stdio \u2014 there is no HTTP endpoint to connect."
+  },
+  {
+   "id": "duckduckgo-web",
+   "name": "Duckduckgo Web",
+   "base_url": "https://duck.ai/duckchat/v1/chat",
+   "format": "openai",
+   "auth": "none",
+   "note": "A web chat page, not an API \u2014 no key or stable API endpoint to connect."
+  },
+  {
+   "id": "kiro",
+   "name": "Kiro",
+   "base_url": "https://codewhisperer.us-east-1.amazonaws.com/generateAssistantResponse",
+   "format": "kiro",
+   "auth": "oauth",
+   "note": "Signs in with OAuth against an AWS endpoint \u2014 there is no API key to paste."
+  },
+  {
+   "id": "trae",
+   "name": "Trae",
+   "base_url": "https://core-normal.trae.ai/api/remote/v1",
+   "format": "openai",
+   "auth": "oauth",
+   "note": "Signs in with OAuth \u2014 there is no API key to paste."
+  },
+  {
+   "id": "uc",
+   "name": "Uc",
+   "base_url": "https://internal-6.pubyar.com",
+   "format": "openai",
+   "auth": "none",
+   "note": "An internal endpoint from the source list \u2014 not a public provider."
+  },
+  {
+   "id": "veoaifree-web",
+   "name": "Veoaifree Web",
+   "base_url": "https://veoaifree.com/wp-admin/admin-ajax.php",
+   "format": "openai",
+   "auth": "none",
+   "note": "A web chat page, not an API \u2014 no key or stable API endpoint to connect."
+  },
+  {
+   "id": "vertex-partner",
+   "name": "Vertex Partner",
+   "base_url": "https://us-central1-aiplatform.googleapis.com/v1/projects",
+   "format": "gemini",
+   "auth": "apikey",
+   "note": "Needs a project-scoped Google OAuth token and speaks the Gemini API shape, not OpenAI-style chat."
+  },
+  {
+   "id": "wafer",
+   "name": "Wafer",
+   "base_url": "https://pass.wafer.ai/v1/messages",
+   "format": "claude",
+   "auth": "apikey",
+   "note": "Speaks the Anthropic Messages API shape, not OpenAI-style chat completions."
+  },
+  {
+   "id": "zcode",
+   "name": "Zcode",
+   "base_url": "zcode://app-server/stdio",
+   "format": "openai",
+   "auth": "none",
+   "note": "Runs as a local program over stdio \u2014 there is no HTTP endpoint to connect."
+  }
+ ]
+}

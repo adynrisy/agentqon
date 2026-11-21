@@ -1,0 +1,56 @@
+# AgentQon — one-host production stack (prepared 2026-10-10)
+# Usage:
+#   cp .env.production.example .env.production   # fill in real secrets
+#   docker compose --env-file .env.production up -d --build
+# Services: api (public, :8080) + worker (external queue mode) + postgres 16.
+# Put a TLS reverse proxy (Caddy/nginx) in front of :8080 for a public URL.
+services:
+  db:
+    image: postgres:16
+    environment:
+      POSTGRES_USER: omnimind
+      POSTGRES_PASSWORD: ${POSTGRES_PASSWORD:?set POSTGRES_PASSWORD in .env.production}
+      POSTGRES_DB: omnimind
+    volumes:
+      - omnimind-pgdata:/var/lib/postgresql/data
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U omnimind -d omnimind"]
+      interval: 10s
+      timeout: 5s
+      retries: 6
+    restart: unless-stopped
+
+  api:
+    build: .
+    env_file: .env.production
+    environment:
+      AGENTQON_DATABASE_URL: postgresql://omnimind:${POSTGRES_PASSWORD}@db:5432/omnimind
+      AGENTQON_WORKER_MODE: external
+      AGENTQON_AUTH_MODE: accounts
+    ports:
+      - "8080:8080"
+    volumes:
+      - omnimind-data:/srv/omnimind/data
+    depends_on:
+      db:
+        condition: service_healthy
+    restart: unless-stopped
+
+  worker:
+    build: .
+    command: ["python", "-m", "app.worker"]
+    env_file: .env.production
+    environment:
+      AGENTQON_DATABASE_URL: postgresql://omnimind:${POSTGRES_PASSWORD}@db:5432/omnimind
+      AGENTQON_WORKER_MODE: external
+      AGENTQON_AUTH_MODE: accounts
+    volumes:
+      - omnimind-data:/srv/omnimind/data
+    depends_on:
+      db:
+        condition: service_healthy
+    restart: unless-stopped
+
+volumes:
+  omnimind-pgdata:
+  omnimind-data:
