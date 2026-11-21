@@ -1,0 +1,13 @@
+.venv/
+__pycache__/
+.pytest_cache/
+data/omnimind.db
+data/artifacts/*.json
+data/vault.key
+.env
+data/vault.key
+*.key
+node_modules/
+.omnimind/
+*.tgz
+.DS_Store
