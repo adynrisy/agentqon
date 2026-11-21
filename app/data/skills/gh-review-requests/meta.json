@@ -1,0 +1,11 @@
+{
+  "name": "gh-review-requests",
+  "display_name": "Gh Review Requests",
+  "description": "Fetch unread GitHub notifications for open PRs where review is requested from a specified team or opened by a team member. Use when asked to \"find PRs I need to review\", \"show my review requests\", \"what needs my review\", \"fetch GitHub review requests\", or \"check team review queue\".",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/gh-review-requests/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/gh-review-requests/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 2307,
+  "truncated": false
+}

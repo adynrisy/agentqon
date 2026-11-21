@@ -1,0 +1,11 @@
+{
+  "name": "hugging-face-dataset-viewer",
+  "display_name": "Hugging Face Dataset Viewer",
+  "description": "Hugging Face Dataset Viewer",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "skills/hugging-face-dataset-viewer/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/skills/hugging-face-dataset-viewer/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 4803,
+  "truncated": false
+}

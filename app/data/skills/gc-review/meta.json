@@ -1,0 +1,11 @@
+{
+  "name": "gc-review",
+  "display_name": "Gc Review",
+  "description": "/c-level-agents:gc-review [plan] — General Counsel interrogation of contracts, IP, regulatory, term sheets, and employment-law surface. Use when reviewing a term sheet before signing, redlining a customer MSA, or checking IP assignment and regulatory exposure on a new product.",
+  "repo": "alirezarezvani/claude-skills",
+  "path": ".gemini/skills/gc-review/SKILL.md",
+  "url": "https://github.com/alirezarezvani/claude-skills/tree/HEAD/.gemini/skills/gc-review/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 4459,
+  "truncated": false
+}

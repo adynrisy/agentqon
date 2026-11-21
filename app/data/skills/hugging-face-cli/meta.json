@@ -1,0 +1,11 @@
+{
+  "name": "hugging-face-cli",
+  "display_name": "Hugging Face CLI",
+  "description": "Hugging Face Hub CLI (`hf`) for downloading, uploading, and managing models, datasets, spaces, buckets, repos, papers, jobs, and more on the Hugging Face Hub.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/hugging-face-cli/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/hugging-face-cli/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 28573,
+  "truncated": false
+}

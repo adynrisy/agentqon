@@ -1,0 +1,11 @@
+{
+  "name": "go-code-guidelines",
+  "display_name": "Go Code Guidelines",
+  "description": "Language-specific super-code guidelines for go.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/super-code/go/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/super-code/go/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 5915,
+  "truncated": false
+}

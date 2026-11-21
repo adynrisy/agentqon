@@ -1,0 +1,11 @@
+{
+  "name": "hub-status",
+  "display_name": "Hub Status",
+  "description": "Show DAG state, agent progress, and branch status for an AgentHub session. Use when the user runs /hub:hub-status or asks how the AgentHub agents are doing.",
+  "repo": "alirezarezvani/claude-skills",
+  "path": ".gemini/skills/hub-status/SKILL.md",
+  "url": "https://github.com/alirezarezvani/claude-skills/tree/HEAD/.gemini/skills/hub-status/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 2273,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "idea-blueprint",
+  "display_name": "Idea Blueprint",
+  "description": "Turn a raw product, app, bot or feature idea into one evidence-backed build blueprint (researched stack, epics, Given/When/Then criteria, tests) that coding agents build one epic per session.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/idea-to-blueprint/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/idea-to-blueprint/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 24265,
+  "truncated": false
+}

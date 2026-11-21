@@ -1,0 +1,11 @@
+{
+  "name": "huggingface-community-evals",
+  "display_name": "Huggingface Community Evals",
+  "description": "Curated upstream guidance for Huggingface Community Evals; use when the workflow matches the user goal.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/huggingface-community-evals/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/huggingface-community-evals/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 6967,
+  "truncated": false
+}

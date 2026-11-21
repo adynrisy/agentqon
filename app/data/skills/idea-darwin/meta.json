@@ -1,0 +1,11 @@
+{
+  "name": "idea-darwin",
+  "display_name": "Idea Darwin",
+  "description": "Darwinian idea evolution engine — toss rough ideas onto an evolution island, let them compete, crossbreed, and mutate through structured rounds to surface your strongest concepts.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/idea-darwin/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/idea-darwin/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 4000,
+  "truncated": false
+}

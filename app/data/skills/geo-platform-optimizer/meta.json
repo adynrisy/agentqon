@@ -1,0 +1,11 @@
+{
+  "name": "geo-platform-optimizer",
+  "display_name": "Geo Platform Optimizer",
+  "description": "Platform-specific AI search optimization — audit and optimize for Google AI Overviews, ChatGPT, Perplexity, Gemini, and Bing Copilot individually",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/geo-platform-optimizer/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/geo-platform-optimizer/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 19536,
+  "truncated": false
+}

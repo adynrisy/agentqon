@@ -1,0 +1,11 @@
+{
+  "name": "hybrid-search-implementation-llm-application-dev",
+  "display_name": "Hybrid Search Implementation · LLM Application Dev",
+  "description": "Combine vector and keyword search for improved retrieval. Use when implementing RAG systems, building search engines, or when neither approach alone provides sufficient recall.",
+  "repo": "wshobson/agents",
+  "path": "plugins/llm-application-dev/skills/hybrid-search-implementation/SKILL.md",
+  "url": "https://github.com/wshobson/agents/tree/HEAD/plugins/llm-application-dev/skills/hybrid-search-implementation/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 1798,
+  "truncated": false
+}

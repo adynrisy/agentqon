@@ -1,0 +1,11 @@
+{
+  "name": "gdpr-data-handling",
+  "display_name": "GDPR Data Handling",
+  "description": "Implement GDPR-compliant data handling with consent management, data subject rights, and privacy by design. Use when building systems that process EU personal data, implementing privacy controls, or conducting GDPR compliance reviews.",
+  "repo": "wshobson/agents",
+  "path": "plugins/hr-legal-compliance/skills/gdpr-data-handling/SKILL.md",
+  "url": "https://github.com/wshobson/agents/tree/HEAD/plugins/hr-legal-compliance/skills/gdpr-data-handling/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 2398,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "grammar-check",
+  "display_name": "Grammar Check",
+  "description": "Proofreads prose and reports grammar, logic and flow issues as suggestions without rewriting the text. Use when asked to proofread or copy-edit while keeping the author's wording.",
+  "repo": "khasky/awesome-agent-skills",
+  "path": "skills/awesome-grammar-check/SKILL.md",
+  "url": "https://github.com/khasky/awesome-agent-skills/tree/HEAD/skills/awesome-grammar-check/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 6410,
+  "truncated": false
+}

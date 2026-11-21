@@ -1,0 +1,11 @@
+{
+  "name": "golang-guide-building",
+  "display_name": "Golang Guide Building",
+  "description": "Guide for building reliable, fault-tolerant Go applications with DBOS durable workflows. Use when adding DBOS to existing Go code, creating workflows and steps, or using queues for concurrency control.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/dbos-golang/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/dbos-golang/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 3327,
+  "truncated": false
+}

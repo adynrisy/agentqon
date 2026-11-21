@@ -1,0 +1,11 @@
+{
+  "name": "git-history-rebuild",
+  "display_name": "Git History Rebuild",
+  "description": "Erases a repository's history and rebuilds it as a curated commit series over the same tree, with a backup, confirmation gates and a tree-hash proof. Use when asked to rewrite history as readable commits.",
+  "repo": "khasky/awesome-agent-skills",
+  "path": "skills/awesome-git-history-rebuild/SKILL.md",
+  "url": "https://github.com/khasky/awesome-agent-skills/tree/HEAD/skills/awesome-git-history-rebuild/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 56543,
+  "truncated": false
+}

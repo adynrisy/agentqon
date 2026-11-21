@@ -1,0 +1,11 @@
+{
+  "name": "git-worktree-manager",
+  "display_name": "Git Worktree Manager",
+  "description": "Run parallel feature work safely with Git worktrees. Standardizes branch isolation, port allocation, environment sync, and cleanup so each worktree behaves like an independent local app. Optimized for multi-agent workflows where each agent or terminal session owns one worktree. Use when running multiple feature branches simultaneously, isolating experimental work, or coordinating multi-agent development across the same repo.",
+  "repo": "alirezarezvani/claude-skills",
+  "path": ".gemini/skills/git-worktree-manager/SKILL.md",
+  "url": "https://github.com/alirezarezvani/claude-skills/tree/HEAD/.gemini/skills/git-worktree-manager/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 6607,
+  "truncated": false
+}

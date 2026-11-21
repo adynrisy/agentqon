@@ -1,0 +1,11 @@
+{
+  "name": "grant-rfp-writer",
+  "display_name": "Grant Rfp Writer",
+  "description": "Finds grant and solicitation opportunities the organization actually qualifies for, runs a hard go/no-go before anyone starts writing, drafts the application or response from past submissions and real program data, and tracks every deadline and reporting obligation that follows an award. Built for nonprofits, government contractors, and education, and it filters daily feeds like SAM.gov or DIBBS down to the handful worth bidding. Runs on Google Drive or M365 with DocuSign and Calendar deepening it, and works from uploaded past submissions plus web research when nothing is connected. Use this whenever a funding or bidding opportunity is in play — including \"find grants we qualify for,\" \"should we bid this,\" \"draft the response to this RFP,\" \"we've got 50 solicitations to filter,\" \"what's due on the federal grant,\" or \"help me write the proposal narrative.\"",
+  "repo": "anthropics/knowledge-work-plugins",
+  "path": "small-business/skills/grant-rfp-writer/SKILL.md",
+  "url": "https://github.com/anthropics/knowledge-work-plugins/tree/HEAD/small-business/skills/grant-rfp-writer/SKILL.md",
+  "license": "Apache-2.0",
+  "body_bytes": 12487,
+  "truncated": false
+}

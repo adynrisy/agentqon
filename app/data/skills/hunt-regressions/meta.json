@@ -1,0 +1,11 @@
+{
+  "name": "hunt-regressions",
+  "display_name": "Hunt Regressions",
+  "description": "Use when discovering possible regressions from a pinned change and its callers before reproduction.",
+  "repo": "trailofbits/skills",
+  "path": "plugins/regression-hunt/skills/hunt-regressions/SKILL.md",
+  "url": "https://github.com/trailofbits/skills/tree/HEAD/plugins/regression-hunt/skills/hunt-regressions/SKILL.md",
+  "license": "CC",
+  "body_bytes": 1946,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "graphql-architect",
+  "display_name": "GraphQL Architect",
+  "description": "Use when designing GraphQL schemas, implementing Apollo Federation, or building real-time subscriptions. Invoke for schema design, resolvers with DataLoader, query optimization, federation directives.",
+  "repo": "Jeffallan/claude-skills",
+  "path": "skills/graphql-architect/SKILL.md",
+  "url": "https://github.com/Jeffallan/claude-skills/tree/HEAD/skills/graphql-architect/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 4592,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "generate-mcp-app-ui",
+  "display_name": "Generate MCP App UI",
+  "description": "Generate a single-file MCP App widget for an MCP tool, with either bundled runtime code or user-approved public CDN imports. Describe the visual and provide a plain structured payload or a full tool result with content, structuredContent, and meta.",
+  "repo": "microsoft/power-platform-skills",
+  "path": "plugins/mcp-apps/skills/generate-mcp-app-ui/SKILL.md",
+  "url": "https://github.com/microsoft/power-platform-skills/tree/HEAD/plugins/mcp-apps/skills/generate-mcp-app-ui/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 11886,
+  "truncated": false
+}

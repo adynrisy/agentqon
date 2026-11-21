@@ -1,0 +1,11 @@
+{
+  "name": "gcp-cloud-run",
+  "display_name": "GCP Cloud Run",
+  "description": "Specialized skill for building production-ready serverless applications on GCP. Covers Cloud Run services (containerized), Cloud Run Functions (event-driven), cold start optimization, and event-driven architecture with Pub/Sub.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/gcp-cloud-run/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/gcp-cloud-run/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 2251,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "goal-loop",
+  "display_name": "Goal Loop",
+  "description": "Draft and explain persistent goal-loop prompts for long-running agent work with clear stop conditions.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/goal-loop/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/goal-loop/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 9928,
+  "truncated": false
+}

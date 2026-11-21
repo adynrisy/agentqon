@@ -1,0 +1,11 @@
+{
+  "name": "gdpr-data-handling-practical",
+  "display_name": "GDPR Data Handling · Practical",
+  "description": "Practical implementation guide for GDPR-compliant data processing, consent management, and privacy controls.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/gdpr-data-handling/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/gdpr-data-handling/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 1191,
+  "truncated": false
+}

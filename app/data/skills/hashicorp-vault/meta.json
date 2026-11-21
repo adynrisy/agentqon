@@ -1,0 +1,11 @@
+{
+  "name": "hashicorp-vault",
+  "display_name": "Hashicorp Vault",
+  "description": "Manage secrets and PKI with HashiCorp Vault.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/hashicorp-vault/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/hashicorp-vault/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 8296,
+  "truncated": false
+}

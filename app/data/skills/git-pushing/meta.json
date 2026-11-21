@@ -1,0 +1,11 @@
+{
+  "name": "git-pushing",
+  "display_name": "Git Pushing",
+  "description": "Safely stage, commit, and push intended git changes with conventional commit messages. Use for ordinary non-release pushes when explicitly asked to push, save work remotely, or share a completed change.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/git-pushing/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/git-pushing/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 3407,
+  "truncated": false
+}

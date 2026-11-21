@@ -1,0 +1,11 @@
+{
+  "name": "gdpr-audit-prep",
+  "display_name": "GDPR Audit Prep",
+  "description": "/compliance-os:gdpr-audit-prep [scope] — GDPR audit 6-question Article-cited forcing interrogation. Use before annual internal GDPR review, post-breach internal audit, DPA investigation readiness, or acquisition due diligence.",
+  "repo": "alirezarezvani/claude-skills",
+  "path": ".gemini/skills/gdpr-audit-prep/SKILL.md",
+  "url": "https://github.com/alirezarezvani/claude-skills/tree/HEAD/.gemini/skills/gdpr-audit-prep/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 6707,
+  "truncated": false
+}

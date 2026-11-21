@@ -1,0 +1,11 @@
+{
+  "name": "geo-compare",
+  "display_name": "Geo Compare",
+  "description": "Monthly delta tracking and progress reporting for GEO clients.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/geo-compare/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/geo-compare/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 10285,
+  "truncated": false
+}

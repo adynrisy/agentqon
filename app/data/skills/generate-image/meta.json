@@ -1,0 +1,11 @@
+{
+  "name": "generate-image",
+  "display_name": "Generate Image",
+  "description": "Generates or edits images with AI models through the OpenRouter Image API (Gemini, Seedream, Recraft, GPT-Image, Riverflow). Use for photos, illustrations, artwork, concept art, visual assets, logos, and image editing or compositing from reference images. For flowcharts, circuits, pathways, and other technical diagrams, use the scientific-schematics skill instead.",
+  "repo": "K-Dense-AI/scientific-agent-skills",
+  "path": "skills/generate-image/SKILL.md",
+  "url": "https://github.com/K-Dense-AI/scientific-agent-skills/tree/HEAD/skills/generate-image/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 16758,
+  "truncated": false
+}

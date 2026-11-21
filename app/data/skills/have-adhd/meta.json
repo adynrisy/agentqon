@@ -1,0 +1,11 @@
+{
+  "name": "have-adhd",
+  "display_name": "Have Adhd",
+  "description": "Shape output for ADHD readers: next action first, numbered steps, restated state, no tangents, time estimates, visible wins. Toggle with /i-have-adhd.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/i-have-adhd/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/i-have-adhd/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 7496,
+  "truncated": false
+}

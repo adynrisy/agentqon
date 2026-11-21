@@ -1,0 +1,11 @@
+{
+  "name": "gdb-cli",
+  "display_name": "Gdb CLI",
+  "description": "GDB debugging assistant for AI agents - analyze core dumps, debug live processes, investigate crashes and deadlocks with source code correlation",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/gdb-cli/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/gdb-cli/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 5325,
+  "truncated": false
+}

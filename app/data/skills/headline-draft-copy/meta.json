@@ -1,0 +1,11 @@
+{
+  "name": "headline-draft-copy",
+  "display_name": "Headline Draft Copy",
+  "description": "Draft and compare audience-aware headlines when copy needs clearer relevance and curiosity without clickbait or unsupported promises.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/headline-psychologist/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/headline-psychologist/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 6950,
+  "truncated": false
+}

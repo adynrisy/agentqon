@@ -1,0 +1,11 @@
+{
+  "name": "geo-report-pdf",
+  "display_name": "Geo Report PDF",
+  "description": "Generate a professional PDF report from a GEO audit using pandoc + Chrome headless.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/geo-report-pdf/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/geo-report-pdf/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 6148,
+  "truncated": false
+}

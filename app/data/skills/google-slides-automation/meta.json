@@ -1,0 +1,11 @@
+{
+  "name": "google-slides-automation",
+  "display_name": "Google Slides Automation",
+  "description": "Read and edit Google Slides through an available authenticated connector or reviewed API integration, with scoped changes and read-back verification.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/google-slides-automation/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/google-slides-automation/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 2508,
+  "truncated": false
+}

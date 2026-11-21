@@ -1,0 +1,11 @@
+{
+  "name": "godot-gdscript-patterns",
+  "display_name": "Godot Gdscript Patterns",
+  "description": "Master Godot 4 GDScript patterns including signals, scenes, state machines, and optimization. Use when building Godot games, implementing game systems, or learning GDScript best practices.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/godot-gdscript-patterns/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/godot-gdscript-patterns/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 1167,
+  "truncated": false
+}

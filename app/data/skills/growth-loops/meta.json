@@ -1,0 +1,11 @@
+{
+  "name": "growth-loops",
+  "display_name": "Growth Loops",
+  "description": "Identify growth loops (flywheels) for sustainable traction. Evaluates 5 loop types: Viral, Usage, Collaboration, User-Generated, and Referral. Use when designing growth mechanisms, building product-led traction, or understanding how growth loops work.",
+  "repo": "phuryn/pm-skills",
+  "path": "pm-go-to-market/skills/growth-loops/SKILL.md",
+  "url": "https://github.com/phuryn/pm-skills/tree/HEAD/pm-go-to-market/skills/growth-loops/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 5494,
+  "truncated": false
+}

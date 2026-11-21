@@ -1,0 +1,11 @@
+{
+  "name": "honoured-one",
+  "display_name": "Honoured One",
+  "description": "Forces the AI to fully load context and read relevant files before performing complex, multi-file tasks, architectural changes, or debugging. Prevents acting on assumptions.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/the-honoured-one/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/the-honoured-one/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 8366,
+  "truncated": false
+}

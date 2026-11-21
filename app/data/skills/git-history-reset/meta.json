@@ -1,0 +1,11 @@
+{
+  "name": "git-history-reset",
+  "display_name": "Git History Reset",
+  "description": "Erases a repository's entire history into one fresh commit and force-pushes, after access checks, a mirror backup, a secret scan and a confirmation gate. Use when asked to wipe history.",
+  "repo": "khasky/awesome-agent-skills",
+  "path": "skills/awesome-git-history-reset/SKILL.md",
+  "url": "https://github.com/khasky/awesome-agent-skills/tree/HEAD/skills/awesome-git-history-reset/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 21383,
+  "truncated": false
+}

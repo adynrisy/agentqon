@@ -1,0 +1,11 @@
+{
+  "name": "git-history-salvage",
+  "display_name": "Git History Salvage",
+  "description": "Read-only recovery of every commit a repository ever held, force-pushed history included, from refs, PR refs, backups and the host's activity log. Use when asked what a repo held before a rewrite.",
+  "repo": "khasky/awesome-agent-skills",
+  "path": "skills/awesome-git-history-salvage/SKILL.md",
+  "url": "https://github.com/khasky/awesome-agent-skills/tree/HEAD/skills/awesome-git-history-salvage/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 21686,
+  "truncated": false
+}

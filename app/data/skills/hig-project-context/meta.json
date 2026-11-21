@@ -1,0 +1,11 @@
+{
+  "name": "hig-project-context",
+  "display_name": "Hig Project Context",
+  "description": "Create or update a shared Apple design context document that other HIG skills use to tailor guidance.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/hig-project-context/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/hig-project-context/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 4485,
+  "truncated": false
+}

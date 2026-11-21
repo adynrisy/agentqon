@@ -1,0 +1,11 @@
+{
+  "name": "geo-report",
+  "display_name": "Geo Report",
+  "description": "Generate a professional, client-facing GEO report combining all audit results into a single deliverable with scores, findings, and prioritized actions",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/geo-report/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/geo-report/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 18691,
+  "truncated": false
+}

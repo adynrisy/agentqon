@@ -1,0 +1,11 @@
+{
+  "name": "growth-strategy",
+  "display_name": "Growth Strategy",
+  "description": "E-commerce growth strategy advisor. Diagnoses current business health using unit economics (CAC, LTV, AOV, contribution margin), identifies the highest-impact growth opportunities across 5 levers (traffic, conversion, AOV, retention, expansion), and builds a prioritized 90-day growth roadmap. Uses the Ansoff Matrix adapted for e-commerce to evaluate market penetration, channel expansion, product expansion, and new market entry. Includes multichannel readiness assessment (Amazon, Walmart, TikTok Shop, Etsy, DTC/Shopify/Shopify) and product line expansion analysis. No API key required. Use when: (1) planning next phase of e-commerce growth, (2) deciding whether to expand to new channels or products, (3) diagnosing why growth has stalled, (4) prioritizing what to fix or build next.",
+  "repo": "nexscope-ai/eCommerce-Skills",
+  "path": "ecommerce-growth-strategy/SKILL.md",
+  "url": "https://github.com/nexscope-ai/eCommerce-Skills/tree/HEAD/ecommerce-growth-strategy/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 21402,
+  "truncated": false
+}

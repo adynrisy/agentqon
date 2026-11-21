@@ -1,0 +1,11 @@
+{
+  "name": "gitops-workflow-guide",
+  "display_name": "Gitops Workflow · Guide",
+  "description": "Complete guide to implementing GitOps workflows with ArgoCD and Flux for automated Kubernetes deployments.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/gitops-workflow/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/gitops-workflow/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 6727,
+  "truncated": false
+}

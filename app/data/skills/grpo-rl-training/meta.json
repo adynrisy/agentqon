@@ -1,0 +1,11 @@
+{
+  "name": "grpo-rl-training",
+  "display_name": "Grpo Rl Training",
+  "description": "Expert guidance for GRPO/RL fine-tuning with TRL for reasoning and task-specific model training",
+  "repo": "Orchestra-Research/AI-Research-SKILLs",
+  "path": "06-post-training/grpo-rl-training/SKILL.md",
+  "url": "https://github.com/Orchestra-Research/AI-Research-SKILLs/tree/HEAD/06-post-training/grpo-rl-training/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 16796,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "high-perf-browser",
+  "display_name": "High Perf Browser",
+  "description": "Optimize web performance through network protocols, resource loading, and browser rendering internals. Use when the user mentions \"my site is slow\", \"Core Web Vitals\", \"HTTP/2 or HTTP/3\", \"resource hints\", \"network latency\", \"render blocking\", \"TCP/TLS optimization\", \"service worker\", \"Cache-Control or caching strategy\", or \"critical rendering path\". Also trigger when diagnosing slow page loads, optimizing time to first byte, choosing between WebSocket and SSE, or reducing bundle sizes. For UI visual performance, see refactoring-ui. For font loading, see web-typography.",
+  "repo": "wondelai/skills",
+  "path": "high-perf-browser/SKILL.md",
+  "url": "https://github.com/wondelai/skills/tree/HEAD/high-perf-browser/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 15375,
+  "truncated": false
+}

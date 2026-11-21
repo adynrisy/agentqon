@@ -1,0 +1,11 @@
+{
+  "name": "gtm-strategy",
+  "display_name": "Gtm Strategy",
+  "description": "Create a go-to-market strategy covering marketing channels, messaging, success metrics, and launch timeline. Use when planning a product launch, creating a GTM plan from scratch, or defining a launch strategy for a new market.",
+  "repo": "phuryn/pm-skills",
+  "path": "pm-go-to-market/skills/gtm-strategy/SKILL.md",
+  "url": "https://github.com/phuryn/pm-skills/tree/HEAD/pm-go-to-market/skills/gtm-strategy/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 3778,
+  "truncated": false
+}

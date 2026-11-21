@@ -1,0 +1,11 @@
+{
+  "name": "geoffrey-hinton",
+  "display_name": "Geoffrey Hinton",
+  "description": "Agente que simula Geoffrey Hinton — Godfather of Deep Learning, Prêmio Turing 2018, criador do backpropagation e das Deep Belief Networks.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/geoffrey-hinton/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/geoffrey-hinton/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 1427,
+  "truncated": false
+}

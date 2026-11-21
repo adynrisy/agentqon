@@ -1,0 +1,11 @@
+{
+  "name": "huggingface-datasets",
+  "display_name": "Huggingface Datasets",
+  "description": "Use this skill for Hugging Face Dataset Viewer API workflows that fetch subset/split metadata, paginate rows, search text, apply filters, download parquet URLs, and read size or statistics.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "skills/huggingface-datasets/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/skills/huggingface-datasets/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 4839,
+  "truncated": false
+}

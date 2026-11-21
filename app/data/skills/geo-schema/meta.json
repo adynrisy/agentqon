@@ -1,0 +1,11 @@
+{
+  "name": "geo-schema",
+  "display_name": "Geo Schema",
+  "description": "Schema.org structured data audit and generation optimized for AI discoverability — detect, validate, and generate JSON-LD markup",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/geo-schema/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/geo-schema/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 15296,
+  "truncated": false
+}

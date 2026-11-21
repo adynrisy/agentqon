@@ -1,0 +1,11 @@
+{
+  "name": "huggingface-tokenizers",
+  "display_name": "Huggingface Tokenizers",
+  "description": "Fast tokenizers optimized for research and production. Rust-based implementation tokenizes 1GB in <20 seconds. Supports BPE, WordPiece, and Unigram algorithms. Train custom vocabularies, track alignments, handle padding/truncation. Integrates seamlessly with transformers. Use when you need high-performance tokenization or custom tokenizer training.",
+  "repo": "Orchestra-Research/AI-Research-SKILLs",
+  "path": "02-tokenization/huggingface-tokenizers/SKILL.md",
+  "url": "https://github.com/Orchestra-Research/AI-Research-SKILLs/tree/HEAD/02-tokenization/huggingface-tokenizers/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 13032,
+  "truncated": false
+}

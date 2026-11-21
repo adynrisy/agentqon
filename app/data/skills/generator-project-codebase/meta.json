@@ -1,0 +1,11 @@
+{
+  "name": "generator-project-codebase",
+  "display_name": "Generator Project Codebase",
+  "description": "Generate project-specific AGENTS.md and companion rules by analyzing a codebase. Supports full, minimal, update, and dry-run modes with package-manager detection, monorepos, backups, managed blocks, confidence scoring, and command validation.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/agents-generator/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/agents-generator/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 8502,
+  "truncated": false
+}

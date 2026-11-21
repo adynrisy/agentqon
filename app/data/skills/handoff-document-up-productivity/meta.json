@@ -1,0 +1,11 @@
+{
+  "name": "handoff-document-up-productivity",
+  "display_name": "Handoff Document Up · Productivity",
+  "description": "Compact the current conversation into a handoff document for another agent to pick up.",
+  "repo": "mattpocock/skills",
+  "path": "skills/productivity/handoff/SKILL.md",
+  "url": "https://github.com/mattpocock/skills/tree/HEAD/skills/productivity/handoff/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 729,
+  "truncated": false
+}

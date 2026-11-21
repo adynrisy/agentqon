@@ -1,0 +1,11 @@
+{
+  "name": "google-calendar-automation",
+  "display_name": "Google Calendar Automation",
+  "description": "Plan and perform authorized Google Calendar workflows through an existing authenticated integration; inspect events, draft changes and verify results.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/google-calendar-automation/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/google-calendar-automation/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 3097,
+  "truncated": false
+}

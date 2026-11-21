@@ -1,0 +1,11 @@
+{
+  "name": "generator-json-files",
+  "display_name": "Generator JSON Files",
+  "description": "Generate complete, import-ready Postman Collection v2.1 JSON files from natural language API descriptions or cURL commands.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/postman-collection-generator/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/postman-collection-generator/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 5134,
+  "truncated": false
+}

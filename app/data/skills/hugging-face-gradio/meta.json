@@ -1,0 +1,11 @@
+{
+  "name": "hugging-face-gradio",
+  "display_name": "Hugging Face Gradio",
+  "description": "Build Gradio web UIs and demos in Python. Use when creating or editing Gradio apps, components, event listeners, layouts, or chatbots.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/hugging-face-gradio/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/hugging-face-gradio/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 25143,
+  "truncated": false
+}

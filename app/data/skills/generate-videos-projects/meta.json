@@ -1,0 +1,11 @@
+{
+  "name": "generate-videos-projects",
+  "display_name": "Generate Videos Projects",
+  "description": "Generate walkthrough videos from Stitch projects using Remotion with smooth transitions, zooming, and text overlays",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/remotion/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/remotion/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 13140,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "hugging-face-community-evals",
+  "display_name": "Hugging Face Community Evals",
+  "description": "Run evaluations for Hugging Face Hub models using inspect-ai and lighteval on local hardware. Use for backend selection, local GPU evals, and choosing between vLLM / Transformers / accelerate.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/hugging-face-community-evals/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/hugging-face-community-evals/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 6936,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "git-workflow",
+  "display_name": "Git Workflow",
+  "description": "Implement Git branching strategies, PR workflows, and release management patterns.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/git-workflow/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/git-workflow/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 10302,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "geniml-local-workflows",
+  "display_name": "Geniml Local Workflows",
+  "description": "Supports audited local Geniml genomic-interval workflows: validate BED and universe contracts, plan Region2Vec or scEmbed runs, inspect model/tokenizer compatibility, and assess consensus universes.",
+  "repo": "K-Dense-AI/scientific-agent-skills",
+  "path": "skills/geniml/SKILL.md",
+  "url": "https://github.com/K-Dense-AI/scientific-agent-skills/tree/HEAD/skills/geniml/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 15488,
+  "truncated": false
+}

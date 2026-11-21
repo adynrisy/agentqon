@@ -1,0 +1,11 @@
+{
+  "name": "grill-docs-engineering",
+  "display_name": "Grill Docs · Engineering",
+  "description": "A relentless interview to sharpen a plan or design, which also creates docs (ADR's and glossary) as we go.",
+  "repo": "mattpocock/skills",
+  "path": "skills/engineering/grill-with-docs/SKILL.md",
+  "url": "https://github.com/mattpocock/skills/tree/HEAD/skills/engineering/grill-with-docs/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 65,
+  "truncated": false
+}

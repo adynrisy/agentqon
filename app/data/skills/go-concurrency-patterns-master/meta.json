@@ -1,0 +1,11 @@
+{
+  "name": "go-concurrency-patterns-master",
+  "display_name": "Go Concurrency Patterns · Master",
+  "description": "Master Go concurrency with goroutines, channels, sync primitives, and context. Use when building concurrent Go applications, implementing worker pools, or debugging race conditions.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/go-concurrency-patterns/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/go-concurrency-patterns/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 1185,
+  "truncated": false
+}

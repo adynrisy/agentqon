@@ -1,0 +1,11 @@
+{
+  "name": "graceful-shutdown",
+  "display_name": "Graceful Shutdown",
+  "description": "Implement graceful shutdown for servers and workers: drain connections, finish in-flight work, release resources, and exit cleanly on SIGTERM/SIGINT.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/graceful-shutdown/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/graceful-shutdown/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 13608,
+  "truncated": false
+}

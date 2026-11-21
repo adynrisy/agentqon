@@ -1,0 +1,11 @@
+{
+  "name": "huggingface-lora-space-builder",
+  "display_name": "Huggingface Lora Space Builder",
+  "description": "Build and publish a Gradio demo on Hugging Face Spaces for a user-provided LoRA.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/huggingface-lora-space-builder/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/huggingface-lora-space-builder/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 33053,
+  "truncated": false
+}

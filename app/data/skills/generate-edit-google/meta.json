@@ -1,0 +1,11 @@
+{
+  "name": "generate-edit-google",
+  "display_name": "Generate Edit Google",
+  "description": "Generate and edit images/video with Google's Gemini media models (Nano Banana 2/Pro, Gemini Omni Flash), with cost-approval gates, reference-image support, and a prompt/output log per call.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/generate-nanobanana/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/generate-nanobanana/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 10408,
+  "truncated": false
+}

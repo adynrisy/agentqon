@@ -1,0 +1,11 @@
+{
+  "name": "go-interview-code",
+  "display_name": "Go Interview Code",
+  "description": "Guided interview to Gold Code (100% AI-Readiness). Use when helping users improve their .faf file through questions. Leverages Claude Code's AskUserQuestion for seamless integration. Just type /faf-go and answer questions till done.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/faf-go/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/faf-go/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 9378,
+  "truncated": false
+}

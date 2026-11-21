@@ -1,0 +1,11 @@
+{
+  "name": "hypothesis-generation",
+  "display_name": "Hypothesis Generation",
+  "description": "Formulates evidence-bounded scientific questions, candidate hypotheses, rival explanations, causal or associational claims, discriminating predictions, measurements, and preregistration-ready analysis plans. Used when turning observations or preliminary findings into transparent, testable research plans without treating hypotheses as facts.",
+  "repo": "K-Dense-AI/scientific-agent-skills",
+  "path": "skills/hypothesis-generation/SKILL.md",
+  "url": "https://github.com/K-Dense-AI/scientific-agent-skills/tree/HEAD/skills/hypothesis-generation/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 15911,
+  "truncated": false
+}

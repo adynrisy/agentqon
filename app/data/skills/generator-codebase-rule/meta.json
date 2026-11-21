@@ -1,0 +1,11 @@
+{
+  "name": "generator-codebase-rule",
+  "display_name": "Generator Codebase Rule",
+  "description": "Mines a codebase's real commands, conventions and boundaries into an agent-agnostic AGENTS.md, nested per package in monorepos, every rule backed by counted evidence. Use when asked to write, generate or refresh AGENTS.md or agent instructions for a repo.",
+  "repo": "khasky/awesome-agent-skills",
+  "path": "skills/awesome-agents-md-generator/SKILL.md",
+  "url": "https://github.com/khasky/awesome-agent-skills/tree/HEAD/skills/awesome-agents-md-generator/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 14311,
+  "truncated": false
+}

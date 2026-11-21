@@ -1,0 +1,11 @@
+{
+  "name": "gcp-cloud-sql",
+  "display_name": "GCP Cloud SQL",
+  "description": "Provision Cloud SQL and Spanner databases. Configure high availability, backups, and security. Use when deploying managed databases on GCP.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/gcp-cloud-sql/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/gcp-cloud-sql/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 8989,
+  "truncated": false
+}

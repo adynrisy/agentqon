@@ -1,0 +1,11 @@
+{
+  "name": "gh-image",
+  "display_name": "Gh Image",
+  "description": "Upload local images to GitHub and get canonical user-attachments embed URLs; use when asked to attach a screenshot to a PR, issue, or comment, or to embed before/after images in a README.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "skills/gh-image/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/skills/gh-image/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 3811,
+  "truncated": false
+}

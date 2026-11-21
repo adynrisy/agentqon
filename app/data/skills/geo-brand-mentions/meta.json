@@ -1,0 +1,11 @@
+{
+  "name": "geo-brand-mentions",
+  "display_name": "Geo Brand Mentions",
+  "description": "Brand mention and authority scanner for AI visibility.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/geo-brand-mentions/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/geo-brand-mentions/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 2467,
+  "truncated": false
+}

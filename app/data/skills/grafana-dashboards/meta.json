@@ -1,0 +1,11 @@
+{
+  "name": "grafana-dashboards",
+  "display_name": "Grafana Dashboards",
+  "description": "Create and manage production-ready Grafana dashboards for comprehensive system observability.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/grafana-dashboards/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/grafana-dashboards/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 8828,
+  "truncated": false
+}

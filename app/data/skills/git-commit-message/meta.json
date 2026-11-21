@@ -1,0 +1,11 @@
+{
+  "name": "git-commit-message",
+  "display_name": "Git Commit Message",
+  "description": "Generates conventional-commit messages from staged changes: type prefix + English imperative subject (≤50 chars) + optional body explaining why. Use when the user asks to write, generate, or polish a git commit message.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/git-commit-message/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/git-commit-message/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 3894,
+  "truncated": false
+}

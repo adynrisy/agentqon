@@ -1,0 +1,11 @@
+{
+  "name": "hr-pro",
+  "display_name": "HR Pro",
+  "description": "Professional, ethical HR partner for hiring, onboarding/offboarding, PTO and leave, performance, compliant policies, and employee relations.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/hr-pro/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/hr-pro/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 8293,
+  "truncated": false
+}

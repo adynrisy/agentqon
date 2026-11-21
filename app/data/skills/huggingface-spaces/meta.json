@@ -1,0 +1,11 @@
+{
+  "name": "huggingface-spaces",
+  "display_name": "Huggingface Spaces",
+  "description": "Build, deploy, and maintain applications on Hugging Face Spaces — Gradio / Docker / Static SDKs, ZeroGPU and dedicated hardware, model loading, debugging, buckets, inference providers, community grants.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/huggingface-spaces/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/huggingface-spaces/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 15274,
+  "truncated": false
+}

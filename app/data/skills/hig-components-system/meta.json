@@ -1,0 +1,11 @@
+{
+  "name": "hig-components-system",
+  "display_name": "Hig Components System",
+  "description": "Apple HIG guidance for system experience components: widgets, live activities, notifications, complications, home screen quick actions, top shelf, watch faces, app clips, and app shortcuts.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/hig-components-system/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/hig-components-system/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 4910,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "gcp-audit-logs",
+  "display_name": "GCP Audit Logs",
+  "description": "Configure GCP Cloud Audit Logs for compliance. Set up log routing and BigQuery analysis. Use when auditing GCP activity.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/gcp-audit-logs/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/gcp-audit-logs/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 14433,
+  "truncated": false
+}

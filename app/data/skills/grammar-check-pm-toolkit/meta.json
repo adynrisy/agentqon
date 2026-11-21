@@ -1,0 +1,11 @@
+{
+  "name": "grammar-check-pm-toolkit",
+  "display_name": "Grammar Check · PM Toolkit",
+  "description": "Identify grammar, logical, and flow errors in text and suggest targeted fixes without rewriting the entire text. Use when proofreading content, checking writing quality, or reviewing a draft.",
+  "repo": "phuryn/pm-skills",
+  "path": "pm-toolkit/skills/grammar-check/SKILL.md",
+  "url": "https://github.com/phuryn/pm-skills/tree/HEAD/pm-toolkit/skills/grammar-check/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 9438,
+  "truncated": false
+}

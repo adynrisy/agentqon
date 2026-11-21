@@ -1,0 +1,11 @@
+{
+  "name": "gtm-motions",
+  "display_name": "Gtm Motions",
+  "description": "Identify the best GTM motions and tools across 7 motion types: Inbound, Outbound, Paid Digital, Community, Partners, ABM, and PLG. Use when selecting marketing channels, choosing between inbound and outbound strategy, or planning cross-channel campaigns.",
+  "repo": "phuryn/pm-skills",
+  "path": "pm-go-to-market/skills/gtm-motions/SKILL.md",
+  "url": "https://github.com/phuryn/pm-skills/tree/HEAD/pm-go-to-market/skills/gtm-motions/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 7260,
+  "truncated": false
+}

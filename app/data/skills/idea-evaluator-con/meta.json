@@ -1,0 +1,11 @@
+{
+  "name": "idea-evaluator-con",
+  "display_name": "Idea Evaluator Con",
+  "description": "The Con Agent persona for idea evaluation. Critiques an idea by identifying potential flaws, risks, and market challenges.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/idea-evaluator/idea-evaluator-con/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/idea-evaluator/idea-evaluator-con/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 3331,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "google-workspace",
+  "display_name": "Google Workspace",
+  "description": "Google Workspace CLI operations: setup diagnostics, security audit, recipe discovery, and output analysis. Usage: /google-workspace <setup|audit|recipe|analyze> [options]",
+  "repo": "alirezarezvani/claude-skills",
+  "path": ".gemini/skills/google-workspace/SKILL.md",
+  "url": "https://github.com/alirezarezvani/claude-skills/tree/HEAD/.gemini/skills/google-workspace/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 3244,
+  "truncated": false
+}

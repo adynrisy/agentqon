@@ -1,0 +1,11 @@
+{
+  "name": "gh-cli-requests",
+  "display_name": "Gh CLI Requests",
+  "description": "Use the `gh` CLI for issues, pull requests, Actions runs, and GitHub API queries.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/github/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/github/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 2030,
+  "truncated": false
+}

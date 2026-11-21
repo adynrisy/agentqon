@@ -1,0 +1,11 @@
+{
+  "name": "hugging-face-model-trainer",
+  "display_name": "Hugging Face Model Trainer",
+  "description": "Train or fine-tune language and vision models using TRL (Transformer Reinforcement Learning) or Unsloth with Hugging Face Jobs infrastructure. Covers SFT, DPO, GRPO and reward modeling training methods, plus GGUF conversion for local deployment.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/hugging-face-model-trainer/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/hugging-face-model-trainer/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 3704,
+  "truncated": false
+}

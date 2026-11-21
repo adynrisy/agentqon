@@ -1,0 +1,11 @@
+{
+  "name": "git-guardrails-code",
+  "display_name": "Git Guardrails Code",
+  "description": "Set up Claude Code hooks to block dangerous git commands (push, reset --hard, clean, branch -D, etc.) before they execute. Use when user wants to prevent destructive git operations, add git safety hooks, or block git push/reset in Claude Code.",
+  "repo": "mattpocock/skills",
+  "path": "skills/misc/git-guardrails-claude-code/SKILL.md",
+  "url": "https://github.com/mattpocock/skills/tree/HEAD/skills/misc/git-guardrails-claude-code/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 2014,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "histolab-slide-image",
+  "display_name": "Histolab Slide Image",
+  "description": "Extracts and preprocesses whole-slide histology image tiles with Histolab. Use for WSI inspection, tissue masks, random/grid/score-based tile extraction, H&E stain normalization, and tile dataset preparation. For multiplexed imaging or deep learning inference pipelines, use pathml.",
+  "repo": "K-Dense-AI/scientific-agent-skills",
+  "path": "skills/histolab/SKILL.md",
+  "url": "https://github.com/K-Dense-AI/scientific-agent-skills/tree/HEAD/skills/histolab/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 8043,
+  "truncated": false
+}

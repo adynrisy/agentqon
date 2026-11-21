@@ -1,0 +1,11 @@
+{
+  "name": "geo-proposal",
+  "display_name": "Geo Proposal",
+  "description": "Auto-generate a professional, client-ready GEO service proposal from audit data.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/geo-proposal/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/geo-proposal/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 12325,
+  "truncated": false
+}

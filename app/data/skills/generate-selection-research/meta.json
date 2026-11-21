@@ -1,0 +1,11 @@
+{
+  "name": "generate-selection-research",
+  "display_name": "Generate Selection · Research",
+  "description": "Conduct preliminary research on a topic and generate research outline. For academic research, benchmark research, technology selection, etc.",
+  "repo": "Weizhena/Deep-Research-skills",
+  "path": "skills/research-codex-en/research/SKILL.md",
+  "url": "https://github.com/Weizhena/Deep-Research-skills/tree/HEAD/skills/research-codex-en/research/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 4097,
+  "truncated": false
+}

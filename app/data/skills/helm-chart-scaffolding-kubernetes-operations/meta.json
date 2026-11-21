@@ -1,0 +1,11 @@
+{
+  "name": "helm-chart-scaffolding-kubernetes-operations",
+  "display_name": "Helm Chart Scaffolding · Kubernetes Operations",
+  "description": "Design, organize, and manage Helm charts for templating and packaging Kubernetes applications with reusable configurations. Use when creating Helm charts, packaging Kubernetes applications, or implementing templated deployments.",
+  "repo": "wshobson/agents",
+  "path": "plugins/kubernetes-operations/skills/helm-chart-scaffolding/SKILL.md",
+  "url": "https://github.com/wshobson/agents/tree/HEAD/plugins/kubernetes-operations/skills/helm-chart-scaffolding/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 1824,
+  "truncated": false
+}

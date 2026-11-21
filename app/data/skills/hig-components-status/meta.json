@@ -1,0 +1,11 @@
+{
+  "name": "hig-components-status",
+  "display_name": "Hig Components Status",
+  "description": "Apple HIG guidance for status and progress UI components including progress indicators, status bars, and activity rings.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/hig-components-status/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/hig-components-status/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 3732,
+  "truncated": false
+}

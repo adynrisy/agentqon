@@ -1,0 +1,11 @@
+{
+  "name": "gpu-kubernetes-operations",
+  "display_name": "GPU Kubernetes Operations",
+  "description": "Operate GPU-backed Kubernetes clusters for AI inference and training with scheduling, autoscaling, node health, MIG partitioning, and cost controls.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/gpu-kubernetes-operations/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/gpu-kubernetes-operations/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 12072,
+  "truncated": false
+}

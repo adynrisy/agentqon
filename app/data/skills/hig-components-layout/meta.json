@@ -1,0 +1,11 @@
+{
+  "name": "hig-components-layout",
+  "display_name": "Hig Components Layout",
+  "description": "Apple Human Interface Guidelines for layout and navigation components.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/hig-components-layout/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/hig-components-layout/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 6126,
+  "truncated": false
+}

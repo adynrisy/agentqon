@@ -1,0 +1,11 @@
+{
+  "name": "helm-charts",
+  "display_name": "Helm Charts",
+  "description": "Create, manage, and deploy Helm charts for Kubernetes package management.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/helm-charts/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/helm-charts/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 9781,
+  "truncated": false
+}

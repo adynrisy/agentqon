@@ -1,0 +1,11 @@
+{
+  "name": "git-worktree",
+  "display_name": "Git Worktree",
+  "description": "Use Git worktrees to isolate parallel coding tasks. Use when setting up a task checkout, working in a shared repo, or managing existing worktrees.",
+  "repo": "davidondrej/skills",
+  "path": "skills/agent-orchestration/git-worktree/SKILL.md",
+  "url": "https://github.com/davidondrej/skills/tree/HEAD/skills/agent-orchestration/git-worktree/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 5121,
+  "truncated": false
+}

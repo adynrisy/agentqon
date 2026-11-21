@@ -1,0 +1,11 @@
+{
+  "name": "generation-audio-text",
+  "display_name": "Generation Audio Text",
+  "description": "Generate real audio narratives from text content using Azure OpenAI's Realtime API.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/podcast-generation/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/podcast-generation/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 3883,
+  "truncated": false
+}

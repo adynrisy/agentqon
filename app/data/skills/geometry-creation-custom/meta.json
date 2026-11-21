@@ -1,0 +1,11 @@
+{
+  "name": "geometry-creation-custom",
+  "display_name": "Geometry Creation Custom",
+  "description": "Three.js geometry creation - built-in shapes, BufferGeometry, custom geometry, instancing. Use when creating 3D shapes, working with vertices, building custom meshes, or optimizing with instanced rendering.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/threejs-geometry/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/threejs-geometry/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 918,
+  "truncated": false
+}

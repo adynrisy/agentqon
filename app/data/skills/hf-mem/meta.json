@@ -1,0 +1,11 @@
+{
+  "name": "hf-mem",
+  "display_name": "Hf Mem",
+  "description": "Hugging Face CLI to estimate the required memory to load Safetensors or GGUF model weights for inference from the Hugging Face Hub",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/hf-mem/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/hf-mem/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 4769,
+  "truncated": false
+}

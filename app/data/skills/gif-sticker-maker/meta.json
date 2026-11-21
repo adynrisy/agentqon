@@ -1,0 +1,11 @@
+{
+  "name": "gif-sticker-maker",
+  "display_name": "Gif Sticker Maker",
+  "description": "Convert photos (people, pets, objects, logos) into 4 animated GIF stickers with captions.\nUse when: user wants to create cartoon stickers, GIF expressions, emoji packs, animated avatars,\nor convert photos to Funko Pop / Pop Mart blind box style animations.\nTriggers: sticker, GIF, cartoon, emoji, expression pack, avatar animation.",
+  "repo": "MiniMax-AI/skills",
+  "path": "skills/gif-sticker-maker/SKILL.md",
+  "url": "https://github.com/MiniMax-AI/skills/tree/HEAD/skills/gif-sticker-maker/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 4400,
+  "truncated": false
+}

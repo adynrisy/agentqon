@@ -1,0 +1,11 @@
+{
+  "name": "geo-crawlers",
+  "display_name": "Geo Crawlers",
+  "description": "AI crawler access analysis.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/geo-crawlers/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/geo-crawlers/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 18443,
+  "truncated": false
+}

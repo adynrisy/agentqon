@@ -1,0 +1,11 @@
+{
+  "name": "guidance-llm-output",
+  "display_name": "Guidance LLM Output",
+  "description": "Control LLM output with regex and grammars, guarantee valid JSON/XML/code generation, enforce structured formats, and build multi-step workflows with Guidance - Microsoft Research's constrained generation framework",
+  "repo": "Orchestra-Research/AI-Research-SKILLs",
+  "path": "16-prompt-engineering/guidance/SKILL.md",
+  "url": "https://github.com/Orchestra-Research/AI-Research-SKILLs/tree/HEAD/16-prompt-engineering/guidance/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 14001,
+  "truncated": false
+}

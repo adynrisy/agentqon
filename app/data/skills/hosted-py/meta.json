@@ -1,0 +1,11 @@
+{
+  "name": "hosted-py",
+  "display_name": "Hosted Py",
+  "description": "Build hosted agents using Azure AI Projects SDK with HostedAgentDefinition. Use when creating container-based agents in Azure AI Foundry.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/hosted-agents-v2-py/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/hosted-agents-v2-py/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 11609,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "harness-fault-injection",
+  "display_name": "Harness Fault Injection",
+  "description": "Use when an agent workflow needs deterministic recovery evidence for sandbox, MCP/tool, worker, checkpoint, memory, or orchestration failures.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/agent-harness-fault-injection/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/agent-harness-fault-injection/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 11082,
+  "truncated": false
+}

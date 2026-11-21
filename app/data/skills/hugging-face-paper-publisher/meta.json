@@ -1,0 +1,11 @@
+{
+  "name": "hugging-face-paper-publisher",
+  "display_name": "Hugging Face Paper Publisher",
+  "description": "Publish and manage research papers on Hugging Face Hub. Supports creating paper pages, linking papers to models/datasets, claiming authorship, and generating professional markdown-based research articles.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/hugging-face-paper-publisher/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/hugging-face-paper-publisher/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 1289,
+  "truncated": false
+}

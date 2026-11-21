@@ -1,0 +1,11 @@
+{
+  "name": "hipaa-compliance",
+  "display_name": "HIPAA Compliance",
+  "description": "Implement HIPAA security and privacy rules. Configure PHI protections and BAA requirements. Use when handling healthcare data.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/hipaa-compliance/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/hipaa-compliance/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 16944,
+  "truncated": false
+}

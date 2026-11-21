@@ -1,0 +1,11 @@
+{
+  "name": "handoff-session-context",
+  "display_name": "Handoff Session Context",
+  "description": "Capture session context for a fresh agent. Use for handoffs, context limits, switching focus, ending sessions, or splitting work across sessions.",
+  "repo": "davidondrej/skills",
+  "path": "skills/agent-orchestration/handoff/SKILL.md",
+  "url": "https://github.com/davidondrej/skills/tree/HEAD/skills/agent-orchestration/handoff/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 4005,
+  "truncated": false
+}

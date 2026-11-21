@@ -1,0 +1,11 @@
+{
+  "name": "hugging-face-vision-trainer",
+  "display_name": "Hugging Face Vision Trainer",
+  "description": "Train object detection, image classification, and SAM or SAM2 segmentation models locally or on Hugging Face Jobs, with dataset validation and results saved to the Hub.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/hugging-face-vision-trainer/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/hugging-face-vision-trainer/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 4084,
+  "truncated": false
+}

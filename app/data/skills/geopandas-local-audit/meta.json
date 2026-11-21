@@ -1,0 +1,11 @@
+{
+  "name": "geopandas-local-audit",
+  "display_name": "Geopandas Local Audit",
+  "description": "Guidance and local audit tools for Python workflows that directly use GeoPandas GeoSeries, GeoDataFrame, spatial operations, or vector-data I/O.",
+  "repo": "K-Dense-AI/scientific-agent-skills",
+  "path": "skills/geopandas/SKILL.md",
+  "url": "https://github.com/K-Dense-AI/scientific-agent-skills/tree/HEAD/skills/geopandas/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 14896,
+  "truncated": false
+}

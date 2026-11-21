@@ -1,0 +1,11 @@
+{
+  "name": "go-playwright",
+  "display_name": "Go Playwright",
+  "description": "Expert capability for robust, stealthy, and efficient browser automation using Playwright Go.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/go-playwright/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/go-playwright/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 4652,
+  "truncated": false
+}

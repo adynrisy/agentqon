@@ -1,0 +1,11 @@
+{
+  "name": "grafana-dashboards-observability-monitoring",
+  "display_name": "Grafana Dashboards · Observability Monitoring",
+  "description": "Create and manage production Grafana dashboards for real-time visualization of system and application metrics. Use when building monitoring dashboards, visualizing metrics, or creating operational observability interfaces.",
+  "repo": "wshobson/agents",
+  "path": "plugins/observability-monitoring/skills/grafana-dashboards/SKILL.md",
+  "url": "https://github.com/wshobson/agents/tree/HEAD/plugins/observability-monitoring/skills/grafana-dashboards/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 7716,
+  "truncated": false
+}

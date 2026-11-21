@@ -1,0 +1,11 @@
+{
+  "name": "grill-docs-relentless",
+  "display_name": "Grill Docs · Relentless",
+  "description": "A relentless interview to sharpen a plan or design, which also creates docs (ADR's and glossary) as we go.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/grill-with-docs/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/grill-with-docs/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 1143,
+  "truncated": false
+}

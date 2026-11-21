@@ -1,0 +1,11 @@
+{
+  "name": "huggingface-zerogpu",
+  "display_name": "Huggingface Zerogpu",
+  "description": "AI demos and GPU compute with Gradio Spaces and Hugging Face Spaces ZeroGPU.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/huggingface-zerogpu/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/huggingface-zerogpu/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 18088,
+  "truncated": false
+}

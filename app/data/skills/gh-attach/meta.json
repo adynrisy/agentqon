@@ -1,0 +1,11 @@
+{
+  "name": "gh-attach",
+  "display_name": "Gh Attach",
+  "description": "Upload and download GitHub user-attachments (screenshots, PDFs, zips, videos) from the terminal; use when asked to attach or embed a file in a PR, issue, or comment, or download an attachment URL.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "skills/gh-attach/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/skills/gh-attach/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 5481,
+  "truncated": false
+}
