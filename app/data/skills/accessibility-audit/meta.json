@@ -1,0 +1,11 @@
+{
+  "name": "accessibility-audit",
+  "display_name": "Accessibility Audit",
+  "description": "Read-only WCAG audit of UI and markup with a concrete fix per finding. Use when asked to check accessibility, a11y, keyboard or screen-reader support, or contrast.",
+  "repo": "khasky/awesome-agent-skills",
+  "path": "skills/awesome-accessibility-audit/SKILL.md",
+  "url": "https://github.com/khasky/awesome-agent-skills/tree/HEAD/skills/awesome-accessibility-audit/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 14057,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "adhx-post-clean",
+  "display_name": "Adhx Post Clean",
+  "description": "Fetch any X/Twitter post as clean LLM-friendly JSON. Converts x.com, twitter.com, or adhx.com links into structured data with full article content, author info, and engagement metrics. No scraping or browser required.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/adhx/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/adhx/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 4760,
+  "truncated": false
+}

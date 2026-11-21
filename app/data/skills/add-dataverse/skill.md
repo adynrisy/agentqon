@@ -1,0 +1,1015 @@
+<!--
+Source: microsoft/power-platform-skills
+Path: plugins/mobile-apps/skills/add-dataverse/SKILL.md
+License: MIT
+URL: https://github.com/microsoft/power-platform-skills/tree/HEAD/plugins/mobile-apps/skills/add-dataverse/SKILL.md
+-->
+
+> **Plugin check**: Run `node "${PLUGIN_ROOT}/scripts/check-version.js"` - if it outputs a message, show it to the user before proceeding.
+
+**📋 Shared instructions: [shared-instructions.md](${PLUGIN_ROOT}/shared/shared-instructions.md)** — read first.
+
+# Add Dataverse
+
+**App root:** before any project read or command, execute
+[app-working-directory.md](${PLUGIN_ROOT}/shared/references/app-working-directory.md).
+Use its resolved absolute `working_dir` for every shell call and file tool,
+including referenced commands and delegated skills; never inherit a prior `cd`.
+
+**Entry routing:** use the shared [App feature entry points](../../shared/shared-instructions.md#app-feature-entry-points)
+preflight before the workflow below.
+
+**Invocation scope:** follow [Data-source invocation scope](../../shared/shared-instructions.md#data-source-invocation-scope)
+before the workflow below. Standalone calls use this skill's own data-delta
+approval and verification; do not start a full-app plan or screen workflow.
+
+An existing plan alone does not mean it includes or approves the new request;
+never replay the old Data Model instead of resolving the requested delta.
+
+**Removal branch:** after resolving invocation scope, `--remove` or an approved app-binding
+removal executes
+[data-source-removal.md](../../shared/references/data-source-removal.md), then
+returns without entering Steps 1-9. Removing a plan row is not implemented by
+re-running table creation or by deleting Dataverse metadata. For a mixed edit,
+the owner adds/refreshes first and invokes removal separately after consumer edits.
+
+**Refresh branch:** after resolving invocation scope, `--refresh` or an approved service-only
+refresh executes [Refresh a retained source](../../shared/references/data-source-removal.md#refresh-a-retained-source)
+and returns before Steps 1-9. Preserve the exact `--data-source-name` and approved
+binding identity. Do not replay schema writes, publish, or run `add-data-source`.
+
+Two paths:
+
+- **Existing tables only** — resolve the current scope in Steps 1–2, then skip schema writes and use Step 6 to add only missing approved bindings or refresh approved retained sources.
+- **New / extended tables** — full workflow with Web API mutations in dependency order
+
+## Workflow
+
+1. Verify project & auth → 2. Resolve plan/operation manifest → 3. Setup Dataverse Web API auth → 4. Validate manifest or reconcile live metadata → 5. Execute sequential metadata phases → 6. Add data sources → 6b. Publish fallback customizations → 6c. Verify tables → 6d. Write manifest → 7. Inspect generated files → 8. Type-check → 8.5. Offline profile reconciliation → 9. Summary
+
+---
+
+### Step 1 — Verify project & auth
+
+Confirm Power Apps mobile app:
+
+For `--plan-only` or a planning-phase handoff, check the app files read-only and
+use the shared proposal-only environment-context rule. Use the same non-persisting
+lookup before approval in a normal invocation. Incomplete or conflicting context
+returns `NEEDS_CONTEXT` after read-only recovery; never remove the safety flags
+or redirect output into configuration to make planning succeed.
+
+```bash
+cd -- '<working_dir>' || { echo "BLOCKED: cannot enter working_dir" >&2; exit 1; }
+if [ ! -f power.config.json ] || [ ! -f app.config.js ]; then
+  echo "BLOCKED: working_dir is not an initialized app" >&2
+  exit 1
+fi
+node "${PLUGIN_ROOT}/scripts/resolve-environment.js" "<selected-environment-id>" --no-cache --require-tenant
+```
+
+Read `<selected-environment-id>` from this app's `power.config.json`. Capture the
+**environment URL** (for example `https://contoso.crm.dynamics.com`),
+**environment ID**, and **tenant ID** from the resolver for Step 3. Use the
+owner's absolute `working_dir` for every command and artifact.
+
+### Step 2 — Resolve plan
+
+**Telemetry checkpoint: `resolve_dataverse_schema_plan`**
+
+Look for `native-app-plan.md` in the project root:
+
+```bash
+cd -- '<working_dir>' || { echo "BLOCKED: cannot enter working_dir" >&2; exit 1; }
+test -f native-app-plan.md
+```
+
+**Resolve the current request before consuming an existing plan.** A direct
+standalone invocation must compare its requested tables/columns/service
+changes with the existing plan and read-only live evidence. Present and approve
+that exact delta at Step 2.7 after shared planning validation, then save only
+the accepted plan changes before implementation.
+If the request adds nothing, verify the existing outcome and report a no-op;
+do not apply other pending rows. If intent or scope is missing, ask or return
+`NEEDS_CONTEXT` without mutation. An explicit request to apply the whole existing
+plan still requires approval of the reconciled operation set.
+For an approved child call, use only the supplied current `approved_scope`.
+In either case, `--plan-only` returns the proposal and STOPs before plan saving,
+approval-receipt creation, service generation, or Steps 3–9; a planning-phase
+caller has the same proposal-only boundary.
+
+Before reading plan content, inspect `$ARGUMENTS` for the five fast-path
+artifact flags in Step 2a. When all are present, only confirm
+`native-app-plan.md` exists for hash validation; do not parse its Data Model
+section or build operations/service lists from Markdown.
+
+For all non-fast-path Dataverse proposals from `/setup-datamodel`, `/edit-app`, or
+a standalone request, including an existing-plan delta, read and execute
+[dataverse-change-planning.md](../../shared/references/dataverse-change-planning.md).
+Use its scoped evidence/contract for the diagram, architect, or inline path.
+An approved child with `planning_snapshot`, `architect_evidence`, and
+`schema_contract` instead enters Step 2b to verify that supplied scope; it must
+not rediscover or re-approve it. New-binding requests use this planning path;
+service-only refreshes and retirements have already returned from their branches.
+
+Older callers may not supply the new structured handoff. Do not assume compact
+evidence or complete approval from the caller's name. Without a complete approved
+handoff, resolve the current requested delta and use this leaf's normal proposal
+and Step 2.7 approval path before execution. Resolve required invocation context
+first; a missing or conflicting child root still returns `NEEDS_CONTEXT` before
+project access. Never silently replay the saved plan or treat `--skip-planning`
+as consent.
+
+An approved legacy child without compact-planning artifacts keeps the supported
+Markdown/live-reconciliation path below only when its current request, absolute
+root, implementation phase, and exact approved delta are all established.
+Never use this legacy path to bypass a partial or invalid compact-planning
+handoff, or to skip setup/standalone proposal validation.
+
+**Legacy input only, if present and `<operation_manifest_mode> = fallback`
+without a shared scoped contract:** read the
+`## Data Model` section. Extract:
+- The target reconciliation table (`reuse` / `extend` / `create` / `adapt` / `defer` decisions and evidence)
+- The Mermaid ER diagram (informational)
+- The "Creation Order" tier list
+- Every table referenced by `## Screens`, identity resolution, related-entity fields, forms, dashboards, or shared hooks, including standard reused tables such as `systemuser`, `contact`, and `account`
+
+For legacy callers without scoped planning artifacts, build
+`SERVICE_REQUIRED_TABLES` as the union of:
+1. every non-deferred row in Target Reconciliation (`reuse`, `extend`, `create`, or `adapt`);
+2. every table in Creation Order;
+3. every table named by screen/hook data requirements.
+
+Keep this full service inventory as retained context. Only the current approved
+delta and its necessary dependencies enter live schema reconciliation. With a
+complete approved legacy handoff, proceed to Step 3 after this initialization;
+do not repeat proposal Steps 2.5–2.7 or require new compact artifacts from that
+owner. A planning-phase caller still returns without implementation.
+
+For the shared scoped path, use the normalized contract's non-deferred
+`serviceRequired` declarations instead. Keep the broader existing-app service
+inventory as retained context, not a registration or mutation work list.
+
+**Hard rule:** `reuse` means "do not mutate schema"; it does **not** mean "skip generated service." If app code reads or writes a reused table, that table must be in `SERVICE_REQUIRED_TABLES`.
+
+Carry forward any `adapt` (auto-renamed) and `defer` (out-of-scope this run) decisions with their recorded reasons, and apply the alias map to every name you use. A data-modelling conflict never halts this skill — it resolves to `adapt` or `defer` and is reported in Step 9.
+This classification belongs to planning: after approval, a changed decision
+returns to the owner for revision/approval before any write.
+
+For a scoped handoff, restrict schema writes to the exact `approved_scope` delta;
+unaffected plan rows are context, not permission to replay their mutations.
+Apply the same restriction to the newly approved standalone request delta.
+Retain the full required-service set for existing screens. If reconciliation
+would change an approved name, storage target, or screen contract, return the
+proposed adaptation to the owner (or standalone user) before writing. Report
+dependent consumer changes for separate approval; do not silently rename
+underneath the app or treat data approval as permission to edit screens.
+
+**If absent:** check `$ARGUMENTS` for diagram hints (`*.png`, `*.jpg`, `*.jpeg` filename, `erDiagram` keyword, `||--o{` cardinality syntax). 
+
+- **Diagram hint present** → Path A (Step 2.5).
+- **No hint AND `$ARGUMENTS` describes what the app does** (the typical case) → silently take Path B (Step 2.6 — spawn architect). No prompt.
+- **No hint AND `$ARGUMENTS` is empty / non-descriptive** → only then prompt with `AskUserQuestion`:
+
+  > "How would you like to define the data model?
+  > (a) I have an existing ER diagram to upload (PNG/JPG path, Mermaid syntax, or text description)
+  > (b) Let the data-model-architect agent analyze and propose one (default)
+  > (c) Cancel — I'll plan it elsewhere first"
+
+  Recommend (b), but wait for an explicit answer. Empty input is not approval;
+  cancellation stops the workflow without planning or mutation. A supplied
+  description may select the read-only architect path, not approve its result.
+
+With an existing plan and a new request, take the same diagram or architect/
+inline proposal path for only that delta, then Step 2.7. Do not skip validation
+because a saved plan exists.
+
+#### Step 2a — Approved operation-manifest fast path
+
+When `$ARGUMENTS` supplies all five paths below, record
+`<operation_manifest_mode> = candidate`:
+
+- `--schema-contract <working_dir>/.tmp/dataverse-schema-contract.json`
+- `--approval-receipt <working_dir>/.tmp/mobile-plan-status.json`
+- `--execution-reconciliation <working_dir>/.tmp/dataverse-execution-reconciliation.json`
+- `--operation-manifest <working_dir>/.tmp/dataverse-operation-manifest.json`
+- `--publish-checkpoint <working_dir>/.tmp/dataverse-publish-pending.json`
+
+Do not reconstruct tables, columns, relationships, keys, payloads, tiers, or
+service requirements from Markdown on this path. The gate-owned approval receipt binds
+the exact structured contract content/hash, final plan hash, and final
+screen/service dependency list; `native-app-plan.md` remains the human review
+artifact.
+
+An entirely absent fast-path handoff means
+`<operation_manifest_mode> = fallback` and preserves the standalone workflow
+below, beginning with Step 2 initialization. A partially supplied handoff, or
+a supplied manifest/contract/reconciliation/checkpoint that is malformed, stale,
+incomplete, or bound to different context/files, must fail closed: print the
+exact validation errors and return control to the orchestrator. Never jump to
+Step 4 without Step 2 initialization, partially trust a candidate, or mix its
+operations with agent-derived operations.
+
+For an approved implementation candidate, continue to Step 3 and the existing
+Step 3c manifest validation; skip Steps 2b and 2.5–2.7. Supplied execution
+artifacts never override `--plan-only` or a planning-phase caller: those calls
+return the proposal without entering Step 3.
+
+#### Step 2b — Approved scoped planning context
+
+Enter only for a shared compact-planning handoff, not an approved legacy child
+or a creation fast-path candidate. The data owner passes the
+absolute `planning_snapshot`, `architect_evidence`, and `schema_contract` paths
+plus accepted operations, `contract_sha256`, and `plan_sha256` in
+`approved_scope`. Require all fields and real implementation approval;
+partial, missing, changed, or mismatched context returns `NEEDS_CONTEXT` to
+the owner, never a fallback to whole-plan replay or fresh approval inference.
+
+Before Step 3, compare SHA-256 of the contract and final plan file bytes with
+those frozen approval hashes, verify the selected target identity, and run the
+shared compact-evidence and decision validators against the supplied artifacts.
+Do not overwrite either hash to accept changed files. Read mutation intent
+from the normalized scoped contract, not historical Markdown rows; retain
+unaffected generated services. A proposal-only caller returns without mutation.
+
+After success, keep `<operation_manifest_mode> = fallback` for the existing
+standalone execution/reconciliation path, skip Steps 2.5–2.7, and proceed to
+Step 3. Planning evidence is not fresh write evidence: Step 4 still reconciles
+only this accepted delta and its required dependencies against the live target.
+Do not fabricate a `create-mobile-app` receipt or partially supply Step 2a flags.
+
+### Step 2.5 — Path A: Parse user-provided diagram
+
+Used when the user has an existing diagram from another tool (Visio, dbdiagram.io, screenshot, hand-drawn).
+
+Accept three input formats:
+
+| Format | How |
+|---|---|
+| **Image path** (`*.png` / `*.jpg` / `*.jpeg`) | Use `Read` on the file path. The vision-capable model extracts entities, columns, relationships. |
+| **Mermaid syntax** | User pastes a `erDiagram` block in chat. Parse the entities, columns, and `\|\|--o{` cardinalities directly. |
+| **Text description** | Parse the requested entities/relationships as intent, then use the shared snapshot-only architect handoff with the text and scoped compact evidence. |
+
+Whichever format, normalize into the same structure used by the planner agent:
+
+```yaml
+publisherPrefix: <from detected publisher prefix or user>
+tables:
+  - logicalName: contoso_servicevisit
+    displayName: Service Visit
+    status: new   # new | extend | reuse
+    columns: [...]
+    relationships: [...]
+```
+
+Then follow the shared planning workflow to generate `_dm_section.md` with
+the Mermaid diagram and a normalized `.tmp/dataverse-schema-contract.json`
+from compact evidence. Run its decision validation for the diagram just as for
+an architect result, then continue to Step 2.7. Do not save the live plan here.
+
+### Step 2.6 — Path B: Spawn architect agent
+
+If the user picked Path B, use the shared workflow's
+`mobile-app:data-model-architect` handoff with `Dataverse planning mode: required`,
+the absolute snapshot/compact-evidence paths, the scoped request, and planning/
+proposal-only context. Require `_dm_section.md` and the normalized contract.
+If the host cannot spawn agents, produce both inline from that same evidence.
+Use the shared structured-signal recovery before generic retries. A diagram
+parse failure requires resolving the intended entities, not silently inventing
+a replacement model.
+
+If they need new tables and refuse both paths, recommend `/setup-datamodel` for
+data-only planning and stop. Do not start another workflow without a new request.
+
+### Step 2.7 — Validate and approve the standalone delta
+
+For every new standalone proposal, require exit `0` from
+`validate-dataverse-planning-decisions.js` for the current normalized contract
+and snapshot before presenting the existing approval gate. This includes
+diagrams, architect results, inline fallbacks, and edits to an existing plan.
+If either `--plan-only` or a planning-phase caller applies, return the validated
+proposal and STOP before saving the live plan or granting execution permission.
+
+Otherwise show the exact delta and its concerns with `EnterPlanMode`. Approval
+saves only that delta into `native-app-plan.md`, preserving unaffected sections.
+Freeze the shared planning paths, accepted operations, and current
+`contract_sha256` / `plan_sha256` as this invocation's approved context; verify
+it using Step 2b before implementation. Revision repeats planning validation;
+cancellation stops without saving or mutation. Already-approved scoped child
+calls and valid creation fast-path calls do not repeat this gate.
+
+### Step 3 — Setup Dataverse Web API auth
+
+Required only after implementation approval. For approved existing-table
+bindings with no schema mutation, skip to Step 6, not the schema-write phases.
+
+#### Step 3a — Environment consistency check
+
+The Power Apps CLI (`$PA`) and `az` authenticate independently — they can point to different accounts. Verify `power.config.json` resolves and `az` can token for the target tenant before making any Dataverse API calls:
+
+```bash
+cd -- '<working_dir>' || { echo "BLOCKED: cannot enter working_dir" >&2; exit 1; }
+ENVIRONMENT_ID=$(node -p "require('./power.config.json').environmentId") || exit 1
+ENV_JSON=$(node "${PLUGIN_ROOT}/scripts/resolve-environment.js" "$ENVIRONMENT_ID") || exit 1
+echo "$ENV_JSON"
+az account show --query "{user: user.name, tenant: tenantId}" -o json
+```
+
+Compare the resolved environment URL with `<envUrl>` captured in Step 1. If they differ, **STOP** and warn:
+
+> "⚠️ Environment mismatch detected:
+> - resolver reports: `<resolved_env_url>`
+> - This project targets: `<envUrl>`
+>
+> The Dataverse API token comes from `az`, which must target the same tenant as the selected environment. Run:
+> ```bash
+> cd -- '<working_dir>' || { echo "BLOCKED: cannot enter working_dir" >&2; exit 1; }
+> az login --tenant <tenant-id>      # switch az to the right tenant
+> ```
+> Then re-run `/add-dataverse`."
+
+**Do NOT proceed with table creation if environments don't match** — you'll create tables in the wrong org.
+
+#### Step 3b — Acquire token
+
+```bash
+cd -- '<working_dir>' || { echo "BLOCKED: cannot enter working_dir" >&2; exit 1; }
+az account show --query "user.name" -o tsv
+```
+
+If empty, instruct `az login` and stop.
+
+**Script invocation contract — read this once, all subsequent calls in this skill follow it:**
+
+```bash
+cd -- '<working_dir>' || { echo "BLOCKED: cannot enter working_dir" >&2; exit 1; }
+node "${PLUGIN_ROOT}/scripts/dataverse-request.js" <envUrl> <METHOD> <apiPath> \
+  [--body '<json>'] [--include-headers] \
+  --tenant-id '<tenantId-from-resolve-environment>'
+```
+
+- Three positional args, in order: `<envUrl>`, `<METHOD>` (GET / POST / PATCH / DELETE), `<apiPath>` (everything after `/api/data/v9.2/`).
+- **Body is a flag, not positional.** `--body '<json>'` — required for POST/PATCH, never for GET/DELETE. Forgetting `--body` and passing the JSON as a 4th positional arg returns a usage error.
+- `--include-headers` adds response headers (needed for `OData-EntityId` after a record create).
+- Output is JSON: `{ "status": <code>, "data": <body> }`. Token refresh on 401 and back-off on 429 are automatic — never wrap with manual retry.
+
+**Pass the resolved tenant explicitly (HARD — saves discovery and survives fresh shells).** `resolve-environment.js` already returned `tenantId` in Step 1. Substitute that literal value into every `--tenant-id` argument; do not rely on an exported or shell-local variable because separate tool executions may use fresh shells.
+
+If the tenant is unknown, omit `--tenant-id` — discovery still works, it is just slower.
+
+Acquire a Dataverse access token and verify connectivity:
+
+```bash
+cd -- '<working_dir>' || { echo "BLOCKED: cannot enter working_dir" >&2; exit 1; }
+node "${PLUGIN_ROOT}/scripts/dataverse-request.js" <envUrl> GET WhoAmI \
+  --tenant-id '<tenantId-from-resolve-environment>'
+```
+
+The explicit tenant is also reused for token refresh after a 401 and takes
+priority over shell environment variables and Azure account discovery.
+
+`WhoAmI` is the Dataverse identity endpoint — capital W/A/I (case-sensitive). The response gives `UserId`, `BusinessUnitId`, `OrganizationId` but **does NOT include the publisher prefix**. To get the publisher prefix, query the solution's publisher (defaults to `Default`; pass a different solution name if the env uses a custom solution):
+
+```bash
+cd -- '<working_dir>' || { echo "BLOCKED: cannot enter working_dir" >&2; exit 1; }
+node "${PLUGIN_ROOT}/scripts/detect-publisher-prefix.js" <envUrl> [solutionName] \
+  --tenant-id '<tenantId-from-resolve-environment>'
+# solutionName defaults to "Default" if omitted
+```
+
+This runs the OData query:
+`/api/data/v9.2/solutions?$select=uniquename&$expand=publisherid($select=customizationprefix)&$filter=uniquename eq '<solutionName>'`
+
+Capture `customizationprefix` from the solution's publisher (typical value: `cr123` → schema names like `cr123_jobsite`). Also capture the solution `uniquename` — needed for the `--solution` flag on every Step 5 / 5b POST so artifacts land in our solution rather than landing wherever Dataverse defaults. Write both to `memory-bank.md` Power Platform context block.
+
+Requires the user to hold **System Administrator** or **System Customizer** in this environment.
+
+When `<operation_manifest_mode> = candidate`, validate the manifest now against
+the resolved environment, tenant (when available), publisher, solution, current
+plan bytes, structured-schema bytes, and fresh reconciliation bytes:
+
+```bash
+cd -- '<working_dir>' || { echo "BLOCKED: cannot enter working_dir" >&2; exit 1; }
+node "${PLUGIN_ROOT}/scripts/build-dataverse-operation-manifest.js" \
+  --validate '<operation-manifest-path>' \
+  --contract '<schema-contract-path>' \
+  --approval-receipt '<approval-receipt-path>' \
+  --reconciliation '<execution-reconciliation-path>' \
+  --plan '<working_dir>/native-app-plan.md' \
+  --environment-id "<environmentId>" \
+  --env-url "<envUrl>" \
+  --tenant-id "<tenantId>" \
+  --publisher-prefix "<customizationprefix>" \
+  --solution "<solution-uniquename>" \
+  --publish-checkpoint '<publish-checkpoint-path>' \
+  --require-executable
+```
+
+Validation deterministically rebuilds the expected manifest from the bound
+structured schema, fresh reconciliation, plan, context, and pending-publish checkpoint, then
+compares the complete decisions, services, aliases, phases, API paths, and
+bodies. If validation fails, print every reported mismatch and fail closed to
+the orchestrator. Do not execute or salvage individual operations and do not
+switch a supplied candidate to the standalone fallback.
+
+Validate with `--require-executable`. Step 8 already performed the one fresh
+bounded reconciliation for every approved exact table and all of its
+columns/relationships/keys, including the child/parent/M:N relationship
+capability managed properties. Missing capability evidence fails closed. If
+the manifest remains non-executable, report its
+verification conflicts to the orchestrator. Do not add another read loop,
+change an approved decision, or enter fallback mode. A non-executable
+candidate authorizes no metadata write.
+
+If validation with `--require-executable` succeeds, set
+`<operation_manifest_mode> = valid` and continue directly to Step 5's manifest
+execution branch. This is the fast-v2 path: it skips the repeated
+agent-driven full reconciliation, not any safety check.
+
+### Step 4 — Reconcile every planned table and column against the target
+
+**Telemetry checkpoint: `reconcile_dataverse_schema`**
+
+If `<operation_manifest_mode> = valid`, print:
+
+> `✓ Approved operation manifest validated — complete fresh reconciliation and derived metadata coverage are bound to this environment.`
+
+Use its `decisions` as the reconciliation matrix and skip the remainder of
+Step 4/4a. Continue to Step 5. A valid manifest has no `unverified` items; its
+explicit `reuse`, `adapt`, and `defer` rows remain visible in the final
+summary.
+
+**Print before starting:**
+> "→ Reconciling every planned table and column against live target metadata before any write…"
+
+Do not use the custom-table list as the source of truth, and do not issue one request per table. Fetch **every** plan entry (`Reuse`, `Extend`, or `Create`) — including standard and managed dependencies — in a **single** filtered query that also expands their columns:
+
+On the scoped planning path, "every plan entry" means only the approved
+normalized contract and its required dependencies, never all saved-plan rows.
+Do not substitute the planning snapshot or inventory cache for this live read.
+
+```bash
+cd -- '<working_dir>' || { echo "BLOCKED: cannot enter working_dir" >&2; exit 1; }
+node "${PLUGIN_ROOT}/scripts/dataverse-request.js" <envUrl> GET \
+  "EntityDefinitions?\$select=MetadataId,LogicalName,SchemaName,IsCustomEntity,IsManaged,IsCustomizable,CanCreateAttributes,PrimaryIdAttribute,PrimaryNameAttribute&\$filter=LogicalName eq '<table1>' or LogicalName eq '<table2>'&\$expand=Attributes(\$select=MetadataId,LogicalName,AttributeType,AttributeTypeName,RequiredLevel,IsManaged,IsCustomizable,IsPrimaryId,IsPrimaryName,SourceType,SourceTypeMask)" \
+  --tenant-id '<tenantId-from-resolve-environment>'
+```
+
+Build the `$filter` by OR-ing every planned logical name. This is the [documented way to query multiple table definitions at once](https://learn.microsoft.com/power-apps/developer/data-platform/query-schema-definitions#basic-retrievemetadatachanges-example), and it replaces 2N requests (one entity GET plus one attributes GET per table) with one. Keep the `$expand` `$select` list to base `AttributeMetadata` properties only — a single query [cannot cast to a derived column type](https://learn.microsoft.com/power-apps/developer/data-platform/query-schema-definitions#evaluate-other-options-to-retrieve-schema-definitions), so fetch `OptionSet` details separately for the rare column that needs them.
+
+Read the results as follows:
+
+- **A planned name present in `value[]`** — the table exists. Cache its expanded `Attributes` as that table's **attribute snapshot** for Steps 5a and 5b.
+- **A planned name absent from `value[]`** — the table does not exist. This is the equivalent of a 404 in the matrix below.
+- Interpret `IsCustomizable` and `CanCreateAttributes` as managed properties and read their `.Value` fields.
+
+If the batched query itself fails (non-2xx), retry it once; if it fails again, split it into per-table queries so one unreadable name cannot hide the rest. Any name still unreadable after that is `unverified`: STOP before writes for that reconciliation scope. Authentication, permission, timeout, and malformed-response failures are not evidence that a name is free. If the URL would exceed a practical length with very many tables, split it into a few filtered queries — still far fewer than one request per table.
+
+**Only if the plan contains alternate keys or M:N relationships**, add the matching expands so Steps 5b and 5d never need their own per-item probes. `EntityDefinitions` also supports expanding [`Keys`, `ManyToManyRelationships`, `ManyToOneRelationships`, and `OneToManyRelationships`](https://learn.microsoft.com/power-apps/developer/data-platform/query-schema-definitions#evaluate-other-options-to-retrieve-schema-definitions):
+
+```text
+&$expand=Attributes($select=...),Keys($select=SchemaName,KeyAttributes,EntityKeyIndexStatus),ManyToManyRelationships($select=SchemaName)
+```
+
+Do not add these expands when the plan has no keys or M:N relationships — they enlarge the response for no benefit, and standard tables carry many of both.
+
+#### Step 4a — Targeted derived-metadata barrier
+
+The base attribute snapshot is sufficient for ordinary columns, but it cannot
+prove that a same-named lookup, choice, Boolean, or computed column has the same
+semantics. Before classifying any such existing column as compatible:
+
+1. Write the planned derived-column contract to
+   `<working_dir>/.tmp/derived-metadata-expected.json`. Each row contains:
+   `table`, `logicalName`, `kind`, `type`, `sourceType`, plus:
+   - `lookupTarget` for lookups;
+   - exact integer/label `options` for Choice, MultiSelect Choice, and Boolean;
+   - exact `sourceTypeMask` and serialized `formulaDefinition` for an explicitly
+     approved, maker-created computed dependency.
+2. Build one `BATCH-METADATA` GET operation list for the affected existing
+   tables only. Reuse one process/token and query:
+   - `ManyToOneRelationships` once per child table containing planned lookups;
+   - the applicable derived attribute collections
+     (`PicklistAttributeMetadata`, `MultiSelectPicklistAttributeMetadata`,
+     `BooleanAttributeMetadata`) once per table/type, expanding `OptionSet`;
+   - the applicable typed attribute collection once per table/type for any
+     explicitly reused computed column, selecting
+     `LogicalName,SourceType,SourceTypeMask,FormulaDefinition`.
+
+   Do not issue one process per column and do not scan every customizable table.
+   The exact planned names from Step 4 are the scope.
+   Write the operation array to
+   `<working_dir>/.tmp/derived-metadata-operations.json`, then run:
+
+   ```bash
+   cd -- '<working_dir>' || { echo "BLOCKED: cannot enter working_dir" >&2; exit 1; }
+   node "${PLUGIN_ROOT}/scripts/dataverse-request.js" <envUrl> \
+     BATCH-METADATA derived-reconciliation \
+     --operations "$(cat '<working_dir>/.tmp/derived-metadata-operations.json')" \
+     --tenant-id '<tenantId-from-resolve-environment>'
+   ```
+
+   Do not pass `--continue-on-error`; the first unreadable required metadata
+   collection must stop the barrier.
+3. Any non-2xx response, missing result slot, malformed option metadata, absent
+   lookup target, or unavailable `FormulaDefinition` makes that scope
+   `unverified`. **STOP before writes.** Authentication, throttling, permission,
+   and parse failures are never compatibility evidence.
+4. Normalize the live results into
+   `<working_dir>/.tmp/derived-metadata-live.json`. Each row uses:
+   `table`, `logicalName`, `type`, `sourceType`, `sourceTypeMask`,
+   `lookupTargets`, `options: [{ value, label }]`, and `formulaDefinition`.
+   Lookup target arrays must contain exactly the approved target. Choice
+   mappings must be non-empty with unique integer values and non-empty labels;
+   Boolean mappings must contain exactly values 0 and 1. Then run:
+
+   ```bash
+   cd -- '<working_dir>' || { echo "BLOCKED: cannot enter working_dir" >&2; exit 1; }
+   node "${PLUGIN_ROOT}/scripts/validate-derived-metadata.js" \
+     --expected '<working_dir>/.tmp/derived-metadata-expected.json' \
+     --actual '<working_dir>/.tmp/derived-metadata-live.json'
+   ```
+
+5. A lookup is compatible only when its complete target set matches. Planned choice
+   values must exist with the same labels; extra live values are allowed.
+   Ordinary planned columns require `SourceType` 0. A maker-created computed
+   dependency is reusable only when its source type, source-type mask, and exact
+   `FormulaDefinition` match the approved artifact; the `Invalid` mask bit
+   always blocks reuse.
+
+This phase is read-only and uses the V2 long-lived executor. It must not add
+per-column child-process/token overhead back into the fast path.
+
+Build and print a reconciliation matrix before Step 5:
+
+| Target result | Table decision | Column decisions | Action |
+|---|---|---|---|
+| Present; all planned base and derived metadata compatible | `reuse` | existing columns `reuse` | No schema write. |
+| Present; custom columns missing; table customizable and can create attributes | `extend` | compatible `reuse`; absent custom `create` | Queue missing ordinary columns for sequential creation; relationships remain Pass 2. |
+| Absent; plan says Create; logical name uses the verified publisher prefix | `create` | ordinary columns `create` inline; lookups deferred | Create once after the complete-payload self-check. |
+| Absent; plan says Reuse/Extend or dependency is standard/managed/required-existing | `defer` | dependent columns `defer` | Never recreate a standard or managed table. Drop the dependent lookups/columns from this run, continue with everything else, and list them under Deferred in Step 9. |
+| Present; same-name column has incompatible `AttributeType` / `AttributeTypeName.Value` | `extend` | incompatible column `adapt` | Auto-rename the planned column via the probe sequence below, record it in the alias map, and create it alongside the existing one. Never modify or delete the existing column. |
+| Present; columns missing but `IsCustomizable.Value=false` or `CanCreateAttributes.Value=false` | `reuse` | missing columns `defer` | The target cannot be extended by this workflow. Reuse the columns that do exist, drop the rest from this run, and list them under Deferred in Step 9. |
+| Batched query failed (non-2xx) after retry and per-table split | `unverified` | unknown | STOP before writes for the affected reconciliation scope and surface the concrete environment/auth/permission error. |
+
+`replace` is not an automatic state in this workflow. Replacing a table or column requires an explicitly approved migration with dependency analysis and data movement, so a conflict resolves to `adapt` (rename beside it) or `defer` (leave it out) instead — both of which leave existing data untouched.
+
+**Decide-before-write barrier (HARD):** finish reconciliation for every table and column before the first metadata write. Every item must come out of Step 4 as `reuse`, `extend`, `create`, `adapt`, or `defer` — never as an unresolved conflict. Deciding renames up front is what keeps relationships, screens, and sample data pointing at the same names.
+
+**No dead ends (HARD):** a data-modelling conflict must never stop the run. Adapt it (rename beside the existing object) or defer it (drop it from this run), then keep going and report it in Step 9. Only environment faults stop this skill — failed auth, an environment mismatch, or a target the user has no privilege to write to. Those are not data-modelling problems and the user cannot resolve them by editing the plan.
+
+**Idempotency criterion (HARD):** re-running this skill against an already-applied plan MUST perform **zero** metadata writes. Every table, column, relationship, key, and calc column resolves to `reuse` or an "already exists, skipped" outcome from the Step 4 snapshot. If a re-run issues any POST, the reconciliation missed something — report it rather than writing. Use this as the acceptance check after any change to Steps 4, 5, or 5a–5d.
+
+### Step 5 — Create / extend tables
+
+**Telemetry checkpoint: `apply_dataverse_schema_changes`**
+
+#### Valid operation-manifest execution branch
+
+When `<operation_manifest_mode> = valid`, do not have an agent rebuild request
+bodies. Read `execution.phases` in this fixed order:
+
+1. `tableCreates` — dependency-tier table creates with all ordinary columns
+   inline;
+2. `extensions` — missing ordinary columns on existing tables;
+3. `relationships` — lookups/1:N and M:N after both endpoints exist;
+4. `alternateKeys` — after target tables and columns exist;
+5. `publish` — one `PublishXml` operation only when earlier phases contain
+   writes or a bound publish-pending checkpoint requires retry.
+
+For each non-empty phase, write just that phase's `operations` array to
+`<working_dir>/.tmp/dataverse-operation-phase-<name>.json`. Read
+`integritySha256` and `binding.reconciliationSha256` from the validated
+manifest, then execute every phase with the same project-local atomic journal:
+
+```bash
+cd -- '<working_dir>' || { echo "BLOCKED: cannot enter working_dir" >&2; exit 1; }
+EXECUTION_JOURNAL='<working_dir>/.tmp/dataverse-metadata-execution-journal.json'
+ALL_MANIFEST_OPERATIONS='<working_dir>/.tmp/dataverse-operation-all.json'
+# Write the flattened operations from every manifest phase to ALL_MANIFEST_OPERATIONS once.
+
+node "${PLUGIN_ROOT}/scripts/dataverse-request.js" <envUrl> \
+  BATCH-METADATA "manifest-<phase-name>" \
+  --operations "$(cat '<working_dir>/.tmp/dataverse-operation-phase-<name>.json')" \
+  --solution "<solution-uniquename>" \
+  --tenant-id "<tenantId>" \
+  --journal "$EXECUTION_JOURNAL" \
+  --manifest-file "$OPERATION_MANIFEST" \
+  --manifest-hash "<manifest.integritySha256>" \
+  --reconciliation-hash "<manifest.binding.reconciliationSha256>" \
+  --manifest-operations "$(cat "$ALL_MANIFEST_OPERATIONS")"
+```
+
+Wait for the entire phase to finish before starting the next. This executor is
+not OData `$batch`; it sends one request at a time, reuses one token, preserves
+manifest order, and stops on the first non-2xx response. Never pass
+`--continue-on-error`, never parallelize phases or operations, and never
+execute `service.requiredTables` through BATCH-METADATA.
+The runner verifies the manifest file's integrity hash, requires the supplied
+operation array to equal one complete manifest phase byte-for-byte, and rejects
+that phase until every operation in preceding phases is journal-complete.
+
+The runner atomically writes `inFlight` before each request and records each
+successful operation before moving to the next. Completed fingerprints are
+based on stable request identity, not the positional index; the complete
+manifest's unique zero-based order is validated separately. Completed
+fingerprints are skipped on an exact resume. If a process may have exited after Dataverse
+accepted a request but before the journal completion write, the runner fails
+with `UNCERTAIN_METADATA_OPERATION`; do not replay the old operation array.
+Transport loss during a metadata mutation is immediately uncertain and is
+never retried in-process; reads may retain transport retry behavior.
+Perform a new bounded exact reconciliation, rebuild and revalidate the full
+manifest, then resume with both new hashes. The runner mechanically treats an
+uncertain operation omitted by the new manifest as already applied/superseded,
+or retries it only when the fresh reconciliation proves it is still required.
+
+If `summary.metadataOperationCount` is zero, issue **zero metadata POSTs** and
+print `↻ Dataverse schema already fully applied — zero metadata writes.` This
+is the required idempotent rerun behavior after successful publish. A manifest
+with zero schema operations but one checkpoint-driven `PublishXml` operation
+must run that publish retry; it is not a zero-write completion.
+
+The manifest builder writes
+`<working_dir>/.tmp/dataverse-publish-pending.json` before any schema POST when
+publish will be required. Leave this checkpoint in place after any schema or
+publish failure. Delete it only after the validated `publish` phase returns
+success. The next build validates its environment/solution/plan/contract
+binding and integrity, merges its table list into the publish phase, and
+therefore retries `PublishXml` even when every schema create is now
+idempotently skipped.
+
+On a hidden POST-time name collision, stop at the failed operation and discard
+all not-yet-run phase arrays. The execution script must not choose `Adapt` or a
+rename. Return to the existing planning revision path so the structured schema
+artifact carries the approved `Adapt` names. Then perform a fresh bounded
+reconciliation and regenerate the complete aliases, downstream relationship
+and key bodies, service-required names, phases, manifest hashes, and phase
+files. Revalidate before resuming through the journal. Never continue an old
+array after a rename. Any non-collision failure stops the metadata path with
+its exact result.
+
+Before overwriting the old manifest, preserve its path. After the revised plan
+and structured schema are approved through the existing flow, the top-level
+planner/orchestrator must refresh the structured service dependencies and
+`mobile-plan-status.json` receipt. This skill cannot create or restamp it.
+Bind the contract through that pre-existing receipt, then roll the existing
+publish checkpoint forward:
+
+```bash
+cd -- '<working_dir>' || { echo "BLOCKED: cannot enter working_dir" >&2; exit 1; }
+node "${PLUGIN_ROOT}/scripts/build-dataverse-operation-manifest.js" \
+  --roll-forward-checkpoint "$PUBLISH_CHECKPOINT" \
+  --previous-manifest "$OPERATION_MANIFEST" \
+  --journal "$EXECUTION_JOURNAL" \
+  --contract "$SCHEMA_CONTRACT" \
+  --approval-receipt "$APPROVAL_RECEIPT" \
+  --plan '<working_dir>/native-app-plan.md' \
+  --output "$PUBLISH_CHECKPOINT" \
+  --environment-id "<environmentId>" \
+  --env-url "<envUrl>" \
+  --tenant-id "<tenantId>" \
+  --publisher-prefix "<customizationprefix>" \
+  --solution "<solution-uniquename>"
+```
+
+This retains prior checkpoint bindings/tables as integrity-protected history,
+keeps earlier successful tables publication-pending, and maps only the
+journal-proven failed collision table to its revised in-contract alias. It
+fails closed if a completed write would disappear from the revised contract or
+change definition: completed tables/inline columns, extension columns, image
+configuration PUTs, relationships (including cascade behavior), and alternate keys must each map
+to an equivalent revised structured component. Completed image PUTs retain their
+full hash-bound definitions only when the revised image requirements remain
+compatible; they stay publication-pending without replaying the update. It also
+rejects any unrelated out-of-contract publish target. Only after this succeeds
+may Step 8 overwrite the operation manifest.
+
+The manifest builder never emits calculated/rollup/formula creation. Reused
+computed dependencies have already crossed the exact derived-metadata barrier;
+unsupported projections are explicit `defer` rows. After the `publish` phase succeeds, delete the publish checkpoint and invalidate the planning-only inventory cache:
+
+```bash
+cd -- '<working_dir>' || { echo "BLOCKED: cannot enter working_dir" >&2; exit 1; }
+node -e "const checkpoint = process.argv[1]; if (checkpoint) require('node:fs').rmSync(checkpoint, { force: true });" \
+  "${PUBLISH_CHECKPOINT:-}"
+if ! node "${PLUGIN_ROOT}/scripts/dataverse-inventory-cache.js" \
+  --file '<working_dir>/.tmp/dataverse-inventory-cache.json' --invalidate; then
+  printf 'NEEDS_RECOVERY: dataverse-inventory-cache\n' >&2
+  exit 2
+fi
+```
+
+**Cache-invalidation recovery (both publish paths):** a nonzero exit returns
+control to the foreground agent for local recovery, not success. Diagnose the
+cache path or filesystem permission error and allow at most two targeted retries
+of the invalidation command. Preserve the successful publish result and execution
+journal; do not replay metadata writes or publish to repair a local cache failure.
+Do not reuse the failed cache or continue to service generation, verification,
+sample data, or offline setup until invalidation exits `0`. If local recovery
+cannot complete, report the remaining blocker and resume this cleanup after it is
+resolved; never mark the phase complete just because publication succeeded.
+
+Only after successful invalidation continue to Step 6. When there were zero writes and no checkpoint,
+continue without deleting anything. Skip the
+fallback mutation instructions in Steps 5a–5d and skip Step 6b because publish
+was already part of the validated phase order.
+
+**Print before starting:**
+> "→ Creating/extending <N> tables in tier order (sequential — Dataverse serializes metadata writes). For each: pre-flight check, then 'Creating <table>…' before the POST and '✓ <table>' on 2xx response."
+
+> **⚠️ Concurrency rule — do not violate.** All Dataverse metadata operations in Steps 5, 6, and 6b are **strictly sequential**: issue one HTTP request, wait for a 2xx response, then issue the next. Do NOT parallelize or use OData `$batch`. Dataverse serializes metadata writes via an exclusive lock; parallel calls return `429 TooManyRequests`, `MetadataLockHeldException`, or `404 EntityNotFound` for lookups whose parent hasn't committed yet.
+>
+> Specifically:
+> - **Within a tier:** create tables one at a time.
+> - **Across tiers:** Tier 0 fully done (all tables + all columns committed) before any Tier 1 POST.
+> - **Lookups:** POST to `/RelationshipDefinitions` only **after** both endpoint tables exist and have returned 2xx.
+> - **Extensions:** column POSTs to an existing table are also serial — same lock applies.
+
+For multiple already-reconciled operations, prefer the local `BATCH-METADATA`
+executor. It is **not** OData `$batch`: one Node process reuses one token and
+issues requests strictly one at a time in array order, stopping on the first
+non-2xx response by default.
+
+```bash
+cd -- '<working_dir>' || { echo "BLOCKED: cannot enter working_dir" >&2; exit 1; }
+node "${PLUGIN_ROOT}/scripts/dataverse-request.js" <envUrl> \
+  BATCH-METADATA schema-writes \
+  --operations '<ordered-json-array>' \
+  --solution '<solution-uniquename-from-memory-bank>' \
+  --tenant-id '<tenantId-from-resolve-environment>'
+```
+
+Each operation is `{ "index", "method", "apiPath", "body" }`; an operation may
+override the command-level `solution`. Build the array only after the full
+metadata snapshot and desired/live diff. Preserve dependency order: new tables
+with ordinary columns inline, extension columns, relationships, projections,
+then alternate keys. Never pass `--continue-on-error` for schema creation. The
+result includes per-operation `status` and `durationMs`; after a failure,
+reconcile that component and resume with only the remaining operations.
+
+#### Step 5a — Pre-flight collision check (from the Step 4 snapshot)
+
+Before each create, confirm the target name is actually free: name-prefix collisions from stale solutions, reserved system names, and soft-deleted tombstones all fail the POST, and Dataverse takes ~1 minute to return the conflict error. A failure here can leave Tier 0 partially created and make a Tier 1 lookup fail on a phantom parent. Step 4 already collected this evidence for every planned name, so this step reads it rather than re-querying.
+
+**For every `Create` entry, resolve its target state from the Step 4 batch — do not re-query per table.** Step 4 already fetched every planned logical name, so reuse that result:
+
+| Step 4 result for this name | Meaning | Action |
+|---|---|---|
+| **Absent from `value[]`** | Name is free | Proceed with POST. |
+| **Present** + `IsCustomEntity: true` + `MetadataId` matches memory-bank | We created this earlier — idempotent re-run | Skip the POST, mark as created, continue. |
+| **Present** + `IsCustomEntity: true` + `MetadataId` *not* in memory-bank | Foreign collision | Reconcile live columns and customization properties below; never auto-extend an uncustomizable target. |
+| **Present** + `IsCustomEntity: false` | Reserved system table name | Auto-recover via rename (see below). |
+
+Only re-probe a single name when Step 4's batch did not cover it (for example a rename candidate generated later in this step):
+
+```bash
+cd -- '<working_dir>' || { echo "BLOCKED: cannot enter working_dir" >&2; exit 1; }
+node "${PLUGIN_ROOT}/scripts/dataverse-request.js" <envUrl> GET \
+  "EntityDefinitions(LogicalName='<prefix>_<table>')?\$select=MetadataId,LogicalName,IsCustomEntity,IsManaged,IsCustomizable,CanCreateAttributes" \
+  --tenant-id '<tenantId-from-resolve-environment>'
+```
+
+Tombstones and hidden collisions are **not** reliably visible to either form — Dataverse can report a name as free and still reject the POST minutes later. Those are caught by the POST-time collision rescue below, which is the real safety net:
+
+| POST response | Meaning | Action |
+|---|---|---|
+| **5xx** with `0x80060890` or message `"object with same name exists in solution"` | Tombstone (soft-deleted, ~30 min purge TTL) | Auto-recover via rename (see below). |
+| **400** with `0x80044363`, `"schema name ... is not unique"`, or `"same name already exists"` | Hidden Dataverse collision / recent-delete tombstone | Auto-recover via rename (see below), then retry the POST once. |
+
+**Important:** treat a POST-time collision as a recoverable name conflict, not a data-model failure — the schema name can stay reserved internally after a delete even when metadata reports it as free.
+
+#### Auto-recovery — reuse/extend first, rename as last resort
+
+**Priority order when Step 5a hits a name collision:**
+
+1. **Adopt as Extend (preferred)** — only if the existing table is the same concept, every same-name column is type-compatible, planned missing columns are custom additions, and live `IsCustomizable.Value` plus `CanCreateAttributes.Value` both permit extension. Add only the missing columns via Step 5b and log `→ Extending existing <original> with <N> missing columns.`
+2. **Adopt as Reuse** — if the existing table's schema already covers all planned columns: skip Step 5b for this entry, keep it in Step 6 for service generation. No prompt. Log `→ Reusing existing <original> (all required columns present).`
+3. **Rename and Create (last resort)** — only when the existing table is a fundamentally different entity (e.g., planned table is an inspection log but existing `<original>` is a payroll record — incompatible concept, incompatible columns). Prompt the user before proceeding.
+
+**When to auto-decide vs. prompt:**
+
+| Situation | Action |
+|---|---|
+| Foreign collision + compatible concept/schema + extension allowed | Auto-Extend (no prompt) |
+| Foreign collision + all planned columns present | Auto-Reuse (no prompt) |
+| Foreign collision + incompatible column or extension forbidden | Auto-rename the conflicting column beside it, or defer it (no prompt) |
+| Foreign collision + incompatible concept | Prompt (see below) |
+| Reserved system name | Auto-rename (no prompt) |
+| Tombstone (0x80060890 / same-name-exists) | Auto-rename (no prompt) |
+
+**For the incompatible-concept case only** — prompt via `AskUserQuestion`:
+
+```
+| Option | What it means |
+|---|---|
+| Rename and Create (default) | Use a free custom logical name for the genuinely different entity. Existing table stays untouched. |
+| Reuse existing as-is | Point the generated services at the existing table and skip the planned columns it lacks. |
+```
+
+Never offer Extend for an incompatible concept or column shape. This prompt is a preference, not a gate: an empty, skipped, or unanswered response defaults to **Rename and Create** so the run always proceeds.
+
+Maintain a run-level logical-name alias map for every auto-rename. Example:
+
+```json
+{ "cr3e9_aircraft": "cr3e9_aircraftv2" }
+```
+
+Before building any later table, column, lookup relationship, sample-data payload, service-reference text, or screen data spec, resolve logical names through this map. A rename that only changes the table POST but leaves relationships/screens/sample data pointing at the old name is a bug.
+
+**Auto-rename probe sequence** (cap at 4 probes — only used for reserved/tombstone cases):
+
+```
+<original>v2  →  <original>v3  →  <original>2  →  <original>copy
+```
+
+For each candidate in order, GET `EntityDefinitions(LogicalName='<candidate>')?$select=MetadataId,IsCustomEntity`:
+- 404 → free, **take it**, stop probing.
+- 200 or 5xx (collision) → next candidate.
+
+If all 4 collide, keep probing `<original>3`, `<original>4`, … through `<original>20`. This sequence is designed never to dead-end: if even those collide, use `<original><4-char run token>`, which is unique to this run. Never abandon a table for want of a free name.
+
+**On a successful auto-rename, do these in order BEFORE the POST:**
+
+1. **Update `native-app-plan.md`** — `Edit` with `replace_all: true` to swap the old logical name for the new one across the entire `## Data Model` section (Mermaid ER, Reuse/Extend/Create table, Creation Order, Notes). This catches downstream relationship POSTs in this same Step 5 too.
+2. **Update `## Screens` per-screen specs** — same `replace_all` sweep for any service / data-source references using the old name.
+3. **Append to `memory-bank.md` Collision history** — `<original> → <new>` with reason (foreign / reserved / tombstone) and timestamp.
+4. **Update the run-level alias map** — every later metadata payload and plan edit resolves `<original>` to `<new>` before use.
+5. **Inform the user — single line, no prompt:**
+   > `→ Collision on <original> (<foreign|reserved|tombstone>). Renamed to <new> and updated plan + memory-bank. Continuing.`
+
+Then proceed with the POST using `<new>`.
+
+#### Post-create collision rescue — hidden tombstone / recent delete
+
+If the Step 5b table POST fails after a 404 preflight with any Dataverse name-collision signature, **do not fail the run**:
+
+- HTTP `400` with code `0x80044363`
+- message contains `schema name` and `not unique`
+- message contains `same name already exists`
+- message contains `object with same name exists in solution`
+
+First attempt auto-Extend: compare the plan against that table's attribute snapshot from Step 4 (re-fetch only if it is absent). If ≥50% overlap, switch to Extend path (add missing columns). Otherwise, run the auto-rename probe sequence, update `native-app-plan.md`, `## Screens`, `memory-bank.md`, and the run-level alias map, then retry the table POST exactly once with the resolved name. Print:
+
+> `→ Dataverse still has <original> reserved from a recent delete/hidden collision. Using <new> and continuing.`
+
+If the retry also returns a collision signature, continue probing the remaining candidates, then the numeric tail, then the run-token form described above.
+
+**On successful POST**, immediately re-GET to capture the server-assigned `MetadataId` and write it to memory-bank (Step 6d updates `.datamodel-manifest.json`; you also append to `memory-bank.md` under "Created tables" with the GUID and solution name). This lets future `/add-dataverse` runs distinguish "we own this" from "name collision."
+
+#### Step 5b — Create / extend
+
+Run this step in two explicit passes:
+
+1. **Pass 1 — tables + ordinary columns:** create every new table with all planned non-lookup columns inline, then extend existing tables with any missing non-lookup columns. Computed formula definitions are never synthesized by this workflow.
+2. **Pass 2 — lookups + relationships:** only after Pass 1 has succeeded for every tier, create the planned `RelationshipDefinitions`. A lookup is created by its relationship and must not appear in a table's initial `Attributes` array.
+
+Both passes remain strictly sequential. Do not use `$batch` for metadata writes.
+
+For each `Create` decision, in **tier order** (Tier 0 → Tier 1 → Tier 2 → …), POST a new EntityDefinition. Skip if Step 5a returned a known-self match (idempotent).
+
+> **⚠️ Inline ALL planned columns into the Create POST body — do NOT POST columns individually.**
+>
+> Dataverse accepts all non-lookup columns in the initial table's `Attributes: [...]` array. Inline form: 1 round trip, ~3-8s. Per-column form: N+1 round trips, each ~3-8s. For a 5-column table that's roughly 24s saved on the lock-serialized metadata path. Do not describe this metadata create as transactionally atomic: if the request fails after Dataverse starts processing it, the table or some attributes may remain, which is why the recovery path below exists.
+>
+> **Wrong** (N round trips):
+> ```json
+> { "SchemaName": "...", "Attributes": [{ /* primary only */ }] }
+> // then 4× POST /Attributes for the rest
+> ```
+>
+> **Right** (1 round trip):
+> ```json
+> {
+>   "SchemaName": "...",
+>   "Attributes": [
+>     { /* primary name */ },
+>     { /* column 2 */ },
+>     { /* column 3 */ },
+>     { /* column 4 */ },
+>     { /* column 5 */ }
+>   ]
+> }
+> ```
+>
+> The per-column POST path remains valid for two cases only: (1) Extend on an existing table, (2) retry-after-partial-failure when Step 5a's pre-flight shows the table exists but some columns don't.
+
+**Solution targeting (HARD):** every Step 5 / 5b POST MUST pass `--solution <uniquename>` so Dataverse routes the new artifact into our solution rather than the unmanaged default. Read the solution name from `memory-bank.md` Power Platform context (captured in Step 3b). Without this flag, multi-project environments end up with cross-solution leakage and the foreign-collision class of bug returns. The script translates `--solution` to the `MSCRM.SolutionUniqueName` HTTP header.
+
+**Scratch files:** When writing request body JSON to disk (e.g. table definitions, column metadata, relationship payloads), always write to `<working_dir>/.tmp/`, never to `/tmp/`. Keeping request bodies project-local prevents cross-project writes and makes cleanup deterministic. After the per-call root guard, create the folder if it doesn't exist: `mkdir -p .tmp`.
+
+```bash
+cd -- '<working_dir>' || { echo "BLOCKED: cannot enter working_dir" >&2; exit 1; }
+node "${PLUGIN_ROOT}/scripts/dataverse-request.js" <envUrl> POST EntityDefinitions \
+  --body '<json-body-with-all-columns-inline>' \
+  --solution '<solution-uniquename-from-memory-bank>' \
+  --tenant-id '<tenantId-from-resolve-environment>'
+```
+
+**Complete-payload self-check (HARD — do this before the POST, no extra tooling):** re-read the body you just built against the plan and confirm all five statements. If any fails, fix the body and re-check; never POST a partial table and repair it with per-column POSTs.
+
+1. **Every planned ordinary column is present** — String, Memo, Integer, BigInt, Decimal, Money, DateTime, Boolean, Choice, MultiSelect Choice, Image, and File. Count `Attributes[]` and compare with the plan's column count for this table.
+2. **No lookup metadata is inline** — no `LookupAttributeMetadata`, `CustomerAttributeMetadata`, or `OwnerAttributeMetadata`. Those are created by their relationship in Pass 2.
+3. **No deferred or server-owned column is inline** — no primary-id column and no calculated/rollup column (Step 5c owns those).
+4. **Exactly one `IsPrimaryName: true` attribute exists**, and `PrimaryNameAttribute` matches its `SchemaName` (lowercased logical form).
+5. **No duplicate `SchemaName`** in `Attributes[]` (compare case-insensitively).
+
+Microsoft documents both halves of this contract: [ordinary columns may be included when the table is created](https://learn.microsoft.com/power-apps/developer/data-platform/webapi/create-update-column-definitions-using-web-api#create-columns), while a [lookup is created with its one-to-many relationship](https://learn.microsoft.com/power-apps/developer/data-platform/webapi/create-update-entity-relationships-using-web-api#create-a-one-to-many-relationship). `dataverse-request.js` stays the only script in this path — it already owns auth, retry, `--solution` routing, and 401/429 handling.
+
+Body skeleton — **all planned columns inline in `Attributes: [...]`** (this example shows primary + 3 additional; expand the array to fit every column from the plan):
+
+> **⚠️ `IsAvailableOffline` + `ChangeTrackingEnabled` MUST be set to `true` at create time** for any table the app intends to make available offline. Without these two flags the table cannot be added to a `mobileofflineprofile`, and `/setup-offline-profile` will have to fix them via a separate metadata PUT (the `/enable-tables-offline` skill handles that, but it doubles the metadata-lock-serialized round trips). Empirically verified 2026-05-18 in the chanel-rm demo: 7 custom tables created without these flags caused 7 prereq-revert drift entries; fixed by post-hoc enablement. Default these to `true` for all UserOwned tables created by `/add-dataverse` unless the user has explicitly opted out of offline support. The flags are no-ops at runtime for apps that don't use offline profiles.
+
+```json
+{
+  "@odata.type": "Microsoft.Dynamics.CRM.EntityMetadata",
+  "SchemaName": "cr123_jobsite",
+  "DisplayName": { "@odata.type": "Microsoft.Dynamics.CRM.Label", "LocalizedLabels": [{ "Label": "Job Site", "LanguageCode": 1033 }] },
+  "DisplayCollectionName": { "@odata.type": "Microsoft.Dynamics.CRM.Label", "LocalizedLabels": [{ "Label": "Job Sites", "LanguageCode": 1033 }] },
+  "OwnershipType": "UserOwned",
+  "HasActivities": false,
+  "HasNotes": false,
+  "IsAvailableOffline": true,
+  "ChangeTrackingEnabled": true,
+  "PrimaryNameAttribute": "cr123_sitename",
+  "Attributes": [
+    {
+      "@odata.type": "Microsoft.Dynamics.CRM.StringAttributeMetadata",
+      "SchemaName": "cr123_sitename",
+      "DisplayName": { "@odata.type": "Microsoft.Dynamics.CRM.Label", "LocalizedLabels": [{ "Label": "Site Name", "LanguageCode": 1033 }] },
+      "MaxLength": 200,
+      "FormatName": { "Value": "Text" },
+      "RequiredLevel": { "Value": "ApplicationRequired" },
+      "IsPrimaryName": true
+    },
+    {
+      "@odata.type": "Microsoft.Dynamics.CRM.StringAttributeMetadata",
+      "SchemaName": "cr123_address",
+      "DisplayName": { "@odata.type": "Microsoft.Dynamics.CRM.Label", "LocalizedLabels": [{ "Label": "Address", "LanguageCode": 1033 }] },
+      "MaxLength": 500,
+      "FormatName": { "Value": "Text" },
+      "RequiredLevel": { "Value": "None" }
+    },
+    {
+      "@odata.type": "Microsoft.Dynamics.CRM.IntegerAttributeMetadata",
+      "SchemaName": "cr123_squarefeet",
+      "DisplayName": { "@odata.type": "Microsoft.Dynamics.CRM.Label", "LocalizedLabels": [{ "Label": "Square Feet", "LanguageCode": 1033 }] },
+      "RequiredLevel": { "Value": "None" },
+      "MinValue": 0,
+      "MaxValue": 2147483647,
+      "Format": "None"
+    },
+    {
+      "@odata.type": "Microsoft.Dynamics.CRM.BooleanAttributeMetadata",
+      "SchemaName": "cr123_active",
+      "DisplayName": { "@odata.type": "Microsoft.Dynamics.CRM.Label", "LocalizedLabels": [{ "Label": "Active", "LanguageCode": 1033 }] },
+      "RequiredLevel": { "Value": "None" },
+      "DefaultValue": true,
+      "OptionSet": {
+        "@odata.type": "Microsoft.Dynamics.CRM.BooleanOptionSetMetadata",
+        "TrueOption": { "Value": 1, "Label": { "@odata.type": "Microsoft.Dynamics.CRM.Label", "LocalizedLabels": [{ "Label": "Yes", "LanguageCode": 1033 }] } },
+        "FalseOption": { "Value": 0, "Label": { "@odata.type": "Microsoft.Dynamics.CRM.Label", "LocalizedLabels": [{ "Label": "No", "LanguageCode": 1033 }] } }
+      }
+    }
+  ]
+}
+```
+
+For each `Extend` decision, POST a new column to the existing table.
+
+> **⚠️ Table-level pre-flight (HARD — required for idempotent re-runs).** Reuse the complete attribute snapshot fetched for this table in Step 4. If the table was discovered only during collision recovery, or no current snapshot exists, fetch all attributes exactly once:
+>
+> ```bash
+> cd -- '<working_dir>' || { echo "BLOCKED: cannot enter working_dir" >&2; exit 1; }
+> node "${PLUGIN_ROOT}/scripts/dataverse-request.js" <envUrl> GET \
+>   "EntityDefinitions(LogicalName='<table>')/Attributes?\$select=MetadataId,LogicalName,SchemaName,AttributeType,AttributeTypeName,RequiredLevel,IsManaged,IsCustomizable,IsPrimaryId,IsPrimaryName" \
+>   --tenant-id '<tenantId-from-resolve-environment>'
+> ```
+>
+> Build a local `{ lowerCaseLogicalName → { AttributeType, AttributeTypeName, IsManaged, IsCustomizable } }` map and classify **every** planned non-lookup column before issuing any POST. Prefer `AttributeTypeName.Value` when `AttributeType` is `Virtual`, so File and Image columns are not incorrectly treated as compatible generic virtual attributes:
+>
+> | Snapshot result | Action |
+> |---|---|
+> | Name exists and `AttributeType` matches | Skip it and log `↻ <column> (already exists, skipped)`. |
+> | Name exists and `AttributeType` differs | Dataverse does not allow column-type changes via API, so **auto-rename the planned column** using the same probe sequence (`<column>v2` → `<column>v3` → `<column>2` → …), add it to the alias map, and create it beside the existing one. Log `→ <column> exists as <existingType>; created <newName> as <plannedType> instead.` Never modify or delete the existing column. |
+> | Name is absent | Add it to the ordered missing-column queue. |
+>
+> This single snapshot catches partial creates, corrected re-runs, and network-drop recovery without paying one GET round trip per column.
+
+After the complete comparison passes, POST the missing-column queue **one column at a time, sequentially** (no `$batch`; always pass `--solution`):
+
+```bash
+cd -- '<working_dir>' || { echo "BLOCKED: cannot enter working_dir" >&2; exit 1; }
+node "${PLUGIN_ROOT}/scripts/dataverse-request.js" <envUrl> POST \
+  "EntityDefinitions(LogicalName='<table>')/Attributes" \
+  --body '<column-json>' \
+  --solution '<solution-uniquename-from-memory-bank>' \
+  --tenant-id '<tenantId-from-resolve-environment>'
+```
+
+**Recovery after a partial Create:** do not re-POST the whole `EntityDefinitions` body because the table now exists and Dataverse returns `0x80060888`. Fetch that table's complete attribute snapshot once, run the same local comparison, and sequentially POST only the missing non-lookup columns. This is the only time a table originally classified as Create should use the per-column path.
+
+Column shapes that have non-obvious gotchas (handle carefully):
+- **Pass-2 barrier (HARD)** — do not create any lookup or relationship while Pass 1 is still creating or extending tables. Accumulate relationship definitions, wait until every table and ordinary column has returned 2xx, then process the relationships sequentially in dependency order.
+- **Lookup** — POST to `/RelationshipDefinitions`, not `/Attributes`.
+
+  > **⚠️ Do NOT improvise the body. Copy the skeleton be

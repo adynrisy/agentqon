@@ -1,0 +1,11 @@
+{
+  "name": "add-pdf-viewer",
+  "display_name": "Add PDF Viewer",
+  "description": "Internal implementation skill invoked by /add-native for native PDF control workflows. Handles HTTPS and file URI PDF viewing with @microsoft/power-apps-native-pdf-viewer 0.2.9+.",
+  "repo": "microsoft/power-platform-skills",
+  "path": "plugins/mobile-apps/skills/add-native/add-pdf-viewer/SKILL.md",
+  "url": "https://github.com/microsoft/power-platform-skills/tree/HEAD/plugins/mobile-apps/skills/add-native/add-pdf-viewer/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 8756,
+  "truncated": false
+}

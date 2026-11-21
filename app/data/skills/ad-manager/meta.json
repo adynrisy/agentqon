@@ -1,0 +1,11 @@
+{
+  "name": "ad-manager",
+  "display_name": "Ad Manager",
+  "description": "The ads consultant that becomes an ads agent. Reads paid-ad performance natively through the TikTok Ads connector, or via a build-connector Zapier connection for other ad platforms, explains in plain English what is working and what is burning money, recommends budget, targeting, and creative changes with the dollar impact of each, drafts new ad copy in the owner's voice plus Canva creative briefs, and — only after an explicit yes — executes the approved changes in the ad account. Works from exported CSV reports when nothing is connected, the normal starting point. Use this whenever the owner talks about ads or ad spend at all, including \"are my ads working,\" \"what's my ROI on ads,\" \"I'm spending money on Facebook and I don't know what I'm getting,\" \"should I turn this campaign off,\" \"my cost per lead is going up,\" \"write me a new ad,\" \"who should I be targeting,\" or \"the ad guy quit.\"",
+  "repo": "anthropics/knowledge-work-plugins",
+  "path": "small-business/skills/ad-manager/SKILL.md",
+  "url": "https://github.com/anthropics/knowledge-work-plugins/tree/HEAD/small-business/skills/ad-manager/SKILL.md",
+  "license": "Apache-2.0",
+  "body_bytes": 8815,
+  "truncated": false
+}

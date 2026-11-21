@@ -1,0 +1,11 @@
+{
+  "name": "add-data-source-mobile-apps",
+  "display_name": "Add Data Source · Mobile Apps",
+  "description": "Use when adding an unspecified data source to an Expo/React Native Power Apps mobile app; routes to Dataverse, SharePoint, or another connector.",
+  "repo": "microsoft/power-platform-skills",
+  "path": "plugins/mobile-apps/skills/add-datasource/SKILL.md",
+  "url": "https://github.com/microsoft/power-platform-skills/tree/HEAD/plugins/mobile-apps/skills/add-datasource/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 5861,
+  "truncated": false
+}

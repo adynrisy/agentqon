@@ -1,0 +1,11 @@
+{
+  "name": "2slides-ppt-generator",
+  "display_name": "2slides Ppt Generator",
+  "description": "AI-powered presentation generation via the 2slides API — create slides from text, match a reference image style, summarize documents into decks, add AI voice narration, and export pages/audio. Use for any \"make slides\", \"create a deck\", or \"slides from this document\" request.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/2slides-ppt-generator/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/2slides-ppt-generator/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 2810,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "ab-testing",
+  "display_name": "Ab Testing",
+  "description": "When the user wants to plan, design, or implement an A/B test or experiment, or build a growth experimentation program.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/ab-testing/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/ab-testing/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 11018,
+  "truncated": false
+}

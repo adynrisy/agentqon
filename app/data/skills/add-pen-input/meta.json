@@ -1,0 +1,11 @@
+{
+  "name": "add-pen-input",
+  "display_name": "Add Pen Input",
+  "description": "Internal implementation skill invoked by /add-native for pen, signature, ink, drawing, and handwriting capture workflows using @microsoft/power-apps-native-pen-input.",
+  "repo": "microsoft/power-platform-skills",
+  "path": "plugins/mobile-apps/skills/add-native/add-pen-input/SKILL.md",
+  "url": "https://github.com/microsoft/power-platform-skills/tree/HEAD/plugins/mobile-apps/skills/add-native/add-pen-input/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 8963,
+  "truncated": false
+}

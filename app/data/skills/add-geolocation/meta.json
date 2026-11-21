@@ -1,0 +1,11 @@
+{
+  "name": "add-geolocation",
+  "display_name": "Add Geolocation",
+  "description": "Internal implementation skill invoked by /add-native for native background GPS tracking with durable storage and Dataverse sync using @microsoft/power-apps-native-bglocation.",
+  "repo": "microsoft/power-platform-skills",
+  "path": "plugins/mobile-apps/skills/add-native/add-geolocation/SKILL.md",
+  "url": "https://github.com/microsoft/power-platform-skills/tree/HEAD/plugins/mobile-apps/skills/add-native/add-geolocation/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 9598,
+  "truncated": false
+}

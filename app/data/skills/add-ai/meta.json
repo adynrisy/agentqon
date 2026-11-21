@@ -1,0 +1,11 @@
+{
+  "name": "add-ai",
+  "display_name": "Add AI",
+  "description": "Integrates Power Pages generative-AI summarization APIs (PREVIEW) into a Single Page Application (SPA) site — the Search Summary API and the Data Summarization API — on any record-detail or list page. Generates per-target service code (CSRF-handled) and AI site settings; delegates Web API settings, table permissions, and web roles to `/integrate-webapi` and `/create-webroles`. Use whenever a user wants AI/Copilot output that condenses Dataverse content on a Power Pages site — an AI summary, AI-generated overview or \"key insights\" across a record or list, a search-results summary, a case/incident summary, or recommendation-chip refinement — even when phrased as \"AI-generated paragraph\", \"insights\", or \"overview\". Do NOT use for: generative pages in model-driven apps (use the model-apps `genpage` skill), Copilot Studio agents/chatbots, summarizing documents or PDFs, Power BI dashboards, plain keyword search with no AI summary, or plain Dataverse CRUD (use `/integrate-webapi`).",
+  "repo": "microsoft/power-platform-skills",
+  "path": "plugins/power-pages/skills/add-ai-webapi/SKILL.md",
+  "url": "https://github.com/microsoft/power-platform-skills/tree/HEAD/plugins/power-pages/skills/add-ai-webapi/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 51121,
+  "truncated": false
+}

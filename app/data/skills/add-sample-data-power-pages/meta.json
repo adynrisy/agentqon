@@ -1,0 +1,11 @@
+{
+  "name": "add-sample-data-power-pages",
+  "display_name": "Add Sample Data · Power Pages",
+  "description": "Populates Dataverse tables with sample records for testing and demoing a Power Pages site. Use when the user wants to add sample data, seed data, generate test records, or insert demo data into their tables.",
+  "repo": "microsoft/power-platform-skills",
+  "path": "plugins/power-pages/skills/add-sample-data/SKILL.md",
+  "url": "https://github.com/microsoft/power-platform-skills/tree/HEAD/plugins/power-pages/skills/add-sample-data/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 11662,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "aeon-this-be",
+  "display_name": "Aeon This Be",
+  "description": "This skill should be used for time series machine learning tasks including classification, regression, clustering, forecasting, anomaly detection, segmentation, and similarity search. Use when working with temporal data, sequential patterns, or time-indexed observations requiring specialized algorithms beyond standard ML approaches. Particularly suited for univariate and multivariate time series analysis with scikit-learn compatible APIs.",
+  "repo": "K-Dense-AI/scientific-agent-skills",
+  "path": "skills/aeon/SKILL.md",
+  "url": "https://github.com/K-Dense-AI/scientific-agent-skills/tree/HEAD/skills/aeon/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 14080,
+  "truncated": false
+}

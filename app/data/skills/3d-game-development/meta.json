@@ -1,0 +1,11 @@
+{
+  "name": "3d-game-development",
+  "display_name": "3D Game Development",
+  "description": "3D game development principles. Rendering, shaders, physics, cameras.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/game-development/3d-games/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/game-development/3d-games/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 3340,
+  "truncated": false
+}

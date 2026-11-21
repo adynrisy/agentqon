@@ -1,0 +1,11 @@
+{
+  "name": "ab-test-setup",
+  "display_name": "Ab Test Setup",
+  "description": "Use when designing an A/B or split test: define the hypothesis, control and variants, estimate sample size, verify tracking, and predeclare metrics and stopping rules.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/ab-test-setup/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/ab-test-setup/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 8715,
+  "truncated": false
+}

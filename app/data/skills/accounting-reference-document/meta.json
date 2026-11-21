@@ -1,0 +1,11 @@
+{
+  "name": "accounting-reference-document",
+  "display_name": "Accounting Reference Document",
+  "description": "Expense accounting register: expense number and date, payee with PAN and VAT, bill reference, document type, amount with VAT, ledger account, approver and status. Use for expense bookkeeping.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/expense-accounting/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/expense-accounting/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 25696,
+  "truncated": false
+}

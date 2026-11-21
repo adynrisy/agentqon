@@ -1,0 +1,11 @@
+{
+  "name": "add-app-clip",
+  "display_name": "Add App Clip",
+  "description": "Add an iOS App Clip target to an Expo app. Use when the user mentions App Clip, AASA, apple-app-site-association, appclips, smart app banner, or wants to ship a lightweight iOS Clip invoked from a URL alongside their parent app.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/add-app-clip/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/add-app-clip/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 9053,
+  "truncated": false
+}

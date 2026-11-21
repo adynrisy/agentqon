@@ -1,0 +1,11 @@
+{
+  "name": "add-azuredevops",
+  "display_name": "Add Azuredevops",
+  "description": "Adds Azure DevOps connector to a Power Apps code app. Use when querying work items, creating bugs, managing pipelines, or making ADO API calls.",
+  "repo": "microsoft/power-platform-skills",
+  "path": "plugins/code-apps/skills/add-azuredevops/SKILL.md",
+  "url": "https://github.com/microsoft/power-platform-skills/tree/HEAD/plugins/code-apps/skills/add-azuredevops/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 3403,
+  "truncated": false
+}

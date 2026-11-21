@@ -1,0 +1,11 @@
+{
+  "name": "agentflow-autonomous-ai",
+  "display_name": "Agentflow Autonomous AI",
+  "description": "Orchestrate autonomous AI development pipelines through your Kanban board (Asana, GitHub Projects, Linear). Manages multi-worker Claude Code dispatch, deterministic quality gates, adversarial review, per-task cost tracking, and recoverable pipeline design.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/agentflow/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/agentflow/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 9211,
+  "truncated": false
+}

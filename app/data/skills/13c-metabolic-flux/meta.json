@@ -1,0 +1,11 @@
+{
+  "name": "13c-metabolic-flux",
+  "display_name": "13c Metabolic Flux",
+  "description": "Estimates intracellular metabolic fluxes from steady-state carbon-13 isotope-tracing measurements using validated atom maps, mfapy isotope simulation, constrained multistart fitting, and flux-profile diagnostics. Use for 13C-MFA, carbon tracing, mass isotopomer distributions (MDVs/MIDs), positional isotopomers, parallel tracer experiments, and determining whether labeling data constrain a pathway flux. Distinguishes measured-label inference from COBRA flux balance analysis and flags experiments requiring nonstationary MFA.",
+  "repo": "K-Dense-AI/scientific-agent-skills",
+  "path": "skills/13c-metabolic-flux/SKILL.md",
+  "url": "https://github.com/K-Dense-AI/scientific-agent-skills/tree/HEAD/skills/13c-metabolic-flux/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 11738,
+  "truncated": false
+}

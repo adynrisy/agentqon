@@ -1,0 +1,11 @@
+{
+  "name": "add-items",
+  "display_name": "Add Items",
+  "description": "Add items (research objects) to existing research outline.",
+  "repo": "Weizhena/Deep-Research-skills",
+  "path": "skills/research-codex-en/research-add-items/SKILL.md",
+  "url": "https://github.com/Weizhena/Deep-Research-skills/tree/HEAD/skills/research-codex-en/research-add-items/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 615,
+  "truncated": false
+}

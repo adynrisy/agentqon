@@ -1,0 +1,11 @@
+{
+  "name": "add-connector-mobile-apps",
+  "display_name": "Add Connector · Mobile Apps",
+  "description": "Use when adding a Power Platform connector to an Expo/React Native Power Apps mobile app and no dedicated mobile connector skill exists.",
+  "repo": "microsoft/power-platform-skills",
+  "path": "plugins/mobile-apps/skills/add-connector/SKILL.md",
+  "url": "https://github.com/microsoft/power-platform-skills/tree/HEAD/plugins/mobile-apps/skills/add-connector/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 15613,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "agentmail-email-ai",
+  "display_name": "Agentmail Email AI",
+  "description": "Email infrastructure for AI agents. Create accounts, send/receive emails, manage webhooks, and inspect billing balance via the AgentMail API.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/agentmail/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/agentmail/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 9870,
+  "truncated": false
+}

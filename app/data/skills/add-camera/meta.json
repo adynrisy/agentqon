@@ -1,0 +1,11 @@
+{
+  "name": "add-camera",
+  "display_name": "Add Camera",
+  "description": "Internal implementation skill invoked by /add-native for camera, image picker, barcode scanner, QR scanner, and camera/gallery Dataverse artifact workflows.",
+  "repo": "microsoft/power-platform-skills",
+  "path": "plugins/mobile-apps/skills/add-native/add-camera/SKILL.md",
+  "url": "https://github.com/microsoft/power-platform-skills/tree/HEAD/plugins/mobile-apps/skills/add-native/add-camera/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 29070,
+  "truncated": false
+}

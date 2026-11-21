@@ -1,0 +1,11 @@
+{
+  "name": "admin-access-register",
+  "display_name": "Admin Access Register",
+  "description": "Admin account register: system, main and backup admin, seats, plan, 2FA, shared logins and access-review dates, as CSV, SQL, JSON Schema or Notion on request. Use for access reviews.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/admin-access-register/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/admin-access-register/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 16729,
+  "truncated": false
+}

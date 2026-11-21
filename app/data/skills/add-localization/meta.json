@@ -1,0 +1,11 @@
+{
+  "name": "add-localization",
+  "display_name": "Add Localization",
+  "description": "Adds or extends multilingual localization in a Power Pages code-site SPA. Use whenever the user asks to translate, localize, internationalize, support multiple languages, add a language selector, add locale routes, repair an i18n setup, or add languages to an existing React, Vue, Angular, or Astro Power Pages site.",
+  "repo": "microsoft/power-platform-skills",
+  "path": "plugins/power-pages/skills/add-localization/SKILL.md",
+  "url": "https://github.com/microsoft/power-platform-skills/tree/HEAD/plugins/power-pages/skills/add-localization/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 60493,
+  "truncated": false
+}

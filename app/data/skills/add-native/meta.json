@@ -1,0 +1,11 @@
+{
+  "name": "add-native",
+  "display_name": "Add Native",
+  "description": "Public entry point for native device capabilities and native controls — camera, image picker, barcode/QR scanner, document picker, file picker, secure storage, file system, sharing, haptic feedback, PDF generation/viewing, pen/signature capture, background GPS/geolocation tracking, or supported local file workflows — in a Power Apps mobile app. Also owns routing to internal camera/PDF/pen/geolocation implementation helpers and the guidance boundary between native wrappers and Dataverse File/Image host controls.",
+  "repo": "microsoft/power-platform-skills",
+  "path": "plugins/mobile-apps/skills/add-native/SKILL.md",
+  "url": "https://github.com/microsoft/power-platform-skills/tree/HEAD/plugins/mobile-apps/skills/add-native/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 34543,
+  "truncated": false
+}

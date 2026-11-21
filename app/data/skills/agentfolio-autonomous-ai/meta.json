@@ -1,0 +1,11 @@
+{
+  "name": "agentfolio-autonomous-ai",
+  "display_name": "Agentfolio Autonomous AI",
+  "description": "Skill for discovering and researching autonomous AI agents, tools, and ecosystems using the AgentFolio directory.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/agentfolio/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/agentfolio/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 4561,
+  "truncated": false
+}

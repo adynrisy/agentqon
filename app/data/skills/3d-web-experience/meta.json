@@ -1,0 +1,11 @@
+{
+  "name": "3d-web-experience",
+  "display_name": "3D Web Experience",
+  "description": "Use when building or debugging web 3D scenes, product configurators or portfolios with Three.js, React Three Fiber or Spline; review assets, loading, controls, fallbacks and performance.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/3d-web-experience/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/3d-web-experience/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 10876,
+  "truncated": false
+}

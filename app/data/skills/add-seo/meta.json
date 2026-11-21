@@ -1,0 +1,11 @@
+{
+  "name": "add-seo",
+  "display_name": "Add SEO",
+  "description": "Adds SEO essentials to a Power Pages code site, including robots.txt, sitemap.xml, meta tags, Open Graph tags, and favicon configuration. Use when the user wants to improve search engine optimization or make their site more searchable.",
+  "repo": "microsoft/power-platform-skills",
+  "path": "plugins/power-pages/skills/add-seo/SKILL.md",
+  "url": "https://github.com/microsoft/power-platform-skills/tree/HEAD/plugins/power-pages/skills/add-seo/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 13588,
+  "truncated": false
+}

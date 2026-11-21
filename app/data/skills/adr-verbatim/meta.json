@@ -1,0 +1,11 @@
+{
+  "name": "adr-verbatim",
+  "display_name": "Adr Verbatim",
+  "description": "Record concise ADRs that preserve the user's decisions without conversational noise. Use for \"adr-verbatim\", \"new ADR\", \"document that as an ADR\", \"record this decision\", or supplied ADR wording.",
+  "repo": "davidondrej/skills",
+  "path": "skills/thinking-and-docs/adr-verbatim/SKILL.md",
+  "url": "https://github.com/davidondrej/skills/tree/HEAD/skills/thinking-and-docs/adr-verbatim/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 1518,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "add-workiq",
+  "display_name": "Add Workiq",
+  "description": "Adds Work IQ (M365 Copilot Search) to a Power Apps code app via the Work IQ Copilot MCP connector (shared_a365copilotchatmcp), then wires up a production-ready McpSession wrapper for AI-powered, knowledge-grounded search and chat. Use when integrating Microsoft 365 Copilot search/chat. The CopilotChat tool searches internal Microsoft 365 content (documents, emails, chats, sites, files) across your organization — prefer workload-specific tools (SharePoint, OneDrive, Teams, Mail) when the workload is explicit; do not use it for general knowledge, news, public web, or external information.",
+  "repo": "microsoft/power-platform-skills",
+  "path": "plugins/code-apps/skills/add-workiq/SKILL.md",
+  "url": "https://github.com/microsoft/power-platform-skills/tree/HEAD/plugins/code-apps/skills/add-workiq/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 21637,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "account-plan",
+  "display_name": "Account Plan",
+  "description": "Build or refresh a strategic account plan - current state, goals, stakeholder coverage, opportunity map, risks, and the action plan - written to a doc and key fields synced to the CRM. Use when the user says \"build an account plan for [account]\", \"update the [account] plan\", \"account planning for [account]\", or before a planning cycle / QBR.",
+  "repo": "anthropics/knowledge-work-plugins",
+  "path": "sales/skills/account-plan/SKILL.md",
+  "url": "https://github.com/anthropics/knowledge-work-plugins/tree/HEAD/sales/skills/account-plan/SKILL.md",
+  "license": "Apache-2.0",
+  "body_bytes": 7816,
+  "truncated": false
+}

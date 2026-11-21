@@ -1,0 +1,11 @@
+{
+  "name": "academic-plotting",
+  "display_name": "Academic Plotting",
+  "description": "Generates publication-quality figures for ML papers from research context. Given a paper section or description, extracts system components and relationships to generate architecture diagrams via Gemini. Given experiment results or data, auto-selects chart type and generates data-driven figures via matplotlib/seaborn. Use when creating any figure for a conference paper.",
+  "repo": "Orchestra-Research/AI-Research-SKILLs",
+  "path": "20-ml-paper-writing/academic-plotting/SKILL.md",
+  "url": "https://github.com/Orchestra-Research/AI-Research-SKILLs/tree/HEAD/20-ml-paper-writing/academic-plotting/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 20478,
+  "truncated": false
+}

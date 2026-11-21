@@ -1,0 +1,11 @@
+{
+  "name": "advisor-technical-strategy",
+  "display_name": "Advisor Technical Strategy",
+  "description": "Technical leadership advisor for CTOs covering technology strategy, team scaling, architecture decisions, and engineering excellence. Use when a CTO or technical founder needs company-level technology judgment — e.g., deciding build-vs-buy for a core platform component, or planning how to scale the engineering org from 5 to 30 engineers without losing delivery velocity.",
+  "repo": "alirezarezvani/claude-skills",
+  "path": ".gemini/skills/cs-cto-advisor/SKILL.md",
+  "url": "https://github.com/alirezarezvani/claude-skills/tree/HEAD/.gemini/skills/cs-cto-advisor/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 16608,
+  "truncated": false
+}

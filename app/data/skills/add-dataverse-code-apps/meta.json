@@ -1,0 +1,11 @@
+{
+  "name": "add-dataverse-code-apps",
+  "display_name": "Add Dataverse · Code Apps",
+  "description": "Adds Dataverse tables to a Power Apps code app with generated TypeScript models and services. Can also create new Dataverse tables. Use when connecting to Dataverse, adding tables, creating schema, or querying Dataverse data.",
+  "repo": "microsoft/power-platform-skills",
+  "path": "plugins/code-apps/skills/add-dataverse/SKILL.md",
+  "url": "https://github.com/microsoft/power-platform-skills/tree/HEAD/plugins/code-apps/skills/add-dataverse/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 5243,
+  "truncated": false
+}

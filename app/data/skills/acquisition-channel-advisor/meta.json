@@ -1,0 +1,11 @@
+{
+  "name": "acquisition-channel-advisor",
+  "display_name": "Acquisition Channel Advisor",
+  "description": "Evaluate acquisition channels using unit economics, customer quality, and scalability. Use when deciding whether to scale, test, or kill a growth channel.",
+  "repo": "deanpeters/Product-Manager-Skills",
+  "path": "skills/acquisition-channel-advisor/SKILL.md",
+  "url": "https://github.com/deanpeters/Product-Manager-Skills/tree/HEAD/skills/acquisition-channel-advisor/SKILL.md",
+  "license": "CC",
+  "body_bytes": 21038,
+  "truncated": false
+}

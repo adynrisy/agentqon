@@ -1,0 +1,11 @@
+{
+  "name": "add-excel",
+  "display_name": "Add Excel",
+  "description": "Adds Excel Online (Business) connector to a Power Apps code app. Use when reading or writing Excel workbook data from OneDrive or SharePoint.",
+  "repo": "microsoft/power-platform-skills",
+  "path": "plugins/code-apps/skills/add-excel/SKILL.md",
+  "url": "https://github.com/microsoft/power-platform-skills/tree/HEAD/plugins/code-apps/skills/add-excel/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 2864,
+  "truncated": false
+}

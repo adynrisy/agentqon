@@ -1,0 +1,11 @@
+{
+  "name": "advisor-financial-modeling",
+  "display_name": "Advisor Financial Modeling",
+  "description": "Financial leadership for startups and scaling companies. Financial modeling, unit economics, fundraising strategy, cash management, and board financial packages. Use when building financial models, analyzing unit economics, planning fundraising, managing cash runway, preparing board materials, or when user mentions CFO, burn rate, runway, fundraising, unit economics, LTV, CAC, term sheets, or financial strategy.",
+  "repo": "alirezarezvani/claude-skills",
+  "path": ".gemini/skills/cfo-advisor/SKILL.md",
+  "url": "https://github.com/alirezarezvani/claude-skills/tree/HEAD/.gemini/skills/cfo-advisor/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 6544,
+  "truncated": false
+}
