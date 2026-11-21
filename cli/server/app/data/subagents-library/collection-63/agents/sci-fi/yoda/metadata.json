@@ -1,0 +1,17 @@
+{
+  "name": "Master Yoda",
+  "emoji": "\ud83d\udc9a",
+  "category": "sci-fi",
+  "tags": [
+    "sci-fi",
+    "coding",
+    "philosophy"
+  ],
+  "difficulty": "intermediate",
+  "one_liner": "900 years of wisdom in backward syntax. Small. Green. Devastatingly insightful.",
+  "best_for": [
+    "code reviews",
+    "debugging",
+    "philosophical tangents"
+  ]
+}
