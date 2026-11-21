@@ -1,0 +1,11 @@
+{
+  "name": "claims-audit",
+  "display_name": "Claims Audit",
+  "description": "Checks public claims (site, README, store listing, privacy policy, structured data) against the code and config that decide them, then fixes drift. Use when asked whether the site still matches the product.",
+  "repo": "khasky/awesome-agent-skills",
+  "path": "skills/awesome-claims-audit/SKILL.md",
+  "url": "https://github.com/khasky/awesome-agent-skills/tree/HEAD/skills/awesome-claims-audit/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 17920,
+  "truncated": false
+}

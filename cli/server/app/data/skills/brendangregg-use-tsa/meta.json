@@ -1,0 +1,11 @@
+{
+  "name": "brendangregg-use-tsa",
+  "display_name": "Brendangregg Use Tsa",
+  "description": "Methodical performance troubleshooting and root-cause analysis with Brendan Gregg's USE and TSA methods, plus evidence-backed RCA and postmortem reports.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/brendangregg-use-tsa/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/brendangregg-use-tsa/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 10552,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "change-management-framework",
+  "display_name": "Change Management · Framework",
+  "description": "Framework for rolling out organizational changes without chaos. Covers the ADKAR model adapted for startups, communication templates, resistance patterns, and change fatigue management. Handles process changes, org restructures, strategy pivots, and culture changes. Use when announcing a reorg, switching tools, pivoting strategy, killing a product, changing leadership, or when user mentions change management, change rollout, managing resistance, org change, reorg, or pivot communication.",
+  "repo": "alirezarezvani/claude-skills",
+  "path": ".gemini/skills/change-management/SKILL.md",
+  "url": "https://github.com/alirezarezvani/claude-skills/tree/HEAD/.gemini/skills/change-management/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 10787,
+  "truncated": false
+}

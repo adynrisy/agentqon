@@ -1,0 +1,11 @@
+{
+  "name": "ci-cd-automation",
+  "display_name": "CI CD Automation",
+  "description": "Automates CI/CD pipeline setup. Use when setting up or modifying build and deployment pipelines. Use when you need to automate quality gates, configure test runners in CI, or establish deployment strategies.",
+  "repo": "addyosmani/agent-skills",
+  "path": "skills/ci-cd-and-automation/SKILL.md",
+  "url": "https://github.com/addyosmani/agent-skills/tree/HEAD/skills/ci-cd-and-automation/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 11075,
+  "truncated": false
+}

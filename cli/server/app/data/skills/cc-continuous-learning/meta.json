@@ -1,0 +1,11 @@
+{
+  "name": "cc-continuous-learning",
+  "display_name": "Cc Continuous Learning",
+  "description": "Turn a completed debugging session or repeated user correction into a small, evidence-backed procedure. Use for explicit requests to capture reusable lessons; does not automatically extract or save memories.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/cc-skill-continuous-learning/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/cc-skill-continuous-learning/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 4325,
+  "truncated": false
+}

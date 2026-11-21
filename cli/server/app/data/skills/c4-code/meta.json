@@ -1,0 +1,11 @@
+{
+  "name": "c4-code",
+  "display_name": "C4 Code",
+  "description": "Expert C4 Code-level documentation specialist. Analyzes code directories to create comprehensive C4 code-level documentation including function signatures, arguments, dependencies, and code structure.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/c4-code/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/c4-code/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 7729,
+  "truncated": false
+}

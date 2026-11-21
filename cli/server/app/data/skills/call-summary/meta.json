@@ -1,0 +1,11 @@
+{
+  "name": "call-summary",
+  "display_name": "Call Summary",
+  "description": "Turn a call transcript or call notes into a customer follow-up email draft, an internal chat summary, and proposed CRM updates. Use when the user says \"call summary\", \"follow up on my [company] call\", \"summarize my call with [account]\", \"write the recap\", \"process this transcript\", \"process my call notes\", \"capture the objections and next steps\", or pastes rough notes or a transcript after a discovery, demo, or negotiation call.",
+  "repo": "anthropics/knowledge-work-plugins",
+  "path": "sales/skills/call-summary/SKILL.md",
+  "url": "https://github.com/anthropics/knowledge-work-plugins/tree/HEAD/sales/skills/call-summary/SKILL.md",
+  "license": "Apache-2.0",
+  "body_bytes": 9303,
+  "truncated": false
+}

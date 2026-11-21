@@ -1,0 +1,11 @@
+{
+  "name": "chief-ai-officer-advisor",
+  "display_name": "Chief AI Officer Advisor",
+  "description": "Chief AI Officer advisory for startups: model build-vs-buy decisions (API vs fine-tune vs in-house), AI risk classification under EU AI Act + US state patchwork, AI cost economics (API-to-self-hosted breakeven), and AI team org evolution. Use when deciding whether to call an API or fine-tune, classifying AI use cases for regulatory risk, calculating when self-hosting pays off, sequencing AI hires, or when user mentions CAIO, AI strategy, model selection, foundation model, fine-tuning, EU AI Act, NIST AI RMF, AI governance, model risk, or AI economics. Strategic only — does not duplicate engineering AI/ML skills.",
+  "repo": "alirezarezvani/claude-skills",
+  "path": ".gemini/skills/chief-ai-officer-advisor/SKILL.md",
+  "url": "https://github.com/alirezarezvani/claude-skills/tree/HEAD/.gemini/skills/chief-ai-officer-advisor/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 13574,
+  "truncated": false
+}

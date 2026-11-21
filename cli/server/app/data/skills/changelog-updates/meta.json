@@ -1,0 +1,11 @@
+{
+  "name": "changelog-updates",
+  "display_name": "Changelog Updates",
+  "description": "Create release notes and product updates that developers actually read and care about. This skill covers changelog formatting, versioning communication, breaking change announcements, deprecation notices, and building anticipation for new features.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/changelog-updates/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/changelog-updates/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 1250,
+  "truncated": false
+}

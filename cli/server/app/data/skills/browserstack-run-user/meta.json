@@ -1,0 +1,11 @@
+{
+  "name": "browserstack-run-user",
+  "display_name": "Browserstack Run User",
+  "description": "Run tests on BrowserStack. Use when user mentions \"browserstack\", \"cross-browser\", \"cloud testing\", \"browser matrix\", \"test on safari\", \"test on firefox\", or \"browser compatibility\".",
+  "repo": "alirezarezvani/claude-skills",
+  "path": ".gemini/skills/browserstack/SKILL.md",
+  "url": "https://github.com/alirezarezvani/claude-skills/tree/HEAD/.gemini/skills/browserstack/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 4875,
+  "truncated": false
+}

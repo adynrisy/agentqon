@@ -1,0 +1,11 @@
+{
+  "name": "clickup-automation",
+  "display_name": "Clickup Automation",
+  "description": "Automate ClickUp project management including tasks, spaces, folders, lists, comments, and team operations via Rube MCP (Composio). Always search tools first for current schemas.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/clickup-automation/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/clickup-automation/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 11985,
+  "truncated": false
+}

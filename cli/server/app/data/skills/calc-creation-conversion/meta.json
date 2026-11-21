@@ -1,0 +1,11 @@
+{
+  "name": "calc-creation-conversion",
+  "display_name": "Calc Creation Conversion",
+  "description": "Spreadsheet creation, format conversion (ODS/XLSX/CSV), formulas, data automation with LibreOffice Calc.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/libreoffice/calc/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/libreoffice/calc/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 4939,
+  "truncated": false
+}

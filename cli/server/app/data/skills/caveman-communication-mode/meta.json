@@ -1,0 +1,11 @@
+{
+  "name": "caveman-communication-mode",
+  "display_name": "Caveman Communication Mode",
+  "description": "Ultra-compressed communication mode. Cuts token usage ~75% by dropping filler, articles, and pleasantries while keeping full technical accuracy. Use when user says \"caveman mode\", \"talk like caveman\", \"use caveman\", \"less tokens\", \"be brief\", or invokes /caveman.",
+  "repo": "alirezarezvani/claude-skills",
+  "path": ".gemini/skills/caveman/SKILL.md",
+  "url": "https://github.com/alirezarezvani/claude-skills/tree/HEAD/.gemini/skills/caveman/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 2160,
+  "truncated": false
+}

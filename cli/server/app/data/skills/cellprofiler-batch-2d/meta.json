@@ -1,0 +1,11 @@
+{
+  "name": "cellprofiler-batch-2d",
+  "display_name": "Cellprofiler Batch 2D",
+  "description": "Runs reproducible CellProfiler microscopy pipelines for nuclear segmentation, cell counts, and per-object fluorescence measurements. Supports image/channel manifests, headless batch execution, segmentation overlays, and measurement QC for 2D fluorescence assays.",
+  "repo": "K-Dense-AI/scientific-agent-skills",
+  "path": "skills/cellprofiler/SKILL.md",
+  "url": "https://github.com/K-Dense-AI/scientific-agent-skills/tree/HEAD/skills/cellprofiler/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 6994,
+  "truncated": false
+}

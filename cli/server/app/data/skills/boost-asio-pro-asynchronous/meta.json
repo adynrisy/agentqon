@@ -1,0 +1,11 @@
+{
+  "name": "boost-asio-pro-asynchronous",
+  "display_name": "Boost Asio Pro · Asynchronous",
+  "description": "Use when writing asynchronous C++ networking code with Boost.Asio or standalone Asio — TCP/UDP servers and clients, SSL/TLS, timers, strands, composed async ops. Covers io_context, co_spawn, awaitable, async_read/async_write, asio::spawn, yield_context, and pre-C++20 callback styles.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/boost-asio-pro/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/boost-asio-pro/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 11428,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "blue-green-deploy",
+  "display_name": "Blue Green Deploy",
+  "description": "Configure zero-downtime deployment strategies including blue-green, canary, and rolling deployments.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/blue-green-deploy/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/blue-green-deploy/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 11055,
+  "truncated": false
+}

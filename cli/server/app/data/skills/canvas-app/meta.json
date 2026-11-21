@@ -1,0 +1,11 @@
+{
+  "name": "canvas-app",
+  "display_name": "Canvas App",
+  "description": "Creates or edits a Power Apps Canvas App through the Canvas Authoring MCP coauthoring session. Handles staged experience design, direct and partitioned targeted edits, planned multi-screen changes, responsive layout, and compile-error convergence. Trigger on requests to create, build, generate, modify, update, change, fix, or edit a Canvas App or .pa.yaml files.",
+  "repo": "microsoft/power-platform-skills",
+  "path": "plugins/canvas-apps/skills/canvas-app/SKILL.md",
+  "url": "https://github.com/microsoft/power-platform-skills/tree/HEAD/plugins/canvas-apps/skills/canvas-app/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 9195,
+  "truncated": false
+}

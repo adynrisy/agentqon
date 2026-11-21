@@ -1,0 +1,11 @@
+{
+  "name": "code-documentation-explain",
+  "display_name": "Code Documentation Explain",
+  "description": "You are a code education expert specializing in explaining complex code through clear narratives, visual diagrams, and step-by-step breakdowns. Transform difficult concepts into understandable explanations for developers at all levels.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/code-documentation-code-explain/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/code-documentation-code-explain/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 1873,
+  "truncated": false
+}

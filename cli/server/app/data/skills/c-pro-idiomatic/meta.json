@@ -1,0 +1,11 @@
+{
+  "name": "c-pro-idiomatic",
+  "display_name": "C++ Pro · Idiomatic",
+  "description": "Write idiomatic C++ code with modern features, RAII, smart pointers, and STL algorithms. Handles templates, move semantics, and performance optimization.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/cpp-pro/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/cpp-pro/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 1940,
+  "truncated": false
+}

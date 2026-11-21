@@ -1,0 +1,11 @@
+{
+  "name": "crossframe-public",
+  "display_name": "Crossframe Public",
+  "description": "Use when CrossFrame Suite routes explicit Chinese analysis of public issues, platform governance, policy, institutional responsibility, appeals, or compliance evidence.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/crossframe-public/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/crossframe-public/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 7668,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "clinical-reports",
+  "display_name": "Clinical Reports",
+  "description": "Creates safety-bounded draft structures and runs local deterministic checks for clinical case, diagnostic, trial, safety, and aggregate research reports. Use only with synthetic, de-identified, or aggregate inputs and verified source-fact manifests; every output requires qualified review.",
+  "repo": "K-Dense-AI/scientific-agent-skills",
+  "path": "skills/clinical-reports/SKILL.md",
+  "url": "https://github.com/K-Dense-AI/scientific-agent-skills/tree/HEAD/skills/clinical-reports/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 15247,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "cc-backend-patterns",
+  "display_name": "Cc Backend Patterns",
+  "description": "Backend architecture patterns, API design, database optimization, and server-side best practices for Node.js, Express, and Next.js API routes.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/cc-skill-backend-patterns/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/cc-skill-backend-patterns/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 874,
+  "truncated": false
+}

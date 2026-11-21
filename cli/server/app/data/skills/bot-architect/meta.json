@@ -1,0 +1,11 @@
+{
+  "name": "bot-architect",
+  "display_name": "Bot Architect",
+  "description": "Specialized skill for building production-ready Discord bots. Covers Discord.js (JavaScript) and Pycord (Python), gateway intents, slash commands, interactive components, rate limiting, and sharding.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/discord-bot-architect/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/discord-bot-architect/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 987,
+  "truncated": false
+}

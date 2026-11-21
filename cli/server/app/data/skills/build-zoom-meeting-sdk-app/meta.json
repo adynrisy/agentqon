@@ -1,0 +1,11 @@
+{
+  "name": "build-zoom-meeting-sdk-app",
+  "display_name": "Build Zoom Meeting SDK App",
+  "description": "Reference skill for Zoom Meeting SDK. Use after routing to a meeting-embed workflow when implementing real Zoom meeting joins, platform-specific SDK behavior, auth and join flows, waiting room issues, or meeting bot patterns.",
+  "repo": "anthropics/knowledge-work-plugins",
+  "path": "partner-built/zoom-plugin/skills/meeting-sdk/SKILL.md",
+  "url": "https://github.com/anthropics/knowledge-work-plugins/tree/HEAD/partner-built/zoom-plugin/skills/meeting-sdk/SKILL.md",
+  "license": "Apache-2.0",
+  "body_bytes": 10556,
+  "truncated": false
+}

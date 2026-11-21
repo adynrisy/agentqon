@@ -1,0 +1,11 @@
+{
+  "name": "build-dashboard",
+  "display_name": "Build Dashboard",
+  "description": "Build an interactive HTML dashboard with charts, filters, and tables. Use when creating an executive overview with KPI cards, turning query results into a shareable self-contained report, building a team monitoring snapshot, or needing multiple charts with filters in one browser-openable file.",
+  "repo": "anthropics/knowledge-work-plugins",
+  "path": "data/skills/build-dashboard/SKILL.md",
+  "url": "https://github.com/anthropics/knowledge-work-plugins/tree/HEAD/data/skills/build-dashboard/SKILL.md",
+  "license": "Apache-2.0",
+  "body_bytes": 25618,
+  "truncated": false
+}

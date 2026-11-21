@@ -1,0 +1,11 @@
+{
+  "name": "client-caching-data",
+  "display_name": "Client Caching Data",
+  "description": "Use the @upstash/redis HTTP client for caching, sessions, counters, and Redis data structures from serverless and edge runtimes without connection pooling.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/upstash-redis/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/upstash-redis/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 5445,
+  "truncated": false
+}

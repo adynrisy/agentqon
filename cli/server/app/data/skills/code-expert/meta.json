@@ -1,0 +1,11 @@
+{
+  "name": "code-expert",
+  "display_name": "Code Expert",
+  "description": "Especialista profundo em Claude Code - CLI da Anthropic. Maximiza produtividade com atalhos, hooks, MCPs, configuracoes avancadas, workflows, CLAUDE.md, memoria, sub-agentes, permissoes e integracao com ecossistemas.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "skills/claude-code-expert/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/skills/claude-code-expert/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 976,
+  "truncated": false
+}

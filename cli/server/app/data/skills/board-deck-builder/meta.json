@@ -1,0 +1,11 @@
+{
+  "name": "board-deck-builder",
+  "display_name": "Board Deck Builder",
+  "description": "Assembles comprehensive board and investor update decks by pulling perspectives from all C-suite roles. Use when preparing board meetings, investor updates, quarterly business reviews, or fundraising narratives. Covers structure, narrative framework, bad news delivery, and common mistakes.",
+  "repo": "alirezarezvani/claude-skills",
+  "path": ".gemini/skills/board-deck-builder/SKILL.md",
+  "url": "https://github.com/alirezarezvani/claude-skills/tree/HEAD/.gemini/skills/board-deck-builder/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 7017,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "browser-harness-research-web",
+  "display_name": "Browser Harness · Research Web",
+  "description": "Direct browser control via CDP. Use when the user wants to automate, scrape, test, or interact with web pages. Connects to the user's already-running Chrome.",
+  "repo": "davidondrej/skills",
+  "path": "skills/research-and-web/browser-harness/SKILL.md",
+  "url": "https://github.com/davidondrej/skills/tree/HEAD/skills/research-and-web/browser-harness/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 11669,
+  "truncated": false
+}

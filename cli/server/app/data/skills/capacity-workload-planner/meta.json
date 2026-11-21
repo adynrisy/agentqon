@@ -1,0 +1,11 @@
+{
+  "name": "capacity-workload-planner",
+  "display_name": "Capacity Workload Planner",
+  "description": "Weekly capacity and workload register: available and allocated hours, utilisation percentage, over-allocation check and leave days. Use for resource planning.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/capacity-workload-planner/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/capacity-workload-planner/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 15278,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "close-management",
+  "display_name": "Close Management",
+  "description": "Manage the month-end close process with task sequencing, dependencies, and status tracking. Use when planning the close calendar, tracking close progress, identifying blockers, or sequencing close activities by day.",
+  "repo": "anthropics/knowledge-work-plugins",
+  "path": "finance/skills/close-management/SKILL.md",
+  "url": "https://github.com/anthropics/knowledge-work-plugins/tree/HEAD/finance/skills/close-management/SKILL.md",
+  "license": "Apache-2.0",
+  "body_bytes": 9995,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "brand-guidelines-copy",
+  "display_name": "Brand Guidelines · Copy",
+  "description": "Write copy following Sentry brand guidelines. Use when writing UI text, error messages, empty states, onboarding flows, 404 pages, documentation, marketing copy, or any user-facing content. Covers both Plain Speech (default) and Sentry Voice tones.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/brand-guidelines/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/brand-guidelines/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 5518,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "cli-coding-monitor",
+  "display_name": "CLI Coding Monitor",
+  "description": "Proxy Cline CLI coding tasks: dispatch, monitor background runs via hard evidence, relay decision points in a fixed format, verify against a checklist, and learn per-tag preferences over time.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/cline-pilot/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/cline-pilot/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 31511,
+  "truncated": false
+}

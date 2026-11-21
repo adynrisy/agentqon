@@ -1,0 +1,11 @@
+{
+  "name": "build-zoom-bot",
+  "display_name": "Build Zoom Bot",
+  "description": "Build a Zoom meeting bot, recorder, or real-time media workflow. Use when joining meetings programmatically, processing live media or transcripts, or combining Meeting SDK, RTMS, and backend services.",
+  "repo": "anthropics/knowledge-work-plugins",
+  "path": "partner-built/zoom-plugin/skills/build-zoom-bot/SKILL.md",
+  "url": "https://github.com/anthropics/knowledge-work-plugins/tree/HEAD/partner-built/zoom-plugin/skills/build-zoom-bot/SKILL.md",
+  "license": "Apache-2.0",
+  "body_bytes": 1006,
+  "truncated": false
+}

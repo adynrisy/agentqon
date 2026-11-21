@@ -1,0 +1,11 @@
+{
+  "name": "cirq-google-ai",
+  "display_name": "Cirq Google AI",
+  "description": "Cirq is Google Quantum AI's open-source framework for designing, simulating, and running quantum circuits on quantum computers and simulators.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/cirq/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/cirq/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 10875,
+  "truncated": false
+}

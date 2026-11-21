@@ -1,0 +1,11 @@
+{
+  "name": "build-zoom-team-chat-app",
+  "display_name": "Build Zoom Team Chat App",
+  "description": "Reference skill for Zoom Team Chat. Use after routing to a chat workflow when building user-scoped messaging integrations, chatbot experiences, rich cards, buttons, slash commands, or chat webhooks.",
+  "repo": "anthropics/knowledge-work-plugins",
+  "path": "partner-built/zoom-plugin/skills/team-chat/SKILL.md",
+  "url": "https://github.com/anthropics/knowledge-work-plugins/tree/HEAD/partner-built/zoom-plugin/skills/team-chat/SKILL.md",
+  "license": "Apache-2.0",
+  "body_bytes": 23361,
+  "truncated": false
+}

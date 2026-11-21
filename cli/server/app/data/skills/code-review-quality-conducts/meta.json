@@ -1,0 +1,11 @@
+{
+  "name": "code-review-quality-conducts",
+  "display_name": "Code Review Quality · Conducts",
+  "description": "Conducts multi-axis code review. Use before merging any change. Use when reviewing code written by yourself, another agent, or a human. Use when you need to assess code quality across multiple dimensions before it enters the main branch. Use when asked to review a diff or a pull request, even when the diff is pasted inline.",
+  "repo": "addyosmani/agent-skills",
+  "path": "skills/code-review-and-quality/SKILL.md",
+  "url": "https://github.com/addyosmani/agent-skills/tree/HEAD/skills/code-review-and-quality/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 20598,
+  "truncated": false
+}

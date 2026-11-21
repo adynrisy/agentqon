@@ -1,0 +1,11 @@
+{
+  "name": "bot-design-create",
+  "display_name": "Bot Design Create",
+  "description": "Design a Grok Bot role and create its setup prompt. Use only when the user explicitly invokes /new-grok-bot.",
+  "repo": "davidondrej/skills",
+  "path": "skills/agent-orchestration/new-grok-bot/SKILL.md",
+  "url": "https://github.com/davidondrej/skills/tree/HEAD/skills/agent-orchestration/new-grok-bot/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 4246,
+  "truncated": false
+}

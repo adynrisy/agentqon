@@ -1,0 +1,11 @@
+{
+  "name": "build-feature-research",
+  "display_name": "Build Feature Research",
+  "description": "Use when developing a major feature: research the project, create a phased implementation plan, track progress and verify phase outcomes before declaring completion.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/build/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/build/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 1649,
+  "truncated": false
+}

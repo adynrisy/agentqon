@@ -1,0 +1,11 @@
+{
+  "name": "call-lead-triage",
+  "display_name": "Call Lead Triage",
+  "description": "Builds today's call list. Runs lead-triage to rank the top-5 leads most worth calling, supplies talking points from email history, blocks time on the calendar, and drafts follow-up messages. Trigger on \"call list,\" \"who am I calling today,\" \"top five to call today,\" or \"block time for calls.\" An owner who wants leads scored or ranked with no calendar blocks routes to lead-triage directly. Accepts optional count and date arguments.",
+  "repo": "anthropics/knowledge-work-plugins",
+  "path": "small-business/skills/call-list/SKILL.md",
+  "url": "https://github.com/anthropics/knowledge-work-plugins/tree/HEAD/small-business/skills/call-list/SKILL.md",
+  "license": "Apache-2.0",
+  "body_bytes": 4512,
+  "truncated": false
+}

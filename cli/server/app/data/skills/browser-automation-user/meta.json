@@ -1,0 +1,11 @@
+{
+  "name": "browser-automation-user",
+  "display_name": "Browser Automation · User",
+  "description": "Use when the user asks to automate browser tasks, scrape websites, fill forms, capture screenshots, extract structured data from web pages, or build web automation workflows. NOT for testing — use playwright-pro for that.",
+  "repo": "alirezarezvani/claude-skills",
+  "path": ".gemini/skills/browser-automation/SKILL.md",
+  "url": "https://github.com/alirezarezvani/claude-skills/tree/HEAD/.gemini/skills/browser-automation/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 13541,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "build-zoom-virtual",
+  "display_name": "Build Zoom Virtual",
+  "description": "Reference skill for Zoom Virtual Agent. Use after routing to a virtual-agent workflow when implementing web embeds, Android or iOS wrapper integrations, knowledge-base sync, lifecycle handling, or troubleshooting.",
+  "repo": "anthropics/knowledge-work-plugins",
+  "path": "partner-built/zoom-plugin/skills/virtual-agent/SKILL.md",
+  "url": "https://github.com/anthropics/knowledge-work-plugins/tree/HEAD/partner-built/zoom-plugin/skills/virtual-agent/SKILL.md",
+  "license": "Apache-2.0",
+  "body_bytes": 2958,
+  "truncated": false
+}

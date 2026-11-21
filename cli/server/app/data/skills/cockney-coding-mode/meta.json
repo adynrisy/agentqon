@@ -1,0 +1,11 @@
+{
+  "name": "cockney-coding-mode",
+  "display_name": "Cockney Coding Mode",
+  "description": "Cheeky Cockney coding mode: terse replies, the smallest correct change, plain English for anything risky.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/cockney/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/cockney/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 6310,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "cdn-setup",
+  "display_name": "Cdn Setup",
+  "description": "Configure CDNs for content delivery. Set up CloudFront, Cloudflare, and Fastly. Use when optimizing global content delivery.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/cdn-setup/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/cdn-setup/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 10906,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "cloud-security",
+  "display_name": "Cloud Security",
+  "description": "Use when assessing cloud infrastructure for security misconfigurations, IAM privilege escalation paths, S3 public exposure, open security group rules, or IaC security gaps. Covers AWS, Azure, and GCP posture assessment with MITRE ATT&CK mapping.",
+  "repo": "alirezarezvani/claude-skills",
+  "path": ".gemini/skills/cloud-security/SKILL.md",
+  "url": "https://github.com/alirezarezvani/claude-skills/tree/HEAD/.gemini/skills/cloud-security/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 16333,
+  "truncated": false
+}

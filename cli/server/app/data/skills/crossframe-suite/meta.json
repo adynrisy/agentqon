@@ -1,0 +1,11 @@
+{
+  "name": "crossframe-suite",
+  "display_name": "Crossframe Suite",
+  "description": "Use when the user explicitly invokes CrossFrame Suite for Chinese structural diagnosis workflows across relationships, organizations, public issues, philosophy, research, or essay output.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/crossframe-suite/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/crossframe-suite/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 13362,
+  "truncated": false
+}

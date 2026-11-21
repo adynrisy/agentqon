@@ -1,0 +1,11 @@
+{
+  "name": "code-guidelines-scala",
+  "display_name": "Code Guidelines · Scala",
+  "description": "Language-specific super-code guidelines for scala.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/super-code/scala/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/super-code/scala/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 6798,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "ci-patterns-comprehensive",
+  "display_name": "CI Patterns · Comprehensive",
+  "description": "Comprehensive GitLab CI/CD pipeline patterns for automated testing, building, and deployment.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/gitlab-ci-patterns/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/gitlab-ci-patterns/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 6215,
+  "truncated": false
+}

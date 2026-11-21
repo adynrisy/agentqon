@@ -1,0 +1,11 @@
+{
+  "name": "bug-hunter",
+  "display_name": "Bug Hunter",
+  "description": "Systematically finds and fixes bugs using proven debugging techniques. Traces from symptoms to root cause, implements fixes, and prevents regression.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/bug-hunter/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/bug-hunter/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 7649,
+  "truncated": false
+}

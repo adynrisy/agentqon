@@ -1,0 +1,11 @@
+{
+  "name": "cc-coding-standards",
+  "display_name": "Cc Coding Standards",
+  "description": "Universal coding standards, best practices, and patterns for TypeScript, JavaScript, React, and Node.js development.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/cc-skill-coding-standards/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/cc-skill-coding-standards/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 850,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "brand-guidelines-access",
+  "display_name": "Brand Guidelines · Access",
+  "description": "To access Anthropic's official brand identity and style resources, use this skill.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/brand-guidelines-anthropic/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/brand-guidelines-anthropic/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 3345,
+  "truncated": false
+}

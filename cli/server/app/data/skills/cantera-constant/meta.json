@@ -1,0 +1,11 @@
+{
+  "name": "cantera-constant",
+  "display_name": "Cantera Constant",
+  "description": "Runs Cantera homogeneous chemical reactors and evaluates ignition delay with mechanism provenance, conservation checks, and numerical refinement. Use for combustion kinetics, closed adiabatic ideal-gas constant-volume or constant-pressure ignition, temperature histories, or mechanism-specific ignition-delay comparisons.",
+  "repo": "K-Dense-AI/scientific-agent-skills",
+  "path": "skills/cantera/SKILL.md",
+  "url": "https://github.com/K-Dense-AI/scientific-agent-skills/tree/HEAD/skills/cantera/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 7928,
+  "truncated": false
+}

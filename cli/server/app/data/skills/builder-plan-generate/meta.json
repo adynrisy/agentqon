@@ -1,0 +1,11 @@
+{
+  "name": "builder-plan-generate",
+  "display_name": "Builder PLAN GENERATE",
+  "description": "PLAN and GENERATE WJTTC (Championship-Grade) test suites for any project. Analyzes the codebase, classifies components across the WJTTC five tiers (Brake · Engine · Aero · Tyre · Pit), writes a tiered test plan, and scaffolds executable test files.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/wjttc-builder/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/wjttc-builder/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 13139,
+  "truncated": false
+}

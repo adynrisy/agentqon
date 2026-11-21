@@ -1,0 +1,11 @@
+{
+  "name": "cloud-architect",
+  "display_name": "Cloud Architect",
+  "description": "Expert cloud architect specializing in AWS/Azure/GCP multi-cloud infrastructure design, advanced IaC (Terraform/OpenTofu/CDK), FinOps cost optimization, and modern architectural patterns.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/cloud-architect/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/cloud-architect/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 7714,
+  "truncated": false
+}

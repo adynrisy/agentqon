@@ -1,0 +1,11 @@
+{
+  "name": "churn-prevention-reduce",
+  "display_name": "Churn Prevention · Reduce",
+  "description": "Reduce voluntary and involuntary churn with cancel flows, save offers, dunning, win-back tactics, and retention strategy. Use when users are cancelling, failed payments are rising, or subscription retention needs improvement.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/churn-prevention/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/churn-prevention/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 18246,
+  "truncated": false
+}

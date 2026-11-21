@@ -1,0 +1,11 @@
+{
+  "name": "calibrate-first",
+  "display_name": "Calibrate First",
+  "description": "Measure a dataset's detection floor before reading any trading-signal result, pre-register every test, and report too-small-to-see as UNDECIDABLE, not 'no effect'.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/calibrate-first/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/calibrate-first/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 4449,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "chrome-troubleshooting",
+  "display_name": "Chrome Troubleshooting",
+  "description": "Diagnose and fix Claude in Chrome MCP extension connectivity issues. Use when mcp__claude-in-chrome__* tools fail, return \"Browser extension is not connected\", or behave erratically.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "skills/claude-in-chrome-troubleshooting/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/skills/claude-in-chrome-troubleshooting/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 10354,
+  "truncated": false
+}

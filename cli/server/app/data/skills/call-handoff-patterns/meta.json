@@ -1,0 +1,11 @@
+{
+  "name": "call-handoff-patterns",
+  "display_name": "Call Handoff Patterns",
+  "description": "Effective patterns for on-call shift transitions, ensuring continuity, context transfer, and reliable incident response across shifts.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/on-call-handoff-patterns/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/on-call-handoff-patterns/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 12142,
+  "truncated": false
+}

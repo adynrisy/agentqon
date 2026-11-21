@@ -1,0 +1,11 @@
+{
+  "name": "boardroom-c-brief",
+  "display_name": "Boardroom C Brief",
+  "description": "/c-level-agents:boardroom [brief] — 6-phase multi-role deliberation across the C-suite with Phase 2 isolation, critic pre-screen, and synthesis. Outputs a board memo. Use when a decision spans multiple executive domains — e.g. a pricing change touching finance, positioning, and product, or a raise-vs-cut runway call.",
+  "repo": "alirezarezvani/claude-skills",
+  "path": ".gemini/skills/boardroom/SKILL.md",
+  "url": "https://github.com/alirezarezvani/claude-skills/tree/HEAD/.gemini/skills/boardroom/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 4569,
+  "truncated": false
+}

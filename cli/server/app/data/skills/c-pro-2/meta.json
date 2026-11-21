@@ -1,0 +1,11 @@
+{
+  "name": "c-pro",
+  "display_name": "C# Pro",
+  "description": "Write modern C# code with advanced features like records, pattern matching, and async/await. Use for version-compatible .NET implementation and evidence-based testing/performance review.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/csharp-pro/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/csharp-pro/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 2618,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "ci-cd-automation-workflow-automate",
+  "display_name": "CI/CD Automation Workflow Automate",
+  "description": "You are a workflow automation expert specializing in creating efficient CI/CD pipelines, GitHub Actions workflows, and automated development processes. Design and implement automation that reduces manual work, improves consistency, and accelerates delivery while maintaining quality and security.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/cicd-automation-workflow-automate/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/cicd-automation-workflow-automate/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 2200,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "chief-staff-progress",
+  "display_name": "Chief Staff · Progress",
+  "description": "Pursue a long-running goal in a single session by co-ordinating subagents.",
+  "repo": "mattpocock/skills",
+  "path": "skills/in-progress/chief-of-staff/SKILL.md",
+  "url": "https://github.com/mattpocock/skills/tree/HEAD/skills/in-progress/chief-of-staff/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 3667,
+  "truncated": false
+}

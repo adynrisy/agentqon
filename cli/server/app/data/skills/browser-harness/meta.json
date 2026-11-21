@@ -1,0 +1,11 @@
+{
+  "name": "browser-harness",
+  "display_name": "Browser Harness",
+  "description": "Drive an existing browser through CDP for authenticated, visual, or interactive web automation.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/browser-harness/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/browser-harness/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 12157,
+  "truncated": false
+}

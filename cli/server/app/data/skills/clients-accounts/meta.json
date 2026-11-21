@@ -1,0 +1,11 @@
+{
+  "name": "clients-accounts",
+  "display_name": "Clients Accounts",
+  "description": "Client and account register: contacts, billing address, tax ID and basis, payment terms, invoice totals, amounts paid and outstanding balance. Use for account tracking.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/clients-accounts/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/clients-accounts/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 18531,
+  "truncated": false
+}

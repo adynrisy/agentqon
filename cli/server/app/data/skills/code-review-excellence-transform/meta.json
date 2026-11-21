@@ -1,0 +1,11 @@
+{
+  "name": "code-review-excellence-transform",
+  "display_name": "Code Review Excellence · Transform",
+  "description": "Transform code reviews from gatekeeping to knowledge sharing through constructive feedback, systematic analysis, and collaborative improvement.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/code-review-excellence/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/code-review-excellence/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 1467,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "business-contact-social-links",
+  "display_name": "Business Contact Social Links",
+  "description": "This skill helps users automatically extract official website and social media profiles. Agent should proactively apply this skill when users express needs like search for official website and social media contacts of a company, find YouTube and LinkedIn profiles by company name, extract social media links from a specific website URL, discover a company's X and Facebook presence, gather business contact details using their brand name, retrieve TikTok and Instagram links from a target website, track competitor social media strategy, extract multi-platform social links for lead generation, find official contact channels of local businesses, collect canonical profile URLs for outreach campaigns, or build a contact database from Yellow Pages leads.",
+  "repo": "browser-act/skills",
+  "path": "solutions/lead-generation/business-contact-social-links-skill/SKILL.md",
+  "url": "https://github.com/browser-act/skills/tree/HEAD/solutions/lead-generation/business-contact-social-links-skill/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 5468,
+  "truncated": false
+}

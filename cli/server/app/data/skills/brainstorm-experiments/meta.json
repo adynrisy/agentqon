@@ -1,0 +1,11 @@
+{
+  "name": "brainstorm-experiments",
+  "display_name": "Brainstorm Experiments",
+  "description": "Design lean startup experiments (pretotypes) for a new product. Creates XYZ hypotheses and suggests low-effort validation methods like landing pages, explainer videos, and pre-orders. Use when validating a new product idea, creating pretotypes, or testing market demand.",
+  "repo": "phuryn/pm-skills",
+  "path": "pm-product-discovery/skills/brainstorm-experiments-new/SKILL.md",
+  "url": "https://github.com/phuryn/pm-skills/tree/HEAD/pm-product-discovery/skills/brainstorm-experiments-new/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 2210,
+  "truncated": false
+}

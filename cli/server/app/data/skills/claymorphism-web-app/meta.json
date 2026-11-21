@@ -1,0 +1,11 @@
+{
+  "name": "claymorphism-web-app",
+  "display_name": "Claymorphism Web App",
+  "description": "Web and App implementation guide for Claymorphism. Trigger when user wants soft 3D elements, rounded shapes, and a playful, tactile appearance.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/design-it/claymorphism/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/design-it/claymorphism/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 10156,
+  "truncated": false
+}

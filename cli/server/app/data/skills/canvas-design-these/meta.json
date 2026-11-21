@@ -1,0 +1,11 @@
+{
+  "name": "canvas-design-these",
+  "display_name": "Canvas Design · These",
+  "description": "These are instructions for creating design philosophies - aesthetic movements that are then EXPRESSED VISUALLY. Output only .md files, .pdf files, and .png files.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/canvas-design/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/canvas-design/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 11991,
+  "truncated": false
+}

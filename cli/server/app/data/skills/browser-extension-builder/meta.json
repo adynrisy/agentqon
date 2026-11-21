@@ -1,0 +1,11 @@
+{
+  "name": "browser-extension-builder",
+  "display_name": "Browser Extension Builder",
+  "description": "Expert in building browser extensions that solve real problems - Chrome, Firefox, and cross-browser extensions. Covers extension architecture, manifest v3, content scripts, popup UIs, monetization strategies, and Chrome Web Store publishing.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/browser-extension-builder/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/browser-extension-builder/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 8791,
+  "truncated": false
+}

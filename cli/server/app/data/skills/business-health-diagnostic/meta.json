@@ -1,0 +1,11 @@
+{
+  "name": "business-health-diagnostic",
+  "display_name": "Business Health Diagnostic",
+  "description": "Diagnose SaaS business health across growth, retention, efficiency, and capital. Use when preparing a business review or prioritizing urgent fixes.",
+  "repo": "deanpeters/Product-Manager-Skills",
+  "path": "skills/business-health-diagnostic/SKILL.md",
+  "url": "https://github.com/deanpeters/Product-Manager-Skills/tree/HEAD/skills/business-health-diagnostic/SKILL.md",
+  "license": "CC",
+  "body_bytes": 22130,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "brand-monitoring",
+  "display_name": "Brand Monitoring",
+  "description": "Brand monitoring tool for tracking mentions across social media platforms. Monitor Reddit, Google News, YouTube, and DuckDuckGo for brand mentions. Includes sentiment analysis, trend tracking, crisis detection, and competitor comparison. No API key required for basic monitoring.",
+  "repo": "nexscope-ai/eCommerce-Skills",
+  "path": "brand-monitoring/SKILL.md",
+  "url": "https://github.com/nexscope-ai/eCommerce-Skills/tree/HEAD/brand-monitoring/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 3548,
+  "truncated": false
+}

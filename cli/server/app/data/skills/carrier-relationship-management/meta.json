@@ -1,0 +1,11 @@
+{
+  "name": "carrier-relationship-management",
+  "display_name": "Carrier Relationship Management",
+  "description": "Codified expertise for managing carrier portfolios, negotiating freight rates, tracking carrier performance, allocating freight, and maintaining strategic carrier relationships.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/carrier-relationship-management/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/carrier-relationship-management/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 23549,
+  "truncated": false
+}

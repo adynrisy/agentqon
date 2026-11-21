@@ -1,0 +1,11 @@
+{
+  "name": "bug-fix",
+  "display_name": "Bug Fix",
+  "description": "Fixes a bug through a runnable reproduction and its root cause. Use for errors, crashes, failing tests or builds, flaky behavior, or repeated failed fixes.",
+  "repo": "khasky/awesome-agent-skills",
+  "path": "skills/awesome-bug-fix/SKILL.md",
+  "url": "https://github.com/khasky/awesome-agent-skills/tree/HEAD/skills/awesome-bug-fix/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 17908,
+  "truncated": false
+}

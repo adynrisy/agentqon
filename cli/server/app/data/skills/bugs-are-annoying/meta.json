@@ -1,0 +1,11 @@
+{
+  "name": "bugs-are-annoying",
+  "display_name": "Bugs Are Annoying",
+  "description": "Adversarial code auditor that hunts down bugs, logic errors, and security flaws. Use for deep correctness passes, not style reviews.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/bugs-are-annoying/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/bugs-are-annoying/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 10155,
+  "truncated": false
+}

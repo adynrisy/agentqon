@@ -1,0 +1,11 @@
+{
+  "name": "claimable-postgres",
+  "display_name": "Claimable Postgres",
+  "description": "Provision instant temporary Postgres databases via Claimable Postgres by Neon (neon.new) with no login, signup, or credit card. Supports REST API, CLI, and SDK.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/claimable-postgres/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/claimable-postgres/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 12467,
+  "truncated": false
+}

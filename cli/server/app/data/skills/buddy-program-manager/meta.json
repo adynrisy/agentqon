@@ -1,0 +1,11 @@
+{
+  "name": "buddy-program-manager",
+  "display_name": "Buddy Program Manager",
+  "description": "Buddy programme register: new hire, assigned buddy, department, start and end dates, check-ins planned and done, and feedback score. Use for onboarding buddy schemes.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/buddy-program-manager/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/buddy-program-manager/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 14493,
+  "truncated": false
+}

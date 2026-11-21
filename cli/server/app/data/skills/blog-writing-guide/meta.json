@@ -1,0 +1,11 @@
+{
+  "name": "blog-writing-guide",
+  "display_name": "Blog Writing Guide",
+  "description": "This skill enforces Sentry's blog writing standards across every post — whether you're helping an engineer write their first blog post or a marketer draft a product announcement.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/blog-writing-guide/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/blog-writing-guide/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 8359,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "checkout-optimization",
+  "display_name": "Checkout Optimization",
+  "description": "Optimize e-commerce checkout flow to reduce cart abandonment. Friction analysis, payment method optimization, trust signals, and checkout UX best practices.",
+  "repo": "nexscope-ai/eCommerce-Skills",
+  "path": "ecommerce-checkout-optimization/SKILL.md",
+  "url": "https://github.com/nexscope-ai/eCommerce-Skills/tree/HEAD/ecommerce-checkout-optimization/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 2146,
+  "truncated": false
+}

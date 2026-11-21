@@ -1,0 +1,11 @@
+{
+  "name": "brainstorm-experiments-existing",
+  "display_name": "Brainstorm Experiments Existing",
+  "description": "Design experiments to test assumptions for an existing product — prototypes, A/B tests, spikes, and other low-effort validation methods. Use when validating assumptions, testing feature ideas cheaply, or planning product experiments.",
+  "repo": "phuryn/pm-skills",
+  "path": "pm-product-discovery/skills/brainstorm-experiments-existing/SKILL.md",
+  "url": "https://github.com/phuryn/pm-skills/tree/HEAD/pm-product-discovery/skills/brainstorm-experiments-existing/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 2110,
+  "truncated": false
+}

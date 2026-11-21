@@ -1,0 +1,11 @@
+{
+  "name": "code-guidelines-c",
+  "display_name": "Code Guidelines C",
+  "description": "Language-specific super-code guidelines for c.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/super-code/c/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/super-code/c/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 5339,
+  "truncated": false
+}

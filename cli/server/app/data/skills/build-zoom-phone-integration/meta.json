@@ -1,0 +1,11 @@
+{
+  "name": "build-zoom-phone-integration",
+  "display_name": "Build Zoom Phone Integration",
+  "description": "Reference skill for Zoom Phone. Use after routing to a phone workflow when implementing OAuth, Phone APIs, webhooks, Smart Embed events, URI schemes, CRM or CTI dialers, or call handling automation.",
+  "repo": "anthropics/knowledge-work-plugins",
+  "path": "partner-built/zoom-plugin/skills/phone/SKILL.md",
+  "url": "https://github.com/anthropics/knowledge-work-plugins/tree/HEAD/partner-built/zoom-plugin/skills/phone/SKILL.md",
+  "license": "Apache-2.0",
+  "body_bytes": 3800,
+  "truncated": false
+}

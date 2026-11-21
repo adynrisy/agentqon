@@ -1,0 +1,11 @@
+{
+  "name": "browser-bridge",
+  "display_name": "Browser Bridge",
+  "description": "Inspect, control, and automate tasks in your real Microsoft Edge or Google Chrome browser via Chrome DevTools Protocol (CDP) with bilingual UI, native tab grouping, and self-healing daemon.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/browser-bridge/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/browser-bridge/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 5782,
+  "truncated": false
+}

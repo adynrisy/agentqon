@@ -1,0 +1,11 @@
+{
+  "name": "call-prep",
+  "display_name": "Call Prep",
+  "description": "Pre-call brief for an upcoming meeting - attendees, account history, prior call context from transcripts, open opportunity status, and suggested discovery questions. Use when the user asks \"prep me for [meeting/company]\", \"call prep [company]\", \"I'm meeting with [company], prep me\", \"get me ready for [meeting]\", or \"what do I need to know before my [time] call\".",
+  "repo": "anthropics/knowledge-work-plugins",
+  "path": "sales/skills/call-prep/SKILL.md",
+  "url": "https://github.com/anthropics/knowledge-work-plugins/tree/HEAD/sales/skills/call-prep/SKILL.md",
+  "license": "Apache-2.0",
+  "body_bytes": 8995,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "clipper-template-creator",
+  "display_name": "Clipper Template Creator",
+  "description": "Guide for creating templates for the Obsidian Web Clipper. Use when you want to create a new clipping template, understand available variables, or format clipped content.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/obsidian-clipper-template-creator/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/obsidian-clipper-template-creator/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 4428,
+  "truncated": false
+}

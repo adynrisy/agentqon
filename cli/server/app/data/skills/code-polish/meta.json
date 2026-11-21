@@ -1,0 +1,11 @@
+{
+  "name": "code-polish",
+  "display_name": "Code Polish",
+  "description": "Rewrites unprofessional code comments into clear ones and performs non-semantic cleanup. Use to professionalize code without altering logic or behavior.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/code-polish/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/code-polish/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 9583,
+  "truncated": false
+}

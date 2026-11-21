@@ -1,0 +1,11 @@
+{
+  "name": "brand-perception",
+  "display_name": "Brand Perception",
+  "description": "Audit visual, verbal, and behavioral brand signals and propose alignment changes when market perception differs from the intended position.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/brand-perception-psychologist/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/brand-perception-psychologist/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 6696,
+  "truncated": false
+}

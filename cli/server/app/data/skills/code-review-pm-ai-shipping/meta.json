@@ -1,0 +1,11 @@
+{
+  "name": "code-review-pm-ai-shipping",
+  "display_name": "Code Review · PM AI Shipping",
+  "description": "Review code for actionable defects. Correctness is the core; performance and security are optional sub-cases of the same engine. Anchors on agreements between participants across a boundary, forces a violating execution, and refutes every candidate before reporting. Use when asked to review changes, find bugs, audit a codebase, or check whether a fix is safe.",
+  "repo": "phuryn/pm-skills",
+  "path": "pm-ai-shipping/skills/code-review/SKILL.md",
+  "url": "https://github.com/phuryn/pm-skills/tree/HEAD/pm-ai-shipping/skills/code-review/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 14063,
+  "truncated": false
+}

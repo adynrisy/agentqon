@@ -1,0 +1,11 @@
+{
+  "name": "citation-management-comprehensive",
+  "display_name": "Citation Management · Comprehensive",
+  "description": "Comprehensive citation management for academic research. Search OpenAlex, PubMed, and Google Scholar for papers, extract accurate metadata, validate citations, and generate properly formatted BibTeX entries. This skill should be used when you need to find papers, verify citation information, convert DOIs to BibTeX, or ensure reference accuracy in scientific writing.",
+  "repo": "K-Dense-AI/scientific-agent-skills",
+  "path": "skills/citation-management/SKILL.md",
+  "url": "https://github.com/K-Dense-AI/scientific-agent-skills/tree/HEAD/skills/citation-management/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 15331,
+  "truncated": false
+}

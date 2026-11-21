@@ -1,0 +1,11 @@
+{
+  "name": "cli-create-search",
+  "display_name": "CLI Create Search",
+  "description": "Use the Obsidian CLI to read, create, search, and manage vault content, or to develop and debug Obsidian plugins and themes from the command line.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/obsidian-cli/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/obsidian-cli/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 3905,
+  "truncated": false
+}

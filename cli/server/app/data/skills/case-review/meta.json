@@ -1,0 +1,11 @@
+{
+  "name": "case-review",
+  "display_name": "Case Review",
+  "description": "Quality-gate review of a reverse-engineering or assessment case package: scope readiness, Evidence-to-Finding-to-Path traceability, work-item coverage, timeline consistency, and artifact hashes.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/case-review/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/case-review/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 6587,
+  "truncated": false
+}

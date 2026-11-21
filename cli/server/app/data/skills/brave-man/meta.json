@@ -1,0 +1,11 @@
+{
+  "name": "brave-man",
+  "display_name": "Brave Man",
+  "description": "Runs a structured clarifying interview for new project requests before building. Instead of writing code, it outputs a fully specified prompt.md for a fresh agent session to execute, preventing expensive mistakes.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/brave-man/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/brave-man/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 10781,
+  "truncated": false
+}

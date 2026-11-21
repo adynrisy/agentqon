@@ -1,0 +1,11 @@
+{
+  "name": "brand-protection-amazon",
+  "display_name": "Brand Protection Amazon",
+  "description": "Amazon brand protection toolkit. Detect hijackers, counterfeits, and unauthorized sellers. Includes MAP violation monitoring, trademark abuse detection, complaint templates for Brand Registry, and test buy evidence collection guides. No API key required.",
+  "repo": "nexscope-ai/eCommerce-Skills",
+  "path": "brand-protection/brand-protection-amazon/SKILL.md",
+  "url": "https://github.com/nexscope-ai/eCommerce-Skills/tree/HEAD/brand-protection/brand-protection-amazon/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 2864,
+  "truncated": false
+}

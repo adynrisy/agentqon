@@ -1,0 +1,11 @@
+{
+  "name": "brevo-automation",
+  "display_name": "Brevo Automation",
+  "description": "Automate Brevo (formerly Sendinblue) email marketing operations through Composio's Brevo toolkit via Rube MCP.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/brevo-automation/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/brevo-automation/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 7945,
+  "truncated": false
+}

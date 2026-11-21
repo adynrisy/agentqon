@@ -1,0 +1,11 @@
+{
+  "name": "caching-data-storage",
+  "display_name": "Caching Data Storage",
+  "description": "Configure Redis for caching and data storage. Set up clustering, persistence, and Sentinel. Use when implementing Redis caching or queues.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/redis/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/redis/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 9709,
+  "truncated": false
+}

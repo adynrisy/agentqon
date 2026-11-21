@@ -1,0 +1,11 @@
+{
+  "name": "check-validate-code",
+  "display_name": "Check Validate Code",
+  "description": "Validate Claude Code skills against the agentskills specification. Catches structural, semantic, and naming issues before users do.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/skill-check/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/skill-check/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 3848,
+  "truncated": false
+}

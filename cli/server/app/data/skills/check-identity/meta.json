@@ -1,0 +1,11 @@
+{
+  "name": "check-identity",
+  "display_name": "Check Identity",
+  "description": "Run an AFP 100-point or AUSTRAC safe-harbour identity check over a set of documents, and report exactly what's missing. Use when the user asks to check identity documents, verify someone's ID for onboarding, or assess whether a document pack satisfies Australian identity requirements.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/check-identity-pack/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/check-identity-pack/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 4026,
+  "truncated": false
+}

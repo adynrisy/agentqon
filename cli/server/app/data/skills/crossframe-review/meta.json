@@ -1,0 +1,11 @@
+{
+  "name": "crossframe-review",
+  "display_name": "Crossframe Review",
+  "description": "Use when explicit CrossFrame output needs review for reasoning fidelity, evidence boundaries, source anchors, concept drift, article collapse, or repair steps.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/crossframe-review/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/crossframe-review/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 8802,
+  "truncated": false
+}

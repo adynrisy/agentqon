@@ -1,0 +1,11 @@
+{
+  "name": "cc-frontend-patterns",
+  "display_name": "Cc Frontend Patterns",
+  "description": "Frontend development patterns for React, Next.js, state management, performance optimization, and UI best practices.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/cc-skill-frontend-patterns/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/cc-skill-frontend-patterns/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 864,
+  "truncated": false
+}

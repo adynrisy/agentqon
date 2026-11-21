@@ -1,0 +1,11 @@
+{
+  "name": "brand-landingpage",
+  "display_name": "Brand Landingpage",
+  "description": "Brand-first landing page designer — runs a brand-identity interview (colors, typography, shape language), then generates and iterates on a polished landing page via Stitch with deployment-ready HTML. Use when the user asks to create, design, or build a landing page, homepage, or marketing page and has no established visual direction. Skip when they have a design mockup, need a dashboard or app UI, are working at component level, building a multi-page app, or restyling with known design tokens — use frontend-design instead.",
+  "repo": "wshobson/agents",
+  "path": "plugins/brand-landingpage/skills/brand-landingpage/SKILL.md",
+  "url": "https://github.com/wshobson/agents/tree/HEAD/plugins/brand-landingpage/skills/brand-landingpage/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 15047,
+  "truncated": false
+}

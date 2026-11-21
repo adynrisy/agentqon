@@ -1,0 +1,11 @@
+{
+  "name": "code-cleanup",
+  "display_name": "Code Cleanup",
+  "description": "Behavior-preserving cleanup of AI-like code noise: narrating comments, dead code, vague names, over-abstraction. Use when asked to clean up code or comments, de-slop, or apply a slop-audit report.",
+  "repo": "khasky/awesome-agent-skills",
+  "path": "skills/awesome-code-cleanup/SKILL.md",
+  "url": "https://github.com/khasky/awesome-agent-skills/tree/HEAD/skills/awesome-code-cleanup/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 34370,
+  "truncated": false
+}
