@@ -1,0 +1,322 @@
+[project]
+name = "ai-agents"
+version = "0.1.0"
+description = "AI agent orchestration framework"
+readme = "README.md"
+requires-python = ">=3.14"
+license = {text = "MIT"}
+
+dependencies = [
+    "anthropic==1.11.0",
+    "jsonschema>=4.25.1",
+    "markdown-it-py>=4.2.0",
+    "python-frontmatter==1.3.0",
+    "PyYAML==6.0.3",
+    "tiktoken>=0.13.0",
+]
+
+[project.optional-dependencies]
+dev = [
+    "pytest>=9.0.3",
+    "pytest-cov>=7.1.0",
+    "bandit[sarif]>=1.9.4",
+    "pip-audit>=2.10.0",
+    "ruff>=0.15.16",
+    "mypy>=2.1.0",
+    "semgrep==1.179.0",
+    "lefthook==2.1.16",
+    "packaging>=24.0",
+    "pytest-timeout>=2.4.0",
+    "pytest-xdist>=3.8.0",
+    "pytest-split>=0.11.0",
+    "chevron==0.14.0",
+]
+eval = [
+    # OpenAI + GitHub Models providers (scripts/eval/_providers.py).
+    # anthropic is already a core dependency; the default eval needs no extra.
+    "openai>=1.40",
+]
+
+[tool.uv]
+# Semgrep pins vulnerable optional MCP server dependencies; both command paths
+# work with the fixed releases and reviewed exact overrides below.
+exclude-newer = "7 days"
+override-dependencies = [
+    "click==8.3.3",
+    "cryptography==50.0.0",
+    "mcp==1.28.1",
+    # semgrep 1.178.0 still pins pyjwt~=2.13.0. 2.15.0 fixes the 2.13.0 CVEs
+    # pip-audit reports and GHSA-42vr-xj54-vc7v (issue #6028).
+    "pyjwt[crypto]==2.15.0",
+]
+
+[tool.uv.exclude-newer-package]
+anthropic = false
+click = false
+# CVE-2026-69247 affects cryptography 49.0.0 and is fixed in 50.0.0. The
+# 7-day cooldown held the vulnerable release, so opt this package out to make
+# security fixes reachable immediately.
+cryptography = false
+lefthook = false
+mcp = false
+semgrep = false
+
+[build-system]
+requires = ["setuptools>=82.0.1"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools.packages.find]
+where = ["."]
+include = ["scripts*", "scripts.mcp_cli*", "scripts.hook_utilities*", "scripts.test_result_helpers*", "scripts.pr_maintenance*", "scripts.github_core*", "scripts.ai_review_common*", "scripts.validation*", "memory_enhancement*"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+python_files = ["test_*.py"]
+python_classes = ["Test*"]
+python_functions = ["test_*"]
+addopts = "-v --tb=short --import-mode=importlib --timeout=120"
+markers = [
+    "unit: Unit tests",
+    "integration: Integration tests",
+    "safe_push_transport: Safe-push tests that touch a non-local transport and are excluded from pre-push.",
+    "security: Security-focused tests",
+    "smoke: Real-CLI smoke tests (need auth/credits or an installed CLI; run on pull requests by plugin-cli-smoke.yml). The smoke gate asserts these were not skipped (issue #2231 item 4).",
+    "claude: Real-CLI tests that need the claude CLI and its credential. The CLI smoke selects them on the claude matrix leg.",
+    "copilot: Real-CLI tests that need the copilot CLI and its credential. The CLI smoke selects them on the copilot matrix leg.",
+    "codex: Real-CLI tests that need the codex CLI and no credential. The CLI smoke selects them on the codex job.",
+    "windows_path: Tests that exercise Windows path handling and must run on a Windows runner.",
+]
+
+[tool.coverage.run]
+source = [".claude", "scripts", "scripts/memory_enhancement"]
+omit = ["**/tests/*", "**/__pycache__/*"]
+
+[tool.coverage.report]
+exclude_lines = [
+    "pragma: no cover",
+    "if TYPE_CHECKING:",
+    "raise NotImplementedError",
+]
+
+[tool.bandit]
+exclude_dirs = [".venv", "tests", ".git"]
+skips = []
+
+[tool.ruff]
+# Match the hook-execution portability floor enforced by
+# scripts/validation/validate_python_syntax.py (_SUPPORT_FLOOR). target-version
+# governs the syntax ruff may EMIT (formatter) and push toward (pyupgrade), so
+# it must track the OLDEST interpreter tracked files must parse on (3.10), not
+# the higher requires-python dev/install contract. Setting this to py314 made
+# `ruff format` rewrite portable `except (A, B):` into PEP 758 `except A, B:`,
+# which the 3.10 floor gate rejects. See issue #3126.
+target-version = "py310"
+line-length = 100
+
+[tool.ruff.format]
+# test_git_hook_policy_causal_restore.py uses intentionally-split string
+# literals (e.g. "# no" "qa") as test fixtures to avoid triggering the
+# security-suppressions-staged hook during development. Ruff's formatter
+# merges implicit string concatenations, which would neutralise those
+# fixtures. Exclude the file so the anti-detection pattern is preserved.
+exclude = ["tests/validation/test_git_hook_policy_causal_restore.py"]
+
+[tool.ruff.lint]
+select = ["E", "F", "W", "I", "N", "UP", "B", "ANN", "RUF100"]
+ignore = []
+
+[tool.ruff.lint.per-file-ignores]
+# Eval scripts contain embedded prompt text that exceeds 100 chars by design
+"scripts/eval/eval-agents.py" = ["E501"]
+"scripts/eval/eval-knowledge-integration.py" = ["E501"]
+# Deliberately vulnerable detection benchmarks. Their `# noqa: S...` comments
+# document which bandit-family finding each sample is meant to trigger for the
+# external scanners that grade them. Those rule families are not in this
+# project's ruff select list, so RUF100 reads every one as dead. Removing them
+# would strip the benchmark's own answer key.
+#
+# I001 and E501 are waived for the same reason, one step removed. This tree is
+# an answer key graded by external scanners, not ordinary source, and editing it
+# to satisfy a style linter has a cost the linter cannot see: the files carry
+# intentional `shell=True` payloads, so any commit that touches one puts it in
+# the changed set that the `security-scan` pre-push job feeds to semgrep, which
+# then blocks the push on three CWE-78 findings the corpus exists to contain.
+# Reformatting an answer key to trip a security gate is the wrong trade. A
+# `.semgrepignore` would not help either: git_hook_policy.py's pre-push scan
+# invokes semgrep with --x-ignore-semgrepignore-files, so that file is
+# deliberately ignored and cannot scope this gate.
+".project-toolkit/security/benchmarks/vulnerable_samples/**/*.py" = ["RUF100", "I001", "E501"]
+# sys.path manipulation required before imports for plugin-context path resolution
+".claude/skills/github/scripts/**/*.py" = ["E402"]
+"src/claude/skills/github/scripts/**/*.py" = ["E402"]
+# Validation runners use sys.path.insert() before importing sibling modules
+"scripts/validation/pre_pr.py" = ["E402", "F401"]
+"scripts/validation/pre_pr_sequence.py" = ["E402"]
+# Test files use sys.path.insert() before importing modules under test
+"tests/hooks/**/*.py" = ["E402"]
+"tests/skills/**/*.py" = ["E402"]
+"tests/validation/**/*.py" = ["E402"]
+# ANN suppression for test files (annotations not required in tests)
+"tests/**/*.py" = ["ANN"]
+"**/tests/**/*.py" = ["ANN"]
+# ANN suppression for pre-existing code (to be fixed incrementally)
+".claude/skills/**/*.py" = ["ANN", "E501"]
+".claude/hooks/**/*.py" = ["ANN"]
+# ADR-109 B3 follow-up: src/claude/skills/ mirrors .claude/skills/'s non-SKILL.md
+# files byte for byte (generate_skills.sync_claude_plugin_skill_support), so it
+# carries the same pre-existing violations and gets the same waiver.
+"src/claude/skills/**/*.py" = ["ANN", "E501"]
+# Copilot CLI mirror trees are generated wholesale from the .claude sources by
+# build/scripts/build_all.py (the canonical sources above are the linted copy).
+# The generator inlines hooks into wrapper functions, which trips N-series and
+# import-order rules that do not apply to generated code, so the whole selected
+# rule set is exempt for these trees. Without this, regenerating a single mirror
+# surfaces the tree's pre-existing generator-induced violations (~1200) the
+# moment the file enters a changed-set.
+"src/copilot-cli/hooks/**/*.py" = ["E", "F", "W", "I", "N", "UP", "B", "ANN", "RUF100"]
+"src/copilot-cli/skills/**/*.py" = ["E", "F", "W", "I", "N", "UP", "B", "ANN", "RUF100"]
+"packages/**/*.py" = ["ANN", "E501"]
+# The skillbook schema checker validates values of arbitrary JSON type;
+# `Any` is the honest annotation for an instance the checker will narrow.
+"scripts/validation/validate_skillbook.py" = ["ANN401"]
+# The slow-test recorder wraps `subprocess.Popen.__init__`, `Path.glob`, and
+# `os.walk`, forwarding every argument untouched. `Any` is the honest annotation
+# for a pass-through wrapper: a narrower one would reject calls the wrapped
+# callable accepts, and the wrapper reads none of those arguments.
+"scripts/testing/slow_test_report.py" = ["ANN401"]
+# Eval and exploration scripts may have long lines and missing annotations
+"docs/eval/scripts/**/*.py" = ["ANN", "E501"]
+"evals/**/*.py" = ["ANN", "E501"]
+"scripts/incoherence.py" = ["ANN", "E501"]
+"scripts/openclaw_bridge.py" = ["E501"]
+# Intentional noqa: E402 for sys.path-gated import; suppressing RUF100 so the
+# marker is not auto-removed and the file stays unchanged from main (avoids a
+# semgrep false-positive on the JWT test fixture in a scan of changed files).
+"tests/test_redact_secrets.py" = ["RUF100"]
+
+[tool.mypy]
+python_version = "3.14"
+warn_return_any = true
+warn_unused_configs = true
+ignore_missing_imports = true
+disallow_any_generics = true
+
+# Per-module overrides: suppress disallow_any_generics for pre-existing code
+[[tool.mypy.overrides]]
+# Pre-existing generic-type debt also exists in the plugin-side github_core
+# package loaded by skill scripts via sys.path.insert(.../.claude/lib). The
+# per-file mypy gate resolves that import as github_core.*, not
+# scripts.github_core.*, so keep both names relaxed until the shared module is
+# fully annotated.
+module = ["scripts.github_core.*", "github_core.*"]
+disallow_any_generics = false
+
+[[tool.mypy.overrides]]
+module = [
+    "scripts.validate_skill_installation",
+    "scripts.validate_skill_output",
+    "scripts.analyze_pr_failure",
+    "scripts.utils.markdown_parser",
+    "scripts.validation.hook_contracts",
+]
+disallow_any_generics = false
+
+[[tool.mypy.overrides]]
+module = "semantic_hooks.*"
+disallow_any_generics = false
+
+[[tool.mypy.overrides]]
+# chevron 0.14.0 ships no py.typed marker and no stub package (ADR-108: the
+# skill-template compile engine, build/scripts/skill_templates.py).
+module = "chevron.*"
+ignore_missing_imports = true
+
+[[tool.mypy.overrides]]
+# Pre-existing type debt (arg-type at serena_integration.py:246,
+# return-value at :326) unrelated to the atomic-write hardening. Scoped
+# here rather than suppressed in-file so the debt stays visible and
+# tracked separately. The importer that first surfaced it,
+# scripts.memory_sync, is gone; the debt in the module itself is not.
+module = [
+    "memory_enhancement.serena_integration",
+    "scripts.memory_enhancement.serena_integration",
+]
+disable_error_code = ["arg-type", "return-value"]
+
+[[tool.mypy.overrides]]
+# Pre-existing type debt surfaced by the pre-push per-file mypy gate (#2876).
+# This test dynamically loads the eval scripts via importlib (their filenames
+# are hyphenated, e.g. eval-agent-vs-baseline.py, so they cannot be imported
+# as normal modules). Every symbol re-exported from those runtime-loaded
+# modules resolves to Any, so annotations that reference them (RunRecord and
+# friends) read as valid-type/no-any-return, and bare dict/list annotations
+# read as type-arg. Scoped here so the debt stays visible and tracked (#2876)
+# rather than suppressed inline. test_form_factor_eval uses the identical
+# runtime-load pattern for the same eval scripts, so it shares this scope.
+module = [
+    "tests.evals.test_eval_agent_vs_baseline",
+    "tests.evals.test_form_factor_eval",
+]
+disable_error_code = ["type-arg", "valid-type", "no-any-return"]
+
+[[tool.mypy.overrides]]
+# Pre-existing type debt surfaced by the pre-push per-file mypy gate (#2876).
+# The session-episode extractor (.claude canonical + src/copilot-cli mirror,
+# both resolving to module memory.scripts.extract_session_episode) annotates
+# event records as bare dict/list in 32 spots that predate the causal-link fix
+# (#3245). disallow_any_generics flags every one under the per-file gate, so
+# touching the file at all trips an unrelated pre-existing gate. Scoped here so
+# the debt stays visible and tracked rather than mass-annotated inside the bug
+# fix or suppressed inline; new code in the file is typed properly
+# (list[dict[str, Any]]).
+module = "memory.scripts.extract_session_episode"
+disallow_any_generics = false
+
+[[tool.mypy.overrides]]
+# Test code gets relaxed generic-type strictness, matching the existing ruff
+# ANN waiver for tests/**/*.py ([tool.ruff.lint.per-file-ignores] above). The
+# pre-push per-file mypy gate (#2876) surfaces disallow_any_generics/type-arg
+# and warn_return_any/no-any-return on any touched test file: bare dict/list
+# annotations and json.load() returning Any. These are the lowest-value type
+# checks (they demand annotation ceremony without catching test bugs), and the
+# ruff waiver already establishes that tests prioritize behavior coverage over
+# annotation rigor. Relaxing both here brings mypy into line with that policy so
+# editing a test file no longer trips an unrelated pre-existing type gate (#3017).
+module = "tests.*"
+disallow_any_generics = false
+warn_return_any = false
+
+# Mirror of [project.optional-dependencies].dev above. Both tables must list the
+# same dev tools: `uv pip install -e ".[dev]"` reads only the extra, while a plain
+# `uv sync` installs this group by default and ignores extras (issue #3111). Keep
+# the two in sync; tests/test_pyproject_dev_deps_parity.py fails when they drift.
+[dependency-groups]
+dev = [
+    "pytest>=9.0.3",
+    "pytest-cov>=7.1.0",
+    "bandit[sarif]>=1.9.4",
+    "pip-audit>=2.10.0",
+    "ruff>=0.15.16",
+    "mypy>=2.1.0",
+    "semgrep==1.179.0",
+    "lefthook==2.1.16",
+    "packaging>=24.0",
+    "pytest-timeout>=2.4.0",
+    "pytest-xdist>=3.8.0",
+    "pytest-split>=0.11.0",
+    "chevron==0.14.0",
+]
+
+# Seconds a validator suite's tests may sum to in one JUnit report, enforced by
+# `scripts/testing/slow_test_report.py --budget pyproject.toml`. Both entries are
+# the hotspots issue #5382 optimized, so both need a floor under them.
+#
+# Each budget is roughly four times the sum this branch measures locally
+# (31.57s and 8.96s, serial, no coverage). The multiplier absorbs a slower or
+# loaded runner, per `.claude/rules/ci-scripts.md` item 16: a standalone wall
+# clock does not predict the same work under contention. What survives that
+# headroom is the regression the batching prevents, a suite that goes back to
+# rediscovering the whole repository per test and lands several times over.
+[tool.slow-test-budget]
+"tests/test_validate_session_json.py" = 120.0
+"tests/test_guard_diff.py" = 35.0
