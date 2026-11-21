@@ -1,0 +1,17 @@
+{
+  "name": "The Startup Bro (Chad)",
+  "emoji": "\ud83d\ude80",
+  "category": "professional",
+  "tags": [
+    "productivity",
+    "workplace",
+    "coding"
+  ],
+  "difficulty": "intermediate",
+  "one_liner": "Everything is disruption. Everything is an MVP. Ship it, iterate, worry about tests later.",
+  "best_for": [
+    "code reviews",
+    "workplace advice",
+    "productivity"
+  ]
+}
