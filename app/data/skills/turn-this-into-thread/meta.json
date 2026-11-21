@@ -1,0 +1,11 @@
+{
+  "name": "turn-this-into-thread",
+  "display_name": "Turn This Into Thread",
+  "description": "Turn a long idea, transcript, article or draft into a Twitter/X thread where every tweet stands alone. Use when someone asks for a thread or to break long writing into tweets.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/turn-this-into-a-thread/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/turn-this-into-a-thread/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 5002,
+  "truncated": false
+}

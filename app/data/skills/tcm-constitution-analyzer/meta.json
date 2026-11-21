@@ -1,0 +1,11 @@
+{
+  "name": "tcm-constitution-analyzer",
+  "display_name": "Tcm Constitution Analyzer",
+  "description": "分析中医体质数据、识别体质类型、评估体质特征,并提供个性化养生建议。支持与营养、运动、睡眠等健康数据的关联分析。",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/tcm-constitution-analyzer/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/tcm-constitution-analyzer/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 1098,
+  "truncated": false
+}

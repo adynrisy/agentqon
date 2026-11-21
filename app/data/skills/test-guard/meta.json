@@ -1,0 +1,11 @@
+{
+  "name": "test-guard",
+  "display_name": "Test Guard",
+  "description": "Review generated or changed test code against universal testing rules before it ships or is presented for approval.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/test-guard/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/test-guard/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 7964,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "survey-generator",
+  "display_name": "Survey Generator",
+  "description": "Generate source-backed AI/ML survey paper artifacts with curated bibliographies and Fireworks/Kimi HTML rendering.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/survey-generator/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/survey-generator/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 8621,
+  "truncated": false
+}

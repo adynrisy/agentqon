@@ -1,0 +1,11 @@
+{
+  "name": "start-system-open",
+  "display_name": "Start System Open",
+  "description": "Initialize the productivity system and open the dashboard. Use when setting up the plugin for the first time, bootstrapping working memory from your existing task list, or decoding the shorthand (nicknames, acronyms, project codenames) you use in your todos.",
+  "repo": "anthropics/knowledge-work-plugins",
+  "path": "productivity/skills/start/SKILL.md",
+  "url": "https://github.com/anthropics/knowledge-work-plugins/tree/HEAD/productivity/skills/start/SKILL.md",
+  "license": "Apache-2.0",
+  "body_bytes": 4626,
+  "truncated": false
+}

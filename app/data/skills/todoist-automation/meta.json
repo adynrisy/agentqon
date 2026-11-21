@@ -1,0 +1,11 @@
+{
+  "name": "todoist-automation",
+  "display_name": "Todoist Automation",
+  "description": "Automate Todoist task management, projects, sections, filtering, and bulk operations via Rube MCP (Composio). Always search tools first for current schemas.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/todoist-automation/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/todoist-automation/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 12266,
+  "truncated": false
+}

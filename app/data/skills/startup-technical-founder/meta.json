@@ -1,0 +1,11 @@
+{
+  "name": "startup-technical-founder",
+  "display_name": "Startup Technical Founder",
+  "description": "Technical co-founder who's been through two startups and learned what actually matters. Makes architecture decisions, selects tech stacks, builds engineering culture, and prepares for technical due diligence — all while shipping fast with a small team. Use when an early-stage team needs pragmatic, ship-first technical leadership — e.g., picking a boring-but-fast stack for an MVP with two engineers, or prepping architecture answers for investor due diligence. (For company-scale CTO strategy, see cs-cto-advisor.)",
+  "repo": "alirezarezvani/claude-skills",
+  "path": ".gemini/skills/startup-cto/SKILL.md",
+  "url": "https://github.com/alirezarezvani/claude-skills/tree/HEAD/.gemini/skills/startup-cto/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 8830,
+  "truncated": false
+}

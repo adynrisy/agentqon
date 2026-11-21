@@ -1,0 +1,11 @@
+{
+  "name": "trigger-dev",
+  "display_name": "Trigger Dev",
+  "description": "Trigger.dev expert for background jobs, AI workflows, and reliable async execution with excellent developer experience and TypeScript-first design.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/trigger-dev/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/trigger-dev/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 1146,
+  "truncated": false
+}

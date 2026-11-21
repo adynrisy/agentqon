@@ -1,0 +1,11 @@
+{
+  "name": "testng-java-data",
+  "display_name": "Testng Java Data",
+  "description": "Generates TestNG tests in Java with groups, data providers, parallel execution, XML suite configuration, and listeners. Use when user mentions \"TestNG\", \"@DataProvider\", \"testng.xml\", \"groups\". Triggers on: \"TestNG\", \"@DataProvider\", \"testng.xml\", \"TestNG suite\", \"parallel tests Java\".",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/testng-skill/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/testng-skill/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 4793,
+  "truncated": false
+}

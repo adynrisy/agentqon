@@ -1,0 +1,11 @@
+{
+  "name": "taisly-social-media-posting",
+  "display_name": "Taisly Social Media Posting",
+  "description": "Use Taisly Agent Kit to prepare and publish approved short-form video posts across TikTok, Instagram Reels, YouTube Shorts, X, and Facebook.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/taisly-social-media-posting/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/taisly-social-media-posting/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 2519,
+  "truncated": false
+}

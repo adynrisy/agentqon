@@ -1,0 +1,11 @@
+{
+  "name": "torchdrug-workflows-self",
+  "display_name": "Torchdrug Workflows Self",
+  "description": "Builds and troubleshoots TorchDrug 0.2.1 workflows for molecular graphs, property prediction, self-supervised pretraining, molecule generation, retrosynthesis, protein representation learning, and knowledge graph reasoning. Use when code imports torchdrug or needs its datasets, models, tasks, or Engine.",
+  "repo": "K-Dense-AI/scientific-agent-skills",
+  "path": "skills/torchdrug/SKILL.md",
+  "url": "https://github.com/K-Dense-AI/scientific-agent-skills/tree/HEAD/skills/torchdrug/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 11464,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "trust-calibrator",
+  "display_name": "Trust Calibrator",
+  "description": "Diagnose audience trust barriers and calibrate proof, certainty, and credibility signals when messaging overclaims or fails to reassure.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/trust-calibrator/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/trust-calibrator/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 6661,
+  "truncated": false
+}

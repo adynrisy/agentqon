@@ -1,0 +1,11 @@
+{
+  "name": "telegram-bot-api",
+  "display_name": "Telegram Bot API",
+  "description": "Integracao completa com Telegram Bot API. Setup com BotFather, mensagens, webhooks, inline keyboards, grupos, canais. Boilerplates Node.js e Python.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/telegram/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/telegram/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 1269,
+  "truncated": false
+}

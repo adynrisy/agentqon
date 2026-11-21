@@ -1,0 +1,11 @@
+{
+  "name": "stripe-integration",
+  "display_name": "Stripe Integration",
+  "description": "Implement and verify Stripe checkout, subscriptions, webhooks and refunds with explicit server-side authorization and retry boundaries.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/stripe-integration/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/stripe-integration/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 16257,
+  "truncated": false
+}

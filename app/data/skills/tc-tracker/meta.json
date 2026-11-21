@@ -1,0 +1,11 @@
+{
+  "name": "tc-tracker",
+  "display_name": "Tc Tracker",
+  "description": "Use when the user asks to track technical changes, create change records, manage TC lifecycles, or hand off work between AI sessions. Covers init/create/update/status/resume/close/export workflows for structured code change documentation.",
+  "repo": "alirezarezvani/claude-skills",
+  "path": ".gemini/skills/tc-tracker/SKILL.md",
+  "url": "https://github.com/alirezarezvani/claude-skills/tree/HEAD/.gemini/skills/tc-tracker/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 10043,
+  "truncated": false
+}

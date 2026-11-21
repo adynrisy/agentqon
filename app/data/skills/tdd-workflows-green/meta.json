@@ -1,0 +1,11 @@
+{
+  "name": "tdd-workflows-green",
+  "display_name": "TDD Workflows Green",
+  "description": "Implement the minimal code needed to make failing tests pass in the TDD green phase.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/tdd-workflows-tdd-green/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/tdd-workflows-tdd-green/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 2078,
+  "truncated": false
+}

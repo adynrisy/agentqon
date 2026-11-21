@@ -1,0 +1,11 @@
+{
+  "name": "team-collaboration-standup-notes",
+  "display_name": "Team Collaboration Standup Notes",
+  "description": "You are an expert team communication specialist focused on async-first standup practices, AI-assisted note generation from commit history, and effective remote team coordination patterns.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/team-collaboration-standup-notes/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/team-collaboration-standup-notes/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 2141,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "sync-manage-git",
+  "display_name": "Sync Manage Git",
+  "description": "Manage automatic Git syncing on macOS with repo-sync. Use only when the user explicitly invokes /repo-sync.",
+  "repo": "davidondrej/skills",
+  "path": "skills/ops-and-setup/repo-sync/SKILL.md",
+  "url": "https://github.com/davidondrej/skills/tree/HEAD/skills/ops-and-setup/repo-sync/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 5216,
+  "truncated": false
+}

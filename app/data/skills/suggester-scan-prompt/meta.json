@@ -1,0 +1,11 @@
+{
+  "name": "suggester-scan-prompt",
+  "display_name": "Suggester Scan Prompt",
+  "description": "Scan prompt history for recurring patterns and unmet needs, then propose new skills or command templates",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/skill-suggester/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/skill-suggester/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 2274,
+  "truncated": false
+}

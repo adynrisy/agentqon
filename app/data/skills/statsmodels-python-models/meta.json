@@ -1,0 +1,11 @@
+{
+  "name": "statsmodels-python-models",
+  "display_name": "Statsmodels Python Models",
+  "description": "Fits and diagnoses Python statistical models including OLS, GLM, discrete and mixed models, ARIMA and SARIMAX. Supports coefficient inference, marginal effects, model comparison and time series forecasting with explicit design and uncertainty checks. Used for econometrics and statistical modeling; for guided test selection with APA reporting, see statistical-analysis.",
+  "repo": "K-Dense-AI/scientific-agent-skills",
+  "path": "skills/statsmodels/SKILL.md",
+  "url": "https://github.com/K-Dense-AI/scientific-agent-skills/tree/HEAD/skills/statsmodels/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 11849,
+  "truncated": false
+}

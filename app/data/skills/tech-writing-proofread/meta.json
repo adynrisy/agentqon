@@ -1,0 +1,11 @@
+{
+  "name": "tech-writing-proofread",
+  "display_name": "Tech Writing Proofread",
+  "description": "Proofreads English technical writing for typos, grammar, punctuation, terminology consistency, jargon, and structure; returns an itemized Original → Suggestion → Reason list without rewriting the document. Use when asked to proofread or polish a technical doc, README, or blog draft.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/tech-writing-proofread/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/tech-writing-proofread/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 4597,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "typescript-pro",
+  "display_name": "Typescript Pro",
+  "description": "Implements advanced TypeScript type systems, creates custom type guards, utility types, and branded types, and configures tRPC for end-to-end type safety. Use when building TypeScript applications requiring advanced generics, conditional or mapped types, discriminated unions, monorepo setup, or full-stack type safety with tRPC.",
+  "repo": "Jeffallan/claude-skills",
+  "path": "skills/typescript-pro/SKILL.md",
+  "url": "https://github.com/Jeffallan/claude-skills/tree/HEAD/skills/typescript-pro/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 4868,
+  "truncated": false
+}

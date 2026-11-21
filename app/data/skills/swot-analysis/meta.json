@@ -1,0 +1,11 @@
+{
+  "name": "swot-analysis",
+  "display_name": "Swot Analysis",
+  "description": "Perform a detailed SWOT analysis — strengths, weaknesses, opportunities, and threats with actionable recommendations. Use when doing strategic assessment, competitive analysis, or evaluating a product or business position.",
+  "repo": "phuryn/pm-skills",
+  "path": "pm-product-strategy/skills/swot-analysis/SKILL.md",
+  "url": "https://github.com/phuryn/pm-skills/tree/HEAD/pm-product-strategy/skills/swot-analysis/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 3545,
+  "truncated": false
+}

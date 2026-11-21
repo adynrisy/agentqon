@@ -1,0 +1,11 @@
+{
+  "name": "tactical-patterns",
+  "display_name": "Tactical Patterns",
+  "description": "Apply DDD tactical patterns in code using entities, value objects, aggregates, repositories, and domain events with explicit invariants.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/ddd-tactical-patterns/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/ddd-tactical-patterns/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 1346,
+  "truncated": false
+}

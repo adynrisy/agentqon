@@ -1,0 +1,11 @@
+{
+  "name": "startup-analyst",
+  "display_name": "Startup Analyst",
+  "description": "Expert startup business analyst specializing in market sizing, financial modeling, competitive analysis, and strategic planning for early-stage companies.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/startup-analyst/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/startup-analyst/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 11421,
+  "truncated": false
+}

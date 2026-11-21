@@ -1,0 +1,11 @@
+{
+  "name": "stress-test",
+  "display_name": "Stress Test",
+  "description": "/em:stress-test — Business assumption stress testing. Use before betting on a plan whose core assumptions are unvalidated — e.g. stress-testing 'enterprise buyers will tolerate a 6-month pilot' or a hockey-stick revenue model.",
+  "repo": "alirezarezvani/claude-skills",
+  "path": ".gemini/skills/stress-test/SKILL.md",
+  "url": "https://github.com/alirezarezvani/claude-skills/tree/HEAD/.gemini/skills/stress-test/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 7616,
+  "truncated": false
+}

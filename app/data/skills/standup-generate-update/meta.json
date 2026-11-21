@@ -1,0 +1,11 @@
+{
+  "name": "standup-generate-update",
+  "display_name": "Standup Generate Update",
+  "description": "Generate a standup update from recent activity. Use when preparing for daily standup, summarizing yesterday's commits and PRs and ticket moves, formatting work into yesterday/today/blockers, or structuring a few rough notes into a shareable update.",
+  "repo": "anthropics/knowledge-work-plugins",
+  "path": "engineering/skills/standup/SKILL.md",
+  "url": "https://github.com/anthropics/knowledge-work-plugins/tree/HEAD/engineering/skills/standup/SKILL.md",
+  "license": "Apache-2.0",
+  "body_bytes": 2982,
+  "truncated": false
+}

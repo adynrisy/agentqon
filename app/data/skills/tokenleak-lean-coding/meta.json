@@ -1,0 +1,11 @@
+{
+  "name": "tokenleak-lean-coding",
+  "display_name": "Tokenleak Lean Coding",
+  "description": "Token-lean rules for coding agents: cut the context re-sent on every later call (big reads, noisy logs, re-reads, serial calls) without losing correctness.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/tokenleak/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/tokenleak/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 4726,
+  "truncated": false
+}

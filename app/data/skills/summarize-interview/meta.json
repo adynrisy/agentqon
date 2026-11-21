@@ -1,0 +1,11 @@
+{
+  "name": "summarize-interview",
+  "display_name": "Summarize Interview",
+  "description": "Summarize a customer interview transcript into a structured template with JTBD, satisfaction signals, and action items. Use when processing interview recordings or transcripts, synthesizing discovery interviews, or creating interview summaries.",
+  "repo": "phuryn/pm-skills",
+  "path": "pm-product-discovery/skills/summarize-interview/SKILL.md",
+  "url": "https://github.com/phuryn/pm-skills/tree/HEAD/pm-product-discovery/skills/summarize-interview/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 1741,
+  "truncated": false
+}

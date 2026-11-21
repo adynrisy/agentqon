@@ -1,0 +1,11 @@
+{
+  "name": "start-up-bio",
+  "display_name": "Start Up Bio",
+  "description": "Set up your bio-research environment and explore available tools. Use when first getting oriented with the plugin, checking which literature, drug-discovery, or visualization MCP servers are connected, or surveying available analysis skills before starting a new project.",
+  "repo": "anthropics/knowledge-work-plugins",
+  "path": "bio-research/skills/start/SKILL.md",
+  "url": "https://github.com/anthropics/knowledge-work-plugins/tree/HEAD/bio-research/skills/start/SKILL.md",
+  "license": "Apache-2.0",
+  "body_bytes": 3220,
+  "truncated": false
+}

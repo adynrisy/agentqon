@@ -1,0 +1,11 @@
+{
+  "name": "super-code",
+  "display_name": "Super Code",
+  "description": "Standing house style to enforce dense, correct, and idiomatic code on all coding tasks. Minimizes code bloat and agent operation overhead.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/super-code/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/super-code/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 7720,
+  "truncated": false
+}

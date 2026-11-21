@@ -1,0 +1,11 @@
+{
+  "name": "task-management",
+  "display_name": "Task Management",
+  "description": "Simple task management using a shared TASKS.md file. Reference this when the user asks about their tasks, wants to add/complete tasks, or needs help tracking commitments.",
+  "repo": "anthropics/knowledge-work-plugins",
+  "path": "productivity/skills/task-management/SKILL.md",
+  "url": "https://github.com/anthropics/knowledge-work-plugins/tree/HEAD/productivity/skills/task-management/SKILL.md",
+  "license": "Apache-2.0",
+  "body_bytes": 2367,
+  "truncated": false
+}

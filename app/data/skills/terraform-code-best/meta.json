@@ -1,0 +1,11 @@
+{
+  "name": "terraform-code-best",
+  "display_name": "Terraform Code Best",
+  "description": "Terraform infrastructure as code best practices",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/terraform-skill/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/terraform-skill/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 3320,
+  "truncated": false
+}

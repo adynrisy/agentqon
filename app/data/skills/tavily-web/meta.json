@@ -1,0 +1,11 @@
+{
+  "name": "tavily-web",
+  "display_name": "Tavily Web",
+  "description": "Web search, content extraction, crawling, and research capabilities using Tavily API. Use when you need to search the web for current information, extracting content from URLs, or crawling websites.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/tavily-web/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/tavily-web/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 1102,
+  "truncated": false
+}

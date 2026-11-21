@@ -1,0 +1,11 @@
+{
+  "name": "supply-chain-optimization-walmart",
+  "display_name": "Supply Chain Optimization Walmart",
+  "description": "Supply Chain Bottleneck Analyzer for Walmart Marketplace sellers. Diagnose cash flow, inventory, WFS costs, and referral fees. Includes comparison with Amazon FBA, lower storage fee optimization, and Walmart Connect ad spend analysis. No API key required for basic analysis.",
+  "repo": "nexscope-ai/eCommerce-Skills",
+  "path": "supply-chain-optimization/supply-chain-optimization-walmart/SKILL.md",
+  "url": "https://github.com/nexscope-ai/eCommerce-Skills/tree/HEAD/supply-chain-optimization/supply-chain-optimization-walmart/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 3072,
+  "truncated": false
+}

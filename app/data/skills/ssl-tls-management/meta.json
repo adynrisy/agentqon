@@ -1,0 +1,11 @@
+{
+  "name": "ssl-tls-management",
+  "display_name": "SSL TLS Management",
+  "description": "Manage SSL/TLS certificates with Let's Encrypt and internal PKI. Configure secure HTTPS, certificate renewal, and cipher suites. Use when implementing secure communications.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/ssl-tls-management/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/ssl-tls-management/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 10370,
+  "truncated": false
+}

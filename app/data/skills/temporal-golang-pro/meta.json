@@ -1,0 +1,11 @@
+{
+  "name": "temporal-golang-pro",
+  "display_name": "Temporal Golang Pro",
+  "description": "Use when building durable distributed systems with Temporal Go SDK. Covers deterministic workflow rules, mTLS worker configs, and advanced patterns.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/temporal-golang-pro/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/temporal-golang-pro/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 9073,
+  "truncated": false
+}

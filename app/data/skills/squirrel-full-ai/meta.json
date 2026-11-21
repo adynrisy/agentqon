@@ -1,0 +1,11 @@
+{
+  "name": "squirrel-full-ai",
+  "display_name": "Squirrel Full AI",
+  "description": "Full-cycle AI coding skill: plans, builds, tests, lints, fixes bugs, and writes production-grade docs. Auto-detects project state and adapts its 8-phase pipeline.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/squirrel/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/squirrel/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 3549,
+  "truncated": false
+}

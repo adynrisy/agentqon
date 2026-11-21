@@ -1,0 +1,11 @@
+{
+  "name": "tailwind-patterns",
+  "display_name": "Tailwind Patterns",
+  "description": "Tailwind CSS v4 principles. CSS-first configuration, container queries, modern patterns, design token architecture.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/tailwind-patterns/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/tailwind-patterns/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 7035,
+  "truncated": false
+}

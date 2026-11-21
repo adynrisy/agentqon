@@ -1,0 +1,11 @@
+{
+  "name": "testing-handbook-generator",
+  "display_name": "Testing Handbook Generator",
+  "description": "Generates Claude Code skills from the Trail of Bits Testing Handbook (appsec.guide), analyzing handbook pages and emitting SKILL.md files with the structure each skill type requires. Use when creating or refreshing a skill from handbook content, or when the user names the testing handbook or appsec.guide. Not for answering security testing questions — the generated skills cover those.",
+  "repo": "trailofbits/skills",
+  "path": "plugins/testing-handbook-skills/skills/testing-handbook-generator/SKILL.md",
+  "url": "https://github.com/trailofbits/skills/tree/HEAD/plugins/testing-handbook-skills/skills/testing-handbook-generator/SKILL.md",
+  "license": "CC",
+  "body_bytes": 14194,
+  "truncated": false
+}

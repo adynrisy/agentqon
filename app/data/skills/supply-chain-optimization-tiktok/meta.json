@@ -1,0 +1,11 @@
+{
+  "name": "supply-chain-optimization-tiktok",
+  "display_name": "Supply Chain Optimization Tiktok",
+  "description": "Supply Chain Bottleneck Analyzer for TikTok Shop sellers. Diagnose cash flow, inventory turnover, affiliate commissions, and return rates. Includes FBT cost analysis, influencer payout optimization, and viral product lifecycle management. No API key required for basic analysis.",
+  "repo": "nexscope-ai/eCommerce-Skills",
+  "path": "supply-chain-optimization/supply-chain-optimization-tiktok/SKILL.md",
+  "url": "https://github.com/nexscope-ai/eCommerce-Skills/tree/HEAD/supply-chain-optimization/supply-chain-optimization-tiktok/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 3816,
+  "truncated": false
+}

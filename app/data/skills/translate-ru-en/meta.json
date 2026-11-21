@@ -1,0 +1,11 @@
+{
+  "name": "translate-ru-en",
+  "display_name": "Translate Ru En",
+  "description": "Translates Russian text of any genre into natural English, keeping structure, formatting, links, identifiers and the author's voice; can mirror a folder. Use when asked to translate Russian into English.",
+  "repo": "khasky/awesome-agent-skills",
+  "path": "skills/awesome-translate-ru-en/SKILL.md",
+  "url": "https://github.com/khasky/awesome-agent-skills/tree/HEAD/skills/awesome-translate-ru-en/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 13934,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "supply-chain-risk-auditor-audits",
+  "display_name": "Supply Chain Risk Auditor · Audits",
+  "description": "Audits a project's dependencies for supply-chain risk: version-matched advisories for direct dependencies and the full lockfile tree, abandoned or archived upstreams, npm publisher concentration, and install-time script execution. Use when asked to audit dependencies, assess supply-chain or third-party package risk, or review a dependency tree before an engagement.",
+  "repo": "trailofbits/skills",
+  "path": "plugins/supply-chain-risk-auditor/skills/supply-chain-risk-auditor/SKILL.md",
+  "url": "https://github.com/trailofbits/skills/tree/HEAD/plugins/supply-chain-risk-auditor/skills/supply-chain-risk-auditor/SKILL.md",
+  "license": "CC",
+  "body_bytes": 6526,
+  "truncated": false
+}

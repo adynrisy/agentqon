@@ -1,0 +1,11 @@
+{
+  "name": "this-user-check",
+  "display_name": "This User Check",
+  "description": "Use this skill when the user wants to enable, disable, turn on or off, opt out of, opt in to, or check the status of mobile-app usage data. Triggers: \"disable telemetry\", \"turn off telemetry\", \"opt out of telemetry\", \"stop collecting usage data\", \"enable telemetry\", \"telemetry status\".",
+  "repo": "microsoft/power-platform-skills",
+  "path": "plugins/mobile-apps/skills/telemetry/SKILL.md",
+  "url": "https://github.com/microsoft/power-platform-skills/tree/HEAD/plugins/mobile-apps/skills/telemetry/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 292,
+  "truncated": false
+}

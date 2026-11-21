@@ -1,0 +1,11 @@
+{
+  "name": "sre-engineer",
+  "display_name": "SRE Engineer",
+  "description": "Defines service level objectives, creates error budget policies, designs incident response procedures, develops capacity models, and produces monitoring configurations and automation scripts for production systems. Use when defining SLIs/SLOs, managing error budgets, building reliable systems at scale, incident management, chaos engineering, toil reduction, or capacity planning.",
+  "repo": "Jeffallan/claude-skills",
+  "path": "skills/sre-engineer/SKILL.md",
+  "url": "https://github.com/Jeffallan/claude-skills/tree/HEAD/skills/sre-engineer/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 6104,
+  "truncated": false
+}

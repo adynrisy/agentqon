@@ -1,0 +1,11 @@
+{
+  "name": "twitter-automation",
+  "display_name": "Twitter Automation",
+  "description": "Automate Twitter/X tasks via Rube MCP (Composio): posts, search, users, bookmarks, lists, media. Always search tools first for current schemas.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/twitter-automation/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/twitter-automation/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 9047,
+  "truncated": false
+}

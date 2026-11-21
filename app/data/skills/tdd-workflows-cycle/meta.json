@@ -1,0 +1,11 @@
+{
+  "name": "tdd-workflows-cycle",
+  "display_name": "TDD Workflows Cycle",
+  "description": "Use when working with tdd workflows tdd cycle",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/tdd-workflows-tdd-cycle/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/tdd-workflows-tdd-cycle/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 9001,
+  "truncated": false
+}

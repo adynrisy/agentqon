@@ -1,0 +1,11 @@
+{
+  "name": "tutorial-engineer",
+  "display_name": "Tutorial Engineer",
+  "description": "Creates step-by-step tutorials and educational content from code. Transforms complex concepts into progressive learning experiences with hands-on examples.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/tutorial-engineer/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/tutorial-engineer/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 16295,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "taasky-mcp-server",
+  "display_name": "Taasky MCP Server",
+  "description": "Negotiate terms with another person or their agent through the hosted Taasky MCP server: meeting times, prices, dates. The human confirms every accept, reject or withdraw.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/taasky/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/taasky/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 18314,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "swot-analysis-evidence",
+  "display_name": "Swot Analysis · Evidence",
+  "description": "Build an evidence-cited SWOT of one company — yours or a competitor's — from public sources, ending with the S-O/W-T crossings. Use for strategy reviews, board prep, or competitor depth.",
+  "repo": "deanpeters/Product-Manager-Skills",
+  "path": "skills/swot-analysis/SKILL.md",
+  "url": "https://github.com/deanpeters/Product-Manager-Skills/tree/HEAD/skills/swot-analysis/SKILL.md",
+  "license": "CC",
+  "body_bytes": 9116,
+  "truncated": false
+}

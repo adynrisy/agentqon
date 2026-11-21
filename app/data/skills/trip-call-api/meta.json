@@ -1,0 +1,11 @@
+{
+  "name": "trip-call-api",
+  "display_name": "Trip Call API",
+  "description": "Call trip/travel coupon API to fetch travel coupons including DiDi ride-hailing gift packages and hotel coupon bundles. Returns coupon links and QR code images for users to redeem via WeChat.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/trip-coupon/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/trip-coupon/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 4004,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "sympy-python",
+  "display_name": "Sympy Python",
+  "description": "SymPy is a Python library for symbolic mathematics that enables exact computation using mathematical symbols rather than numerical approximations.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/sympy/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/sympy/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 2293,
+  "truncated": false
+}

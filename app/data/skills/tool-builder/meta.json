@@ -1,0 +1,11 @@
+{
+  "name": "tool-builder",
+  "display_name": "Tool Builder",
+  "description": "Tools are how AI agents interact with the world. A well-designed tool is the difference between an agent that works and one that hallucinates, fails silently, or costs 10x more tokens than necessary. This skill covers tool design from schema to error handling.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/agent-tool-builder/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/agent-tool-builder/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 2823,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "tech-debt-tracker",
+  "display_name": "Tech Debt Tracker",
+  "description": "Scan codebases for technical debt, score severity, track trends, and generate prioritized remediation plans. Use when users mention tech debt, code quality, refactoring priority, debt scoring, cleanup sprints, or code health assessment. Also use for legacy code modernization planning and maintenance cost estimation.",
+  "repo": "alirezarezvani/claude-skills",
+  "path": ".gemini/skills/tech-debt-tracker/SKILL.md",
+  "url": "https://github.com/alirezarezvani/claude-skills/tree/HEAD/.gemini/skills/tech-debt-tracker/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 4379,
+  "truncated": false
+}

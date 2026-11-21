@@ -1,0 +1,11 @@
+{
+  "name": "team-composition-analysis",
+  "display_name": "Team Composition Analysis",
+  "description": "Design optimal team structures, hiring plans, compensation strategies, and equity allocation for early-stage startups from pre-seed through Series A.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/team-composition-analysis/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/team-composition-analysis/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 10953,
+  "truncated": false
+}

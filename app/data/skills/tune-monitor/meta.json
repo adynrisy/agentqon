@@ -1,0 +1,11 @@
+{
+  "name": "tune-monitor",
+  "display_name": "Tune Monitor",
+  "description": "Analyze a Monte Carlo monitor and recommend config changes to reduce alert noise. Supports metric, custom SQL, validation, and table monitors. Fetches the report, identifies patterns, and suggests tuning.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/tune-monitor/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/tune-monitor/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 12803,
+  "truncated": false
+}

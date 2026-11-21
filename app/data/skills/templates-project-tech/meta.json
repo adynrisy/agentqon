@@ -1,0 +1,11 @@
+{
+  "name": "templates-project-tech",
+  "display_name": "Templates Project Tech",
+  "description": "Project scaffolding templates for new applications. Use when creating new projects from scratch. Contains 12 templates for various tech stacks.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/app-builder/templates/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/app-builder/templates/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 1793,
+  "truncated": false
+}

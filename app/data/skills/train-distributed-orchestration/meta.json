@@ -1,0 +1,11 @@
+{
+  "name": "train-distributed-orchestration",
+  "display_name": "Train Distributed Orchestration",
+  "description": "Distributed training orchestration across clusters. Scales PyTorch/TensorFlow/HuggingFace from laptop to 1000s of nodes. Built-in hyperparameter tuning with Ray Tune, fault tolerance, elastic scaling. Use when training massive models across multiple machines or running distributed hyperparameter sweeps.",
+  "repo": "Orchestra-Research/AI-Research-SKILLs",
+  "path": "08-distributed-training/ray-train/SKILL.md",
+  "url": "https://github.com/Orchestra-Research/AI-Research-SKILLs/tree/HEAD/08-distributed-training/ray-train/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 10098,
+  "truncated": false
+}

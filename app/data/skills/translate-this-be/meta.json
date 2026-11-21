@@ -1,0 +1,11 @@
+{
+  "name": "translate-this-be",
+  "display_name": "Translate This Be",
+  "description": "This skill should be used when the user asks to \"translate\", \"翻译\", \"精翻\", \"translate article\", \"translate to Chinese\", \"translate to English\", \"改成中文\", \"改成英文\", \"convert to Chinese\", \"localize\", \"本地化\", \"refined translation\", \"精细翻译\", \"proofread translation\", \"快速翻译\", \"快翻\", \"这篇文章翻译一下\", or provides a URL/file with translation intent. Supports three modes (quick/normal/refined) with custom glossary support.",
+  "repo": "JimLiu/baoyu-skills",
+  "path": "skills/baoyu-translate/SKILL.md",
+  "url": "https://github.com/JimLiu/baoyu-skills/tree/HEAD/skills/baoyu-translate/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 15153,
+  "truncated": false
+}

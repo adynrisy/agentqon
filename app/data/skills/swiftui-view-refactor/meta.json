@@ -1,0 +1,11 @@
+{
+  "name": "swiftui-view-refactor",
+  "display_name": "Swiftui View Refactor",
+  "description": "Refactor SwiftUI views into smaller components with stable, explicit data flow.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/swiftui-view-refactor/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/swiftui-view-refactor/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 8010,
+  "truncated": false
+}

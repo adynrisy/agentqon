@@ -1,0 +1,11 @@
+{
+  "name": "tile-design",
+  "display_name": "Tile Design",
+  "description": "Web and App implementation guide for Tile Design. Trigger when user wants Microsoft Metro style, sharp square information units, and horizontal scrolling grids.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/design-it/tile-design/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/design-it/tile-design/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 10599,
+  "truncated": false
+}

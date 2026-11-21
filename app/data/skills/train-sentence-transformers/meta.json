@@ -1,0 +1,11 @@
+{
+  "name": "train-sentence-transformers",
+  "display_name": "Train Sentence Transformers",
+  "description": "Train or fine-tune SentenceTransformer, CrossEncoder, and SparseEncoder models for retrieval, similarity, clustering, classification, reranking, and related embedding tasks.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/train-sentence-transformers/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/train-sentence-transformers/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 9103,
+  "truncated": false
+}

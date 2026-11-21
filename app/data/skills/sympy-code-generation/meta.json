@@ -1,0 +1,11 @@
+{
+  "name": "sympy-code-generation",
+  "display_name": "Sympy Code Generation",
+  "description": "Performs exact symbolic mathematics with SymPy for algebra, calculus, equation solving, symbolic linear algebra, physics, and lambdify or LaTeX code generation. Use when a task needs symbolic results, explicit assumptions, or exact arithmetic; use NumPy or SciPy for purely numerical workloads.",
+  "repo": "K-Dense-AI/scientific-agent-skills",
+  "path": "skills/sympy/SKILL.md",
+  "url": "https://github.com/K-Dense-AI/scientific-agent-skills/tree/HEAD/skills/sympy/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 12457,
+  "truncated": false
+}

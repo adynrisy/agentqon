@@ -1,0 +1,11 @@
+{
+  "name": "terraform-gcp",
+  "display_name": "Terraform GCP",
+  "description": "Provision GCP infrastructure with Terraform. Configure providers and deploy Google Cloud resources. Use when implementing IaC for GCP.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/terraform-gcp/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/terraform-gcp/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 11604,
+  "truncated": false
+}

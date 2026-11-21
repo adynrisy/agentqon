@@ -1,0 +1,11 @@
+{
+  "name": "testing-patterns",
+  "display_name": "Testing Patterns",
+  "description": "Jest testing patterns, factory functions, mocking strategies, and TDD workflow. Use when writing unit tests, creating test factories, or following TDD red-green-refactor cycle.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/testing-patterns/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/testing-patterns/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 6114,
+  "truncated": false
+}

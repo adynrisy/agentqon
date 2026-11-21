@@ -1,0 +1,11 @@
+{
+  "name": "tmux-expert-session",
+  "display_name": "Tmux Expert Session",
+  "description": "Expert tmux session, window, and pane management for terminal multiplexing, persistent remote workflows, and shell scripting automation.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/tmux/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/tmux/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 10874,
+  "truncated": false
+}

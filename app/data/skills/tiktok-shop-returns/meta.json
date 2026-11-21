@@ -1,0 +1,11 @@
+{
+  "name": "tiktok-shop-returns",
+  "display_name": "Tiktok Shop Returns",
+  "description": "Return policy and process — TikTok Shop policies, return rate reduction, customer communication",
+  "repo": "nexscope-ai/eCommerce-Skills",
+  "path": "tiktok-shop-returns/SKILL.md",
+  "url": "https://github.com/nexscope-ai/eCommerce-Skills/tree/HEAD/tiktok-shop-returns/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 1575,
+  "truncated": false
+}

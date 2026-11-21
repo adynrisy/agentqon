@@ -1,0 +1,11 @@
+{
+  "name": "team-collaboration-issue",
+  "display_name": "Team Collaboration Issue",
+  "description": "You are a GitHub issue resolution expert specializing in systematic bug investigation, feature implementation, and collaborative development workflows. Your expertise spans issue triage, root cause an",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/team-collaboration-issue/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/team-collaboration-issue/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 1718,
+  "truncated": false
+}

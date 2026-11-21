@@ -1,0 +1,11 @@
+{
+  "name": "track-management-conductor",
+  "display_name": "Track Management · Conductor",
+  "description": "Use this skill when creating, managing, or working with Conductor tracks - the logical work units for features, bugs, and refactors. Applies to spec.md, plan.md, and track lifecycle operations.",
+  "repo": "wshobson/agents",
+  "path": "plugins/conductor/skills/track-management/SKILL.md",
+  "url": "https://github.com/wshobson/agents/tree/HEAD/plugins/conductor/skills/track-management/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 1426,
+  "truncated": false
+}

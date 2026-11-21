@@ -1,0 +1,11 @@
+{
+  "name": "systematic-debugging-any",
+  "display_name": "Systematic Debugging · Any",
+  "description": "Use when encountering any bug, test failure, or unexpected behavior, before proposing fixes",
+  "repo": "obra/superpowers",
+  "path": "skills/systematic-debugging/SKILL.md",
+  "url": "https://github.com/obra/superpowers/tree/HEAD/skills/systematic-debugging/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 9389,
+  "truncated": false
+}

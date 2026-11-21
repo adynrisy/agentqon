@@ -1,0 +1,11 @@
+{
+  "name": "teach-user-this-or",
+  "display_name": "Teach User This · Or",
+  "description": "Teach the user a new skill or concept, within this workspace.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/teach/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/teach/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 9865,
+  "truncated": false
+}

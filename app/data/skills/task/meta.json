@@ -1,0 +1,11 @@
+{
+  "name": "task",
+  "display_name": "Task",
+  "description": "Use when doing ANY task involving Supabase.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/supabase/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/supabase/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 11412,
+  "truncated": false
+}

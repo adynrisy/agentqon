@@ -1,0 +1,11 @@
+{
+  "name": "trpc-fullstack",
+  "display_name": "Trpc Fullstack",
+  "description": "Build end-to-end type-safe APIs with tRPC — routers, procedures, middleware, subscriptions, and Next.js/React integration patterns.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/trpc-fullstack/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/trpc-fullstack/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 15488,
+  "truncated": false
+}

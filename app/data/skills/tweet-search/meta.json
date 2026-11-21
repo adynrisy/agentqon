@@ -1,0 +1,11 @@
+{
+  "name": "tweet-search",
+  "display_name": "Tweet Search",
+  "description": "Scrapes tweets from X (Twitter) by search query, user handle, or direct URL — returns full tweet data including text, author info, engagement metrics, media, and hashtags. Use when user mentions X, Twitter, tweet scraping, scrape tweets, get tweets, fetch tweets, twitter data, x.com data, tweet collector, tweet search, twitter search, social media scraping, twitter handle scraping, scrape user tweets, from:username, twitter keyword search, hashtag search, twitter timeline, twitter list scraping, collect twitter posts, export tweets, tweet analysis, twitter monitoring, search twitter, get twitter data, twitter api alternative, tweet dump.",
+  "repo": "browser-act/skills",
+  "path": "solutions/social-listening/x-tweet-search/SKILL.md",
+  "url": "https://github.com/browser-act/skills/tree/HEAD/solutions/social-listening/x-tweet-search/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 10330,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "stride-analysis-patterns",
+  "display_name": "Stride Analysis Patterns",
+  "description": "Apply STRIDE methodology to systematically identify threats. Use when analyzing system security, conducting threat modeling sessions, or creating security documentation.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/stride-analysis-patterns/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/stride-analysis-patterns/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 1147,
+  "truncated": false
+}

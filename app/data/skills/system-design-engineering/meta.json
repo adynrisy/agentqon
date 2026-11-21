@@ -1,0 +1,11 @@
+{
+  "name": "system-design-engineering",
+  "display_name": "System Design · Engineering",
+  "description": "Design systems, services, and architectures. Trigger with \"design a system for\", \"how should we architect\", \"system design for\", \"what's the right architecture for\", or when the user needs help with API design, data modeling, or service boundaries.",
+  "repo": "anthropics/knowledge-work-plugins",
+  "path": "engineering/skills/system-design/SKILL.md",
+  "url": "https://github.com/anthropics/knowledge-work-plugins/tree/HEAD/engineering/skills/system-design/SKILL.md",
+  "license": "Apache-2.0",
+  "body_bytes": 1019,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "tiktok-shop-shipping",
+  "display_name": "Tiktok Shop Shipping",
+  "description": "TikTok Shop shipping setup — carrier selection, shipping templates, delivery expectations",
+  "repo": "nexscope-ai/eCommerce-Skills",
+  "path": "tiktok-shop-shipping/SKILL.md",
+  "url": "https://github.com/nexscope-ai/eCommerce-Skills/tree/HEAD/tiktok-shop-shipping/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 1574,
+  "truncated": false
+}

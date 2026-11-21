@@ -1,0 +1,11 @@
+{
+  "name": "stickers-brand-existing",
+  "display_name": "Stickers Brand Existing",
+  "description": "Turn a brand mark or existing IP into consistent, playful paper stickers with small visual stories and separate transparent images. Use for brand characters and website sticker sets.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/logo-to-stickers/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/logo-to-stickers/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 8354,
+  "truncated": false
+}

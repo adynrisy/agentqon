@@ -1,0 +1,11 @@
+{
+  "name": "twilio-communications",
+  "display_name": "Twilio Communications",
+  "description": "Build communication features with Twilio: SMS messaging, voice calls, WhatsApp Business API, and user verification (2FA). Covers the full spectrum from simple notifications to complex IVR systems and multi-channel authentication.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/twilio-communications/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/twilio-communications/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 1439,
+  "truncated": false
+}

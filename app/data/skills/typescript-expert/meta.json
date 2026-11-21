@@ -1,0 +1,11 @@
+{
+  "name": "typescript-expert",
+  "display_name": "Typescript Expert",
+  "description": "TypeScript and JavaScript expert with deep knowledge of type-level programming, performance optimization, monorepo management, migration strategies, and modern tooling.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/typescript-expert/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/typescript-expert/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 14762,
+  "truncated": false
+}

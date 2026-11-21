@@ -1,0 +1,11 @@
+{
+  "name": "swiftui-liquid-glass",
+  "display_name": "Swiftui Liquid Glass",
+  "description": "Implement or review SwiftUI Liquid Glass APIs with correct fallbacks and modifier order.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/swiftui-liquid-glass/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/swiftui-liquid-glass/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 3945,
+  "truncated": false
+}

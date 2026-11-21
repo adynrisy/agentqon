@@ -1,0 +1,11 @@
+{
+  "name": "trl-training",
+  "display_name": "Trl Training",
+  "description": "Train and fine-tune transformer language models using TRL (Transformers Reinforcement Learning). Supports SFT, DPO, GRPO, KTO, RLOO and Reward Model training via CLI commands.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/trl-training/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/trl-training/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 8859,
+  "truncated": false
+}

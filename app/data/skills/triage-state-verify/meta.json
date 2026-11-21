@@ -1,0 +1,11 @@
+{
+  "name": "triage-state-verify",
+  "display_name": "Triage State Verify",
+  "description": "Move issues and external PRs through a state machine of triage roles — categorise, verify, grill if needed, and write agent-ready briefs.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/triage/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/triage/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 6986,
+  "truncated": false
+}

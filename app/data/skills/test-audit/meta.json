@@ -1,0 +1,11 @@
+{
+  "name": "test-audit",
+  "display_name": "Test Audit",
+  "description": "Audit a pytest suite: surviving mutants and untested code, flaky, order-dependent and slow tests, and removal candidates checked on held-out mutants. Report-only.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/agentic-test-audit/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/agentic-test-audit/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 7185,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "superpowers-lab",
+  "display_name": "Superpowers Lab",
+  "description": "Evaluate experimental Claude workflow skills in an isolated lab with reproducible tasks, observed results, and explicit adoption criteria.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/superpowers-lab/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/superpowers-lab/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 1811,
+  "truncated": false
+}

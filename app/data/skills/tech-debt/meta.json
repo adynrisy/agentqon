@@ -1,0 +1,11 @@
+{
+  "name": "tech-debt",
+  "display_name": "Tech Debt",
+  "description": "Scan, prioritize, and report technical debt. Usage: /tech-debt <scan|prioritize|report> [options]",
+  "repo": "alirezarezvani/claude-skills",
+  "path": ".gemini/skills/tech-debt/SKILL.md",
+  "url": "https://github.com/alirezarezvani/claude-skills/tree/HEAD/.gemini/skills/tech-debt/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 1090,
+  "truncated": false
+}

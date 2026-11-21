@@ -1,0 +1,11 @@
+{
+  "name": "testdriver-e2e-testing",
+  "display_name": "Testdriver E2e Testing",
+  "description": "Build E2E tests with TestDriver.ai, the AI code reviewer that runs every pull request in a real desktop sandbox, finds bugs, and builds regression tests",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/testdriver-e2e-testing/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/testdriver-e2e-testing/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 4603,
+  "truncated": false
+}

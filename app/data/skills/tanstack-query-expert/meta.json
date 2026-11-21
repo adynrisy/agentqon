@@ -1,0 +1,11 @@
+{
+  "name": "tanstack-query-expert",
+  "display_name": "Tanstack Query Expert",
+  "description": "Expert in TanStack Query (React Query) — asynchronous state management. Covers data fetching, stale time configuration, mutations, optimistic updates, and Next.js App Router (SSR) integration.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/tanstack-query-expert/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/tanstack-query-expert/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 9072,
+  "truncated": false
+}

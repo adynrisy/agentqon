@@ -1,0 +1,11 @@
+{
+  "name": "strategy-session",
+  "display_name": "Strategy Session",
+  "description": "Run an end-to-end product strategy session across positioning, discovery, and roadmap planning. Use when a team needs validated direction before committing to execution.",
+  "repo": "deanpeters/Product-Manager-Skills",
+  "path": "skills/product-strategy-session/SKILL.md",
+  "url": "https://github.com/deanpeters/Product-Manager-Skills/tree/HEAD/skills/product-strategy-session/SKILL.md",
+  "license": "CC",
+  "body_bytes": 15646,
+  "truncated": false
+}

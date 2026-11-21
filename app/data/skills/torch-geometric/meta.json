@@ -1,0 +1,11 @@
+{
+  "name": "torch-geometric",
+  "display_name": "Torch Geometric",
+  "description": "Supports PyTorch Geometric (PyG) graph neural networks — node/link/graph classification, message passing (GCN, GAT, GraphSAGE, GIN), heterogeneous graphs, neighbor sampling, and custom datasets. Use when working with torch_geometric, not for general NetworkX analytics or non-graph PyTorch models.",
+  "repo": "K-Dense-AI/scientific-agent-skills",
+  "path": "skills/torch-geometric/SKILL.md",
+  "url": "https://github.com/K-Dense-AI/scientific-agent-skills/tree/HEAD/skills/torch-geometric/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 21761,
+  "truncated": false
+}

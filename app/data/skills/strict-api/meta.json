@@ -1,0 +1,11 @@
+{
+  "name": "strict-api",
+  "display_name": "Strict API",
+  "description": "Use when the user says 'no hallucinations', 'verify APIs', 'reality check', or 'don't invent functions'. Prevents the agent from calling methods, imports, or variables that do not provably exist in the user's installed version.",
+  "repo": "alirezarezvani/claude-skills",
+  "path": ".gemini/skills/strict-api/SKILL.md",
+  "url": "https://github.com/alirezarezvani/claude-skills/tree/HEAD/.gemini/skills/strict-api/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 3082,
+  "truncated": false
+}

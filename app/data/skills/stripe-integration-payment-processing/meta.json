@@ -1,0 +1,11 @@
+{
+  "name": "stripe-integration-payment-processing",
+  "display_name": "Stripe Integration · Payment Processing",
+  "description": "Implement Stripe payment processing for robust, PCI-compliant payment flows including checkout, subscriptions, and webhooks. Use when integrating Stripe payments, building subscription systems, or implementing secure checkout flows.",
+  "repo": "wshobson/agents",
+  "path": "plugins/payment-processing/skills/stripe-integration/SKILL.md",
+  "url": "https://github.com/wshobson/agents/tree/HEAD/plugins/payment-processing/skills/stripe-integration/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 3897,
+  "truncated": false
+}

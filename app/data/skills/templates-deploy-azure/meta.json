@@ -1,0 +1,11 @@
+{
+  "name": "templates-deploy-azure",
+  "display_name": "Templates Deploy Azure",
+  "description": "Deploy Azure resources with ARM templates and Bicep. Create modular deployments and manage dependencies. Use when deploying Azure-native IaC.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/arm-templates/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/arm-templates/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 9979,
+  "truncated": false
+}

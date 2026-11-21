@@ -1,0 +1,11 @@
+{
+  "name": "threat-detection",
+  "display_name": "Threat Detection",
+  "description": "Use when hunting for threats in an environment, analyzing IOCs, or detecting behavioral anomalies in telemetry. Covers hypothesis-driven threat hunting, IOC sweep generation, z-score anomaly detection, and MITRE ATT&CK-mapped signal prioritization.",
+  "repo": "alirezarezvani/claude-skills",
+  "path": ".gemini/skills/threat-detection/SKILL.md",
+  "url": "https://github.com/alirezarezvani/claude-skills/tree/HEAD/.gemini/skills/threat-detection/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 13865,
+  "truncated": false
+}

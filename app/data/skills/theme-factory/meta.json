@@ -1,0 +1,11 @@
+{
+  "name": "theme-factory",
+  "display_name": "Theme Factory",
+  "description": "This skill provides a curated collection of professional font and color themes themes, each with carefully selected color palettes and font pairings. Once a theme is chosen, it can be applied to any artifact.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/theme-factory/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/theme-factory/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 3201,
+  "truncated": false
+}

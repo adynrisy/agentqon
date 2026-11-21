@@ -1,0 +1,11 @@
+{
+  "name": "tensorboard-training-metrics",
+  "display_name": "Tensorboard Training Metrics",
+  "description": "Visualize training metrics, debug models with histograms, compare experiments, visualize model graphs, and profile performance with TensorBoard - Google's ML visualization toolkit",
+  "repo": "Orchestra-Research/AI-Research-SKILLs",
+  "path": "13-mlops/tensorboard/SKILL.md",
+  "url": "https://github.com/Orchestra-Research/AI-Research-SKILLs/tree/HEAD/13-mlops/tensorboard/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 14812,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "ssh-configuration",
+  "display_name": "SSH Configuration",
+  "description": "Configure SSH servers and clients securely. Manage keys, tunnels, and config files. Use when setting up secure remote access.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/ssh-configuration/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/ssh-configuration/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 9262,
+  "truncated": false
+}

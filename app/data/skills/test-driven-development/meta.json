@@ -1,0 +1,11 @@
+{
+  "name": "test-driven-development",
+  "display_name": "Test Driven Development",
+  "description": "Use a failing behavioral test to guide a feature or bug fix, then implement and refactor with relevant regression checks.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/test-driven-development/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/test-driven-development/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 8161,
+  "truncated": false
+}

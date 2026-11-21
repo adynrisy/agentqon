@@ -1,0 +1,11 @@
+{
+  "name": "testing-sandbox",
+  "display_name": "Testing Sandbox",
+  "description": "Capture outbound email in Mailtrap Email Sandbox for development, staging, CI, HTML inspection, spam checks, and fake inbox tests.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/mailtrap-testing-with-sandbox/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/mailtrap-testing-with-sandbox/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 7515,
+  "truncated": false
+}

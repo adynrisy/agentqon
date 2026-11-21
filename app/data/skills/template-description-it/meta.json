@@ -1,0 +1,11 @@
+{
+  "name": "template-description-it",
+  "display_name": "Template Description It",
+  "description": "Replace with description of the skill and when Claude should use it.",
+  "repo": "anthropics/skills",
+  "path": "template/SKILL.md",
+  "url": "https://github.com/anthropics/skills/tree/HEAD/template/SKILL.md",
+  "license": "unknown",
+  "body_bytes": 28,
+  "truncated": false
+}

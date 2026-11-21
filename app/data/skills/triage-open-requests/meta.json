@@ -1,0 +1,11 @@
+{
+  "name": "triage-open-requests",
+  "display_name": "Triage Open Requests",
+  "description": "Triages a repository's open GitHub issues and pull requests via the gh CLI. Optionally reviews and merges ready PRs — incrementally merging passing automated/bot PRs and maintainer-approved ones, and spawning review subagents for never-reviewed ones — then closes already-resolved issues with comments citing the resolving PR or commit, cross-links issues with their pending fix PRs, and assigns local-only priority and change-size estimates for everything outstanding. Use when triaging, grooming, or reviewing a repository's open issues and PRs.",
+  "repo": "trailofbits/skills",
+  "path": "plugins/github-triage/skills/github-triage/SKILL.md",
+  "url": "https://github.com/trailofbits/skills/tree/HEAD/plugins/github-triage/skills/github-triage/SKILL.md",
+  "license": "CC",
+  "body_bytes": 22506,
+  "truncated": false
+}

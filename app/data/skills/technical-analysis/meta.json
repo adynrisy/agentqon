@@ -1,0 +1,11 @@
+{
+  "name": "technical-analysis",
+  "display_name": "Technical Analysis",
+  "description": "Read one crypto futures pair with TraderSpy: 19 indicators on up to 3 timeframes in one call, key levels, funding, open interest and positioning. Use for \"analyse BTC\" or \"is SOL oversold\".",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/traderspy-technical-analysis/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/traderspy-technical-analysis/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 9570,
+  "truncated": false
+}

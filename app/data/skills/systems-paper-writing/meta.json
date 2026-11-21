@@ -1,0 +1,11 @@
+{
+  "name": "systems-paper-writing",
+  "display_name": "Systems Paper Writing",
+  "description": "Comprehensive guide for writing systems papers targeting OSDI, SOSP, ASPLOS, NSDI, and EuroSys. Provides paragraph-level structural blueprints, writing patterns, venue-specific checklists, reviewer guidelines, LaTeX templates, and conference deadlines. Use this skill for all systems conference paper writing.",
+  "repo": "Orchestra-Research/AI-Research-SKILLs",
+  "path": "20-ml-paper-writing/systems-paper-writing/SKILL.md",
+  "url": "https://github.com/Orchestra-Research/AI-Research-SKILLs/tree/HEAD/20-ml-paper-writing/systems-paper-writing/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 13828,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "training-llms-megatron",
+  "display_name": "Training LLMs Megatron",
+  "description": "Trains large language models (2B-462B parameters) using NVIDIA Megatron-Core with advanced parallelism strategies. Use when training models >1B parameters, need maximum GPU efficiency (47% MFU on H100), or require tensor/pipeline/sequence/context/expert parallelism. Production-ready framework used for Nemotron, LLaMA, DeepSeek.",
+  "repo": "Orchestra-Research/AI-Research-SKILLs",
+  "path": "08-distributed-training/megatron-core/SKILL.md",
+  "url": "https://github.com/Orchestra-Research/AI-Research-SKILLs/tree/HEAD/08-distributed-training/megatron-core/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 9054,
+  "truncated": false
+}

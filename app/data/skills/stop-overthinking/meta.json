@@ -1,0 +1,11 @@
+{
+  "name": "stop-overthinking",
+  "display_name": "Stop Overthinking",
+  "description": "Manually-invoked skill that stops overthinking and forces a short, practical decision. Use only when the user explicitly invokes stop-overthinking.",
+  "repo": "davidondrej/skills",
+  "path": "skills/thinking-and-docs/stop-overthinking/SKILL.md",
+  "url": "https://github.com/davidondrej/skills/tree/HEAD/skills/thinking-and-docs/stop-overthinking/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 292,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "tiktok-video-detail",
+  "display_name": "Tiktok Video Detail",
+  "description": "TikTok single video detail scraper: input a TikTok video URL → output full video metadata (author profile, engagement stats, music, video meta, hashtags, mentions, slideshow images). Use when user mentions TikTok video detail, get TikTok video data, extract TikTok video metadata, scrape single TikTok video, TikTok video info, extract single TikTok video info, TikTok single video collection, tiktok video scraper, tiktok video url scraper. Also applies to batch URL processing (given a list of TikTok video URLs, extract metadata for each), verifying specific video stats, or archiving individual TikTok posts with full metadata.",
+  "repo": "browser-act/skills",
+  "path": "solutions/video-platforms/tiktok-video-detail/SKILL.md",
+  "url": "https://github.com/browser-act/skills/tree/HEAD/solutions/video-platforms/tiktok-video-detail/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 5152,
+  "truncated": false
+}

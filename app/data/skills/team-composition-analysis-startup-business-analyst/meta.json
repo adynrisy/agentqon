@@ -1,0 +1,11 @@
+{
+  "name": "team-composition-analysis-startup-business-analyst",
+  "display_name": "Team Composition Analysis · Startup Business Analyst",
+  "description": "Design optimal team structures, hiring plans, compensation strategies, and equity allocation for early-stage startups from pre-seed through Series A. Use this skill when planning headcount, determining which roles to hire next, setting compensation or equity ranges, designing org structure, or building a hiring budget aligned to funding milestones.",
+  "repo": "wshobson/agents",
+  "path": "plugins/startup-business-analyst/skills/team-composition-analysis/SKILL.md",
+  "url": "https://github.com/wshobson/agents/tree/HEAD/plugins/startup-business-analyst/skills/team-composition-analysis/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 7162,
+  "truncated": false
+}

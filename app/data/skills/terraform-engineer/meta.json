@@ -1,0 +1,11 @@
+{
+  "name": "terraform-engineer",
+  "display_name": "Terraform Engineer",
+  "description": "Use when implementing infrastructure as code with Terraform across AWS, Azure, or GCP. Invoke for module development (create reusable modules, manage module versioning), state management (migrate backends, import existing resources, resolve state conflicts), provider configuration, multi-environment workflows, and infrastructure testing.",
+  "repo": "Jeffallan/claude-skills",
+  "path": "skills/terraform-engineer/SKILL.md",
+  "url": "https://github.com/Jeffallan/claude-skills/tree/HEAD/skills/terraform-engineer/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 4944,
+  "truncated": false
+}

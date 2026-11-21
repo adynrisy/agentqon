@@ -1,0 +1,11 @@
+{
+  "name": "storage-ttl-lifecycle",
+  "display_name": "Storage Ttl Lifecycle",
+  "description": "Soroban ledger state rent and TTL extension register: live state tracking, bump thresholds, rent fee reserves, and archive boundaries.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/soroban-storage-ttl-lifecycle/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/soroban-storage-ttl-lifecycle/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 4800,
+  "truncated": false
+}

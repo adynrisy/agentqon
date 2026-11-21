@@ -1,0 +1,11 @@
+{
+  "name": "startup-financial-modeling",
+  "display_name": "Startup Financial Modeling",
+  "description": "Build comprehensive 3-5 year financial models with revenue projections, cost structures, cash flow analysis, and scenario planning for early-stage startups. Use this skill when creating financial projections, calculating burn rate or runway, modeling fundraising scenarios, or preparing investor-ready financials for a seed or Series A raise.",
+  "repo": "wshobson/agents",
+  "path": "plugins/startup-business-analyst/skills/startup-financial-modeling/SKILL.md",
+  "url": "https://github.com/wshobson/agents/tree/HEAD/plugins/startup-business-analyst/skills/startup-financial-modeling/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 7322,
+  "truncated": false
+}

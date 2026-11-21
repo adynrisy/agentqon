@@ -1,0 +1,11 @@
+{
+  "name": "startup-it-troubleshooting",
+  "display_name": "Startup It Troubleshooting",
+  "description": "Practical IT troubleshooting playbooks for small teams without dedicated IT staff.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/startup-it-troubleshooting/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/startup-it-troubleshooting/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 13684,
+  "truncated": false
+}

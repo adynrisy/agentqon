@@ -1,0 +1,11 @@
+{
+  "name": "systemd-services",
+  "display_name": "Systemd Services",
+  "description": "Create and manage systemd services and timers. Configure service dependencies and resource limits. Use when managing system services.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/systemd-services/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/systemd-services/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 9120,
+  "truncated": false
+}

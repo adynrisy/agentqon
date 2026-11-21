@@ -1,0 +1,11 @@
+{
+  "name": "takeout-call-api",
+  "display_name": "Takeout Call API",
+  "description": "Call takeout coupon API to fetch hidden coupon lists, red packets and aggregated redemption pages for platforms (Meituan, Taobao Flash/Ele.me, JD.com). Returns coupon codes and redemption instructions for users to copy and redeem in corresponding apps.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/takeout-coupon/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/takeout-coupon/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 4265,
+  "truncated": false
+}

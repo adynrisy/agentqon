@@ -1,0 +1,11 @@
+{
+  "name": "transformers-hugging-face",
+  "display_name": "Transformers Hugging Face",
+  "description": "Hugging Face Transformers for loading Hub models, running pipeline inference, text generation, and Trainer fine-tuning on NLP, vision, audio, and multimodal tasks. Applies when working with AutoModel, pipelines, tokenizers, generation configs, or TrainingArguments within Transformers.",
+  "repo": "K-Dense-AI/scientific-agent-skills",
+  "path": "skills/transformers/SKILL.md",
+  "url": "https://github.com/K-Dense-AI/scientific-agent-skills/tree/HEAD/skills/transformers/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 10520,
+  "truncated": false
+}

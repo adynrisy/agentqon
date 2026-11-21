@@ -1,0 +1,11 @@
+{
+  "name": "timesfm-forecasting",
+  "display_name": "Timesfm Forecasting",
+  "description": "Performs zero-shot time-series forecasting with Google's TimesFM, including regular-grid CSV preparation, quantile forecasts, XReg covariates, and held-out evaluation. Uses the Apache-licensed TimesFM 2.5 checkpoint by default and documents the distinct TimesFM 3.0 multivariate API and weight-license requirements.",
+  "repo": "K-Dense-AI/scientific-agent-skills",
+  "path": "skills/timesfm-forecasting/SKILL.md",
+  "url": "https://github.com/K-Dense-AI/scientific-agent-skills/tree/HEAD/skills/timesfm-forecasting/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 8655,
+  "truncated": false
+}

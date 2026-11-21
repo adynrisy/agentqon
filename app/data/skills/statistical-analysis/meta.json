@@ -1,0 +1,11 @@
+{
+  "name": "statistical-analysis",
+  "display_name": "Statistical Analysis",
+  "description": "Apply statistical methods including descriptive stats, trend analysis, outlier detection, and hypothesis testing. Use when analyzing distributions, testing for significance, detecting anomalies, computing correlations, or interpreting statistical results.",
+  "repo": "anthropics/knowledge-work-plugins",
+  "path": "data/skills/statistical-analysis/SKILL.md",
+  "url": "https://github.com/anthropics/knowledge-work-plugins/tree/HEAD/data/skills/statistical-analysis/SKILL.md",
+  "license": "Apache-2.0",
+  "body_bytes": 10107,
+  "truncated": false
+}
