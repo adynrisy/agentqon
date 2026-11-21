@@ -1,0 +1,11 @@
+{
+  "name": "makepad-system-gpu",
+  "display_name": "Makepad System GPU",
+  "description": "CRITICAL: Use for Makepad shader system. Triggers on:\nmakepad shader, makepad draw_bg, Sdf2d, makepad pixel,\nmakepad glsl, makepad sdf, draw_quad, makepad gpu,\nmakepad 着色器, makepad shader 语法, makepad 绘制",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/makepad-shaders/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/makepad-shaders/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 6672,
+  "truncated": false
+}

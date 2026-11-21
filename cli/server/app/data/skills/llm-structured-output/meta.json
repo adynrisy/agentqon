@@ -1,0 +1,11 @@
+{
+  "name": "llm-structured-output",
+  "display_name": "LLM Structured Output",
+  "description": "Get reliable JSON, enums, and typed objects from LLMs using response_format, tool_use, and schema-constrained decoding across OpenAI, Anthropic, and Google APIs.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/llm-structured-output/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/llm-structured-output/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 15289,
+  "truncated": false
+}

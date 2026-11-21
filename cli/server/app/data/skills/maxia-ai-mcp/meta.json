@@ -1,0 +1,11 @@
+{
+  "name": "maxia-ai-mcp",
+  "display_name": "Maxia AI MCP",
+  "description": "Connect to MAXIA AI-to-AI marketplace on Solana. Discover, buy, sell AI services. Earn USDC. 13 MCP tools, A2A protocol, DeFi yields, sentiment analysis, rug detection.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/maxia/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/maxia/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 3757,
+  "truncated": false
+}

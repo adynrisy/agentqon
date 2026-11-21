@@ -1,0 +1,11 @@
+{
+  "name": "market-research-reports",
+  "display_name": "Market Research Reports",
+  "description": "Builds evidence-traceable market research reports and assumption-driven market sizing or forecast scenarios. Use for market definition, industry and customer evidence, competitive landscapes, TAM/SAM/SOM reconciliation, forecast sensitivity, and auditable report scaffolds.",
+  "repo": "K-Dense-AI/scientific-agent-skills",
+  "path": "skills/market-research-reports/SKILL.md",
+  "url": "https://github.com/K-Dense-AI/scientific-agent-skills/tree/HEAD/skills/market-research-reports/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 14661,
+  "truncated": false
+}

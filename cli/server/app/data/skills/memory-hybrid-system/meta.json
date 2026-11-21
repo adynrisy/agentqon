@@ -1,0 +1,11 @@
+{
+  "name": "memory-hybrid-system",
+  "display_name": "Memory Hybrid System",
+  "description": "A hybrid memory system that provides persistent, searchable knowledge management for AI agents.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/agent-memory/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/agent-memory/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 4151,
+  "truncated": false
+}

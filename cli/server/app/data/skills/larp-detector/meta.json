@@ -1,0 +1,11 @@
+{
+  "name": "larp-detector",
+  "display_name": "Larp Detector",
+  "description": "Skeptical review of outside contributions to public repos. Use when reviewing, ranking, or replying to public GitHub pull requests or issues from outside contributors, or when the user says \"larp-detector\".",
+  "repo": "davidondrej/skills",
+  "path": "skills/agent-orchestration/larp-detector/SKILL.md",
+  "url": "https://github.com/davidondrej/skills/tree/HEAD/skills/agent-orchestration/larp-detector/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 1608,
+  "truncated": false
+}

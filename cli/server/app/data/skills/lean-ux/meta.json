@@ -1,0 +1,11 @@
+{
+  "name": "lean-ux",
+  "display_name": "Lean UX",
+  "description": "Apply lean thinking to UX: hypothesis-driven design, collaborative sketching, and rapid experiments instead of heavy deliverables. Use when the user mentions \"Lean UX\", \"design hypothesis\", \"outcome over output\", \"design studio method\", \"assumption mapping\", \"lightweight research\", \"too much design documentation\", or \"get the team designing together\". Also trigger when reducing design-documentation overhead, getting cross-functional teams to co-design, or running fast usability experiments. Covers hypothesis statements, MVPs for UX, and cross-functional collaboration. For Build-Measure-Learn, see lean-startup. For usability audits, see ux-heuristics.",
+  "repo": "wondelai/skills",
+  "path": "lean-ux/SKILL.md",
+  "url": "https://github.com/wondelai/skills/tree/HEAD/lean-ux/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 15321,
+  "truncated": false
+}

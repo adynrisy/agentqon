@@ -1,0 +1,11 @@
+{
+  "name": "mcp-server-builder",
+  "display_name": "MCP Server Builder",
+  "description": "Design and ship production-ready MCP (Model Context Protocol) servers from OpenAPI contracts instead of hand-written tool wrappers. Python and TypeScript support, schema validation, safe evolution. Use when exposing an existing API as an MCP server, building tool integrations for Claude or Codex or Cursor, or scaffolding an MCP project from scratch.",
+  "repo": "alirezarezvani/claude-skills",
+  "path": ".gemini/skills/mcp-server-builder/SKILL.md",
+  "url": "https://github.com/alirezarezvani/claude-skills/tree/HEAD/.gemini/skills/mcp-server-builder/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 3541,
+  "truncated": false
+}

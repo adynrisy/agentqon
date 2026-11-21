@@ -1,0 +1,11 @@
+{
+  "name": "latex-paper-conversion",
+  "display_name": "Latex Paper Conversion",
+  "description": "This skill should be used when the user asks to convert an academic paper in LaTeX from one format (e.g., Springer, IPOL) to another format (e.g., MDPI, IEEE, Nature). It automates extraction, injection, fixing formatting, and compiling.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/latex-paper-conversion/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/latex-paper-conversion/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 4001,
+  "truncated": false
+}

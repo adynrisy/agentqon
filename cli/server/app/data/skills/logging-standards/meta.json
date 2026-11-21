@@ -1,0 +1,11 @@
+{
+  "name": "logging-standards",
+  "display_name": "Logging Standards",
+  "description": "Applies structured logging: levels, PII redaction, request logging, wide events (canonical log lines). Use when adding or reviewing logs, choosing levels, or after logs failed or leaked data in an incident.",
+  "repo": "khasky/awesome-agent-skills",
+  "path": "skills/awesome-logging-standards/SKILL.md",
+  "url": "https://github.com/khasky/awesome-agent-skills/tree/HEAD/skills/awesome-logging-standards/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 7308,
+  "truncated": false
+}

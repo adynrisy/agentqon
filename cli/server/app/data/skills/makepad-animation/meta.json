@@ -1,0 +1,11 @@
+{
+  "name": "makepad-animation",
+  "display_name": "Makepad Animation",
+  "description": "Makepad 2.0 guidance for animation; use when building or debugging Makepad UI code.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/makepad-2-0-animation/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/makepad-2-0-animation/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 8996,
+  "truncated": false
+}

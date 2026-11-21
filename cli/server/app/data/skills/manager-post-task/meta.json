@@ -1,0 +1,11 @@
+{
+  "name": "manager-post-task",
+  "display_name": "Manager Post Task",
+  "description": "Records research provenance as a post-task epilogue, scanning conversation history at the end of a coding or research session to extract decisions, experiments, dead ends, claims, heuristics, and pivots, and writing them into the ara/ directory with user-vs-AI provenance tags. Use as a session epilogue — never during execution — to maintain a faithful, auditable trace of how a research project actually evolved.",
+  "repo": "Orchestra-Research/AI-Research-SKILLs",
+  "path": "22-agent-native-research-artifact/research-manager/SKILL.md",
+  "url": "https://github.com/Orchestra-Research/AI-Research-SKILLs/tree/HEAD/22-agent-native-research-artifact/research-manager/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 11966,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "ma-playbook",
+  "display_name": "Ma Playbook",
+  "description": "M&A strategy for acquiring companies or being acquired. Due diligence, valuation, integration, and deal structure. Use when evaluating acquisitions, preparing for acquisition, M&A due diligence, integration planning, or deal negotiation.",
+  "repo": "alirezarezvani/claude-skills",
+  "path": ".gemini/skills/ma-playbook/SKILL.md",
+  "url": "https://github.com/alirezarezvani/claude-skills/tree/HEAD/.gemini/skills/ma-playbook/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 5709,
+  "truncated": false
+}

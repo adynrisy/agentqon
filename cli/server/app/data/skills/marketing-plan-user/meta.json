@@ -1,0 +1,11 @@
+{
+  "name": "marketing-plan-user",
+  "display_name": "Marketing Plan · User",
+  "description": "When the user needs a comprehensive marketing plan for a client, a company they advise, or their own product.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/marketing-plan/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/marketing-plan/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 20662,
+  "truncated": false
+}

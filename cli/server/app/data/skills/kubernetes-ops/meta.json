@@ -1,0 +1,11 @@
+{
+  "name": "kubernetes-ops",
+  "display_name": "Kubernetes Ops",
+  "description": "Deploy, scale, and manage Kubernetes workloads.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/kubernetes-ops/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/kubernetes-ops/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 7594,
+  "truncated": false
+}

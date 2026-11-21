@@ -1,0 +1,11 @@
+{
+  "name": "loop-me",
+  "display_name": "Loop Me",
+  "description": "Grill me about specs for the workflows I want to build, within this workspace.",
+  "repo": "mattpocock/skills",
+  "path": "skills/in-progress/loop-me/SKILL.md",
+  "url": "https://github.com/mattpocock/skills/tree/HEAD/skills/in-progress/loop-me/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 2311,
+  "truncated": false
+}

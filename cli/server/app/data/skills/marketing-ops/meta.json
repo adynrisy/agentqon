@@ -1,0 +1,11 @@
+{
+  "name": "marketing-ops",
+  "display_name": "Marketing Ops",
+  "description": "Central router for the marketing skill ecosystem. Use when unsure which marketing skill to use, when orchestrating a multi-skill campaign, or when coordinating across content, SEO, CRO, channels, and analytics. Also use when the user mentions 'marketing help,' 'campaign plan,' 'what should I do next,' 'marketing priorities,' or 'coordinate marketing.'",
+  "repo": "alirezarezvani/claude-skills",
+  "path": ".gemini/skills/marketing-ops/SKILL.md",
+  "url": "https://github.com/alirezarezvani/claude-skills/tree/HEAD/.gemini/skills/marketing-ops/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 10905,
+  "truncated": false
+}

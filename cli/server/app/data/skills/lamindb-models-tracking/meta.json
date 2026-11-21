@@ -1,0 +1,11 @@
+{
+  "name": "lamindb-models-tracking",
+  "display_name": "Lamindb Models Tracking",
+  "description": "Manages biological datasets and models with LaminDB, including artifact registration, lineage tracking, schema validation, Bionty ontology annotation, query/search, collections, branches, storage, and workflow integrations. Use for reproducible biological data curation or a LaminDB lakehouse.",
+  "repo": "K-Dense-AI/scientific-agent-skills",
+  "path": "skills/lamindb/SKILL.md",
+  "url": "https://github.com/K-Dense-AI/scientific-agent-skills/tree/HEAD/skills/lamindb/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 7492,
+  "truncated": false
+}

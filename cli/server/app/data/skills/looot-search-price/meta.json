@@ -1,0 +1,11 @@
+{
+  "name": "looot-search-price",
+  "display_name": "Looot Search Price",
+  "description": "Search, price and run 2,500+ data API endpoints (work emails, company search, SERP, web pages) from one prepaid balance via the looot MCP server.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/looot/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/looot/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 11131,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "local-legal-seo-audit",
+  "display_name": "Local Legal SEO Audit",
+  "description": "Audit and improve local SEO for law firms, attorneys, forensic experts and legal/professional services sites with local presence, focusing on GBP, directories, E-E-A-T and practice/location pages.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/local-legal-seo-audit/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/local-legal-seo-audit/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 12516,
+  "truncated": false
+}

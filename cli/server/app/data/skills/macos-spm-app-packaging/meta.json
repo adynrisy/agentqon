@@ -1,0 +1,11 @@
+{
+  "name": "macos-spm-app-packaging",
+  "display_name": "macOS Spm App Packaging",
+  "description": "Scaffold, build, sign, and package SwiftPM macOS apps without Xcode projects.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/macos-spm-app-packaging/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/macos-spm-app-packaging/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 5057,
+  "truncated": false
+}

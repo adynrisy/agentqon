@@ -1,0 +1,11 @@
+{
+  "name": "meteora-dlmm-pool-screening",
+  "display_name": "Meteora Dlmm Pool Screening",
+  "description": "Screen and rank Meteora DLMM pools for LP quality using public Meteora APIs (fee/TVL, bin step, organic score). Read-only: never deploys, swaps, or signs.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/meteora-dlmm-pool-screening/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/meteora-dlmm-pool-screening/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 6994,
+  "truncated": false
+}

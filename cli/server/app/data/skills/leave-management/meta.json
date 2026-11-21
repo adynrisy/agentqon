@@ -1,0 +1,11 @@
+{
+  "name": "leave-management",
+  "display_name": "Leave Management",
+  "description": "Leave register: request, leave type, employee and department, manager and approver, start and end dates, days requested, leave balances, handover notes and status. Use for leave tracking.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/leave-management/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/leave-management/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 14169,
+  "truncated": false
+}

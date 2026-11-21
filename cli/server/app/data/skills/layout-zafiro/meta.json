@@ -1,0 +1,11 @@
+{
+  "name": "layout-zafiro",
+  "display_name": "Layout Zafiro",
+  "description": "Guidelines for modern Avalonia UI layout using Zafiro.Avalonia, emphasizing shared styles, generic components, and avoiding XAML redundancy.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/avalonia-layout-zafiro/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/avalonia-layout-zafiro/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 2505,
+  "truncated": false
+}

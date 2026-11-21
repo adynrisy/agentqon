@@ -1,0 +1,11 @@
+{
+  "name": "logic-lens",
+  "display_name": "Logic Lens",
+  "description": "AI-powered Claude Code skill that performs deep code review using formal logic and reasoning frameworks to detect bugs, anti-patterns, and security risks beyond what linters catch.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/logic-lens/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/logic-lens/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 4593,
+  "truncated": false
+}

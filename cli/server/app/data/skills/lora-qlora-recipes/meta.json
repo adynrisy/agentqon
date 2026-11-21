@@ -1,0 +1,11 @@
+{
+  "name": "lora-qlora-recipes",
+  "display_name": "Lora Qlora Recipes",
+  "description": "Configure LoRA and QLoRA supervised fine-tuning with current best-practice hyperparameters. Use when writing or reviewing a LoRA/QLoRA training configuration, choosing rank/alpha/target modules, or deciding between LoRA, QLoRA, and full fine-tuning.",
+  "repo": "wshobson/agents",
+  "path": "plugins/llm-finetuning/skills/lora-qlora-recipes/SKILL.md",
+  "url": "https://github.com/wshobson/agents/tree/HEAD/plugins/llm-finetuning/skills/lora-qlora-recipes/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 7376,
+  "truncated": false
+}

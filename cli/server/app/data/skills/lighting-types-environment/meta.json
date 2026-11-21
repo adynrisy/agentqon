@@ -1,0 +1,11 @@
+{
+  "name": "lighting-types-environment",
+  "display_name": "Lighting Types Environment",
+  "description": "Three.js lighting - light types, shadows, environment lighting. Use when adding lights, configuring shadows, setting up IBL, or optimizing lighting performance.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/threejs-lighting/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/threejs-lighting/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 12490,
+  "truncated": false
+}

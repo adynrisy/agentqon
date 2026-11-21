@@ -1,0 +1,11 @@
+{
+  "name": "kubestellar-console",
+  "display_name": "Kubestellar Console",
+  "description": "Multi-cluster Kubernetes dashboard with AI-powered operations via MCP server and 10+ built-in agent skills",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/kubestellar-console/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/kubestellar-console/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 4220,
+  "truncated": false
+}

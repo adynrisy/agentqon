@@ -1,0 +1,11 @@
+{
+  "name": "markstream-vite",
+  "display_name": "Markstream Vite",
+  "description": "Integrate markstream-vue2 into Vue 2 plus Vite with bundled worker imports, CSS ordering, Composition API compatibility, and safe streaming defaults.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/markstream-vue2-vite/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/markstream-vue2-vite/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 2359,
+  "truncated": false
+}

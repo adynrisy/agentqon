@@ -1,0 +1,11 @@
+{
+  "name": "manager-local-cli",
+  "display_name": "Manager Local CLI",
+  "description": "Manage multiple local CLI agents via tmux sessions (start/stop/monitor/assign) in an explicitly authorized workspace.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/agent-manager-skill/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/agent-manager-skill/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 2300,
+  "truncated": false
+}

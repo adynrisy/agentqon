@@ -1,0 +1,11 @@
+{
+  "name": "llm-application-dev-langchain",
+  "display_name": "LLM Application Dev Langchain",
+  "description": "You are an expert LangChain agent developer specializing in production-grade AI systems using LangChain 0.1+ and LangGraph.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/llm-application-dev-langchain-agent/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/llm-application-dev-langchain-agent/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 7826,
+  "truncated": false
+}

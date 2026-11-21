@@ -1,0 +1,11 @@
+{
+  "name": "learning-development",
+  "display_name": "Learning Development",
+  "description": "Training register: course, provider, delivery method, department, employee, duration, progress percentage, score, mandatory flag, certificate earned and skills gained. Use for learning records.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/learning-career-development/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/learning-career-development/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 15026,
+  "truncated": false
+}

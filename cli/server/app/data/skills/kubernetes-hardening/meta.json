@@ -1,0 +1,11 @@
+{
+  "name": "kubernetes-hardening",
+  "display_name": "Kubernetes Hardening",
+  "description": "Implement Kubernetes security contexts, Pod Security Standards, and network policies.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/kubernetes-hardening/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/kubernetes-hardening/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 3791,
+  "truncated": false
+}

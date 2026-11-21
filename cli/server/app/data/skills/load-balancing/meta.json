@@ -1,0 +1,11 @@
+{
+  "name": "load-balancing",
+  "display_name": "Load Balancing",
+  "description": "Configure load balancers and traffic distribution. Implement health checks and SSL termination. Use when distributing traffic across servers.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/load-balancing/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/load-balancing/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 11076,
+  "truncated": false
+}

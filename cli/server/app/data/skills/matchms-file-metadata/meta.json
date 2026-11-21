@@ -1,0 +1,11 @@
+{
+  "name": "matchms-file-metadata",
+  "display_name": "Matchms File Metadata",
+  "description": "Processes, cleans, compares, and searches tandem mass spectra with matchms. Use for MS/MS file I/O, metadata harmonization, peak filtering, spectral similarity, library matching, score matrices, and molecular-similarity networks. Use pyopenms instead for LC-MS feature detection or proteomics pipelines.",
+  "repo": "K-Dense-AI/scientific-agent-skills",
+  "path": "skills/matchms/SKILL.md",
+  "url": "https://github.com/K-Dense-AI/scientific-agent-skills/tree/HEAD/skills/matchms/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 12178,
+  "truncated": false
+}

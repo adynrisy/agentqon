@@ -1,0 +1,11 @@
+{
+  "name": "meeting-briefing",
+  "display_name": "Meeting Briefing",
+  "description": "Prepare structured briefings for meetings with legal relevance and track resulting action items. Use when preparing for contract negotiations, board meetings, compliance reviews, or any meeting where legal context, background research, or action tracking is needed.",
+  "repo": "anthropics/knowledge-work-plugins",
+  "path": "legal/skills/meeting-briefing/SKILL.md",
+  "url": "https://github.com/anthropics/knowledge-work-plugins/tree/HEAD/legal/skills/meeting-briefing/SKILL.md",
+  "license": "Apache-2.0",
+  "body_bytes": 8679,
+  "truncated": false
+}

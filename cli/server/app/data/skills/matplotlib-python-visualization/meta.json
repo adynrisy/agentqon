@@ -1,0 +1,11 @@
+{
+  "name": "matplotlib-python-visualization",
+  "display_name": "Matplotlib Python Visualization",
+  "description": "Matplotlib is Python's foundational visualization library for creating static, animated, and interactive plots.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/matplotlib/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/matplotlib/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 11623,
+  "truncated": false
+}

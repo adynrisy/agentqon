@@ -1,0 +1,11 @@
+{
+  "name": "lead-triage-small-business",
+  "display_name": "Lead Triage · Small Business",
+  "description": "Scores inbound HubSpot leads by engagement signals, company fit, and urgency markers, ranks the ones worth a call today with talking points, drafts the follow-ups, and proposes calendar times for the owner to book. Use when the owner asks to prioritize, score, or rank leads, asks \"who should I call first,\" or asks about their pipeline. An ask that wants the ranked leads turned into a call list with time blocked on the calendar routes to /call-list, which runs this skill first and then books the time.",
+  "repo": "anthropics/knowledge-work-plugins",
+  "path": "small-business/skills/lead-triage/SKILL.md",
+  "url": "https://github.com/anthropics/knowledge-work-plugins/tree/HEAD/small-business/skills/lead-triage/SKILL.md",
+  "license": "Apache-2.0",
+  "body_bytes": 7132,
+  "truncated": false
+}

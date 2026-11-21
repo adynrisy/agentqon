@@ -1,0 +1,11 @@
+{
+  "name": "microservices-architect",
+  "display_name": "Microservices Architect",
+  "description": "Designs distributed system architectures, decomposes monoliths into bounded-context services, recommends communication patterns, and produces service boundary diagrams and resilience strategies. Use when designing distributed systems, decomposing monoliths, or implementing microservices patterns — including service boundaries, DDD, saga patterns, event sourcing, CQRS, service mesh, or distributed tracing.",
+  "repo": "Jeffallan/claude-skills",
+  "path": "skills/microservices-architect/SKILL.md",
+  "url": "https://github.com/Jeffallan/claude-skills/tree/HEAD/skills/microservices-architect/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 6081,
+  "truncated": false
+}

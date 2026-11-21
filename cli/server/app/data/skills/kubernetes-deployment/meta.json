@@ -1,0 +1,11 @@
+{
+  "name": "kubernetes-deployment",
+  "display_name": "Kubernetes Deployment",
+  "description": "Kubernetes deployment workflow for container orchestration, Helm charts, service mesh, and production-ready K8s configurations.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/kubernetes-deployment/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/kubernetes-deployment/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 3987,
+  "truncated": false
+}

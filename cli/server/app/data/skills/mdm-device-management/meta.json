@@ -1,0 +1,11 @@
+{
+  "name": "mdm-device-management",
+  "display_name": "Mdm Device Management",
+  "description": "Manage and secure company devices with MDM solutions",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/mdm-device-management/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/mdm-device-management/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 11540,
+  "truncated": false
+}

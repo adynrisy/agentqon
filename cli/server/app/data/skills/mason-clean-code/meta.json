@@ -1,0 +1,11 @@
+{
+  "name": "mason-clean-code",
+  "display_name": "Mason Clean Code",
+  "description": "Produces clean, functional code that matches the architecture and checklists.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/agent-squad/mason/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/agent-squad/mason/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 6588,
+  "truncated": false
+}

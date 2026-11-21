@@ -1,0 +1,11 @@
+{
+  "name": "logistics-exception-management",
+  "display_name": "Logistics Exception Management",
+  "description": "Codified expertise for handling freight exceptions, shipment delays, damages, losses, and carrier disputes. Informed by logistics professionals with 15+ years operational experience.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/logistics-exception-management/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/logistics-exception-management/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 16784,
+  "truncated": false
+}

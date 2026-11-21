@@ -1,0 +1,11 @@
+{
+  "name": "market-gap-analysis",
+  "display_name": "Market Gap Analysis",
+  "description": "Identify underserved market gaps and unmet customer needs in e-commerce. Analyzes competitor blind spots, review pain points, search demand without adequate supply, and emerging customer segments.",
+  "repo": "nexscope-ai/eCommerce-Skills",
+  "path": "market-gap-analysis/SKILL.md",
+  "url": "https://github.com/nexscope-ai/eCommerce-Skills/tree/HEAD/market-gap-analysis/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 2027,
+  "truncated": false
+}

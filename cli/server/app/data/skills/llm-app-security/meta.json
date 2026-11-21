@@ -1,0 +1,11 @@
+{
+  "name": "llm-app-security",
+  "display_name": "LLM App Security",
+  "description": "Secure LLM-powered applications with input validation, output controls, tenant isolation, and abuse prevention.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/llm-app-security/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/llm-app-security/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 13021,
+  "truncated": false
+}

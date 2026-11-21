@@ -1,0 +1,11 @@
+{
+  "name": "max-up-existing",
+  "display_name": "Max Up Existing",
+  "description": "Cleans up and improves existing code without changing behavior.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/agent-squad/max/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/agent-squad/max/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 6383,
+  "truncated": false
+}

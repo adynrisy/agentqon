@@ -1,0 +1,11 @@
+{
+  "name": "lead-magnets",
+  "display_name": "Lead Magnets",
+  "description": "Plan and optimize lead magnets for email capture and lead generation. Use when designing gated content, checklists, templates, downloadable resources, or other offers that convert visitors into subscribers.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/lead-magnets/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/lead-magnets/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 10921,
+  "truncated": false
+}

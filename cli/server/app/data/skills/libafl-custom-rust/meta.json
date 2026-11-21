@@ -1,0 +1,11 @@
+{
+  "name": "libafl-custom-rust",
+  "display_name": "Libafl Custom Rust",
+  "description": "Builds custom fuzzers with LibAFL, the modular Rust fuzzing library. Covers composing observers, feedbacks, mutators, schedulers, and executors into a fuzzer for targets the standard tools do not fit. Use when writing a bespoke fuzzer or mutator, fuzzing a non-standard target or architecture, implementing a fuzzing research idea, or when libFuzzer and AFL++ lack the control you need.",
+  "repo": "trailofbits/skills",
+  "path": "plugins/testing-handbook-skills/skills/libafl/SKILL.md",
+  "url": "https://github.com/trailofbits/skills/tree/HEAD/plugins/testing-handbook-skills/skills/libafl/SKILL.md",
+  "license": "CC",
+  "body_bytes": 16706,
+  "truncated": false
+}

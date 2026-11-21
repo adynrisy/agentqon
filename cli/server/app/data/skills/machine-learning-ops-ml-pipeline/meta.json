@@ -1,0 +1,11 @@
+{
+  "name": "machine-learning-ops-ml-pipeline",
+  "display_name": "Machine Learning Ops ML Pipeline",
+  "description": "Design and implement a complete ML pipeline for: $ARGUMENTS",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/machine-learning-ops-ml-pipeline/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/machine-learning-ops-ml-pipeline/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 10698,
+  "truncated": false
+}

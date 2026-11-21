@@ -1,0 +1,11 @@
+{
+  "name": "langsmith-observability",
+  "display_name": "Langsmith Observability",
+  "description": "LLM observability platform for tracing, evaluation, and monitoring. Use when debugging LLM applications, evaluating model outputs against datasets, monitoring production systems, or building systematic testing pipelines for AI applications.",
+  "repo": "Orchestra-Research/AI-Research-SKILLs",
+  "path": "17-observability/langsmith/SKILL.md",
+  "url": "https://github.com/Orchestra-Research/AI-Research-SKILLs/tree/HEAD/17-observability/langsmith/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 9205,
+  "truncated": false
+}

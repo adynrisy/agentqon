@@ -1,0 +1,11 @@
+{
+  "name": "makepad-layout-critical",
+  "display_name": "Makepad Layout · CRITICAL",
+  "description": "CRITICAL: Use for Makepad layout system. Triggers on:\nmakepad layout, makepad width, makepad height, makepad flex,\nmakepad padding, makepad margin, makepad flow, makepad align,\nFit, Fill, Size, Walk, \"how to center in makepad\",\nmakepad 布局, makepad 宽度, makepad 对齐, makepad 居中",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/makepad-layout/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/makepad-layout/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 5602,
+  "truncated": false
+}

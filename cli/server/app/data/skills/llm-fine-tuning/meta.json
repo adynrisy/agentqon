@@ -1,0 +1,11 @@
+{
+  "name": "llm-fine-tuning",
+  "display_name": "LLM Fine Tuning",
+  "description": "Set up infrastructure for fine-tuning LLMs with QLoRA, LoRA, and full fine-tuning using Hugging Face TRL, Axolotl, and distributed training with DeepSpeed or FSDP.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/llm-fine-tuning/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/llm-fine-tuning/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 8651,
+  "truncated": false
+}

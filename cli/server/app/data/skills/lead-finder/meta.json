@@ -1,0 +1,11 @@
+{
+  "name": "lead-finder",
+  "display_name": "Lead Finder",
+  "description": "Builds a ranked list of prospects worth contacting. Works out the owner's ideal customer profile from the customers they already have, finds look-alike companies and the right contact at each, enriches them with firmographics and buying signals, scores them, and delivers the list as an XLSX, with an offer to also create the records in the CRM. Runs on Apollo when connected and falls back to web research plus an uploaded customer list when it isn't. Use this whenever the owner wants new prospects, a target list, or help finding customers — including phrasings like \"who should I be calling,\" \"find me more customers like my best ones,\" \"build me a prospect list,\" \"I need leads,\" \"who else looks like Acme,\" or \"help me find companies in this area that need what we do.\" Reach for it even when the owner describes the customer they want rather than asking for a list.",
+  "repo": "anthropics/knowledge-work-plugins",
+  "path": "small-business/skills/lead-finder/SKILL.md",
+  "url": "https://github.com/anthropics/knowledge-work-plugins/tree/HEAD/small-business/skills/lead-finder/SKILL.md",
+  "license": "Apache-2.0",
+  "body_bytes": 7948,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "memory-forensics",
+  "display_name": "Memory Forensics",
+  "description": "Comprehensive techniques for acquiring, analyzing, and extracting artifacts from memory dumps for incident response and malware analysis.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/memory-forensics/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/memory-forensics/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 10985,
+  "truncated": false
+}

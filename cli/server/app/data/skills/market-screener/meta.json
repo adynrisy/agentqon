@@ -1,0 +1,11 @@
+{
+  "name": "market-screener",
+  "display_name": "Market Screener",
+  "description": "Scan the most-traded crypto futures pairs for up to 3 technical conditions in one TraderSpy call, compare coins, and backtest what followed a condition. Use for \"which coins are oversold\".",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/traderspy-market-screener/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/traderspy-market-screener/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 9861,
+  "truncated": false
+}

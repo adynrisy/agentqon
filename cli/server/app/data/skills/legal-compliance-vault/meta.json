@@ -1,0 +1,11 @@
+{
+  "name": "legal-compliance-vault",
+  "display_name": "Legal Compliance Vault",
+  "description": "Legal and compliance document vault: document type, framework, owner and department, effective and expiry dates, renewal flag, storage link, confidentiality and status. Use for policy tracking.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/legal-compliance-vault/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/legal-compliance-vault/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 13433,
+  "truncated": false
+}

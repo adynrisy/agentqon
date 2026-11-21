@@ -1,0 +1,11 @@
+{
+  "name": "marketing-context",
+  "display_name": "Marketing Context",
+  "description": "Create and maintain the marketing context document that all marketing skills read before starting. Use when the user mentions 'marketing context,' 'brand voice,' 'set up context,' 'target audience,' 'ICP,' 'style guide,' 'who is my customer,' 'positioning,' or wants to avoid repeating foundational information across marketing tasks. Run this at the start of any new project before using other marketing skills.",
+  "repo": "alirezarezvani/claude-skills",
+  "path": ".gemini/skills/marketing-context/SKILL.md",
+  "url": "https://github.com/alirezarezvani/claude-skills/tree/HEAD/.gemini/skills/marketing-context/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 7206,
+  "truncated": false
+}

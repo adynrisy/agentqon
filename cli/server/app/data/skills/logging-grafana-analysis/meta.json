@@ -1,0 +1,11 @@
+{
+  "name": "logging-grafana-analysis",
+  "display_name": "Logging Grafana Analysis",
+  "description": "Configure Grafana Loki for log aggregation and analysis.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/loki-logging/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/loki-logging/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 10231,
+  "truncated": false
+}

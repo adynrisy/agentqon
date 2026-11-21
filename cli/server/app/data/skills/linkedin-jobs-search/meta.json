@@ -1,0 +1,11 @@
+{
+  "name": "linkedin-jobs-search",
+  "display_name": "Linkedin Jobs Search",
+  "description": "Search LinkedIn job listings and extract full job details. Supports filtering by work type (remote/on-site/hybrid), contract type (full-time/part-time/contract/internship), experience level, date posted, and company. Returns job title, company, location, work type, contract type, experience level, posted date, applicant count, job description, salary, and direct job URLs. Use when user mentions linkedin jobs, linkedin job search, scrape linkedin jobs, extract linkedin job listings, find jobs on linkedin, job openings, job postings linkedin, linkedin career search, job hunting linkedin, linkedin vacancy, jobs remote linkedin, work from home jobs linkedin, linkedin scraper jobs, linkedin job data, linkedin hiring, collect job leads linkedin.",
+  "repo": "browser-act/skills",
+  "path": "solutions/lead-generation/linkedin-jobs-search/SKILL.md",
+  "url": "https://github.com/browser-act/skills/tree/HEAD/solutions/lead-generation/linkedin-jobs-search/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 9158,
+  "truncated": false
+}

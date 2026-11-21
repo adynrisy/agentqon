@@ -1,0 +1,11 @@
+{
+  "name": "material-design",
+  "display_name": "Material Design",
+  "description": "Web and App implementation guide for Material Design. Trigger when user wants Google's aesthetic, elevation, motion, and consistent components.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/design-it/material-design/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/design-it/material-design/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 10108,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "llm-inference-scaling",
+  "display_name": "LLM Inference Scaling",
+  "description": "Auto-scale LLM inference clusters on Kubernetes using KEDA, custom GPU metrics, and horizontal pod autoscaling.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/llm-inference-scaling/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/llm-inference-scaling/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 7686,
+  "truncated": false
+}

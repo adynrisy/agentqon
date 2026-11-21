@@ -1,0 +1,11 @@
+{
+  "name": "mdpr-review-markdown",
+  "display_name": "Mdpr Review Markdown",
+  "description": "Review MDPR Markdown presentation workflows with semantic hints, visual checks, and deterministic renderer boundaries.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/mdpr-skill/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/mdpr-skill/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 8322,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "lognorm-work-site",
+  "display_name": "Lognorm Work Site",
+  "description": "Work a site's SEO and AI-visibility (GEO) backlog through the hosted LogNorm MCP server: audits, fixes, content, AI-answer tracking.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/lognorm/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/lognorm/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 4901,
+  "truncated": false
+}

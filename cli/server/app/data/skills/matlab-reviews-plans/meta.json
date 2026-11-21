@@ -1,0 +1,11 @@
+{
+  "name": "matlab-reviews-plans",
+  "display_name": "Matlab Reviews Plans",
+  "description": "Builds, reviews, migrates, and plans MATLAB or GNU Octave numerical workflows. Use for arrays, tabular/time data, tests, projects, graphics, MAT files, and explicit Python interoperability.",
+  "repo": "K-Dense-AI/scientific-agent-skills",
+  "path": "skills/matlab/SKILL.md",
+  "url": "https://github.com/K-Dense-AI/scientific-agent-skills/tree/HEAD/skills/matlab/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 15935,
+  "truncated": false
+}

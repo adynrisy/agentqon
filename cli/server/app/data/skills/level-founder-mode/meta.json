@@ -1,0 +1,11 @@
+{
+  "name": "level-founder-mode",
+  "display_name": "Level Founder Mode",
+  "description": "Founder-mode executive team. 13 cs-* C-suite agents (CFO, CMO, CRO, CPO, COO, CHRO, CISO, GC, CDO, CAIO, CCO, VPE, Chief of Staff) and 21 /c-level-agents:* slash commands for forcing-question office hours, multi-role boardroom deliberation, strategic sprint pipeline, and meta routing. Use when the founder needs a virtual executive team, when invoking /c-level-agents:* commands, or when orchestrating multi-role decisions.",
+  "repo": "alirezarezvani/claude-skills",
+  "path": ".gemini/skills/c-level-agents/SKILL.md",
+  "url": "https://github.com/alirezarezvani/claude-skills/tree/HEAD/.gemini/skills/c-level-agents/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 4406,
+  "truncated": false
+}

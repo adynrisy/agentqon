@@ -1,0 +1,11 @@
+{
+  "name": "mcp-tool-developer",
+  "display_name": "MCP Tool Developer",
+  "description": "Build Model Context Protocol (MCP) servers and tools from scratch. Full-stack MCP development with TypeScript/Python, testing, deployment, and registry publishing.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/mcp-tool-developer/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/mcp-tool-developer/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 4376,
+  "truncated": false
+}

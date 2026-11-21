@@ -1,0 +1,11 @@
+{
+  "name": "llm-evaluation",
+  "display_name": "LLM Evaluation",
+  "description": "Master comprehensive evaluation strategies for LLM applications, from automated metrics to human evaluation and A/B testing.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/llm-evaluation/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/llm-evaluation/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 15717,
+  "truncated": false
+}

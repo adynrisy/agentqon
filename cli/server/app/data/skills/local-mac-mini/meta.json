@@ -1,0 +1,11 @@
+{
+  "name": "local-mac-mini",
+  "display_name": "Local Mac Mini",
+  "description": "Set up OpenClaw locally and run it reliably on a Mac mini for private, always-on local agent workflows.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "skills/openclaw-local-mac-mini/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/skills/openclaw-local-mac-mini/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 10170,
+  "truncated": false
+}

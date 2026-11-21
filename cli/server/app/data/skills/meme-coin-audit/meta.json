@@ -1,0 +1,11 @@
+{
+  "name": "meme-coin-audit",
+  "display_name": "Meme Coin Audit",
+  "description": "Meme coin and token security audit",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/meme-coin-audit/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/meme-coin-audit/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 16488,
+  "truncated": false
+}

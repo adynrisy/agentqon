@@ -1,0 +1,11 @@
+{
+  "name": "llm-cost-optimization",
+  "display_name": "LLM Cost Optimization",
+  "description": "Reduce LLM API and infrastructure costs through model selection, prompt caching, batching, caching, quantization, and self-hosting strategies.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/llm-cost-optimization/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/llm-cost-optimization/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 9232,
+  "truncated": false
+}

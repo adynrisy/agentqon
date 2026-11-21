@@ -1,0 +1,11 @@
+{
+  "name": "mercado-de-roi",
+  "display_name": "Mercado De ROI",
+  "description": "Analise de mercado imobiliario para leiloes. Liquidez, desagio tipico, ROI, estrategias de saida (flip/reforma/renda), Selic 2025 e benchmark CDI/FII.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/leiloeiro-mercado/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/leiloeiro-mercado/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 1322,
+  "truncated": false
+}

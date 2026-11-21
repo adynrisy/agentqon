@@ -1,0 +1,11 @@
+{
+  "name": "legal-advisor",
+  "display_name": "Legal Advisor",
+  "description": "Draft privacy policies, terms of service, disclaimers, and legal notices. Prepares jurisdiction-aware drafts for qualified review, cookie policies, and data processing agreements.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/legal-advisor/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/legal-advisor/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 3156,
+  "truncated": false
+}

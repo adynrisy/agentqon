@@ -1,0 +1,11 @@
+{
+  "name": "mentorship-program",
+  "display_name": "Mentorship Program",
+  "description": "Mentorship register: mentor and mentee pair, department, focus area, mentee goal, session counts, last and next session, overall rating, progress notes and status. Use for mentorship tracking.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/mentorship-program/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/mentorship-program/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 14162,
+  "truncated": false
+}

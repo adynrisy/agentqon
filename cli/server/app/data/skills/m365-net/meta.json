@@ -1,0 +1,11 @@
+{
+  "name": "m365-net",
+  "display_name": "M365 .NET",
+  "description": "Microsoft 365 Agents SDK for .NET. Build multichannel agents for Teams/M365/Copilot Studio with ASP.NET Core hosting, AgentApplication routing, and MSAL-based auth.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/m365-agents-dotnet/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/m365-agents-dotnet/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 10342,
+  "truncated": false
+}

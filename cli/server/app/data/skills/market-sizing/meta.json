@@ -1,0 +1,11 @@
+{
+  "name": "market-sizing",
+  "display_name": "Market Sizing",
+  "description": "Estimate market size using TAM, SAM, and SOM with top-down and bottom-up approaches. Use when sizing a market opportunity, estimating addressable market, preparing for investor pitches, or evaluating market entry.",
+  "repo": "phuryn/pm-skills",
+  "path": "pm-market-research/skills/market-sizing/SKILL.md",
+  "url": "https://github.com/phuryn/pm-skills/tree/HEAD/pm-market-research/skills/market-sizing/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 4166,
+  "truncated": false
+}

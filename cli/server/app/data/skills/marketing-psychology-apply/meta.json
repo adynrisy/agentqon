@@ -1,0 +1,11 @@
+{
+  "name": "marketing-psychology-apply",
+  "display_name": "Marketing Psychology · Apply",
+  "description": "Apply behavioral science and mental models to marketing decisions, prioritized using a psychological leverage and feasibility scoring system.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/marketing-psychology/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/marketing-psychology/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 6320,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "memory-safety-patterns-cross",
+  "display_name": "Memory Safety Patterns · Cross",
+  "description": "Cross-language patterns for memory-safe programming including RAII, ownership, smart pointers, and resource management.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/memory-safety-patterns/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/memory-safety-patterns/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 1186,
+  "truncated": false
+}

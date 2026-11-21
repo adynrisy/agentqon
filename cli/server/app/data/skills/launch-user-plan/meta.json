@@ -1,0 +1,11 @@
+{
+  "name": "launch-user-plan",
+  "display_name": "Launch User Plan",
+  "description": "When the user wants to plan a product launch, feature announcement, or release strategy. Also use when the user mentions 'launch,' 'Product Hunt,' 'feature release,' 'announcement,' 'go-to-market,' 'beta launch,' 'early access,' 'waitlist,' 'product update,' 'how do I launch this,' 'site launch,' 'go live,' 'pre-launch QA,' 'launch checklist,' 'GTM plan,' 'we're about to ship,' 'changelog,' 'release notes,' or 'what did we ship this week.' Use this whenever someone is preparing to release something publicly. For ongoing marketing after launch, see marketing-ideas. For the offer being launched (bonuses, guarantees, scarcity, naming), see offers.",
+  "repo": "coreyhaines31/marketingskills",
+  "path": "skills/launch/SKILL.md",
+  "url": "https://github.com/coreyhaines31/marketingskills/tree/HEAD/skills/launch/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 15010,
+  "truncated": false
+}

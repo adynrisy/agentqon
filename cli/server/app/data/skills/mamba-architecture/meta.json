@@ -1,0 +1,11 @@
+{
+  "name": "mamba-architecture",
+  "display_name": "Mamba Architecture",
+  "description": "State-space model with O(n) complexity vs Transformers' O(n²). 5× faster inference, million-token sequences, no KV cache. Selective SSM with hardware-aware design. Mamba-1 (d_state=16) and Mamba-2 (d_state=128, multi-head). Models 130M-2.8B on HuggingFace.",
+  "repo": "Orchestra-Research/AI-Research-SKILLs",
+  "path": "01-model-architecture/mamba/SKILL.md",
+  "url": "https://github.com/Orchestra-Research/AI-Research-SKILLs/tree/HEAD/01-model-architecture/mamba/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 6787,
+  "truncated": false
+}

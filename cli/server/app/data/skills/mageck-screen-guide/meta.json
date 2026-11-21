@@ -1,0 +1,11 @@
+{
+  "name": "mageck-screen-guide",
+  "display_name": "Mageck Screen Guide",
+  "description": "Analyzes pooled CRISPR screen FASTQ reads and guide-count matrices with MAGeCK, validates guide libraries and contrasts, measures replicate and library QC, and produces gene hit rankings with effect sizes and FDR. Use for new knockout, CRISPRi, or CRISPRa screen analysis, enrichment or depletion contrasts, and MAGeCK count/test workflows; existing public dependency-score lookup belongs to DepMap.",
+  "repo": "K-Dense-AI/scientific-agent-skills",
+  "path": "skills/mageck/SKILL.md",
+  "url": "https://github.com/K-Dense-AI/scientific-agent-skills/tree/HEAD/skills/mageck/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 7765,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "launch-task-output-research-deep",
+  "display_name": "Launch Task Output · Research Deep",
+  "description": "Read research outline, launch independent agent for each item for deep research. Disable task output.",
+  "repo": "Weizhena/Deep-Research-skills",
+  "path": "skills/research-codex-en/research-deep/SKILL.md",
+  "url": "https://github.com/Weizhena/Deep-Research-skills/tree/HEAD/skills/research-codex-en/research-deep/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 3174,
+  "truncated": false
+}

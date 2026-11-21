@@ -1,0 +1,11 @@
+{
+  "name": "memory-status",
+  "display_name": "Memory Status",
+  "description": "Memory health dashboard showing line counts, topic files, capacity, stale entries, and recommendations. Use when the user runs /si:memory-status or asks how full or healthy the agent memory is.",
+  "repo": "alirezarezvani/claude-skills",
+  "path": ".gemini/skills/memory-status/SKILL.md",
+  "url": "https://github.com/alirezarezvani/claude-skills/tree/HEAD/.gemini/skills/memory-status/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 2655,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "markdown-create-edit",
+  "display_name": "Markdown Create Edit",
+  "description": "Create and edit Obsidian Flavored Markdown with wikilinks, embeds, callouts, properties, and other Obsidian-specific syntax. Use when working with .md files in Obsidian, or when the user mentions wikilinks, callouts, frontmatter, tags, embeds, or Obsidian notes.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/obsidian-markdown/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/obsidian-markdown/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 5659,
+  "truncated": false
+}

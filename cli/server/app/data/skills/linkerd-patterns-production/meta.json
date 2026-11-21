@@ -1,0 +1,11 @@
+{
+  "name": "linkerd-patterns-production",
+  "display_name": "Linkerd Patterns · Production",
+  "description": "Production patterns for Linkerd service mesh - the lightweight, security-first service mesh for Kubernetes.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/linkerd-patterns/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/linkerd-patterns/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 8641,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "maintain-wiki",
+  "display_name": "Maintain Wiki",
+  "description": "Maintain a review-first engineering wiki with provenance, citation-aware queries, explicit capture and promotion, and deterministic checks.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/maintain-codex-wiki/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/maintain-codex-wiki/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 14379,
+  "truncated": false
+}

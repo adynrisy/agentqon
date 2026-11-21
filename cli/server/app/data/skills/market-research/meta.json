@@ -1,0 +1,11 @@
+{
+  "name": "market-research",
+  "display_name": "Market Research",
+  "description": "Use when doing upstream market-research methodology — sizing a market as TAM/SAM/SOM computed BOTH top-down and bottoms-up (never a single unsourced number), planning a survey sample size with finite-population correction and per-segment minimums, or scoring candidate market segments against Kotler's measurable/substantial/accessible/differentiable/actionable criteria. Outputs always show the method and the assumptions. For market-research analysts and product-marketing at the sizing/survey/segmentation moment. Distinct from marketing-skill (campaign analytics, attribution, demand-gen) — this is the evidence-building methodology, not live-campaign optimization.",
+  "repo": "alirezarezvani/claude-skills",
+  "path": ".gemini/skills/market-research/SKILL.md",
+  "url": "https://github.com/alirezarezvani/claude-skills/tree/HEAD/.gemini/skills/market-research/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 9293,
+  "truncated": false
+}

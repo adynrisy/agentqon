@@ -1,0 +1,11 @@
+{
+  "name": "langchain-framework-building",
+  "display_name": "Langchain Framework Building",
+  "description": "Framework for building LLM-powered applications with agents, chains, and RAG. Supports multiple providers (OpenAI, Anthropic, Google), 500+ integrations, ReAct agents, tool calling, memory management, and vector store retrieval. Use for building chatbots, question-answering systems, autonomous agents, or RAG applications. Best for rapid prototyping and production deployments.",
+  "repo": "Orchestra-Research/AI-Research-SKILLs",
+  "path": "14-agents/langchain/SKILL.md",
+  "url": "https://github.com/Orchestra-Research/AI-Research-SKILLs/tree/HEAD/14-agents/langchain/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 12160,
+  "truncated": false
+}

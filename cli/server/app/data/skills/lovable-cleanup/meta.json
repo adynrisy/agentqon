@@ -1,0 +1,11 @@
+{
+  "name": "lovable-cleanup",
+  "display_name": "Lovable Cleanup",
+  "description": "Audits and strips Lovable scaffolding from Vite + React projects — removes lovable-tagger, swaps placeholder assets, prunes unused Radix deps, cleans generated docs, and neutralizes stale favicon/CDN caching so the codebase ships as yours.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/lovable-cleanup/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/lovable-cleanup/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 14393,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "llamaindex-data-framework",
+  "display_name": "Llamaindex Data Framework",
+  "description": "Data framework for building LLM applications with RAG. Specializes in document ingestion (300+ connectors), indexing, and querying. Features vector indices, query engines, agents, and multi-modal support. Use for document Q&A, chatbots, knowledge retrieval, or building RAG pipelines. Best for data-centric LLM applications.",
+  "repo": "Orchestra-Research/AI-Research-SKILLs",
+  "path": "14-agents/llamaindex/SKILL.md",
+  "url": "https://github.com/Orchestra-Research/AI-Research-SKILLs/tree/HEAD/14-agents/llamaindex/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 14102,
+  "truncated": false
+}

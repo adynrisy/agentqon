@@ -1,0 +1,11 @@
+{
+  "name": "llmops-platform-engineering",
+  "display_name": "Llmops Platform Engineering",
+  "description": "Build production LLMOps platforms with CI/CD, model promotion workflows, evaluation gates, rollback, and governance across cloud and self-hosted inference.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/llmops-platform-engineering/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/llmops-platform-engineering/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 13097,
+  "truncated": false
+}

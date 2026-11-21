@@ -1,0 +1,11 @@
+{
+  "name": "mesh-memory",
+  "display_name": "Mesh Memory",
+  "description": "Self-hosted semantic memory for AI agents via MCP. Save worklogs, decisions, and notes, then recall them across sessions by meaning, not keyword. Postgres + pgvector with auto-tagging.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/mesh-memory/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/mesh-memory/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 7264,
+  "truncated": false
+}

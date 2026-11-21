@@ -1,0 +1,11 @@
+{
+  "name": "loss-aversion-designer",
+  "display_name": "Loss Aversion Designer",
+  "description": "Compare gain and loss framing and describe credible costs of inaction when an offer needs urgency without fearmongering.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/loss-aversion-designer/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/loss-aversion-designer/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 6610,
+  "truncated": false
+}

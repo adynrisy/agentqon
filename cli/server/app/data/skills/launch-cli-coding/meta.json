@@ -1,0 +1,11 @@
+{
+  "name": "launch-cli-coding",
+  "display_name": "Launch CLI Coding",
+  "description": "Launch Codex CLI as an isolated subagent for bounded coding, review, or verification tasks.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "skills/codex-subagent/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/skills/codex-subagent/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 4106,
+  "truncated": false
+}

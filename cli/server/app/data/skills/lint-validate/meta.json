@@ -1,0 +1,11 @@
+{
+  "name": "lint-validate",
+  "display_name": "Lint Validate",
+  "description": "Run configured lint and type checks, distinguish failures from checks that did not run, and report concrete validation results.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/lint-and-validate/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/lint-and-validate/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 3021,
+  "truncated": false
+}

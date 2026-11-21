@@ -1,0 +1,11 @@
+{
+  "name": "lightning-channel-factories",
+  "display_name": "Lightning Channel Factories",
+  "description": "Technical reference on Lightning Network channel factories, multi-party channels, LSP architectures, and Bitcoin Layer 2 scaling without soft forks. Covers Decker-Wattenhofer, timeout trees, MuSig2 key aggregation, HTLC/PTLC forwarding, and watchtower breach detection.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/lightning-channel-factories/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/lightning-channel-factories/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 3077,
+  "truncated": false
+}

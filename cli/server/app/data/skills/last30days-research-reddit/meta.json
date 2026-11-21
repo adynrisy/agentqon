@@ -1,0 +1,11 @@
+{
+  "name": "last30days-research-reddit",
+  "display_name": "Last30days Research Reddit",
+  "description": "Research a topic from the last 30 days on Reddit + X + Web, become an expert, and write copy-paste-ready prompts for the user's target tool.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/last30days/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/last30days/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 15008,
+  "truncated": false
+}

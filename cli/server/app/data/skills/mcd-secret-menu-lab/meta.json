@@ -1,0 +1,11 @@
+{
+  "name": "mcd-secret-menu-lab",
+  "display_name": "Mcd Secret Menu Lab",
+  "description": "Plan McDonald's China recipe combinations using an authorized MCP connection for current store menus, prices and nutrition. Use for recreating food hacks or exploring combinations within a budget.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/mcd-secret-menu-lab/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/mcd-secret-menu-lab/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 6372,
+  "truncated": false
+}

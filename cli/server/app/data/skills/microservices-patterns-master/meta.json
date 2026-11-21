@@ -1,0 +1,11 @@
+{
+  "name": "microservices-patterns-master",
+  "display_name": "Microservices Patterns · Master",
+  "description": "Master microservices architecture patterns including service boundaries, inter-service communication, data management, and resilience patterns for building distributed systems.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/microservices-patterns/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/microservices-patterns/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 1409,
+  "truncated": false
+}

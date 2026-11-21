@@ -1,0 +1,11 @@
+{
+  "name": "markstream-angular",
+  "display_name": "Markstream Angular",
+  "description": "Integrate the alpha markstream-angular renderer into Angular 20+ applications with standalone components, signals, safe HTML defaults, and optional peer features.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/markstream-angular/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/markstream-angular/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 2951,
+  "truncated": false
+}

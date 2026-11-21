@@ -1,0 +1,11 @@
+{
+  "name": "live-api-dev",
+  "display_name": "Live API Dev",
+  "description": "Use this skill when building real-time, bidirectional streaming applications with the Gemini Live API.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/gemini-live-api-dev/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/gemini-live-api-dev/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 14288,
+  "truncated": false
+}

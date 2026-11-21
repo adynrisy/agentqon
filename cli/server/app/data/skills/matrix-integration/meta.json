@@ -1,0 +1,11 @@
+{
+  "name": "matrix-integration",
+  "display_name": "Matrix Integration",
+  "description": "CRITICAL: Use for Matrix SDK integration with Makepad. Triggers on:\nMatrix SDK, sliding sync, MatrixRequest, timeline,\nmatrix-sdk, matrix client, robrix, matrix room,\nMatrix 集成, 聊天客户端",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/robius-matrix-integration/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/robius-matrix-integration/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 15076,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "makepad-reference",
+  "display_name": "Makepad Reference",
+  "description": "Guide to diagnosing Makepad build, widget, redraw and layout issues against the exact runtime revision.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/makepad-reference/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/makepad-reference/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 2473,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "logic-fix",
+  "display_name": "Logic Fix",
+  "description": "Autonomous repository-wide audit-and-fix pipeline: health → review → locate/explain → fix → diff-verify → iterate until clean. Starts with a mandatory consent prompt (token-intensive); after consent runs hands-free.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/logic-fix-all/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/logic-fix-all/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 4744,
+  "truncated": false
+}
