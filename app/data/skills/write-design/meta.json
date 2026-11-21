@@ -1,0 +1,11 @@
+{
+  "name": "write-design",
+  "display_name": "Write Design",
+  "description": "Write or update a project's DESIGN.md from the colors, type, spacing and components it really uses, with rules agents follow so new screens match.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/write-design-md/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/write-design-md/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 6067,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "uncle-bob-craft",
+  "display_name": "Uncle Bob Craft",
+  "description": "Use when performing code review, writing or refactoring code, or discussing architecture; complements clean-code and does not replace project linter/formatter.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/uncle-bob-craft/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/uncle-bob-craft/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 10033,
+  "truncated": false
+}

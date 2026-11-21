@@ -1,0 +1,11 @@
+{
+  "name": "upgrading-expo",
+  "display_name": "Upgrading Expo",
+  "description": "Guidelines for upgrading Expo SDK versions and fixing dependency issues",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/upgrading-expo/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/upgrading-expo/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 6186,
+  "truncated": false
+}

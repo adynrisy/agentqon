@@ -1,0 +1,11 @@
+{
+  "name": "writing-shape",
+  "display_name": "Writing Shape",
+  "description": "Writing, exploit: shape raw material into an article, paragraph by paragraph.",
+  "repo": "mattpocock/skills",
+  "path": "skills/in-progress/writing-shape/SKILL.md",
+  "url": "https://github.com/mattpocock/skills/tree/HEAD/skills/in-progress/writing-shape/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 5769,
+  "truncated": false
+}

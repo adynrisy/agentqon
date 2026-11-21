@@ -1,0 +1,11 @@
+{
+  "name": "web-browser-game",
+  "display_name": "Web Browser Game",
+  "description": "Web browser game development. Framework selection (Phaser, PixiJS, Kaplay, Canvas/WebGL, Three.js, Babylon.js), hybrid DOM+canvas, WebGPU, optimization, PWA, audio unlock. Use when building HTML5/WebGL/WebGPU games or choosing a browser runtime.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/game-development/web-games/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/game-development/web-games/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 4220,
+  "truncated": false
+}

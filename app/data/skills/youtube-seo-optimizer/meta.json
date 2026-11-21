@@ -1,0 +1,11 @@
+{
+  "name": "youtube-seo-optimizer",
+  "display_name": "Youtube SEO Optimizer",
+  "description": "Generate complete YouTube & podcast SEO packages with live-researched keywords — titles, descriptions, tags, hashtags, chapters, and audit fixes. Use for new or underperforming content.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/youtube-seo-optimizer/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/youtube-seo-optimizer/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 2056,
+  "truncated": false
+}

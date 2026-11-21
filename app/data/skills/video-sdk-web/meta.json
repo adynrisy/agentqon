@@ -1,0 +1,11 @@
+{
+  "name": "video-sdk-web",
+  "display_name": "Video SDK Web",
+  "description": "Zoom Video SDK for Web - JavaScript/TypeScript integration for browser-based video sessions, real-time communication, screen sharing, recording, and live transcription",
+  "repo": "anthropics/knowledge-work-plugins",
+  "path": "partner-built/zoom-plugin/skills/video-sdk/web/SKILL.md",
+  "url": "https://github.com/anthropics/knowledge-work-plugins/tree/HEAD/partner-built/zoom-plugin/skills/video-sdk/web/SKILL.md",
+  "license": "Apache-2.0",
+  "body_bytes": 26027,
+  "truncated": false
+}

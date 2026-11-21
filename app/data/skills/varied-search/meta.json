@@ -1,0 +1,11 @@
+{
+  "name": "varied-search",
+  "display_name": "Varied Search",
+  "description": "Research a topic across the web, GitHub, and X/Twitter with DeepAPI and produce a concise Markdown report. Use for varied-search or requests to compare web coverage, relevant repositories, and social discussion.",
+  "repo": "davidondrej/skills",
+  "path": "skills/research-and-web/varied-search/SKILL.md",
+  "url": "https://github.com/davidondrej/skills/tree/HEAD/skills/research-and-web/varied-search/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 217,
+  "truncated": false
+}

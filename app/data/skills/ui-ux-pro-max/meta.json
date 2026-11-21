@@ -1,0 +1,11 @@
+{
+  "name": "ui-ux-pro-max",
+  "display_name": "UI UX Pro Max",
+  "description": "Comprehensive design guide for web and mobile applications. Use when designing new UI components or pages, choosing color palettes and typography, or reviewing code for UX issues.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/ui-ux-pro-max/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/ui-ux-pro-max/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 12711,
+  "truncated": false
+}

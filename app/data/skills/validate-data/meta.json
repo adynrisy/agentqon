@@ -1,0 +1,11 @@
+{
+  "name": "validate-data",
+  "display_name": "Validate Data",
+  "description": "QA an analysis before sharing -- methodology, accuracy, and bias checks. Use when reviewing an analysis before a stakeholder presentation, spot-checking calculations and aggregation logic, verifying a SQL query's results look right, or assessing whether conclusions are actually supported by the data.",
+  "repo": "anthropics/knowledge-work-plugins",
+  "path": "data/skills/validate-data/SKILL.md",
+  "url": "https://github.com/anthropics/knowledge-work-plugins/tree/HEAD/data/skills/validate-data/SKILL.md",
+  "license": "Apache-2.0",
+  "body_bytes": 14534,
+  "truncated": false
+}

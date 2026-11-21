@@ -1,0 +1,11 @@
+{
+  "name": "upgrade-guidelines-sdk",
+  "display_name": "Upgrade Guidelines SDK",
+  "description": "Guidelines for upgrading Expo SDK versions and fixing dependency issues",
+  "repo": "expo/skills",
+  "path": "plugins/expo/skills/expo-upgrade/SKILL.md",
+  "url": "https://github.com/expo/skills/tree/HEAD/plugins/expo/skills/expo-upgrade/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 7568,
+  "truncated": false
+}

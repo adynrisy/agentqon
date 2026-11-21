@@ -1,0 +1,11 @@
+{
+  "name": "widget-patterns",
+  "display_name": "Widget Patterns",
+  "description": "CRITICAL: Use for Robius widget patterns. Triggers on:\napply_over, TextOrImage, modal, 可复用, 模态,\ncollapsible, drag drop, reusable widget, widget design,\npageflip, 组件设计, 组件模式",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/robius-widget-patterns/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/robius-widget-patterns/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 13205,
+  "truncated": false
+}

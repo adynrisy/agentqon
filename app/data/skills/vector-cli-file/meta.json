@@ -1,0 +1,11 @@
+{
+  "name": "vector-cli-file",
+  "display_name": "Vector CLI File",
+  "description": "Vector-powered CLI for semantic file search with a Claude/Codex skill",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/vexor/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/vexor/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 906,
+  "truncated": false
+}

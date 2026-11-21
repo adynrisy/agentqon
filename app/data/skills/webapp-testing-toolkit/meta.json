@@ -1,0 +1,11 @@
+{
+  "name": "webapp-testing-toolkit",
+  "display_name": "Webapp Testing · Toolkit",
+  "description": "Toolkit for interacting with and testing local web applications using Playwright. Supports verifying frontend functionality, debugging UI behavior, capturing browser screenshots, and viewing browser logs.",
+  "repo": "anthropics/skills",
+  "path": "skills/webapp-testing/SKILL.md",
+  "url": "https://github.com/anthropics/skills/tree/HEAD/skills/webapp-testing/SKILL.md",
+  "license": "unknown",
+  "body_bytes": 3626,
+  "truncated": false
+}

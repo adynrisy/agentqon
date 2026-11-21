@@ -1,0 +1,11 @@
+{
+  "name": "wiki-ledger-project",
+  "display_name": "Wiki Ledger Project",
+  "description": "Use YYLO Ledger wiki Records as durable project knowledge. Search before creating, classify information correctly, and make revision-safe Markdown updates without editing Ledger storage directly.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/wiki-yylo/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/wiki-yylo/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 4186,
+  "truncated": false
+}

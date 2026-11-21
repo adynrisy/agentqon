@@ -1,0 +1,11 @@
+{
+  "name": "view-pdf",
+  "display_name": "View PDF",
+  "description": "Interactive PDF viewer. Use when the user wants to open, show, or view a PDF and collaborate on it visually — annotate, highlight, stamp, fill form fields, place signature/initials, or review markup together. Not for summarization or text extraction (use native Read instead).",
+  "repo": "anthropics/knowledge-work-plugins",
+  "path": "pdf-viewer/skills/view-pdf/SKILL.md",
+  "url": "https://github.com/anthropics/knowledge-work-plugins/tree/HEAD/pdf-viewer/skills/view-pdf/SKILL.md",
+  "license": "Apache-2.0",
+  "body_bytes": 5925,
+  "truncated": false
+}

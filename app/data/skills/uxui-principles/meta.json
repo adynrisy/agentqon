@@ -1,0 +1,11 @@
+{
+  "name": "uxui-principles",
+  "display_name": "Uxui Principles",
+  "description": "Evaluate interfaces against 168 research-backed UX/UI principles, detect antipatterns, and inject UX context into AI coding sessions.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/uxui-principles/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/uxui-principles/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 1806,
+  "truncated": false
+}

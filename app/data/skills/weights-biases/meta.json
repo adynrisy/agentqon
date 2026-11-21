@@ -1,0 +1,11 @@
+{
+  "name": "weights-biases",
+  "display_name": "Weights Biases",
+  "description": "Track ML experiments with automatic logging, visualize training in real-time, optimize hyperparameters with sweeps, and manage model registry with W&B - collaborative MLOps platform",
+  "repo": "Orchestra-Research/AI-Research-SKILLs",
+  "path": "13-mlops/weights-and-biases/SKILL.md",
+  "url": "https://github.com/Orchestra-Research/AI-Research-SKILLs/tree/HEAD/13-mlops/weights-and-biases/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 11973,
+  "truncated": false
+}

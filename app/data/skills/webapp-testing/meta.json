@@ -1,0 +1,11 @@
+{
+  "name": "webapp-testing",
+  "display_name": "Webapp Testing",
+  "description": "To test local web applications, write native Python Playwright scripts.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/webapp-testing/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/webapp-testing/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 4049,
+  "truncated": false
+}

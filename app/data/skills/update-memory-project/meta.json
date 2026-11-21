@@ -1,0 +1,11 @@
+{
+  "name": "update-memory-project",
+  "display_name": "Update Memory Project",
+  "description": "Sync tasks and refresh memory from your current activity. Use when pulling new assignments from your project tracker into TASKS.md, triaging stale or overdue tasks, filling memory gaps for unknown people or projects, or running a comprehensive scan to catch todos buried in chat and email.",
+  "repo": "anthropics/knowledge-work-plugins",
+  "path": "productivity/skills/update/SKILL.md",
+  "url": "https://github.com/anthropics/knowledge-work-plugins/tree/HEAD/productivity/skills/update/SKILL.md",
+  "license": "Apache-2.0",
+  "body_bytes": 4701,
+  "truncated": false
+}

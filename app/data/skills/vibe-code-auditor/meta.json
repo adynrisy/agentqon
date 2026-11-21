@@ -1,0 +1,11 @@
+{
+  "name": "vibe-code-auditor",
+  "display_name": "Vibe Code Auditor",
+  "description": "Audit rapidly generated or AI-produced code for structural flaws, fragility, and production risks.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/vibe-code-auditor/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/vibe-code-auditor/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 15643,
+  "truncated": false
+}

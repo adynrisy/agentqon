@@ -1,0 +1,11 @@
+{
+  "name": "understand-project",
+  "display_name": "Understand Project",
+  "description": "Inspect the current product architecture, dependencies, and validation loops before planning or implementing a requested change.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/understand-project-yylo/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/understand-project-yylo/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 2630,
+  "truncated": false
+}

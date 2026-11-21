@@ -1,0 +1,11 @@
+{
+  "name": "unship-ai-ui",
+  "display_name": "Unship AI UI",
+  "description": "Compare AI agent-made UI variants locally in a real app, then keep one and clean up unused temporary code.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "skills/unship/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/skills/unship/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 5307,
+  "truncated": false
+}

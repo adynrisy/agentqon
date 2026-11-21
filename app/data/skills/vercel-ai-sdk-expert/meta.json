@@ -1,0 +1,11 @@
+{
+  "name": "vercel-ai-sdk-expert",
+  "display_name": "Vercel AI SDK Expert",
+  "description": "Expert in the Vercel AI SDK. Covers Core API (generateText, streamText), UI hooks (useChat, useCompletion), tool calling, and streaming UI components with React and Next.js.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/vercel-ai-sdk-expert/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/vercel-ai-sdk-expert/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 8487,
+  "truncated": false
+}

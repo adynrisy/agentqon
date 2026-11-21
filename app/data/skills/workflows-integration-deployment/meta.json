@@ -1,0 +1,11 @@
+{
+  "name": "workflows-integration-deployment",
+  "display_name": "Workflows Integration Deployment",
+  "description": "Configure CircleCI workflows and orbs for continuous integration and deployment.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/circleci/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/circleci/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 8592,
+  "truncated": false
+}

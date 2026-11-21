@@ -1,0 +1,11 @@
+{
+  "name": "wizard-done-generator",
+  "display_name": "Wizard Done Generator",
+  "description": "Done-for-you .faf generator. One-click AI context for any project - new, legacy, or famous. Auto-detects stack, scores readiness, works everywhere.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/faf-wizard/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/faf-wizard/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 6961,
+  "truncated": false
+}

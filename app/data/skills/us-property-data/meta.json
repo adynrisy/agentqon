@@ -1,0 +1,11 @@
+{
+  "name": "us-property-data",
+  "display_name": "Us Property Data",
+  "description": "Use when a task needs real U.S. residential property data: valuation, listings, price or tax history, schools, or a zillow.com URL.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/us-property-data/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/us-property-data/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 6253,
+  "truncated": false
+}

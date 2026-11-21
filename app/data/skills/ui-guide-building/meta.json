@@ -1,0 +1,11 @@
+{
+  "name": "ui-guide-building",
+  "display_name": "UI Guide Building",
+  "description": "Opinionated, evolving constraints to guide agents when building interfaces",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/ui-skills/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/ui-skills/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 963,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "xlsx-user-existing",
+  "display_name": "Xlsx User Existing",
+  "description": "Unless otherwise stated by the user or existing template",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/xlsx-official/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/xlsx-official/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 10521,
+  "truncated": false
+}

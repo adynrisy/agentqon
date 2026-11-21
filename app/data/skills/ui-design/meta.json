@@ -1,0 +1,11 @@
+{
+  "name": "ui-design",
+  "display_name": "UI Design",
+  "description": "Expert guidance for crafting effective prompts in Google Stitch, the AI-powered UI design tool by Google Labs. This skill helps create precise, actionable prompts that generate high-quality UI designs for web and mobile applications.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/stitch-ui-design/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/stitch-ui-design/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 10883,
+  "truncated": false
+}

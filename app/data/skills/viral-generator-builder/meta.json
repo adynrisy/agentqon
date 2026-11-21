@@ -1,0 +1,11 @@
+{
+  "name": "viral-generator-builder",
+  "display_name": "Viral Generator Builder",
+  "description": "Expert in building shareable generator tools that go viral - name generators, quiz makers, avatar creators, personality tests, and calculator tools. Covers the psychology of sharing, viral mechanics, and building tools people can't resist sharing with friends.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/viral-generator-builder/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/viral-generator-builder/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 7567,
+  "truncated": false
+}

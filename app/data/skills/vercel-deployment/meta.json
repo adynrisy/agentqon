@@ -1,0 +1,11 @@
+{
+  "name": "vercel-deployment",
+  "display_name": "Vercel Deployment",
+  "description": "Expert knowledge for deploying to Vercel with Next.js",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/vercel-deployment/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/vercel-deployment/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 1122,
+  "truncated": false
+}

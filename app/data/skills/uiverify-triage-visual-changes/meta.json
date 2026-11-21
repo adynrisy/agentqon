@@ -1,0 +1,11 @@
+{
+  "name": "uiverify-triage-visual-changes",
+  "display_name": "Uiverify Triage Visual Changes",
+  "description": "Triage a UI Verify visual regression build from your coding agent over MCP: sort changed screenshots into regressions, intended changes and noise, then accept baselines.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/uiverify-triage-visual-changes/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/uiverify-triage-visual-changes/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 21520,
+  "truncated": false
+}

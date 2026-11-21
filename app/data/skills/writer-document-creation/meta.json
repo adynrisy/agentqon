@@ -1,0 +1,11 @@
+{
+  "name": "writer-document-creation",
+  "display_name": "Writer Document Creation",
+  "description": "Document creation, format conversion (ODT/DOCX/PDF), mail merge, and automation with LibreOffice Writer.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/libreoffice/writer/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/libreoffice/writer/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 5129,
+  "truncated": false
+}

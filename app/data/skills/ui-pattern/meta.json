@@ -1,0 +1,11 @@
+{
+  "name": "ui-pattern",
+  "display_name": "UI Pattern",
+  "description": "Generate a composed UI pattern (card layout, list, form section, grid, etc.) using design system primitives",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/ui-pattern/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/ui-pattern/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 2503,
+  "truncated": false
+}

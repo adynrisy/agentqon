@@ -1,0 +1,11 @@
+{
+  "name": "wcag-audit-patterns-comprehensive",
+  "display_name": "Wcag Audit Patterns · Comprehensive",
+  "description": "Comprehensive guide to auditing web content against WCAG 2.2 guidelines with actionable remediation strategies.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/wcag-audit-patterns/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/wcag-audit-patterns/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 1544,
+  "truncated": false
+}

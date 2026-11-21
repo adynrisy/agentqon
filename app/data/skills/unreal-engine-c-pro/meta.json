@@ -1,0 +1,11 @@
+{
+  "name": "unreal-engine-c-pro",
+  "display_name": "Unreal Engine C++ Pro",
+  "description": "Expert guide for Unreal Engine 5.x C++ development, covering UObject hygiene, performance patterns, and best practices.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/unreal-engine-cpp-pro/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/unreal-engine-cpp-pro/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 4630,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "wordpress-theme-development",
+  "display_name": "Wordpress Theme Development",
+  "description": "WordPress theme development workflow covering theme architecture, template hierarchy, custom post types, block editor support, responsive design, and WordPress 7.0 features: DataViews, Pattern Editing, Navigation Overlays, and admin refresh.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/wordpress-theme-development/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/wordpress-theme-development/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 953,
+  "truncated": false
+}

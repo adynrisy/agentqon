@@ -1,0 +1,11 @@
+{
+  "name": "web-component-design",
+  "display_name": "Web Component Design",
+  "description": "Master React, Vue, and Svelte component patterns including CSS-in-JS, composition strategies, and reusable component architecture. Use when building UI component libraries, designing component APIs, or implementing frontend design systems.",
+  "repo": "wshobson/agents",
+  "path": "plugins/ui-design/skills/web-component-design/SKILL.md",
+  "url": "https://github.com/wshobson/agents/tree/HEAD/plugins/ui-design/skills/web-component-design/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 7186,
+  "truncated": false
+}

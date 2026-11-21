@@ -1,0 +1,11 @@
+{
+  "name": "youtube-transcript-fetch",
+  "display_name": "Youtube Transcript · Fetch",
+  "description": "Fetch YouTube transcripts through DeepAPI or local fallback tooling and save clean text output.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/youtube-transcript/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/youtube-transcript/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 4733,
+  "truncated": false
+}

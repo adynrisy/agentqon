@@ -1,0 +1,11 @@
+{
+  "name": "who-is-this",
+  "display_name": "Who Is This",
+  "description": "Research a person's public track record and give a short credibility assessment. Use only when the user explicitly invokes /who-is-this.",
+  "repo": "davidondrej/skills",
+  "path": "skills/research-and-web/who-is-this/SKILL.md",
+  "url": "https://github.com/davidondrej/skills/tree/HEAD/skills/research-and-web/who-is-this/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 2859,
+  "truncated": false
+}

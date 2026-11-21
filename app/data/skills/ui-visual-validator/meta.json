@@ -1,0 +1,11 @@
+{
+  "name": "ui-visual-validator",
+  "display_name": "UI Visual Validator",
+  "description": "Rigorous visual validation expert specializing in UI testing, design system compliance, and accessibility verification.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/ui-visual-validator/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/ui-visual-validator/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 9817,
+  "truncated": false
+}

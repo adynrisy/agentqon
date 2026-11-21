@@ -1,0 +1,11 @@
+{
+  "name": "wiki-init",
+  "display_name": "Wiki Init",
+  "description": "Bootstrap a fresh LLM Wiki vault with the three-layer structure, schema files, and starter templates. Usage /wiki-init <path> --topic \"<topic>\" [--tool all|claude-code|codex|cursor|antigravity]",
+  "repo": "alirezarezvani/claude-skills",
+  "path": ".gemini/skills/wiki-init/SKILL.md",
+  "url": "https://github.com/alirezarezvani/claude-skills/tree/HEAD/.gemini/skills/wiki-init/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 1683,
+  "truncated": false
+}

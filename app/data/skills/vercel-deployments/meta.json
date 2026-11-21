@@ -1,0 +1,11 @@
+{
+  "name": "vercel-deployments",
+  "display_name": "Vercel Deployments",
+  "description": "Deploy frontend and full-stack apps on Vercel with previews, edge functions, environment promotion, and production guardrails.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/vercel-deployments/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/vercel-deployments/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 7024,
+  "truncated": false
+}

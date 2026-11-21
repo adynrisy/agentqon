@@ -1,0 +1,11 @@
+{
+  "name": "web-fuzzing-ffuf-web-fuzzing",
+  "display_name": "Web Fuzzing · Ffuf Web Fuzzing",
+  "description": "Expert guidance for ffuf web fuzzing during penetration testing, including authenticated fuzzing with raw requests, auto-calibration, and result analysis",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/ffuf-web-fuzzing/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/ffuf-web-fuzzing/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 1879,
+  "truncated": false
+}

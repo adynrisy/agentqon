@@ -1,0 +1,11 @@
+{
+  "name": "voice-ai-development",
+  "display_name": "Voice AI Development",
+  "description": "Expert in building voice AI applications - from real-time voice agents to voice-enabled apps. Covers OpenAI Realtime API, Vapi for voice agents, Deepgram for transcription, ElevenLabs for synthesis, LiveKit for real-time infrastructure, and WebRTC fundamentals.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/voice-ai-development/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/voice-ai-development/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 2102,
+  "truncated": false
+}

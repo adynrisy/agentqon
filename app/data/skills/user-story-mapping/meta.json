@@ -1,0 +1,11 @@
+{
+  "name": "user-story-mapping",
+  "display_name": "User Story Mapping",
+  "description": "Create a user story map that lays out activities, steps, tasks, and release slices. Use when planning a workflow, backlog, or MVP around the user journey.",
+  "repo": "deanpeters/Product-Manager-Skills",
+  "path": "skills/user-story-mapping/SKILL.md",
+  "url": "https://github.com/deanpeters/Product-Manager-Skills/tree/HEAD/skills/user-story-mapping/SKILL.md",
+  "license": "CC",
+  "body_bytes": 10466,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "youtube-full",
+  "display_name": "Youtube Full",
+  "description": "Fetch YouTube transcripts, search videos, browse channels, and extract playlists via TranscriptAPI — no yt-dlp, no Google API key, works from any cloud server.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/youtube-full/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/youtube-full/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 5876,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "workflow-create-ledger",
+  "display_name": "Workflow Create Ledger",
+  "description": "Create and maintain validated YYLO Ledger workflow Records while keeping storage, execution, and run evidence as separate explicit boundaries.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/workflow-yylo/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/workflow-yylo/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 3636,
+  "truncated": false
+}

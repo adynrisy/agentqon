@@ -1,0 +1,11 @@
+{
+  "name": "web3-rate-limiting-circuit-breaker",
+  "display_name": "Web3 Rate Limiting Circuit Breaker",
+  "description": "On-chain and relayer rate-limiting circuit breaker register: throughput thresholds, emergency pause triggers, and multi-sig recovery.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/web3-rate-limiting-circuit-breaker/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/web3-rate-limiting-circuit-breaker/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 5002,
+  "truncated": false
+}

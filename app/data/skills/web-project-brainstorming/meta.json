@@ -1,0 +1,11 @@
+{
+  "name": "web-project-brainstorming",
+  "display_name": "Web Project Brainstorming",
+  "description": "Masterclass framework for brainstorming web development projects and page designs. Outlines structural phases for concept, UX flow, styling aesthetics, technical architecture, and SEO.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/web-project-brainstorming/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/web-project-brainstorming/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 6473,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "ui-states",
+  "display_name": "UI States",
+  "description": "Design and build the UI states agents forget: first use, empty, loading, error, offline, no results, long content, permission denied and success.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/ui-states/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/ui-states/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 5982,
+  "truncated": false
+}

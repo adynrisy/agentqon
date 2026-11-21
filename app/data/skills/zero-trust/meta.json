@@ -1,0 +1,11 @@
+{
+  "name": "zero-trust",
+  "display_name": "Zero Trust",
+  "description": "Protect internal apps with Cloudflare Access, device posture, and Zero Trust policies.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/cloudflare-zero-trust/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/cloudflare-zero-trust/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 10568,
+  "truncated": false
+}

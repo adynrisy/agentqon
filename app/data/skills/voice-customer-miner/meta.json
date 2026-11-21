@@ -1,0 +1,11 @@
+{
+  "name": "voice-customer-miner",
+  "display_name": "Voice Customer Miner",
+  "description": "Mine public reviews, app stores, and forums for unmet needs, competitor weaknesses, and switching triggers — with quoted evidence. Use when you want customer voice without waiting on interviews.",
+  "repo": "deanpeters/Product-Manager-Skills",
+  "path": "skills/voice-of-customer-miner/SKILL.md",
+  "url": "https://github.com/deanpeters/Product-Manager-Skills/tree/HEAD/skills/voice-of-customer-miner/SKILL.md",
+  "license": "CC",
+  "body_bytes": 8708,
+  "truncated": false
+}

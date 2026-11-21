@@ -1,0 +1,11 @@
+{
+  "name": "visual-pr",
+  "display_name": "Visual PR",
+  "description": "Only use when the user explicitly invokes this skill by name.",
+  "repo": "humanlayer/skills",
+  "path": "plugins/visual-pr/skills/visual-pr/SKILL.md",
+  "url": "https://github.com/humanlayer/skills/tree/HEAD/plugins/visual-pr/skills/visual-pr/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 3277,
+  "truncated": false
+}

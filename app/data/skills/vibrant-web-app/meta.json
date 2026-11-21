@@ -1,0 +1,11 @@
+{
+  "name": "vibrant-web-app",
+  "display_name": "Vibrant Web App",
+  "description": "Web and App implementation guide for Vibrant Maximalism. Trigger when user wants rich colors, dense layouts, extreme sensory input, and \"more is more\".",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/design-it/vibrant-maximalism/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/design-it/vibrant-maximalism/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 11097,
+  "truncated": false
+}

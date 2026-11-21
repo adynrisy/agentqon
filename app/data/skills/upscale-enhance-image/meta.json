@@ -1,0 +1,11 @@
+{
+  "name": "upscale-enhance-image",
+  "display_name": "Upscale Enhance Image",
+  "description": "Upscale and enhance image and video resolution using AI",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/fal-upscale/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/fal-upscale/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 1473,
+  "truncated": false
+}

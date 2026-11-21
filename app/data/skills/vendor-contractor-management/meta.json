@@ -1,0 +1,11 @@
+{
+  "name": "vendor-contractor-management",
+  "display_name": "Vendor Contractor Management",
+  "description": "Vendor register: name, type, services, contact, linked contract dates, payment terms and rating. Use for vendor and contractor management.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/vendor-contractor-management/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/vendor-contractor-management/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 13701,
+  "truncated": false
+}

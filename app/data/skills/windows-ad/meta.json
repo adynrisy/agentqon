@@ -1,0 +1,11 @@
+{
+  "name": "windows-ad",
+  "display_name": "Windows Ad",
+  "description": "Authorized Active Directory and Windows identity attacks: Kerberos abuse, AD CS escalation, BloodHound path analysis, NTLM relay, and domain privilege-escalation research.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/windows-ad/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/windows-ad/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 3234,
+  "truncated": false
+}

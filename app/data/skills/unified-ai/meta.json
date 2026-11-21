@@ -1,0 +1,11 @@
+{
+  "name": "unified-ai",
+  "display_name": "Unified AI",
+  "description": "Operate and evaluate Unified AI System through fifteen governed MCP tools, including provider-free prompt enhancement, while preserving fake-provider, authorization, and evidence boundaries.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/unified-ai-gateway/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/unified-ai-gateway/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 14553,
+  "truncated": false
+}

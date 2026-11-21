@@ -1,0 +1,11 @@
+{
+  "name": "vaex-file-conversion",
+  "display_name": "Vaex File Conversion",
+  "description": "Processes large tabular scientific datasets with Vaex expressions, filtered views, streamed statistics, binned visualizations, and file conversion. Use for larger-than-RAM HDF5, Arrow, CSV, or Parquet analysis, virtual feature engineering, or Vaex ML preprocessing; distinguishes these operations from estimators and conversions that materialize data.",
+  "repo": "K-Dense-AI/scientific-agent-skills",
+  "path": "skills/vaex/SKILL.md",
+  "url": "https://github.com/K-Dense-AI/scientific-agent-skills/tree/HEAD/skills/vaex/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 6938,
+  "truncated": false
+}

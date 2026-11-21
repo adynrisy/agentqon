@@ -1,0 +1,11 @@
+{
+  "name": "write-spec",
+  "display_name": "Write Spec",
+  "description": "Write a feature spec or PRD from a problem statement or feature idea. Use when turning a vague idea or user request into a structured document, scoping a feature with goals and non-goals, defining success metrics and acceptance criteria, or breaking a big ask into a phased spec.",
+  "repo": "anthropics/knowledge-work-plugins",
+  "path": "product-management/skills/write-spec/SKILL.md",
+  "url": "https://github.com/anthropics/knowledge-work-plugins/tree/HEAD/product-management/skills/write-spec/SKILL.md",
+  "license": "Apache-2.0",
+  "body_bytes": 11959,
+  "truncated": false
+}

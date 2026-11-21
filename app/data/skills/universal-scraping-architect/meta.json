@@ -1,0 +1,11 @@
+{
+  "name": "universal-scraping-architect",
+  "display_name": "Universal Scraping Architect",
+  "description": "Use for web scraping, crawling, document extraction, API parsing, or building validation-heavy data pipelines using Firecrawl or local Python scripts.",
+  "repo": "alirezarezvani/claude-skills",
+  "path": ".gemini/skills/universal-scraping-architect/SKILL.md",
+  "url": "https://github.com/alirezarezvani/claude-skills/tree/HEAD/.gemini/skills/universal-scraping-architect/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 4386,
+  "truncated": false
+}

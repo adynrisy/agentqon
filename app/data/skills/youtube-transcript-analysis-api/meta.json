@@ -1,0 +1,11 @@
+{
+  "name": "youtube-transcript-analysis-api",
+  "display_name": "Youtube Transcript Analysis API",
+  "description": "This skill helps users extract YouTube video transcripts and perform deep competitive analysis on the content. Agent should proactively apply this skill when users express needs like analyze YouTube video content strategy, perform competitive video content analysis, extract and analyze YouTube subtitles for marketing insights, understand competitor value propositions from their videos, identify target audience from YouTube video content, analyze pain points and needs mentioned in YouTube videos, evaluate competitor CTA strategies in video content, find content gaps in competitor YouTube videos, analyze video narrative structure and hooks, extract key messaging and positioning from YouTube content, benchmark competitor video content quality, research competitor marketing angles through video analysis, identify audience signals and terminology level in videos, analyze emotional tone and persuasion techniques in YouTube content.",
+  "repo": "browser-act/skills",
+  "path": "solutions/video-platforms/youtube-transcript-analysis-api-skill/SKILL.md",
+  "url": "https://github.com/browser-act/skills/tree/HEAD/solutions/video-platforms/youtube-transcript-analysis-api-skill/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 13325,
+  "truncated": false
+}

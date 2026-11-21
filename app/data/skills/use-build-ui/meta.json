@@ -1,0 +1,11 @@
+{
+  "name": "use-build-ui",
+  "display_name": "Use Build UI",
+  "description": "Build and maintain Rayden UI components and screens in Figma via Figma MCP with full design token enforcement",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/rayden-use/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/rayden-use/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 5295,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "validate-idea",
+  "display_name": "Validate Idea",
+  "description": "Validate a business idea using the minimalist entrepreneur framework. Use when someone has a business idea and wants to test if it's worth pursuing before building anything.",
+  "repo": "slavingia/skills",
+  "path": "skills/validate-idea/SKILL.md",
+  "url": "https://github.com/slavingia/skills/tree/HEAD/skills/validate-idea/SKILL.md",
+  "license": "unknown",
+  "body_bytes": 2926,
+  "truncated": false
+}

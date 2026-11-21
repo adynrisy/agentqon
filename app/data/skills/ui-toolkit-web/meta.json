@@ -1,0 +1,11 @@
+{
+  "name": "ui-toolkit-web",
+  "display_name": "UI Toolkit Web",
+  "description": "Reference skill for Zoom Video SDK UI Toolkit. Use after routing to a web video workflow when you want prebuilt React UI instead of building a fully custom Video SDK interface.",
+  "repo": "anthropics/knowledge-work-plugins",
+  "path": "partner-built/zoom-plugin/skills/ui-toolkit/SKILL.md",
+  "url": "https://github.com/anthropics/knowledge-work-plugins/tree/HEAD/partner-built/zoom-plugin/skills/ui-toolkit/SKILL.md",
+  "license": "Apache-2.0",
+  "body_bytes": 17344,
+  "truncated": false
+}

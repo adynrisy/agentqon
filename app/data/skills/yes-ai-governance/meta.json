@@ -1,0 +1,11 @@
+{
+  "name": "yes-ai-governance",
+  "display_name": "Yes AI Governance",
+  "description": "6-layer AI governance: safety gates, evidence-based debugging, anti-slack detection, and machine-enforced hooks. Makes AI safe, thorough, and honest.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/yes-md/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/yes-md/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 10920,
+  "truncated": false
+}

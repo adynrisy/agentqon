@@ -1,0 +1,11 @@
+{
+  "name": "update-opportunity",
+  "display_name": "Update Opportunity",
+  "description": "Guided updates to an opportunity - push the stage, move the close date, set next steps, fix amount or forecast category. Shows the before/after, writes what you ask for or accept, and verifies with a record link. Use when the user says \"push [deal] to [stage]\", \"move the close date on [opp]\", \"update next steps on [account]\", \"mark [deal] commit\", or accepts a suggested update from another skill.",
+  "repo": "anthropics/knowledge-work-plugins",
+  "path": "sales/skills/update-opportunity/SKILL.md",
+  "url": "https://github.com/anthropics/knowledge-work-plugins/tree/HEAD/sales/skills/update-opportunity/SKILL.md",
+  "license": "Apache-2.0",
+  "body_bytes": 7483,
+  "truncated": false
+}

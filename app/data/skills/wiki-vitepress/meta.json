@@ -1,0 +1,11 @@
+{
+  "name": "wiki-vitepress",
+  "display_name": "Wiki Vitepress",
+  "description": "Transform generated wiki Markdown files into a polished VitePress static site with dark theme and interactive Mermaid diagrams. Use when user asks to \"build a site\" or \"package as VitePress\", user runs the /deep-wiki, or user wants a browsable HTML output from generated wiki pages.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/wiki-vitepress/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/wiki-vitepress/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 4609,
+  "truncated": false
+}

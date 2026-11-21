@@ -1,0 +1,11 @@
+{
+  "name": "webflow-automation",
+  "display_name": "Webflow Automation",
+  "description": "Automate Webflow CMS collections, site publishing, page management, asset uploads, and ecommerce orders via Rube MCP (Composio). Always search tools first for current schemas.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/webflow-automation/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/webflow-automation/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 11511,
+  "truncated": false
+}

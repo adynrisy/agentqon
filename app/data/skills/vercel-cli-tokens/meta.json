@@ -1,0 +1,11 @@
+{
+  "name": "vercel-cli-tokens",
+  "display_name": "Vercel CLI Tokens",
+  "description": "Deploy and manage projects on Vercel using token-based authentication. Use when working with Vercel CLI using access tokens rather than interactive login — e.g. \"deploy to vercel\", \"set up vercel\", \"add environment variables to vercel\".",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/vercel-cli-with-tokens/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/vercel-cli-with-tokens/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 11174,
+  "truncated": false
+}

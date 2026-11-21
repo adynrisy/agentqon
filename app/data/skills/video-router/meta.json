@@ -1,0 +1,11 @@
+{
+  "name": "video-router",
+  "display_name": "Video Router",
+  "description": "Route a video-production brief to generation, deterministic composition, supplied-footage editing, or an automatic cross-modal plan before production begins.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/video-router/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/video-router/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 6497,
+  "truncated": false
+}

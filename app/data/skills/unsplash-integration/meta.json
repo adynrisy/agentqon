@@ -1,0 +1,11 @@
+{
+  "name": "unsplash-integration",
+  "display_name": "Unsplash Integration",
+  "description": "Integration skill for searching and fetching high-quality, free-to-use professional photography from Unsplash.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/unsplash-integration/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/unsplash-integration/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 2299,
+  "truncated": false
+}

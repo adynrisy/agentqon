@@ -1,0 +1,11 @@
+{
+  "name": "xvary-stock-research",
+  "display_name": "Xvary Stock Research",
+  "description": "Thesis-driven equity analysis from public SEC EDGAR and market data; /analyze, /score, /compare workflows with bundled Python tools (Claude Code, Cursor, Codex).",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/xvary-stock-research/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/xvary-stock-research/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 3540,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "websocket-engineer",
+  "display_name": "Websocket Engineer",
+  "description": "Use when building real-time communication systems with WebSockets or Socket.IO. Invoke for bidirectional messaging, horizontal scaling with Redis, presence tracking, room management.",
+  "repo": "Jeffallan/claude-skills",
+  "path": "skills/websocket-engineer/SKILL.md",
+  "url": "https://github.com/Jeffallan/claude-skills/tree/HEAD/skills/websocket-engineer/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 5888,
+  "truncated": false
+}

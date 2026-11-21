@@ -1,0 +1,11 @@
+{
+  "name": "vector-tuning-optimize",
+  "display_name": "Vector Tuning · Optimize",
+  "description": "Optimize vector index performance for latency, recall, and memory. Use when tuning HNSW parameters, selecting quantization strategies, or scaling vector search infrastructure.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/vector-index-tuning/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/vector-index-tuning/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 1556,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "youtube-summarizer",
+  "display_name": "Youtube Summarizer",
+  "description": "Extract transcripts from YouTube videos and generate comprehensive, detailed summaries using intelligent analysis frameworks",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/youtube-summarizer/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/youtube-summarizer/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 12956,
+  "truncated": false
+}

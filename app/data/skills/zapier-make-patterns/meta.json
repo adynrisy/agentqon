@@ -1,0 +1,11 @@
+{
+  "name": "zapier-make-patterns",
+  "display_name": "Zapier Make Patterns",
+  "description": "No-code automation democratizes workflow building. Zapier and Make (formerly Integromat) let non-developers automate business processes without writing code. But no-code doesn't mean no-complexity - these platforms have their own patterns, pitfalls, and breaking points.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/zapier-make-patterns/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/zapier-make-patterns/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 2713,
+  "truncated": false
+}

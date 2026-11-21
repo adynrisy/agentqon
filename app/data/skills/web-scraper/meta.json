@@ -1,0 +1,11 @@
+{
+  "name": "web-scraper",
+  "display_name": "Web Scraper",
+  "description": "Web scraping inteligente multi-estrategia. Extrai dados estruturados de paginas web (tabelas, listas, precos). Paginacao, monitoramento e export CSV/JSON.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/web-scraper/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/web-scraper/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 2477,
+  "truncated": false
+}

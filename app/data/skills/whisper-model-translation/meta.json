@@ -1,0 +1,11 @@
+{
+  "name": "whisper-model-translation",
+  "display_name": "Whisper Model Translation",
+  "description": "OpenAI's general-purpose speech recognition model. Supports 99 languages, transcription, translation to English, and language identification. Six model sizes from tiny (39M params) to large (1550M params). Use for speech-to-text, podcast transcription, or multilingual audio processing. Best for robust, multilingual ASR.",
+  "repo": "Orchestra-Research/AI-Research-SKILLs",
+  "path": "18-multimodal/whisper/SKILL.md",
+  "url": "https://github.com/Orchestra-Research/AI-Research-SKILLs/tree/HEAD/18-multimodal/whisper/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 6864,
+  "truncated": false
+}

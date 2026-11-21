@@ -1,0 +1,11 @@
+{
+  "name": "update-swiftui-apis",
+  "display_name": "Update Swiftui APIs",
+  "description": "Scan Apple's SwiftUI documentation for deprecated APIs and update the SwiftUI Expert Skill with modern replacements.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/update-swiftui-apis/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/update-swiftui-apis/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 4920,
+  "truncated": false
+}

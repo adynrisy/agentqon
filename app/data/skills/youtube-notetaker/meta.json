@@ -1,0 +1,11 @@
+{
+  "name": "youtube-notetaker",
+  "display_name": "Youtube Notetaker",
+  "description": "Turn YouTube talks into local study notes with slides, transcripts, editable annotations, and a markdown-backed viewer.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/youtube-notetaker/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/youtube-notetaker/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 8864,
+  "truncated": false
+}

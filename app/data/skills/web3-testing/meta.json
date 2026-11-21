@@ -1,0 +1,11 @@
+{
+  "name": "web3-testing",
+  "display_name": "Web3 Testing",
+  "description": "Master comprehensive testing strategies for smart contracts using Hardhat, Foundry, and advanced testing patterns.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/web3-testing/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/web3-testing/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 12349,
+  "truncated": false
+}

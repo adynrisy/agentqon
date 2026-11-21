@@ -1,0 +1,11 @@
+{
+  "name": "user-research",
+  "display_name": "User Research",
+  "description": "Plan, conduct, and synthesize user research. Trigger with \"user research plan\", \"interview guide\", \"usability test\", \"survey design\", \"research questions\", or when the user needs help with any aspect of understanding their users through research.",
+  "repo": "anthropics/knowledge-work-plugins",
+  "path": "design/skills/user-research/SKILL.md",
+  "url": "https://github.com/anthropics/knowledge-work-plugins/tree/HEAD/design/skills/user-research/SKILL.md",
+  "license": "Apache-2.0",
+  "body_bytes": 1462,
+  "truncated": false
+}

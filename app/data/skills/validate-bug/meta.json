@@ -1,0 +1,11 @@
+{
+  "name": "validate-bug",
+  "display_name": "Validate Bug",
+  "description": "Use when a bug PoC package needs an independent rerun and judgment before patching.",
+  "repo": "trailofbits/skills",
+  "path": "plugins/patching-bugs/skills/validate-bug/SKILL.md",
+  "url": "https://github.com/trailofbits/skills/tree/HEAD/plugins/patching-bugs/skills/validate-bug/SKILL.md",
+  "license": "CC",
+  "body_bytes": 1809,
+  "truncated": false
+}

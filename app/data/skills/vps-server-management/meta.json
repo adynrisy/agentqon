@@ -1,0 +1,11 @@
+{
+  "name": "vps-server-management",
+  "display_name": "Vps Server Management",
+  "description": "Manage authorized VPS hosts and server-side agents through cautious SSH and operations workflows.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/vps-server-management/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/vps-server-management/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 3129,
+  "truncated": false
+}

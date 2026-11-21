@@ -1,0 +1,11 @@
+{
+  "name": "web-fuzzing",
+  "display_name": "Web Fuzzing",
+  "description": "Web fuzzing with ffuf",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/ffuf-claude-skill/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/ffuf-claude-skill/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 1983,
+  "truncated": false
+}

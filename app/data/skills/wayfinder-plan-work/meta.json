@@ -1,0 +1,11 @@
+{
+  "name": "wayfinder-plan-work",
+  "display_name": "Wayfinder Plan Work",
+  "description": "Plan a huge chunk of work (more than one agent session can hold) as a shared map of decision tickets on your issue tracker, and resolve them one at a time until the way to the destination is clear.",
+  "repo": "mattpocock/skills",
+  "path": "skills/engineering/wayfinder/SKILL.md",
+  "url": "https://github.com/mattpocock/skills/tree/HEAD/skills/engineering/wayfinder/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 12113,
+  "truncated": false
+}

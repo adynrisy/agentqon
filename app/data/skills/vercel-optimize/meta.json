@@ -1,0 +1,11 @@
+{
+  "name": "vercel-optimize",
+  "display_name": "Vercel Optimize",
+  "description": "Audit deployed Vercel apps for cost and performance issues using metrics, project config, code scans, and version-aware recommendations.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/vercel-optimize/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/vercel-optimize/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 17198,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "why-did-this-post-flop",
+  "display_name": "Why Did This Post Flop",
+  "description": "Diagnose why one Twitter/X or LinkedIn post underperformed: not seen, seen and skipped, or read and ignored. Use when someone asks why a post did badly or got no engagement.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/why-did-this-post-flop/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/why-did-this-post-flop/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 5287,
+  "truncated": false
+}

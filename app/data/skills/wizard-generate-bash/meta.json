@@ -1,0 +1,11 @@
+{
+  "name": "wizard-generate-bash",
+  "display_name": "Wizard Generate Bash",
+  "description": "Generate an interactive bash wizard that walks a human through steps only they can perform. Use when provisioning infrastructure, setting up credentials or CI secrets, walking an unfamiliar third-party dashboard, or running a one-off migration or cutover. Don't invoke this for steps the agent can perform itself.",
+  "repo": "mattpocock/skills",
+  "path": "skills/engineering/wizard/SKILL.md",
+  "url": "https://github.com/mattpocock/skills/tree/HEAD/skills/engineering/wizard/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 3774,
+  "truncated": false
+}

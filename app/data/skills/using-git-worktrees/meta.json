@@ -1,0 +1,11 @@
+{
+  "name": "using-git-worktrees",
+  "display_name": "Using Git Worktrees",
+  "description": "Use when starting feature work that needs isolation from current workspace or before executing implementation plans - ensures an isolated workspace exists via native tools or git worktree fallback",
+  "repo": "obra/superpowers",
+  "path": "skills/using-git-worktrees/SKILL.md",
+  "url": "https://github.com/obra/superpowers/tree/HEAD/skills/using-git-worktrees/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 6568,
+  "truncated": false
+}

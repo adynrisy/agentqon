@@ -1,0 +1,11 @@
+{
+  "name": "ui-tokens",
+  "display_name": "UI Tokens",
+  "description": "View, add, or modify design tokens in the StyleSeed design system",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/ui-tokens/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/ui-tokens/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 2411,
+  "truncated": false
+}

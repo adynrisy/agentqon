@@ -1,0 +1,11 @@
+{
+  "name": "youtube-full-user",
+  "display_name": "Youtube Full · User",
+  "description": "Use when the user needs YouTube transcripts, video search, channel browsing, playlist extraction, or content monitoring. Trigger phrases: 'get the transcript for', 'search YouTube for', 'what are the latest videos on', 'list this playlist', 'monitor this channel', or any request involving a YouTube URL, video ID, or @handle. Do NOT use for downloading video or audio files, YouTube engagement data (likes, comments), or private/age-restricted videos.",
+  "repo": "alirezarezvani/claude-skills",
+  "path": ".gemini/skills/youtube-full/SKILL.md",
+  "url": "https://github.com/alirezarezvani/claude-skills/tree/HEAD/.gemini/skills/youtube-full/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 6542,
+  "truncated": false
+}

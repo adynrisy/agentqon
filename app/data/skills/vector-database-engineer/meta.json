@@ -1,0 +1,11 @@
+{
+  "name": "vector-database-engineer",
+  "display_name": "Vector Database Engineer",
+  "description": "Expert in vector databases, embedding strategies, and semantic search implementation. Masters Pinecone, Weaviate, Qdrant, Milvus, and pgvector for RAG applications, recommendation systems, and similar",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/vector-database-engineer/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/vector-database-engineer/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 2400,
+  "truncated": false
+}

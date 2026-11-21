@@ -1,0 +1,11 @@
+{
+  "name": "xiaohongshu-auto-posting",
+  "display_name": "Xiaohongshu Auto Posting",
+  "description": "Automates the complete Xiaohongshu (XHS / Little Red Book) content operation workflow: pain-point topic collection → style case collection → topic selection → content writing → publishing → performance tracking. Use when user mentions xiaohongshu auto posting, xhs auto post, little red book posting, xiaohongshu post, xiaohongshu auto posting, xiaohongshu content operations, xhs content marketing, post to xiaohongshu, publish on xhs, post on xiaohongshu, xiaohongshu promotion, xiaohongshu operations, xiaohongshu automation, xhs automation, track xhs performance, track xiaohongshu performance, xiaohongshu data tracking, xiaohongshu analytics, switch xhs account, update xhs keywords.",
+  "repo": "browser-act/skills",
+  "path": "solutions/social-listening/xiaohongshu-auto-posting/SKILL.md",
+  "url": "https://github.com/browser-act/skills/tree/HEAD/solutions/social-listening/xiaohongshu-auto-posting/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 15072,
+  "truncated": false
+}

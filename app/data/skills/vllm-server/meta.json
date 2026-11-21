@@ -1,0 +1,11 @@
+{
+  "name": "vllm-server",
+  "display_name": "Vllm Server",
+  "description": "Deploy and manage vLLM for high-throughput LLM inference. Configure continuous batching, tensor parallelism, quantization, and OpenAI-compatible API endpoints for production LLM serving.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/vllm-server/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/vllm-server/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 6055,
+  "truncated": false
+}

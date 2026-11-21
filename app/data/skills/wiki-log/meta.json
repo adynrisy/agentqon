@@ -1,0 +1,11 @@
+{
+  "name": "wiki-log",
+  "display_name": "Wiki Log",
+  "description": "Show recent entries from the LLM Wiki log (wiki/log.md). Uses the standardized",
+  "repo": "alirezarezvani/claude-skills",
+  "path": ".gemini/skills/wiki-log/SKILL.md",
+  "url": "https://github.com/alirezarezvani/claude-skills/tree/HEAD/.gemini/skills/wiki-log/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 1733,
+  "truncated": false
+}

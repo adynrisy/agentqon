@@ -1,0 +1,11 @@
+{
+  "name": "webdriverio-automation-javascript",
+  "display_name": "Webdriverio Automation JavaScript",
+  "description": "Generates WebdriverIO (WDIO) automation tests in JavaScript or TypeScript. Supports local and TestMu AI cloud. Use when user mentions \"WebdriverIO\", \"WDIO\", \"wdio.conf\", \"browser.url\", \"$\", \"$$\". Triggers on: \"WebdriverIO\", \"WDIO\", \"wdio\", \"browser.$\".",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/webdriverio-skill/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/webdriverio-skill/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 4511,
+  "truncated": false
+}

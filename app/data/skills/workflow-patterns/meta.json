@@ -1,0 +1,11 @@
+{
+  "name": "workflow-patterns",
+  "display_name": "Workflow Patterns",
+  "description": "Use this skill when implementing tasks according to Conductor's TDD workflow, handling phase checkpoints, managing git commits for tasks, or understanding the verification protocol.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/workflow-patterns/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/workflow-patterns/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 1299,
+  "truncated": false
+}

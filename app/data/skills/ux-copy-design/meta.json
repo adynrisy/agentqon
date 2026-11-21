@@ -1,0 +1,11 @@
+{
+  "name": "ux-copy-design",
+  "display_name": "UX Copy · Design",
+  "description": "Write or review UX copy — microcopy, error messages, empty states, CTAs. Trigger with \"write copy for\", \"what should this button say?\", \"review this error message\", or when naming a CTA, wording a confirmation dialog, filling an empty state, or writing onboarding text.",
+  "repo": "anthropics/knowledge-work-plugins",
+  "path": "design/skills/ux-copy/SKILL.md",
+  "url": "https://github.com/anthropics/knowledge-work-plugins/tree/HEAD/design/skills/ux-copy/SKILL.md",
+  "license": "Apache-2.0",
+  "body_bytes": 3083,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "web3-testing-blockchain-web3",
+  "display_name": "Web3 Testing · Blockchain Web3",
+  "description": "Test smart contracts comprehensively using Hardhat and Foundry with unit tests, integration tests, and mainnet forking. Use when testing Solidity contracts, setting up blockchain test suites, or validating DeFi protocols.",
+  "repo": "wshobson/agents",
+  "path": "plugins/blockchain-web3/skills/web3-testing/SKILL.md",
+  "url": "https://github.com/wshobson/agents/tree/HEAD/plugins/blockchain-web3/skills/web3-testing/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 7643,
+  "truncated": false
+}
