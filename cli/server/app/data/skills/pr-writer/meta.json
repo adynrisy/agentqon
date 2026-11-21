@@ -1,0 +1,11 @@
+{
+  "name": "pr-writer",
+  "display_name": "PR Writer",
+  "description": "Create pull requests following Sentry's engineering practices.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/pr-writer/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/pr-writer/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 5423,
+  "truncated": false
+}

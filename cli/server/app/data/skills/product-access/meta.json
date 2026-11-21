@@ -1,0 +1,11 @@
+{
+  "name": "product-access",
+  "display_name": "Product Access",
+  "description": "Discover and access NEXRAD data for a selected radar site, time, product, or Level II moment using completed archive volumes, real-time chunks, or supported Level III sources with metadata validation.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/nexrad-product-access/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/nexrad-product-access/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 11342,
+  "truncated": false
+}

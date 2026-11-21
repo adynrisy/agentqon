@@ -1,0 +1,11 @@
+{
+  "name": "performance-optimizer",
+  "display_name": "Performance Optimizer",
+  "description": "Identifies and fixes performance bottlenecks in code, databases, and APIs. Measures before and after to prove improvements.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/performance-optimizer/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/performance-optimizer/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 8589,
+  "truncated": false
+}

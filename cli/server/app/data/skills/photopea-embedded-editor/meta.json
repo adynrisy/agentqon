@@ -1,0 +1,11 @@
+{
+  "name": "photopea-embedded-editor",
+  "display_name": "Photopea Embedded Editor",
+  "description": "Embed Photopea in web apps using photopea.js. Covers embedding, file I/O, scripting, exporting, layers, text, filters, and the full Photoshop-compatible API.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/photopea-embedded-editor/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/photopea-embedded-editor/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 5710,
+  "truncated": false
+}

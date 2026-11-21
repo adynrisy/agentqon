@@ -1,0 +1,11 @@
+{
+  "name": "pdf-this-user",
+  "display_name": "PDF This User",
+  "description": "Use this skill whenever the user wants to do anything with PDF files. This includes reading or extracting text/tables from PDFs, combining or merging multiple PDFs into one, splitting PDFs apart, rotating pages, adding watermarks, creating new PDFs, filling PDF forms, encrypting/decrypting PDFs, extracting images, and OCR on scanned PDFs to make them searchable. If the user mentions a .pdf file or asks to produce one, use this skill.",
+  "repo": "anthropics/skills",
+  "path": "skills/pdf/SKILL.md",
+  "url": "https://github.com/anthropics/skills/tree/HEAD/skills/pdf/SKILL.md",
+  "license": "unknown",
+  "body_bytes": 7549,
+  "truncated": false
+}

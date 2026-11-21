@@ -1,0 +1,11 @@
+{
+  "name": "payments-received",
+  "display_name": "Payments Received",
+  "description": "Payments received log: reference, client and invoice, amount and currency, payment date and method, withholding tax, bank account, received-by and receipt-sent status. Use for incoming payments.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/payments-received/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/payments-received/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 13399,
+  "truncated": false
+}

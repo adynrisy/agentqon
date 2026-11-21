@@ -1,0 +1,11 @@
+{
+  "name": "pipeline-performance-diagnosis",
+  "display_name": "Pipeline Performance Diagnosis",
+  "description": "Diagnose slow weather-data workflows by measuring discovery, transfer, parsing, scientific processing, and rendering separately before changing code.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/weather-pipeline-performance-diagnosis/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/weather-pipeline-performance-diagnosis/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 6630,
+  "truncated": false
+}

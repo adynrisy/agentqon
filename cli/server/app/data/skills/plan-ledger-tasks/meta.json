@@ -1,0 +1,11 @@
+{
+  "name": "plan-ledger-tasks",
+  "display_name": "Plan Ledger Tasks",
+  "description": "Create a concise Product Development Requirement and one or more implementation-sized YYLO Ledger tasks when the user explicitly asks to plan or register work.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/plan-ledger-tasks-yylo/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/plan-ledger-tasks-yylo/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 2623,
+  "truncated": false
+}

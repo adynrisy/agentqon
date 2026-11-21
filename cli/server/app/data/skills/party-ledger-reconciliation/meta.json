@@ -1,0 +1,11 @@
+{
+  "name": "party-ledger-reconciliation",
+  "display_name": "Party Ledger Reconciliation",
+  "description": "Party ledger reconciliation: party type, name and PAN/VAT, ledger against statement balance, difference and reason, duplicates, confirmation status and adjustment. Use for balance checks.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/party-ledger-reconciliation/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/party-ledger-reconciliation/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 20220,
+  "truncated": false
+}

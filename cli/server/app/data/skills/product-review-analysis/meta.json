@@ -1,0 +1,11 @@
+{
+  "name": "product-review-analysis",
+  "display_name": "Product Review Analysis",
+  "description": "Product review analysis and customer feedback intelligence. Pain point identification, praise pattern analysis, feature request extraction, sentiment analysis, and product improvement insights. Use when the user asks about review analysis, customer feedback, product reviews, or sentiment analysis.",
+  "repo": "nexscope-ai/eCommerce-Skills",
+  "path": "product-review-analysis/SKILL.md",
+  "url": "https://github.com/nexscope-ai/eCommerce-Skills/tree/HEAD/product-review-analysis/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 13852,
+  "truncated": false
+}

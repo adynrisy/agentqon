@@ -1,0 +1,11 @@
+{
+  "name": "product-detail-taobao-product-detail",
+  "display_name": "Product Detail · Taobao Product Detail",
+  "description": "Fetch full product detail from a Taobao or Tmall product page by itemId, returning title, price, shop info, images, SKU variants, and product attributes. Use when user asks to get product details from Taobao, scrape a Taobao item page, extract product info by item ID, fetch Tmall product data, 抓取淘宝商品详情, 获取淘宝商品信息, 淘宝商品页面采集, 天猫商品详情, 按商品ID获取信息. Also applies to building product databases, price tracking by itemId, and product comparison research.",
+  "repo": "browser-act/skills",
+  "path": "solutions/ecommerce/taobao-product-detail/SKILL.md",
+  "url": "https://github.com/browser-act/skills/tree/HEAD/solutions/ecommerce/taobao-product-detail/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 5987,
+  "truncated": false
+}

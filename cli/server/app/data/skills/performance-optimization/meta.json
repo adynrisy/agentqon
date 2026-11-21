@@ -1,0 +1,11 @@
+{
+  "name": "performance-optimization",
+  "display_name": "Performance Optimization",
+  "description": "Optimizes application performance. Use when performance requirements exist, when you suspect performance regressions, or when Core Web Vitals or load times need improvement. Use when profiling reveals bottlenecks that need fixing.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/performance-optimization/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/performance-optimization/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 12563,
+  "truncated": false
+}

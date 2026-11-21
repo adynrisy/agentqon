@@ -1,0 +1,11 @@
+{
+  "name": "postgresql-cli",
+  "display_name": "Postgresql CLI",
+  "description": "PostgreSQL interactive terminal (psql) reference and usage guide.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/postgresql-cli/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/postgresql-cli/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 29224,
+  "truncated": false
+}

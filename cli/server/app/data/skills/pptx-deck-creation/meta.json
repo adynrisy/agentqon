@@ -1,0 +1,11 @@
+{
+  "name": "pptx-deck-creation",
+  "display_name": "Pptx Deck Creation",
+  "description": "Create editable, production-ready PPTX decks with narrative planning, explicit layout specs, asset guidance, and quality checks.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/pptx-deck-creation/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/pptx-deck-creation/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 13347,
+  "truncated": false
+}

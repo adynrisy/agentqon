@@ -1,0 +1,11 @@
+{
+  "name": "planning-task-breakdown-breaks",
+  "display_name": "Planning Task Breakdown · Breaks",
+  "description": "Breaks work into ordered tasks. Use when you have a spec or clear requirements and need to break work into implementable tasks. Use when a task feels too large to start, when you need to estimate scope, or when parallel work is possible.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/planning-and-task-breakdown/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/planning-and-task-breakdown/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 8216,
+  "truncated": false
+}

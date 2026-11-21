@@ -1,0 +1,11 @@
+{
+  "name": "postmortem-writing-comprehensive",
+  "display_name": "Postmortem Writing · Comprehensive",
+  "description": "Comprehensive guide to writing effective, blameless postmortems that drive organizational learning and prevent incident recurrence.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/postmortem-writing/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/postmortem-writing/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 12598,
+  "truncated": false
+}

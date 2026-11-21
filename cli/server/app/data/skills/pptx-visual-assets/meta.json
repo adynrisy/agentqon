@@ -1,0 +1,11 @@
+{
+  "name": "pptx-visual-assets",
+  "display_name": "Pptx Visual Assets",
+  "description": "Use when selecting and placing approved supporting icons, images, SVGs, diagrams, or infographics in an editable PPTX deck.",
+  "repo": "wshobson/agents",
+  "path": "plugins/pptx-deck-creation/skills/pptx-visual-assets/SKILL.md",
+  "url": "https://github.com/wshobson/agents/tree/HEAD/plugins/pptx-deck-creation/skills/pptx-visual-assets/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 1202,
+  "truncated": false
+}

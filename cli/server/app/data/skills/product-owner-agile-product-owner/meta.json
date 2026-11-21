@@ -1,0 +1,11 @@
+{
+  "name": "product-owner-agile-product-owner",
+  "display_name": "Product Owner · Agile Product Owner",
+  "description": "Agile product owner agent for epic breakdown, sprint planning, backlog refinement, and INVEST-compliant user story generation. Use when preparing work for a development team — e.g., decomposing a large epic into INVEST-compliant stories with acceptance criteria, or refining a messy backlog ahead of sprint planning.",
+  "repo": "alirezarezvani/claude-skills",
+  "path": ".gemini/skills/cs-agile-product-owner/SKILL.md",
+  "url": "https://github.com/alirezarezvani/claude-skills/tree/HEAD/.gemini/skills/cs-agile-product-owner/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 16382,
+  "truncated": false
+}

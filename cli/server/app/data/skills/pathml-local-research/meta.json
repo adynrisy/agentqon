@@ -1,0 +1,11 @@
+{
+  "name": "pathml-local-research",
+  "display_name": "Pathml Local Research",
+  "description": "Supports local computational pathology research with PathML: slide loading and tiling, preprocessing and QC, h5path storage, multiplex quantification, spatial graphs, and bounded model inference. Use for whole-slide H&E, CODEX, Vectra, Mesmer, HoVer-Net, and HACTNet workflows.",
+  "repo": "K-Dense-AI/scientific-agent-skills",
+  "path": "skills/pathml/SKILL.md",
+  "url": "https://github.com/K-Dense-AI/scientific-agent-skills/tree/HEAD/skills/pathml/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 12287,
+  "truncated": false
+}

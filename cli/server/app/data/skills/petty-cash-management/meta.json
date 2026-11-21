@@ -1,0 +1,11 @@
+{
+  "name": "petty-cash-management",
+  "display_name": "Petty Cash Management",
+  "description": "Petty cash register: entry number, date and type, payee and purpose, cash in and out, running balance, cash limit flag, custodian, physical count and variance. Use for petty cash.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/petty-cash-management/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/petty-cash-management/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 22466,
+  "truncated": false
+}

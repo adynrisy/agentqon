@@ -1,0 +1,11 @@
+{
+  "name": "primekg-queries-knowledge",
+  "display_name": "Primekg Queries Knowledge",
+  "description": "Queries a pinned Precision Medicine Knowledge Graph (PrimeKG) CSV for typed gene, drug, disease, and phenotype nodes, direct associations, disease context, and one- or two-hop paths. Use for PrimeKG reproducibility, biological association lookup, and hypothesis generation with relation and data provenance preserved.",
+  "repo": "K-Dense-AI/scientific-agent-skills",
+  "path": "skills/primekg/SKILL.md",
+  "url": "https://github.com/K-Dense-AI/scientific-agent-skills/tree/HEAD/skills/primekg/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 8952,
+  "truncated": false
+}

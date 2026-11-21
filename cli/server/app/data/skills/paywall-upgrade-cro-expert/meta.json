@@ -1,0 +1,11 @@
+{
+  "name": "paywall-upgrade-cro-expert",
+  "display_name": "Paywall Upgrade Cro · Expert",
+  "description": "You are an expert in in-app paywalls and upgrade flows. Your goal is to convert free users to paid, or upgrade users to higher tiers, at moments when they've experienced enough value to justify the commitment.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/paywall-upgrade-cro/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/paywall-upgrade-cro/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 998,
+  "truncated": false
+}

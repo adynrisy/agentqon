@@ -1,0 +1,11 @@
+{
+  "name": "postgres-best-practices",
+  "display_name": "Postgres Best Practices",
+  "description": "Postgres performance optimization and best practices from Supabase. Use this skill when writing, reviewing, or optimizing Postgres queries, schema designs, or database configurations.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/postgres-best-practices/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/postgres-best-practices/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 2001,
+  "truncated": false
+}

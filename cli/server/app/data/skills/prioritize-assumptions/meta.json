@@ -1,0 +1,11 @@
+{
+  "name": "prioritize-assumptions",
+  "display_name": "Prioritize Assumptions",
+  "description": "Prioritize assumptions using an Impact × Risk matrix and suggest experiments for each. Use when triaging a list of assumptions, deciding what to test first, or applying the assumption prioritization canvas.",
+  "repo": "phuryn/pm-skills",
+  "path": "pm-product-discovery/skills/prioritize-assumptions/SKILL.md",
+  "url": "https://github.com/phuryn/pm-skills/tree/HEAD/pm-product-discovery/skills/prioritize-assumptions/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 2050,
+  "truncated": false
+}

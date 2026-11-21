@@ -1,0 +1,11 @@
+{
+  "name": "postgresql-table-design",
+  "display_name": "Postgresql Table Design",
+  "description": "Use this skill when designing or reviewing a PostgreSQL-specific schema. Covers best-practices, data types, indexing, constraints, performance patterns, and advanced features",
+  "repo": "wshobson/agents",
+  "path": "plugins/database-design/skills/postgresql-table-design/SKILL.md",
+  "url": "https://github.com/wshobson/agents/tree/HEAD/plugins/database-design/skills/postgresql-table-design/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 7685,
+  "truncated": false
+}

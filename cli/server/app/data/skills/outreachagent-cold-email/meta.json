@@ -1,0 +1,11 @@
+{
+  "name": "outreachagent-cold-email",
+  "display_name": "Outreachagent Cold Email",
+  "description": "Operate reply-aware cold outbound email workflows for AI agents with inboxes, contacts, templates, pacing, approvals, webhooks, and delivery metrics.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/outreachagent/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/outreachagent/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 16144,
+  "truncated": false
+}

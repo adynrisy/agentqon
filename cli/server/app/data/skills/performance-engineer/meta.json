@@ -1,0 +1,11 @@
+{
+  "name": "performance-engineer",
+  "display_name": "Performance Engineer",
+  "description": "Diagnose performance bottlenecks using profiling, traces, load tests, and observability; verify latency and capacity improvements.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/performance-engineer/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/performance-engineer/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 10980,
+  "truncated": false
+}

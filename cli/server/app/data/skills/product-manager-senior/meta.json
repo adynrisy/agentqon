@@ -1,0 +1,11 @@
+{
+  "name": "product-manager-senior",
+  "display_name": "Product Manager · Senior",
+  "description": "Senior PM agent with 6 knowledge domains, 30+ frameworks, 12 templates, and 32 SaaS metrics with formulas. Pure Markdown, zero scripts.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/product-manager/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/product-manager/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 2269,
+  "truncated": false
+}

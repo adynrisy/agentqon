@@ -1,0 +1,11 @@
+{
+  "name": "prd-publish-it",
+  "display_name": "Prd Publish It",
+  "description": "Turn the current conversation into a PRD and publish it to the project issue tracker — no interview, just synthesis of what you've already discussed.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/to-prd/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/to-prd/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 3622,
+  "truncated": false
+}

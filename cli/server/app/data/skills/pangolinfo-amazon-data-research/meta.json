@@ -1,0 +1,11 @@
+{
+  "name": "pangolinfo-amazon-data-research",
+  "display_name": "Pangolinfo Amazon Data Research",
+  "description": "Plan and run read-only Amazon product, review, category, seller, and market research through Pangolinfo's documented MCP bridge.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/pangolinfo-amazon-data-research/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/pangolinfo-amazon-data-research/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 6782,
+  "truncated": false
+}

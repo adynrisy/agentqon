@@ -1,0 +1,11 @@
+{
+  "name": "playwright-java",
+  "display_name": "Playwright Java",
+  "description": "Scaffold, write, debug, and enhance enterprise-grade Playwright E2E tests in Java using Page Object Model, JUnit 5, Allure reporting, and parallel execution.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/playwright-java/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/playwright-java/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 14696,
+  "truncated": false
+}

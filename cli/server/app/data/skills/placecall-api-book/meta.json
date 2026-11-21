@@ -1,0 +1,11 @@
+{
+  "name": "placecall-api-book",
+  "display_name": "Placecall API Book",
+  "description": "Place real outbound phone calls to US businesses through the PlaceCall API: book, ask, get quotes, then read the outcome and transcript.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/placecall/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/placecall/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 11568,
+  "truncated": false
+}

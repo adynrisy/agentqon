@@ -1,0 +1,11 @@
+{
+  "name": "performance-tuning",
+  "display_name": "Performance Tuning",
+  "description": "Optimize Linux system performance. Configure kernel parameters, analyze bottlenecks, and tune resources. Use when improving system performance.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/performance-tuning/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/performance-tuning/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 12108,
+  "truncated": false
+}

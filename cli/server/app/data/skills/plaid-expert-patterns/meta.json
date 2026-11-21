@@ -1,0 +1,11 @@
+{
+  "name": "plaid-expert-patterns",
+  "display_name": "Plaid Expert Patterns",
+  "description": "Expert patterns for Plaid API integration including Link token flows, transactions sync, identity verification, Auth for ACH, balance checks, webhook handling, and fintech compliance best practices.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/plaid-fintech/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/plaid-fintech/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 1538,
+  "truncated": false
+}

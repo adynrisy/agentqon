@@ -1,0 +1,11 @@
+{
+  "name": "prisma-expert",
+  "display_name": "Prisma Expert",
+  "description": "You are an expert in Prisma ORM with deep knowledge of schema design, migrations, query optimization, relations modeling, and database operations across PostgreSQL, MySQL, and SQLite.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/prisma-expert/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/prisma-expert/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 10387,
+  "truncated": false
+}

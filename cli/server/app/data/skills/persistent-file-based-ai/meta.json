@@ -1,0 +1,11 @@
+{
+  "name": "persistent-file-based-ai",
+  "display_name": "Persistent File Based · AI",
+  "description": "Persistent file-based planning for multi-step AI-agent work. Keeps task_plan.md, findings.md, and progress.md on disk; Kiro skill instructions and steering state read selected project planning context. Recovery reads project planning files and their timestamps only, not agent transcript stores. This adapter registers no Stop hook, never requests continuation, and never runs commands declared in Markdown. The skill has no network upload path. Use for research or work needing 5+ tool calls.",
+  "repo": "OthmanAdi/planning-with-files",
+  "path": ".kiro/skills/planning-with-files/SKILL.md",
+  "url": "https://github.com/OthmanAdi/planning-with-files/tree/HEAD/.kiro/skills/planning-with-files/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 7694,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "pi-custom-model",
+  "display_name": "Pi Custom Model",
+  "description": "Register custom Pi Agent model slugs so saved OpenRouter variants resolve correctly.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/pi-custom-model/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/pi-custom-model/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 3808,
+  "truncated": false
+}

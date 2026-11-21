@@ -1,0 +1,11 @@
+{
+  "name": "party-planning",
+  "display_name": "Party Planning",
+  "description": "Estimate party food and drink quantities, select games, and draft hosting timelines using HostPartyPlay's published planning heuristics.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/party-planning/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/party-planning/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 5431,
+  "truncated": false
+}

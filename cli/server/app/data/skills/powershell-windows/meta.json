@@ -1,0 +1,11 @@
+{
+  "name": "powershell-windows",
+  "display_name": "Powershell Windows",
+  "description": "PowerShell Windows patterns. Critical pitfalls, operator syntax, error handling.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/powershell-windows/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/powershell-windows/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 3743,
+  "truncated": false
+}

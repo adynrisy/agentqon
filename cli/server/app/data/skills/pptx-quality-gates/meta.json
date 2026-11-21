@@ -1,0 +1,11 @@
+{
+  "name": "pptx-quality-gates",
+  "display_name": "Pptx Quality Gates",
+  "description": "Use when validating or repairing an editable PPTX deck for geometry, accessibility, native editability, source lineage, and OOXML package integrity.",
+  "repo": "wshobson/agents",
+  "path": "plugins/pptx-deck-creation/skills/pptx-quality-gates/SKILL.md",
+  "url": "https://github.com/wshobson/agents/tree/HEAD/plugins/pptx-deck-creation/skills/pptx-quality-gates/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 1437,
+  "truncated": false
+}

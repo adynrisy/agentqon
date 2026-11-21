@@ -1,0 +1,11 @@
+{
+  "name": "ot-ics",
+  "display_name": "Ot Ics",
+  "description": "Authorized OT/ICS security assessment: Purdue-model zoning review, PLC/SCADA exposure, industrial protocol discovery, and passive-first evaluation discipline.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/ot-ics/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/ot-ics/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 3535,
+  "truncated": false
+}

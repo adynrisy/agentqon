@@ -1,0 +1,11 @@
+{
+  "name": "pipedrive-automation",
+  "display_name": "Pipedrive Automation",
+  "description": "Automate Pipedrive CRM operations including deals, contacts, organizations, activities, notes, and pipeline management via Rube MCP (Composio). Always search tools first for current schemas.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/pipedrive-automation/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/pipedrive-automation/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 12486,
+  "truncated": false
+}

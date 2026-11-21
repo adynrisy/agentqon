@@ -1,0 +1,11 @@
+{
+  "name": "product-reviews",
+  "display_name": "Product Reviews",
+  "description": "Fetch customer reviews for a Taobao or Tmall product by itemId, returning reviewer name, date, purchased variant, review text, and photo URLs. Use when user asks to get product reviews from Taobao, scrape Taobao customer feedback, extract buyer reviews by item ID, collect Tmall ratings and comments, 采集淘宝商品评价, 抓取淘宝买家评论, 获取淘宝商品评论, 天猫商品评价抓取, 按商品ID获取评价. Also applies to sentiment analysis of product reviews, building review datasets, and monitoring product rating changes.",
+  "repo": "browser-act/skills",
+  "path": "solutions/ecommerce/taobao-product-reviews/SKILL.md",
+  "url": "https://github.com/browser-act/skills/tree/HEAD/solutions/ecommerce/taobao-product-reviews/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 6978,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "pdf-conversion-router",
+  "display_name": "PDF Conversion Router",
+  "description": "Use when converting a PDF into another format such as Markdown, HTML, text, JSON, DOCX, or structured notes and the agent must choose the best extraction route, settings, and cleanup strategy for maximum fidelity and readability.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/pdf-conversion-router/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/pdf-conversion-router/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 14832,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "pipeline-review",
+  "display_name": "Pipeline Review",
+  "description": "Stage-by-stage pipeline health check - coverage, aging, conversion, and at-risk deals - from CRM opportunity data. Use when the user asks \"review my pipeline\", \"pipeline health\", \"where's my pipeline stuck\", \"weekly pipeline review\", \"which deals should I focus on this week\", \"any stale or stuck deals\", \"which deals have past close dates\", \"which deals are single-threaded\", or \"check my pipeline coverage against my number\".",
+  "repo": "anthropics/knowledge-work-plugins",
+  "path": "sales/skills/pipeline-review/SKILL.md",
+  "url": "https://github.com/anthropics/knowledge-work-plugins/tree/HEAD/sales/skills/pipeline-review/SKILL.md",
+  "license": "Apache-2.0",
+  "body_bytes": 6867,
+  "truncated": false
+}

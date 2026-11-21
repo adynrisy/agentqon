@@ -1,0 +1,11 @@
+{
+  "name": "product-marketing-context",
+  "display_name": "Product Marketing Context",
+  "description": "Create or update a reusable product marketing context document with positioning, audience, ICP, use cases, and messaging. Use at the start of a project to avoid repeating core marketing context across tasks.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/product-marketing-context/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/product-marketing-context/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 7502,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "pci-dss-compliance",
+  "display_name": "PCI Dss Compliance",
+  "description": "Implement PCI DSS requirements for payment card data. Configure cardholder data environment and security controls. Use when processing payment cards.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/pci-dss-compliance/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/pci-dss-compliance/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 18060,
+  "truncated": false
+}

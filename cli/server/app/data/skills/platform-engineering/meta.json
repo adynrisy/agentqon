@@ -1,0 +1,11 @@
+{
+  "name": "platform-engineering",
+  "display_name": "Platform Engineering",
+  "description": "Build internal developer platforms (IDPs) with self-service infrastructure, golden paths, and developer portals using Backstage, Crossplane, and score.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/platform-engineering/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/platform-engineering/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 9490,
+  "truncated": false
+}

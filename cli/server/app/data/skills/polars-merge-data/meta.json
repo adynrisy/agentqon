@@ -1,0 +1,11 @@
+{
+  "name": "polars-merge-data",
+  "display_name": "Polars Merge Data",
+  "description": "Performs genomic interval overlap, nearest, merge, coverage, complement and subtraction on Polars DataFrames, and reads or writes BED, VCF, BCF, BAM, CRAM, GFF, GTF, FASTA and FASTQ data. Use for coordinate-aware genomic joins, read-depth analysis, lazy bioinformatics I/O, SQL queries or migration from bioframe.",
+  "repo": "K-Dense-AI/scientific-agent-skills",
+  "path": "skills/polars-bio/SKILL.md",
+  "url": "https://github.com/K-Dense-AI/scientific-agent-skills/tree/HEAD/skills/polars-bio/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 12097,
+  "truncated": false
+}

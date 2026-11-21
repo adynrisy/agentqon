@@ -1,0 +1,11 @@
+{
+  "name": "outreachgenie-audit",
+  "display_name": "Outreachgenie Audit",
+  "description": "Audit saved OutreachGenie prospect lists against an outreach flow for missing template values, text limits and incomplete collection, using read-only MCP snapshots and local reports.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/outreachgenie-list-audit/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/outreachgenie-list-audit/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 4227,
+  "truncated": false
+}

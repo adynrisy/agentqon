@@ -1,0 +1,11 @@
+{
+  "name": "payment-accounting",
+  "display_name": "Payment Accounting",
+  "description": "Payment voucher register: payment number and date, paid to and purpose, mode, gross amount, TDS rate and deducted, net paid, invoice allocation, ledger and reconciliation status. Use for vouchers.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/payment-accounting/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/payment-accounting/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 21342,
+  "truncated": false
+}

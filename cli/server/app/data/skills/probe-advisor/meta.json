@@ -1,0 +1,11 @@
+{
+  "name": "probe-advisor",
+  "display_name": "Probe Advisor",
+  "description": "Select the right Proof of Life (PoL) probe based on hypothesis, risk, and resources. Use this to match the validation method to the real learning goal, not tooling comfort.",
+  "repo": "deanpeters/Product-Manager-Skills",
+  "path": "skills/pol-probe-advisor/SKILL.md",
+  "url": "https://github.com/deanpeters/Product-Manager-Skills/tree/HEAD/skills/pol-probe-advisor/SKILL.md",
+  "license": "CC",
+  "body_bytes": 20006,
+  "truncated": false
+}

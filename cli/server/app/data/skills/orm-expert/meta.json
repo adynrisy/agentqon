@@ -1,0 +1,11 @@
+{
+  "name": "orm-expert",
+  "display_name": "ORM Expert",
+  "description": "Expert in Drizzle ORM for TypeScript — schema design, relational queries, migrations, and serverless database integration. Use when building type-safe database layers with Drizzle.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/drizzle-orm-expert/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/drizzle-orm-expert/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 10452,
+  "truncated": false
+}

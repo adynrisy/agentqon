@@ -1,0 +1,11 @@
+{
+  "name": "product-analytics",
+  "display_name": "Product Analytics",
+  "description": "Use when defining product KPIs, building metric dashboards, running cohort or retention analysis, or interpreting feature adoption trends across product stages.",
+  "repo": "alirezarezvani/claude-skills",
+  "path": ".gemini/skills/product-analytics/SKILL.md",
+  "url": "https://github.com/alirezarezvani/claude-skills/tree/HEAD/.gemini/skills/product-analytics/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 5294,
+  "truncated": false
+}

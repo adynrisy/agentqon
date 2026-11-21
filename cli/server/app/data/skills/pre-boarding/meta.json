@@ -1,0 +1,11 @@
+{
+  "name": "pre-boarding",
+  "display_name": "Pre Boarding",
+  "description": "Pre-boarding checklist: task, employee and department, owner, category, joining and due dates, documents received, laptop, email and account-record readiness, status. Use for pre-boarding.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/pre-boarding/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/pre-boarding/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 13596,
+  "truncated": false
+}

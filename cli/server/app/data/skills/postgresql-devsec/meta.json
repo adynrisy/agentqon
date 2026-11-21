@@ -1,0 +1,11 @@
+{
+  "name": "postgresql-devsec",
+  "display_name": "Postgresql Devsec",
+  "description": "Administer PostgreSQL databases. Configure replication, backups, and performance tuning. Use when managing PostgreSQL deployments.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/postgresql-devsec/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/postgresql-devsec/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 9406,
+  "truncated": false
+}

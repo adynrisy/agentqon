@@ -1,0 +1,11 @@
+{
+  "name": "pricing-user-packaging-decisions",
+  "display_name": "Pricing User Packaging · Decisions",
+  "description": "When the user wants help with pricing decisions, packaging, or monetization strategy.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/pricing/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/pricing/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 7143,
+  "truncated": false
+}

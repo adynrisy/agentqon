@@ -1,0 +1,11 @@
+{
+  "name": "producthunt-launches",
+  "display_name": "Producthunt Launches",
+  "description": "Scrape Product Hunt daily/weekly/monthly/yearly leaderboard launches with full product details, maker profiles, and website contact info. Use when user mentions Product Hunt, producthunt, PH scraper, product hunt launches, product hunt leaderboard, scrape product hunt, product hunt data, PH daily launches, product hunt upvotes, product hunt maker info, extract product hunt, product hunt today, top products product hunt, product hunt archive, PH products, product hunt email extraction, product hunt contact info, producthunt.com scraping, get product hunt launches, product hunt API alternative. Also applies to: startup launch monitoring, new product discovery, maker/founder contact enrichment, product hunt lead generation, daily product hunt digest, competitive product tracking.",
+  "repo": "browser-act/skills",
+  "path": "solutions/lead-generation/producthunt-launches/SKILL.md",
+  "url": "https://github.com/browser-act/skills/tree/HEAD/solutions/lead-generation/producthunt-launches/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 9633,
+  "truncated": false
+}

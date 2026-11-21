@@ -1,0 +1,11 @@
+{
+  "name": "pptx-deck-context",
+  "display_name": "Pptx Deck Context",
+  "description": "Use when preparing the narrative, sources, and design context for a new editable PPTX deck.",
+  "repo": "wshobson/agents",
+  "path": "plugins/pptx-deck-creation/skills/pptx-deck-context/SKILL.md",
+  "url": "https://github.com/wshobson/agents/tree/HEAD/plugins/pptx-deck-creation/skills/pptx-deck-context/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 1521,
+  "truncated": false
+}

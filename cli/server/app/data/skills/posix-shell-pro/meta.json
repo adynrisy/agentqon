@@ -1,0 +1,11 @@
+{
+  "name": "posix-shell-pro",
+  "display_name": "Posix Shell Pro",
+  "description": "Expert in strict POSIX sh scripting for maximum portability across Unix-like systems. Specializes in shell scripts that run on any POSIX-compliant shell (dash, ash, sh, bash --posix).",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/posix-shell-pro/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/posix-shell-pro/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 15334,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "phase-gated-debugging",
+  "display_name": "Phase Gated Debugging",
+  "description": "Use when debugging any bug. Enforces a 5-phase protocol where code edits are blocked until root cause is confirmed. Prevents premature fix attempts.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/phase-gated-debugging/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/phase-gated-debugging/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 2917,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "pipecat-friday",
+  "display_name": "Pipecat Friday",
+  "description": "Build a low-latency, Iron Man-inspired tactical voice assistant (F.R.I.D.A.Y.) using Pipecat, Gemini, and OpenAI.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/pipecat-friday-agent/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/pipecat-friday-agent/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 3189,
+  "truncated": false
+}

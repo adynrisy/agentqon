@@ -1,0 +1,11 @@
+{
+  "name": "primer-design",
+  "display_name": "Primer Design",
+  "description": "Designs and audits PCR and RT-qPCR primers with Primer3, explicit thermodynamic conditions, reference-based off-target amplification searches, and traceable sequence coordinates. Use for designing primer pairs, checking existing primers, exon-junction or isoform-specific assays, variant masking, cloning tails, multiplex compatibility, and interpreting Primer-BLAST results. Includes bounded local in-silico PCR and BLAST screening; distinguishes computational candidates from experimentally validated assays.",
+  "repo": "K-Dense-AI/scientific-agent-skills",
+  "path": "skills/primer-design/SKILL.md",
+  "url": "https://github.com/K-Dense-AI/scientific-agent-skills/tree/HEAD/skills/primer-design/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 15404,
+  "truncated": false
+}

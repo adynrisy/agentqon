@@ -1,0 +1,11 @@
+{
+  "name": "privacy-audit",
+  "display_name": "Privacy Audit",
+  "description": "Read-only privacy audit of a codebase: what personal data it holds, where it flows, minimisation, retention and deletion, data-subject rights, consent gating, exposure, with a verdict. Use for a privacy or GDPR/CCPA readiness review, before launch in a new region, or after adding a tracker or SDK.",
+  "repo": "khasky/awesome-agent-skills",
+  "path": "skills/awesome-privacy-audit/SKILL.md",
+  "url": "https://github.com/khasky/awesome-agent-skills/tree/HEAD/skills/awesome-privacy-audit/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 16640,
+  "truncated": false
+}

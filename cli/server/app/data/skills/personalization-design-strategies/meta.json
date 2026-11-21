@@ -1,0 +1,11 @@
+{
+  "name": "personalization-design-strategies",
+  "display_name": "Personalization Design Strategies",
+  "description": "Design personalization strategies for e-commerce stores. Product recommendations, dynamic content, customer segmentation, and personalized email/SMS based on browsing and purchase behavior.",
+  "repo": "nexscope-ai/eCommerce-Skills",
+  "path": "ecommerce-personalization/SKILL.md",
+  "url": "https://github.com/nexscope-ai/eCommerce-Skills/tree/HEAD/ecommerce-personalization/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 2177,
+  "truncated": false
+}

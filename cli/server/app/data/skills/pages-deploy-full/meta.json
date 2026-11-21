@@ -1,0 +1,11 @@
+{
+  "name": "pages-deploy-full",
+  "display_name": "Pages Deploy Full",
+  "description": "Deploy static sites and full-stack apps on Cloudflare Pages with previews, functions, and custom domains.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/cloudflare-pages/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/cloudflare-pages/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 8900,
+  "truncated": false
+}

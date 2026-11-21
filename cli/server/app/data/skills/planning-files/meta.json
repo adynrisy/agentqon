@@ -1,0 +1,11 @@
+{
+  "name": "planning-files",
+  "display_name": "Planning Files",
+  "description": "Work like Manus: Use persistent markdown files as your \"working memory on disk.\"",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/planning-with-files/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/planning-with-files/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 5889,
+  "truncated": false
+}

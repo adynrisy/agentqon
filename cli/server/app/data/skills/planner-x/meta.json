@@ -1,0 +1,11 @@
+{
+  "name": "planner-x",
+  "display_name": "Planner X",
+  "description": "旅行/行程规划需求时使用:规划去某地旅行、X天X城、带老人孩子、自驾、假期安排等。产出逐日行程表、预算估算(经济/舒适/奢华三档)、交通住宿建议、景点美食清单。必须先问预算,预算未确认只输出问题清单;事实数据带来源和查询日期。",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/travel-planner/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/travel-planner/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 17801,
+  "truncated": false
+}

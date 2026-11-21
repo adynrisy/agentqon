@@ -1,0 +1,11 @@
+{
+  "name": "pandas-pro",
+  "display_name": "Pandas Pro",
+  "description": "Performs pandas DataFrame operations for data analysis, manipulation, and transformation. Use when working with pandas DataFrames, data cleaning, aggregation, merging, or time series analysis. Invoke for data manipulation tasks such as joining DataFrames on multiple keys, pivoting tables, resampling time series, handling NaN values with interpolation or forward-fill, groupby aggregations, type conversion, or performance optimization of large datasets.",
+  "repo": "Jeffallan/claude-skills",
+  "path": "skills/pandas-pro/SKILL.md",
+  "url": "https://github.com/Jeffallan/claude-skills/tree/HEAD/skills/pandas-pro/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 5291,
+  "truncated": false
+}

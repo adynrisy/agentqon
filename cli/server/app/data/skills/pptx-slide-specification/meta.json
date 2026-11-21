@@ -1,0 +1,11 @@
+{
+  "name": "pptx-slide-specification",
+  "display_name": "Pptx Slide Specification",
+  "description": "Use when authoring or repairing a coordinate-explicit JSON specification for an editable PPTX deck.",
+  "repo": "wshobson/agents",
+  "path": "plugins/pptx-deck-creation/skills/pptx-slide-specification/SKILL.md",
+  "url": "https://github.com/wshobson/agents/tree/HEAD/plugins/pptx-deck-creation/skills/pptx-slide-specification/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 1799,
+  "truncated": false
+}

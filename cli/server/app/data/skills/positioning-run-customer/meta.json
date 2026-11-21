@@ -1,0 +1,11 @@
+{
+  "name": "positioning-run-customer",
+  "display_name": "Positioning Run Customer",
+  "description": "Run a positioning workshop that surfaces target customer, unmet need, category, benefits, and differentiation. Use when your product messaging feels fuzzy, generic, or misaligned.",
+  "repo": "deanpeters/Product-Manager-Skills",
+  "path": "skills/positioning-workshop/SKILL.md",
+  "url": "https://github.com/deanpeters/Product-Manager-Skills/tree/HEAD/skills/positioning-workshop/SKILL.md",
+  "license": "CC",
+  "body_bytes": 17200,
+  "truncated": false
+}

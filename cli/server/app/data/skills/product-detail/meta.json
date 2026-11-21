@@ -1,0 +1,11 @@
+{
+  "name": "product-detail",
+  "display_name": "Product Detail",
+  "description": "Extracts comprehensive wholesale product data from 1688.com product detail pages: title, tiered pricing, SKU variants with dimensions/weight, product images, seller info, shop scores, buyer protection, cross-border flags, product attributes, coupon/promotion data, and review stats. Use when user mentions 1688, 1688.com, wholesale China, alibaba wholesale, B2B China sourcing, Chinese wholesale scraper, 1688 product scrape, 1688 offer, 1688 detail, extract 1688 data, pull 1688 listings, get wholesale price, 1688 supplier info, factory stats 1688, 1688 SKU variants, 1688 product attributes, 1688 shop score, DSR score 1688, 1688 buyer protection, 1688 cross-border, 1688 dropship. Also applies to: scraping bulk product data from 1688 by offer ID list, monitoring 1688 supplier metrics, extracting 1688 pricing tiers for resale analysis.",
+  "repo": "browser-act/skills",
+  "path": "solutions/ecommerce/1688-product-detail/SKILL.md",
+  "url": "https://github.com/browser-act/skills/tree/HEAD/solutions/ecommerce/1688-product-detail/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 12545,
+  "truncated": false
+}

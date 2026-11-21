@@ -1,0 +1,11 @@
+{
+  "name": "php-pro-idiomatic",
+  "display_name": "Php Pro · Idiomatic",
+  "description": "Write idiomatic PHP code with generators, iterators, SPL data\nstructures, and modern OOP features. Use PROACTIVELY for high-performance PHP\napplications.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/php-pro/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/php-pro/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 2730,
+  "truncated": false
+}

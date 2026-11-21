@@ -1,0 +1,11 @@
+{
+  "name": "poka-yoke",
+  "display_name": "Poka Yoke",
+  "description": "Mistake-proof code, config and process: make the wrong action impossible or self-announcing rather than documented.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/poka-yoke/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/poka-yoke/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 10109,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "pakistan-payments-stack",
+  "display_name": "Pakistan Payments Stack",
+  "description": "Design and implement production-grade Pakistani payment integrations (JazzCash, Easypaisa, bank/PSP rails, optional Raast) for SaaS with PKR billing, webhook reliability, and reconciliation.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/pakistan-payments-stack/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/pakistan-payments-stack/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 7624,
+  "truncated": false
+}

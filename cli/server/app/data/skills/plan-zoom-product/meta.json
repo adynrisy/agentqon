@@ -1,0 +1,11 @@
+{
+  "name": "plan-zoom-product",
+  "display_name": "Plan Zoom Product",
+  "description": "Choose the right Zoom building surface for a use case and explain the tradeoffs clearly. Use when deciding between REST API, Webhooks, WebSockets, Meeting SDK, Video SDK, Zoom Apps SDK, Phone, Contact Center, or MCP for a specific product idea or integration goal.",
+  "repo": "anthropics/knowledge-work-plugins",
+  "path": "partner-built/zoom-plugin/skills/plan-zoom-product/SKILL.md",
+  "url": "https://github.com/anthropics/knowledge-work-plugins/tree/HEAD/partner-built/zoom-plugin/skills/plan-zoom-product/SKILL.md",
+  "license": "Apache-2.0",
+  "body_bytes": 1185,
+  "truncated": false
+}

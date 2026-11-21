@@ -1,0 +1,11 @@
+{
+  "name": "plan-alm",
+  "display_name": "Plan Alm",
+  "description": "Creates an ALM (Application Lifecycle Management) plan for deploying a Power Pages site across environments. Gathers your promotion strategy, target environments, and approval requirements upfront, then generates a visual HTML plan document for your review and approval. **plan-alm does not deploy anything itself** — it is a planner. After you approve the plan, run the individual ALM skills (setup-solution, setup-pipeline, deploy-pipeline, or export-solution/import-solution); each detects the approved plan and executes the right step in order, keeping the plan updated as it runs. Use when asked to: \"plan my alm\", \"set up alm\", \"create deployment plan\", \"plan my deployments\", \"help me deploy to multiple environments\", \"set up promotion strategy\", \"create cicd plan\", \"plan site promotion\", \"help me go to production\", \"set up pipeline for my site\".",
+  "repo": "microsoft/power-platform-skills",
+  "path": "plugins/power-pages/skills/plan-alm/SKILL.md",
+  "url": "https://github.com/microsoft/power-platform-skills/tree/HEAD/plugins/power-pages/skills/plan-alm/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 65536,
+  "truncated": true
+}

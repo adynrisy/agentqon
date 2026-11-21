@@ -1,0 +1,11 @@
+{
+  "name": "pacsomatic-workflows-generation",
+  "display_name": "Pacsomatic Workflows Generation",
+  "description": "Prepares and launches nf-core/pacsomatic matched tumor-normal PacBio HiFi genomics workflows from unaligned BAM inputs. Supports samplesheet generation, pinned Nextflow launch artifacts, local checks, LSF/Slurm/PBS Pro/SGE launcher submission, and startup troubleshooting. Use for pacsomatic run preparation and execution, not general short-read somatic analysis or medical imaging PACS.",
+  "repo": "K-Dense-AI/scientific-agent-skills",
+  "path": "skills/pacsomatic/SKILL.md",
+  "url": "https://github.com/K-Dense-AI/scientific-agent-skills/tree/HEAD/skills/pacsomatic/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 5467,
+  "truncated": false
+}

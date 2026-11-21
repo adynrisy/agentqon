@@ -1,0 +1,11 @@
+{
+  "name": "post-content-x",
+  "display_name": "Post Content X",
+  "description": "Posts content and articles to X (Twitter). Supports regular posts with images/videos and X Articles (long-form Markdown). In Codex, honor explicit requests for the Codex Chrome plugin/@chrome by using the Chrome Extension workflow; otherwise use Chrome Computer Use when available and fall back to real Chrome CDP scripts only when allowed. Use when user asks to \"post to X\", \"tweet\", \"publish to Twitter\", or \"share on X\".",
+  "repo": "JimLiu/baoyu-skills",
+  "path": "skills/baoyu-post-to-x/SKILL.md",
+  "url": "https://github.com/JimLiu/baoyu-skills/tree/HEAD/skills/baoyu-post-to-x/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 17036,
+  "truncated": false
+}

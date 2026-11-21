@@ -1,0 +1,11 @@
+{
+  "name": "policy-lookup",
+  "display_name": "Policy Lookup",
+  "description": "Find and explain company policies in plain language. Trigger with \"what's our PTO policy\", \"can I work remotely from another country\", \"how do expenses work\", or any plain-language question about benefits, travel, leave, or handbook rules.",
+  "repo": "anthropics/knowledge-work-plugins",
+  "path": "human-resources/skills/policy-lookup/SKILL.md",
+  "url": "https://github.com/anthropics/knowledge-work-plugins/tree/HEAD/human-resources/skills/policy-lookup/SKILL.md",
+  "license": "Apache-2.0",
+  "body_bytes": 3843,
+  "truncated": false
+}

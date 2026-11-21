@@ -1,0 +1,11 @@
+{
+  "name": "pptx-free-local",
+  "display_name": "Pptx Free Local",
+  "description": "Creates and audits editable scientific posters in macro-free PowerPoint (.pptx) from author-approved local content and assets. Used when the requested deliverable is a PowerPoint research/conference poster and exact physical, printer, accessibility, provenance, and package-security checks are required.",
+  "repo": "K-Dense-AI/scientific-agent-skills",
+  "path": "skills/pptx-posters/SKILL.md",
+  "url": "https://github.com/K-Dense-AI/scientific-agent-skills/tree/HEAD/skills/pptx-posters/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 11705,
+  "truncated": false
+}

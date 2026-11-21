@@ -1,0 +1,11 @@
+{
+  "name": "poster-design-studio",
+  "display_name": "Poster Design Studio",
+  "description": "Install and use the official AI Poster Maker package, pinned by digest, for paid hosted work on the Beatra service.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/poster-design-studio/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/poster-design-studio/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 14246,
+  "truncated": false
+}

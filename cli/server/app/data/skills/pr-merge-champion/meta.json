@@ -1,0 +1,11 @@
+{
+  "name": "pr-merge-champion",
+  "display_name": "PR Merge Champion",
+  "description": "Optimize pull requests for quick approval and merging by ensuring clean diffs, comprehensive self-reviews, and structured documentation.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/pr-merge-champion/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/pr-merge-champion/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 4846,
+  "truncated": false
+}

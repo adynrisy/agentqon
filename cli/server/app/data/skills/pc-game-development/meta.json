@@ -1,0 +1,11 @@
+{
+  "name": "pc-game-development",
+  "display_name": "Pc Game Development",
+  "description": "PC and console game development principles. Engine selection, platform features, optimization strategies.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/game-development/pc-games/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/game-development/pc-games/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 3735,
+  "truncated": false
+}

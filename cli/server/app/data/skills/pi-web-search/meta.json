@@ -1,0 +1,11 @@
+{
+  "name": "pi-web-search",
+  "display_name": "Pi Web Search",
+  "description": "Give Pi Agents a safe web-search and fetch workflow using the installed pi-web-access package.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/pi-web-search/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/pi-web-search/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 3297,
+  "truncated": false
+}

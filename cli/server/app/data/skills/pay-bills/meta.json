@@ -1,0 +1,11 @@
+{
+  "name": "pay-bills",
+  "display_name": "Pay Bills",
+  "description": "Works the bill pile from the AP inbox all the way to a staged payment run — reads and codes every bill, then checks the cash position before a dollar is committed, then stages the run for one-click approval and keeps the books tidy for close. Coding and paying are two separate decisions with two separate approvals, and the cash check sits between them on purpose. Runs on the ledger (MYOB, NetSuite, QuickBooks, Xero, or Zoho Books) and a mail connector (Gmail or M365), deepens with Expensify and Ramp, and works from uploaded PDFs or phone photos with the run sheet exported for manual entry. Use it when the owner says \"pay the bills,\" \"the bills are piling up,\" \"what do I owe,\" \"who needs to get paid this week,\" \"can I afford to pay these,\" or forwards a stack of vendor invoices.",
+  "repo": "anthropics/knowledge-work-plugins",
+  "path": "small-business/skills/pay-the-bills/SKILL.md",
+  "url": "https://github.com/anthropics/knowledge-work-plugins/tree/HEAD/small-business/skills/pay-the-bills/SKILL.md",
+  "license": "Apache-2.0",
+  "body_bytes": 7848,
+  "truncated": false
+}

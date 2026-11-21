@@ -1,0 +1,11 @@
+{
+  "name": "product-discovery",
+  "display_name": "Product Discovery",
+  "description": "Use when validating product opportunities, mapping assumptions, planning discovery sprints, or testing problem-solution fit before committing delivery resources.",
+  "repo": "alirezarezvani/claude-skills",
+  "path": ".gemini/skills/product-discovery/SKILL.md",
+  "url": "https://github.com/alirezarezvani/claude-skills/tree/HEAD/.gemini/skills/product-discovery/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 3104,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "parallel-multi-orchestration",
+  "display_name": "Parallel Multi Orchestration",
+  "description": "Multi-agent orchestration patterns. Use when multiple independent tasks can run with different domain expertise or when comprehensive analysis requires multiple perspectives.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/parallel-agents/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/parallel-agents/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 5403,
+  "truncated": false
+}

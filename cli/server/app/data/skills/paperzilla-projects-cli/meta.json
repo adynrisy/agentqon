@@ -1,0 +1,11 @@
+{
+  "name": "paperzilla-projects-cli",
+  "display_name": "Paperzilla Projects CLI",
+  "description": "Reads projects, searches project feeds, and retrieves recommendations and canonical papers in Paperzilla through the pz CLI. Supports recent recommendations, paper details, markdown-based summaries, recommendation feedback, JSON export, and Atom feed URLs.",
+  "repo": "K-Dense-AI/scientific-agent-skills",
+  "path": "skills/paperzilla/SKILL.md",
+  "url": "https://github.com/K-Dense-AI/scientific-agent-skills/tree/HEAD/skills/paperzilla/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 8740,
+  "truncated": false
+}
