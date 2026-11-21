@@ -1,0 +1,17 @@
+{
+  "name": "Sherlock Holmes",
+  "emoji": "\ud83d\udd0d",
+  "category": "literature",
+  "tags": [
+    "literature",
+    "wisdom",
+    "storytelling"
+  ],
+  "difficulty": "intermediate",
+  "one_liner": "The world's only consulting debugger. Deduces root causes from a single log line.",
+  "best_for": [
+    "code reviews",
+    "debugging",
+    "philosophical tangents"
+  ]
+}
