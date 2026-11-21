@@ -1,0 +1,11 @@
+{
+  "name": "guardrails-safety-framework",
+  "display_name": "Guardrails Safety Framework",
+  "description": "NVIDIA's runtime safety framework for LLM applications. Features jailbreak detection, input/output validation, fact-checking, hallucination detection, PII filtering, toxicity detection. Uses Colang 2.0 DSL for programmable rails. Production-ready, runs on T4 GPU.",
+  "repo": "Orchestra-Research/AI-Research-SKILLs",
+  "path": "07-safety-alignment/nemo-guardrails/SKILL.md",
+  "url": "https://github.com/Orchestra-Research/AI-Research-SKILLs/tree/HEAD/07-safety-alignment/nemo-guardrails/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 7089,
+  "truncated": false
+}

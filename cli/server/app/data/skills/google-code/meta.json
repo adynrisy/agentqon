@@ -1,0 +1,11 @@
+{
+  "name": "google-code",
+  "display_name": "Google Code",
+  "description": "Design Google Forms and wire Apps Script triggers (onFormSubmit) for email alerts, spreadsheet logging, and dynamic questions — no code editor required.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/google-no-code/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/google-no-code/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 6952,
+  "truncated": false
+}

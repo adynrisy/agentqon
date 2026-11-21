@@ -1,0 +1,11 @@
+{
+  "name": "graphql-schema",
+  "display_name": "GraphQL Schema",
+  "description": "GraphQL queries, mutations, and code generation patterns. Use when creating GraphQL operations, working with Apollo Client, or generating types.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/graphql-schema/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/graphql-schema/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 6428,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "growth-pulse",
+  "display_name": "Growth Pulse",
+  "description": "Answers one question for an SMB owner — is the growth engine actually working? Pulls sales trend by channel, funnel conversion, campaign return, best and worst performing products, and customer sentiment from whatever is connected, then ends with the three growth actions worth taking this week. The growth-side twin of business-pulse, which covers the finance side. Use this whenever the owner asks how marketing or sales is performing, whether a campaign paid off, where leads are coming from, why the pipeline is stalling, which products are moving, or says anything like \"is my marketing working,\" \"growth check,\" \"how's the funnel,\" or \"where should I put my money next month.\" Reach for it even when the owner names a single channel rather than growth overall.",
+  "repo": "anthropics/knowledge-work-plugins",
+  "path": "small-business/skills/growth-pulse/SKILL.md",
+  "url": "https://github.com/anthropics/knowledge-work-plugins/tree/HEAD/small-business/skills/growth-pulse/SKILL.md",
+  "license": "Apache-2.0",
+  "body_bytes": 8922,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "gmail-automation",
+  "display_name": "Gmail Automation",
+  "description": "Lightweight Gmail integration with standalone OAuth authentication. No MCP server required.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/gmail-automation/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/gmail-automation/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 5992,
+  "truncated": false
+}

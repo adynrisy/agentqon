@@ -1,0 +1,11 @@
+{
+  "name": "git-hooks-automation",
+  "display_name": "Git Hooks Automation",
+  "description": "Master Git hooks setup with Husky, lint-staged, pre-commit framework, and commitlint. Automate code quality gates, formatting, linting, and commit message enforcement before code reaches CI.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/git-hooks-automation/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/git-hooks-automation/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 11646,
+  "truncated": false
+}

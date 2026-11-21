@@ -1,0 +1,11 @@
+{
+  "name": "glycoengineering-scanning-evidence",
+  "display_name": "Glycoengineering Scanning Evidence",
+  "description": "Analyzes and engineers protein glycosylation by scanning canonical N-glycosylation sequons, describing S/T-rich regions, checking curated glycan evidence, and preparing NetNGlyc, NetOGlyc and GlycoSHIELD workflows. Use for glycoprotein engineering, antibody Fc glycosylation, glycan shielding, and site-specific glycoproteomics interpretation.",
+  "repo": "K-Dense-AI/scientific-agent-skills",
+  "path": "skills/glycoengineering/SKILL.md",
+  "url": "https://github.com/K-Dense-AI/scientific-agent-skills/tree/HEAD/skills/glycoengineering/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 11188,
+  "truncated": false
+}

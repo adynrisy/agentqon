@@ -1,0 +1,11 @@
+{
+  "name": "grounded-vault",
+  "display_name": "Grounded Vault",
+  "description": "Use when maintaining a durable Markdown knowledge store that agents compile from sources, when every number or quote in a wiki page must trace back to an immutable source, or when compiled pages need cheap drift detection against the code they describe. Teaches the raw/wiki/archive layout, per-claim provenance links, and git fingerprints for zero-token staleness checks.",
+  "repo": "wshobson/agents",
+  "path": "plugins/documentation-standards/skills/grounded-vault/SKILL.md",
+  "url": "https://github.com/wshobson/agents/tree/HEAD/plugins/documentation-standards/skills/grounded-vault/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 5029,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "free-design-resources",
+  "display_name": "Free Design Resources",
+  "description": "Design resource register: resource and provider, licence type, commercial-use and attribution rules, export format, lock-in risk, free tier limit and accessibility notes. Use for tool vetting.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/free-design-resources/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/free-design-resources/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 26485,
+  "truncated": false
+}

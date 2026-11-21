@@ -1,0 +1,11 @@
+{
+  "name": "frontend-dev",
+  "display_name": "Frontend Dev",
+  "description": "Full-stack frontend development combining premium UI design, cinematic animations,\nAI-generated media assets, persuasive copywriting, and visual art. Builds complete,\nvisually striking web pages with real media, advanced motion, and compelling copy.\nUse when: building landing pages, marketing sites, product pages, dashboards,\ngenerating media assets (image/video/audio/music), writing conversion copy,\ncreating generative art, or implementing cinematic scroll animations.",
+  "repo": "MiniMax-AI/skills",
+  "path": "skills/frontend-dev/SKILL.md",
+  "url": "https://github.com/MiniMax-AI/skills/tree/HEAD/skills/frontend-dev/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 19738,
+  "truncated": false
+}

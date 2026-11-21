@@ -1,0 +1,11 @@
+{
+  "name": "gbp-local-seo-intent",
+  "display_name": "Gbp Local SEO Intent",
+  "description": "Google Business Profile register: element, primary and supporting keywords, search intent, landing page, post dates, review rating and reply status, visibility and status. Use for local SEO.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/gbp-local-seo-intent/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/gbp-local-seo-intent/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 22857,
+  "truncated": false
+}

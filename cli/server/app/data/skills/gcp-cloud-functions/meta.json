@@ -1,0 +1,11 @@
+{
+  "name": "gcp-cloud-functions",
+  "display_name": "GCP Cloud Functions",
+  "description": "Deploy serverless functions on Google Cloud Functions. Configure triggers and manage deployments. Use when implementing serverless workloads on GCP.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/gcp-cloud-functions/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/gcp-cloud-functions/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 8598,
+  "truncated": false
+}

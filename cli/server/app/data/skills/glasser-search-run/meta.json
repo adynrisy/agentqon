@@ -1,0 +1,11 @@
+{
+  "name": "glasser-search-run",
+  "display_name": "Glasser Search Run",
+  "description": "Search, inspect, and run third-party data APIs through one CLI when the environment has no suitable integration.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/glasser/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/glasser/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 7797,
+  "truncated": false
+}

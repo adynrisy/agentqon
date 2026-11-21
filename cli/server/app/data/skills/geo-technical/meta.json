@@ -1,0 +1,11 @@
+{
+  "name": "geo-technical",
+  "display_name": "Geo Technical",
+  "description": "Technical SEO audit with GEO-specific checks — crawlability, indexability, security, performance, SSR, and AI crawler access",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/geo-technical/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/geo-technical/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 2662,
+  "truncated": false
+}

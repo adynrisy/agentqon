@@ -1,0 +1,11 @@
+{
+  "name": "graphql-architect-master",
+  "display_name": "GraphQL Architect · Master",
+  "description": "Master modern GraphQL with federation, performance optimization, and enterprise security. Build scalable schemas, implement advanced caching, and design real-time systems.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/graphql-architect/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/graphql-architect/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 7268,
+  "truncated": false
+}

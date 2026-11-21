@@ -1,0 +1,11 @@
+{
+  "name": "git-commit-plan",
+  "display_name": "Git Commit Plan",
+  "description": "Plans a codebase as a bisectable series of commits that each build and test alone, delivered as one plan file. Use when asked to split a project into commits.",
+  "repo": "khasky/awesome-agent-skills",
+  "path": "skills/awesome-git-commit-plan/SKILL.md",
+  "url": "https://github.com/khasky/awesome-agent-skills/tree/HEAD/skills/awesome-git-commit-plan/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 20879,
+  "truncated": false
+}

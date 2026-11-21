@@ -1,0 +1,11 @@
+{
+  "name": "gguf-quantization",
+  "display_name": "Gguf Quantization",
+  "description": "GGUF format and llama.cpp quantization for efficient CPU/GPU inference. Use when deploying models on consumer hardware, Apple Silicon, or when needing flexible quantization from 2-8 bit without GPU requirements.",
+  "repo": "Orchestra-Research/AI-Research-SKILLs",
+  "path": "10-optimization/gguf/SKILL.md",
+  "url": "https://github.com/Orchestra-Research/AI-Research-SKILLs/tree/HEAD/10-optimization/gguf/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 9866,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "gcp-gke",
+  "display_name": "GCP Gke",
+  "description": "Deploy and manage Google Kubernetes Engine clusters. Configure node pools, networking, and workload identity. Use when running Kubernetes on GCP.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/gcp-gke/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/gcp-gke/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 9355,
+  "truncated": false
+}

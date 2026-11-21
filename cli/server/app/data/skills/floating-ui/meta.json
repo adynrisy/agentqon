@@ -1,0 +1,11 @@
+{
+  "name": "floating-ui",
+  "display_name": "Floating UI",
+  "description": "Web and App implementation guide for Floating UI. Trigger when user wants detached cards, elevated components, and a light, airy feel.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/design-it/floating-ui/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/design-it/floating-ui/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 10693,
+  "truncated": false
+}

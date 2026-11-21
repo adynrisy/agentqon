@@ -1,0 +1,11 @@
+{
+  "name": "foundation-implement-contract",
+  "display_name": "Foundation Implement Contract",
+  "description": "Implement features, fixes, modules, contract migrations, and resumed work while preserving user edits and authorized public contracts.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/repo-foundation/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/repo-foundation/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 12170,
+  "truncated": false
+}

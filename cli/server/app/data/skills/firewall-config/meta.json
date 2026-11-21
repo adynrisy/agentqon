@@ -1,0 +1,11 @@
+{
+  "name": "firewall-config",
+  "display_name": "Firewall Config",
+  "description": "Configure iptables, nftables, and cloud firewalls. Implement network segmentation and traffic filtering. Use when securing network perimeters or implementing security zones.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/firewall-config/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/firewall-config/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 11923,
+  "truncated": false
+}

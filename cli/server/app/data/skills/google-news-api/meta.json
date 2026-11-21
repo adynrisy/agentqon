@@ -1,0 +1,11 @@
+{
+  "name": "google-news-api",
+  "display_name": "Google News API",
+  "description": "This skill helps users automatically extract structured news data from Google News via BrowserAct API. Agent should proactively apply this skill when users express needs like searching for news about a specific topic, tracking industry trends, monitoring public relations or sentiment, collecting competitor updates, getting latest reports on specific keywords, monitoring brand exposure in media, researching market hot topics, summarizing daily industry news, tracking media activities of specific individuals, retrieving hot events from the past 24 hours, extracting structured data for market research, monitoring global breaking news.",
+  "repo": "browser-act/skills",
+  "path": "solutions/search-research/google-news-api-skill/SKILL.md",
+  "url": "https://github.com/browser-act/skills/tree/HEAD/solutions/search-research/google-news-api-skill/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 5221,
+  "truncated": false
+}

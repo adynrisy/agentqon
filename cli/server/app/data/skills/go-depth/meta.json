@@ -1,0 +1,11 @@
+{
+  "name": "go-depth",
+  "display_name": "Go Depth",
+  "description": "Go in depth harness — fan-out web searches, fetch sources, adversarially verify claims, synthesize a cited report.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/go-in-depth/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/go-in-depth/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 1899,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "full-mode-analysis",
+  "display_name": "Full Mode Analysis",
+  "description": "Full-sweep mode: runs a unified analysis across all quality dimensions — code decay, architecture, tech debt, and test quality — then applies fixes directly to the codebase. Safe changes are auto-applied; risky changes are confirmed before execution.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/brooks-sweep/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/brooks-sweep/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 2123,
+  "truncated": false
+}

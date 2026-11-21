@@ -1,0 +1,11 @@
+{
+  "name": "gh-cli",
+  "display_name": "Gh CLI",
+  "description": "Enforces authenticated gh CLI workflows over unauthenticated curl, WebFetch, and MCP fetch patterns. Use when working with GitHub URLs, API access, pull requests, or issues.",
+  "repo": "trailofbits/skills",
+  "path": "plugins/gh-cli/skills/gh-cli/SKILL.md",
+  "url": "https://github.com/trailofbits/skills/tree/HEAD/plugins/gh-cli/skills/gh-cli/SKILL.md",
+  "license": "CC",
+  "body_bytes": 1033,
+  "truncated": false
+}

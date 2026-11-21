@@ -1,0 +1,11 @@
+{
+  "name": "haskell-pro",
+  "display_name": "Haskell Pro",
+  "description": "Design and review Haskell types, pure domain logic, parsing, exception-safe concurrency, Cabal/Stack builds and measured performance.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/haskell-pro/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/haskell-pro/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 2484,
+  "truncated": false
+}

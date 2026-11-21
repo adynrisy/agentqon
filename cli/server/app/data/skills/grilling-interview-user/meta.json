@@ -1,0 +1,11 @@
+{
+  "name": "grilling-interview-user",
+  "display_name": "Grilling Interview User",
+  "description": "Interview the user relentlessly about a plan or design. Use when the user wants to stress-test a plan before building, or uses any 'grill' trigger phrases.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/grilling/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/grilling/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 1275,
+  "truncated": false
+}

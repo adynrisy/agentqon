@@ -1,0 +1,11 @@
+{
+  "name": "fireflies-transcript",
+  "display_name": "Fireflies Transcript",
+  "description": "Fetch raw Fireflies.ai meeting transcripts. Use only when the user explicitly invokes /fireflies-transcript; for YouTube, use youtube-transcript.",
+  "repo": "davidondrej/skills",
+  "path": "skills/research-and-web/fireflies-transcript/SKILL.md",
+  "url": "https://github.com/davidondrej/skills/tree/HEAD/skills/research-and-web/fireflies-transcript/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 2634,
+  "truncated": false
+}

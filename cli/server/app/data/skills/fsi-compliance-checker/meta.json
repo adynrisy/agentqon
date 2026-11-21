@@ -1,0 +1,11 @@
+{
+  "name": "fsi-compliance-checker",
+  "display_name": "Fsi Compliance Checker",
+  "description": "Maps code, architecture, and infrastructure changes to specific control IDs in PCI-DSS v4.0 and MAS TRM (Singapore financial regulator), producing an audit-traceable findings report with per-control remediation.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/fsi-compliance-checker/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/fsi-compliance-checker/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 6570,
+  "truncated": false
+}

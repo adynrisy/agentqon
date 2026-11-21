@@ -1,0 +1,11 @@
+{
+  "name": "generate-data-driven",
+  "display_name": "Generate Data Driven",
+  "description": "Generate data-driven user personas for UX research and product design. Usage: /persona generate [options]",
+  "repo": "alirezarezvani/claude-skills",
+  "path": ".gemini/skills/persona/SKILL.md",
+  "url": "https://github.com/alirezarezvani/claude-skills/tree/HEAD/.gemini/skills/persona/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 905,
+  "truncated": false
+}

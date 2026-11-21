@@ -1,0 +1,11 @@
+{
+  "name": "fool-ideas-plans",
+  "display_name": "Fool Ideas Plans",
+  "description": "Use when challenging ideas, plans, decisions, or proposals using structured critical reasoning. Invoke to play devil's advocate, run a pre-mortem, red team, or audit evidence and assumptions.",
+  "repo": "Jeffallan/claude-skills",
+  "path": "skills/the-fool/SKILL.md",
+  "url": "https://github.com/Jeffallan/claude-skills/tree/HEAD/skills/the-fool/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 5738,
+  "truncated": false
+}

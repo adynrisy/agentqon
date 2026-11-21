@@ -1,0 +1,11 @@
+{
+  "name": "geomaster-research-workflows",
+  "display_name": "Geomaster Research Workflows",
+  "description": "Supports geospatial research workflows for remote sensing, vector and raster GIS, spatial statistics, terrain and network analysis, and machine learning for Earth observation. Use when processing satellite imagery, aligning coordinate systems and raster grids, accessing STAC catalogs, analyzing geospatial time series, or implementing scientific GIS workflows in Python, R, Julia, JavaScript, C++, Java, Go, or Rust.",
+  "repo": "K-Dense-AI/scientific-agent-skills",
+  "path": "skills/geomaster/SKILL.md",
+  "url": "https://github.com/K-Dense-AI/scientific-agent-skills/tree/HEAD/skills/geomaster/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 10502,
+  "truncated": false
+}

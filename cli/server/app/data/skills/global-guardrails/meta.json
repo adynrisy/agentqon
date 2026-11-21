@@ -1,0 +1,11 @@
+{
+  "name": "global-guardrails",
+  "display_name": "Global Guardrails",
+  "description": "Configure the shared guard against catastrophic shell commands in local AI agents. Use when changing block patterns, adding an agent or machine, or investigating why a command was or wasn't blocked.",
+  "repo": "davidondrej/skills",
+  "path": "skills/ops-and-setup/global-agent-guardrails/SKILL.md",
+  "url": "https://github.com/davidondrej/skills/tree/HEAD/skills/ops-and-setup/global-agent-guardrails/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 3315,
+  "truncated": false
+}

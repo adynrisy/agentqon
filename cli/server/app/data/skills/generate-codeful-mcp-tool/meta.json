@@ -1,0 +1,11 @@
+{
+  "name": "generate-codeful-mcp-tool",
+  "display_name": "Generate Codeful MCP Tool",
+  "description": "Generate a self-contained JavaScript server runtime and registration metadata for an MCP codeful tool. Use when the user asks to create a codeful MCP tool, generate server logic for an MCP tool, write a runTool function, build a Dataverse-backed MCP tool, or pair MCP server logic with an MCP App widget.",
+  "repo": "microsoft/power-platform-skills",
+  "path": "plugins/mcp-apps/skills/generate-codeful-mcp-tool/SKILL.md",
+  "url": "https://github.com/microsoft/power-platform-skills/tree/HEAD/plugins/mcp-apps/skills/generate-codeful-mcp-tool/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 11923,
+  "truncated": false
+}

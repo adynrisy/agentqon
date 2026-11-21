@@ -1,0 +1,11 @@
+{
+  "name": "grill-me",
+  "display_name": "Grill Me",
+  "description": "Interview the user relentlessly about a plan or design until reaching shared understanding, resolving each branch of the decision tree. Use when user wants to stress-test a plan, get grilled on their design, or mentions \"grill me\".",
+  "repo": "alirezarezvani/claude-skills",
+  "path": ".gemini/skills/grill-me/SKILL.md",
+  "url": "https://github.com/alirezarezvani/claude-skills/tree/HEAD/.gemini/skills/grill-me/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 2044,
+  "truncated": false
+}

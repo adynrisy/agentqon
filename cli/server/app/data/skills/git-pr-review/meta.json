@@ -1,0 +1,11 @@
+{
+  "name": "git-pr-review",
+  "display_name": "Git PR Review",
+  "description": "Generate a concise and structured PR description from commit history with minimal token usage",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/git-pr-review/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/git-pr-review/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 4014,
+  "truncated": false
+}

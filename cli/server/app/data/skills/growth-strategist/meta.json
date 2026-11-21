@@ -1,0 +1,11 @@
+{
+  "name": "growth-strategist",
+  "display_name": "Growth Strategist",
+  "description": "Growth Strategist agent for revenue operations, sales engineering, customer success, and business development. Orchestrates business-growth skills. Spawn when users need pipeline analysis, churn prevention, expansion scoring, sales demos, or proposal writing.",
+  "repo": "alirezarezvani/claude-skills",
+  "path": ".gemini/skills/cs-growth-strategist/SKILL.md",
+  "url": "https://github.com/alirezarezvani/claude-skills/tree/HEAD/.gemini/skills/cs-growth-strategist/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 2407,
+  "truncated": false
+}

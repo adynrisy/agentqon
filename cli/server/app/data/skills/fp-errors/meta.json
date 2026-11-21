@@ -1,0 +1,11 @@
+{
+  "name": "fp-errors",
+  "display_name": "Fp Errors",
+  "description": "Stop throwing everywhere - handle errors as values using Either and TaskEither for cleaner, more predictable code",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/fp-errors/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/fp-errors/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 1252,
+  "truncated": false
+}

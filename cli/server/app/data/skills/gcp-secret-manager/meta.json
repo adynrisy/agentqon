@@ -1,0 +1,11 @@
+{
+  "name": "gcp-secret-manager",
+  "display_name": "GCP Secret Manager",
+  "description": "Secure secrets in Google Cloud Secret Manager. Configure IAM policies, integrate with GKE, and manage secret versions. Use when managing secrets in GCP environments.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/gcp-secret-manager/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/gcp-secret-manager/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 12381,
+  "truncated": false
+}

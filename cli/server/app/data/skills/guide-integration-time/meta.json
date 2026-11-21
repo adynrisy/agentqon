@@ -1,0 +1,11 @@
+{
+  "name": "guide-integration-time",
+  "display_name": "Guide Integration Time",
+  "description": "Guide to using a separately installed Longbridge integration — real-time quotes, charts, fundamentals, portfolio analysis, options, and more for HK/US/A-share/SG markets. Trilingual: Simplified Chinese, Traditional Chinese, English.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "skills/longbridge/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/skills/longbridge/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 3328,
+  "truncated": false
+}

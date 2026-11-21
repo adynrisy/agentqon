@@ -1,0 +1,11 @@
+{
+  "name": "gdpr-compliance",
+  "display_name": "GDPR Compliance",
+  "description": "Implement GDPR data protection requirements. Configure consent management, data subject rights, and privacy by design. Use when processing EU personal data.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/gdpr-compliance/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/gdpr-compliance/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 15959,
+  "truncated": false
+}

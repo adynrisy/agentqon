@@ -1,0 +1,11 @@
+{
+  "name": "graphql-data-one",
+  "display_name": "GraphQL Data One",
+  "description": "GraphQL gives clients exactly the data they need - no more, no less. One endpoint, typed schema, introspection. But the flexibility that makes it powerful also makes it dangerous. Without proper controls, clients can craft queries that bring down your server.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/graphql/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/graphql/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 1953,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "fixing-motion-performance",
+  "display_name": "Fixing Motion Performance",
+  "description": "Audit and fix animation performance issues including layout thrashing, compositor properties, scroll-linked motion, and blur effects. Use when animations stutter, transitions jank, or reviewing CSS/JS animation performance.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/fixing-motion-performance/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/fixing-motion-performance/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 5931,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "five-axis-code-review",
+  "display_name": "Five Axis Code Review",
+  "description": "Five-axis code review checklist (correctness, security, readability, performance, test coverage) producing actionable comments instead of style nitpicks. Use when the user asks to review code, a diff, or a pull request.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/five-axis-code-review/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/five-axis-code-review/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 4280,
+  "truncated": false
+}

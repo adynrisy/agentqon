@@ -1,0 +1,11 @@
+{
+  "name": "hardware-security",
+  "display_name": "Hardware Security",
+  "description": "Authorized hardware and embedded interface security research: UART/JTAG discovery, debug-pad triage, secure-boot overview, and offline firmware analysis.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/hardware-security/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/hardware-security/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 2278,
+  "truncated": false
+}

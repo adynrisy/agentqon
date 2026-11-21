@@ -1,0 +1,11 @@
+{
+  "name": "golang-pro-master",
+  "display_name": "Golang Pro · Master",
+  "description": "Master Go 1.21+ with modern patterns, advanced concurrency, performance optimization, and production-ready microservices.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/golang-pro/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/golang-pro/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 7523,
+  "truncated": false
+}

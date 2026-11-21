@@ -1,0 +1,11 @@
+{
+  "name": "git-pr-workflows-workflow",
+  "display_name": "Git PR Workflows Workflow",
+  "description": "Orchestrate review, tests, commits, branch pushes, and pull-request creation with parallel agents. Use when completed changes must move through validation into a PR or guarded merge.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/git-pr-workflows-git-workflow/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/git-pr-workflows-git-workflow/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 4902,
+  "truncated": false
+}

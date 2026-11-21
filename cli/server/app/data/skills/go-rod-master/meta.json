@@ -1,0 +1,11 @@
+{
+  "name": "go-rod-master",
+  "display_name": "Go Rod Master",
+  "description": "Comprehensive guide for browser automation and web scraping with go-rod (Chrome DevTools Protocol) including stealth anti-bot-detection patterns.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/go-rod-master/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/go-rod-master/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 2835,
+  "truncated": false
+}

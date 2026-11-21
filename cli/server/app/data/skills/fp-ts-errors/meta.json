@@ -1,0 +1,11 @@
+{
+  "name": "fp-ts-errors",
+  "display_name": "Fp TS Errors",
+  "description": "Handle errors as values using fp-ts Either and TaskEither for cleaner, more predictable TypeScript code. Use when implementing error handling patterns with fp-ts.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/fp-ts-errors/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/fp-ts-errors/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 1252,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "get-seen-replies",
+  "display_name": "Get Seen Replies",
+  "description": "Write a reply to someone else's tweet that is worth reading on its own. Use when someone asks what to reply, wants to grow by replying on Twitter/X, or says their replies go nowhere.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/get-seen-in-replies/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/get-seen-in-replies/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 5257,
+  "truncated": false
+}

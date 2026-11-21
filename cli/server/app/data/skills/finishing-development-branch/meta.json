@@ -1,0 +1,11 @@
+{
+  "name": "finishing-development-branch",
+  "display_name": "Finishing Development Branch",
+  "description": "Use when implementation is complete, all tests pass, and you need to decide how to integrate the work - guides completion of development work by presenting structured options for merge, PR, or cleanup",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/finishing-a-development-branch/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/finishing-a-development-branch/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 5146,
+  "truncated": false
+}

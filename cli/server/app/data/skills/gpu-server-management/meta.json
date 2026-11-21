@@ -1,0 +1,11 @@
+{
+  "name": "gpu-server-management",
+  "display_name": "GPU Server Management",
+  "description": "Set up and manage NVIDIA GPU servers for AI workloads",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/gpu-server-management/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/gpu-server-management/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 7313,
+  "truncated": false
+}

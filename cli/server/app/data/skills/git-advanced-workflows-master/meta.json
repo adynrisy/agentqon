@@ -1,0 +1,11 @@
+{
+  "name": "git-advanced-workflows-master",
+  "display_name": "Git Advanced Workflows · Master",
+  "description": "Master advanced Git techniques to maintain clean history, collaborate effectively, and recover from any situation with confidence.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/git-advanced-workflows/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/git-advanced-workflows/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 10254,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "fp-data-transforms",
+  "display_name": "Fp Data Transforms",
+  "description": "Everyday data transformations using functional patterns - arrays, objects, grouping, aggregation, and null-safe access",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/fp-data-transforms/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/fp-data-transforms/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 9186,
+  "truncated": false
+}

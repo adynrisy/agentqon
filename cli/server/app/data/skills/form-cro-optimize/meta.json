@@ -1,0 +1,11 @@
+{
+  "name": "form-cro-optimize",
+  "display_name": "Form Cro · Optimize",
+  "description": "Optimize any form that is NOT signup or account registration — including lead capture, contact, demo request, application, survey, quote, and checkout forms.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/form-cro/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/form-cro/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 8033,
+  "truncated": false
+}

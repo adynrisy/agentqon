@@ -1,0 +1,11 @@
+{
+  "name": "grill-docs",
+  "display_name": "Grill Docs",
+  "description": "Docs-anchored grilling session — challenges a plan against the project's existing language (CONTEXT.md) and recorded decisions (docs/adr/), and updates those files inline as terminology and decisions crystallise. Use when user wants to stress-test a plan against documented domain language, or mentions \"grill with docs\".",
+  "repo": "alirezarezvani/claude-skills",
+  "path": ".gemini/skills/grill-with-docs/SKILL.md",
+  "url": "https://github.com/alirezarezvani/claude-skills/tree/HEAD/.gemini/skills/grill-with-docs/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 6614,
+  "truncated": false
+}

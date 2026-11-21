@@ -1,0 +1,11 @@
+{
+  "name": "gcp-networking",
+  "display_name": "GCP Networking",
+  "description": "Configure VPCs, firewall rules, and Cloud NAT. Implement shared VPC and private service connect. Use when designing GCP network infrastructure.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/gcp-networking/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/gcp-networking/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 9609,
+  "truncated": false
+}

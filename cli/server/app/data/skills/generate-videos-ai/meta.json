@@ -1,0 +1,11 @@
+{
+  "name": "generate-videos-ai",
+  "display_name": "Generate Videos AI",
+  "description": "Generate images and videos using fal.ai AI models",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/fal-generate/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/fal-generate/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 1669,
+  "truncated": false
+}

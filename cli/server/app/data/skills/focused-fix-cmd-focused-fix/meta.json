@@ -1,0 +1,11 @@
+{
+  "name": "focused-fix-cmd-focused-fix",
+  "display_name": "Focused Fix · Cmd Focused Fix",
+  "description": "Deep-dive feature repair — systematically fix an entire feature/module across all its files and dependencies. Usage: /focused-fix <feature-path>",
+  "repo": "alirezarezvani/claude-skills",
+  "path": ".gemini/skills/cmd-focused-fix/SKILL.md",
+  "url": "https://github.com/alirezarezvani/claude-skills/tree/HEAD/.gemini/skills/cmd-focused-fix/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 3051,
+  "truncated": false
+}

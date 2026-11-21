@@ -1,0 +1,11 @@
+{
+  "name": "frontend-ui-engineering",
+  "display_name": "Frontend UI Engineering",
+  "description": "Builds production-quality UIs. Use when building or modifying user-facing interfaces. Use when creating components, implementing layouts, managing state, or when the output needs to look and feel production-quality rather than AI-generated.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/frontend-ui-engineering/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/frontend-ui-engineering/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 11602,
+  "truncated": false
+}

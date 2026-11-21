@@ -1,0 +1,11 @@
+{
+  "name": "frontend-observability",
+  "display_name": "Frontend Observability",
+  "description": "A portable, framework-agnostic field-side observability system for any React or React Native app.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/frontend-observability/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/frontend-observability/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 20061,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "grilling-user-plan",
+  "display_name": "Grilling User Plan",
+  "description": "Grill the user relentlessly about a plan, decision, or idea. Use when the user wants to stress-test their thinking, or uses any 'grill' trigger phrases.",
+  "repo": "mattpocock/skills",
+  "path": "skills/productivity/grilling/SKILL.md",
+  "url": "https://github.com/mattpocock/skills/tree/HEAD/skills/productivity/grilling/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 1859,
+  "truncated": false
+}

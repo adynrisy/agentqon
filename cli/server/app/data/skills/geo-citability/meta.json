@@ -1,0 +1,11 @@
+{
+  "name": "geo-citability",
+  "display_name": "Geo Citability",
+  "description": "AI citability scoring and optimization.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/geo-citability/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/geo-citability/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 15343,
+  "truncated": false
+}

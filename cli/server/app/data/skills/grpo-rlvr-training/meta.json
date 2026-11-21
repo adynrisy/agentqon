@@ -1,0 +1,11 @@
+{
+  "name": "grpo-rlvr-training",
+  "display_name": "Grpo Rlvr Training",
+  "description": "Train reasoning and verifiable-task behavior with GRPO and reinforcement learning from verifiable rewards (RLVR). Use when task success is algorithmically checkable (math, code, tool calls, structured output), when designing GRPO reward functions, or when a GRPO run diverges or reward-hacks.",
+  "repo": "wshobson/agents",
+  "path": "plugins/llm-finetuning/skills/grpo-rlvr-training/SKILL.md",
+  "url": "https://github.com/wshobson/agents/tree/HEAD/plugins/llm-finetuning/skills/grpo-rlvr-training/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 7483,
+  "truncated": false
+}

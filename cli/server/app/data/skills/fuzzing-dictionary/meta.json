@@ -1,0 +1,11 @@
+{
+  "name": "fuzzing-dictionary",
+  "display_name": "Fuzzing Dictionary",
+  "description": "Builds and applies fuzzing dictionaries so a fuzzer can produce the keywords, magic bytes, and tokens a target expects. Covers extracting tokens from source, headers, binaries, and specifications, dictionary syntax, and wiring one into libFuzzer or AFL++. Use when fuzzing a parser, protocol, or file format, when coverage stalls at input validation, or when a target compares against fixed strings.",
+  "repo": "trailofbits/skills",
+  "path": "plugins/testing-handbook-skills/skills/fuzzing-dictionary/SKILL.md",
+  "url": "https://github.com/trailofbits/skills/tree/HEAD/plugins/testing-handbook-skills/skills/fuzzing-dictionary/SKILL.md",
+  "license": "CC",
+  "body_bytes": 9489,
+  "truncated": false
+}

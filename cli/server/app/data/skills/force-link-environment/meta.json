@@ -1,0 +1,11 @@
+{
+  "name": "force-link-environment",
+  "display_name": "Force Link Environment",
+  "description": "Force-links a development or target environment to a Power Platform Pipelines host, overriding any existing association with a previous host. Use when creating a deploymentenvironments record fails with \"this environment is already associated with another pipelines host\", or when intentionally migrating an environment from one host to another (e.g., Platform Host → Custom Host, or between two Custom Hosts). Calls the documented `ManageEnvironmentStamp` Dataverse action (the API behind the \"Force Link\" button in the Deployment Pipeline Configuration app). DESTRUCTIVE to the previous host: makers lose access to any pipelines in that host that used this environment. Reversible by running Force Link from the previous host. Use when asked to: \"force link environment\", \"force-link to new host\", \"switch pipelines host\", \"environment already associated with another host\", \"take over pipelines association\", \"relink environment to host\".",
+  "repo": "microsoft/power-platform-skills",
+  "path": "plugins/power-pages/skills/force-link-environment/SKILL.md",
+  "url": "https://github.com/microsoft/power-platform-skills/tree/HEAD/plugins/power-pages/skills/force-link-environment/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 14564,
+  "truncated": false
+}

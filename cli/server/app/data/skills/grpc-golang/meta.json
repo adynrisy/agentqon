@@ -1,0 +1,11 @@
+{
+  "name": "grpc-golang",
+  "display_name": "gRPC Golang",
+  "description": "Build production-ready gRPC services in Go with mTLS, streaming, and observability. Use when designing Protobuf contracts with Buf or implementing secure service-to-service transport.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/grpc-golang/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/grpc-golang/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 4315,
+  "truncated": false
+}

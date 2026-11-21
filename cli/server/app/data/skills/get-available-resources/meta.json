@@ -1,0 +1,11 @@
+{
+  "name": "get-available-resources",
+  "display_name": "Get Available Resources",
+  "description": "Detects host inventory and effective CPU, memory, disk, scheduler, container, and accelerator limits when a user asks for resource-aware planning or before a clearly resource-sensitive local workload. Produces a redacted JSON snapshot and conservative planning helpers without stress tests or assuming visible host hardware is usable.",
+  "repo": "K-Dense-AI/scientific-agent-skills",
+  "path": "skills/get-available-resources/SKILL.md",
+  "url": "https://github.com/K-Dense-AI/scientific-agent-skills/tree/HEAD/skills/get-available-resources/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 11043,
+  "truncated": false
+}

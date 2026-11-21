@@ -1,0 +1,11 @@
+{
+  "name": "frontend-lighthouse",
+  "display_name": "Frontend Lighthouse",
+  "description": "Add a portable Lighthouse CI gate for production frontend builds with Core Web Vitals budgets, category floors, median runs, and CI artifacts.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/frontend-lighthouse/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/frontend-lighthouse/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 14556,
+  "truncated": false
+}

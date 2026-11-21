@@ -1,0 +1,11 @@
+{
+  "name": "grill-me-relentless",
+  "display_name": "Grill Me · Relentless",
+  "description": "A relentless interview to sharpen a plan or design.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/grill-me/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/grill-me/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 1052,
+  "truncated": false
+}

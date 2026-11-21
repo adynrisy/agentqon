@@ -1,0 +1,11 @@
+{
+  "name": "gcp-cloud-architect",
+  "display_name": "GCP Cloud Architect",
+  "description": "Design GCP architectures for startups and enterprises. Use when asked to design Google Cloud infrastructure, deploy to GKE or Cloud Run, configure BigQuery pipelines, optimize GCP costs, or migrate to GCP. Covers Cloud Run, GKE, Cloud Functions, Cloud SQL, BigQuery, and cost optimization.",
+  "repo": "alirezarezvani/claude-skills",
+  "path": ".gemini/skills/gcp-cloud-architect/SKILL.md",
+  "url": "https://github.com/alirezarezvani/claude-skills/tree/HEAD/.gemini/skills/gcp-cloud-architect/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 12563,
+  "truncated": false
+}

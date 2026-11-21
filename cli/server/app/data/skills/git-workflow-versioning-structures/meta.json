@@ -1,0 +1,11 @@
+{
+  "name": "git-workflow-versioning-structures",
+  "display_name": "Git Workflow Versioning · Structures",
+  "description": "Structures git workflow practices. Use when making any code change. Use when committing, branching, resolving conflicts, or when you need to organize work across multiple parallel streams.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/git-workflow-and-versioning/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/git-workflow-and-versioning/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 10659,
+  "truncated": false
+}

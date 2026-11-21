@@ -1,0 +1,11 @@
+{
+  "name": "goal-instruction-writer",
+  "display_name": "Goal Instruction Writer",
+  "description": "Preview, draft, refine, or audit durable agent Goals with acceptance evidence, drift controls, proportional verification, and bounded waiting. Use for multi-stage work, not one-shot prompts.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/goal-instruction-writer/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/goal-instruction-writer/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 14412,
+  "truncated": false
+}

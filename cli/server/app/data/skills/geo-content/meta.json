@@ -1,0 +1,11 @@
+{
+  "name": "geo-content",
+  "display_name": "Geo Content",
+  "description": "Content quality and E-E-A-T assessment for AI citability — evaluate experience, expertise, authoritativeness, trustworthiness, and content structure",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/geo-content/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/geo-content/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 16462,
+  "truncated": false
+}

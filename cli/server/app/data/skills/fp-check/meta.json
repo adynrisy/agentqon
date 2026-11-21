@@ -1,0 +1,11 @@
+{
+  "name": "fp-check",
+  "display_name": "Fp Check",
+  "description": "Systematically verifies suspected security bugs to eliminate false positives, producing a TRUE POSITIVE or FALSE POSITIVE verdict with documented evidence for each. Use when asked whether a specific finding is real, exploitable, or a false positive, or to verify or validate a suspected vulnerability — not for hunting or discovering new bugs.",
+  "repo": "trailofbits/skills",
+  "path": "plugins/fp-check/skills/fp-check/SKILL.md",
+  "url": "https://github.com/trailofbits/skills/tree/HEAD/plugins/fp-check/skills/fp-check/SKILL.md",
+  "license": "CC",
+  "body_bytes": 6252,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "goal-prompt",
+  "display_name": "Goal Prompt",
+  "description": "Drafts copy-paste-ready /goal commands for goal mode in Claude Code and Codex. Use when the user asks to create, write, rewrite, improve, compress, clean up, or prepare a goal prompt, goal condition, /goal command, goal-mode objective, or copy-ready long-running task objective.",
+  "repo": "trailofbits/skills",
+  "path": "plugins/goal-prompt/skills/goal-prompt/SKILL.md",
+  "url": "https://github.com/trailofbits/skills/tree/HEAD/plugins/goal-prompt/skills/goal-prompt/SKILL.md",
+  "license": "CC",
+  "body_bytes": 5819,
+  "truncated": false
+}

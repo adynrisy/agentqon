@@ -1,0 +1,11 @@
+{
+  "name": "handoff-up-work",
+  "display_name": "Handoff Up Work",
+  "description": "Hand the current conversation off to a fresh background agent that picks up the work immediately.",
+  "repo": "mattpocock/skills",
+  "path": "skills/in-progress/claude-handoff/SKILL.md",
+  "url": "https://github.com/mattpocock/skills/tree/HEAD/skills/in-progress/claude-handoff/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 1195,
+  "truncated": false
+}

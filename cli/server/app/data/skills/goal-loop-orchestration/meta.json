@@ -1,0 +1,11 @@
+{
+  "name": "goal-loop-orchestration",
+  "display_name": "Goal Loop · Orchestration",
+  "description": "Draft /goal prompts and explain persistent agent loops. Use for goal or Ralph loops, autonomous run setup, monitoring, and troubleshooting.",
+  "repo": "davidondrej/skills",
+  "path": "skills/agent-orchestration/goal-loop/SKILL.md",
+  "url": "https://github.com/davidondrej/skills/tree/HEAD/skills/agent-orchestration/goal-loop/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 7476,
+  "truncated": false
+}

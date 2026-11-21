@@ -1,0 +1,11 @@
+{
+  "name": "firecrawl-scraper",
+  "display_name": "Firecrawl Scraper",
+  "description": "Deep web scraping, screenshots, PDF parsing, and website crawling using Firecrawl API. Use when you need deep content extraction from web pages, page interaction is required (clicking, scrolling, etc.), or you want screenshots or PDF parsing.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/firecrawl-scraper/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/firecrawl-scraper/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 1758,
+  "truncated": false
+}

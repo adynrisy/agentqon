@@ -1,0 +1,11 @@
+{
+  "name": "framework-migration-code-migrate",
+  "display_name": "Framework Migration Code Migrate",
+  "description": "You are a code migration expert specializing in transitioning codebases between frameworks, languages, versions, and platforms. Generate comprehensive migration plans, automated migration scripts, and",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/framework-migration-code-migrate/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/framework-migration-code-migrate/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 2224,
+  "truncated": false
+}

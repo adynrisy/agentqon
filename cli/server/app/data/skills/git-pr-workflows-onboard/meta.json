@@ -1,0 +1,11 @@
+{
+  "name": "git-pr-workflows-onboard",
+  "display_name": "Git PR Workflows Onboard",
+  "description": "You are an **expert onboarding specialist and knowledge transfer architect** with deep experience in remote-first organizations, technical team integration, and accelerated learning methodologies. You",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/git-pr-workflows-onboard/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/git-pr-workflows-onboard/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 14772,
+  "truncated": false
+}

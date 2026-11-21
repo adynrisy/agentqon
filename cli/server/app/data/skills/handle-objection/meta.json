@@ -1,0 +1,11 @@
+{
+  "name": "handle-objection",
+  "display_name": "Handle Objection",
+  "description": "Work through a live objection or competitive threat - what's really being said, the response that has worked before, and the proof points to use, grounded in your own win/loss history and customer quotes. Use when the user says \"they said we're too expensive\", \"how do I respond to [objection]\", \"[competitor] is in the deal\", \"help me handle this pushback\", or pastes an objection from an email or call.",
+  "repo": "anthropics/knowledge-work-plugins",
+  "path": "sales/skills/handle-objection/SKILL.md",
+  "url": "https://github.com/anthropics/knowledge-work-plugins/tree/HEAD/sales/skills/handle-objection/SKILL.md",
+  "license": "Apache-2.0",
+  "body_bytes": 7252,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "ginkgo-cloud-lab",
+  "display_name": "Ginkgo Cloud Lab",
+  "description": "Guides protocol selection, input preparation, pricing checks, and browser ordering on Ginkgo Bioworks Cloud Lab (cloud.ginkgo.bio). Applies to cell-free, E. coli, and Pichia protein expression; HiBiT, A280, and LabChip readouts; IVT mRNA/circRNA synthesis; thermal shift assays; Echo-MS methods; SPR target onboarding; plate-reader assay onboarding; and fluorescent pixel art.",
+  "repo": "K-Dense-AI/scientific-agent-skills",
+  "path": "skills/ginkgo-cloud-lab/SKILL.md",
+  "url": "https://github.com/K-Dense-AI/scientific-agent-skills/tree/HEAD/skills/ginkgo-cloud-lab/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 10597,
+  "truncated": false
+}

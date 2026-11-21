@@ -1,0 +1,11 @@
+{
+  "name": "fp-pipe-ref",
+  "display_name": "Fp Pipe Ref",
+  "description": "Quick reference for pipe and flow. Use when user needs to chain functions, compose operations, or build data pipelines in fp-ts.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/fp-pipe-ref/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/fp-pipe-ref/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 2018,
+  "truncated": false
+}

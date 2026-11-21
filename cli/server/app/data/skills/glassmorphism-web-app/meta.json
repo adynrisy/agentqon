@@ -1,0 +1,11 @@
+{
+  "name": "glassmorphism-web-app",
+  "display_name": "Glassmorphism Web App",
+  "description": "Web and App implementation guide for Glassmorphism. Trigger when user wants a frosted glass effect, blurred backgrounds, transparency, or a sleek MacOS-like feel.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/design-it/glassmorphism/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/design-it/glassmorphism/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 9947,
+  "truncated": false
+}

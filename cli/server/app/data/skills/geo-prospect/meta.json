@@ -1,0 +1,11 @@
+{
+  "name": "geo-prospect",
+  "display_name": "Geo Prospect",
+  "description": "CRM-lite for managing GEO agency prospects and clients.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/geo-prospect/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/geo-prospect/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 7815,
+  "truncated": false
+}

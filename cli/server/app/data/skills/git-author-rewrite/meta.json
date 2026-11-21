@@ -1,0 +1,11 @@
+{
+  "name": "git-author-rewrite",
+  "display_name": "Git Author Rewrite",
+  "description": "Rewrites the author and committer on commits with a wrong identity, then force-pushes after access checks, a mirror backup and a confirmation gate. Use when a commit has the wrong name or email.",
+  "repo": "khasky/awesome-agent-skills",
+  "path": "skills/awesome-git-author-rewrite/SKILL.md",
+  "url": "https://github.com/khasky/awesome-agent-skills/tree/HEAD/skills/awesome-git-author-rewrite/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 30250,
+  "truncated": false
+}

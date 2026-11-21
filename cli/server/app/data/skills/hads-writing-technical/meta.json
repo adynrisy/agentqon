@@ -1,0 +1,11 @@
+{
+  "name": "hads-writing-technical",
+  "display_name": "Hads Writing Technical",
+  "description": "Use when writing technical documentation that needs to be readable by both humans and AI models, converting existing docs to HADS format, validating a HADS document, or optimizing documentation for token-efficient AI consumption.",
+  "repo": "wshobson/agents",
+  "path": "plugins/documentation-standards/skills/hads/SKILL.md",
+  "url": "https://github.com/wshobson/agents/tree/HEAD/plugins/documentation-standards/skills/hads/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 5841,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "frontend-mobile-development-component-scaffold",
+  "display_name": "Frontend Mobile Development Component Scaffold",
+  "description": "Scaffold React and React Native components with TypeScript, accessibility, tests, styles, and documentation.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/frontend-mobile-development-component-scaffold/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/frontend-mobile-development-component-scaffold/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 11609,
+  "truncated": false
+}

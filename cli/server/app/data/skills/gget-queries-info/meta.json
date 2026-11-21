@@ -1,0 +1,11 @@
+{
+  "name": "gget-queries-info",
+  "display_name": "Gget Queries Info",
+  "description": "Queries 20+ bioinformatics resources through CLI/Python. Supports quick lookups of gene info, BLAST/BLAT, viral sequence downloads, PDB/mmCIF structures, G2P residue annotations, enrichment analysis, OpenTargets, COSMIC, CELLxGENE, and 8cube mouse specificity/expression data. Best for interactive exploration and simple queries. For batch processing or advanced BLAST use biopython; for multi-database Python workflows use bioservices.",
+  "repo": "K-Dense-AI/scientific-agent-skills",
+  "path": "skills/gget/SKILL.md",
+  "url": "https://github.com/K-Dense-AI/scientific-agent-skills/tree/HEAD/skills/gget/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 10326,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "google-maps-contact-extract",
+  "display_name": "Google Maps Contact Extract",
+  "description": "Extracts business contact details from Google Maps search results and place detail pages, then visits each business website to collect emails, phone numbers, and social media profiles (Facebook, Instagram, Twitter/X, LinkedIn, YouTube, TikTok, Pinterest, Discord). Use when user mentions Google Maps contact extraction, maps email scraper, business lead generation from Google Maps, find emails from maps, scrape Google Maps businesses, maps business contacts, get phone from Google Maps, social media from maps listing, competitor research from maps, local business contact list, maps data export, google maps scraper, extract contacts from google maps, find business email google, gmaps leads, maps email finder, or wants to replicate Google Maps business data extraction.",
+  "repo": "browser-act/skills",
+  "path": "solutions/lead-generation/google-maps-contact-extract/SKILL.md",
+  "url": "https://github.com/browser-act/skills/tree/HEAD/solutions/lead-generation/google-maps-contact-extract/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 10682,
+  "truncated": false
+}

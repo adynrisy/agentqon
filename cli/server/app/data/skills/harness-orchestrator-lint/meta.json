@@ -1,0 +1,11 @@
+{
+  "name": "harness-orchestrator-lint",
+  "display_name": "Harness Orchestrator Lint",
+  "description": "Maintenance orchestrator for the brooks-lint plugin itself.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/brooks-harness/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/brooks-harness/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 6853,
+  "truncated": false
+}
