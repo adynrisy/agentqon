@@ -1,0 +1,11 @@
+{
+  "name": "app-store-changelog",
+  "display_name": "App Store Changelog",
+  "description": "Generate user-facing App Store release notes from git history since the last tag.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/app-store-changelog/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/app-store-changelog/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 3141,
+  "truncated": false
+}

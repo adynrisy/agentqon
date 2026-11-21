@@ -1,0 +1,11 @@
+{
+  "name": "actions-build-test",
+  "display_name": "Actions Build Test",
+  "description": "Build, test, and deploy applications using GitHub Actions workflows.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/github-actions/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/github-actions/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 7814,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "api-designer",
+  "display_name": "API Designer",
+  "description": "Generates complete, production-ready REST API endpoint specifications for any system or domain the user describes.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/api-designer/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/api-designer/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 6784,
+  "truncated": false
+}

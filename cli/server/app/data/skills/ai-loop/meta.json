@@ -1,0 +1,11 @@
+{
+  "name": "ai-loop",
+  "display_name": "AI Loop",
+  "description": "Runs a bounded spec-build-review development loop with explicit scope, stop conditions, and human approval gates for risky or ambiguous work.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/ai-loop/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/ai-loop/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 7576,
+  "truncated": false
+}

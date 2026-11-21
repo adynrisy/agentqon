@@ -1,0 +1,55 @@
+<!--
+Source: sickn33/agentic-awesome-skills
+Path: plugins/agentic-awesome-skills-claude/skills/antigravity-maintainer-batch-release/SKILL.md
+License: MIT
+URL: https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/antigravity-maintainer-batch-release/SKILL.md
+-->
+
+# Antigravity Maintainer Batch Release
+
+## When to Use
+
+Use for AAS maintainer sweeps, PR repairs and merge batches, runtime/catalog releases, installed maintainer-skill alignment, and public deployment verification. Ordinary contributors do not need maintainer privileges.
+
+## Operating sequence
+
+1. Preserve dirty work. Use an isolated current-main checkout. Read the exact-base AGENTS.md, `.github/MAINTENANCE.md`, `package.json`, and [maintenance contract](references/maintenance-contract.md). Mandatory tools must exist on that base; never import retired procedures from another checkout.
+2. For a source PR batch, inventory its PR numbers, start `npm run maintenance:cycle -- start` on clean current main before content analysis/review, and follow the [complete cycle](references/maintenance-cycle.md). The runner measures source maintenance without a release; finish it before release preparation. For a release-only task or a sweep with no PRs, record the overall start separately; do not invent a PR or start a source cycle that cannot finish. Triage the full authorized scope. Repair source PRs, run the component plan, review the entire tracked `skills/<skill-id>/**` subtree, and inspect relevant advisories. Do not substitute a heuristic score for semantic review.
+3. Use `maintenance:cycle merge`, which delegates to `merge:batch`, or invoke `npm run merge:batch` directly when no source cycle applies. These share the sole merge authority; do not run both for the same merge. Keep strict protected main and admin enforcement. Safe analysis may precede review; merge still requires current checks and either real Tessl review or exact-head maintainer attestation. Private signed receipts may reuse unchanged content/context review. Preserve owner-only sensitive-change and protected-base fork-ledger restrictions.
+4. Use guided intake to collect all blockers, then resume with a private external `--state-dir`. Record each blocker once; after two equivalent unproductive checks, continue independent work. Re-fetch PR state and protection every time. Continue independent PRs after a blocked PR; report failures. Follow the cycle reference’s deterministic failure codes and bounded read retries. Never repeat a write with an unknown outcome, steal an active state lock, or reuse stale CI evidence. Do not rewrite PR metadata, automatically retry base drift, or use GitHub auto-merge.
+5. Ordinary source merges generate ephemeral validation state only. Tracked distribution snapshots and contributor credits refresh in the protected release PR; no ordinary canonical-sync PR is required.
+6. When authorized, use `release:prepare` and `release:publish`. Prepare already validates; do not duplicate its suite with diagnostic preflight. Merge the prepared release PR through protection. The immutable candidate is built once, checked on supported platforms, and consumed unchanged by npm/Pages. Main may advance while the released commit remains protected ancestry.
+7. For compatible catalog-only publication, use the independent catalog workflow and immutable revision/SRI. Preserve offline operation, rollback and agent-owned selection. Do not bump or republish runtime just to update catalog data.
+8. Finish a source batch with `maintenance:cycle verify` on exact main CI/CodeQL after all other source-cycle actions. Without publication, stop there: public distribution snapshots intentionally remain at the last release. For releases, complete the full-release-alignment gate in the contract, including actual public bytes and live surfaces. Report personal MCP configuration and session reload separately. Update installed maintainer skills from the adopted canonical source, preserving unrelated installations.
+
+## Examples
+
+Prepare safe analyses without merging:
+
+```sh
+npm run merge:batch -- --prs 123,124 --prepare-only
+```
+
+After actual semantic review, persist the evidence and merge:
+
+```sh
+npm run merge:batch -- --prs 123,124 --state-dir /absolute/private/state --reviewed-head FULL_40_CHARACTER_SHA --reviewer maintainer --review-evidence 'Complete bundle, provenance, safety and limitations reviewed'
+```
+
+Use real IDs, paths and a full immutable SHA. The state directory must already exist, be privately owned and mode 0700, and be outside source checkouts.
+
+## Validation
+
+Read [component validation](references/component-validation.md) and the [maintenance contract](references/maintenance-contract.md) for exact checks, release proof, catalog compatibility and timing methodology. Required checks remain `pr-policy`, `pr-evidence`, `source-validation`, `artifact-preview`. Unknown/shared/policy changes receive full validation.
+
+## Limitations
+
+This skill grants no additional publication or messaging authority. Tessl unavailable means `manual-review-required`, not a passing review. Jev, SkillSpector and timing reports are advisory. Never use direct main push, admin bypass, mutable artifact identity, PR-controlled review receipts, or invented native-client reload proof. Local timings do not establish whole-cycle improvement.
+
+Consult [scanner interpretation](references/skillspector.md) when triaging SkillSpector and [Core preview acceptance](references/core-preview.md) for runtime changes.
+
+Follow [public surface verification](references/public-surfaces.md) for catalog, Pages and legacy redirect changes.
+
+For CSV security intake, distinguish historical/generated duplicates from current canonical defects. Never execute skill Markdown or external setup as a triage shortcut. Dossiers must include containing nested skill trees; use reviewed test fixtures and inert source comparisons for executable documentation examples. Record each finding disposition and its evidence before release.
+
+Before creating a release tag, inventory and audit every canonical npm lockfile, including bundled applications and templates; a clean root/web audit does not cover nested dependencies. Recheck live security alerts after source merges and immediately before tagging. Treat newly created alerts as new work before publication.

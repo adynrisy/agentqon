@@ -1,0 +1,11 @@
+{
+  "name": "add-connector",
+  "display_name": "Add Connector",
+  "description": "Adds any Power Platform connector to a Power Apps code app. Generic fallback for connectors not covered by a specific skill.",
+  "repo": "microsoft/power-platform-skills",
+  "path": "plugins/code-apps/skills/add-connector/SKILL.md",
+  "url": "https://github.com/microsoft/power-platform-skills/tree/HEAD/plugins/code-apps/skills/add-connector/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 4747,
+  "truncated": false
+}

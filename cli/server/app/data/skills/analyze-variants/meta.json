@@ -1,0 +1,11 @@
+{
+  "name": "analyze-variants",
+  "display_name": "Analyze Variants",
+  "description": "Use when investigating common or slow variants, repeated work, unusual paths, or a specific Process Mining case.",
+  "repo": "microsoft/power-platform-skills",
+  "path": "plugins/process-intelligence/skills/analyze-variants/SKILL.md",
+  "url": "https://github.com/microsoft/power-platform-skills/tree/HEAD/plugins/process-intelligence/skills/analyze-variants/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 3242,
+  "truncated": false
+}

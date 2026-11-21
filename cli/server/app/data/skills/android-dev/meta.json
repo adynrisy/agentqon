@@ -1,0 +1,11 @@
+{
+  "name": "android-dev",
+  "display_name": "Android Dev",
+  "description": "Production-grade Android app development guide covering native (Kotlin/Java), cross-platform (Flutter, RN, KMM), and hybrid architectures.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/android-dev/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/android-dev/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 1916,
+  "truncated": false
+}

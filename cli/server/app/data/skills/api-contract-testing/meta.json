@@ -1,0 +1,11 @@
+{
+  "name": "api-contract-testing",
+  "display_name": "API Contract Testing",
+  "description": "Design and review API contract tests across providers and consumers. Use for schema changes, compatibility regressions and client integration failures.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/api-contract-testing/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/api-contract-testing/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 6255,
+  "truncated": false
+}

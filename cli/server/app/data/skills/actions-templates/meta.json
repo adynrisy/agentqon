@@ -1,0 +1,11 @@
+{
+  "name": "actions-templates",
+  "display_name": "Actions Templates",
+  "description": "Create production-ready GitHub Actions workflows for automated testing, building, and deploying applications. Use when setting up CI/CD with GitHub Actions, automating development workflows, or creating reusable workflow templates.",
+  "repo": "wshobson/agents",
+  "path": "plugins/cicd-automation/skills/github-actions-templates/SKILL.md",
+  "url": "https://github.com/wshobson/agents/tree/HEAD/plugins/cicd-automation/skills/github-actions-templates/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 6791,
+  "truncated": false
+}

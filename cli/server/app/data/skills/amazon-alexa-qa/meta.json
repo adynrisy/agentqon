@@ -1,0 +1,11 @@
+{
+  "name": "amazon-alexa-qa",
+  "display_name": "Amazon Alexa QA",
+  "description": "Amazon Alexa for Shopping Q&A automation: submits questions to Amazon's Alexa/Rufus AI shopping assistant and collects response text; supports optional keyword search context (navigate to search results page before asking for category-specific answers). Use when user mentions Amazon Alexa, Rufus, Amazon shopping assistant, Amazon AI chat, ask Amazon, Amazon Q&A, automate Alexa questions, Rufus chatbot, Amazon assistant automation, collect Alexa responses, bulk question submission to Amazon, keyword search context, category research. Also applies to extracting Amazon product recommendations from conversational AI, automating repeated queries to Amazon's AI shopping feature, collecting Alexa shopping responses at scale, or market research within a specific product category.",
+  "repo": "browser-act/skills",
+  "path": "solutions/ecommerce/amazon-alexa-qa/SKILL.md",
+  "url": "https://github.com/browser-act/skills/tree/HEAD/solutions/ecommerce/amazon-alexa-qa/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 10296,
+  "truncated": false
+}

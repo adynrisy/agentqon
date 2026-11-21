@@ -1,0 +1,11 @@
+{
+  "name": "ally-health",
+  "display_name": "Ally Health",
+  "description": "A health assistant skill for medical information analysis, symptom tracking, and wellness guidance.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/claude-ally-health/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/claude-ally-health/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 1815,
+  "truncated": false
+}

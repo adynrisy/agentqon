@@ -1,0 +1,11 @@
+{
+  "name": "anywrite-cli-local",
+  "display_name": "Anywrite CLI Local",
+  "description": "Compiled CLI covering all 52 endpoints of the Anytype local API — objects, properties, tags, search, chat, files — one binary, no MCP server needed.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "skills/anywrite/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/skills/anywrite/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 5022,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "ad-campaign-analyzer",
+  "display_name": "Ad Campaign Analyzer",
+  "description": "Analyze cross-channel campaign data, quantify uncertainty, and propose evidence-labeled budget tests without overstating causality.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/ad-campaign-analyzer/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/ad-campaign-analyzer/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 16854,
+  "truncated": false
+}

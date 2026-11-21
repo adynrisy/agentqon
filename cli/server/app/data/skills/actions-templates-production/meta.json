@@ -1,0 +1,11 @@
+{
+  "name": "actions-templates-production",
+  "display_name": "Actions Templates · Production",
+  "description": "Production-ready GitHub Actions workflow patterns for testing, building, and deploying applications.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/github-actions-templates/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/github-actions-templates/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 3085,
+  "truncated": false
+}

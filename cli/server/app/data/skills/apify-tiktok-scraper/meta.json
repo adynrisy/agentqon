@@ -1,0 +1,11 @@
+{
+  "name": "apify-tiktok-scraper",
+  "display_name": "Apify Tiktok Scraper",
+  "description": "Research TikTok videos, profiles, hashtags, comments and followers with engagement statistics through the harshmaur/tiktok-scraper Apify Actor. No TikTok login.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/apify-tiktok-scraper/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/apify-tiktok-scraper/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 10559,
+  "truncated": false
+}

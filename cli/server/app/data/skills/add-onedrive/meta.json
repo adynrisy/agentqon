@@ -1,0 +1,11 @@
+{
+  "name": "add-onedrive",
+  "display_name": "Add Onedrive",
+  "description": "Adds OneDrive for Business connector to a Power Apps code app. Use when uploading, downloading, listing, or managing files in OneDrive.",
+  "repo": "microsoft/power-platform-skills",
+  "path": "plugins/code-apps/skills/add-onedrive/SKILL.md",
+  "url": "https://github.com/microsoft/power-platform-skills/tree/HEAD/plugins/code-apps/skills/add-onedrive/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 2430,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "angular-ui-patterns",
+  "display_name": "Angular UI Patterns",
+  "description": "Modern Angular UI patterns for loading states, error handling, and data display. Use when building UI components, handling async data, or managing component states.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/angular-ui-patterns/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/angular-ui-patterns/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 776,
+  "truncated": false
+}

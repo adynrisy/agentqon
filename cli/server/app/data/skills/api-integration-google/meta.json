@@ -1,0 +1,11 @@
+{
+  "name": "api-integration-google",
+  "display_name": "API Integration · Google",
+  "description": "Use when integrating Google Gemini API into projects. Covers model selection, multimodal inputs, streaming, function calling, and production best practices.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/gemini-api-integration/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/gemini-api-integration/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 5838,
+  "truncated": false
+}

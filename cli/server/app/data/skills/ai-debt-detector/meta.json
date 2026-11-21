@@ -1,0 +1,11 @@
+{
+  "name": "ai-debt-detector",
+  "display_name": "AI Debt Detector",
+  "description": "Use after generating code, after accepting AI suggestions, or when reviewing AI-written modules. Also use when code works but feels brittle, when error handling seems thin, when orphaned resources or missing cleanup are suspected, or when the agent claims done but hidden debt may exist. Catches the specific failure patterns AI agents produce that humans would not.",
+  "repo": "wshobson/agents",
+  "path": "plugins/skill-forge-essentials/skills/ai-debt-detector/SKILL.md",
+  "url": "https://github.com/wshobson/agents/tree/HEAD/plugins/skill-forge-essentials/skills/ai-debt-detector/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 2973,
+  "truncated": false
+}

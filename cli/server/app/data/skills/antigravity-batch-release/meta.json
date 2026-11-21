@@ -1,0 +1,11 @@
+{
+  "name": "antigravity-batch-release",
+  "display_name": "Antigravity Batch Release",
+  "description": "Run protected AAS maintainer sweeps, PR merge batches, resumable review, immutable distribution, Core checks, and scripted releases. Use for repository maintenance, main alignment, CLI/MCP/Workbench changes, or release work; not ordinary contribution tasks.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/antigravity-maintainer-batch-release/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/antigravity-maintainer-batch-release/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 6060,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "ai-product",
+  "display_name": "AI Product",
+  "description": "Every product will be AI-powered. The question is whether you'll build it right or ship a demo that falls apart in production.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/ai-product/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/ai-product/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 1083,
+  "truncated": false
+}

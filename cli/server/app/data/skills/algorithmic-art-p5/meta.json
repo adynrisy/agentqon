@@ -1,0 +1,11 @@
+{
+  "name": "algorithmic-art-p5",
+  "display_name": "Algorithmic Art · P5",
+  "description": "Creating algorithmic art using p5.js with seeded randomness and interactive parameter exploration. Use this when users request creating art using code, generative art, algorithmic art, flow fields, or particle systems. Create original algorithmic art rather than copying existing artists' work to avoid copyright violations.",
+  "repo": "anthropics/skills",
+  "path": "skills/algorithmic-art/SKILL.md",
+  "url": "https://github.com/anthropics/skills/tree/HEAD/skills/algorithmic-art/SKILL.md",
+  "license": "unknown",
+  "body_bytes": 19361,
+  "truncated": false
+}

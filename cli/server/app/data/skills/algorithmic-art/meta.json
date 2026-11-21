@@ -1,0 +1,11 @@
+{
+  "name": "algorithmic-art",
+  "display_name": "Algorithmic Art",
+  "description": "Algorithmic philosophies are computational aesthetic movements that are then expressed through code. Output .md files (philosophy), .html files (interactive viewer), and .js files (generative algorithms).",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/algorithmic-art/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/algorithmic-art/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 19784,
+  "truncated": false
+}

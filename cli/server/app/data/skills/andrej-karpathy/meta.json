@@ -1,0 +1,11 @@
+{
+  "name": "andrej-karpathy",
+  "display_name": "Andrej Karpathy",
+  "description": "Behavioral guidelines to reduce common LLM coding mistakes. Use when writing, reviewing, or refactoring code to avoid overcomplication, make surgical changes, surface assumptions, and define verifiable success criteria.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/andrej-karpathy/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/andrej-karpathy/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 3478,
+  "truncated": false
+}

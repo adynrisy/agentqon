@@ -1,0 +1,11 @@
+{
+  "name": "analyze-objects",
+  "display_name": "Analyze Objects",
+  "description": "Use when analyzing interacting object types, object-centric processes, leading-object executions or cross-object delay.",
+  "repo": "microsoft/power-platform-skills",
+  "path": "plugins/process-intelligence/skills/analyze-objects/SKILL.md",
+  "url": "https://github.com/microsoft/power-platform-skills/tree/HEAD/plugins/process-intelligence/skills/analyze-objects/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 3610,
+  "truncated": false
+}

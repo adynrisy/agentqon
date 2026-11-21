@@ -1,0 +1,11 @@
+{
+  "name": "analytics-product",
+  "display_name": "Analytics Product",
+  "description": "Analytics de produto — PostHog, Mixpanel, eventos, funnels, cohorts, retencao, north star metric, OKRs e dashboards de produto.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/analytics-product/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/analytics-product/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 11025,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "ai-evaluation-benchmarking",
+  "display_name": "AI Evaluation Benchmarking",
+  "description": "Autonomous AI agent benchmark evaluation register: task completion rates, planning accuracy, tool invocation precision, and cost benchmarks.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/ai-agent-evaluation-benchmarking/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/ai-agent-evaluation-benchmarking/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 5915,
+  "truncated": false
+}

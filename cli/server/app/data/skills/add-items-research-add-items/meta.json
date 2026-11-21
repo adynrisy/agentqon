@@ -1,0 +1,11 @@
+{
+  "name": "add-items-research-add-items",
+  "display_name": "Add Items · Research Add Items",
+  "description": "向现有调研outline补充items（调研对象）。",
+  "repo": "Weizhena/Deep-Research-skills",
+  "path": "skills/research-zh/research-add-items/SKILL.md",
+  "url": "https://github.com/Weizhena/Deep-Research-skills/tree/HEAD/skills/research-zh/research-add-items/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 605,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "add-office365",
+  "display_name": "Add Office365",
+  "description": "Adds Office 365 Outlook connector to a Power Apps code app. Use when accessing calendars, sending emails, reading inbox, or managing Outlook events.",
+  "repo": "microsoft/power-platform-skills",
+  "path": "plugins/code-apps/skills/add-office365/SKILL.md",
+  "url": "https://github.com/microsoft/power-platform-skills/tree/HEAD/plugins/code-apps/skills/add-office365/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 5705,
+  "truncated": false
+}

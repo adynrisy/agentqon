@@ -1,0 +1,11 @@
+{
+  "name": "add-table-offline-profile",
+  "display_name": "Add Table Offline Profile",
+  "description": "Internal mobile-app workflow read and executed only by mobile orchestrators to add one Dataverse table to an existing Mobile Offline Profile.",
+  "repo": "microsoft/power-platform-skills",
+  "path": "plugins/mobile-apps/skills/add-table-to-offline-profile/SKILL.md",
+  "url": "https://github.com/microsoft/power-platform-skills/tree/HEAD/plugins/mobile-apps/skills/add-table-to-offline-profile/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 16996,
+  "truncated": false
+}

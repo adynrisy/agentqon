@@ -1,0 +1,11 @@
+{
+  "name": "add-sharepoint-mobile-apps",
+  "display_name": "Add Sharepoint · Mobile Apps",
+  "description": "Use when the user wants to read or write SharePoint lists, manage documents in a SharePoint document library, or create a new SharePoint list from a Power Apps mobile app.",
+  "repo": "microsoft/power-platform-skills",
+  "path": "plugins/mobile-apps/skills/add-sharepoint/SKILL.md",
+  "url": "https://github.com/microsoft/power-platform-skills/tree/HEAD/plugins/mobile-apps/skills/add-sharepoint/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 12836,
+  "truncated": false
+}

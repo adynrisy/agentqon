@@ -1,0 +1,11 @@
+{
+  "name": "add-teams",
+  "display_name": "Add Teams",
+  "description": "Adds Microsoft Teams connector to a Power Apps code app. Use when sending Teams messages, posting to channels, or integrating with Teams chat.",
+  "repo": "microsoft/power-platform-skills",
+  "path": "plugins/code-apps/skills/add-teams/SKILL.md",
+  "url": "https://github.com/microsoft/power-platform-skills/tree/HEAD/plugins/code-apps/skills/add-teams/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 1979,
+  "truncated": false
+}

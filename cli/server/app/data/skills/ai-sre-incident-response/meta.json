@@ -1,0 +1,11 @@
+{
+  "name": "ai-sre-incident-response",
+  "display_name": "AI SRE Incident Response",
+  "description": "Build AI-focused SRE incident response practices for LLM outages, degraded quality, runaway cost events, and safety regressions.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/ai-sre-incident-response/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/ai-sre-incident-response/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 12538,
+  "truncated": false
+}

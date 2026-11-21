@@ -1,0 +1,11 @@
+{
+  "name": "address-comments",
+  "display_name": "Address Comments",
+  "description": "Use when you need to address review or issue comments on an open GitHub Pull Request using the gh CLI.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/address-github-comments/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/address-github-comments/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 2386,
+  "truncated": false
+}

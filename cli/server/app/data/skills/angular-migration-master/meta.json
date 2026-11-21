@@ -1,0 +1,11 @@
+{
+  "name": "angular-migration-master",
+  "display_name": "Angular Migration · Master",
+  "description": "Master AngularJS to Angular migration, including hybrid apps, component conversion, dependency injection changes, and routing migration.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/angular-migration/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/angular-migration/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 11530,
+  "truncated": false
+}

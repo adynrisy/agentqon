@@ -1,0 +1,11 @@
+{
+  "name": "api-documentation",
+  "display_name": "API Documentation",
+  "description": "API documentation workflow for generating OpenAPI specs, creating developer guides, and maintaining comprehensive API documentation.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/api-documentation/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/api-documentation/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 4010,
+  "truncated": false
+}

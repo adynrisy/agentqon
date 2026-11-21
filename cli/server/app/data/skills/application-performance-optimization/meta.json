@@ -1,0 +1,11 @@
+{
+  "name": "application-performance-optimization",
+  "display_name": "Application Performance Optimization",
+  "description": "Optimize end-to-end application performance with profiling, observability, and backend/frontend tuning. Use when coordinating performance optimization across the stack.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/application-performance-performance-optimization/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/application-performance-performance-optimization/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 11332,
+  "truncated": false
+}

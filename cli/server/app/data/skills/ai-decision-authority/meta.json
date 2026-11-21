@@ -1,0 +1,11 @@
+{
+  "name": "ai-decision-authority",
+  "display_name": "AI Decision Authority",
+  "description": "Routes marketing and GTM decisions into three AI governance zones (AI-Primary, Collaborative, Human-Primary) by stakes and reversibility. Use when deciding which AI outputs need human review, whether an agent may act autonomously on a task, why AI adoption is collapsing under review requirements, or when auditing a list of workflows for safe autonomy. Triggers on 'should a human review this', 'can the agent just do this', 'AI governance policy', 'human in the loop'.",
+  "repo": "alirezarezvani/claude-skills",
+  "path": ".gemini/skills/ai-decision-authority/SKILL.md",
+  "url": "https://github.com/alirezarezvani/claude-skills/tree/HEAD/.gemini/skills/ai-decision-authority/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 5601,
+  "truncated": false
+}

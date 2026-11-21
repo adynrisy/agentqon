@@ -1,0 +1,11 @@
+{
+  "name": "antigravity-manager",
+  "display_name": "Antigravity Manager",
+  "description": "Configure and orchestrate parallel agents using the standalone Antigravity 2.0 Agent Manager and Antigravity IDE.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "skills/antigravity-agent-manager/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/skills/antigravity-agent-manager/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 5121,
+  "truncated": false
+}

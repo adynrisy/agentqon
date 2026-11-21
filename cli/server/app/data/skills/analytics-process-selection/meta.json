@@ -1,0 +1,11 @@
+{
+  "name": "analytics-process-selection",
+  "display_name": "Analytics Process Selection",
+  "description": "Use when a Process Mining overview, initial process selection, or an analytical follow-up needs routing.",
+  "repo": "microsoft/power-platform-skills",
+  "path": "plugins/process-intelligence/skills/analytics/SKILL.md",
+  "url": "https://github.com/microsoft/power-platform-skills/tree/HEAD/plugins/process-intelligence/skills/analytics/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 2348,
+  "truncated": false
+}

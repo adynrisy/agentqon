@@ -1,0 +1,11 @@
+{
+  "name": "api-testing-observability-mock",
+  "display_name": "API Testing Observability Mock",
+  "description": "You are an API mocking expert specializing in realistic mock services for development, testing, and demos. Design mocks that simulate real API behavior and enable parallel development.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/api-testing-observability-api-mock/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/api-testing-observability-api-mock/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 1981,
+  "truncated": false
+}

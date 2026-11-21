@@ -1,0 +1,11 @@
+{
+  "name": "actions-debugger",
+  "display_name": "Actions Debugger",
+  "description": "Specialized skill for diagnosing, analyzing, and fixing failing GitHub Actions workflows by parsing run logs and pipeline definitions.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/github-actions-debugger/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/github-actions-debugger/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 5658,
+  "truncated": false
+}

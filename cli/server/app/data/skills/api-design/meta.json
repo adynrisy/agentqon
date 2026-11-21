@@ -1,0 +1,11 @@
+{
+  "name": "api-design",
+  "display_name": "API Design",
+  "description": "Designs or reviews an HTTP API's shape before code: resources, versioning, pagination, idempotency, filtering. Use when asked to design an API or an endpoint.",
+  "repo": "khasky/awesome-agent-skills",
+  "path": "skills/awesome-api-design/SKILL.md",
+  "url": "https://github.com/khasky/awesome-agent-skills/tree/HEAD/skills/awesome-api-design/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 8411,
+  "truncated": false
+}

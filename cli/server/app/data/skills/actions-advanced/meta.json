@@ -1,0 +1,11 @@
+{
+  "name": "actions-advanced",
+  "display_name": "Actions Advanced",
+  "description": "Design, debug, and harden GitHub Actions CI/CD workflows, including reusable workflows, matrix builds, self-hosted runners, OIDC authentication, caching, environments, secrets, and release automation.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/github-actions-advanced/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/github-actions-advanced/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 4415,
+  "truncated": false
+}

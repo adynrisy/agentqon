@@ -1,0 +1,11 @@
+{
+  "name": "aegisops-ai",
+  "display_name": "Aegisops AI",
+  "description": "Autonomous DevSecOps & FinOps Guardrails. Guide to reviewing Linux kernel patches, Terraform cost changes and Kubernetes policy with a separately reviewed upstream tool and configured model.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/aegisops-ai/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/aegisops-ai/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 6025,
+  "truncated": false
+}

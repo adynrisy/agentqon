@@ -1,0 +1,11 @@
+{
+  "name": "animator-ai-tool",
+  "display_name": "Animator AI Tool",
+  "description": "AI-powered animation tool for creating motion in logos, UI, icons, and social media assets.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/magic-animator/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/magic-animator/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 2618,
+  "truncated": false
+}

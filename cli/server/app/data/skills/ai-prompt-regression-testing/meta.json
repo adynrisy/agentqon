@@ -1,0 +1,11 @@
+{
+  "name": "ai-prompt-regression-testing",
+  "display_name": "AI Prompt Regression Testing",
+  "description": "Use when comparing prompt changes against a fixed evaluation set: record actual model settings, required checks, missing results, judge limitations and case-level regression evidence.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/ai-prompt-regression-testing/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/ai-prompt-regression-testing/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 5906,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "advisor-strategic-decision",
+  "display_name": "Advisor Strategic Decision",
+  "description": "Executive leadership guidance for strategic decision-making, organizational development, and stakeholder management. Use when planning strategy, preparing board presentations, managing investors, developing organizational culture, making executive decisions, fundraising, or when user mentions CEO, strategic planning, board meetings, investor updates, organizational leadership, or executive strategy.",
+  "repo": "alirezarezvani/claude-skills",
+  "path": ".gemini/skills/ceo-advisor/SKILL.md",
+  "url": "https://github.com/alirezarezvani/claude-skills/tree/HEAD/.gemini/skills/ceo-advisor/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 7468,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "ai-development",
+  "display_name": "AI Development",
+  "description": "AI agent development workflow for building autonomous agents, multi-agent systems, and agent orchestration with CrewAI, LangGraph, and custom agents.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/ai-agent-development/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/ai-agent-development/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 4424,
+  "truncated": false
+}

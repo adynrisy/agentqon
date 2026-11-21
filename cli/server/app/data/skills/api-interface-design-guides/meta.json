@@ -1,0 +1,11 @@
+{
+  "name": "api-interface-design-guides",
+  "display_name": "API Interface Design · Guides",
+  "description": "Guides stable API and interface design. Use when designing APIs, module boundaries, or any public interface. Use when creating REST or GraphQL endpoints, defining type contracts between modules, or establishing boundaries between frontend and backend.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/api-and-interface-design/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/api-and-interface-design/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 10376,
+  "truncated": false
+}

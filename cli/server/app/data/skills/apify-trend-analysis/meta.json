@@ -1,0 +1,11 @@
+{
+  "name": "apify-trend-analysis",
+  "display_name": "Apify Trend Analysis",
+  "description": "Discover and track emerging trends across Google Trends, Instagram, Facebook, YouTube, and TikTok to inform content strategy.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/apify-trend-analysis/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/apify-trend-analysis/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 4511,
+  "truncated": false
+}

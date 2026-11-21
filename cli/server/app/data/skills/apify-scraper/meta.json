@@ -1,0 +1,11 @@
+{
+  "name": "apify-scraper",
+  "display_name": "Apify Scraper",
+  "description": "AI-driven data extraction from 55+ Actors across all major platforms. This skill automatically selects the best Actor for your task.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/apify-ultimate-scraper/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/apify-ultimate-scraper/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 10716,
+  "truncated": false
+}

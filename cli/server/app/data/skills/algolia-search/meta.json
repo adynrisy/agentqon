@@ -1,0 +1,11 @@
+{
+  "name": "algolia-search",
+  "display_name": "Algolia Search",
+  "description": "Expert patterns for Algolia search implementation, indexing strategies, React InstantSearch, and relevance tuning",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/algolia-search/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/algolia-search/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 1239,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "adaptyv-api-python",
+  "display_name": "Adaptyv API Python",
+  "description": "Uses the Adaptyv Bio Foundry API and Python SDK to design protein characterization experiments, estimate costs, submit sequences, monitor laboratory progress, and retrieve results. Applies to Adaptyv Foundry, its target catalog, binding screening and affinity assays, thermostability, expression, fluorescence, epitope binning, and enzyme activity workflows, including code using adaptyv or FoundryClient.",
+  "repo": "K-Dense-AI/scientific-agent-skills",
+  "path": "skills/adaptyv/SKILL.md",
+  "url": "https://github.com/K-Dense-AI/scientific-agent-skills/tree/HEAD/skills/adaptyv/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 12721,
+  "truncated": false
+}

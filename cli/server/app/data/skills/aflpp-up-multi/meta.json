@@ -1,0 +1,11 @@
+{
+  "name": "aflpp-up-multi",
+  "display_name": "Aflpp Up Multi",
+  "description": "Sets up and runs AFL++ for multi-core fuzzing of C/C++ projects built with afl-clang-fast or afl-gcc-fast. Covers instrumentation modes, parallel main and secondary campaigns, persistent mode, corpus minimization, and crash triage. Use when scaling fuzzing across cores, fuzzing a mature C/C++ codebase, reading the afl-fuzz status screen, or moving on after libFuzzer has plateaued.",
+  "repo": "trailofbits/skills",
+  "path": "plugins/testing-handbook-skills/skills/aflpp/SKILL.md",
+  "url": "https://github.com/trailofbits/skills/tree/HEAD/plugins/testing-handbook-skills/skills/aflpp/SKILL.md",
+  "license": "CC",
+  "body_bytes": 22021,
+  "truncated": false
+}

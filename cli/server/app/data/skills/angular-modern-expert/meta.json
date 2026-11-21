@@ -1,0 +1,11 @@
+{
+  "name": "angular-modern-expert",
+  "display_name": "Angular Modern Expert",
+  "description": "Modern Angular (v20+) expert with deep knowledge of Signals, Standalone Components, Zoneless applications, SSR/Hydration, and reactive patterns.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/angular/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/angular/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 1572,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "ai-shaped-readiness-advisor",
+  "display_name": "AI Shaped Readiness Advisor",
+  "description": "Assess whether your product work is AI-first or AI-shaped. Use when evaluating AI maturity and choosing the next team capability to build.",
+  "repo": "deanpeters/Product-Manager-Skills",
+  "path": "skills/ai-shaped-readiness-advisor/SKILL.md",
+  "url": "https://github.com/deanpeters/Product-Manager-Skills/tree/HEAD/skills/ai-shaped-readiness-advisor/SKILL.md",
+  "license": "CC",
+  "body_bytes": 42422,
+  "truncated": false
+}

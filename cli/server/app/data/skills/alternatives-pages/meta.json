@@ -1,0 +1,11 @@
+{
+  "name": "alternatives-pages",
+  "display_name": "Alternatives Pages",
+  "description": "Create \"[Competitor] alternative\" and comparison pages for developer tools. Build honest, high-converting comparison content that ranks for competitive search terms.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/alternatives-pages/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/alternatives-pages/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 10996,
+  "truncated": false
+}

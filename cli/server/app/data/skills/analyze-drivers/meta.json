@@ -1,0 +1,11 @@
+{
+  "name": "analyze-drivers",
+  "display_name": "Analyze Drivers",
+  "description": "Use when seeking explanatory attributes or hypotheses for differences in process duration, waiting, utilization or rework.",
+  "repo": "microsoft/power-platform-skills",
+  "path": "plugins/process-intelligence/skills/analyze-drivers/SKILL.md",
+  "url": "https://github.com/microsoft/power-platform-skills/tree/HEAD/plugins/process-intelligence/skills/analyze-drivers/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 3422,
+  "truncated": false
+}

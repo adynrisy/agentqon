@@ -1,0 +1,11 @@
+{
+  "name": "animation",
+  "display_name": "Animation",
+  "description": "Three.js animation - keyframe animation, skeletal animation, morph targets, animation mixing. Use when animating objects, playing GLTF animations, creating procedural motion, or blending animations.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/threejs-animation/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/threejs-animation/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 959,
+  "truncated": false
+}

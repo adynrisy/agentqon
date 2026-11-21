@@ -1,0 +1,11 @@
+{
+  "name": "ai-image-realism",
+  "display_name": "AI Image Realism",
+  "description": "Install and use the official AI Image Realism package, pinned by digest, for paid hosted work on the Beatra service.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/ai-image-realism/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/ai-image-realism/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 14573,
+  "truncated": false
+}

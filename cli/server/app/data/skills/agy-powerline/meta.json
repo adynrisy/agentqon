@@ -1,0 +1,11 @@
+{
+  "name": "agy-powerline",
+  "display_name": "Agy Powerline",
+  "description": "Install, check and restyle the agy-powerline statusline for Antigravity CLI (agy): quotas, model, context window and git on agy's status bar.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "skills/agy-powerline/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/skills/agy-powerline/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 7793,
+  "truncated": false
+}

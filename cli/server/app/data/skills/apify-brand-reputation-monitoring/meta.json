@@ -1,0 +1,11 @@
+{
+  "name": "apify-brand-reputation-monitoring",
+  "display_name": "Apify Brand Reputation Monitoring",
+  "description": "Scrape reviews, ratings, and brand mentions from multiple platforms using Apify Actors.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/apify-brand-reputation-monitoring/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/apify-brand-reputation-monitoring/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 4779,
+  "truncated": false
+}

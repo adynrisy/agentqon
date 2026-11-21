@@ -1,0 +1,11 @@
+{
+  "name": "add-fields",
+  "display_name": "Add Fields",
+  "description": "Add field definitions to existing research outline.",
+  "repo": "Weizhena/Deep-Research-skills",
+  "path": "skills/research-codex-en/research-add-fields/SKILL.md",
+  "url": "https://github.com/Weizhena/Deep-Research-skills/tree/HEAD/skills/research-codex-en/research-add-fields/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 758,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "adjudicate-regression",
+  "display_name": "Adjudicate Regression",
+  "description": "Use when deciding whether source and live reproduction evidence establish a new regression or an exclusion.",
+  "repo": "trailofbits/skills",
+  "path": "plugins/regression-hunt/skills/adjudicate-regression/SKILL.md",
+  "url": "https://github.com/trailofbits/skills/tree/HEAD/plugins/regression-hunt/skills/adjudicate-regression/SKILL.md",
+  "license": "CC",
+  "body_bytes": 2485,
+  "truncated": false
+}

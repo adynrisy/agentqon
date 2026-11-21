@@ -1,0 +1,11 @@
+{
+  "name": "anti-sleep-ops-setup",
+  "display_name": "Anti Sleep · Ops Setup",
+  "description": "Keep a Mac awake for a set duration or while a process runs. Use only when the user explicitly invokes /anti-sleep.",
+  "repo": "davidondrej/skills",
+  "path": "skills/ops-and-setup/anti-sleep/SKILL.md",
+  "url": "https://github.com/davidondrej/skills/tree/HEAD/skills/ops-and-setup/anti-sleep/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 2605,
+  "truncated": false
+}

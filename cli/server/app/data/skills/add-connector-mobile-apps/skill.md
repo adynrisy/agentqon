@@ -1,0 +1,299 @@
+<!--
+Source: microsoft/power-platform-skills
+Path: plugins/mobile-apps/skills/add-connector/SKILL.md
+License: MIT
+URL: https://github.com/microsoft/power-platform-skills/tree/HEAD/plugins/mobile-apps/skills/add-connector/SKILL.md
+-->
+
+> **Plugin check**: Run `node "${PLUGIN_ROOT}/scripts/check-version.js"` - if it outputs a message, show it to the user before proceeding.
+
+**📋 Shared instructions: [shared-instructions.md](${PLUGIN_ROOT}/shared/shared-instructions.md)** | **Connector reference: [connector-reference.md](${PLUGIN_ROOT}/shared/connector-reference.md)** — read both first.
+
+# Add Connector (Generic)
+
+**App root:** before any project read or command, execute
+[app-working-directory.md](${PLUGIN_ROOT}/shared/references/app-working-directory.md).
+Use its resolved absolute `working_dir` for every shell call and file tool,
+including referenced commands and delegated skills; never inherit a prior `cd`.
+
+**Entry routing:** use the shared [App feature entry points](../../shared/shared-instructions.md#app-feature-entry-points)
+preflight before the workflow below.
+
+**Invocation scope:** follow [Data-source invocation scope](../../shared/shared-instructions.md#data-source-invocation-scope)
+before the workflow below. This skill owns connector bindings and generated
+services, not a full-app plan or screen implementation.
+
+For a standalone request, approve the current data-source delta before each
+mutation: the exact connector, environment, binding, and dataset/table or
+procedure as applicable. Connection creation needs explicit approval too.
+An approved child reuses only its owner's current scope; a missing choice may
+be resolved read-only, but a changed scope returns to that owner.
+For `--plan-only` or a planning-phase handoff, return the proposed bindings and
+unresolved choices before connection creation or `pa app add data-source`.
+Do not update the app plan, memory-bank, configuration, or generated files on
+that path; missing discovery access is not permission to create a connection.
+
+Action connectors do not imply Dataverse Data Model changes.
+
+**Cloud flows are not supported by mobile skills.** For a request to add,
+refresh, invoke, or remove a cloud-flow binding, report
+`BLOCKED: cloud-flow integration is not supported` and return before discovery
+or mutation. Do not treat a flow as a connector data source.
+
+**Removal branch:** after resolving invocation scope, if `--remove` or the approved scope
+requests removal, execute
+[data-source-removal.md](../../shared/references/data-source-removal.md) and return.
+Do not run Steps 1-6, connection creation, or `add-data-source` for a removal.
+
+**Refresh branch:** after resolving invocation scope, `--refresh` or an approved retained-source
+refresh executes [Refresh a retained source](../../shared/references/data-source-removal.md#refresh-a-retained-source)
+and returns before Steps 1-6. Preserve the exact `--data-source-name` and approved
+binding identity; do not create connections or run `add-data-source`.
+
+Fallback skill for any connector not covered by a dedicated `/add-*` skill. For common connectors, prefer the dedicated skills:
+
+- `/add-dataverse` — Dataverse tables
+- `/add-sharepoint` — SharePoint Online
+
+(More dedicated skills will land in v1: `/add-teams`, `/add-excel`, `/add-onedrive`, `/add-azuredevops`, `/add-office365`.)
+
+The native host runtime (`@microsoft/power-apps-native-host`) handles connector routing, connection resolution, and OAuth consent through `PowerAppsProvider` in `app/_layout.tsx` — no separate executor wiring is needed.
+
+## Workflow
+
+1. Check Memory Bank → 2. Identify Connector → 3. Add Connector → 4. Inspect & Configure → 5. Build → 6. Update Memory Bank
+
+---
+
+### Step 1 — Check Memory Bank
+
+**Telemetry checkpoint: `validate_connector_project`**
+
+Check for `memory-bank.md` per [shared-instructions.md](${PLUGIN_ROOT}/shared/shared-instructions.md).
+
+Also confirm we're inside a Power Apps mobile app:
+
+```bash
+cd -- '<working_dir>' || { echo "BLOCKED: cannot enter working_dir" >&2; exit 1; }
+if [ ! -f power.config.json ] || [ ! -f app.config.js ]; then
+  echo "BLOCKED: working_dir is not an initialized app" >&2
+  exit 1
+fi
+```
+
+If either is missing, instruct the user to run `/create-mobile-app` first and stop.
+
+### Step 2 — Identify Connector
+
+**Telemetry checkpoint: `resolve_connector_request`**
+
+**If `$ARGUMENTS` is provided or the caller already specified the connector**, use it directly and skip the question below.
+
+Otherwise, ask the user which connector they want to add. Browse available connectors: [Connector Reference](https://learn.microsoft.com/en-us/connectors/connector-reference/).
+
+Classify the requested operation before matching the delegation table. Dataverse
+actions/functions follow the discovery-only branch below directly, skipping
+connection lookup and data-source generation, never the table CRUD workflow.
+If the operation is ambiguous, ask before delegating.
+Use aliases only for routing; pass the exact discovered API ID to CLI commands.
+
+**Dataverse actions/functions: discover and return here.**
+
+```bash
+cd -- '<working_dir>' || { echo "BLOCKED: cannot enter working_dir" >&2; exit 1; }
+$PA app find-dataverse-api --search '<operation-name>' --json
+```
+
+Surface the matching metadata and STOP this leaf with a clear note that this
+plugin adds Dataverse table CRUD, not actions/functions. Do not enter Step 3,
+invoke `/list-connections`, or generate a table service on this branch.
+If the user actually needs table CRUD, use the delegation table below.
+
+**Then check if this operation has a dedicated skill. If it does, delegate and STOP:**
+
+| Connector API name      | Delegate to        |
+| ----------------------- | ------------------ |
+| `sharepointonline`, `shared_sharepointonline` | `/add-sharepoint` |
+| `dataverse`, `commondataservice`, `shared_commondataservice`, `commondataserviceforapps`, `shared_commondataserviceforapps` (table CRUD only) | `/add-dataverse` |
+
+Invoke the appropriate skill with the same `$ARGUMENTS`, absolute `working_dir`,
+current request, owner/phase/scope, and proposal-only mode. **Do not continue this
+skill's workflow** or infer execution approval from this routing decision.
+
+Common connector API names:
+
+- `sharepointonline`, `teams`, `excelonlinebusiness`, `onedriveforbusiness`
+- `azuredevops`, `azureblob`, `azurequeues`
+- `office365`, `office365users`, `office365groups`
+- `sql`, `commondataservice`
+
+### Step 3 — Add Connector
+
+**Telemetry checkpoint: `generate_connector_data_source`**
+
+**First, preserve or resolve the connection binding** using
+[connector-reference.md](../../shared/connector-reference.md#step-1--get-a-connection):
+
+- Supplied `--connection-id` (or approved caller `connectionId`): reuse that exact
+  ID for the confirmed connector/environment; skip `/list-connections` and creation.
+- Supplied `--connection-ref` (or approved caller `connectionRef`): preserve that
+  reference for generation; skip `/list-connections` and creation. Do not replace
+  it with a newly selected ID.
+- Missing binding only: invoke `/list-connections` with the connector API ID
+  and current scoped context to resolve the missing value. Conflicting, blank,
+  or ambiguous supplied values return to the owner instead of creating a fallback.
+
+The commands below show the connection-ID path. For a reference binding,
+replace `--connection-id <connectionId>` with
+`--connection-ref '<connectionRef>'` on `add-data-source` only. Reuse supplied
+dataset/table/procedure choices and skip their discovery. If discovery is still
+needed and requires an ID, obtain the backing ID for the approved reference or
+the missing concrete choices; do not create another connection or pass an
+unsupported reference flag to a picker command.
+
+If creation was needed but cannot complete in the CLI, direct the user to the
+environment-specific Connections URL from `power.config.json` `environmentId`:
+`https://make.powerapps.com/environments/<environment-id>/connections` → **+ New connection** → search for the connector → Create.
+
+**Classify the connector before running `pa app add data-source`:**
+
+| Connector shape | Examples | Required discovery | Add command |
+| --- | --- | --- | --- |
+| Action-style connector | Teams, Office 365 Users, Outlook, Azure DevOps | None after connection lookup | `$PA app add data-source --connector <apiId> --connection-id <connectionId>` |
+| Table-based connector | Excel Online, OneDrive for Business, Azure Blob, SQL, SharePoint if not delegated | `connection list-datasets`, then `connection list-tables` | `$PA app add data-source --connector <apiId> --connection-id <connectionId> --dataset '<dataset>' --table '<table>'` |
+| SQL stored procedure | SQL Server | `connection list-datasets`, then `connection list-procedures` if needed | `$PA app add data-source --connector shared_sql --connection-id <connectionId> --dataset '<database>' --procedure '<procedure>'` |
+
+**For action-style connectors, print before starting:**
+> "→ Running `pa app add data-source` for <connector>. ~10–30 seconds (writes generated services + connector schemas)."
+
+Then run:
+
+```bash
+cd -- '<working_dir>' || { echo "BLOCKED: cannot enter working_dir" >&2; exit 1; }
+$PA app add data-source --connector <apiId> --connection-id <connectionId>
+```
+
+**For table-based connectors, discover datasets and tables first:**
+
+```bash
+cd -- '<working_dir>' || { echo "BLOCKED: cannot enter working_dir" >&2; exit 1; }
+$PA connection list-datasets --connector <apiId> --connection-id <connectionId> --json
+$PA connection list-tables --connector <apiId> --connection-id <connectionId> --dataset '<dataset>' --json
+```
+
+Present the datasets/tables to the user if they did not specify them. Approve
+the exact selected bindings before generation, or reuse matching current owner
+approval; proposal-only discovery returns without adding sources.
+Add one data source per approved table:
+
+```bash
+cd -- '<working_dir>' || { echo "BLOCKED: cannot enter working_dir" >&2; exit 1; }
+$PA app add data-source --connector <apiId> --connection-id <connectionId> --dataset '<dataset>' --table '<table>'
+```
+
+**For SQL stored procedures, discover procedures only when the user asks to invoke a stored procedure rather than a table:**
+
+```bash
+cd -- '<working_dir>' || { echo "BLOCKED: cannot enter working_dir" >&2; exit 1; }
+$PA connection list-procedures --connection-id <connectionId> --dataset '<database>' --json
+```
+
+Approve the exact procedure binding before generation if it was not already in
+the current approved scope; proposal-only discovery returns without adding it.
+
+```bash
+cd -- '<working_dir>' || { echo "BLOCKED: cannot enter working_dir" >&2; exit 1; }
+$PA app add data-source --connector shared_sql --connection-id <connectionId> --dataset '<database>' --procedure '<procedure>'
+```
+
+**Parameter reference:**
+
+- `--connector` — connector API ID (often `shared_<connector>`, e.g., `shared_office365users`). Use the exact value provided by the caller or connector docs.
+- `--connection-id` / `-c` — required for non-Dataverse connectors unless using `--connection-ref`. Get from `pa connection create`, the maker portal, or caller context.
+- `--connection-ref` — optional connection reference name when adding into a solution-aware app.
+- `--dataset` / `-d` — required for table-based datasources (for example SharePoint site URL, Excel file/location, SQL database).
+- `--table` — table/list/resource name for table-based datasources.
+- `--procedure` — SQL stored procedure name when adding a stored procedure instead of a table.
+- `--non-interactive` — use only on commands whose required options are fully supplied and whose implementation supports non-interactive omission of optional prompts. Do not add `--environment-id` to app-root verbs once `power.config.json` exists.
+- `--solution-id` / `-s` — optional solution identifier when the data source should be added to a specific solution.
+
+### Step 4 — Inspect & Configure
+
+After adding, inspect the generated files. **Generated service files can be very large** — use `Grep` to find specific methods instead of reading the entire file:
+
+```
+Grep pattern="async \w+" path="<working_dir>/src/generated/services/<Connector>Service.ts"
+```
+
+Files to check:
+
+- `src/generated/services/<Connector>Service.ts` — available operations and their parameters
+- `src/generated/models/<Connector>Model.ts` — TypeScript interfaces (if generated)
+- `.power/schemas/<connector>/` — connector schema and configuration
+
+For each method the user needs:
+
+1. Grep for the method name to find its signature
+2. Read just that method's section (use `offset` and `limit` parameters on Read)
+3. Identify required vs optional parameters and response type
+
+Return the needed method signatures and usage guidance to the user or current
+owner. Do not change screens or launch another app workflow. Report generated
+service availability separately from consumer integration.
+
+### Step 5 — Build
+
+**Telemetry checkpoint: `validate_connector_integration`**
+
+**Print before starting:**
+> "→ Regenerating connector schemas + running tsc to verify the new connector wires in cleanly (~10–20 seconds)."
+
+`pa app add data-source` (Step 3) wrote new files into `.power/schemas/<connector>/`. The `connectorSchemas.ts` consumed by `app/_layout.tsx` is now stale — regenerate it before type-checking so the new connector is wired into the runtime schema map:
+
+```bash
+cd -- '<working_dir>' || { echo "BLOCKED: cannot enter working_dir" >&2; exit 1; }
+npm run generate-schemas
+npx --no-install tsc --noEmit
+```
+
+Fix TypeScript errors before proceeding. If a generated service requires a missing
+dependency, inspect its package contents before choosing a repair. Do not install
+native packages absent from the template. Return a JS-only dependency requirement
+to the orchestrator for the approved exact-version
+[JavaScript dependency plan](../../shared/references/javascript-dependency-planning.md);
+for a standalone call obtain that approval before installation. Do not
+install an unplanned package merely to silence TypeScript.
+
+Do NOT deploy yet — that's `/deploy`'s job after all data sources are added.
+
+### Step 6 — Update Memory Bank
+
+Update `memory-bank.md` with: connector added, configured operations, build status.
+
+## Remove a data source
+
+Apply the data-source invocation scope first for removals too. Identify consuming
+screens/services before deleting a dependency. Standalone removal must stop if
+it would leave broken consumers; report the required consumer work separately
+rather than automatically invoking another workflow.
+
+Read and execute
+[data-source-removal.md](../../shared/references/data-source-removal.md) for the
+supported command, scope preflight, generated/config cleanup checks, and
+inventory reconciliation. This also covers sources originally added outside
+this skill; use the actual registered identity rather than assuming its name.
+
+## Runtime connector handling
+
+The native host runtime handles all connector routing automatically via `PowerAppsProvider` in `app/_layout.tsx`. When a screen calls a generated service method:
+
+1. `PowerAppsProvider` resolves the connection from `connectionReferences` in `power.config.json`
+2. If the connection requires OAuth consent, `ConnectionSetupScreen` is shown automatically
+3. `NativePowerAppsBridge` dispatches the call with the correct auth token
+
+No separate executor or provider wiring is needed — Dataverse and non-Dataverse connectors use the same unified pipeline.
+
+## Notes
+
+- Generated files in `src/generated/` are produced directly by `pa app add data-source`. Differences in behavior come from runtime wiring in this mobile plugin.
+- This skill never modifies `app.config.js` or `playerConfig.ts` — connector discovery is dynamic at runtime.

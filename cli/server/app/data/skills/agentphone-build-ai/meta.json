@@ -1,0 +1,11 @@
+{
+  "name": "agentphone-build-ai",
+  "display_name": "Agentphone Build AI",
+  "description": "Build AI phone agents with AgentPhone API. Use when the user wants to make phone calls, send/receive SMS, manage phone numbers, create voice agents, set up webhooks, or check usage — anything related to telephony, phone numbers, or voice AI.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/agentphone/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/agentphone/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 2945,
+  "truncated": false
+}

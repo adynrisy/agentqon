@@ -1,0 +1,11 @@
+{
+  "name": "agy-coding-task",
+  "display_name": "Agy Coding Task",
+  "description": "Delegate a coding task to the Google Antigravity CLI (`agy`) as a background implementer, then review its diff and land it yourself. Use this whenever the user wants to hand implementation work to Antigravity or agy - phrasings like \"have Antigravity do X\", \"delegate this to agy\", \"run it through agy\", or \"use Antigravity to implement/fix/refactor\" - or wants to run a queue of coding tasks through agy while staying the reviewer. DO NOT USE for tasks small enough to do inline, or when the user wants the code written directly without delegating.",
+  "repo": "amElnagdy/delegate-skills",
+  "path": "skills/agy-delegate/SKILL.md",
+  "url": "https://github.com/amElnagdy/delegate-skills/tree/HEAD/skills/agy-delegate/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 9956,
+  "truncated": false
+}

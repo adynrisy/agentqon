@@ -1,0 +1,11 @@
+{
+  "name": "agenttrace-session-audit",
+  "display_name": "Agenttrace Session Audit",
+  "description": "Audit local AI coding-agent sessions with agenttrace for cost, tool failures, latency, anomalies, health, diffs, and CI gates.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/agenttrace-session-audit/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/agenttrace-session-audit/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 5670,
+  "truncated": false
+}

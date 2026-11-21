@@ -1,0 +1,11 @@
+{
+  "name": "advanced-evaluation",
+  "display_name": "Advanced Evaluation",
+  "description": "Design LLM-as-judge rubrics, direct scores and pairwise comparisons. Use for judge models, evals, position bias and calibration against human labels.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/advanced-evaluation/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/advanced-evaluation/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 16776,
+  "truncated": false
+}

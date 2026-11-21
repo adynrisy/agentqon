@@ -1,0 +1,11 @@
+{
+  "name": "add-sharepoint",
+  "display_name": "Add Sharepoint",
+  "description": "Adds SharePoint Online connector to a Power Apps code app. Use when reading lists, managing documents, or integrating with SharePoint sites. Can also create new SharePoint lists.",
+  "repo": "microsoft/power-platform-skills",
+  "path": "plugins/code-apps/skills/add-sharepoint/SKILL.md",
+  "url": "https://github.com/microsoft/power-platform-skills/tree/HEAD/plugins/code-apps/skills/add-sharepoint/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 7456,
+  "truncated": false
+}

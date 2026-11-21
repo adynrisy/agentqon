@@ -1,0 +1,11 @@
+{
+  "name": "add-data-source-add-datasource",
+  "display_name": "Add Data Source · Add Datasource",
+  "description": "Adds a data source or connector to a Power Apps code app. Asks what the user wants to accomplish and routes to the appropriate specialized skill.",
+  "repo": "microsoft/power-platform-skills",
+  "path": "plugins/code-apps/skills/add-datasource/SKILL.md",
+  "url": "https://github.com/microsoft/power-platform-skills/tree/HEAD/plugins/code-apps/skills/add-datasource/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 2901,
+  "truncated": false
+}

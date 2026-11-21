@@ -1,0 +1,11 @@
+{
+  "name": "appdeploy-deploy-web",
+  "display_name": "Appdeploy Deploy Web",
+  "description": "Deploy web apps with backend APIs, database, and file storage. Use when the user asks to deploy or publish a website or web app and wants a public URL. Uses HTTP API via curl.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/appdeploy/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/appdeploy/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 8990,
+  "truncated": false
+}

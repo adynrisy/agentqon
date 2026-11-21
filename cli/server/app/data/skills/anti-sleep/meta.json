@@ -1,0 +1,11 @@
+{
+  "name": "anti-sleep",
+  "display_name": "Anti Sleep",
+  "description": "Keep a Mac awake with caffeinate during long builds, downloads, or supervised automation runs.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/anti-sleep/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/anti-sleep/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 3194,
+  "truncated": false
+}

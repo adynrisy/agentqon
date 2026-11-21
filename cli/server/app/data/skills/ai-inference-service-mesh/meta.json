@@ -1,0 +1,11 @@
+{
+  "name": "ai-inference-service-mesh",
+  "display_name": "AI Inference Service Mesh",
+  "description": "Use verified service mesh patterns for AI inference traffic management, mTLS, canary releases, policy enforcement, and cross-cluster resilience.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/ai-inference-service-mesh/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/ai-inference-service-mesh/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 10957,
+  "truncated": false
+}

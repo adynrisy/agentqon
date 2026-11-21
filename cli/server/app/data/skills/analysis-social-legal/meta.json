@@ -1,0 +1,11 @@
+{
+  "name": "analysis-social-legal",
+  "display_name": "Analysis Social Legal",
+  "description": "Analyze political, economic, social, technological, environmental, and legal forces. Use when external market shifts could materially affect a product, roadmap, or strategy.",
+  "repo": "deanpeters/Product-Manager-Skills",
+  "path": "skills/pestel-analysis/SKILL.md",
+  "url": "https://github.com/deanpeters/Product-Manager-Skills/tree/HEAD/skills/pestel-analysis/SKILL.md",
+  "license": "CC",
+  "body_bytes": 13337,
+  "truncated": false
+}

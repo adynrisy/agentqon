@@ -1,0 +1,11 @@
+{
+  "name": "add-pdf-report",
+  "display_name": "Add PDF Report",
+  "description": "Internal implementation skill invoked by /add-native for app-generated PDF report workflows using expo-print and, when present, expo-sharing.",
+  "repo": "microsoft/power-platform-skills",
+  "path": "plugins/mobile-apps/skills/add-native/add-pdf-report/SKILL.md",
+  "url": "https://github.com/microsoft/power-platform-skills/tree/HEAD/plugins/mobile-apps/skills/add-native/add-pdf-report/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 13031,
+  "truncated": false
+}

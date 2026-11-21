@@ -1,0 +1,11 @@
+{
+  "name": "ai-dev-jobs-mcp",
+  "display_name": "AI Dev Jobs MCP",
+  "description": "Search indexed AI and ML jobs, inspect listings and employers, match roles, and view salary and market stats via AI Dev Jobs MCP",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/ai-dev-jobs-mcp/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/ai-dev-jobs-mcp/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 6035,
+  "truncated": false
+}

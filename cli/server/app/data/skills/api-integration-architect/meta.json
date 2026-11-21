@@ -1,0 +1,11 @@
+{
+  "name": "api-integration-architect",
+  "display_name": "API Integration Architect",
+  "description": "Design, implement, debug, and optimize API integrations with expert-level patterns for REST, GraphQL, webhooks, and authentication flows.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/api-integration-architect/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/api-integration-architect/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 8687,
+  "truncated": false
+}

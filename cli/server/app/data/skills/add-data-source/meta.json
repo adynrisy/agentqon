@@ -1,0 +1,11 @@
+{
+  "name": "add-data-source",
+  "display_name": "Add Data Source",
+  "description": "Guide the user to add a data source, connection, or API connector to a Canvas App via Power Apps Studio, then verify and continue. USE WHEN the user asks to add a data source, add a connection, add an API, add a connector, connect to SharePoint / Dataverse / SQL / Excel / OneDrive / Teams / Office 365, or any similar request to make new data available to the app. DO NOT USE WHEN the user is asking to list or describe existing data sources — call list_data_sources or list_apis directly instead.",
+  "repo": "microsoft/power-platform-skills",
+  "path": "plugins/canvas-apps/skills/add-data-source/SKILL.md",
+  "url": "https://github.com/microsoft/power-platform-skills/tree/HEAD/plugins/canvas-apps/skills/add-data-source/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 3639,
+  "truncated": false
+}

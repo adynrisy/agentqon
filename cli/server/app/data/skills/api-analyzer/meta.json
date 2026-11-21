@@ -1,0 +1,11 @@
+{
+  "name": "api-analyzer",
+  "display_name": "API Analyzer",
+  "description": "Validates whether an API request is correct based on provided inputs (method, URL, headers, body, auth, query params).",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/api-analyzer/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/api-analyzer/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 3380,
+  "truncated": false
+}

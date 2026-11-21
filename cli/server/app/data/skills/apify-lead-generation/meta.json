@@ -1,0 +1,11 @@
+{
+  "name": "apify-lead-generation",
+  "display_name": "Apify Lead Generation",
+  "description": "Scrape leads from multiple platforms using Apify Actors.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/apify-lead-generation/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/apify-lead-generation/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 4713,
+  "truncated": false
+}

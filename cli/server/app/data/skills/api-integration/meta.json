@@ -1,0 +1,11 @@
+{
+  "name": "api-integration",
+  "display_name": "API Integration",
+  "description": "Designs event-driven architectures, webhook systems, API chaining flows, ETL pipelines, and integration patterns between services.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/api-integration/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/api-integration/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 4658,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "apify-youtube-transcript-scraper",
+  "display_name": "Apify Youtube Transcript Scraper",
+  "description": "Get YouTube captions, timestamped quotations, SRT/VTT and translated transcripts for videos, channels and playlists through the harshmaur/youtube-transcript-scraper Apify Actor.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/apify-youtube-transcript-scraper/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/apify-youtube-transcript-scraper/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 8406,
+  "truncated": false
+}

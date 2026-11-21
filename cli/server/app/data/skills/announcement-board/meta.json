@@ -1,0 +1,11 @@
+{
+  "name": "announcement-board",
+  "display_name": "Announcement Board",
+  "description": "Announcement board: author, category, department, priority, audience, publish and expiry dates, status and acknowledgements, as CSV, SQL, JSON Schema or Notion on request. Use for internal notices.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/announcement-board/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/announcement-board/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 13288,
+  "truncated": false
+}
