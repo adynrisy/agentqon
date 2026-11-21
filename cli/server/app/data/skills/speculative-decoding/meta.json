@@ -1,0 +1,11 @@
+{
+  "name": "speculative-decoding",
+  "display_name": "Speculative Decoding",
+  "description": "Accelerate LLM inference using speculative decoding, Medusa multiple heads, and lookahead decoding techniques. Use when optimizing inference speed (1.5-3.6× speedup), reducing latency for real-time applications, or deploying models with limited compute. Covers draft models, tree-based attention, Jacobi iteration, parallel token generation, and production deployment strategies.",
+  "repo": "Orchestra-Research/AI-Research-SKILLs",
+  "path": "19-emerging-techniques/speculative-decoding/SKILL.md",
+  "url": "https://github.com/Orchestra-Research/AI-Research-SKILLs/tree/HEAD/19-emerging-techniques/speculative-decoding/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 13363,
+  "truncated": false
+}

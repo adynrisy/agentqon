@@ -1,0 +1,11 @@
+{
+  "name": "spark-optimization-data-engineering",
+  "display_name": "Spark Optimization · Data Engineering",
+  "description": "Optimize Apache Spark jobs with partitioning, caching, shuffle optimization, and memory tuning. Use when improving Spark performance, debugging slow jobs, or scaling data processing pipelines.",
+  "repo": "wshobson/agents",
+  "path": "plugins/data-engineering/skills/spark-optimization/SKILL.md",
+  "url": "https://github.com/wshobson/agents/tree/HEAD/plugins/data-engineering/skills/spark-optimization/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 2920,
+  "truncated": false
+}

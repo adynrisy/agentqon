@@ -1,0 +1,11 @@
+{
+  "name": "story-bible-continuity",
+  "display_name": "Story Bible Continuity",
+  "description": "Deterministic continuity check for long manuscripts against a story bible: name drift, age arithmetic, era anachronisms, unpaid foreshadowing, POV leaks. Use for continuity checks on novels or serials.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/story-bible-continuity/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/story-bible-continuity/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 6120,
+  "truncated": false
+}

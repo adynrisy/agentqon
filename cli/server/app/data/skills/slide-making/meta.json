@@ -1,0 +1,11 @@
+{
+  "name": "slide-making",
+  "display_name": "Slide Making",
+  "description": "Implement single-slide PowerPoint pages with PptxGenJS. Use when writing or fixing slide JS files: dimensions, positioning, text/image/chart APIs, styling rules, and export expectations for native .pptx output.",
+  "repo": "MiniMax-AI/skills",
+  "path": "plugins/pptx-plugin/skills/slide-making-skill/SKILL.md",
+  "url": "https://github.com/MiniMax-AI/skills/tree/HEAD/plugins/pptx-plugin/skills/slide-making-skill/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 7000,
+  "truncated": false
+}

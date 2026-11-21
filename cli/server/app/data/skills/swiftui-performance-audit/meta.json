@@ -1,0 +1,11 @@
+{
+  "name": "swiftui-performance-audit",
+  "display_name": "Swiftui Performance Audit",
+  "description": "Audit SwiftUI performance issues from code review and profiling evidence.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/swiftui-performance-audit/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/swiftui-performance-audit/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 5162,
+  "truncated": false
+}

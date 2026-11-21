@@ -1,0 +1,11 @@
+{
+  "name": "temporal-python-pro",
+  "display_name": "Temporal Python Pro",
+  "description": "Master Temporal workflow orchestration with Python SDK. Implements durable workflows, saga patterns, and distributed transactions. Covers async/await, testing strategies, and production deployment.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/temporal-python-pro/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/temporal-python-pro/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 10640,
+  "truncated": false
+}

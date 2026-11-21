@@ -1,0 +1,11 @@
+{
+  "name": "spline-3d-integration",
+  "display_name": "Spline 3D Integration",
+  "description": "Use when adding interactive 3D scenes from Spline.design to web projects, including React embedding and runtime control API.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/spline-3d-integration/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/spline-3d-integration/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 4508,
+  "truncated": false
+}

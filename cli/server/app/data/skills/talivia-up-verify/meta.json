@@ -1,0 +1,11 @@
+{
+  "name": "talivia-up-verify",
+  "display_name": "Talivia Up Verify",
+  "description": "Set up and verify Talivia revenue analytics through MCP, with explicit confirmation for website changes and payment attribution.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/talivia-agent-kit/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/talivia-agent-kit/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 5320,
+  "truncated": false
+}

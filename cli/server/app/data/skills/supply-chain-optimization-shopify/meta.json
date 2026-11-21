@@ -1,0 +1,11 @@
+{
+  "name": "supply-chain-optimization-shopify",
+  "display_name": "Supply Chain Optimization Shopify",
+  "description": "Supply Chain Bottleneck Analyzer for Shopify/DTC stores. Diagnose cash flow, inventory, shipping costs, and customer acquisition efficiency. Includes CAC/LTV analysis, 3PL cost optimization, and ad spend benchmarks. No API key required for basic analysis.",
+  "repo": "nexscope-ai/eCommerce-Skills",
+  "path": "supply-chain-optimization/supply-chain-optimization-shopify/SKILL.md",
+  "url": "https://github.com/nexscope-ai/eCommerce-Skills/tree/HEAD/supply-chain-optimization/supply-chain-optimization-shopify/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 4848,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "slide-deck",
+  "display_name": "Slide Deck",
+  "description": "Generates professional slide deck images from content. Creates outlines with style instructions, then generates individual slide images. Use when user asks to \"create slides\", \"make a presentation\", \"generate deck\", \"slide deck\", or \"PPT\".",
+  "repo": "JimLiu/baoyu-skills",
+  "path": "skills/baoyu-slide-deck/SKILL.md",
+  "url": "https://github.com/JimLiu/baoyu-skills/tree/HEAD/skills/baoyu-slide-deck/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 22899,
+  "truncated": false
+}

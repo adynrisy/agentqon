@@ -1,0 +1,11 @@
+{
+  "name": "smart-git-automation",
+  "display_name": "Smart Git Automation",
+  "description": "Smart change detection, auto branch naming, and streamlined commit/PR workflow",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/smart-git-automation/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/smart-git-automation/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 3602,
+  "truncated": false
+}

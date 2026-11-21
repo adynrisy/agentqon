@@ -1,0 +1,11 @@
+{
+  "name": "startup-business-analyst-case",
+  "display_name": "Startup Business Analyst Case",
+  "description": "Generate comprehensive investor-ready business case document with\nmarket, solution, financials, and strategy",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/startup-business-analyst-business-case/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/startup-business-analyst-business-case/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 11740,
+  "truncated": false
+}

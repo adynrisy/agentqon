@@ -1,0 +1,11 @@
+{
+  "name": "stride-analysis-patterns-security-scanning",
+  "display_name": "Stride Analysis Patterns · Security Scanning",
+  "description": "Apply STRIDE methodology to systematically identify threats. Use when analyzing system security, conducting threat modeling sessions, or creating security documentation.",
+  "repo": "wshobson/agents",
+  "path": "plugins/security-scanning/skills/stride-analysis-patterns/SKILL.md",
+  "url": "https://github.com/wshobson/agents/tree/HEAD/plugins/security-scanning/skills/stride-analysis-patterns/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 2229,
+  "truncated": false
+}

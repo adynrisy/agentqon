@@ -1,0 +1,11 @@
+{
+  "name": "spec-driven-workflow",
+  "display_name": "Spec Driven Workflow",
+  "description": "Use when the user asks to write specs before code, define acceptance criteria, plan features before implementation, generate tests from specifications, or follow spec-first development practices.",
+  "repo": "alirezarezvani/claude-skills",
+  "path": ".gemini/skills/spec-driven-workflow/SKILL.md",
+  "url": "https://github.com/alirezarezvani/claude-skills/tree/HEAD/.gemini/skills/spec-driven-workflow/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 15397,
+  "truncated": false
+}

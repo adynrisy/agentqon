@@ -1,0 +1,11 @@
+{
+  "name": "template-module-content",
+  "display_name": "Template Module Content",
+  "description": "Template register: name, type, owning module and department, owner, last updated and content link. Use for document template governance.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/template-library/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/template-library/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 12323,
+  "truncated": false
+}

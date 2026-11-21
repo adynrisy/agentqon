@@ -1,0 +1,11 @@
+{
+  "name": "tdd-workflow",
+  "display_name": "TDD Workflow",
+  "description": "Test-Driven Development workflow principles. RED-GREEN-REFACTOR cycle.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/tdd-workflow/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/tdd-workflow/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 3072,
+  "truncated": false
+}

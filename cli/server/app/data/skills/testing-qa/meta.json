@@ -1,0 +1,11 @@
+{
+  "name": "testing-qa",
+  "display_name": "Testing QA",
+  "description": "Comprehensive testing and QA workflow covering unit testing, integration testing, E2E testing, browser automation, and quality assurance.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/testing-qa/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/testing-qa/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 4931,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "tax-register",
+  "display_name": "Tax Register",
+  "description": "Tax register: sales and purchase tax, withholding deducted and received, net payable, filing due date and days remaining. Use for tax compliance.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/tax-register/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/tax-register/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 15901,
+  "truncated": false
+}

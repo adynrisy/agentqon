@@ -1,0 +1,11 @@
+{
+  "name": "temporal-python-testing",
+  "display_name": "Temporal Python Testing",
+  "description": "Comprehensive testing approaches for Temporal workflows using pytest, progressive disclosure resources for specific testing scenarios.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/temporal-python-testing/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/temporal-python-testing/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 5296,
+  "truncated": false
+}

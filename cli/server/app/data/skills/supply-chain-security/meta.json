@@ -1,0 +1,11 @@
+{
+  "name": "supply-chain-security",
+  "display_name": "Supply Chain Security",
+  "description": "Software supply-chain security assessment: SBOM generation, SCA scanning, CI/CD pipeline review, container image audit, build integrity, dependency provenance, and vulnerability reachability verification.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/supply-chain-security/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/supply-chain-security/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 5455,
+  "truncated": false
+}

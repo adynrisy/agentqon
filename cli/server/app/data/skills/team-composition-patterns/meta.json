@@ -1,0 +1,11 @@
+{
+  "name": "team-composition-patterns",
+  "display_name": "Team Composition Patterns",
+  "description": "Design optimal agent team compositions with sizing heuristics, preset configurations, and agent type selection. Use this skill when deciding how many agents to spawn for a task, when choosing between a review team versus a feature team versus a debug team, when selecting the correct subagent_type for each role to ensure agents have the tools they need, when configuring display modes (tmux, iTerm2, in-process) for a CI or local environment, or when building a custom team composition for a non-standard workflow such as a migration or security audit.",
+  "repo": "wshobson/agents",
+  "path": "plugins/agent-teams/skills/team-composition-patterns/SKILL.md",
+  "url": "https://github.com/wshobson/agents/tree/HEAD/plugins/agent-teams/skills/team-composition-patterns/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 7545,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "spatial-design",
+  "display_name": "Spatial Design",
+  "description": "Web and App implementation guide for Spatial Design. Trigger when user wants environment-aware layouts, Apple Vision Pro inspiration, and mixed reality aesthetics.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/design-it/spatial-design/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/design-it/spatial-design/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 10292,
+  "truncated": false
+}

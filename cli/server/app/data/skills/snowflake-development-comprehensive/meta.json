@@ -1,0 +1,11 @@
+{
+  "name": "snowflake-development-comprehensive",
+  "display_name": "Snowflake Development · Comprehensive",
+  "description": "Comprehensive Snowflake development assistant covering SQL best practices, data pipeline design (Dynamic Tables, Streams, Tasks, Snowpipe), Cortex AI functions, Cortex Agents, Snowpark Python, dbt integration, performance tuning, and security hardening.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/snowflake-development/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/snowflake-development/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 7958,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "slo-implementation-framework",
+  "display_name": "Slo Implementation · Framework",
+  "description": "Framework for defining and implementing Service Level Indicators (SLIs), Service Level Objectives (SLOs), and error budgets.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/slo-implementation/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/slo-implementation/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 10104,
+  "truncated": false
+}

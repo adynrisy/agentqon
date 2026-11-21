@@ -1,0 +1,11 @@
+{
+  "name": "swiss-design",
+  "display_name": "Swiss Design",
+  "description": "Web and App implementation guide for Swiss Design (International Typographic Style). Trigger when user wants strict grid systems, strong typography, and clean, asymmetrical alignment.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/design-it/swiss-design/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/design-it/swiss-design/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 11102,
+  "truncated": false
+}

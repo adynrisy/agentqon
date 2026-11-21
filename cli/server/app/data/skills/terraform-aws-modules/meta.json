@@ -1,0 +1,11 @@
+{
+  "name": "terraform-aws-modules",
+  "display_name": "Terraform AWS Modules",
+  "description": "Terraform module creation for AWS — reusable modules, state management, and HCL best practices. Use when building or reviewing Terraform AWS infrastructure.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/terraform-aws-modules/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/terraform-aws-modules/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 2536,
+  "truncated": false
+}

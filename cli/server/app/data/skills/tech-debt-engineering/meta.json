@@ -1,0 +1,11 @@
+{
+  "name": "tech-debt-engineering",
+  "display_name": "Tech Debt · Engineering",
+  "description": "Identify, categorize, and prioritize technical debt. Trigger with \"tech debt\", \"technical debt audit\", \"what should we refactor\", \"code health\", or when the user asks about code quality, refactoring priorities, or maintenance backlog.",
+  "repo": "anthropics/knowledge-work-plugins",
+  "path": "engineering/skills/tech-debt/SKILL.md",
+  "url": "https://github.com/anthropics/knowledge-work-plugins/tree/HEAD/engineering/skills/tech-debt/SKILL.md",
+  "license": "Apache-2.0",
+  "body_bytes": 1185,
+  "truncated": false
+}

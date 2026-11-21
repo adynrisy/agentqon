@@ -1,0 +1,11 @@
+{
+  "name": "supply-chain-risk-auditor",
+  "display_name": "Supply Chain Risk Auditor",
+  "description": "Identifies dependencies at heightened risk of exploitation or takeover. Use when assessing supply chain attack surface, evaluating dependency health, or scoping security engagements.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/supply-chain-risk-auditor/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/supply-chain-risk-auditor/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 5890,
+  "truncated": false
+}

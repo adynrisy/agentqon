@@ -1,0 +1,11 @@
+{
+  "name": "swift-concurrency-expert",
+  "display_name": "Swift Concurrency Expert",
+  "description": "Review and fix Swift concurrency issues such as actor isolation and Sendable violations.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/swift-concurrency-expert/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/swift-concurrency-expert/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 4399,
+  "truncated": false
+}

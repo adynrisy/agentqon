@@ -1,0 +1,11 @@
+{
+  "name": "spec-driven-development",
+  "display_name": "Spec Driven Development",
+  "description": "Creates specs before coding. Use when starting a new project, feature, or significant change and no specification exists yet. Use when requirements are unclear, ambiguous, or only exist as a vague idea.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/spec-driven-development/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/spec-driven-development/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 8417,
+  "truncated": false
+}

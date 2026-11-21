@@ -1,0 +1,11 @@
+{
+  "name": "slack-automation",
+  "display_name": "Slack Automation",
+  "description": "Automate Slack workspace operations including messaging, search, channel management, and reaction workflows through Composio's Slack toolkit.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/slack-automation/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/slack-automation/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 9859,
+  "truncated": false
+}

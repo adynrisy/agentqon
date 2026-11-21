@@ -1,0 +1,11 @@
+{
+  "name": "telegram-bot-messaging",
+  "display_name": "Telegram Bot Messaging",
+  "description": "Send Telegram messages, files, and alerts via bot API; ask questions with inline buttons and wait for the answer. Supports multiple bots, named chat targets, and CI/cron/hook notifications.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/telegram-bot-messaging/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/telegram-bot-messaging/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 3951,
+  "truncated": false
+}

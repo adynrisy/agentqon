@@ -1,0 +1,11 @@
+{
+  "name": "telegram-bot-builder",
+  "display_name": "Telegram Bot Builder",
+  "description": "Expert in building Telegram bots that solve real problems - from simple automation to complex AI-powered bots. Covers bot architecture, the Telegram Bot API, user experience, monetization strategies, and scaling bots to thousands of users.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/telegram-bot-builder/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/telegram-bot-builder/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 8617,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "tax-season-organizer",
+  "display_name": "Tax Season Organizer",
+  "description": "Prepares tax-season materials for the owner's accountant, not tax advice. US federal tax; a non-US business gets its closed-books packet instead. Two modes: (1) quarterly estimated tax from YTD net income in the ledger (MYOB, NetSuite, QuickBooks, Xero, or Zoho Books); (2) year-end 1099 prep, scanning the ledger, PayPal, and Stripe for contractors paid over USD 600 into a 1099-NEC list with missing W-9 flags.\nAny tax request routes first to /tax-prep, which confirms the books are closed and reconciled before running this skill. Use this skill directly only when the owner says the period's books are already closed: \"books are closed, now do the 1099s,\" \"run the quarterly estimate off the closed numbers,\" or \"just the contractor W-9 list.\"",
+  "repo": "anthropics/knowledge-work-plugins",
+  "path": "small-business/skills/tax-season-organizer/SKILL.md",
+  "url": "https://github.com/anthropics/knowledge-work-plugins/tree/HEAD/small-business/skills/tax-season-organizer/SKILL.md",
+  "license": "Apache-2.0",
+  "body_bytes": 13736,
+  "truncated": false
+}

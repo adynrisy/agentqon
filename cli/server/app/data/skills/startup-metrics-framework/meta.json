@@ -1,0 +1,11 @@
+{
+  "name": "startup-metrics-framework",
+  "display_name": "Startup Metrics Framework",
+  "description": "Comprehensive guide to tracking, calculating, and optimizing key performance metrics for different startup business models from seed through Series A.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/startup-metrics-framework/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/startup-metrics-framework/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 1147,
+  "truncated": false
+}

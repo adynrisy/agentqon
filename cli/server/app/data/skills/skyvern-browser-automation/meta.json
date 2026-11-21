@@ -1,0 +1,11 @@
+{
+  "name": "skyvern-browser-automation",
+  "display_name": "Skyvern Browser Automation",
+  "description": "AI-powered browser automation — navigate sites, fill forms, extract structured data, log in with stored credentials, and build reusable workflows.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/skyvern-browser-automation/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/skyvern-browser-automation/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 13542,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "source-driven-development-grounds",
+  "display_name": "Source Driven Development · Grounds",
+  "description": "Grounds every implementation decision in official documentation. Use when you want authoritative, source-cited code free from outdated patterns. Use when building with any framework or library where correctness matters.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/source-driven-development/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/source-driven-development/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 8304,
+  "truncated": false
+}

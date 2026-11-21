@@ -1,0 +1,11 @@
+{
+  "name": "tech-matrix",
+  "display_name": "Tech Matrix",
+  "description": "Reference document for monopoly tech-matrix.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/monopoly/tech-matrix/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/monopoly/tech-matrix/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 12125,
+  "truncated": false
+}

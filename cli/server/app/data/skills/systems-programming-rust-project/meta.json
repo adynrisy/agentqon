@@ -1,0 +1,11 @@
+{
+  "name": "systems-programming-rust-project",
+  "display_name": "Systems Programming Rust Project",
+  "description": "You are a Rust project architecture expert specializing in scaffolding production-ready Rust applications. Generate complete project structures with cargo tooling, proper module organization, testing",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/systems-programming-rust-project/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/systems-programming-rust-project/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 9352,
+  "truncated": false
+}

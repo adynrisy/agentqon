@@ -1,0 +1,11 @@
+{
+  "name": "terraform-specialist",
+  "display_name": "Terraform Specialist",
+  "description": "Expert Terraform/OpenTofu specialist mastering advanced IaC automation, state management, and enterprise infrastructure patterns.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/terraform-specialist/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/terraform-specialist/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 9146,
+  "truncated": false
+}

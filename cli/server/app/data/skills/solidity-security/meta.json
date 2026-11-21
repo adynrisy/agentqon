@@ -1,0 +1,11 @@
+{
+  "name": "solidity-security",
+  "display_name": "Solidity Security",
+  "description": "Master smart contract security best practices to prevent common vulnerabilities and implement secure Solidity patterns. Use when writing smart contracts, auditing existing contracts, or implementing security measures for blockchain applications.",
+  "repo": "wshobson/agents",
+  "path": "plugins/blockchain-web3/skills/solidity-security/SKILL.md",
+  "url": "https://github.com/wshobson/agents/tree/HEAD/plugins/blockchain-web3/skills/solidity-security/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 3273,
+  "truncated": false
+}

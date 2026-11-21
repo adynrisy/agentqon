@@ -1,0 +1,11 @@
+{
+  "name": "test-fixing",
+  "display_name": "Test Fixing",
+  "description": "Systematically identify and fix all failing tests using smart grouping strategies. Use when explicitly asks to fix tests (\"fix these tests\", \"make tests pass\"), reports test failures (\"tests are failing\", \"test suite is broken\"), or completes implementation and wants tests passing.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/test-fixing/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/test-fixing/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 3040,
+  "truncated": false
+}

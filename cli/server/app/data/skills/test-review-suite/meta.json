@@ -1,0 +1,11 @@
+{
+  "name": "test-review-suite",
+  "display_name": "Test Review Suite",
+  "description": "Review test-suite quality using established testing literature; identify brittleness, mock abuse, unclear fixtures, weak assertions, slow feedback, and maintenance risks.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/brooks-test/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/brooks-test/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 1605,
+  "truncated": false
+}

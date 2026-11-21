@@ -1,0 +1,11 @@
+{
+  "name": "terraform-module",
+  "display_name": "Terraform Module",
+  "description": "Production-ready Terraform module patterns for AWS, Azure, and GCP infrastructure.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/terraform-module-library/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/terraform-module-library/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 7047,
+  "truncated": false
+}

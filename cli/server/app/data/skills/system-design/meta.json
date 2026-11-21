@@ -1,0 +1,11 @@
+{
+  "name": "system-design",
+  "display_name": "System Design",
+  "description": "Design scalable distributed systems using structured approaches for load balancing, caching, database scaling, and message queues. Use when the user mentions \"system design\", \"scale this\", \"high availability\", \"rate limiter\", \"design a URL shortener\", \"design Twitter\", \"design Uber\", \"design a news feed\", \"system design interview\", \"capacity planning\", or \"distributed architecture\". Also trigger when estimating infrastructure requirements, choosing between microservices and monoliths, or designing for millions of concurrent users. Covers common system designs (TinyURL, feeds, chat) and back-of-the-envelope estimation. For data fundamentals, see ddia-systems. For resilience, see release-it.",
+  "repo": "wondelai/skills",
+  "path": "plugins/systems-architecture/skills/system-design/SKILL.md",
+  "url": "https://github.com/wondelai/skills/tree/HEAD/plugins/systems-architecture/skills/system-design/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 15247,
+  "truncated": false
+}

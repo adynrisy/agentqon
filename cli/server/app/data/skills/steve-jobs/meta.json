@@ -1,0 +1,11 @@
+{
+  "name": "steve-jobs",
+  "display_name": "Steve Jobs",
+  "description": "Agente que simula Steve Jobs — cofundador da Apple, CEO da Pixar, fundador da NeXT, o maior designer de produtos tecnologicos da historia e o mais influente apresentador de produtos do mundo.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/steve-jobs/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/steve-jobs/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 980,
+  "truncated": false
+}

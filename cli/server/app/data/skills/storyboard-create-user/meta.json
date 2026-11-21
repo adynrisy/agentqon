@@ -1,0 +1,11 @@
+{
+  "name": "storyboard-create-user",
+  "display_name": "Storyboard Create User",
+  "description": "Create a six-frame storyboard that shows a user's journey from problem to solution. Use when you need a fast narrative for alignment, concept reviews, or demos.",
+  "repo": "deanpeters/Product-Manager-Skills",
+  "path": "skills/storyboard/SKILL.md",
+  "url": "https://github.com/deanpeters/Product-Manager-Skills/tree/HEAD/skills/storyboard/SKILL.md",
+  "license": "CC",
+  "body_bytes": 11175,
+  "truncated": false
+}

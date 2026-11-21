@@ -1,0 +1,11 @@
+{
+  "name": "smartui-visual-regression",
+  "display_name": "Smartui Visual Regression",
+  "description": "Generates SmartUI visual regression test configurations for screenshot comparison on TestMu AI cloud. Framework-agnostic — works with Playwright, Selenium, Cypress, Puppeteer. Use when user mentions \"SmartUI\", \"visual regression\", \"screenshot comparison\", \"visual testing\".",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/smartui-skill/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/smartui-skill/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 3986,
+  "truncated": false
+}

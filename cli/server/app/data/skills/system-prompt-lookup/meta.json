@@ -1,0 +1,11 @@
+{
+  "name": "system-prompt-lookup",
+  "display_name": "System Prompt Lookup",
+  "description": "Checks what a shipped AI product's system prompt and tool schema actually say, by reading a dated archive of captured prompts instead of recalling them. Use before asserting or accepting any claim about an agent's instructions.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/system-prompt-lookup/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/system-prompt-lookup/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 7763,
+  "truncated": false
+}

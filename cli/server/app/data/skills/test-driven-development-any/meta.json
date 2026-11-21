@@ -1,0 +1,11 @@
+{
+  "name": "test-driven-development-any",
+  "display_name": "Test Driven Development · Any",
+  "description": "Use when implementing any feature or bugfix, before writing implementation code",
+  "repo": "obra/superpowers",
+  "path": "skills/test-driven-development/SKILL.md",
+  "url": "https://github.com/obra/superpowers/tree/HEAD/skills/test-driven-development/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 9446,
+  "truncated": false
+}

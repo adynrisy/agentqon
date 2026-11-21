@@ -1,0 +1,11 @@
+{
+  "name": "social-evidence-research",
+  "display_name": "Social Evidence Research",
+  "description": "Research public discussion on social platforms and keep every report claim tied to the source material that supports it. Use when researching or comparing how a product, event, or topic is discussed across social platforms or supplied social exports, when turning search results into a cited report, or when auditing a social research report for discovery-only evidence, double-counted reposts, misattributed comments, claims that go beyond the sample, or hidden access gaps.",
+  "repo": "wshobson/agents",
+  "path": "plugins/content-marketing/skills/social-evidence-research/SKILL.md",
+  "url": "https://github.com/wshobson/agents/tree/HEAD/plugins/content-marketing/skills/social-evidence-research/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 5231,
+  "truncated": false
+}

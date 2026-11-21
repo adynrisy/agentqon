@@ -1,0 +1,11 @@
+{
+  "name": "solidity-security-master",
+  "display_name": "Solidity Security · Master",
+  "description": "Master smart contract security best practices, vulnerability prevention, and secure Solidity development patterns.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/solidity-security/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/solidity-security/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 1272,
+  "truncated": false
+}

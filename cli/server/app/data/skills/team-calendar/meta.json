@@ -1,0 +1,11 @@
+{
+  "name": "team-calendar",
+  "display_name": "Team Calendar",
+  "description": "Team calendar: event, type, date and time with time zone, attendees, organizer, location and source module. Use for shared scheduling.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/team-calendar/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/team-calendar/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 12760,
+  "truncated": false
+}

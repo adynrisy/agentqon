@@ -1,0 +1,11 @@
+{
+  "name": "teach-user-this",
+  "display_name": "Teach User This",
+  "description": "Teach the user a new skill or concept, within this workspace.",
+  "repo": "mattpocock/skills",
+  "path": "skills/productivity/teach/SKILL.md",
+  "url": "https://github.com/mattpocock/skills/tree/HEAD/skills/productivity/teach/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 9553,
+  "truncated": false
+}

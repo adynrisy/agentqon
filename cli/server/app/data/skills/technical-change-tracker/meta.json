@@ -1,0 +1,11 @@
+{
+  "name": "technical-change-tracker",
+  "display_name": "Technical Change Tracker",
+  "description": "Track code changes with structured JSON records, state machine enforcement, and AI session handoff for bot continuity",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/technical-change-tracker/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/technical-change-tracker/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 1782,
+  "truncated": false
+}

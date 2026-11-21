@@ -1,0 +1,11 @@
+{
+  "name": "solidping-run-monitoring",
+  "display_name": "Solidping Run Monitoring",
+  "description": "Run SolidPing uptime monitoring through its hosted MCP server: list and diagnose checks, read results and incidents, create checks across 40+ types, and manage status pages.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/solidping/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/solidping/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 4844,
+  "truncated": false
+}

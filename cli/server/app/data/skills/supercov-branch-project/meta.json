@@ -1,0 +1,11 @@
+{
+  "name": "supercov-branch-project",
+  "display_name": "Supercov Branch Project",
+  "description": "Measure line, branch and MC/DC coverage of a project's existing tests with the supercov CLI, then write small, focused tests for the code no test reaches.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/supercov/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/supercov/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 4673,
+  "truncated": false
+}

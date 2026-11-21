@@ -1,0 +1,11 @@
+{
+  "name": "teach-user-this-thinking-docs",
+  "display_name": "Teach User This · Thinking Docs",
+  "description": "Teach the user a new skill or concept, within this workspace.",
+  "repo": "davidondrej/skills",
+  "path": "skills/thinking-and-docs/teach/SKILL.md",
+  "url": "https://github.com/davidondrej/skills/tree/HEAD/skills/thinking-and-docs/teach/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 9421,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "sshepherd-zero-knowledge",
+  "display_name": "Sshepherd Zero Knowledge",
+  "description": "Zero-knowledge SSH ops CLI — server health checks, docker/systemd control, log tailing, Postgres introspection, and declarative deploys, without ever exposing credentials to the agent.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "skills/sshepherd/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/skills/sshepherd/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 5792,
+  "truncated": false
+}

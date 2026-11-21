@@ -1,0 +1,11 @@
+{
+  "name": "source-document-filing",
+  "display_name": "Source Document Filing",
+  "description": "Source document register: document type and number, party, amount, index key, storage location, retention period and verification. Use for document filing.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/source-document-filing/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/source-document-filing/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 17805,
+  "truncated": false
+}

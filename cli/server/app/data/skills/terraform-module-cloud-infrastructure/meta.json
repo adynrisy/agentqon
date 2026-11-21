@@ -1,0 +1,11 @@
+{
+  "name": "terraform-module-cloud-infrastructure",
+  "display_name": "Terraform Module · Cloud Infrastructure",
+  "description": "Build reusable Terraform modules for AWS, Azure, GCP, and OCI infrastructure following infrastructure-as-code best practices. Use when creating infrastructure modules, standardizing cloud provisioning, or implementing reusable IaC components.",
+  "repo": "wshobson/agents",
+  "path": "plugins/cloud-infrastructure/skills/terraform-module-library/SKILL.md",
+  "url": "https://github.com/wshobson/agents/tree/HEAD/plugins/cloud-infrastructure/skills/terraform-module-library/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 5294,
+  "truncated": false
+}

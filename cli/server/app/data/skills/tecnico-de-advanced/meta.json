@@ -1,0 +1,11 @@
+{
+  "name": "tecnico-de-advanced",
+  "display_name": "Tecnico De Advanced",
+  "description": "Sub-skill técnica de Yann LeCun. Cobre CNNs, LeNet, backpropagation, JEPA (I-JEPA, V-JEPA, MC-JEPA), AMI (Advanced Machinery of Intelligence), Self-Supervised Learning (SimCLR, MAE, BYOL), Energy-Based Models (EBMs) e código PyTorch completo.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/yann-lecun-tecnico/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/yann-lecun-tecnico/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 976,
+  "truncated": false
+}

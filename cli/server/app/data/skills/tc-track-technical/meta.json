@@ -1,0 +1,11 @@
+{
+  "name": "tc-track-technical",
+  "display_name": "Tc Track Technical",
+  "description": "Track technical changes with structured records, a state machine, and session handoff. Usage: /tc <init|create|update|status|resume|close|export|dashboard> [args]",
+  "repo": "alirezarezvani/claude-skills",
+  "path": ".gemini/skills/tc/SKILL.md",
+  "url": "https://github.com/alirezarezvani/claude-skills/tree/HEAD/.gemini/skills/tc/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 5963,
+  "truncated": false
+}

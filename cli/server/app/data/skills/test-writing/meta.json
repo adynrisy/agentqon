@@ -1,0 +1,11 @@
+{
+  "name": "test-writing",
+  "display_name": "Test Writing",
+  "description": "Designs and writes tests that catch real regressions: unit, integration or E2E placement, fixtures, behavior-first assertions, characterization and property tests. Use when asked to write tests, add coverage or a regression test.",
+  "repo": "khasky/awesome-agent-skills",
+  "path": "skills/awesome-test-writing/SKILL.md",
+  "url": "https://github.com/khasky/awesome-agent-skills/tree/HEAD/skills/awesome-test-writing/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 10772,
+  "truncated": false
+}

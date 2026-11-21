@@ -1,0 +1,11 @@
+{
+  "name": "swiftui-expert",
+  "display_name": "Swiftui Expert",
+  "description": "Write, review, and refactor SwiftUI for iOS or macOS, covering data flow, view composition, performance, identity, environment, localization, animation, API migration, and Instruments traces.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/swiftui-expert-skill/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/swiftui-expert-skill/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 12416,
+  "truncated": false
+}

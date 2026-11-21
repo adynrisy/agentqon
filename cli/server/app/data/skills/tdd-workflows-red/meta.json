@@ -1,0 +1,11 @@
+{
+  "name": "tdd-workflows-red",
+  "display_name": "TDD Workflows Red",
+  "description": "Generate failing tests for the TDD red phase to define expected behavior and edge cases.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/tdd-workflows-tdd-red/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/tdd-workflows-tdd-red/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 4808,
+  "truncated": false
+}

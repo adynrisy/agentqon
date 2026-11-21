@@ -1,0 +1,11 @@
+{
+  "name": "terraform-azure",
+  "display_name": "Terraform Azure",
+  "description": "Provision Azure infrastructure with Terraform. Configure providers, manage state, and deploy resources. Use when implementing IaC for Azure.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/terraform-azure/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/terraform-azure/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 10552,
+  "truncated": false
+}

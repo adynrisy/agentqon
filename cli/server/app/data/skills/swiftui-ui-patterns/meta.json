@@ -1,0 +1,11 @@
+{
+  "name": "swiftui-ui-patterns",
+  "display_name": "Swiftui UI Patterns",
+  "description": "Apply proven SwiftUI UI patterns for navigation, sheets, async state, and reusable screens.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/swiftui-ui-patterns/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/swiftui-ui-patterns/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 7928,
+  "truncated": false
+}

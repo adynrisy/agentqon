@@ -1,0 +1,11 @@
+{
+  "name": "technical-tutorials",
+  "display_name": "Technical Tutorials",
+  "description": "When the user wants to create step-by-step technical tutorials, quickstarts, or code walkthroughs. Trigger phrases include \"tutorial,\" \"quickstart,\" \"getting started guide,\" \"walkthrough,\" \"step by step,\" \"how to guide,\" \"hands-on guide,\" or \"code tutorial.\"",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/technical-tutorials/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/technical-tutorials/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 2455,
+  "truncated": false
+}

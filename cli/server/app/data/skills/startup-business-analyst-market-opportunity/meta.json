@@ -1,0 +1,11 @@
+{
+  "name": "startup-business-analyst-market-opportunity",
+  "display_name": "Startup Business Analyst Market Opportunity",
+  "description": "Generate comprehensive market opportunity analysis with TAM/SAM/SOM\ncalculations",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/startup-business-analyst-market-opportunity/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/startup-business-analyst-market-opportunity/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 7092,
+  "truncated": false
+}

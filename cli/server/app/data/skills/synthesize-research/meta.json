@@ -1,0 +1,11 @@
+{
+  "name": "synthesize-research",
+  "display_name": "Synthesize Research",
+  "description": "Synthesize user research from interviews, surveys, and feedback into structured insights. Use when you have a pile of interview notes, survey responses, or support tickets to make sense of, need to extract themes and rank findings by frequency and impact, or want to turn raw feedback into roadmap recommendations.",
+  "repo": "anthropics/knowledge-work-plugins",
+  "path": "product-management/skills/synthesize-research/SKILL.md",
+  "url": "https://github.com/anthropics/knowledge-work-plugins/tree/HEAD/product-management/skills/synthesize-research/SKILL.md",
+  "license": "Apache-2.0",
+  "body_bytes": 15726,
+  "truncated": false
+}

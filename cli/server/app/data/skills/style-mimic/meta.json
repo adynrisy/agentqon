@@ -1,0 +1,11 @@
+{
+  "name": "style-mimic",
+  "display_name": "Style Mimic",
+  "description": "Learns a website's writing style by crawling it in a live browser, writes a reusable style guide, then rewrites documents in that voice. Use when asked to learn a site's style or write in its voice.",
+  "repo": "khasky/awesome-agent-skills",
+  "path": "skills/awesome-style-mimic/SKILL.md",
+  "url": "https://github.com/khasky/awesome-agent-skills/tree/HEAD/skills/awesome-style-mimic/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 16570,
+  "truncated": false
+}

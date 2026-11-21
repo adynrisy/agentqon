@@ -1,0 +1,11 @@
+{
+  "name": "social-publishing",
+  "display_name": "Social Publishing",
+  "description": "Schedule and publish social media posts across 13 platforms (X, LinkedIn, Instagram, Facebook Pages, TikTok, Discord, Telegram, YouTube, Reddit, WordPress, Pinterest) via the SocialClaw API. Use when the user wants to publish, schedule, or manage social media content programmatically. Requires SOCIALCLAW_API_KEY.",
+  "repo": "wshobson/agents",
+  "path": "plugins/social-publishing/skills/social-publishing/SKILL.md",
+  "url": "https://github.com/wshobson/agents/tree/HEAD/plugins/social-publishing/skills/social-publishing/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 3170,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "tam-sam-som-calculator",
+  "display_name": "Tam Sam Som Calculator",
+  "description": "Calculate TAM, SAM, and SOM with explicit assumptions, methods, and caveats. Use when sizing a market for a product idea, business case, or executive review.",
+  "repo": "deanpeters/Product-Manager-Skills",
+  "path": "skills/tam-sam-som-calculator/SKILL.md",
+  "url": "https://github.com/deanpeters/Product-Manager-Skills/tree/HEAD/skills/tam-sam-som-calculator/SKILL.md",
+  "license": "CC",
+  "body_bytes": 17952,
+  "truncated": false
+}

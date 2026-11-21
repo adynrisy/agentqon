@@ -1,0 +1,11 @@
+{
+  "name": "sprint-health",
+  "display_name": "Sprint Health",
+  "description": "Sprint health scoring and velocity analysis for agile teams. Usage: /sprint-health <analyze|velocity> [options]",
+  "repo": "alirezarezvani/claude-skills",
+  "path": ".gemini/skills/sprint-health/SKILL.md",
+  "url": "https://github.com/alirezarezvani/claude-skills/tree/HEAD/.gemini/skills/sprint-health/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 1140,
+  "truncated": false
+}

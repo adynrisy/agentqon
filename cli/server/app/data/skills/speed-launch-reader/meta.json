@@ -1,0 +1,11 @@
+{
+  "name": "speed-launch-reader",
+  "display_name": "Speed Launch Reader",
+  "description": "Launch RSVP speed reader for text",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/speed/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/speed/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 2114,
+  "truncated": false
+}

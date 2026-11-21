@@ -1,0 +1,11 @@
+{
+  "name": "swift-code-guidelines",
+  "display_name": "Swift Code Guidelines",
+  "description": "Language-specific super-code guidelines for swift.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/super-code/swift/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/super-code/swift/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 6982,
+  "truncated": false
+}

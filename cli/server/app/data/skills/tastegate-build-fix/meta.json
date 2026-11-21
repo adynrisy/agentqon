@@ -1,0 +1,11 @@
+{
+  "name": "tastegate-build-fix",
+  "display_name": "Tastegate Build Fix",
+  "description": "Build or fix a frontend so it looks designed, not AI-generated, then prove it in a real browser: renders at phone and desktop width and fails on overlap, low contrast and AI-slop defaults.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/tastegate/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/tastegate/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 6814,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "spec-code-compliance",
+  "display_name": "Spec Code Compliance",
+  "description": "Verifies code implements exactly what documentation specifies for blockchain audits. Use when comparing code against whitepapers, finding gaps between specs and implementation, or performing compliance checks for protocol implementations.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/spec-to-code-compliance/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/spec-to-code-compliance/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 10475,
+  "truncated": false
+}

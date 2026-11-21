@@ -1,0 +1,11 @@
+{
+  "name": "startup-financial-modeling-comprehensive",
+  "display_name": "Startup Financial Modeling · Comprehensive",
+  "description": "Build comprehensive 3-5 year financial models with revenue projections, cost structures, cash flow analysis, and scenario planning for early-stage startups.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/startup-financial-modeling/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/startup-financial-modeling/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 11512,
+  "truncated": false
+}

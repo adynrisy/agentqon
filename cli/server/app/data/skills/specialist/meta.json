@@ -1,0 +1,11 @@
+{
+  "name": "specialist",
+  "display_name": "Specialist",
+  "description": "对目标话题进行初步调研，生成调研outline。用于学术调研、benchmark调研、技术选型等场景。",
+  "repo": "Weizhena/Deep-Research-skills",
+  "path": "skills/research-zh/research/SKILL.md",
+  "url": "https://github.com/Weizhena/Deep-Research-skills/tree/HEAD/skills/research-zh/research/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 3702,
+  "truncated": false
+}

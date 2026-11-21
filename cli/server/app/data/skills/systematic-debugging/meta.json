@@ -1,0 +1,11 @@
+{
+  "name": "systematic-debugging",
+  "display_name": "Systematic Debugging",
+  "description": "Use when encountering any bug, test failure, or unexpected behavior, before proposing fixes",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/systematic-debugging/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/systematic-debugging/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 11171,
+  "truncated": false
+}

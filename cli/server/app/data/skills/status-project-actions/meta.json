@@ -1,0 +1,11 @@
+{
+  "name": "status-project-actions",
+  "display_name": "Status Project Actions",
+  "description": "Display project status, active tracks, and next actions",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/conductor-status/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/conductor-status/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 9630,
+  "truncated": false
+}

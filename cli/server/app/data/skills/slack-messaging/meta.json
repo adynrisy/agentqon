@@ -1,0 +1,11 @@
+{
+  "name": "slack-messaging",
+  "display_name": "Slack Messaging",
+  "description": "Guidance for composing well-formatted, effective Slack messages using mrkdwn syntax",
+  "repo": "anthropics/knowledge-work-plugins",
+  "path": "partner-built/slack/skills/slack-messaging/SKILL.md",
+  "url": "https://github.com/anthropics/knowledge-work-plugins/tree/HEAD/partner-built/slack/skills/slack-messaging/SKILL.md",
+  "license": "Apache-2.0",
+  "body_bytes": 3011,
+  "truncated": false
+}

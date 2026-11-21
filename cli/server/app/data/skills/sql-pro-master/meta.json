@@ -1,0 +1,11 @@
+{
+  "name": "sql-pro-master",
+  "display_name": "SQL Pro · Master",
+  "description": "Master modern SQL with cloud-native databases, OLTP/OLAP optimization, and advanced query techniques. Expert in performance tuning, data modeling, and hybrid analytical systems.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/sql-pro/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/sql-pro/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 7813,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "social-media-monitor",
+  "display_name": "Social Media Monitor",
+  "description": "Monitor social media mentions, trends, and competitor activity for e-commerce brands. Set up listening workflows across Reddit, TikTok, Instagram, Twitter/X, and YouTube.",
+  "repo": "nexscope-ai/eCommerce-Skills",
+  "path": "social-media-monitor/SKILL.md",
+  "url": "https://github.com/nexscope-ai/eCommerce-Skills/tree/HEAD/social-media-monitor/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 2061,
+  "truncated": false
+}

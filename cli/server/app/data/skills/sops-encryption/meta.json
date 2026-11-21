@@ -1,0 +1,11 @@
+{
+  "name": "sops-encryption",
+  "display_name": "Sops Encryption",
+  "description": "Encrypt files and configs with Mozilla SOPS.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/sops-encryption/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/sops-encryption/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 2372,
+  "truncated": false
+}

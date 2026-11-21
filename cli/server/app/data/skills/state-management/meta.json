@@ -1,0 +1,11 @@
+{
+  "name": "state-management",
+  "display_name": "State Management",
+  "description": "CRITICAL: Use for Robius state management patterns. Triggers on:\nAppState, persistence, theme switch, 状态管理,\nScope::with_data, save state, load state, serde,\n状态持久化, 主题切换",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/robius-state-management/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/robius-state-management/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 13740,
+  "truncated": false
+}

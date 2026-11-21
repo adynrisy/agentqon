@@ -1,0 +1,11 @@
+{
+  "name": "tester-plan-bugs",
+  "display_name": "Tester Plan Bugs",
+  "description": "F1-inspired test EXECUTOR + reporter. Runs a test plan, finds and reproduces bugs, audits suite signal integrity, then files a WJTTC report (Brake/Engine/Aero/Tyre/Pit) with a tier verdict.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/wjttc-tester/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/wjttc-tester/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 8167,
+  "truncated": false
+}

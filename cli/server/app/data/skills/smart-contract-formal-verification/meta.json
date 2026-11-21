@@ -1,0 +1,11 @@
+{
+  "name": "smart-contract-formal-verification",
+  "display_name": "Smart Contract Formal Verification",
+  "description": "Foundry and Soroban formal invariant verification register: state transition rules, boundary invariant properties, and symbolic execution checks.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/smart-contract-formal-verification/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/smart-contract-formal-verification/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 5103,
+  "truncated": false
+}

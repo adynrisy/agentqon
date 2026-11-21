@@ -1,0 +1,11 @@
+{
+  "name": "tdd-workflows-refactor",
+  "display_name": "TDD Workflows Refactor",
+  "description": "Use when working with tdd workflows tdd refactor",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/tdd-workflows-tdd-refactor/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/tdd-workflows-tdd-refactor/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 6218,
+  "truncated": false
+}

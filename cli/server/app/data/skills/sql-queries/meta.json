@@ -1,0 +1,11 @@
+{
+  "name": "sql-queries",
+  "display_name": "SQL Queries",
+  "description": "Write correct, performant SQL across all major data warehouse dialects (Snowflake, BigQuery, Databricks, PostgreSQL, etc.). Use when writing queries, optimizing slow SQL, translating between dialects, or building complex analytical queries with CTEs, window functions, or aggregations.",
+  "repo": "anthropics/knowledge-work-plugins",
+  "path": "data/skills/sql-queries/SKILL.md",
+  "url": "https://github.com/anthropics/knowledge-work-plugins/tree/HEAD/data/skills/sql-queries/SKILL.md",
+  "license": "Apache-2.0",
+  "body_bytes": 10778,
+  "truncated": false
+}

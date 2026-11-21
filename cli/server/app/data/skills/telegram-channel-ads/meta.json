@@ -1,0 +1,11 @@
+{
+  "name": "telegram-channel-ads",
+  "display_name": "Telegram Channel Ads",
+  "description": "Vet and price ad posts in Telegram channels: reach benchmarks by size, topic and language, ad-network and channel-age checks, CPM and deletion-window math.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/telegram-channel-ads/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/telegram-channel-ads/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 8892,
+  "truncated": false
+}

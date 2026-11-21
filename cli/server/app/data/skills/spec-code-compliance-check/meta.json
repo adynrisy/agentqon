@@ -1,0 +1,11 @@
+{
+  "name": "spec-code-compliance-check",
+  "display_name": "Spec Code Compliance · Check",
+  "description": "Check code against the documentation that specifies it - which requirements hold, which the code contradicts, which are absent, and what the code does that no document mentions. Use when comparing an implementation against a whitepaper, protocol spec, or design document.",
+  "repo": "trailofbits/skills",
+  "path": "plugins/spec-to-code-compliance/skills/spec-to-code-compliance/SKILL.md",
+  "url": "https://github.com/trailofbits/skills/tree/HEAD/plugins/spec-to-code-compliance/skills/spec-to-code-compliance/SKILL.md",
+  "license": "CC",
+  "body_bytes": 7179,
+  "truncated": false
+}

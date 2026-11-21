@@ -1,0 +1,11 @@
+{
+  "name": "slack-gif-creator-toolkit",
+  "display_name": "Slack Gif Creator · Toolkit",
+  "description": "A toolkit providing utilities and knowledge for creating animated GIFs optimized for Slack.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "skills/slack-gif-creator/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/skills/slack-gif-creator/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 7950,
+  "truncated": false
+}

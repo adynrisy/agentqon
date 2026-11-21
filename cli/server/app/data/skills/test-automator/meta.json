@@ -1,0 +1,11 @@
+{
+  "name": "test-automator",
+  "display_name": "Test Automator",
+  "description": "Master AI-powered test automation with modern frameworks, self-healing tests, and comprehensive quality engineering. Build scalable testing strategies with advanced CI/CD integration.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/test-automator/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/test-automator/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 11081,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "sre-dashboards",
+  "display_name": "SRE Dashboards",
+  "description": "Design and operationalize SRE dashboards that surface reliability, latency, error, saturation, and capacity signals across services.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/sre-dashboards/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/sre-dashboards/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 3864,
+  "truncated": false
+}

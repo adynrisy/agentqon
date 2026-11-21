@@ -1,0 +1,11 @@
+{
+  "name": "testing-strategy",
+  "display_name": "Testing Strategy",
+  "description": "Design test strategies and test plans. Trigger with \"how should we test\", \"test strategy for\", \"write tests for\", \"test plan\", \"what tests do we need\", or when the user needs help with testing approaches, coverage, or test architecture.",
+  "repo": "anthropics/knowledge-work-plugins",
+  "path": "engineering/skills/testing-strategy/SKILL.md",
+  "url": "https://github.com/anthropics/knowledge-work-plugins/tree/HEAD/engineering/skills/testing-strategy/SKILL.md",
+  "license": "Apache-2.0",
+  "body_bytes": 997,
+  "truncated": false
+}

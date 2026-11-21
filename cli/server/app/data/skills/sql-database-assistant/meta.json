@@ -1,0 +1,11 @@
+{
+  "name": "sql-database-assistant",
+  "display_name": "SQL Database Assistant",
+  "description": "Use when the user asks to write SQL queries, optimize database performance, generate migrations, explore database schemas, or work with ORMs like Prisma, Drizzle, TypeORM, or SQLAlchemy.",
+  "repo": "alirezarezvani/claude-skills",
+  "path": ".gemini/skills/sql-database-assistant/SKILL.md",
+  "url": "https://github.com/alirezarezvani/claude-skills/tree/HEAD/.gemini/skills/sql-database-assistant/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 15835,
+  "truncated": false
+}

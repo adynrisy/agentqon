@@ -1,0 +1,11 @@
+{
+  "name": "square-automation",
+  "display_name": "Square Automation",
+  "description": "Automate Square tasks via Rube MCP (Composio): payments, orders, invoices, locations. Always search tools first for current schemas.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/square-automation/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/square-automation/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 6732,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "slack-gif-creator",
+  "display_name": "Slack Gif Creator",
+  "description": "Knowledge and utilities for creating animated GIFs optimized for Slack. Provides constraints, validation tools, and animation concepts. Use when users request animated GIFs for Slack like \"make me a GIF of X doing Y for Slack.\"",
+  "repo": "anthropics/skills",
+  "path": "skills/slack-gif-creator/SKILL.md",
+  "url": "https://github.com/anthropics/skills/tree/HEAD/skills/slack-gif-creator/SKILL.md",
+  "license": "unknown",
+  "body_bytes": 7528,
+  "truncated": false
+}

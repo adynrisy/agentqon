@@ -1,0 +1,11 @@
+{
+  "name": "stakeholder-investor-reports",
+  "display_name": "Stakeholder Investor Reports",
+  "description": "Stakeholder report register: stakeholder, period, key metrics, preparer, approver, send date and report link. Use for investor and board reporting.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/stakeholder-investor-reports/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/stakeholder-investor-reports/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 12344,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "supply-chain-optimization-amazon-lite",
+  "display_name": "Supply Chain Optimization Amazon Lite",
+  "description": "Supply Chain Optimization (Lite) - Diagnose bottlenecks and provide cost reduction strategies through conversation",
+  "repo": "nexscope-ai/eCommerce-Skills",
+  "path": "supply-chain-optimization/supply-chain-optimization-amazon/SKILL.md",
+  "url": "https://github.com/nexscope-ai/eCommerce-Skills/tree/HEAD/supply-chain-optimization/supply-chain-optimization-amazon/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 3262,
+  "truncated": false
+}

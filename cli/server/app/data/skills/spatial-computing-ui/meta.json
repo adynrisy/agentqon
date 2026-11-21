@@ -1,0 +1,11 @@
+{
+  "name": "spatial-computing-ui",
+  "display_name": "Spatial Computing UI",
+  "description": "Web and App implementation guide for Spatial Computing UI. Trigger when user wants floating elements, environmental awareness, and Apple Vision Pro style.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/design-it/spatial-computing-ui/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/design-it/spatial-computing-ui/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 11273,
+  "truncated": false
+}

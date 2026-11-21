@@ -1,0 +1,11 @@
+{
+  "name": "team-pipeline",
+  "display_name": "Team Pipeline",
+  "description": "Leader view - roll up a team's pipeline by rep and stage, flag at-risk deals, and surface coaching moments. Use when the user asks \"show my team's pipeline\", \"team forecast\", \"prep for my team's pipeline review\", or \"where does my team need help\".",
+  "repo": "anthropics/knowledge-work-plugins",
+  "path": "sales/skills/team-pipeline/SKILL.md",
+  "url": "https://github.com/anthropics/knowledge-work-plugins/tree/HEAD/sales/skills/team-pipeline/SKILL.md",
+  "license": "Apache-2.0",
+  "body_bytes": 7283,
+  "truncated": false
+}

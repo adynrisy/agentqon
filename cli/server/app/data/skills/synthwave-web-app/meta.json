@@ -1,0 +1,11 @@
+{
+  "name": "synthwave-web-app",
+  "display_name": "Synthwave Web App",
+  "description": "Web and App implementation guide for Synthwave. Trigger when user wants 80s-inspired neon, dark backgrounds, outrun grids, and Miami Vice aesthetics.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/design-it/synthwave/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/design-it/synthwave/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 8273,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "sveltekit-build-full",
+  "display_name": "Sveltekit Build Full",
+  "description": "Build full-stack web applications with SvelteKit — file-based routing, SSR, SSG, API routes, and form actions in one framework.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/sveltekit/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/sveltekit/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 8832,
+  "truncated": false
+}

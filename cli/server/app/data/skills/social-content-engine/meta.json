@@ -1,0 +1,11 @@
+{
+  "name": "social-content-engine",
+  "display_name": "Social Content Engine",
+  "description": "Runs the owner's content operation as a standing thing rather than a one-off: keeps a rolling posting calendar, learns the owner's voice, generates on-brand Canva graphics, writes captions that sound like them, repurposes one asset into every channel format, and stages posts for approval instead of publishing on its own. Pulls product photos and prices from Shopify when connected; with no connectors, drafts the calendar and asset briefs for manual posting. Use this whenever the owner talks about posting, content, or social — including \"I need to post more,\" \"we've gone quiet on Instagram,\" \"what should we post this month,\" \"make the content,\" \"give me a month of posts,\" \"write this in my voice,\" \"repurpose this,\" or \"set up our content calendar.\" Reach for it for a single post as readily as for a full quarter. One handoff: a finished, approved campaign brief goes to canva-creator; this skill owns the standing operation.",
+  "repo": "anthropics/knowledge-work-plugins",
+  "path": "small-business/skills/social-content-engine/SKILL.md",
+  "url": "https://github.com/anthropics/knowledge-work-plugins/tree/HEAD/small-business/skills/social-content-engine/SKILL.md",
+  "license": "Apache-2.0",
+  "body_bytes": 12354,
+  "truncated": false
+}

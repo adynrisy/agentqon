@@ -1,0 +1,11 @@
+{
+  "name": "styleseed-design-review",
+  "display_name": "Styleseed Design Review",
+  "description": "Reviews UI/frontend code and tells you exactly why it \"looks AI-generated\" — then how to fix it.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/styleseed-design-review/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/styleseed-design-review/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 5905,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "tds-booking-payment",
+  "display_name": "Tds Booking Payment",
+  "description": "TDS register: payee PAN, payment nature, rate and amount deducted, deposit date and challan reference, return filing and ledger variance. Use for TDS compliance.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/tds-booking-payment/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/tds-booking-payment/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 19666,
+  "truncated": false
+}
