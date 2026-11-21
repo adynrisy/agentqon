@@ -1,0 +1,11 @@
+{
+  "name": "llm-app-patterns",
+  "display_name": "LLM App Patterns",
+  "description": "Architecture and integration sketches for LLM applications, with explicit retrieval, tool, privacy and verification boundaries.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/llm-app-patterns/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/llm-app-patterns/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 2661,
+  "truncated": false
+}

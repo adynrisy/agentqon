@@ -1,0 +1,11 @@
+{
+  "name": "muapi-media",
+  "display_name": "Muapi Media",
+  "description": "Generate images and videos with MuAPI's schema-driven asynchronous media API while protecting keys, polling, and output downloads.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/muapi-media/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/muapi-media/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 10636,
+  "truncated": false
+}

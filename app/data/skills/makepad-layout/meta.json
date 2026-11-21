@@ -1,0 +1,11 @@
+{
+  "name": "makepad-layout",
+  "display_name": "Makepad Layout",
+  "description": "Makepad 2.0 guidance for layout; use when building or debugging Makepad UI code.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/makepad-2-0-layout/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/makepad-2-0-layout/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 13146,
+  "truncated": false
+}

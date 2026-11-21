@@ -1,0 +1,11 @@
+{
+  "name": "mtls-configuration",
+  "display_name": "Mtls Configuration",
+  "description": "Configure mutual TLS (mTLS) for zero-trust service-to-service communication. Use when implementing zero-trust networking, certificate management, or securing internal service communication.",
+  "repo": "wshobson/agents",
+  "path": "plugins/cloud-infrastructure/skills/mtls-configuration/SKILL.md",
+  "url": "https://github.com/wshobson/agents/tree/HEAD/plugins/cloud-infrastructure/skills/mtls-configuration/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 2461,
+  "truncated": false
+}

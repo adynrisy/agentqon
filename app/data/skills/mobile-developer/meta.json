@@ -1,0 +1,11 @@
+{
+  "name": "mobile-developer",
+  "display_name": "Mobile Developer",
+  "description": "Develop React Native, Flutter, or native mobile apps with modern architecture patterns. Masters cross-platform development, native integrations, offline sync, and app store optimization.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/mobile-developer/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/mobile-developer/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 8707,
+  "truncated": false
+}

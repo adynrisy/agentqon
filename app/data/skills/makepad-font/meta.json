@@ -1,0 +1,11 @@
+{
+  "name": "makepad-font",
+  "display_name": "Makepad Font",
+  "description": "CRITICAL: Use for Makepad font and text rendering. Triggers on:\nmakepad font, makepad text, makepad glyph, makepad typography,\nfont atlas, text layout, font family, font size, text shaping,\nmakepad 字体, makepad 文字, makepad 排版, makepad 字形",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/makepad-font/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/makepad-font/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 6839,
+  "truncated": false
+}

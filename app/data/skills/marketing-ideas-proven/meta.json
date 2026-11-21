@@ -1,0 +1,11 @@
+{
+  "name": "marketing-ideas-proven",
+  "display_name": "Marketing Ideas · Proven",
+  "description": "Provide proven marketing strategies and growth ideas for SaaS and software products, prioritized using a marketing feasibility scoring system.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/marketing-ideas/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/marketing-ideas/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 5481,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "mobile-security-coder",
+  "display_name": "Mobile Security Coder",
+  "description": "Expert in secure mobile coding practices specializing in input validation, WebView security, and mobile-specific security patterns.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/mobile-security-coder/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/mobile-security-coder/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 12652,
+  "truncated": false
+}

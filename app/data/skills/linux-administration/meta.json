@@ -1,0 +1,11 @@
+{
+  "name": "linux-administration",
+  "display_name": "Linux Administration",
+  "description": "System administration for Linux servers. Manage packages, services, and system configuration. Use when administering Linux systems.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/linux-administration/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/linux-administration/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 8716,
+  "truncated": false
+}

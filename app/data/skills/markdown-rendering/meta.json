@@ -1,0 +1,11 @@
+{
+  "name": "markdown-rendering",
+  "display_name": "Markdown Rendering",
+  "description": "Open Markdown reliably in cmux panes and recover from blank rendered surfaces.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/markdown-rendering/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/markdown-rendering/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 2806,
+  "truncated": false
+}

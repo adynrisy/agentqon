@@ -1,0 +1,11 @@
+{
+  "name": "literature-review",
+  "display_name": "Literature Review",
+  "description": "Conducts systematic, scoping, and narrative literature reviews using PubMed, arXiv, bioRxiv, Semantic Scholar, and other appropriate sources. Use for research synthesis, reproducible literature searches, screening, citation checking, or preparing Markdown and PDF reviews. Tracks search coverage, records versus studies, and evidence limitations; supports meta-analysis planning but does not supply a meta-analysis engine.",
+  "repo": "K-Dense-AI/scientific-agent-skills",
+  "path": "skills/literature-review/SKILL.md",
+  "url": "https://github.com/K-Dense-AI/scientific-agent-skills/tree/HEAD/skills/literature-review/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 11858,
+  "truncated": false
+}

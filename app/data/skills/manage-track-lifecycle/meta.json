@@ -1,0 +1,11 @@
+{
+  "name": "manage-track-lifecycle",
+  "display_name": "Manage Track Lifecycle",
+  "description": "Manage track lifecycle: archive, restore, delete, rename, and cleanup",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/conductor-manage/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/conductor-manage/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 1437,
+  "truncated": false
+}

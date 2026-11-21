@@ -1,0 +1,11 @@
+{
+  "name": "modellix-async-ai",
+  "display_name": "Modellix Async AI",
+  "description": "Integrate the Modellix API/CLI for async AI image, video, and speech generation or transcription (model run --wait, task download).",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/modellix/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/modellix/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 3997,
+  "truncated": false
+}

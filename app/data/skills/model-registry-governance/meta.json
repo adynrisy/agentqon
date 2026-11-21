@@ -1,0 +1,11 @@
+{
+  "name": "model-registry-governance",
+  "display_name": "Model Registry Governance",
+  "description": "Establish model registry standards, governance controls, metadata schemas, approvals, and lifecycle policies for enterprise AI deployments.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/model-registry-governance/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/model-registry-governance/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 14800,
+  "truncated": false
+}

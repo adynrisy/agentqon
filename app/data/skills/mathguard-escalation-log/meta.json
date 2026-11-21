@@ -1,0 +1,11 @@
+{
+  "name": "mathguard-escalation-log",
+  "display_name": "Mathguard Escalation Log",
+  "description": "Math-heavy escalation for n >= 10^6 — Bloom, HyperLogLog, Count-Min, MinHash/LSH, FFT, JL projection, sweep line. Use when classical O(n log n) is the floor and approximate or math wins.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/mathguard/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/mathguard/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 17896,
+  "truncated": false
+}

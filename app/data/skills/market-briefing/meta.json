@@ -1,0 +1,11 @@
+{
+  "name": "market-briefing",
+  "display_name": "Market Briefing",
+  "description": "Crypto market briefing from live TraderSpy data: majors, funding, open interest, top-trader lean, fresh AI signals and screener movers. Use for \"what's happening in crypto\" or a recap.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/traderspy-market-briefing/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/traderspy-market-briefing/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 7164,
+  "truncated": false
+}

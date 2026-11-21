@@ -1,0 +1,11 @@
+{
+  "name": "multi-architect",
+  "display_name": "Multi Architect",
+  "description": "Design and optimize production-grade multi-agent systems with LangGraph, LangChain, and DeepAgents for complex AI workflows.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/multi-agent-architect/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/multi-agent-architect/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 11683,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "markstream-migration",
+  "display_name": "Markstream Migration",
+  "description": "Audit and migrate an existing Markdown renderer to Markstream while preserving custom renderers, security policy, streaming behavior, and explicit parity gaps.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/markstream-migration/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/markstream-migration/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 2443,
+  "truncated": false
+}

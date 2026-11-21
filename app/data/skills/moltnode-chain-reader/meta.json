@@ -1,0 +1,11 @@
+{
+  "name": "moltnode-chain-reader",
+  "display_name": "Moltnode Chain Reader",
+  "description": "Read 31 blockchains over keyless JSON-RPC with MoltNode (balances, blocks, contract calls) and get Chord swap quotes with an unsigned transaction and simulation.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/moltnode-chain-reader/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/moltnode-chain-reader/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 4381,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "mise-configurator",
+  "display_name": "Mise Configurator",
+  "description": "Generate production-ready mise.toml setups for local development, CI/CD pipelines, and toolchain standardization.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/mise-configurator/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/mise-configurator/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 3685,
+  "truncated": false
+}

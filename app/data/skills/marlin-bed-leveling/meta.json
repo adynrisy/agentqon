@@ -1,0 +1,11 @@
+{
+  "name": "marlin-bed-leveling",
+  "display_name": "Marlin Bed Leveling",
+  "description": "Calibrates Marlin 2.x 3D printer firmware bed leveling: Unified Bed Leveling (UBL), Bilinear ABL, M420 S1 post-homing, Z-probe offsets, G26 mesh prints, and EEPROM slots. Trigger phrases: marlin bed leveling, ubl calibration, m420 s1, z probe offset, g29 bed level, first layer adhesion.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/marlin-bed-leveling/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/marlin-bed-leveling/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 12263,
+  "truncated": false
+}

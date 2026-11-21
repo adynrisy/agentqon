@@ -1,0 +1,11 @@
+{
+  "name": "monte-carlo-analyze-root-cause",
+  "display_name": "Monte Carlo Analyze Root Cause",
+  "description": "Curated upstream guidance for Monte Carlo Analyze Root Cause; use when the workflow matches the user goal.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/monte-carlo-analyze-root-cause/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/monte-carlo-analyze-root-cause/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 15682,
+  "truncated": false
+}

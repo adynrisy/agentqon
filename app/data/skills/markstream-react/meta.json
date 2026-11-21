@@ -1,0 +1,11 @@
+{
+  "name": "markstream-react",
+  "display_name": "Markstream React",
+  "description": "Integrate the beta markstream-react renderer into React 18+ or Next.js with correct client/server entrypoints, CSS, streaming state, and component overrides.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/markstream-react/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/markstream-react/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 2685,
+  "truncated": false
+}

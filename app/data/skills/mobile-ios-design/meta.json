@@ -1,0 +1,11 @@
+{
+  "name": "mobile-ios-design",
+  "display_name": "Mobile iOS Design",
+  "description": "Master iOS Human Interface Guidelines and SwiftUI patterns for building native iOS apps. Use when designing iOS interfaces, implementing SwiftUI views, or ensuring apps follow Apple's design principles.",
+  "repo": "wshobson/agents",
+  "path": "plugins/ui-design/skills/mobile-ios-design/SKILL.md",
+  "url": "https://github.com/wshobson/agents/tree/HEAD/plugins/ui-design/skills/mobile-ios-design/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 6672,
+  "truncated": false
+}

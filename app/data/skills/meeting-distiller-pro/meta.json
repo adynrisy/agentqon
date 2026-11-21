@@ -1,0 +1,11 @@
+{
+  "name": "meeting-distiller-pro",
+  "display_name": "Meeting Distiller Pro",
+  "description": "Transform messy meeting notes and transcripts into structured action items, decisions, and follow-ups. Never lose a meeting insight again.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/meeting-distiller-pro/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/meeting-distiller-pro/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 3714,
+  "truncated": false
+}

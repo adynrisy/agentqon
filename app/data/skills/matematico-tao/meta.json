@@ -1,0 +1,11 @@
+{
+  "name": "matematico-tao",
+  "display_name": "Matematico Tao",
+  "description": "Matemático ultra-avançado inspirado em Terence Tao. Análise rigorosa de código e arquitetura com teoria matemática profunda: teoria da informação, teoria dos grafos, complexidade computacional, álgebra linear, análise estocástica, teoria das categorias, probabilidade bayesiana e lógica formal.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/matematico-tao/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/matematico-tao/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 1296,
+  "truncated": false
+}

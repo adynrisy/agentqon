@@ -1,0 +1,11 @@
+{
+  "name": "liquidity-pool",
+  "display_name": "Liquidity Pool",
+  "description": "Automated market maker liquidity pool register: constant-product invariant curves, swap fee tiers, and LP token shares for Soroban DeFi.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/soroban-liquidity-pool/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/soroban-liquidity-pool/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 4797,
+  "truncated": false
+}

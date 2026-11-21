@@ -1,0 +1,11 @@
+{
+  "name": "makepad-splash",
+  "display_name": "Makepad Splash",
+  "description": "CRITICAL: Use for Makepad Splash scripting language. Triggers on:\nsplash language, makepad script, makepad scripting, script!, cx.eval,\nmakepad dynamic, makepad AI, splash 语言, makepad 脚本",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/makepad-splash/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/makepad-splash/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 5512,
+  "truncated": false
+}

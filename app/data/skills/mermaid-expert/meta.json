@@ -1,0 +1,11 @@
+{
+  "name": "mermaid-expert",
+  "display_name": "Mermaid Expert",
+  "description": "Create Mermaid diagrams for flowcharts, sequences, ERDs, and architectures. Masters syntax for all diagram types and styling.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/mermaid-expert/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/mermaid-expert/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 2103,
+  "truncated": false
+}

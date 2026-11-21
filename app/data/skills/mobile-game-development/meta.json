@@ -1,0 +1,11 @@
+{
+  "name": "mobile-game-development",
+  "display_name": "Mobile Game Development",
+  "description": "Mobile game development principles. Touch input, battery, performance, app stores.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/game-development/mobile-games/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/game-development/mobile-games/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 3270,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "miro-automation",
+  "display_name": "Miro Automation",
+  "description": "Automate Miro tasks via Rube MCP (Composio): boards, items, sticky notes, frames, sharing, connectors. Always search tools first for current schemas.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/miro-automation/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/miro-automation/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 7876,
+  "truncated": false
+}

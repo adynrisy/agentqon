@@ -1,0 +1,11 @@
+{
+  "name": "manifest-observability-up",
+  "display_name": "Manifest Observability Up",
+  "description": "Install and configure the Manifest observability plugin for your agents. Use when setting up telemetry, configuring API keys, or troubleshooting the plugin.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/manifest/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/manifest/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 3382,
+  "truncated": false
+}

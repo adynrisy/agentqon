@@ -1,0 +1,11 @@
+{
+  "name": "migration-architect",
+  "display_name": "Migration Architect",
+  "description": "Zero-downtime migration planning, compatibility validation, and rollback strategy generation. Tools for system, database, and infrastructure migrations with minimal business impact. Use when planning a database migration, infrastructure cutover, system replacement, or any high-risk transition that needs explicit rollback paths.",
+  "repo": "alirezarezvani/claude-skills",
+  "path": ".gemini/skills/migration-architect/SKILL.md",
+  "url": "https://github.com/alirezarezvani/claude-skills/tree/HEAD/.gemini/skills/migration-architect/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 16345,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "llamaguard-meta-model",
+  "display_name": "Llamaguard Meta Model",
+  "description": "Meta's 7-8B specialized moderation model for LLM input/output filtering. 6 safety categories - violence/hate, sexual content, weapons, substances, self-harm, criminal planning. 94-95% accuracy. Deploy with vLLM, HuggingFace, Sagemaker. Integrates with NeMo Guardrails.",
+  "repo": "Orchestra-Research/AI-Research-SKILLs",
+  "path": "07-safety-alignment/llamaguard/SKILL.md",
+  "url": "https://github.com/Orchestra-Research/AI-Research-SKILLs/tree/HEAD/07-safety-alignment/llamaguard/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 8655,
+  "truncated": false
+}

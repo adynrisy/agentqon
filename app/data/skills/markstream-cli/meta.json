@@ -1,0 +1,11 @@
+{
+  "name": "markstream-cli",
+  "display_name": "Markstream CLI",
+  "description": "Integrate markstream-vue2 into Vue CLI or Webpack 4 with export-map-safe CSS, CDN worker fallbacks, and conservative code-block defaults.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/markstream-vue2-cli/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/markstream-vue2-cli/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 2455,
+  "truncated": false
+}

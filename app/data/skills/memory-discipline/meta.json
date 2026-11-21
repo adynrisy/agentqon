@@ -1,0 +1,11 @@
+{
+  "name": "memory-discipline",
+  "display_name": "Memory Discipline",
+  "description": "Rules for when an agent should recall from long-term memory before acting and when it should save decisions, corrections and failures afterwards. Works with any memory backend.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/agent-memory-discipline/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/agent-memory-discipline/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 11063,
+  "truncated": false
+}

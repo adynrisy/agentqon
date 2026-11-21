@@ -1,0 +1,11 @@
+{
+  "name": "mac-mini-llm-lab",
+  "display_name": "Mac Mini LLM Lab",
+  "description": "Configure a Mac mini as a reliable local LLM server with remote access, observability, and power-safe operation. Use when building an always-on private AI inference server on Apple Silicon.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/mac-mini-llm-lab/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/mac-mini-llm-lab/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 8215,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "logic-diff",
+  "display_name": "Logic Diff",
+  "description": "Compare two code versions for semantic equivalence via semi-formal tracing of both versions side-by-side.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/logic-diff/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/logic-diff/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 3197,
+  "truncated": false
+}

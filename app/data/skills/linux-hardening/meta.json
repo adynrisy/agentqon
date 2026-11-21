@@ -1,0 +1,11 @@
+{
+  "name": "linux-hardening",
+  "display_name": "Linux Hardening",
+  "description": "Apply CIS benchmarks and secure Linux servers.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/linux-hardening/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/linux-hardening/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 3919,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "markstream-install",
+  "display_name": "Markstream Install",
+  "description": "Install and configure Markstream streaming Markdown renderers for Vue, React, Svelte, Angular, Nuxt, Next.js, and Vue 2 applications.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/markstream-install/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/markstream-install/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 7289,
+  "truncated": false
+}

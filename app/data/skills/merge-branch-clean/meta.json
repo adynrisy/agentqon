@@ -1,0 +1,11 @@
+{
+  "name": "merge-branch-clean",
+  "display_name": "Merge Branch Clean",
+  "description": "Merge the winning agent's branch into base, archive losers, and clean up worktrees. Use when the user runs /hub:merge or asks to land the winning AgentHub result and tidy the session.",
+  "repo": "alirezarezvani/claude-skills",
+  "path": ".gemini/skills/merge/SKILL.md",
+  "url": "https://github.com/alirezarezvani/claude-skills/tree/HEAD/.gemini/skills/merge/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 2114,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "loop-build-autonomous",
+  "display_name": "Loop Build Autonomous",
+  "description": "Teaches agents to iteratively build websites using Stitch with an autonomous baton-passing loop pattern",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/stitch-loop/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/stitch-loop/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 10722,
+  "truncated": false
+}

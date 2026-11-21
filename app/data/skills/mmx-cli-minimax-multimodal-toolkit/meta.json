@@ -1,0 +1,11 @@
+{
+  "name": "mmx-cli-minimax-multimodal-toolkit",
+  "display_name": "Mmx CLI · Minimax Multimodal Toolkit",
+  "description": "Use mmx to generate text, images, video, speech, and music via the MiniMax AI platform. Use when the user wants to create media content, chat with MiniMax models, perform web search, or manage MiniMax API resources from the terminal.",
+  "repo": "MiniMax-AI/skills",
+  "path": "skills/minimax-multimodal-toolkit/SKILL.md",
+  "url": "https://github.com/MiniMax-AI/skills/tree/HEAD/skills/minimax-multimodal-toolkit/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 10690,
+  "truncated": false
+}

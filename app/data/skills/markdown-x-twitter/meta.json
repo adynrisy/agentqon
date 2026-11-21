@@ -1,0 +1,11 @@
+{
+  "name": "markdown-x-twitter",
+  "display_name": "Markdown X Twitter",
+  "description": "Converts X (Twitter) tweets and articles to markdown with YAML front matter. Uses reverse-engineered API requiring user consent. Use when user mentions \"X to markdown\", \"tweet to markdown\", \"save tweet\", or provides x.com/twitter.com URLs for conversion.",
+  "repo": "JimLiu/baoyu-skills",
+  "path": "skills/baoyu-danger-x-to-markdown/SKILL.md",
+  "url": "https://github.com/JimLiu/baoyu-skills/tree/HEAD/skills/baoyu-danger-x-to-markdown/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 6903,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "market-sizing-analysis",
+  "display_name": "Market Sizing Analysis",
+  "description": "Calculate TAM/SAM/SOM for market opportunities using top-down, bottom-up, and value theory methodologies. Use this skill when sizing markets, estimating addressable revenue, validating market opportunity for a new venture, or building investor-ready market analysis for a startup pitch or business plan.",
+  "repo": "wshobson/agents",
+  "path": "plugins/startup-business-analyst/skills/market-sizing-analysis/SKILL.md",
+  "url": "https://github.com/wshobson/agents/tree/HEAD/plugins/startup-business-analyst/skills/market-sizing-analysis/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 2107,
+  "truncated": false
+}

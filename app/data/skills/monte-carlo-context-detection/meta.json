@@ -1,0 +1,11 @@
+{
+  "name": "monte-carlo-context-detection",
+  "display_name": "Monte Carlo Context Detection",
+  "description": "Route data-related requests to the right Monte Carlo skill or workflow. USE WHEN alerts, incidents, data broken, stale, coverage gaps, data quality, or any ambiguous data observability request.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/monte-carlo-context-detection/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/monte-carlo-context-detection/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 9103,
+  "truncated": false
+}

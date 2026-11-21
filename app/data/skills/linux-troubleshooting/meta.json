@@ -1,0 +1,11 @@
+{
+  "name": "linux-troubleshooting",
+  "display_name": "Linux Troubleshooting",
+  "description": "Linux system troubleshooting workflow for diagnosing and resolving system issues, performance problems, and service failures.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/linux-troubleshooting/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/linux-troubleshooting/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 4136,
+  "truncated": false
+}

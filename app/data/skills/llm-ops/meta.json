@@ -1,0 +1,11 @@
+{
+  "name": "llm-ops",
+  "display_name": "LLM Ops",
+  "description": "LLM Operations -- RAG, embeddings, vector databases, fine-tuning, prompt engineering avancado, custos de LLM, evals de qualidade e arquiteturas de IA para producao.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/llm-ops/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/llm-ops/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 8136,
+  "truncated": false
+}

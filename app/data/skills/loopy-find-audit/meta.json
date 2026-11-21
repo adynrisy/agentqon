@@ -1,0 +1,11 @@
+{
+  "name": "loopy-find-audit",
+  "display_name": "Loopy Find Audit",
+  "description": "Discover, find, compare, audit, repair, adapt, craft, run, debrief, and prepare repeatable AI-agent loops for publication.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/loopy/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/loopy/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 13973,
+  "truncated": false
+}

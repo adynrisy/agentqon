@@ -1,0 +1,11 @@
+{
+  "name": "macos-menubar-tuist-app",
+  "display_name": "macOS Menubar Tuist App",
+  "description": "Build, refactor, or review SwiftUI macOS menubar apps that use Tuist.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/macos-menubar-tuist-app/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/macos-menubar-tuist-app/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 4382,
+  "truncated": false
+}

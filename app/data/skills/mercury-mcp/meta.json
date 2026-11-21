@@ -1,0 +1,11 @@
+{
+  "name": "mercury-mcp",
+  "display_name": "Mercury MCP",
+  "description": "Cheatsheet for the Mercury (proton) MCP tools. Use when connected to the Mercury MCP server to look up which mercury_* tool to call for messaging teammates, threads, tasks, automations, or admin team-graph edits.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "skills/mercury-mcp/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/skills/mercury-mcp/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 5771,
+  "truncated": false
+}

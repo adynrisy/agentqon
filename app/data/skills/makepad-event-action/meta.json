@@ -1,0 +1,11 @@
+{
+  "name": "makepad-event-action",
+  "display_name": "Makepad Event Action",
+  "description": "CRITICAL: Use for Makepad event and action handling. Triggers on:\nmakepad event, makepad action, Event enum, ActionTrait, handle_event,\nMouseDown, KeyDown, TouchUpdate, Hit, FingerDown, post_action,\nmakepad 事件, makepad action, 事件处理",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/makepad-event-action/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/makepad-event-action/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 7336,
+  "truncated": false
+}

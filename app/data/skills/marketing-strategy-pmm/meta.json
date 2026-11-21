@@ -1,0 +1,11 @@
+{
+  "name": "marketing-strategy-pmm",
+  "display_name": "Marketing Strategy Pmm",
+  "description": "Product marketing skill for positioning, GTM strategy, competitive intelligence, and product launches. Use when the user asks about product positioning, go-to-market planning, competitive analysis, target audience definition, ICP definition, market research, launch plans, or sales enablement. Covers April Dunford positioning, ICP definition, competitive battlecards, launch playbooks, and international market entry. Produces deliverables including positioning statements, battlecard documents, launch plans, and go-to-market strategies.",
+  "repo": "alirezarezvani/claude-skills",
+  "path": ".gemini/skills/marketing-strategy-pmm/SKILL.md",
+  "url": "https://github.com/alirezarezvani/claude-skills/tree/HEAD/.gemini/skills/marketing-strategy-pmm/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 11574,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "memory-systems",
+  "display_name": "Memory Systems",
+  "description": "Design tenant-scoped memory, retrieval and retention for agents. Use when planning RAG, conversation history, vector stores or remembering across sessions.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/agent-memory-systems/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/agent-memory-systems/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 2674,
+  "truncated": false
+}

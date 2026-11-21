@@ -1,0 +1,11 @@
+{
+  "name": "luna-reviews-code",
+  "display_name": "Luna Reviews Code",
+  "description": "Reviews code for objective correctness, security, and reliability.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/agent-squad/luna/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/agent-squad/luna/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 7021,
+  "truncated": false
+}

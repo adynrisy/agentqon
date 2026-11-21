@@ -1,0 +1,11 @@
+{
+  "name": "mcp-builder-ms",
+  "display_name": "MCP Builder Ms",
+  "description": "Use this skill when building MCP servers to integrate external APIs or services, whether in Python (FastMCP) or Node/TypeScript (MCP SDK).",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/mcp-builder-ms/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/mcp-builder-ms/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 11635,
+  "truncated": false
+}

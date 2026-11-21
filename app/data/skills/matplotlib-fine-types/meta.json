@@ -1,0 +1,11 @@
+{
+  "name": "matplotlib-fine-types",
+  "display_name": "Matplotlib Fine Types",
+  "description": "Creates and customizes scientific plots with Matplotlib. Used for fine-grained control over plot elements, novel plot types, and scientific workflows. Export to PNG/PDF/SVG for publication. For quick statistical plots use seaborn; for interactive plots use plotly; for publication-ready multi-panel figures with journal styling, use scientific-visualization.",
+  "repo": "K-Dense-AI/scientific-agent-skills",
+  "path": "skills/matplotlib/SKILL.md",
+  "url": "https://github.com/K-Dense-AI/scientific-agent-skills/tree/HEAD/skills/matplotlib/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 15795,
+  "truncated": false
+}

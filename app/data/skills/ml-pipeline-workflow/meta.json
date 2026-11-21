@@ -1,0 +1,11 @@
+{
+  "name": "ml-pipeline-workflow",
+  "display_name": "ML Pipeline Workflow",
+  "description": "Complete end-to-end MLOps pipeline orchestration from data preparation through model deployment.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/ml-pipeline-workflow/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/ml-pipeline-workflow/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 8367,
+  "truncated": false
+}

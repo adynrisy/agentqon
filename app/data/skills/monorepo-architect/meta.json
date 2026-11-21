@@ -1,0 +1,11 @@
+{
+  "name": "monorepo-architect",
+  "display_name": "Monorepo Architect",
+  "description": "Expert in monorepo architecture, build systems, and dependency management at scale. Masters Nx, Turborepo, Bazel, and Lerna for efficient multi-project development. Use for scoped monorepo setup, build or dependency review.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/monorepo-architect/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/monorepo-architect/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 2592,
+  "truncated": false
+}

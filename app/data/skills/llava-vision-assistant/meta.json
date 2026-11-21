@@ -1,0 +1,11 @@
+{
+  "name": "llava-vision-assistant",
+  "display_name": "Llava Vision Assistant",
+  "description": "Large Language and Vision Assistant. Enables visual instruction tuning and image-based conversations. Combines CLIP vision encoder with Vicuna/LLaMA language models. Supports multi-turn image chat, visual question answering, and instruction following. Use for vision-language chatbots or image understanding tasks. Best for conversational image analysis.",
+  "repo": "Orchestra-Research/AI-Research-SKILLs",
+  "path": "18-multimodal/llava/SKILL.md",
+  "url": "https://github.com/Orchestra-Research/AI-Research-SKILLs/tree/HEAD/18-multimodal/llava/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 7205,
+  "truncated": false
+}

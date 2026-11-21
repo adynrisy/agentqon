@@ -1,0 +1,11 @@
+{
+  "name": "llm-caching",
+  "display_name": "LLM Caching",
+  "description": "Implement multi-layer LLM caching with exact match, semantic similarity, and provider-side prompt caching.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/llm-caching/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/llm-caching/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 10692,
+  "truncated": false
+}

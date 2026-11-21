@@ -1,0 +1,11 @@
+{
+  "name": "market-data",
+  "display_name": "Market Data",
+  "description": "Real-time quotes, K-line charts, order book, trade ticks, intraday capital flow, market sentiment temperature, trading session schedule, security lists, exchange rates, and IPO calendar for HK/US/A-share/SG via Longbridge. Also covers ADR premium and FX carry frameworks.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/longbridge-market-data/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/longbridge-market-data/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 6446,
+  "truncated": false
+}

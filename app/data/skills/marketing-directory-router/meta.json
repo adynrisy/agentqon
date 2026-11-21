@@ -1,0 +1,11 @@
+{
+  "name": "marketing-directory-router",
+  "display_name": "Marketing Directory Router",
+  "description": "Directory and router for the marketing skills library. Use when you need to find the right marketing skill for a task, see what marketing capabilities exist, or get oriented in this plugin. 44 specialist skills across 8 pods (content, SEO + AEO, CRO, channels, growth, intelligence, sales enablement, ops), 59 stdlib Python tools. Routes to one skill — it does not execute marketing work itself.",
+  "repo": "alirezarezvani/claude-skills",
+  "path": ".gemini/skills/marketing-skills/SKILL.md",
+  "url": "https://github.com/alirezarezvani/claude-skills/tree/HEAD/.gemini/skills/marketing-skills/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 4650,
+  "truncated": false
+}

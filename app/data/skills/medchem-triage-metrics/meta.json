@@ -1,0 +1,11 @@
+{
+  "name": "medchem-triage-metrics",
+  "display_name": "Medchem Triage Metrics",
+  "description": "Applies medicinal chemistry filters for compound triage, using drug-likeness rules (Lipinski, Veber, CNS), structural alert catalogs (PAINS, NIBR, ChEMBL), complexity metrics, and the medchem query language for library filtering.",
+  "repo": "K-Dense-AI/scientific-agent-skills",
+  "path": "skills/medchem/SKILL.md",
+  "url": "https://github.com/K-Dense-AI/scientific-agent-skills/tree/HEAD/skills/medchem/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 15046,
+  "truncated": false
+}

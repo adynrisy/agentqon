@@ -1,0 +1,11 @@
+{
+  "name": "minimalist-ui",
+  "display_name": "Minimalist UI",
+  "description": "Use when creating clean editorial interfaces with warm monochrome palettes, crisp borders, restrained motion, and flat bento layouts.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/minimalist-ui/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/minimalist-ui/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 8697,
+  "truncated": false
+}

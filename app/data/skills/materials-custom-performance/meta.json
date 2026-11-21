@@ -1,0 +1,11 @@
+{
+  "name": "materials-custom-performance",
+  "display_name": "Materials Custom Performance",
+  "description": "Three.js materials - PBR, basic, phong, shader materials, material properties. Use when styling meshes, working with textures, creating custom shaders, or optimizing material performance.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/threejs-materials/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/threejs-materials/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 790,
+  "truncated": false
+}

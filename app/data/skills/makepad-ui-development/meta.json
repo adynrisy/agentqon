@@ -1,0 +1,11 @@
+{
+  "name": "makepad-ui-development",
+  "display_name": "Makepad UI Development",
+  "description": "Makepad UI development skills for Rust apps: setup, patterns, shaders, packaging, and troubleshooting.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/makepad-skills/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/makepad-skills/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 1537,
+  "truncated": false
+}

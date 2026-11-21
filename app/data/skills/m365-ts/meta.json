@@ -1,0 +1,11 @@
+{
+  "name": "m365-ts",
+  "display_name": "M365 TS",
+  "description": "Microsoft 365 Agents SDK for TypeScript/Node.js.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/m365-agents-ts/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/m365-agents-ts/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 7155,
+  "truncated": false
+}

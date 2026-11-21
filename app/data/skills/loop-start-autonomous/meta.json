@@ -1,0 +1,11 @@
+{
+  "name": "loop-start-autonomous",
+  "display_name": "Loop Start Autonomous",
+  "description": "Start an autonomous experiment loop with user-selected interval (10min, 1h, daily, weekly, monthly). Uses CronCreate for scheduling. Use when the user runs /ar:loop or asks to run an autoresearch experiment continuously on a schedule.",
+  "repo": "alirezarezvani/claude-skills",
+  "path": ".gemini/skills/loop/SKILL.md",
+  "url": "https://github.com/alirezarezvani/claude-skills/tree/HEAD/.gemini/skills/loop/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 3932,
+  "truncated": false
+}

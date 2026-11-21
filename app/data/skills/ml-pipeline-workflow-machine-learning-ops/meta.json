@@ -1,0 +1,11 @@
+{
+  "name": "ml-pipeline-workflow-machine-learning-ops",
+  "display_name": "ML Pipeline Workflow · Machine Learning Ops",
+  "description": "Build end-to-end MLOps pipelines from data preparation through model training, validation, and production deployment. Use when creating ML pipelines, implementing MLOps practices, or automating model training and deployment workflows.",
+  "repo": "wshobson/agents",
+  "path": "plugins/machine-learning-ops/skills/ml-pipeline-workflow/SKILL.md",
+  "url": "https://github.com/wshobson/agents/tree/HEAD/plugins/machine-learning-ops/skills/ml-pipeline-workflow/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 6811,
+  "truncated": false
+}

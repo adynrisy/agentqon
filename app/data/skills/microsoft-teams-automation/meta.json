@@ -1,0 +1,11 @@
+{
+  "name": "microsoft-teams-automation",
+  "display_name": "Microsoft Teams Automation",
+  "description": "Automate Microsoft Teams tasks via Rube MCP (Composio): send messages, manage channels, create meetings, handle chats, and search messages. Always search tools first for current schemas.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/microsoft-teams-automation/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/microsoft-teams-automation/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 8670,
+  "truncated": false
+}

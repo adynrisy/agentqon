@@ -1,0 +1,11 @@
+{
+  "name": "makepad-platform",
+  "display_name": "Makepad Platform",
+  "description": "CRITICAL: Use for Makepad cross-platform support. Triggers on:\nmakepad platform, makepad os, makepad macos, makepad windows, makepad linux,\nmakepad android, makepad ios, makepad web, makepad wasm, makepad metal,\nmakepad d3d11, makepad opengl, makepad webgl, OsType, CxOs,\nmakepad 跨平台, makepad 平台支持",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/makepad-platform/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/makepad-platform/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 5323,
+  "truncated": false
+}

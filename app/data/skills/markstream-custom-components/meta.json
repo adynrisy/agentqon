@@ -1,0 +1,11 @@
+{
+  "name": "markstream-custom-components",
+  "display_name": "Markstream Custom Components",
+  "description": "Override Markstream node renderers and add trusted custom tags across Vue, React, Svelte, and Angular using scoped or renderer-local mappings.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/markstream-custom-components/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/markstream-custom-components/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 2442,
+  "truncated": false
+}

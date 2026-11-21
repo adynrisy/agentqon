@@ -1,0 +1,11 @@
+{
+  "name": "liteparse-local-document",
+  "display_name": "Liteparse Local Document",
+  "description": "Local document and PDF parsing that returns spatial text with bounding boxes. Use for extracting text from PDFs, DOCX, Office files, and images; running OCR on scans; producing layout-preserved JSON for RAG; batch-ingesting folders of papers; or rendering pages to PNG for multimodal agents. Distinguishing capabilities are spatial text boxes, Markdown, page raster output, and local parsing with optional custom HTTP OCR.",
+  "repo": "K-Dense-AI/scientific-agent-skills",
+  "path": "skills/liteparse/SKILL.md",
+  "url": "https://github.com/K-Dense-AI/scientific-agent-skills/tree/HEAD/skills/liteparse/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 11484,
+  "truncated": false
+}

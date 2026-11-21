@@ -1,0 +1,11 @@
+{
+  "name": "modal-serverless-cloud",
+  "display_name": "Modal Serverless Cloud",
+  "description": "Modal is a serverless cloud platform for running Python on demand, including on-demand GPUs. Use when deploying or serving AI/ML models, running GPU-accelerated workloads (training, fine-tuning, inference), serving web endpoints, scheduling batch jobs, or scaling Python code to cloud containers with the Modal SDK.",
+  "repo": "K-Dense-AI/scientific-agent-skills",
+  "path": "skills/modal/SKILL.md",
+  "url": "https://github.com/K-Dense-AI/scientific-agent-skills/tree/HEAD/skills/modal/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 17110,
+  "truncated": false
+}

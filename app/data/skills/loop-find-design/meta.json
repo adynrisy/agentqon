@@ -1,0 +1,11 @@
+{
+  "name": "loop-find-design",
+  "display_name": "Loop Find Design",
+  "description": "Find, compare, adapt, and design bounded AI-agent feedback loops with explicit checks, stop rules, guardrails, and handoffs.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/loop-library/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/loop-library/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 8214,
+  "truncated": false
+}

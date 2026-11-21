@@ -1,0 +1,11 @@
+{
+  "name": "md2video-audio",
+  "display_name": "Md2video Audio",
+  "description": "Convert Markdown documents into narrated MP4 videos with synchronized visuals and voice narration.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/md2video-audio/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/md2video-audio/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 4533,
+  "truncated": false
+}

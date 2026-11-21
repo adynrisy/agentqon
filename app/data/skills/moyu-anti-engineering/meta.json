@@ -1,0 +1,11 @@
+{
+  "name": "moyu-anti-engineering",
+  "display_name": "Moyu Anti Engineering",
+  "description": "Anti-over-engineering guardrail that activates when an AI coding agent expands scope, adds abstractions, or changes files the user did not request.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/moyu/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/moyu/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 11117,
+  "truncated": false
+}

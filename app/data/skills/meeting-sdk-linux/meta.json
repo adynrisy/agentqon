@@ -1,0 +1,11 @@
+{
+  "name": "meeting-sdk-linux",
+  "display_name": "Meeting SDK Linux",
+  "description": "Zoom Meeting SDK for Linux - C++ headless meeting bots with raw audio/video access, transcription, recording, and AI integration for server-side automation",
+  "repo": "anthropics/knowledge-work-plugins",
+  "path": "partner-built/zoom-plugin/skills/meeting-sdk/linux/SKILL.md",
+  "url": "https://github.com/anthropics/knowledge-work-plugins/tree/HEAD/partner-built/zoom-plugin/skills/meeting-sdk/linux/SKILL.md",
+  "license": "Apache-2.0",
+  "body_bytes": 15163,
+  "truncated": false
+}

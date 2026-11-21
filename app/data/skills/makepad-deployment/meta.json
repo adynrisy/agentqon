@@ -1,0 +1,11 @@
+{
+  "name": "makepad-deployment",
+  "display_name": "Makepad Deployment",
+  "description": "CRITICAL: Use for Makepad packaging and deployment. Triggers on:\ndeploy, package, APK, IPA, 打包, 部署,\ncargo-packager, cargo-makepad, WASM, Android, iOS,\ndistribution, installer, .deb, .dmg, .nsis,\nGitHub Actions, CI, action, marketplace",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/makepad-deployment/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/makepad-deployment/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 13095,
+  "truncated": false
+}

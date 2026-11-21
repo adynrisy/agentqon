@@ -1,0 +1,11 @@
+{
+  "name": "logic-locate",
+  "display_name": "Logic Locate",
+  "description": "Locate the root cause of a CONFIRMED failure via backward-then-forward semi-formal tracing.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/logic-locate/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/logic-locate/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 3547,
+  "truncated": false
+}

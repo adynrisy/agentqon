@@ -1,0 +1,11 @@
+{
+  "name": "macos-screen-recorder",
+  "display_name": "macOS Screen Recorder",
+  "description": "macOS screen recorder that captures the main display PLUS system audio via ScreenCaptureKit — no BlackHole/loopback driver, no sudo, just the standard Screen Recording permission. CLI-driven; fills the headless-screen-recording-with-system-sound gap QuickTime and `screencapture -v` can't.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "skills/macos-screen-recorder/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/skills/macos-screen-recorder/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 2671,
+  "truncated": false
+}

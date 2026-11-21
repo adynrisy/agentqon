@@ -1,0 +1,11 @@
+{
+  "name": "monetization-de-stripe",
+  "display_name": "Monetization De Stripe",
+  "description": "Estrategia e implementacao de monetizacao para produtos digitais - Stripe, subscriptions, pricing experiments, freemium, upgrade flows, churn prevention, revenue optimization e modelos de negocio SaaS.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/monetization/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/monetization/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 11416,
+  "truncated": false
+}

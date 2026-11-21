@@ -1,0 +1,11 @@
+{
+  "name": "monopoly-senior-system",
+  "display_name": "Monopoly Senior System",
+  "description": "MONOPOLY is a Senior System Design Engineer skill for architecting, reviewing, and scaling systems. Triggers on requests involving architecture, databases, scaling, microservices, or infrastructure design. Proactively engages to design resilient backend systems.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/monopoly/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/monopoly/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 16094,
+  "truncated": false
+}

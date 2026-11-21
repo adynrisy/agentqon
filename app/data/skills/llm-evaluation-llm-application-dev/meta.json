@@ -1,0 +1,11 @@
+{
+  "name": "llm-evaluation-llm-application-dev",
+  "display_name": "LLM Evaluation · LLM Application Dev",
+  "description": "Implement comprehensive evaluation strategies for LLM applications using automated metrics, human feedback, and benchmarking. Use when testing LLM performance, measuring AI application quality, or establishing evaluation frameworks.",
+  "repo": "wshobson/agents",
+  "path": "plugins/llm-application-dev/skills/llm-evaluation/SKILL.md",
+  "url": "https://github.com/wshobson/agents/tree/HEAD/plugins/llm-application-dev/skills/llm-evaluation/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 3653,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "model-supply-chain-security",
+  "display_name": "Model Supply Chain Security",
+  "description": "Secure the AI model supply chain with artifact signing, provenance attestation, SBOM workflows, dependency controls, and trusted model promotion.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/model-supply-chain-security/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/model-supply-chain-security/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 12676,
+  "truncated": false
+}

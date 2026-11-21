@@ -1,0 +1,11 @@
+{
+  "name": "micro-saas-launcher",
+  "display_name": "Micro SaaS Launcher",
+  "description": "Expert in launching small, focused SaaS products fast - the indie hacker approach to building profitable software. Covers idea validation, MVP development, pricing, launch strategies, and growing to sustainable revenue. Ship in weeks, not months.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/micro-saas-launcher/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/micro-saas-launcher/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 1624,
+  "truncated": false
+}

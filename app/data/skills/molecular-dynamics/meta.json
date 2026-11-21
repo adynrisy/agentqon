@@ -1,0 +1,11 @@
+{
+  "name": "molecular-dynamics",
+  "display_name": "Molecular Dynamics",
+  "description": "Runs and analyzes molecular dynamics simulations with OpenMM and MDAnalysis. Sets up protein/small molecule systems, defines force fields, runs energy minimization and production MD, and analyzes trajectories (RMSD, RMSF, contact maps, free energy surfaces). For structural biology, drug binding, and biophysics.",
+  "repo": "K-Dense-AI/scientific-agent-skills",
+  "path": "skills/molecular-dynamics/SKILL.md",
+  "url": "https://github.com/K-Dense-AI/scientific-agent-skills/tree/HEAD/skills/molecular-dynamics/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 18290,
+  "truncated": false
+}

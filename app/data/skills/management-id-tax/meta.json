@@ -1,0 +1,11 @@
+{
+  "name": "management-id-tax",
+  "display_name": "Management ID Tax",
+  "description": "Expense claim register: claim id, employee and department, amount and tax, approver and level, category, cost centre, budget line, receipt flag and status. Use for claim approvals.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/expense-management/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/expense-management/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 14859,
+  "truncated": false
+}

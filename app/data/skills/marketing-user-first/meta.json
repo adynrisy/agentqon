@@ -1,0 +1,11 @@
+{
+  "name": "marketing-user-first",
+  "display_name": "Marketing User First",
+  "description": "Use when a user asks how to win first customers, whether doing X will produce Y, how to write an ad or judge a marketing test — a marketer's decision framework, not a tactic library.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/marketing-mindset/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/marketing-mindset/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 6559,
+  "truncated": false
+}

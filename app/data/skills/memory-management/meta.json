@@ -1,0 +1,11 @@
+{
+  "name": "memory-management",
+  "display_name": "Memory Management",
+  "description": "Two-tier memory system that makes Claude a true workplace collaborator. Decodes shorthand, acronyms, nicknames, and internal language so Claude understands requests like a colleague would. CLAUDE.md for working memory, memory/ directory for the full knowledge base.",
+  "repo": "anthropics/knowledge-work-plugins",
+  "path": "productivity/skills/memory-management/SKILL.md",
+  "url": "https://github.com/anthropics/knowledge-work-plugins/tree/HEAD/productivity/skills/memory-management/SKILL.md",
+  "license": "Apache-2.0",
+  "body_bytes": 8408,
+  "truncated": false
+}

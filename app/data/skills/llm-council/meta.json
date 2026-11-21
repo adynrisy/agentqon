@@ -1,0 +1,11 @@
+{
+  "name": "llm-council",
+  "display_name": "LLM Council",
+  "description": "Run Fireworks-hosted open-weight model councils that compare responses and synthesize a final answer.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/llm-council/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/llm-council/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 2014,
+  "truncated": false
+}

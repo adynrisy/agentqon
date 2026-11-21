@@ -1,0 +1,11 @@
+{
+  "name": "mermaid-proverif",
+  "display_name": "Mermaid Proverif",
+  "description": "Translates Mermaid sequenceDiagrams describing cryptographic protocols into ProVerif formal verification models (.pv files). Use when generating a ProVerif model, formally verifying a protocol, converting a Mermaid diagram to ProVerif, verifying protocol security properties (secrecy, authentication, forward secrecy), checking for replay attacks, or producing a .pv file from a sequence diagram.",
+  "repo": "trailofbits/skills",
+  "path": "plugins/trailmark/skills/mermaid-to-proverif/SKILL.md",
+  "url": "https://github.com/trailofbits/skills/tree/HEAD/plugins/trailmark/skills/mermaid-to-proverif/SKILL.md",
+  "license": "CC",
+  "body_bytes": 18197,
+  "truncated": false
+}

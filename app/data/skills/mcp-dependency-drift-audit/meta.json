@@ -1,0 +1,11 @@
+{
+  "name": "mcp-dependency-drift-audit",
+  "display_name": "MCP Dependency Drift Audit",
+  "description": "Statically audit MCP configs for mutable npm/npx package references before approval or CI, without executing discovered MCP servers.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/mcp-dependency-drift-audit/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/mcp-dependency-drift-audit/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 7364,
+  "truncated": false
+}

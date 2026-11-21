@@ -1,0 +1,11 @@
+{
+  "name": "monte-carlo-storage-cost-analysis",
+  "display_name": "Monte Carlo Storage Cost Analysis",
+  "description": "Analyze a warehouse for stale, unused, or redundant tables via the analyze_storage_costs MCP tool. Classifies waste patterns and table categories, computes safety tiers, and handles category drill-downs and lineage follow-ups.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/monte-carlo-storage-cost-analysis/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/monte-carlo-storage-cost-analysis/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 8689,
+  "truncated": false
+}

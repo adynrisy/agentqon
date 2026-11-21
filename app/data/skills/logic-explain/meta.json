@@ -1,0 +1,11 @@
+{
+  "name": "logic-explain",
+  "display_name": "Logic Explain",
+  "description": "Explain what a specific piece of code actually does for a given input by producing a step-by-step execution trace (interprocedural, with name resolution and type transitions).",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/logic-explain/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/logic-explain/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 3124,
+  "truncated": false
+}

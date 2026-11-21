@@ -1,0 +1,11 @@
+{
+  "name": "managing-contacts",
+  "display_name": "Managing Contacts",
+  "description": "Manage Mailtrap contacts, lists, segments, custom fields, imports, CRM syncs, and campaign audiences through the UI or API.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/mailtrap-managing-contacts/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/mailtrap-managing-contacts/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 7183,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "mlops-engineer",
+  "display_name": "Mlops Engineer",
+  "description": "Build comprehensive ML pipelines, experiment tracking, and model registries with MLflow, Kubeflow, and modern MLOps tools.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/mlops-engineer/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/mlops-engineer/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 10858,
+  "truncated": false
+}

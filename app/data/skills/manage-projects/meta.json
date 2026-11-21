@@ -1,0 +1,11 @@
+{
+  "name": "manage-projects",
+  "display_name": "Manage Projects",
+  "description": "Manage Linear issues, projects, and teams",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/linear-claude-skill/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/linear-claude-skill/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 884,
+  "truncated": false
+}

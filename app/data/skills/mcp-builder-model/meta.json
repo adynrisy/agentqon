@@ -1,0 +1,11 @@
+{
+  "name": "mcp-builder-model",
+  "display_name": "MCP Builder · Model",
+  "description": "Create MCP (Model Context Protocol) servers that enable LLMs to interact with external services through well-designed tools. The quality of an MCP server is measured by how well it enables LLMs to accomplish real-world tasks.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/mcp-builder/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/mcp-builder/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 11254,
+  "truncated": false
+}

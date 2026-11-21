@@ -1,0 +1,11 @@
+{
+  "name": "llm-deploy-api",
+  "display_name": "LLM Deploy API",
+  "description": "Deploy an API gateway for LLM traffic with load balancing, rate limiting, key management, semantic caching, fallback routing, and cost tracking.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/llm-gateway/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/llm-gateway/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 7760,
+  "truncated": false
+}

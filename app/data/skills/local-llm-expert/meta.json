@@ -1,0 +1,11 @@
+{
+  "name": "local-llm-expert",
+  "display_name": "Local LLM Expert",
+  "description": "Master local LLM inference, model selection, VRAM optimization, and local deployment using Ollama, llama.cpp, vLLM, and LM Studio. Expert in quantization formats (GGUF, EXL2) and local AI privacy.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/local-llm-expert/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/local-llm-expert/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 5904,
+  "truncated": false
+}

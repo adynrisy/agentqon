@@ -1,0 +1,11 @@
+{
+  "name": "meeting-notes",
+  "display_name": "Meeting Notes",
+  "description": "Turns raw meeting notes into structured minutes: conclusion first, then decisions / action items / open questions; every action item must have an owner and a deadline. Use when the user pastes meeting transcripts or rough notes and asks for minutes or a summary.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/meeting-notes/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/meeting-notes/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 3631,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "models-py",
+  "display_name": "Models Py",
+  "description": "Create Pydantic models following the multi-model pattern for clean API contracts.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/pydantic-models-py/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/pydantic-models-py/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 1952,
+  "truncated": false
+}
