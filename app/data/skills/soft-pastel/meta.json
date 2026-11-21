@@ -1,0 +1,11 @@
+{
+  "name": "soft-pastel",
+  "display_name": "Soft Pastel",
+  "description": "Web and App implementation guide for Soft Pastel Design. Trigger when user wants gentle colors, calming UI, baby/lifestyle branding, or low-contrast aesthetics.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/design-it/soft-pastel/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/design-it/soft-pastel/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 10620,
+  "truncated": false
+}

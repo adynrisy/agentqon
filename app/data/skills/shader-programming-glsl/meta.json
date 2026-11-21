@@ -1,0 +1,11 @@
+{
+  "name": "shader-programming-glsl",
+  "display_name": "Shader Programming Glsl",
+  "description": "Expert guide for writing efficient GLSL shaders (Vertex/Fragment) for web and game engines, covering syntax, uniforms, and common effects.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/shader-programming-glsl/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/shader-programming-glsl/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 3610,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "software-architecture",
+  "display_name": "Software Architecture",
+  "description": "Guide for quality focused software architecture. This skill should be used when users want to write code, design architecture, analyze code, in any case that relates to software development.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/software-architecture/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/software-architecture/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 3841,
+  "truncated": false
+}

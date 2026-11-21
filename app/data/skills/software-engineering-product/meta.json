@@ -1,0 +1,11 @@
+{
+  "name": "software-engineering-product",
+  "display_name": "Software Engineering Product",
+  "description": "Software engineering and product design workflow and Senior Product Designer. Full workflow with planning, architecture, TDD, clean code, and pixel-perfect UX validation.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/nerdzao-elite/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/nerdzao-elite/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 2105,
+  "truncated": false
+}

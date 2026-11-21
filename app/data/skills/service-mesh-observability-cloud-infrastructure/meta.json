@@ -1,0 +1,11 @@
+{
+  "name": "service-mesh-observability-cloud-infrastructure",
+  "display_name": "Service Mesh Observability · Cloud Infrastructure",
+  "description": "Implement comprehensive observability for service meshes including distributed tracing, metrics, and visualization. Use when setting up mesh monitoring, debugging latency issues, or implementing SLOs for service communication.",
+  "repo": "wshobson/agents",
+  "path": "plugins/cloud-infrastructure/skills/service-mesh-observability/SKILL.md",
+  "url": "https://github.com/wshobson/agents/tree/HEAD/plugins/cloud-infrastructure/skills/service-mesh-observability/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 2551,
+  "truncated": false
+}

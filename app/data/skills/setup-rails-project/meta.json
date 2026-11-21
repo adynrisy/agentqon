@@ -1,0 +1,11 @@
+{
+  "name": "setup-rails-project",
+  "display_name": "Setup Rails Project",
+  "description": "Configure a Rails project to work with Conductor (parallel coding agents)",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/conductor-setup/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/conductor-setup/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 5541,
+  "truncated": false
+}

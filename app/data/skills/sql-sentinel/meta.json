@@ -1,0 +1,11 @@
+{
+  "name": "sql-sentinel",
+  "display_name": "SQL Sentinel",
+  "description": "Audit SQL for the cost & performance anti-patterns that burn warehouse credits. Scores warehouse health 0-100 and outputs a prioritized cost-reduction plan for BigQuery, Snowflake, Redshift, and Postgres.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "skills/sql-sentinel/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/skills/sql-sentinel/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 5177,
+  "truncated": false
+}

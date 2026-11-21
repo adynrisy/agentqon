@@ -1,0 +1,11 @@
+{
+  "name": "smart-money",
+  "display_name": "Smart Money",
+  "description": "Track what top crypto futures traders hold on Binance, Hyperliquid, Bybit and OKX with TraderSpy: elite leaderboard, positions, trader profiles and history. Use for \"what are whales doing\".",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/traderspy-smart-money/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/traderspy-smart-money/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 8900,
+  "truncated": false
+}

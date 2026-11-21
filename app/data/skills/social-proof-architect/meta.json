@@ -1,0 +1,11 @@
+{
+  "name": "social-proof-architect",
+  "display_name": "Social Proof Architect",
+  "description": "Select and place genuine testimonials, case studies, and other proof when an audience needs evidence at specific trust barriers.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/social-proof-architect/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/social-proof-architect/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 6885,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "setup-solution",
+  "display_name": "Setup Solution",
+  "description": "Creates a Dataverse publisher and solution, then adds Power Pages site components to the solution for ALM and deployment management. Use when asked to: \"create solution\", \"set up solution\", \"add to solution\", \"package site into solution\", \"create publisher\", \"solutionize my site\", or \"set up ALM for my site\".",
+  "repo": "microsoft/power-platform-skills",
+  "path": "plugins/power-pages/skills/setup-solution/SKILL.md",
+  "url": "https://github.com/microsoft/power-platform-skills/tree/HEAD/plugins/power-pages/skills/setup-solution/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 65536,
+  "truncated": true
+}

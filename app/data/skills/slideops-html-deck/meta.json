@@ -1,0 +1,11 @@
+{
+  "name": "slideops-html-deck",
+  "display_name": "Slideops HTML Deck",
+  "description": "Turn a repository into a cited HTML slide deck and detect the day it drifts from the code. Citations record file, lines, and hash; a stdlib check reports CURRENT, MOVED, or CHANGED.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/slideops/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/slideops/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 9979,
+  "truncated": false
+}

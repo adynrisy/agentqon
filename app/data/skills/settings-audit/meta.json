@@ -1,0 +1,11 @@
+{
+  "name": "settings-audit",
+  "display_name": "Settings Audit",
+  "description": "Analyze a repository to generate recommended Claude Code settings.json permissions. Use when setting up a new project, auditing existing settings, or determining which read-only bash commands to allow. Detects tech stack, build tools, and monorepo structure.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "skills/claude-settings-audit/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/skills/claude-settings-audit/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 12005,
+  "truncated": false
+}

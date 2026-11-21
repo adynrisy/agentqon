@@ -1,0 +1,11 @@
+{
+  "name": "sop-company-wiki",
+  "display_name": "Sop Company Wiki",
+  "description": "SOP and company wiki register: title, category, department, owner, version, priority and review dates. Use for process documentation.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/sop-company-wiki/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/sop-company-wiki/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 13063,
+  "truncated": false
+}

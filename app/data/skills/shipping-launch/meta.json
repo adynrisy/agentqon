@@ -1,0 +1,11 @@
+{
+  "name": "shipping-launch",
+  "display_name": "Shipping Launch",
+  "description": "Prepares production launches. Use when preparing to deploy to production, or when asking what needs to be in place before shipping. Use when you need a pre-launch checklist, when setting up monitoring, when planning a staged rollout, or when you need a rollback strategy.",
+  "repo": "addyosmani/agent-skills",
+  "path": "skills/shipping-and-launch/SKILL.md",
+  "url": "https://github.com/addyosmani/agent-skills/tree/HEAD/skills/shipping-and-launch/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 11195,
+  "truncated": false
+}

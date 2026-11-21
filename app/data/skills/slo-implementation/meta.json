@@ -1,0 +1,11 @@
+{
+  "name": "slo-implementation",
+  "display_name": "Slo Implementation",
+  "description": "Define and implement Service Level Indicators (SLIs) and Service Level Objectives (SLOs) with error budgets and alerting. Use when establishing reliability targets, implementing SRE practices, or measuring service performance.",
+  "repo": "wshobson/agents",
+  "path": "plugins/observability-monitoring/skills/slo-implementation/SKILL.md",
+  "url": "https://github.com/wshobson/agents/tree/HEAD/plugins/observability-monitoring/skills/slo-implementation/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 6889,
+  "truncated": false
+}

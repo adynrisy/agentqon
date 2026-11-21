@@ -1,0 +1,11 @@
+{
+  "name": "seo-programmatic",
+  "display_name": "SEO Programmatic",
+  "description": "Plan and audit programmatic SEO pages generated at scale from structured data. Use when designing templates, URL systems, internal linking, quality gates, and index-bloat safeguards for pages at scale.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/seo-programmatic/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/seo-programmatic/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 9041,
+  "truncated": false
+}

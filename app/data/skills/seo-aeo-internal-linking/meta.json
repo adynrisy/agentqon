@@ -1,0 +1,11 @@
+{
+  "name": "seo-aeo-internal-linking",
+  "display_name": "SEO Aeo Internal Linking",
+  "description": "Maps internal link opportunities between pages with relevant anchor text, placement instructions, orphan-page detection, and cannibalisation checks.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/seo-aeo-internal-linking/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/seo-aeo-internal-linking/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 9189,
+  "truncated": false
+}

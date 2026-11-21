@@ -1,0 +1,11 @@
+{
+  "name": "senior-frontend-development",
+  "display_name": "Senior Frontend · Development",
+  "description": "Frontend development skill for React, Next.js, TypeScript, and Tailwind CSS applications. Use when building React components, optimizing Next.js performance, analyzing bundle sizes, scaffolding frontend projects, implementing accessibility, or reviewing frontend code quality.",
+  "repo": "alirezarezvani/claude-skills",
+  "path": ".gemini/skills/senior-frontend/SKILL.md",
+  "url": "https://github.com/alirezarezvani/claude-skills/tree/HEAD/.gemini/skills/senior-frontend/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 15377,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "spark-training-gotchas",
+  "display_name": "Spark Training Gotchas",
+  "description": "Preflight and diagnose the ten known failure modes for ML training on NVIDIA DGX Spark. Use when a training run on DGX Spark fails to start, OOMs below the 128GB limit, slows down mid-run, or before any multi-hour training job on GB10.",
+  "repo": "wshobson/agents",
+  "path": "plugins/dgx-spark-ops/skills/spark-training-gotchas/SKILL.md",
+  "url": "https://github.com/wshobson/agents/tree/HEAD/plugins/dgx-spark-ops/skills/spark-training-gotchas/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 7694,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "shopify-subscription-setup",
+  "display_name": "Shopify Subscription Setup",
+  "description": "Subscription program setup — recurring billing, frequency options, churn reduction, lifetime value",
+  "repo": "nexscope-ai/eCommerce-Skills",
+  "path": "shopify-subscription-setup/SKILL.md",
+  "url": "https://github.com/nexscope-ai/eCommerce-Skills/tree/HEAD/shopify-subscription-setup/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 1708,
+  "truncated": false
+}

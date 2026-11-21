@@ -1,0 +1,11 @@
+{
+  "name": "seo-content-auditor",
+  "display_name": "SEO Content Auditor",
+  "description": "Analyzes provided content for quality, E-E-A-T signals, and SEO best practices. Scores content and provides improvement recommendations based on established guidelines.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/seo-content-auditor/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/seo-content-auditor/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 3144,
+  "truncated": false
+}

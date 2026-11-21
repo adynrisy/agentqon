@@ -1,0 +1,11 @@
+{
+  "name": "sglang-generation-serving",
+  "display_name": "Sglang Generation Serving",
+  "description": "Fast structured generation and serving for LLMs with RadixAttention prefix caching. Use for JSON/regex outputs, constrained decoding, agentic workflows with tool calls, or when you need 5× faster inference than vLLM with prefix sharing. Powers 300,000+ GPUs at xAI, AMD, NVIDIA, and LinkedIn.",
+  "repo": "Orchestra-Research/AI-Research-SKILLs",
+  "path": "12-inference-serving/sglang/SKILL.md",
+  "url": "https://github.com/Orchestra-Research/AI-Research-SKILLs/tree/HEAD/12-inference-serving/sglang/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 10837,
+  "truncated": false
+}

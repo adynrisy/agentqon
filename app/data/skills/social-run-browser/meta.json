@@ -1,0 +1,11 @@
+{
+  "name": "social-run-browser",
+  "display_name": "Social Run Browser",
+  "description": "Run read-only, browser-grounded Instagram, TikTok, or LinkedIn research through Jev routing and socai CLI, returning source-linked evidence and reports.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/jev-social/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/jev-social/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 13064,
+  "truncated": false
+}

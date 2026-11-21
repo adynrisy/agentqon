@@ -1,0 +1,11 @@
+{
+  "name": "simplify-code",
+  "display_name": "Simplify Code",
+  "description": "Review a diff for clarity and safe simplifications, then optionally apply low-risk fixes.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/simplify-code/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/simplify-code/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 7003,
+  "truncated": false
+}

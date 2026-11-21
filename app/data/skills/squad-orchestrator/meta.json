@@ -1,0 +1,11 @@
+{
+  "name": "squad-orchestrator",
+  "display_name": "Squad Orchestrator",
+  "description": "Main agent orchestrator that coordinates a specialized squad of agents",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/agent-squad/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/agent-squad/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 6769,
+  "truncated": false
+}

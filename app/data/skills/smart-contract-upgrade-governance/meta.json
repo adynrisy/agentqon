@@ -1,0 +1,11 @@
+{
+  "name": "smart-contract-upgrade-governance",
+  "display_name": "Smart Contract Upgrade Governance",
+  "description": "Soroban WASM upgrade governance register: executable bytecode hash, timelocked migration delays, and multi-sig authorization quorum.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/smart-contract-upgrade-governance/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/smart-contract-upgrade-governance/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 4985,
+  "truncated": false
+}

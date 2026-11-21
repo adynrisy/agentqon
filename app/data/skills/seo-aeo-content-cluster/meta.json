@@ -1,0 +1,11 @@
+{
+  "name": "seo-aeo-content-cluster",
+  "display_name": "SEO Aeo Content Cluster",
+  "description": "Builds a topical authority map from business goals, search intent, existing content, and gaps, then prioritises foundational and supporting pages.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/seo-aeo-content-cluster/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/seo-aeo-content-cluster/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 9162,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "shopify-checkout-customization",
+  "display_name": "Shopify Checkout Customization",
+  "description": "Checkout optimization — Checkout Extensibility, custom fields, express payments, trust elements",
+  "repo": "nexscope-ai/eCommerce-Skills",
+  "path": "shopify-checkout-customization/SKILL.md",
+  "url": "https://github.com/nexscope-ai/eCommerce-Skills/tree/HEAD/shopify-checkout-customization/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 1733,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "shodan-reconnaissance",
+  "display_name": "Shodan Reconnaissance",
+  "description": "Provide systematic methodologies for leveraging Shodan as a reconnaissance tool during penetration testing engagements.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/shodan-reconnaissance/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/shodan-reconnaissance/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 5019,
+  "truncated": false
+}

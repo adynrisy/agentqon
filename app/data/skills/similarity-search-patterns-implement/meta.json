@@ -1,0 +1,11 @@
+{
+  "name": "similarity-search-patterns-implement",
+  "display_name": "Similarity Search Patterns · Implement",
+  "description": "Implement efficient similarity search with vector databases. Use when building semantic search, implementing nearest neighbor queries, or optimizing retrieval performance.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/similarity-search-patterns/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/similarity-search-patterns/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 1136,
+  "truncated": false
+}

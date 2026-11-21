@@ -1,0 +1,11 @@
+{
+  "name": "shipvela-publish",
+  "display_name": "Shipvela Publish",
+  "description": "Publish an explicitly selected website through the user's connected Shipvela MCP account, track the exact deployment, and return its live HTTPS URL after success.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/shipvela-publish/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/shipvela-publish/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 7101,
+  "truncated": false
+}

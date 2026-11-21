@@ -1,0 +1,11 @@
+{
+  "name": "soc2-compliance",
+  "display_name": "Soc2 Compliance",
+  "description": "Implement SOC 2 Trust Services Criteria. Configure security, availability, and processing integrity controls. Use when achieving SOC 2 certification.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/soc2-compliance/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/soc2-compliance/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 14872,
+  "truncated": false
+}

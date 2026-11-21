@@ -1,0 +1,11 @@
+{
+  "name": "seo-images",
+  "display_name": "SEO Images",
+  "description": "Image optimization analysis for SEO and performance. Checks alt text, file sizes, formats, responsive images, lazy loading, and CLS prevention. Use when user says \"image optimization\", \"alt text\", \"image SEO\", \"image size\", or \"image audit\".",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/seo-images/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/seo-images/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 6298,
+  "truncated": false
+}

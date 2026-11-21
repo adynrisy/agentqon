@@ -1,0 +1,11 @@
+{
+  "name": "seo-meta-optimizer",
+  "display_name": "SEO Meta Optimizer",
+  "description": "Creates optimized meta titles, descriptions, and URL suggestions based on character limits and best practices. Generates compelling, keyword-rich metadata. Use PROACTIVELY for new content.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/seo-meta-optimizer/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/seo-meta-optimizer/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 2718,
+  "truncated": false
+}

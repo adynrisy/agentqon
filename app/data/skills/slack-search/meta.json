@@ -1,0 +1,11 @@
+{
+  "name": "slack-search",
+  "display_name": "Slack Search",
+  "description": "Guidance for effectively searching Slack to find messages, files, channels, and people",
+  "repo": "anthropics/knowledge-work-plugins",
+  "path": "partner-built/slack/skills/slack-search/SKILL.md",
+  "url": "https://github.com/anthropics/knowledge-work-plugins/tree/HEAD/partner-built/slack/skills/slack-search/SKILL.md",
+  "license": "Apache-2.0",
+  "body_bytes": 3870,
+  "truncated": false
+}

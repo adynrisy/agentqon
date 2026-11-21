@@ -1,0 +1,11 @@
+{
+  "name": "source-driven-development",
+  "display_name": "Source Driven Development",
+  "description": "Grounds every implementation decision in official documentation. Use when you want to verify an approach against the official docs before implementing it, or when you want authoritative, source-cited code free from outdated patterns. Use when building with any framework or library where correctness matters.",
+  "repo": "addyosmani/agent-skills",
+  "path": "skills/source-driven-development/SKILL.md",
+  "url": "https://github.com/addyosmani/agent-skills/tree/HEAD/skills/source-driven-development/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 9675,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "shipping-launch-prepares",
+  "display_name": "Shipping Launch · Prepares",
+  "description": "Prepares production launches. Use when preparing to deploy to production. Use when you need a pre-launch checklist, when setting up monitoring, when planning a staged rollout, or when you need a rollback strategy.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/shipping-and-launch/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/shipping-and-launch/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 11198,
+  "truncated": false
+}

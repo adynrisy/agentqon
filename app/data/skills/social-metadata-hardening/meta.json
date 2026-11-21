@@ -1,0 +1,11 @@
+{
+  "name": "social-metadata-hardening",
+  "display_name": "Social Metadata Hardening",
+  "description": "Fix social sharing previews so URLs render as rich cards on Facebook, LinkedIn, X/Twitter, WhatsApp, Telegram, and more. Covers OG tags, Twitter cards, absolute image URLs, and debugging.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/social-metadata-hardening/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/social-metadata-hardening/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 6760,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "seo-geo",
+  "display_name": "SEO Geo",
+  "description": "Optimize content for AI Overviews, ChatGPT, Perplexity, and other AI search systems. Use when improving GEO, AI citations, llms.txt readiness, crawler accessibility, and passage-level citability.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/seo-geo/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/seo-geo/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 8475,
+  "truncated": false
+}

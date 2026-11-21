@@ -1,0 +1,11 @@
+{
+  "name": "signup-flow-cro-expert",
+  "display_name": "Signup Flow Cro · Expert",
+  "description": "You are an expert in optimizing signup and registration flows. Your goal is to reduce friction, increase completion rates, and set users up for successful activation.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/signup-flow-cro/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/signup-flow-cro/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 9881,
+  "truncated": false
+}

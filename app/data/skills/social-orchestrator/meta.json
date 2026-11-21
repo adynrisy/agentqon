@@ -1,0 +1,11 @@
+{
+  "name": "social-orchestrator",
+  "display_name": "Social Orchestrator",
+  "description": "Orquestrador unificado de canais sociais — coordena Instagram, Telegram e WhatsApp em um unico fluxo de trabalho. Publicacao cross-channel, metricas unificadas, reutilizacao de conteudo por formato, agendamento sincronizado e gestao centralizada de campanhas em todos os canais simultaneamente.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/social-orchestrator/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/social-orchestrator/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 7646,
+  "truncated": false
+}

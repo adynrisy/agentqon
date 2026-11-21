@@ -1,0 +1,11 @@
+{
+  "name": "seo-forensic-incident-response",
+  "display_name": "SEO Forensic Incident Response",
+  "description": "Investigate sudden drops in organic traffic or rankings and run a structured forensic SEO incident response with triage, root-cause analysis and recovery plan.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/seo-forensic-incident-response/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/seo-forensic-incident-response/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 9147,
+  "truncated": false
+}

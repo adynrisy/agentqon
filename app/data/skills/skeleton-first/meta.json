@@ -1,0 +1,11 @@
+{
+  "name": "skeleton-first",
+  "display_name": "Skeleton First",
+  "description": "Prove a data/AI/agent workflow end to end on a tiny sample, find cheap wins, then scale in cost-gated steps within budget.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/skeleton-first/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/skeleton-first/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 9330,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "setup-first-run",
+  "display_name": "Setup First Run",
+  "description": "First-run setup - checks which tools are connected, shows what's connected and what each one unlocks, learns how you write from your sent email, and renders a starter dashboard right away with no upfront interview. When tools are missing it walks through connecting the CRM, then email, then calendar, showing something useful after each. Use on first open, or when the user says \"set me up\", \"get started\", \"what's connected\", \"learn my voice\", \"match my writing style\", or \"onboard me\".",
+  "repo": "anthropics/knowledge-work-plugins",
+  "path": "sales/skills/setup/SKILL.md",
+  "url": "https://github.com/anthropics/knowledge-work-plugins/tree/HEAD/sales/skills/setup/SKILL.md",
+  "license": "Apache-2.0",
+  "body_bytes": 13567,
+  "truncated": false
+}

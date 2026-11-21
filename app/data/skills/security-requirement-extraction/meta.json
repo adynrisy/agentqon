@@ -1,0 +1,11 @@
+{
+  "name": "security-requirement-extraction",
+  "display_name": "Security Requirement Extraction",
+  "description": "Derive security requirements from threat models and business context. Use when translating threats into actionable requirements, creating security user stories, or building security test cases.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/security-requirement-extraction/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/security-requirement-extraction/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 1152,
+  "truncated": false
+}

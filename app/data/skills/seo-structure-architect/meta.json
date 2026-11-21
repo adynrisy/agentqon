@@ -1,0 +1,11 @@
+{
+  "name": "seo-structure-architect",
+  "display_name": "SEO Structure Architect",
+  "description": "Analyzes and optimizes content structure including header hierarchy, suggests schema markup, and internal linking opportunities. Creates search-friendly content organization.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/seo-structure-architect/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/seo-structure-architect/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 3830,
+  "truncated": false
+}

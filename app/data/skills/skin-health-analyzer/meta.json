@@ -1,0 +1,11 @@
+{
+  "name": "skin-health-analyzer",
+  "display_name": "Skin Health Analyzer",
+  "description": "Analyze skin health data, identify skin problem patterns, assess skin health status. Supports correlation analysis with nutrition, chronic diseases, and medication data.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/skin-health-analyzer/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/skin-health-analyzer/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 915,
+  "truncated": false
+}

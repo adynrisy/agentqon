@@ -1,0 +1,11 @@
+{
+  "name": "seo-content",
+  "display_name": "SEO Content",
+  "description": "Content quality and E-E-A-T analysis with AI citation readiness assessment. Use when user says \"content quality\", \"E-E-A-T\", \"content analysis\", \"readability check\", \"thin content\", or \"content audit\".",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/seo-content/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/seo-content/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 8863,
+  "truncated": false
+}

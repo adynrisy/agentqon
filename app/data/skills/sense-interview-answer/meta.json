@@ -1,0 +1,11 @@
+{
+  "name": "sense-interview-answer",
+  "display_name": "Sense Interview Answer",
+  "description": "Structure a spoken PM product-sense answer with assumptions, segmentation, pain-point prioritization, and MVP tradeoffs. Use when practicing design, improve, or build-next interview questions.",
+  "repo": "deanpeters/Product-Manager-Skills",
+  "path": "skills/product-sense-interview-answer/SKILL.md",
+  "url": "https://github.com/deanpeters/Product-Manager-Skills/tree/HEAD/skills/product-sense-interview-answer/SKILL.md",
+  "license": "CC",
+  "body_bytes": 10731,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "spec-user-build",
+  "display_name": "Spec User Build",
+  "description": "Use when the user says 'build me an app', 'create a project from this spec', 'scaffold a new repo', 'generate a starter', 'turn this idea into code', 'bootstrap a project', 'I have requirements and need a codebase', or provides a natural-language project specification and expects a complete, runnable repository. Stack-agnostic: Next.js, FastAPI, Rails, Go, Rust, Flutter, and more.",
+  "repo": "alirezarezvani/claude-skills",
+  "path": ".gemini/skills/spec-to-repo/SKILL.md",
+  "url": "https://github.com/alirezarezvani/claude-skills/tree/HEAD/.gemini/skills/spec-to-repo/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 10869,
+  "truncated": false
+}

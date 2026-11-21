@@ -1,0 +1,11 @@
+{
+  "name": "seo-ai-visibility",
+  "display_name": "SEO AI Visibility",
+  "description": "Audits and fixes both halves of being found — classic search and AI answers. Search side: rankings, site structure, page speed, titles and descriptions, and content that answers what customers search for. AI side: whether assistant crawlers can reach the site, pages render without JavaScript, an llms.txt file, schema.org data, and presence in the directories assistants read. For online stores it also runs a bulk catalog cleanup, rewriting product titles, descriptions, alt text, and SEO fields in approved batches. Works on any public website with no connector. Use this whenever the owner talks about being found online, including \"nobody finds us on Google,\" \"how do I show up in ChatGPT,\" \"make my website AI friendly,\" \"SEO audit,\" \"GEO,\" \"AEO,\" \"AI search visibility,\" \"my competitor ranks above me,\" \"fix my product listings,\" or \"I asked an AI about my industry and we weren't in the answer.\"",
+  "repo": "anthropics/knowledge-work-plugins",
+  "path": "small-business/skills/seo-ai-visibility/SKILL.md",
+  "url": "https://github.com/anthropics/knowledge-work-plugins/tree/HEAD/small-business/skills/seo-ai-visibility/SKILL.md",
+  "license": "Apache-2.0",
+  "body_bytes": 10066,
+  "truncated": false
+}

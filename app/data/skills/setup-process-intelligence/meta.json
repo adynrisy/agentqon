@@ -1,0 +1,11 @@
+{
+  "name": "setup-process-intelligence",
+  "display_name": "Setup Process Intelligence",
+  "description": "Use when Process Intelligence needs building, explicit cloud/account/environment configuration, sign-in, connection diagnostics, or recovery from an authentication error.",
+  "repo": "microsoft/power-platform-skills",
+  "path": "plugins/process-intelligence/skills/setup/SKILL.md",
+  "url": "https://github.com/microsoft/power-platform-skills/tree/HEAD/plugins/process-intelligence/skills/setup/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 7075,
+  "truncated": false
+}

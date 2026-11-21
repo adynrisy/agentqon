@@ -1,0 +1,11 @@
+{
+  "name": "social-media-setup",
+  "display_name": "Social Media Setup",
+  "description": "Social media register: platforms and handles, post captions and hashtags, publishing cadence, approval status and profile checklist. Use for social account setup.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/social-media-setup/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/social-media-setup/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 24505,
+  "truncated": false
+}

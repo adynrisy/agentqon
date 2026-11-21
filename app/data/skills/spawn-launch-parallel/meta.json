@@ -1,0 +1,11 @@
+{
+  "name": "spawn-launch-parallel",
+  "display_name": "Spawn Launch Parallel",
+  "description": "Launch N parallel subagents in isolated git worktrees to compete on the session task. Use when the user runs /hub:spawn or asks to start the competing agents for an initialized AgentHub session.",
+  "repo": "alirezarezvani/claude-skills",
+  "path": ".gemini/skills/spawn/SKILL.md",
+  "url": "https://github.com/alirezarezvani/claude-skills/tree/HEAD/.gemini/skills/spawn/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 3096,
+  "truncated": false
+}

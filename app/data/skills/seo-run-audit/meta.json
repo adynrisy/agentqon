@@ -1,0 +1,11 @@
+{
+  "name": "seo-run-audit",
+  "display_name": "SEO Run Audit",
+  "description": "Run a broad SEO audit across technical SEO, on-page SEO, schema, sitemaps, content quality, AI search readiness, and GEO. Use as the umbrella skill when the user asks for a full SEO analysis or strategy.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/seo/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/seo/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 6683,
+  "truncated": false
+}

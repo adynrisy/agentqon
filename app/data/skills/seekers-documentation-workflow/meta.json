@@ -1,0 +1,11 @@
+{
+  "name": "seekers-documentation-workflow",
+  "display_name": "Seekers Documentation Workflow",
+  "description": "Convert approved documentation, repositories, or PDFs into an agent skill using the Skill Seekers workflow, then review the generated content.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/skill-seekers/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/skill-seekers/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 2013,
+  "truncated": false
+}

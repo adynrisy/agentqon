@@ -1,0 +1,11 @@
+{
+  "name": "simpy-process-based",
+  "display_name": "Simpy Process Based",
+  "description": "Builds, inspects, tests, and analyzes bounded process-based discrete-event simulations with SimPy. Use for event scheduling, resource queues, interrupts, monitoring, independent replications, warm-up, and reproducible output analysis.",
+  "repo": "K-Dense-AI/scientific-agent-skills",
+  "path": "skills/simpy/SKILL.md",
+  "url": "https://github.com/K-Dense-AI/scientific-agent-skills/tree/HEAD/skills/simpy/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 13766,
+  "truncated": false
+}

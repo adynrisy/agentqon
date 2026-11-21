@@ -1,0 +1,11 @@
+{
+  "name": "spark-engineer",
+  "display_name": "Spark Engineer",
+  "description": "Use when writing Spark jobs, debugging performance issues, or configuring cluster settings for Apache Spark applications, distributed data processing pipelines, or big data workloads. Invoke to write DataFrame transformations, optimize Spark SQL queries, implement RDD pipelines, tune shuffle operations, configure executor memory, process .parquet files, handle data partitioning, or build structured streaming analytics.",
+  "repo": "Jeffallan/claude-skills",
+  "path": "skills/spark-engineer/SKILL.md",
+  "url": "https://github.com/Jeffallan/claude-skills/tree/HEAD/skills/spark-engineer/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 5773,
+  "truncated": false
+}

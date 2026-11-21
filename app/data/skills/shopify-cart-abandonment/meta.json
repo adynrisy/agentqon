@@ -1,0 +1,11 @@
+{
+  "name": "shopify-cart-abandonment",
+  "display_name": "Shopify Cart Abandonment",
+  "description": "Cart abandonment recovery — email sequences, SMS, retargeting, exit intent, checkout friction audit",
+  "repo": "nexscope-ai/eCommerce-Skills",
+  "path": "shopify-cart-abandonment/SKILL.md",
+  "url": "https://github.com/nexscope-ai/eCommerce-Skills/tree/HEAD/shopify-cart-abandonment/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 1695,
+  "truncated": false
+}

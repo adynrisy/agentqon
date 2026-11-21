@@ -1,0 +1,11 @@
+{
+  "name": "session-handoff",
+  "display_name": "Session Handoff",
+  "description": "Use when context approaches capacity, before /clear or /compact, when switching tasks, or when ending a coding session: produces a structured handoff artifact for the next session.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/session-handoff/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/session-handoff/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 6589,
+  "truncated": false
+}

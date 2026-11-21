@@ -1,0 +1,11 @@
+{
+  "name": "server-management",
+  "display_name": "Server Management",
+  "description": "Server management principles and decision-making. Process management, monitoring strategy, and scaling decisions. Teaches thinking, not commands.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/server-management/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/server-management/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 4035,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "seo-aeo-orchestrator",
+  "display_name": "SEO Aeo Orchestrator",
+  "description": "Runs an audit-first SEO/AEO growth workflow from project discovery through implementation, foundational content, measurement setup, deployment verification, and optional weekly monitoring.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/seo-aeo-orchestrator/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/seo-aeo-orchestrator/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 15406,
+  "truncated": false
+}

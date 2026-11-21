@@ -1,0 +1,11 @@
+{
+  "name": "seo-page",
+  "display_name": "SEO Page",
+  "description": "Deep single-page SEO analysis covering on-page elements, content quality, technical meta tags, schema, images, and performance. Use when user says \"analyze this page\", \"check page SEO\", or provides a single URL for review.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/seo-page/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/seo-page/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 3827,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "setup-systems-up",
+  "display_name": "Setup Systems Up",
+  "description": "Three.js scene setup, cameras, renderer, Object3D hierarchy, coordinate systems. Use when setting up 3D scenes, creating cameras, configuring renderers, managing object hierarchies, or working with transforms.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/threejs-fundamentals/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/threejs-fundamentals/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 969,
+  "truncated": false
+}

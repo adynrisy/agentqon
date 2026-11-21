@@ -1,0 +1,11 @@
+{
+  "name": "site-architecture-plan",
+  "display_name": "Site Architecture · Plan",
+  "description": "Plan or restructure website hierarchy, navigation, URL patterns, breadcrumbs, and internal linking. Use when mapping pages, sections, and site structure, but not for XML sitemap auditing or schema markup.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/site-architecture/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/site-architecture/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 13496,
+  "truncated": false
+}

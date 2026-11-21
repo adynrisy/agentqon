@@ -1,0 +1,11 @@
+{
+  "name": "slack-bot-builder",
+  "display_name": "Slack Bot Builder",
+  "description": "Build Slack apps using the Bolt framework across Python, JavaScript, and Java. Covers Block Kit for rich UIs, interactive components, slash commands, event handling, OAuth installation flows, and Workflow Builder integration.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/slack-bot-builder/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/slack-bot-builder/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 1341,
+  "truncated": false
+}

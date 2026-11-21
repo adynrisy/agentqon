@@ -1,0 +1,11 @@
+{
+  "name": "sentencepiece-text-memory",
+  "display_name": "Sentencepiece Text Memory",
+  "description": "Language-independent tokenizer treating text as raw Unicode. Supports BPE and Unigram algorithms. Fast (50k sentences/sec), lightweight (6MB memory), deterministic vocabulary. Used by T5, ALBERT, XLNet, mBART. Train on raw text without pre-tokenization. Use when you need multilingual support, CJK languages, or reproducible tokenization.",
+  "repo": "Orchestra-Research/AI-Research-SKILLs",
+  "path": "02-tokenization/sentencepiece/SKILL.md",
+  "url": "https://github.com/Orchestra-Research/AI-Research-SKILLs/tree/HEAD/02-tokenization/sentencepiece/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 5019,
+  "truncated": false
+}

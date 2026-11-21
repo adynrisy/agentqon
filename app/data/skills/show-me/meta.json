@@ -1,0 +1,11 @@
+{
+  "name": "show-me",
+  "display_name": "Show Me",
+  "description": "Help the user understand the current topic visually with concise diagrams, code-shape sketches, and focused HTML artifacts.",
+  "repo": "humanlayer/skills",
+  "path": "plugins/show-me/skills/show-me/SKILL.md",
+  "url": "https://github.com/humanlayer/skills/tree/HEAD/plugins/show-me/skills/show-me/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 3137,
+  "truncated": false
+}

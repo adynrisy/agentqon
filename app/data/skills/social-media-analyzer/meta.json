@@ -1,0 +1,11 @@
+{
+  "name": "social-media-analyzer",
+  "display_name": "Social Media Analyzer",
+  "description": "Social media campaign analysis and performance tracking. Calculates engagement rates, ROI, and benchmarks across platforms. Use when analyzing social media performance, calculating engagement rate, measuring campaign ROI, comparing platform metrics, or benchmarking against industry standards. Also use when the user mentions \"social media audit,\" \"engagement rate,\" or \"which platform performs best.\"",
+  "repo": "alirezarezvani/claude-skills",
+  "path": ".gemini/skills/social-media-analyzer/SKILL.md",
+  "url": "https://github.com/alirezarezvani/claude-skills/tree/HEAD/.gemini/skills/social-media-analyzer/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 7905,
+  "truncated": false
+}

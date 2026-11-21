@@ -1,0 +1,11 @@
+{
+  "name": "smith-de-pr",
+  "display_name": "Smith De PR",
+  "description": "Usar para crear o mejorar una skill de Andru.ia: define entradas y resultados, redacta SKILL.md con ejemplos y límites, valida la estructura y prepara una PR.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/10-andruia-skill-smith/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/10-andruia-skill-smith/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 3902,
+  "truncated": false
+}

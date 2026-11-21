@@ -1,0 +1,11 @@
+{
+  "name": "sql-optimization-patterns",
+  "display_name": "SQL Optimization Patterns",
+  "description": "Diagnose slow SQL with query plans, preserve query results, and verify indexing or query changes against representative data.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/sql-optimization-patterns/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/sql-optimization-patterns/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 2021,
+  "truncated": false
+}

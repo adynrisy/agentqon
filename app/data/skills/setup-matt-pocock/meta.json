@@ -1,0 +1,11 @@
+{
+  "name": "setup-matt-pocock",
+  "display_name": "Setup Matt Pocock",
+  "description": "Configure this repo for the engineering skills — set up its issue tracker, triage label vocabulary, and domain doc layout. Run once before first use of the other engineering skills.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/setup-matt-pocock-skills/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/setup-matt-pocock-skills/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 7701,
+  "truncated": false
+}

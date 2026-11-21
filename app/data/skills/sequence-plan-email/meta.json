@@ -1,0 +1,11 @@
+{
+  "name": "sequence-plan-email",
+  "display_name": "Sequence Plan Email",
+  "description": "Plan email nurture and multi-touch communication sequences when each message should build trust and prepare the next decision.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/sequence-psychologist/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/sequence-psychologist/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 6343,
+  "truncated": false
+}

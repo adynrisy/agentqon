@@ -1,0 +1,11 @@
+{
+  "name": "socialclaw-first-media",
+  "display_name": "Socialclaw First Media",
+  "description": "Agent-first social media publishing skill — schedule and publish posts across 13 platforms (X, LinkedIn, Instagram, Facebook Pages, TikTok, Discord, Telegram, YouTube, Reddit, WordPress, Pinterest) via a single workspace API key.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "skills/socialclaw/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/skills/socialclaw/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 2762,
+  "truncated": false
+}

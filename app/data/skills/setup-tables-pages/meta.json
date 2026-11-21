@@ -1,0 +1,11 @@
+{
+  "name": "setup-tables-pages",
+  "display_name": "Setup Tables Pages",
+  "description": "Creates Dataverse tables, columns, and relationships for a Power Pages site based on a data model proposal. Use when the user wants to set up the data model, create database tables, or build the Dataverse schema for their site.",
+  "repo": "microsoft/power-platform-skills",
+  "path": "plugins/power-pages/skills/setup-datamodel/SKILL.md",
+  "url": "https://github.com/microsoft/power-platform-skills/tree/HEAD/plugins/power-pages/skills/setup-datamodel/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 15617,
+  "truncated": false
+}

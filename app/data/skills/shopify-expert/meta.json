@@ -1,0 +1,11 @@
+{
+  "name": "shopify-expert",
+  "display_name": "Shopify Expert",
+  "description": "Builds and debugs Shopify themes (.liquid files, theme.json, sections), develops custom Shopify apps (shopify.app.toml, OAuth, webhooks), and implements Storefront API integrations for headless storefronts. Use when building or customizing Shopify themes, creating Hydrogen or custom React storefronts, developing Shopify apps, implementing checkout UI extensions or Shopify Functions, optimizing performance, or integrating third-party services. Invoke for Liquid templating, Storefront API, app development, checkout customization, Shopify Plus features, App Bridge, Polaris, or Shopify CLI workflows.",
+  "repo": "Jeffallan/claude-skills",
+  "path": "skills/shopify-expert/SKILL.md",
+  "url": "https://github.com/Jeffallan/claude-skills/tree/HEAD/skills/shopify-expert/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 6213,
+  "truncated": false
+}

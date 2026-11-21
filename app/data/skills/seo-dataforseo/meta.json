@@ -1,0 +1,11 @@
+{
+  "name": "seo-dataforseo",
+  "display_name": "SEO Dataforseo",
+  "description": "Use DataForSEO for live SERPs, keyword metrics, backlinks, competitor analysis, on-page checks, and AI visibility data. Trigger when the user needs real SEO data rather than static guidance.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/seo-dataforseo/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/seo-dataforseo/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 17132,
+  "truncated": false
+}

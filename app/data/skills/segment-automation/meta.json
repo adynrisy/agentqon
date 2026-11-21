@@ -1,0 +1,11 @@
+{
+  "name": "segment-automation",
+  "display_name": "Segment Automation",
+  "description": "Automate Segment tasks via Rube MCP (Composio): track events, identify users, manage groups, page views, aliases, batch operations. Always search tools first for current schemas.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/segment-automation/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/segment-automation/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 8898,
+  "truncated": false
+}

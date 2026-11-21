@@ -1,0 +1,11 @@
+{
+  "name": "shopify-upsell-cross-sell",
+  "display_name": "Shopify Upsell Cross Sell",
+  "description": "Upsell and cross-sell strategy — product recommendations, cart upsells, post-purchase offers, bundles",
+  "repo": "nexscope-ai/eCommerce-Skills",
+  "path": "shopify-upsell-cross-sell/SKILL.md",
+  "url": "https://github.com/nexscope-ai/eCommerce-Skills/tree/HEAD/shopify-upsell-cross-sell/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 1716,
+  "truncated": false
+}

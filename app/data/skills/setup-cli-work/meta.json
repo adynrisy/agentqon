@@ -1,0 +1,11 @@
+{
+  "name": "setup-cli-work",
+  "display_name": "Setup CLI Work",
+  "description": "Configure delegation fleet lanes: which implementer CLI handles which kind of work, with optional model and effort (or variant) dials. Discovers installed CLIs, proposes a lane map for user approval, and writes global or project config only after explicit yes. Use when the user asks to set up, configure, or reconfigure delegation lanes, a fleet of lanes, or which implementer handles feature/tests/ui work — not for dispatching a coding task to an implementer.",
+  "repo": "amElnagdy/delegate-skills",
+  "path": "skills/delegate-setup/SKILL.md",
+  "url": "https://github.com/amElnagdy/delegate-skills/tree/HEAD/skills/delegate-setup/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 10256,
+  "truncated": false
+}

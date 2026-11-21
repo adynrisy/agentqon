@@ -1,0 +1,11 @@
+{
+  "name": "site-architecture",
+  "display_name": "Site Architecture",
+  "description": "When the user wants to audit, redesign, or plan their website's structure, URL hierarchy, navigation design, or internal linking strategy. Use when the user mentions 'site architecture,' 'URL structure,' 'internal links,' 'site navigation,' 'breadcrumbs,' 'topic clusters,' 'hub pages,' 'orphan pages,' 'silo structure,' 'information architecture,' or 'website reorganization.' Also use when someone has SEO problems and the root cause is structural (not content or schema). NOT for content strategy decisions about what to write (use content-strategy) or for schema markup (use schema-markup).",
+  "repo": "alirezarezvani/claude-skills",
+  "path": ".gemini/skills/site-architecture/SKILL.md",
+  "url": "https://github.com/alirezarezvani/claude-skills/tree/HEAD/.gemini/skills/site-architecture/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 13269,
+  "truncated": false
+}

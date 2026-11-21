@@ -1,0 +1,11 @@
+{
+  "name": "setup-zoom-oauth",
+  "display_name": "Setup Zoom OAuth",
+  "description": "Implement Zoom authentication correctly. Use when setting up app credentials, choosing an OAuth grant, requesting scopes, handling token refresh, or debugging auth failures.",
+  "repo": "anthropics/knowledge-work-plugins",
+  "path": "partner-built/zoom-plugin/skills/setup-zoom-oauth/SKILL.md",
+  "url": "https://github.com/anthropics/knowledge-work-plugins/tree/HEAD/partner-built/zoom-plugin/skills/setup-zoom-oauth/SKILL.md",
+  "license": "Apache-2.0",
+  "body_bytes": 1056,
+  "truncated": false
+}

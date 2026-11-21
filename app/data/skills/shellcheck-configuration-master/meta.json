@@ -1,0 +1,11 @@
+{
+  "name": "shellcheck-configuration-master",
+  "display_name": "Shellcheck Configuration · Master",
+  "description": "Master ShellCheck static analysis configuration and usage for shell script quality. Use when setting up linting infrastructure, fixing code issues, or ensuring script portability.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/shellcheck-configuration/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/shellcheck-configuration/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 9923,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "senior-architect",
+  "display_name": "Senior Architect",
+  "description": "Complete toolkit for senior architect with modern tools and best practices.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/senior-architect/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/senior-architect/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 4555,
+  "truncated": false
+}

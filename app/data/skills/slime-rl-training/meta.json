@@ -1,0 +1,11 @@
+{
+  "name": "slime-rl-training",
+  "display_name": "Slime Rl Training",
+  "description": "Provides guidance for LLM post-training with RL using slime, a Megatron+SGLang framework. Use when training GLM models, implementing custom data generation workflows, or needing tight Megatron-LM integration for RL scaling.",
+  "repo": "Orchestra-Research/AI-Research-SKILLs",
+  "path": "06-post-training/slime/SKILL.md",
+  "url": "https://github.com/Orchestra-Research/AI-Research-SKILLs/tree/HEAD/06-post-training/slime/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 11119,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "seo-audit",
+  "display_name": "SEO Audit",
+  "description": "Read-only SEO audit of a site or web codebase: crawling, indexing, on-page, structured data, rendering, hreflang, links, visibility to LLMs and agents, baseline diffs. Use when asked to audit SEO, titles or meta.",
+  "repo": "khasky/awesome-agent-skills",
+  "path": "skills/awesome-seo-audit/SKILL.md",
+  "url": "https://github.com/khasky/awesome-agent-skills/tree/HEAD/skills/awesome-seo-audit/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 21091,
+  "truncated": false
+}

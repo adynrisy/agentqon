@@ -1,0 +1,11 @@
+{
+  "name": "seo-keyword-strategist",
+  "display_name": "SEO Keyword Strategist",
+  "description": "Analyzes keyword usage in provided content, calculates density, suggests semantic variations and LSI keywords based on the topic. Prevents over-optimization. Use PROACTIVELY for content optimization.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/seo-keyword-strategist/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/seo-keyword-strategist/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 2759,
+  "truncated": false
+}

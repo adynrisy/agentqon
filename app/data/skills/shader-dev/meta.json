@@ -1,0 +1,11 @@
+{
+  "name": "shader-dev",
+  "display_name": "Shader Dev",
+  "description": "Comprehensive GLSL shader techniques for creating stunning visual effects — ray marching, SDF modeling, fluid simulation, particle systems, procedural generation, lighting, post-processing, and more.",
+  "repo": "MiniMax-AI/skills",
+  "path": "skills/shader-dev/SKILL.md",
+  "url": "https://github.com/MiniMax-AI/skills/tree/HEAD/skills/shader-dev/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 16585,
+  "truncated": false
+}

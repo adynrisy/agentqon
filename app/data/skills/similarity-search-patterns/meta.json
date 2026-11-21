@@ -1,0 +1,11 @@
+{
+  "name": "similarity-search-patterns",
+  "display_name": "Similarity Search Patterns",
+  "description": "Implement efficient similarity search with vector databases. Use when building semantic search, implementing nearest neighbor queries, or optimizing retrieval performance.",
+  "repo": "wshobson/agents",
+  "path": "plugins/llm-application-dev/skills/similarity-search-patterns/SKILL.md",
+  "url": "https://github.com/wshobson/agents/tree/HEAD/plugins/llm-application-dev/skills/similarity-search-patterns/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 2548,
+  "truncated": false
+}

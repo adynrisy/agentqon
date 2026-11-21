@@ -1,0 +1,11 @@
+{
+  "name": "speed-lead",
+  "display_name": "Speed Lead",
+  "description": "Makes sure no inbound lead goes unanswered. Watches web forms, the shared inbox, and the CRM for new inquiries, qualifies each one against the owner's criteria, drafts a reply in the owner's voice with real meeting times for the owner to approve and send, routes anything hot to a human right away, and logs the whole thing to the CRM. Never sends on its own. Built to run on a schedule so overnight inquiries are drafted and sorted by morning, and works from forwarded or pasted inquiries when no connector is available. Use this whenever the owner is worried about inbound leads or response time — including phrasings like \"leads are going cold,\" \"did anyone answer that inquiry,\" \"I keep missing form submissions,\" \"nothing falls through the cracks,\" \"handle my inbound,\" \"respond to this lead,\" or \"we lose people because nobody gets back fast enough.\" Reach for it for a single unanswered inquiry as readily as for a standing setup.",
+  "repo": "anthropics/knowledge-work-plugins",
+  "path": "small-business/skills/speed-to-lead/SKILL.md",
+  "url": "https://github.com/anthropics/knowledge-work-plugins/tree/HEAD/small-business/skills/speed-to-lead/SKILL.md",
+  "license": "Apache-2.0",
+  "body_bytes": 12689,
+  "truncated": false
+}

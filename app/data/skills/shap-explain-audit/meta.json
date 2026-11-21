@@ -1,0 +1,11 @@
+{
+  "name": "shap-explain-audit",
+  "display_name": "Shap Explain Audit",
+  "description": "Explain and audit machine-learning predictions with SHAP. Use for selecting SHAP explainers and maskers, computing and validating feature attributions, handling multi-output explanations, and producing local or global SHAP visualizations.",
+  "repo": "K-Dense-AI/scientific-agent-skills",
+  "path": "skills/shap/SKILL.md",
+  "url": "https://github.com/K-Dense-AI/scientific-agent-skills/tree/HEAD/skills/shap/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 16003,
+  "truncated": false
+}

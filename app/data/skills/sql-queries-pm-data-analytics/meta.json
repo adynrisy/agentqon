@@ -1,0 +1,11 @@
+{
+  "name": "sql-queries-pm-data-analytics",
+  "display_name": "SQL Queries · PM Data Analytics",
+  "description": "Generate SQL queries from natural language descriptions. Supports BigQuery, PostgreSQL, MySQL, and other dialects. Reads database schemas from uploaded diagrams or documentation. Use when writing SQL, building data reports, exploring databases, or translating business questions into queries.",
+  "repo": "phuryn/pm-skills",
+  "path": "pm-data-analytics/skills/sql-queries/SKILL.md",
+  "url": "https://github.com/phuryn/pm-skills/tree/HEAD/pm-data-analytics/skills/sql-queries/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 3293,
+  "truncated": false
+}

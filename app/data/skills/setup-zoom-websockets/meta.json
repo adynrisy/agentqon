@@ -1,0 +1,11 @@
+{
+  "name": "setup-zoom-websockets",
+  "display_name": "Setup Zoom Websockets",
+  "description": "Reference skill for Zoom WebSockets. Use after routing to a low-latency event workflow when persistent connections, faster event delivery, or security constraints make WebSockets preferable to webhooks.",
+  "repo": "anthropics/knowledge-work-plugins",
+  "path": "partner-built/zoom-plugin/skills/websockets/SKILL.md",
+  "url": "https://github.com/anthropics/knowledge-work-plugins/tree/HEAD/partner-built/zoom-plugin/skills/websockets/SKILL.md",
+  "license": "Apache-2.0",
+  "body_bytes": 7142,
+  "truncated": false
+}

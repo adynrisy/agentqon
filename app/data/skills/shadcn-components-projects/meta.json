@@ -1,0 +1,11 @@
+{
+  "name": "shadcn-components-projects",
+  "display_name": "Shadcn Components Projects",
+  "description": "Manages shadcn/ui components and projects, providing context, documentation, and usage patterns for building modern design systems.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/shadcn/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/shadcn/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 16299,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "shopify-migration",
+  "display_name": "Shopify Migration",
+  "description": "Platform migration to Shopify — from WooCommerce, Magento, BigCommerce, data transfer, URL redirects",
+  "repo": "nexscope-ai/eCommerce-Skills",
+  "path": "shopify-migration/SKILL.md",
+  "url": "https://github.com/nexscope-ai/eCommerce-Skills/tree/HEAD/shopify-migration/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 1647,
+  "truncated": false
+}

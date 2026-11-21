@@ -1,0 +1,11 @@
+{
+  "name": "service-mesh-expert",
+  "display_name": "Service Mesh Expert",
+  "description": "Expert service mesh architect specializing in Istio, Linkerd, and cloud-native networking patterns. Masters traffic management, security policies, observability integration, and multi-cluster mesh con",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/service-mesh-expert/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/service-mesh-expert/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 2449,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "segment-cdp",
+  "display_name": "Segment Cdp",
+  "description": "Expert patterns for Segment Customer Data Platform including Analytics.js, server-side tracking, tracking plans with Protocols, identity resolution, destinations configuration, and data governance best practices.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/segment-cdp/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/segment-cdp/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 1508,
+  "truncated": false
+}
