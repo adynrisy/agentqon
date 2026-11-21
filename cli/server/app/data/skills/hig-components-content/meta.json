@@ -1,0 +1,11 @@
+{
+  "name": "hig-components-content",
+  "display_name": "Hig Components Content",
+  "description": "Apple Human Interface Guidelines for content display components.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/hig-components-content/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/hig-components-content/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 4989,
+  "truncated": false
+}

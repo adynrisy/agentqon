@@ -1,0 +1,11 @@
+{
+  "name": "hiring-screener",
+  "display_name": "Hiring Screener",
+  "description": "Takes a pile of applications and turns it into a ranked shortlist, scored only against the job's stated rubric, with drafted replies to every candidate, scheduled interviews, and an onboarding checklist for whoever gets hired. Picks up where job-post-builder leaves off and carries the funnel through to first day, including the payroll setup handoff. Runs on Gmail and Google Calendar, deepens with Gusto, DocuSign, and Drive or M365, and works entirely from uploaded resumes with drafted replies the owner sends by hand. Use this whenever the owner has applicants to deal with — including phrasings like \"I've got 40 resumes and no time,\" \"who should I interview,\" \"screen these applications,\" \"help me narrow this down,\" \"set up interviews for the top three,\" or \"I need to tell the rest no.\" Reach for it when the owner mentions applicants, resumes, candidates, or being buried in a hiring inbox.",
+  "repo": "anthropics/knowledge-work-plugins",
+  "path": "small-business/skills/hiring-screener/SKILL.md",
+  "url": "https://github.com/anthropics/knowledge-work-plugins/tree/HEAD/small-business/skills/hiring-screener/SKILL.md",
+  "license": "Apache-2.0",
+  "body_bytes": 9263,
+  "truncated": false
+}

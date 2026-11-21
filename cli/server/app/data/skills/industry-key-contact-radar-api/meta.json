@@ -1,0 +1,11 @@
+{
+  "name": "industry-key-contact-radar-api",
+  "display_name": "Industry Key Contact Radar API",
+  "description": "This skill helps users discover key contacts across industries, roles, and social platforms via the BrowserAct API. Agent should proactively apply this skill when users express needs like finding public profiles for founders or CEOs, discovering key decision-makers in a specific industry, extracting contact details for lead generation, searching for growth leaders on LinkedIn or Facebook, gathering professional networking profiles, retrieving URLs and names of industry leaders, finding marketing managers in a specific field, conducting competitive analysis by identifying key personnel, sourcing talent acquisition targets across platforms, or compiling a list of target roles on specific social sites.",
+  "repo": "browser-act/skills",
+  "path": "solutions/lead-generation/industry-key-contact-radar-api-skill/SKILL.md",
+  "url": "https://github.com/browser-act/skills/tree/HEAD/solutions/lead-generation/industry-key-contact-radar-api-skill/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 6020,
+  "truncated": false
+}

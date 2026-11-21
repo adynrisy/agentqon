@@ -1,0 +1,11 @@
+{
+  "name": "idea-refine-refines",
+  "display_name": "Idea Refine · Refines",
+  "description": "Refines raw ideas into sharp, actionable concepts through structured divergent and convergent thinking. Use when an idea is still vague, when you need to stress-test assumptions before committing to a plan, or when you want to expand options before converging on one. Triggers on \"ideate\", \"refine this idea\", or \"stress-test my plan\".",
+  "repo": "addyosmani/agent-skills",
+  "path": "skills/idea-refine/SKILL.md",
+  "url": "https://github.com/addyosmani/agent-skills/tree/HEAD/skills/idea-refine/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 8877,
+  "truncated": false
+}

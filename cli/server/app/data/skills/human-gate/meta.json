@@ -1,0 +1,11 @@
+{
+  "name": "human-gate",
+  "display_name": "Human Gate",
+  "description": "Runs the human-verification lane of an agent loop, and proves review happened before work is called done. Builds a single-file HTML review page, collects batched feedback as a structured artifact instead of chat prose, and runs a gate that refuses to close while a BLOCKER is open, the reviewer is unnamed, or nobody has reviewed at all. Use when a plan, spec, RFC, report, landing page, migration, or any irreversible action needs human sign-off before shipping, or on requests such as 'get sign-off', 'have someone check this', 'hold until reviewed', 'needs approval first'. NOT for making AI text sound human (use content-humanizer or behuman). NOT for reviewing code diffs (use md-review or code-reviewer).",
+  "repo": "alirezarezvani/claude-skills",
+  "path": ".gemini/skills/human-gate/SKILL.md",
+  "url": "https://github.com/alirezarezvani/claude-skills/tree/HEAD/.gemini/skills/human-gate/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 5051,
+  "truncated": false
+}

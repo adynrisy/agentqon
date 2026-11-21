@@ -1,0 +1,11 @@
+{
+  "name": "instructor-extract-data",
+  "display_name": "Instructor Extract Data",
+  "description": "Extract structured data from LLM responses with Pydantic validation, retry failed extractions automatically, parse complex JSON with type safety, and stream partial results with Instructor - battle-tested structured output library",
+  "repo": "Orchestra-Research/AI-Research-SKILLs",
+  "path": "16-prompt-engineering/instructor/SKILL.md",
+  "url": "https://github.com/Orchestra-Research/AI-Research-SKILLs/tree/HEAD/16-prompt-engineering/instructor/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 16292,
+  "truncated": false
+}

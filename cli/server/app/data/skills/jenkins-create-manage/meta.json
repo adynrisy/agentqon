@@ -1,0 +1,11 @@
+{
+  "name": "jenkins-create-manage",
+  "display_name": "Jenkins Create Manage",
+  "description": "Create and manage Jenkins CI/CD pipelines, configure agents, manage plugins, and automate builds.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/jenkins/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/jenkins/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 9511,
+  "truncated": false
+}

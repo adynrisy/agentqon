@@ -1,0 +1,11 @@
+{
+  "name": "i18n-localization",
+  "display_name": "I18n Localization",
+  "description": "Internationalization and localization patterns. Detecting hardcoded strings, managing translations, locale files, RTL support.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/i18n-localization/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/i18n-localization/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 3338,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "ia-de-os",
+  "display_name": "Ia De OS",
+  "description": "Especialista em leiloes judiciais e extrajudiciais de imoveis. Analise juridica, pericial e de mercado integrada. Orquestra os 5 modulos especializados.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/leiloeiro-ia/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/leiloeiro-ia/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 14638,
+  "truncated": false
+}

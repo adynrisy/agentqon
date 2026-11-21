@@ -1,0 +1,11 @@
+{
+  "name": "idea-autopsy",
+  "display_name": "Idea Autopsy",
+  "description": "Autopsy a business idea before you build it: kill-list check, five hard filters, a free-AI one-prompt test, live ad-market verification, and a verdict with a named kill-pattern.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/idea-autopsy/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/idea-autopsy/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 5934,
+  "truncated": false
+}

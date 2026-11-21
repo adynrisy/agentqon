@@ -1,0 +1,11 @@
+{
+  "name": "implement-patch",
+  "display_name": "Implement Patch",
+  "description": "Use when a confirmed local bug needs an invariant-level fix, variant search, tests, and one local commit.",
+  "repo": "trailofbits/skills",
+  "path": "plugins/patching-bugs/skills/implement-patch/SKILL.md",
+  "url": "https://github.com/trailofbits/skills/tree/HEAD/plugins/patching-bugs/skills/implement-patch/SKILL.md",
+  "license": "CC",
+  "body_bytes": 2917,
+  "truncated": false
+}

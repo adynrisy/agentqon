@@ -1,0 +1,11 @@
+{
+  "name": "keyword-comment",
+  "display_name": "Keyword Comment",
+  "description": "X (Twitter) keyword-based reply posting: search tweets by keyword, read each tweet's content, generate contextual replies from a configured brand persona, and post replies to the reply area. Use when user wants to batch reply to X tweets by keyword, auto-comment on X topic tweets, drive traffic via X comments, X comment outreach, search X tweets and leave comments, bulk reply to Twitter search results, keyword comment on Twitter, post replies on X search page, Twitter keyword comment marketing, X reply campaign, engage with X discussions, or comment on tweets matching a topic.",
+  "repo": "browser-act/skills",
+  "path": "solutions/social-listening/x-keyword-comment/SKILL.md",
+  "url": "https://github.com/browser-act/skills/tree/HEAD/solutions/social-listening/x-keyword-comment/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 16381,
+  "truncated": false
+}

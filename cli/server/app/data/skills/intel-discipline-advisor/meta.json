@@ -1,0 +1,11 @@
+{
+  "name": "intel-discipline-advisor",
+  "display_name": "Intel Discipline Advisor",
+  "description": "Triage a competitive or market question into the right intelligence disciplines, cadence, and executing skill. Use when you know something needs researching but not which channel to run.",
+  "repo": "deanpeters/Product-Manager-Skills",
+  "path": "skills/intel-discipline-advisor/SKILL.md",
+  "url": "https://github.com/deanpeters/Product-Manager-Skills/tree/HEAD/skills/intel-discipline-advisor/SKILL.md",
+  "license": "CC",
+  "body_bytes": 11206,
+  "truncated": false
+}

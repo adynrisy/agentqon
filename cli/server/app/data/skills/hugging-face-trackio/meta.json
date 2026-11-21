@@ -1,0 +1,11 @@
+{
+  "name": "hugging-face-trackio",
+  "display_name": "Hugging Face Trackio",
+  "description": "Track and visualize ML training experiments with Trackio. Use when logging metrics during training (Python API), firing alerts for training diagnostics, or retrieving/analyzing logged metrics (CLI).",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/hugging-face-trackio/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/hugging-face-trackio/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 4927,
+  "truncated": false
+}

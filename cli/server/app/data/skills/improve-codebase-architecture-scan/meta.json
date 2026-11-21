@@ -1,0 +1,11 @@
+{
+  "name": "improve-codebase-architecture-scan",
+  "display_name": "Improve Codebase Architecture · Scan",
+  "description": "Scan a codebase for deepening opportunities, present them as a visual HTML report, then grill through whichever one you pick.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/improve-codebase-architecture/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/improve-codebase-architecture/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 5810,
+  "truncated": false
+}

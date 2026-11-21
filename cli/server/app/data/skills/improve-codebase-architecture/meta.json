@@ -1,0 +1,11 @@
+{
+  "name": "improve-codebase-architecture",
+  "display_name": "Improve Codebase Architecture",
+  "description": "Scan a codebase for deepening opportunities, present them as a visual HTML report, then grill through whichever one you pick.",
+  "repo": "mattpocock/skills",
+  "path": "skills/engineering/improve-codebase-architecture/SKILL.md",
+  "url": "https://github.com/mattpocock/skills/tree/HEAD/skills/engineering/improve-codebase-architecture/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 5785,
+  "truncated": false
+}

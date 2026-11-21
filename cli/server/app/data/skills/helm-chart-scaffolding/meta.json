@@ -1,0 +1,11 @@
+{
+  "name": "helm-chart-scaffolding",
+  "display_name": "Helm Chart Scaffolding",
+  "description": "Comprehensive guidance for creating, organizing, and managing Helm charts for packaging and deploying Kubernetes applications.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/helm-chart-scaffolding/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/helm-chart-scaffolding/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 1285,
+  "truncated": false
+}

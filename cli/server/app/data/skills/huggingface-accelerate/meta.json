@@ -1,0 +1,11 @@
+{
+  "name": "huggingface-accelerate",
+  "display_name": "Huggingface Accelerate",
+  "description": "Simplest distributed training API. 4 lines to add distributed support to any PyTorch script. Unified API for DeepSpeed/FSDP/Megatron/DDP. Automatic device placement, mixed precision (FP16/BF16/FP8). Interactive config, single launch command. HuggingFace ecosystem standard.",
+  "repo": "Orchestra-Research/AI-Research-SKILLs",
+  "path": "08-distributed-training/accelerate/SKILL.md",
+  "url": "https://github.com/Orchestra-Research/AI-Research-SKILLs/tree/HEAD/08-distributed-training/accelerate/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 7789,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "jobgpt-search-automation",
+  "display_name": "Jobgpt Search Automation",
+  "description": "Job search automation, auto apply, resume generation, application tracking, salary intelligence, and recruiter outreach using the JobGPT MCP server.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/jobgpt/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/jobgpt/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 5436,
+  "truncated": false
+}

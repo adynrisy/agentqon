@@ -1,0 +1,11 @@
+{
+  "name": "hugging-face-datasets",
+  "display_name": "Hugging Face Datasets",
+  "description": "Create and manage datasets on Hugging Face Hub. Supports initializing repos, defining configs/system prompts, streaming row updates, and SQL-based dataset querying/transformation. Designed to work alongside HF MCP server for comprehensive dataset workflows.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/hugging-face-datasets/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/hugging-face-datasets/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 3965,
+  "truncated": false
+}

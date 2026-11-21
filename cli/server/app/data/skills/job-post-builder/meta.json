@@ -1,0 +1,11 @@
+{
+  "name": "job-post-builder",
+  "display_name": "Job Post Builder",
+  "description": "Builds end-to-end hiring packets — job post, structured interview guide with scoring rubric, and offer letter template — from a hiring brief. Triggers on: \"help me hire\", \"we're hiring for\", \"write a job post\", \"job description\", \"JD\", \"open role\", \"create a job ad\", \"interview questions\", \"scoring rubric\", \"draft an offer letter\", \"send an offer\", \"make a hiring packet\", or any request to recruit for a position. When in doubt, trigger — covers the full hiring workflow from job post through DocuSign envelope creation via browser. Does NOT screen or rank applicants.",
+  "repo": "anthropics/knowledge-work-plugins",
+  "path": "small-business/skills/job-post-builder/SKILL.md",
+  "url": "https://github.com/anthropics/knowledge-work-plugins/tree/HEAD/small-business/skills/job-post-builder/SKILL.md",
+  "license": "Apache-2.0",
+  "body_bytes": 9861,
+  "truncated": false
+}

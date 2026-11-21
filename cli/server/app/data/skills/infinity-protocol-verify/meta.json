@@ -1,0 +1,11 @@
+{
+  "name": "infinity-protocol-verify",
+  "display_name": "Infinity Protocol Verify",
+  "description": "Enforces a strict input boundary protocol (detect, classify, filter, verify) to ensure untrusted data never reaches business logic raw.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/infinity/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/infinity/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 6928,
+  "truncated": false
+}

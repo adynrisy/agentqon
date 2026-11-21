@@ -1,0 +1,11 @@
+{
+  "name": "integrate-pages-web",
+  "display_name": "Integrate Pages Web",
+  "description": "Integrates Power Pages Web API into a site's frontend code with proper permissions and deployment. Orchestrates the full integration lifecycle: code integration, table permissions setup, and deployment for Dataverse CRUD operations. Use when the user wants to add Web API calls, connect to Dataverse, or add data fetching to their frontend.",
+  "repo": "microsoft/power-platform-skills",
+  "path": "plugins/power-pages/skills/integrate-webapi/SKILL.md",
+  "url": "https://github.com/microsoft/power-platform-skills/tree/HEAD/plugins/power-pages/skills/integrate-webapi/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 40038,
+  "truncated": false
+}

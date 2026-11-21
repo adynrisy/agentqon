@@ -1,0 +1,11 @@
+{
+  "name": "kernel-prompt",
+  "display_name": "Kernel Prompt",
+  "description": "Use when composing or improving an LLM prompt or agent instruction. Asks one round of questions, then returns only the prompt; never performs the task.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/kernel-prompt/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/kernel-prompt/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 5057,
+  "truncated": false
+}

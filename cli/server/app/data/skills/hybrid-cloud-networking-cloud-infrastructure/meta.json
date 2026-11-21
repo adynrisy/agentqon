@@ -1,0 +1,11 @@
+{
+  "name": "hybrid-cloud-networking-cloud-infrastructure",
+  "display_name": "Hybrid Cloud Networking · Cloud Infrastructure",
+  "description": "Configure secure, high-performance connectivity between on-premises infrastructure and cloud platforms using VPN and dedicated connections. Use when building hybrid cloud architectures, connecting data centers to cloud, or implementing secure cross-premises networking.",
+  "repo": "wshobson/agents",
+  "path": "plugins/cloud-infrastructure/skills/hybrid-cloud-networking/SKILL.md",
+  "url": "https://github.com/wshobson/agents/tree/HEAD/plugins/cloud-infrastructure/skills/hybrid-cloud-networking/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 5800,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "k6-load-testing",
+  "display_name": "K6 Load Testing",
+  "description": "Comprehensive k6 load testing skill for API, browser, and scalability testing. Write realistic load scenarios, analyze results, and integrate with CI/CD.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/k6-load-testing/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/k6-load-testing/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 2298,
+  "truncated": false
+}

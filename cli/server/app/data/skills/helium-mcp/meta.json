@@ -1,0 +1,11 @@
+{
+  "name": "helium-mcp",
+  "display_name": "Helium MCP",
+  "description": "Connect to Helium's MCP server for news research, media bias analysis, balanced perspectives, stock/options data, and semantic meme search across 3.2M+ articles and 5,000+ sources",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/helium-mcp/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/helium-mcp/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 5558,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "implementing-llms-litgpt",
+  "display_name": "Implementing LLMs Litgpt",
+  "description": "Implements and trains LLMs using Lightning AI's LitGPT with 20+ pretrained architectures (Llama, Gemma, Phi, Qwen, Mistral). Use when need clean model implementations, educational understanding of architectures, or production fine-tuning with LoRA/QLoRA. Single-file implementations, no abstraction layers.",
+  "repo": "Orchestra-Research/AI-Research-SKILLs",
+  "path": "01-model-architecture/litgpt/SKILL.md",
+  "url": "https://github.com/Orchestra-Research/AI-Research-SKILLs/tree/HEAD/01-model-architecture/litgpt/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 10415,
+  "truncated": false
+}

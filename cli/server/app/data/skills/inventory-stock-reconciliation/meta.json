@@ -1,0 +1,11 @@
+{
+  "name": "inventory-stock-reconciliation",
+  "display_name": "Inventory Stock Reconciliation",
+  "description": "Stock reconciliation register: count date, item, warehouse, book vs physical quantity, variance quantity and value, variance reason, damage and expiry, adjustment and approval. Use for stock counts.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/inventory-stock-reconciliation/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/inventory-stock-reconciliation/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 25067,
+  "truncated": false
+}

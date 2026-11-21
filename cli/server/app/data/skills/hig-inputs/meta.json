@@ -1,0 +1,11 @@
+{
+  "name": "hig-inputs",
+  "display_name": "Hig Inputs",
+  "description": "Check for .claude/apple-design-context.md before asking questions. Use existing context and only ask for information not already covered.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/hig-inputs/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/hig-inputs/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 5886,
+  "truncated": false
+}

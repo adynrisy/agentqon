@@ -1,0 +1,11 @@
+{
+  "name": "hig-components-dialogs",
+  "display_name": "Hig Components Dialogs",
+  "description": "Apple HIG guidance for presentation components including alerts, action sheets, popovers, sheets, and digit entry views.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/hig-components-dialogs/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/hig-components-dialogs/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 4130,
+  "truncated": false
+}

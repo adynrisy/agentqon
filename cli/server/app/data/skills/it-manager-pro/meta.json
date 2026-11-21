@@ -1,0 +1,11 @@
+{
+  "name": "it-manager-pro",
+  "display_name": "It Manager Pro",
+  "description": "Elite IT Management Advisor specializing in data-driven strategy, executive communication, and human-centric leadership for the 2026 digital era.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/it-manager-pro/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/it-manager-pro/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 5211,
+  "truncated": false
+}

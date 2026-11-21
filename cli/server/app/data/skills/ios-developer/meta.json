@@ -1,0 +1,11 @@
+{
+  "name": "ios-developer",
+  "display_name": "iOS Developer",
+  "description": "Develop native iOS applications with Swift/SwiftUI. Masters iOS 18, SwiftUI, UIKit integration, Core Data, networking, and App Store optimization.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/ios-developer/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/ios-developer/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 9337,
+  "truncated": false
+}

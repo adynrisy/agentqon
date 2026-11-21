@@ -1,0 +1,11 @@
+{
+  "name": "itil-expert",
+  "display_name": "Itil Expert",
+  "description": "Expert advisor for ITIL 4 and ITIL 5 (2026 digital product paradigm), specialized in AI-native governance, sustainability, and value co-creation.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/itil-expert/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/itil-expert/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 5996,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "jobs-be-done-analyst",
+  "display_name": "Jobs Be Done Analyst",
+  "description": "Uncover the functional, emotional and social jobs a customer hires a product to do: progress state, hiring trigger, alternatives, success criteria, JTBD map. Use when you need to understand why users buy, switch or churn, or to anchor positioning, messaging and onboarding in real jobs.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/jobs-to-be-done-analyst/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/jobs-to-be-done-analyst/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 5812,
+  "truncated": false
+}

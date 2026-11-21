@@ -1,0 +1,11 @@
+{
+  "name": "interview-me",
+  "display_name": "Interview Me",
+  "description": "Draw out what the user actually wants with one-question-at-a-time interviews until intent is clear — before any plan, spec, or code exists.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/interview-me/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/interview-me/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 14338,
+  "truncated": false
+}

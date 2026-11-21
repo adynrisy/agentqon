@@ -1,0 +1,11 @@
+{
+  "name": "keyword-extractor",
+  "display_name": "Keyword Extractor",
+  "description": "Extracts up to 50 highly relevant SEO keywords from text. Use when user wants to generate or extract keywords for given text.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/keyword-extractor/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/keyword-extractor/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 4024,
+  "truncated": false
+}

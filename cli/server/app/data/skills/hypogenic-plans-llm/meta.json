@@ -1,0 +1,11 @@
+{
+  "name": "hypogenic-plans-llm",
+  "display_name": "Hypogenic Plans LLM",
+  "description": "Plans and audits use of ChicagoHAI HypoGeniC/HypoRefine for LLM-assisted hypothesis generation from labeled text datasets. Use for the `hypogenic` package, its task configs, hypothesis banks, or HypoBench datasets—not for manual hypothesis formulation or scientific validation.",
+  "repo": "K-Dense-AI/scientific-agent-skills",
+  "path": "skills/hypogenic/SKILL.md",
+  "url": "https://github.com/K-Dense-AI/scientific-agent-skills/tree/HEAD/skills/hypogenic/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 13560,
+  "truncated": false
+}

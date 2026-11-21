@@ -1,0 +1,11 @@
+{
+  "name": "interactivity-structure-markup",
+  "display_name": "Interactivity Structure Markup",
+  "description": "Structure Remotion markup for interactivity",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/remotion-interactivity/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/remotion-interactivity/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 8059,
+  "truncated": false
+}

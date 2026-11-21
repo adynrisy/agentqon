@@ -1,0 +1,11 @@
+{
+  "name": "hig-platforms",
+  "display_name": "Hig Platforms",
+  "description": "Apple Human Interface Guidelines for platform-specific design.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/hig-platforms/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/hig-platforms/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 5030,
+  "truncated": false
+}

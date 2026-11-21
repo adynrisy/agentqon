@@ -1,0 +1,11 @@
+{
+  "name": "huggingface-tool-builder",
+  "display_name": "Huggingface Tool Builder",
+  "description": "Use this skill when the user wants to build tool/scripts or achieve a task where using data from the Hugging Face API would help. This is especially useful when chaining or combining API calls or the task will be repeated/automated.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/huggingface-tool-builder/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/huggingface-tool-builder/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 6255,
+  "truncated": false
+}

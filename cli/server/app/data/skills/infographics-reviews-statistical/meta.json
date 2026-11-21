@@ -1,0 +1,11 @@
+{
+  "name": "infographics-reviews-statistical",
+  "display_name": "Infographics Reviews Statistical",
+  "description": "Creates and reviews infographics with Nano Banana 2 via OpenRouter. Use for statistical summaries, timelines, comparisons, processes, and visual explanations with supplied data or optional Sonar research. Supports ten layouts, eight style presets, reference images, and accessible palette starting points.",
+  "repo": "K-Dense-AI/scientific-agent-skills",
+  "path": "skills/infographics/SKILL.md",
+  "url": "https://github.com/K-Dense-AI/scientific-agent-skills/tree/HEAD/skills/infographics/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 14532,
+  "truncated": false
+}

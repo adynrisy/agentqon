@@ -1,0 +1,11 @@
+{
+  "name": "herdr-ai-user",
+  "display_name": "Herdr AI User",
+  "description": "Operate and coordinate AI agents in Herdr workspaces in Ghostty. Use when the user mentions Herdr or asks to inspect, message, wait for, or coordinate its agents. Excludes cmux and ordinary terminal sessions.",
+  "repo": "davidondrej/skills",
+  "path": "skills/agent-orchestration/herdr/SKILL.md",
+  "url": "https://github.com/davidondrej/skills/tree/HEAD/skills/agent-orchestration/herdr/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 8289,
+  "truncated": false
+}

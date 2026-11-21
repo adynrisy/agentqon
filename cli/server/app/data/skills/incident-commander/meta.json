@@ -1,0 +1,11 @@
+{
+  "name": "incident-commander",
+  "display_name": "Incident Commander",
+  "description": "Comprehensive incident response framework from detection through resolution and post-incident review. Battle-tested SRE/DevOps practices: severity classification, timeline reconstruction, structured post-incident analysis. Use when declaring an incident, coordinating multi-team response during an outage, leading a post-mortem, or setting up on-call practices for a new service.",
+  "repo": "alirezarezvani/claude-skills",
+  "path": ".gemini/skills/incident-commander/SKILL.md",
+  "url": "https://github.com/alirezarezvani/claude-skills/tree/HEAD/.gemini/skills/incident-commander/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 14844,
+  "truncated": false
+}

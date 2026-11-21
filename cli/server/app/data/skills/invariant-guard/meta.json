@@ -1,0 +1,11 @@
+{
+  "name": "invariant-guard",
+  "display_name": "Invariant Guard",
+  "description": "Correctness-first: forces writing the function contract, loop invariant, termination argument, and edge cases BEFORE code. Catches Boyer-Moore, leftmost binary search, QuickSelect traps.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/invariant-guard/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/invariant-guard/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 17596,
+  "truncated": false
+}

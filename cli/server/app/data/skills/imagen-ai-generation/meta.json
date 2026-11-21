@@ -1,0 +1,11 @@
+{
+  "name": "imagen-ai-generation",
+  "display_name": "Imagen AI Generation",
+  "description": "AI image generation skill powered by Google Gemini, enabling seamless visual content creation for UI placeholders, documentation, and design assets.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/imagen/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/imagen/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 3629,
+  "truncated": false
+}

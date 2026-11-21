@@ -1,0 +1,11 @@
+{
+  "name": "hugging-face-jobs",
+  "display_name": "Hugging Face Jobs",
+  "description": "Run workloads on Hugging Face Jobs with managed CPUs, GPUs, TPUs, secrets, and Hub persistence.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/hugging-face-jobs/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/hugging-face-jobs/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 7566,
+  "truncated": false
+}

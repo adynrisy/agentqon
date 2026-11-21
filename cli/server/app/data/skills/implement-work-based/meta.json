@@ -1,0 +1,11 @@
+{
+  "name": "implement-work-based",
+  "display_name": "Implement Work Based",
+  "description": "Implement a piece of work based on a PRD or set of issues.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/implement/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/implement/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 1272,
+  "truncated": false
+}

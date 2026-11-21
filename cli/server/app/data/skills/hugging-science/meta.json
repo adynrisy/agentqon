@@ -1,0 +1,11 @@
+{
+  "name": "hugging-science",
+  "display_name": "Hugging Science",
+  "description": "Discovers and evaluates scientific datasets, models, methodology posts, and Spaces through the Hugging Science catalog. Used when selecting scientific ML resources in biology, chemistry, genomics, materials, climate, physics, astronomy, medicine, mathematics, protein design, single-cell analysis, or PDE modeling, and when checking their actual datasets, Transformers, native-runtime, Inference Providers, or Gradio interfaces.",
+  "repo": "K-Dense-AI/scientific-agent-skills",
+  "path": "skills/hugging-science/SKILL.md",
+  "url": "https://github.com/K-Dense-AI/scientific-agent-skills/tree/HEAD/skills/hugging-science/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 11071,
+  "truncated": false
+}

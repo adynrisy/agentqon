@@ -1,0 +1,11 @@
+{
+  "name": "high-contrast",
+  "display_name": "High Contrast",
+  "description": "Web and App implementation guide for High Contrast Design. Trigger when user wants accessibility-focused design, extreme legibility, or stark visual impact.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/design-it/high-contrast/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/design-it/high-contrast/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 9963,
+  "truncated": false
+}

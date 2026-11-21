@@ -1,0 +1,11 @@
+{
+  "name": "hybrid-search-implementation",
+  "display_name": "Hybrid Search Implementation",
+  "description": "Combine vector and keyword search for improved retrieval. Use when implementing RAG systems, building search engines, or when neither approach alone provides sufficient recall.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/hybrid-search-implementation/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/hybrid-search-implementation/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 1183,
+  "truncated": false
+}

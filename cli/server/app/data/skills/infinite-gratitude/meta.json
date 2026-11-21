@@ -1,0 +1,11 @@
+{
+  "name": "infinite-gratitude",
+  "display_name": "Infinite Gratitude",
+  "description": "Plan and synthesize multi-perspective research; use parallel agents only when authorized and verify findings against sources.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/infinite-gratitude/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/infinite-gratitude/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 1666,
+  "truncated": false
+}

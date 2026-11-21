@@ -1,0 +1,11 @@
+{
+  "name": "healthcare-job-search",
+  "display_name": "Healthcare Job Search",
+  "description": "Find open US healthcare jobs (nursing, CNA, allied health, therapy, imaging, pharmacy, physicians) and the hourly pay employers post, via CareJobs.Now's free MCP server or JSON endpoints.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/healthcare-job-search/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/healthcare-job-search/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 3076,
+  "truncated": false
+}

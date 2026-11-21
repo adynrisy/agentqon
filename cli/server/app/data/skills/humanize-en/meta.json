@@ -1,0 +1,11 @@
+{
+  "name": "humanize-en",
+  "display_name": "Humanize En",
+  "description": "Removes signs of AI writing from English text: cliches, filler, jargon, sycophancy, em-dash habits, fake sources, chatbot markers like ':contentReference'. Use when text reads like a chatbot.",
+  "repo": "khasky/awesome-agent-skills",
+  "path": "skills/awesome-humanize-en/SKILL.md",
+  "url": "https://github.com/khasky/awesome-agent-skills/tree/HEAD/skills/awesome-humanize-en/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 31802,
+  "truncated": false
+}

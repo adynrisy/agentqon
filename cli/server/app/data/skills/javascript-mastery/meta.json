@@ -1,0 +1,11 @@
+{
+  "name": "javascript-mastery",
+  "display_name": "Javascript Mastery",
+  "description": "33+ essential JavaScript concepts every developer should know, inspired by [33-js-concepts](https://github.com/leonardomso/33-js-concepts).",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/javascript-mastery/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/javascript-mastery/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 1045,
+  "truncated": false
+}

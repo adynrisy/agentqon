@@ -1,0 +1,11 @@
+{
+  "name": "interview-prep",
+  "display_name": "Interview Prep",
+  "description": "Create structured interview plans with competency-based questions and scorecards. Trigger with \"interview plan for\", \"interview questions for\", \"how should we interview\", \"scorecard for\", or when the user is preparing to interview candidates.",
+  "repo": "anthropics/knowledge-work-plugins",
+  "path": "human-resources/skills/interview-prep/SKILL.md",
+  "url": "https://github.com/anthropics/knowledge-work-plugins/tree/HEAD/human-resources/skills/interview-prep/SKILL.md",
+  "license": "Apache-2.0",
+  "body_bytes": 1150,
+  "truncated": false
+}

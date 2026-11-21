@@ -1,0 +1,11 @@
+{
+  "name": "hugo-markdown",
+  "display_name": "Hugo Markdown",
+  "description": "Convert Hugo documentation sites and Hugo-managed content into standard Markdown.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/hugo-to-markdown/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/hugo-to-markdown/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 12703,
+  "truncated": false
+}

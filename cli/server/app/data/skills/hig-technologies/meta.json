@@ -1,0 +1,11 @@
+{
+  "name": "hig-technologies",
+  "display_name": "Hig Technologies",
+  "description": "Check for .claude/apple-design-context.md before asking questions. Use existing context and only ask for information not already covered.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/hig-technologies/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/hig-technologies/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 7366,
+  "truncated": false
+}

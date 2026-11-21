@@ -1,0 +1,11 @@
+{
+  "name": "indexing-issue-auditor",
+  "display_name": "Indexing Issue Auditor",
+  "description": "High-level technical SEO and site architecture auditor. Invoke to scan local or live environments for indexing, crawl budget, and structural errors.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/indexing-issue-auditor/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/indexing-issue-auditor/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 5610,
+  "truncated": false
+}

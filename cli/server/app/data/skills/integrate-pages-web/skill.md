@@ -1,0 +1,680 @@
+<!--
+Source: microsoft/power-platform-skills
+Path: plugins/power-pages/skills/integrate-webapi/SKILL.md
+License: MIT
+URL: https://github.com/microsoft/power-platform-skills/tree/HEAD/plugins/power-pages/skills/integrate-webapi/SKILL.md
+-->
+
+> **Plugin check**: Run `node "${PLUGIN_ROOT}/scripts/check-version.js"` — if it outputs a message, show it to the user before proceeding.
+
+# Integrate Web API
+
+Integrate Power Pages Web API into a code site's frontend. This skill orchestrates the full lifecycle: analyzing where integrations are needed, implementing API client code for each table, configuring permissions and site settings, and deploying the site.
+
+## Core Principles
+
+- **First table sequential, then parallel**: The first table must be processed alone because it creates the shared `powerPagesApi.ts` client. Once that exists, remaining tables can be processed in parallel since each creates independent files (types, service, hooks).
+- **Parallelize independent agents**: The `table-permissions-architect` and `webapi-settings-architect` agents are independent — invoke them in parallel rather than sequentially.
+- **Permissions require deployment**: The `.powerpages-site` folder must exist before table permissions and site settings can be configured. Integration code can be written without it, but permissions cannot.
+- **AI-only read mode is opt-in**: When invoked by another skill (e.g. `/add-ai-webapi`) with the `[AI-READ-ONLY]` sentinel in `$ARGUMENTS`, the flow produces read-only code and hardens the settings/permissions for AI summarization reads. See Phase 1.6 for the contract. Human invocations never trigger this mode.
+- **Use TaskCreate/TaskUpdate**: Track all progress throughout all phases — create the todo list upfront with all phases before starting any work.
+- **Preserve site integrity**: Before an agent changes mock-backed or data-driven UI, read `${PLUGIN_ROOT}/references/site-modification-integrity.md`; localize every new visible state when a manifest exists and keep the component bidirectional and expansion-safe.
+
+> **Prerequisites:**
+>
+> - An existing Power Pages code site created via `/create-site`
+> - A Dataverse data model (tables/columns) already set up via `/setup-datamodel` or created manually
+> - The site must be deployed at least once (`.powerpages-site` folder must exist) for permissions setup
+
+**Initial request:** $ARGUMENTS
+
+---
+
+## Workflow
+
+1. **Verify Site Exists** — Locate the Power Pages project and verify prerequisites
+2. **Explore Integration Points** — Analyze site code and data model to identify tables needing Web API integration
+3. **Review Integration Plan** — Present findings to the user and confirm which tables to integrate
+4. **Implement Integrations** — Use the `webapi-integration` agent for each table
+5. **Verify Integrations** — Validate all expected files exist and the project builds successfully
+6. **Setup Permissions & Settings** — Choose permissions source (upload diagram or let the architects analyze), then configure table permissions and Web API site settings with case-sensitive validated column names
+7. **Review & Deploy** — Ask the user to deploy the site and invoke `/deploy-site` if confirmed
+
+---
+
+## Phase 1: Verify Site Exists
+
+**Goal**: Locate the Power Pages project root and confirm that prerequisites are met
+
+**Actions**:
+
+### 1.1 Locate Project
+
+Look for `powerpages.config.json` in the current directory or immediate subdirectories to find the project root. Use your file-search tool (e.g., `Glob` with patterns `powerpages.config.json` and `*/powerpages.config.json`) rather than a shell-specific command.
+
+**If not found**: Tell the user to create a site first with `/create-site`.
+
+### 1.2 Read Existing Config
+
+Read `powerpages.config.json` to get the site name.
+
+### 1.3 Detect Framework
+
+Read `package.json` to determine the framework (React, Vue, Angular, or Astro). See `${PLUGIN_ROOT}/references/framework-conventions.md` for the full framework detection mapping.
+
+### 1.4 Check for Data Model
+
+Look for `.datamodel-manifest.json` to discover available tables:
+
+```text
+**/.datamodel-manifest.json
+```
+
+If found, read it — this is the primary source for table discovery.
+
+### 1.5 Check Deployment Status
+
+Look for the `.powerpages-site` folder:
+
+```text
+**/.powerpages-site
+```
+
+**If not found**: Warn the user that the permissions phase (Phase 6) will require deployment first. The integration code (Phases 2–5) can still proceed.
+
+### 1.6 Detect AI-only read mode (skill-to-skill invocation)
+
+Inspect `$ARGUMENTS`. If the text begins with the sentinel `[AI-READ-ONLY]`, the caller is another skill (typically `/add-ai-webapi`) that has already analysed the site and decided which tables need Layer 1/2 prerequisites for AI summarization reads. Parse the following structured tokens out of `$ARGUMENTS`:
+
+| Token | Required | Meaning |
+|-------|----------|---------|
+| `mode=ai-read-only` | Yes | Confirms the posture; any other value is rejected with an error. |
+| `primary=<logical_name>` | Yes | The primary table being summarised. Missing → stop and report the contract violation to the caller. |
+| `tables=<csv>` | Yes | Comma-separated list of all tables in scope (primary + every `$expand` target). |
+| `expand-targets=<csv>` | No | Sub-list of `tables` that are `$expand` targets; defaults to empty. |
+| `caller=<skill-name>` | No | Informational — used in commit messages and the final summary. |
+
+**When the sentinel is present:**
+
+- Set an internal flag **AI-only read mode = true** that every downstream phase consults.
+- Skip the Phase 3 interactive table confirmation and use the provided `tables` list verbatim (user has already confirmed in the caller).
+- The Phase 4.1 `webapi-integration` prompt restricts operations to **read-only** (list + get by id).
+- The Phase 6 Path B agent prompts apply the hardened AI-only posture documented in each agent's "AI-only read mode" section.
+- The Phase 6 Path A script invocations use `--read` only for table permissions and omit primary keys / relationship Navigation Properties from `Webapi/<table>/fields`.
+- No `AskUserQuestion` prompts are issued for Phase 3 or Phase 6.2 — the caller owns those decisions.
+- **Defer all git commits to the caller.** Skip Phase 4.4 (`git add -A && git commit`) and Phase 6.5 (permissions/settings commit) entirely. The caller is batching changes into one or two commits at orchestrator-defined milestones; an unprompted commit here turns one logical change into three. Print the file lists you would have committed so the caller can reproduce them.
+- **Suppress the end-of-skill deploy prompt.** Skip Phase 6.1 (deploy-now ask when `.powerpages-site` is missing — the caller has already gated on this), Phase 7.3 (final deploy ask), and Phase 7.4 (post-deploy notes). The caller owns the single end-of-orchestration deploy decision; nesting deploy prompts inside the delegation gives the user 2–3 redundant asks per run. Return the integration summary (Phase 7.2) without trailing deploy/notes.
+
+**When the sentinel is absent**: proceed exactly as today (full CRUD, full interactive flow, auto-commit, deploy prompt). This is the regression guard — no human invocation changes behavior.
+
+**Output**: Confirmed project root, framework, data model availability, deployment status, and (if sentinel present) parsed AI-read-only contract.
+
+---
+
+## Phase 2: Explore Integration Points
+
+**Goal**: Analyze the site code and data model to identify all tables needing Web API integration
+
+**Actions**:
+
+Use the **Explore agent** (via `Task` tool with `agent_type: "explore"`) to analyze the site code and data model. The Explore agent should answer these questions:
+
+### 2.1 Discover Tables
+
+Ask the Explore agent to identify all Dataverse tables that need Web API integration by examining:
+
+- `.datamodel-manifest.json` — List of tables and their columns
+- `src/**/*.{ts,tsx,js,jsx,vue,astro}` — Source code files that reference table data, mock data, or placeholder API calls
+- Existing `/_api/` fetch patterns in the code
+- TypeScript interfaces or types that map to Dataverse table schemas
+- Component files that display or manipulate data from Dataverse tables
+- Mock data files or hardcoded arrays that should be replaced with API calls
+- `TODO` or `FIXME` comments mentioning API integration
+
+**Prompt for the Explore agent:**
+
+> "Analyze this Power Pages code site and identify all Dataverse tables that need Web API integration. Check `.datamodel-manifest.json` for the data model, then search the source code for: mock data arrays, hardcoded data, placeholder fetch calls to `/_api/`, TypeScript interfaces matching Dataverse column patterns (publisher prefix like `cr*_`), TODO/FIXME comments about API integration, and components that display table data. For each table found, report: the table logical name, the entity set name (plural), which source files reference it, what operations are needed (read/create/update/delete), and whether an existing API client or service already exists in `src/shared/` or `src/services/`. Also check if `src/shared/powerPagesApi.ts` already exists."
+
+**When AI-only read mode is active (Phase 1.6 flag set):** append the following to the prompt above:
+
+> "The caller has specified **AI-READ-ONLY** mode for tables `[tables from sentinel]` (primary=`[primary]`, expand-targets=`[expand-targets]`). Operations needed for every table in that list = **read only**. Do NOT report create/update/delete call sites or mock-data replacement candidates. For each `$expand` target, also report the columns the primary's code `$select`s on that expansion (these become the minimal fields list)."
+
+### 2.2 Identify Existing Integration Code
+
+The Explore agent should also report:
+
+- Whether `src/shared/powerPagesApi.ts` (or equivalent API client) already exists
+- Which tables already have service files in `src/shared/services/` or `src/services/`
+- Which tables already have type definitions in `src/types/`
+- Any framework-specific hooks/composables already created
+
+This avoids duplicating work that was already done.
+
+### 2.3 Compile Integration Manifest
+
+From the Explore agent's findings, compile a list of tables needing integration:
+
+| Table | Logical Name | Entity Set | Operations | Files Referencing | Existing Service |
+|-------|-------------|-----------|------------|-------------------|-----------------|
+| Products | `cr4fc_product` | `cr4fc_products` | CRUD | `ProductList.tsx`, `ProductCard.tsx` | None |
+| Categories | `cr4fc_category` | `cr4fc_categories` | Read | `CategoryFilter.tsx` | None |
+
+**Output**: Complete integration manifest listing all tables, their operations, referencing files, and existing service status
+
+---
+
+## Phase 3: Review Integration Plan
+
+**Goal**: Present the integration manifest to the user and confirm which tables to integrate
+
+**Actions**:
+
+### 3.1 Present Findings
+
+Show the user:
+
+1. The tables that were identified for Web API integration
+2. For each table: which files reference it, what operations are needed
+3. Whether a shared API client already exists or needs to be created
+4. Any tables that were skipped (already have services)
+
+### 3.2 Confirm Tables
+
+<!-- gate: integrate-webapi:3.2.confirm-tables | category=plan | cancel-leaves=nothing -->
+
+> 🚦 **Gate (plan · integrate-webapi:3.2.confirm-tables):** Final say on which tables get Web API integration code (client, types, services, hooks).
+>
+> **Trigger:** Explore agent surfaced candidate tables in Phase 3.1.
+> **Why we ask:** Auto-selecting all tables can generate orphaned TypeScript files for tables the user never intended to expose via Web API.
+> **Cancel leaves:** Nothing — no service/type/hook files written yet.
+
+**When AI-only read mode is active (Phase 1.6 flag set):** skip this step entirely. Use the `tables` list parsed from the sentinel verbatim — the caller has already confirmed the selection with the user. Do not issue an `AskUserQuestion`.
+
+Otherwise, use `AskUserQuestion` to confirm:
+
+| Question | Options |
+|----------|---------|
+| I found the following tables that need Web API integration: **[list tables]**. Which tables should I integrate? | All of them (Recommended), Let me select specific tables, I need to add more tables |
+
+If the user selects specific tables or adds more, update the integration manifest accordingly.
+
+**Output**: User-confirmed list of tables to integrate (or sentinel-supplied list in AI-only read mode)
+
+---
+
+## Phase 4: Implement Integrations
+
+**Goal**: Create Web API integration code for each confirmed table using the `webapi-integration` agent
+
+**Actions**:
+
+### 4.1 Invoke Agent Per Table
+
+For each table, use the `Task` tool to invoke the `webapi-integration` agent at `${PLUGIN_ROOT}/agents/webapi-integration.md`:
+
+**Prompt template for the agent:**
+
+> "Integrate Power Pages Web API for the **[Table Display Name]** table.
+>
+> - Table logical name: `[logical_name]`
+> - Entity set name: `[entity_set_name]`
+> - Operations needed: [read/create/update/delete]
+> - Framework: [React/Vue/Angular/Astro]
+> - Project root: [path]
+> - Source files referencing this table: [list of files]
+> - Data model manifest path: [path to .datamodel-manifest.json if available]
+>
+> Create the TypeScript types, CRUD service layer, and framework-specific hooks/composables. Replace any mock data or placeholder API calls in the referencing source files with the new service."
+
+**When AI-only read mode is active (Phase 1.6 flag set):** replace "Operations needed: [read/create/update/delete]" with `Operations needed: read-only` and append to the prompt:
+
+> "**AI-only read integration.** Do NOT emit create, update, or delete functions. Scaffold only `list<Table>` (paginated) and `get<Table>ById` in the service layer. Create the framework-specific read hook only (e.g. `use<Table>()` with `items`, `isLoading`, `error`, `refetch`; no mutation hooks). Do not wire mock-data replacements beyond what is needed for the AI summarization caller — the upstream skill will add the summarization service on top. The shared `src/shared/powerPagesApi.ts` client is still created if it does not already exist; the caller relies on it for the AI integration's read path."
+
+### 4.2 Process First Table, Then Parallelize Remaining
+
+The **first table** must be processed alone — it creates the shared `powerPagesApi.ts` client that all other tables depend on. After the first table completes and the shared client exists:
+
+- **Verify** the shared API client was created at `src/shared/powerPagesApi.ts`
+- **Then invoke all remaining tables in parallel** using multiple `Task` calls — each table creates independent files (its own types in `src/types/`, service in `src/shared/services/`, and hook/composable), so there are no conflicts
+
+If there is only one table, this step is simply sequential.
+
+### 4.3 Verify Each Integration
+
+After each agent completes (or after all parallel agents complete), verify the output:
+
+- Check that the expected files were created (types, service, hook/composable)
+- Confirm the shared API client exists after the first table is processed
+- Note any issues reported by the agent
+
+### 4.4 Git Commit
+
+**Skip when AI-only read mode is active** (Phase 1.6 flag set) — the caller batches commits.
+Print the file list this phase would have staged so the caller can reproduce, then move on.
+
+Otherwise, after all integrations are complete, stage and commit:
+
+```bash
+git add -A
+git commit -m "Add Web API integration for [table names]"
+```
+
+**Output**: Integration code created for all confirmed tables, verified and (in normal mode) committed
+
+---
+
+## Phase 5: Verify Integrations
+
+**Goal**: Validate that all expected integration files exist, imports are correct, and the project builds successfully
+
+**Actions**:
+
+### 5.1 Verify File Inventory
+
+For each integrated table, confirm the following files exist:
+
+- **Type definition** in `src/types/` (e.g., `src/types/product.ts`)
+- **Service file** in `src/shared/services/` or `src/services/` (e.g., `productService.ts`)
+- **Framework-specific hook/composable** (e.g., `src/shared/hooks/useProducts.ts` for React, `src/composables/useProducts.ts` for Vue)
+
+Also verify:
+
+- **Shared API client** at `src/shared/powerPagesApi.ts` exists
+- Each service file references `/_api/` endpoints
+- Each service file imports from the shared API client
+
+### 5.2 Verify Build
+
+Run the project build to catch any import errors, type errors, or missing dependencies:
+
+```bash
+npm run build
+```
+
+If the build fails, fix the issues before proceeding. Common issues:
+
+- Missing imports between generated files
+- Type mismatches between service and type definitions
+- Framework-specific compilation errors
+
+### 5.3 Present Verification Results
+
+Present a table summarizing the verification:
+
+| Table | Types | Service | Hook/Composable | API References |
+|-------|-------|---------|-----------------|----------------|
+| Products | `src/types/product.ts` | `src/shared/services/productService.ts` | `src/shared/hooks/useProducts.ts` | `/_api/cr4fc_products` |
+| ... | ... | ... | ... | ... |
+
+**Build status**: Pass / Fail (with details)
+
+**Output**: All integration files verified, project builds successfully
+
+---
+
+## Phase 6: Setup Permissions & Settings
+
+**Goal**: Configure table permissions and Web API site settings for all integrated tables using the `table-permissions-architect` and `webapi-settings-architect` agents
+
+**Actions**:
+
+### 6.1 Check Deployment Prerequisite
+
+Both agents require the `.powerpages-site` folder.
+
+**When AI-only read mode is active** (Phase 1.6 flag set): the caller has already gated on
+`.powerpages-site` existing — re-check it as a guard, and if it is genuinely absent, stop and
+report the contract violation back to the caller (the caller will surface this to the user).
+Do NOT issue the deploy prompt below — the caller owns the single deploy decision.
+
+Otherwise, if `.powerpages-site` doesn't exist:
+
+<!-- gate: integrate-webapi:6.1.deploy-first | category=plan | cancel-leaves=nothing -->
+
+> 🚦 **Gate (plan · integrate-webapi:6.1.deploy-first):** `.powerpages-site` missing — needed by both architect agents. Deploy first, or skip permissions setup and finish without them.
+>
+> **Trigger:** Phase 6.1 found no `.powerpages-site` folder.
+> **Why we ask:** Auto-skipping leaves the integration broken (no permissions to back the Web API calls); auto-deploying picks the wrong env.
+> **Cancel leaves:** Nothing — services/types/hooks from Phase 4 stay on disk regardless.
+
+Use `AskUserQuestion`:
+
+| Question | Options |
+|----------|---------|
+| The `.powerpages-site` folder was not found. The site needs to be deployed once before permissions and site settings can be configured. Would you like to deploy now? | Yes, deploy now (Recommended), Skip permissions for now — I'll set them up later |
+
+**If "Yes, deploy now"**: Invoke `/deploy-site` first, then resume this phase.
+
+**If "Skip"**: Skip to Phase 7 with a note that permissions and site settings still need to be configured.
+
+### 6.2 Choose Permissions Source
+
+<!-- gate: integrate-webapi:6.2.permissions-source | category=plan | cancel-leaves=nothing -->
+
+> 🚦 **Gate (plan · integrate-webapi:6.2.permissions-source):** Decide between uploading an existing permissions diagram (Path A) and letting the architect agents derive it (Path B). Choice routes the rest of Phase 6.
+>
+> **Trigger:** Entering Phase 6.2 after deployment prerequisite is satisfied.
+> **Why we ask:** Path A produces table permissions matching a stale or wrong diagram; Path B can take minutes to query Dataverse.
+> **Cancel leaves:** Nothing — no permission YAML written yet.
+
+**When AI-only read mode is active (Phase 1.6 flag set):** skip the permissions-source question
+entirely and default to **Path B (let the architects figure it out)** — proceed directly to
+section 6.3. Per the Phase 1.6 contract, no `AskUserQuestion` is issued here; the caller
+(`/add-ai-webapi`) owns this decision, and the AI-only architect prompts in 6.3 already encode
+the read-only posture. Path A (upload an existing permissions diagram) is an interactive human
+path and does not apply to delegated runs.
+
+Otherwise, ask the user how they want to define the permissions using the `AskUserQuestion` tool:
+
+**Question**: "How would you like to define the Web API permissions and settings for your site?"
+
+| Option | Description |
+|--------|-------------|
+| **Upload an existing permissions diagram** | Provide an image (PNG/JPG) or Mermaid diagram of your existing permissions structure |
+| **Let the architects figure it out** | The Table Permissions Architect and Web API Settings Architect will analyze your site's code, data model, and Dataverse environment, then propose permissions and settings automatically |
+
+Route to the appropriate path:
+
+#### Path A: Upload Existing Permissions Diagram
+
+<!-- gate: integrate-webapi:6.2.permissions-approval | category=plan | cancel-leaves=nothing -->
+
+> 🚦 **Gate (plan · integrate-webapi:6.2.permissions-approval):** Final sign-off on the parsed permissions plan (from the uploaded diagram) before any web-role / table-permission / site-setting YAML write. Fires at step 6 of the Path A sequence below.
+>
+> **Trigger:** Path A — diagram parsed and Mermaid flowchart rendered.
+> **Why we ask:** Wrong scope / wrong CRUD flags get committed to `.powerpages-site/table-permissions/` — fixable but noisy in git history.
+> **Cancel leaves:** Nothing — no YAML files written yet.
+
+If the user chooses to upload an existing diagram:
+
+1. Ask the user to provide their permissions diagram. Supported formats:
+   - **Image file** (PNG, JPG) — Use the `Read` tool to view the image and extract web roles, table permissions, CRUD flags, scopes, and site settings from it
+   - **Mermaid syntax** — The user can paste a Mermaid flowchart diagram text directly in chat
+   - **Text description** — A structured list of web roles, table permissions, scopes, and site settings
+
+2. Parse the diagram into structured format:
+   - **Web roles**: Match with existing roles from `.powerpages-site/web-roles/` by name to get their UUIDs
+   - **Table permissions**: Permission name, table logical name, web role UUID(s), scope, CRUD flags (read/create/write/delete/append/appendto), parent permission and relationship name (if Parent scope)
+   - **Site settings**: `Webapi/<table>/enabled` and `Webapi/<table>/fields` — **CRITICAL: fields must list every required column LogicalName explicitly, including columns used by aggregate OData queries**
+
+3. **Validate column names against Dataverse** — Even when using a user-provided diagram, query Dataverse for each table's column LogicalNames and verify that every column in the `Webapi/<table>/fields` values uses the exact Dataverse LogicalName (case-sensitive). Correct any mismatches before creating files.
+
+4. Cross-check with existing configuration in `.powerpages-site/` to identify which permissions and site settings are new vs. already exist.
+
+5. Generate a Mermaid flowchart from the parsed data (if the user provided an image or text) for visual confirmation.
+
+6. Present the parsed permissions plan to the user for approval using `AskUserQuestion`:
+
+   | Question | Options |
+   |----------|---------|
+   | Does this permissions plan look correct? | Approve and create files (Recommended), Request changes, Cancel |
+
+7. Proceed directly to **section 6.4: Create Permission & Settings Files** with the parsed data.
+
+#### Path B: Let the Architects Figure It Out
+
+If the user chooses to let the architects figure it out, proceed to **section 6.3: Invoke Table Permissions Agent**.
+
+### 6.3 Invoke Table Permissions and Web API Settings Agents (in Parallel)
+
+These two agents are **independent** — invoke them in parallel using two `Task` calls simultaneously:
+
+#### Table Permissions Agent
+
+Use the `Task` tool to invoke the `table-permissions-architect` agent at `${PLUGIN_ROOT}/agents/table-permissions-architect.md`:
+
+**Prompt (default — full CRUD):**
+
+> "Analyze this Power Pages code site and propose table permissions. The following tables have been integrated with Web API: [list of tables integrated in Phase 4]. Check for existing web roles and table permissions. Propose a complete table permissions plan covering all integrated tables. After I approve the plan, create the web role and table permission YAML files using the deterministic scripts."
+
+**Prompt (AI-only read mode active):** append to the default prompt:
+
+> "**AI-only read integration.** The caller is `/add-ai-webapi` and these tables will be summarised by `/_api/summarization/data/v1.0/` — the endpoint is semantically a read and never mutates Dataverse. Therefore:
+>
+> - Set `read: true` **only**. Do NOT propose `create`, `write`, or `delete` even if the default convention would include them.
+> - For collection-valued `$expand` targets (primary=`[primary]`, expand-targets=`[expand-targets]`), use **Parent scope** with `read: true`, and add `appendTo: true` on the parent table permission so the relationship traversal is allowed.
+> - If no suitable web role exists, surface this back to the caller — `/add-ai-webapi` will invoke `/create-webroles` up front; do not block on role creation here."
+
+The agent will:
+
+1. Analyze the site and propose a plan (with Mermaid diagram)
+2. Present the plan via plan mode for user approval
+3. After approval, create any needed web roles using `create-web-role.js`
+4. Create all table permission files using `create-table-permission.js`
+5. Return a summary of created files
+
+#### Web API Settings Agent
+
+Use the `Task` tool to invoke the `webapi-settings-architect` agent at `${PLUGIN_ROOT}/agents/webapi-settings-architect.md`:
+
+**Prompt (default — full CRUD):**
+
+> "Analyze this Power Pages code site and propose Web API site settings. The following tables have been integrated with Web API: [list of tables integrated in Phase 4]. Check for existing site settings and query Dataverse for exact column LogicalNames. Propose site settings with case-sensitive validated column names. After I approve the plan, create the site setting YAML files using the deterministic scripts."
+
+**Prompt (AI-only read mode active):** append to the default prompt:
+
+> "**AI-only read integration.** These tables will be summarised by `/_api/summarization/data/v1.0/`. The fields list rules are stricter than the default CRUD posture:
+>
+> - `Webapi/<table>/fields` must contain **exactly** the columns required by every site call against the table. Start with the primary's `$select` / `$expand`; if the table is also used by an aggregate query, add its grouping keys, aggregate inputs, filter columns, and ordered columns.
+> - Do **not** include the primary key column. The summarization endpoint carries the record id in the URL path; Microsoft's shipped case preset ships `Webapi/incident/fields = description,title` with no `incidentid`.
+> - For lookup columns, include **only** the `_<col>_value` OData read form. Add a relationship Navigation Property only when non-AI code uses it before `@odata.bind`.
+> - Still query Dataverse for exact LogicalNames (case-sensitive) — case mismatches produce 403."
+
+The agent will:
+
+1. Analyze the site, query Dataverse for exact column LogicalNames
+2. Cross-validate column names (case-sensitive)
+3. Present the plan via plan mode for user approval
+4. After approval, create all site setting files using `create-site-setting.js`
+5. Return a summary of created files
+
+Wait for **both** agents to complete before proceeding to 6.4.
+
+### 6.4 Create Permission & Settings Files (Path A Only)
+
+**This section applies only to Path A (user-provided permissions diagram).** For Path B, the architect agents create the files directly in section 6.3.
+
+After parsing the user's diagram, create the YAML files using the deterministic scripts below. **Do NOT write YAML files manually** — always use these scripts which handle UUID generation, field ordering, formatting, and file naming automatically.
+
+#### 6.4.1 Create Web Roles (if needed)
+
+If the plan requires new web roles that don't already exist, create them first (their UUIDs are needed for table permissions):
+
+```bash
+node "${PLUGIN_ROOT}/skills/create-webroles/scripts/create-web-role.js" --projectRoot "<PROJECT_ROOT>" --name "<Role Name>" [--anonymous] [--authenticated]
+```
+
+Capture the JSON output (`{ "id": "<uuid>", "filePath": "<path>" }`) — use the `id` as the `--webRoleIds` value when creating table permissions.
+
+#### 6.4.2 Create Table Permissions
+
+For each table permission in the plan. Process **parent permissions before child permissions** — children need the parent's UUID from the JSON output.
+
+**When AI-only read mode is active (Phase 1.6 flag set):** the default flag set is `--read` only. Do NOT pass `--create`, `--write`, or `--delete` for any permission in scope — AI summarization reads never mutate. For Parent-scope child permissions, still pass `--parentPermissionId` and `--parentRelationshipName`; on the parent permission add `--appendto` so the AI endpoint can traverse the relationship.
+
+**For Global/Contact/Account/Self scope:**
+
+```bash
+node "${PLUGIN_ROOT}/scripts/create-table-permission.js" --projectRoot "<PROJECT_ROOT>" --permissionName "<Permission Name>" --tableName "<table_logical_name>" --webRoleIds "<uuid1,uuid2>" --scope "Global" [--read] [--create] [--write] [--delete] [--append] [--appendto]
+node "${PLUGIN_ROOT}/scripts/create-table-permission.js" --projectRoot "<PROJECT_ROOT>" --permissionName "<Permission Name>" --tableName "<table_logical_name>" --webRoleIds "<uuid1,uuid2>" --scope "Contact" --contactRelationshipName "<lookup_to_contact>" [--read] [--create] [--write] [--delete] [--append] [--appendto]
+node "${PLUGIN_ROOT}/scripts/create-table-permission.js" --projectRoot "<PROJECT_ROOT>" --permissionName "<Permission Name>" --tableName "<table_logical_name>" --webRoleIds "<uuid1,uuid2>" --scope "Account" --accountRelationshipName "<lookup_to_account>" [--read] [--create] [--write] [--delete] [--append] [--appendto]
+node "${PLUGIN_ROOT}/scripts/create-table-permission.js" --projectRoot "<PROJECT_ROOT>" --permissionName "<Permission Name>" --tableName "<table_logical_name>" --webRoleIds "<uuid1,uuid2>" --scope "Self" [--read] [--create] [--write] [--delete] [--append] [--appendto]
+```
+
+**For Parent scope** (requires parent permission UUID and relationship name):
+
+```bash
+node "${PLUGIN_ROOT}/scripts/create-table-permission.js" --projectRoot "<PROJECT_ROOT>" --permissionName "<Permission Name>" --tableName "<table_logical_name>" --webRoleIds "<uuid1>" --scope "Parent" --parentPermissionId "<parent-uuid>" --parentRelationshipName "<relationship_name>" [--read] [--create] [--write] [--delete] [--append] [--appendto]
+```
+
+Each invocation outputs `{ "id": "<uuid>", "filePath": "<path>" }`. Use the `id` as `--parentPermissionId` for child permissions.
+
+#### 6.4.3 Create Site Settings
+
+For each site setting in the plan:
+
+**Enabled setting (boolean):**
+
+```bash
+node "${PLUGIN_ROOT}/scripts/create-site-setting.js" --projectRoot "<PROJECT_ROOT>" --name "Webapi/<table>/enabled" --value "true" --description "Enable Web API access for <table> table" --type "boolean"
+```
+
+**Fields setting (string — use the validated column names from the diagram):**
+
+```bash
+node "${PLUGIN_ROOT}/scripts/create-site-setting.js" --projectRoot "<PROJECT_ROOT>" --name "Webapi/<table>/fields" --value "<comma-separated-validated-columns>" --description "Allowed fields for <table> Web API access"
+```
+
+**Inner error setting (boolean, optional for debugging):**
+
+```bash
+node "${PLUGIN_ROOT}/scripts/create-site-setting.js" --projectRoot "<PROJECT_ROOT>" --name "Webapi/error/innererror" --value "true" --description "Enable detailed error messages for debugging" --type "boolean"
+```
+
+**Important**: The `--value` for every fields setting MUST follow `${PLUGIN_ROOT}/references/webapi-field-allowlist.md`. Use exact LogicalNames for ordinary columns, `_<LogicalName>_value` for lookup reads, and the exact Navigation Property used before `@odata.bind` for lookup writes. Wildcard field access is unsupported beginning September 14, 2026.
+
+**Aggregate queries**: Include every grouping key, aggregate input, filter column, and ordered column referenced by `$apply` in the explicit fields list.
+
+**Lookup columns**: Include `_<LogicalName>_value` for reads. If POST/PATCH sets the relationship with `NavigationProperty@odata.bind`, also include that exact case-sensitive Navigation Property in the fields value.
+
+**AI-only read mode (Phase 1.6 flag set)**: the fields-value rules tighten:
+
+- Include the exact columns required by every site call against the table. Start with the primary's `$select` / `$expand`; if the table is also used by an aggregate query, add its grouping keys, aggregate inputs, filter columns, and ordered columns.
+- Do NOT include the primary key. The summarization endpoint carries the record id in the URL path; Microsoft's shipped case preset ships `Webapi/incident/fields = description,title` with no `incidentid`.
+- For lookup columns, include only the `_<col>_value` read form. Omit relationship Navigation Properties because AI mode has no `@odata.bind` writes.
+- Keep File/Image and aggregate-query columns explicit, adding only the columns the site actually uses.
+
+### 6.5 Git Commit
+
+**Skip when AI-only read mode is active** (Phase 1.6 flag set) — the caller batches commits.
+Print the file list this phase would have staged so the caller can reproduce, then move on.
+
+Otherwise, stage and commit the permission and settings files:
+
+```bash
+git add -A
+git commit -m "Add table permissions and Web API site settings for [table names]"
+```
+
+**Output**: Table permissions and site settings created, verified, and (in normal mode) committed
+
+### 6.6 Final site-integrity gate
+
+After all integration source changes, permission/settings work, and build verification are
+complete, run:
+
+```bash
+node "${PLUGIN_ROOT}/scripts/validate-site-integrity.js" --projectRoot "<PROJECT_ROOT>"
+```
+
+Fix every blocking error before presenting completion or asking to deploy. Inspect and report
+review findings in both directions and with expanded content. Rerun this gate after any later
+source change.
+
+---
+
+## Phase 7: Review & Deploy
+
+**Goal**: Present a summary of all work performed and offer deployment
+
+**Actions**:
+
+### 7.1 Record Skill Usage
+
+> Reference: `${PLUGIN_ROOT}/references/skill-tracking-reference.md`
+
+Follow the skill tracking instructions in the reference to record this skill's usage. Use `--skillName "IntegrateWebApi"`.
+
+### 7.2 Present Summary
+
+Present a summary of everything that was done:
+
+| Step | Status | Details |
+|------|--------|---------|
+| API Client | Created/Existed | `src/shared/powerPagesApi.ts` |
+| Types | Created | `src/types/product.ts`, `src/types/category.ts` |
+| Services | Created | `src/shared/services/productService.ts`, etc. |
+| Hooks | Created | `src/shared/hooks/useProducts.ts`, etc. |
+| Components Updated | X files | Mock data replaced with API calls |
+| Table Permissions | Created | X permission files |
+| Site Settings | Created | X setting files |
+
+### 7.3 Ask to Deploy
+
+<!-- gate: integrate-webapi:7.3.deploy | category=plan | cancel-leaves=nothing -->
+
+> 🚦 **Gate (plan · integrate-webapi:7.3.deploy):** Post-integration deploy prompt — Web API calls won't work until permissions and site settings are deployed.
+>
+> **Trigger:** All integration code + permissions YAML committed.
+> **Why we ask:** Auto-deploy picks whatever env PAC CLI happens to point at.
+> **Cancel leaves:** Nothing — integration artifacts stay on disk; no deploy fired.
+
+**Skip when AI-only read mode is active** (Phase 1.6 flag set) — the caller owns the single
+end-of-orchestration deploy decision. Return the Phase 7.2 summary and stop.
+
+Otherwise, use `AskUserQuestion`:
+
+| Question | Options |
+|----------|---------|
+| The Web API integration and permissions are ready. To make everything live, the site needs to be deployed. Would you like to deploy now? | Yes, deploy now (Recommended), No, I'll deploy later |
+
+**If "Yes, deploy now"**: Invoke the `/deploy-site` skill to deploy the site.
+
+**If "No, I'll deploy later"**: Acknowledge and remind:
+
+> "No problem! Remember to deploy your site using `/deploy-site` when you're ready. The Web API calls will not work until the site is deployed with the new permissions."
+
+### 7.4 Post-Deploy Notes
+
+**Skip when AI-only read mode is active** — the caller emits its own post-deploy guidance
+that covers AI-specific concerns (governance hierarchy, runtime version, Bing dependency).
+
+Otherwise, after deployment (or if skipped), remind the user:
+
+- **Test the API**: Open the deployed site and verify Web API calls work in the browser's Network tab
+- **Check permissions**: If any API call returns 403, verify table permissions and site settings are correct. The most common cause is a column in the request missing from `Webapi/<table>/fields` or not matching the exact case-sensitive Dataverse LogicalName returned by metadata. For aggregate OData (`$apply`, aggregate, grouped totals), verify that every grouping key, aggregate input, filter column, and ordered column is listed explicitly.
+- **Disable innererror in production**: If `Webapi/error/innererror` was enabled for debugging, disable it before going live
+- **Web roles**: Users must be assigned the appropriate web roles to access protected APIs
+
+**Output**: Summary presented; deployment completed or deferred (normal mode), or returned to caller (AI-only read mode).
+
+---
+
+## Important Notes
+
+### Throughout All Phases
+
+- **Use TaskCreate/TaskUpdate** to track progress at every phase
+- **Ask for user confirmation** at key decision points (see list below)
+- **First table sequential, then parallel** — the first table creates the shared API client; after that, remaining tables can be processed in parallel since each creates independent files
+- **Commit at milestones** — after integration code and after permission files
+- **Verify each integration** — confirm expected files exist after each agent invocation
+
+### Key Decision Points (Wait for User)
+
+1. After Phase 2: Confirm which tables to integrate
+2. After Phase 3: Approve integration plan
+3. At Phase 6.1: Deploy now or skip permissions (if `.powerpages-site` missing)
+4. At Phase 6.2: Choose permissions source (upload diagram or let the architects analyze)
+5. At Phase 6.3: Approve table permissions plan and Web API site settings plan (both agents run in parallel for Path B, each presents its own plan for approval)
+6. At Phase 7.2: Deploy now or deploy later
+
+### Progress Tracking
+
+Before starting Phase 1, create a task list with all phases using `TaskCreate`:
+
+| Task subject | activeForm | Description |
+|-------------|------------|-------------|
+| Verify site exists | Verifying site prerequisites | Locate project root, detect framework, check data model and deployment status |
+| Explore integration points | Analyzing code for integration points | Use Explore agent to discover tables, existing services, and compile integration manifest |
+| Review integration plan | Reviewing integration plan with user | Present findings and confirm which tables to integrate |
+| Implement integrations | Implementing Web API integrations | Invoke webapi-integration agent for first table (creates shared client), then remaining tables in parallel, verify output, git commit |
+| Verify integrations | Verifying integrations | Validate all expected files exist, check imports and API references, run project build |
+| Setup permissions and settings | Configuring permissions and site settings | Choose permissions source (upload diagram or architects), invoke table-permissions-architect and webapi-settings-architect agents in parallel, create YAML files with case-sensitive validated column names, git commit |
+| Review and deploy | Reviewing summary and deploying | Present summary, ask about deployment, provide post-deploy guidance |
+
+Mark each task `in_progress` when starting it and `completed` when done via `TaskUpdate`. This gives the user visibility into progress and keeps the workflow deterministic.
+
+---
+
+**Begin with Phase 1: Verify Site Exists**

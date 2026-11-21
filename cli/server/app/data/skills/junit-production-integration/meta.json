@@ -1,0 +1,11 @@
+{
+  "name": "junit-production-integration",
+  "display_name": "Junit Production Integration",
+  "description": "Generates production-grade JUnit 5 unit and integration tests in Java. Covers assertions, parameterized tests, lifecycle hooks, mocking with Mockito, and nested tests. Use when user mentions \"JUnit\", \"JUnit 5\", \"@Test\", \"assertEquals\", \"Assertions\", \"Java unit test\".",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/junit-5-skill/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/junit-5-skill/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 6681,
+  "truncated": false
+}

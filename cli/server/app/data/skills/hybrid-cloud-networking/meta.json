@@ -1,0 +1,11 @@
+{
+  "name": "hybrid-cloud-networking",
+  "display_name": "Hybrid Cloud Networking",
+  "description": "Configure secure, high-performance connectivity between on-premises and cloud environments using VPN, Direct Connect, and ExpressRoute.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/hybrid-cloud-networking/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/hybrid-cloud-networking/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 6507,
+  "truncated": false
+}

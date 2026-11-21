@@ -1,0 +1,11 @@
+{
+  "name": "hf-mcp",
+  "display_name": "Hf MCP",
+  "description": "Use Hugging Face Hub via MCP server tools. Search models, datasets, Spaces, papers. Get repo details, fetch documentation, run compute jobs, and use Gradio Spaces as AI tools. Available when connected to the HF MCP server.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/hf-mcp/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/hf-mcp/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 5382,
+  "truncated": false
+}

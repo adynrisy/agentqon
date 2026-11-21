@@ -1,0 +1,11 @@
+{
+  "name": "hub-run",
+  "display_name": "Hub Run",
+  "description": "One-shot lifecycle command that chains init → baseline → spawn → eval → merge in a single invocation. Use when the user runs /hub:hub-run or asks to execute a full AgentHub competition end-to-end.",
+  "repo": "alirezarezvani/claude-skills",
+  "path": ".gemini/skills/hub-run/SKILL.md",
+  "url": "https://github.com/alirezarezvani/claude-skills/tree/HEAD/.gemini/skills/hub-run/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 3559,
+  "truncated": false
+}

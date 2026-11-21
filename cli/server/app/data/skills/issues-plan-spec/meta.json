@@ -1,0 +1,11 @@
+{
+  "name": "issues-plan-spec",
+  "display_name": "Issues Plan Spec",
+  "description": "Break a plan, spec, or PRD into independently-grabbable issues on the project issue tracker using tracer-bullet vertical slices.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/to-issues/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/to-issues/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 3920,
+  "truncated": false
+}

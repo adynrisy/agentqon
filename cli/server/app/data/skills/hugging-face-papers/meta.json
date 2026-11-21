@@ -1,0 +1,11 @@
+{
+  "name": "hugging-face-papers",
+  "display_name": "Hugging Face Papers",
+  "description": "Look up and read Hugging Face paper pages in markdown, and use the papers API for structured metadata such as authors, linked models/datasets/spaces, Github repo and project page.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/hugging-face-papers/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/hugging-face-papers/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 9385,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "ios-debugger",
+  "display_name": "iOS Debugger",
+  "description": "Debug the current iOS project on a booted simulator with XcodeBuildMCP.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/ios-debugger-agent/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/ios-debugger-agent/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 3023,
+  "truncated": false
+}

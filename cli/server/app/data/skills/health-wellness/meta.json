@@ -1,0 +1,11 @@
+{
+  "name": "health-wellness",
+  "display_name": "Health Wellness",
+  "description": "Wellbeing check-in register: anonymous flag, department, check-in date, wellbeing score, stress and energy levels, support and resource flags, confidentiality and status. Use for wellness programmes.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/health-wellness/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/health-wellness/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 13550,
+  "truncated": false
+}

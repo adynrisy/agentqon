@@ -1,0 +1,11 @@
+{
+  "name": "krexa-idea-post",
+  "display_name": "Krexa Idea Post",
+  "description": "Turn a trading idea, post or video into fixed rules, backtest and paper-trade them, and request a user-approved live agent through Krexa's MCP server. Cannot move funds.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/krexa/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/krexa/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 10628,
+  "truncated": false
+}

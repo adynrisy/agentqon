@@ -1,0 +1,11 @@
+{
+  "name": "import-solution",
+  "display_name": "Import Solution",
+  "description": "Imports a Dataverse solution zip into a target environment, with optional staged import for dependency checking before committing. Use when asked to: \"import solution\", \"install solution\", \"deploy solution zip\", \"push solution to environment\", \"deploy to staging\", \"deploy to production\", or \"install site in new environment\".",
+  "repo": "microsoft/power-platform-skills",
+  "path": "plugins/power-pages/skills/import-solution/SKILL.md",
+  "url": "https://github.com/microsoft/power-platform-skills/tree/HEAD/plugins/power-pages/skills/import-solution/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 37831,
+  "truncated": false
+}

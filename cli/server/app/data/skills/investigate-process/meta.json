@@ -1,0 +1,11 @@
+{
+  "name": "investigate-process",
+  "display_name": "Investigate Process",
+  "description": "Use when a broad Process Mining business question, observed pattern or competing explanation needs investigation across analytical perspectives.",
+  "repo": "microsoft/power-platform-skills",
+  "path": "plugins/process-intelligence/skills/investigate-process/SKILL.md",
+  "url": "https://github.com/microsoft/power-platform-skills/tree/HEAD/plugins/process-intelligence/skills/investigate-process/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 3139,
+  "truncated": false
+}

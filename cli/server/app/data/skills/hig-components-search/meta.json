@@ -1,0 +1,11 @@
+{
+  "name": "hig-components-search",
+  "display_name": "Hig Components Search",
+  "description": "Apple HIG guidance for navigation-related components including search fields, page controls, and path controls.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/hig-components-search/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/hig-components-search/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 3289,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "human-loop-web",
+  "display_name": "Human Loop Web",
+  "description": "Human-in-the-loop web studio to tune AI-generated output by eye. Stand up a local interactive studio (sliders, pickers, drag handles) or an inline edit/highlight/comment annotation studio for prose & media, instead of guessing values or shipping a static comparison grid.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/lookdev/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/lookdev/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 32045,
+  "truncated": false
+}

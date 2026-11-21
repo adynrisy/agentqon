@@ -1,0 +1,11 @@
+{
+  "name": "knowledge-distillation",
+  "display_name": "Knowledge Distillation",
+  "description": "Compress large language models using knowledge distillation from teacher to student models. Use when deploying smaller models with retained performance, transferring GPT-4 capabilities to open-source models, or reducing inference costs. Covers temperature scaling, soft targets, reverse KLD, logit distillation, and MiniLLM training strategies.",
+  "repo": "Orchestra-Research/AI-Research-SKILLs",
+  "path": "19-emerging-techniques/knowledge-distillation/SKILL.md",
+  "url": "https://github.com/Orchestra-Research/AI-Research-SKILLs/tree/HEAD/19-emerging-techniques/knowledge-distillation/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 12922,
+  "truncated": false
+}

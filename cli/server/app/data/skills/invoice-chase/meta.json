@@ -1,0 +1,11 @@
+{
+  "name": "invoice-chase",
+  "display_name": "Invoice Chase",
+  "description": "Drafts overdue-invoice reminder emails from the ledger (MYOB, NetSuite, QuickBooks, Xero, or Zoho Books) plus PayPal, Stripe, and Airwallex data, matched to each customer's payment history and tone (gentle for good customers, firm for repeat late payers). Sends via PayPal with owner approval; everything else queues as a mail draft, with the Airwallex hosted pay link included where one exists. Use when the user asks \"who owes me money,\" mentions overdue invoices, or wants to follow up on unpaid invoices.",
+  "repo": "anthropics/knowledge-work-plugins",
+  "path": "small-business/skills/invoice-chase/SKILL.md",
+  "url": "https://github.com/anthropics/knowledge-work-plugins/tree/HEAD/small-business/skills/invoice-chase/SKILL.md",
+  "license": "Apache-2.0",
+  "body_bytes": 11226,
+  "truncated": false
+}

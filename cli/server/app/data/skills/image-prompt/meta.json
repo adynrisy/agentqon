@@ -1,0 +1,11 @@
+{
+  "name": "image-prompt",
+  "display_name": "Image Prompt",
+  "description": "Write four distinct prompts for AI image models. Use for image, thumbnail, banner, logo, or illustration prompts. Produces prompt text only.",
+  "repo": "davidondrej/skills",
+  "path": "skills/thinking-and-docs/image-prompt/SKILL.md",
+  "url": "https://github.com/davidondrej/skills/tree/HEAD/skills/thinking-and-docs/image-prompt/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 2464,
+  "truncated": false
+}

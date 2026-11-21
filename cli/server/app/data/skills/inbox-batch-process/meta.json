@@ -1,0 +1,11 @@
+{
+  "name": "inbox-batch-process",
+  "display_name": "Inbox Batch Process",
+  "description": "Batch-process unread customer emails - classify, prioritize, and draft replies. Use when the user asks \"sweep my inbox\", \"what customer emails need a reply\", \"draft replies to my customer emails\", or \"what needs a response\".",
+  "repo": "anthropics/knowledge-work-plugins",
+  "path": "sales/skills/inbox-sweep/SKILL.md",
+  "url": "https://github.com/anthropics/knowledge-work-plugins/tree/HEAD/sales/skills/inbox-sweep/SKILL.md",
+  "license": "Apache-2.0",
+  "body_bytes": 9722,
+  "truncated": false
+}

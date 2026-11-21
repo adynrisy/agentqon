@@ -1,0 +1,11 @@
+{
+  "name": "item-detail",
+  "display_name": "Item Detail",
+  "description": "Extracts full detail data from a single Goofish (闲鱼/xianyu, goofish.com) second-hand item page. Input: item URL or item ID. Output: title, price, seller info (name, labels), full description, image gallery, item tags/attributes, want-count. Use when user mentions goofish item detail, 闲鱼商品详情, xianyu item page, 二手商品详情, get goofish product info, 采集闲鱼单品数据, 抓取闲鱼商品, scrape goofish item, xianyu product detail, 获取闲鱼卖家信息, seller info goofish, item description goofish, 闲鱼详情页, 想要人数, 闲鱼图片. Also applies to: verifying a specific listing before purchase, extracting seller contact/rating information, bulk item detail enrichment from a list of item IDs.",
+  "repo": "browser-act/skills",
+  "path": "solutions/ecommerce/goofish-item-detail/SKILL.md",
+  "url": "https://github.com/browser-act/skills/tree/HEAD/solutions/ecommerce/goofish-item-detail/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 5726,
+  "truncated": false
+}

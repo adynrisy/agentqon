@@ -1,0 +1,11 @@
+{
+  "name": "internal-comms-communications",
+  "display_name": "Internal Comms · Communications",
+  "description": "Write internal communications such as status reports, leadership updates, 3P updates, newsletters, FAQs, incident reports, and project updates using repeatable internal formats.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/internal-comms/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/internal-comms/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 2529,
+  "truncated": false
+}

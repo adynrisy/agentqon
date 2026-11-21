@@ -1,0 +1,11 @@
+{
+  "name": "identity-mirror",
+  "display_name": "Identity Mirror",
+  "description": "Map an audience's current and aspirational identity into credible messaging when copy needs stronger personal relevance.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/identity-mirror/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/identity-mirror/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 6437,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "keep-track",
+  "display_name": "Keep Track",
+  "description": "Keep track of open topics and decisions. Use when the user says \"keep-track\" or asks to keep a running list of remaining items.",
+  "repo": "davidondrej/skills",
+  "path": "skills/thinking-and-docs/keep-track/SKILL.md",
+  "url": "https://github.com/davidondrej/skills/tree/HEAD/skills/thinking-and-docs/keep-track/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 361,
+  "truncated": false
+}

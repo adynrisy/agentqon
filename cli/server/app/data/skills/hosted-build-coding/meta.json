@@ -1,0 +1,11 @@
+{
+  "name": "hosted-build-coding",
+  "display_name": "Hosted Build Coding",
+  "description": "Build background agents in sandboxed environments. Use for hosted coding agents, sandboxed VMs, Modal sandboxes, and remote coding environments.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/hosted-agents/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/hosted-agents/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 11920,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "integration-expert-patterns",
+  "display_name": "Integration Expert Patterns",
+  "description": "Expert patterns for HubSpot CRM integration including OAuth authentication, CRM objects, associations, batch operations, webhooks, and custom objects. Covers Node.js and Python SDKs.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/hubspot-integration/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/hubspot-integration/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 1303,
+  "truncated": false
+}

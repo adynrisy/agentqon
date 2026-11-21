@@ -1,0 +1,11 @@
+{
+  "name": "implement-spec",
+  "display_name": "Implement Spec",
+  "description": "Implement the result of /to-spec and /to-tickets in code.",
+  "repo": "mattpocock/skills",
+  "path": "skills/engineering/implement-spec/SKILL.md",
+  "url": "https://github.com/mattpocock/skills/tree/HEAD/skills/engineering/implement-spec/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 2646,
+  "truncated": false
+}

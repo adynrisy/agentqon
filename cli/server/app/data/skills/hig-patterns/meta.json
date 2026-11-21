@@ -1,0 +1,11 @@
+{
+  "name": "hig-patterns",
+  "display_name": "Hig Patterns",
+  "description": "Apple Human Interface Guidelines interaction and UX patterns.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/hig-patterns/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/hig-patterns/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 7404,
+  "truncated": false
+}

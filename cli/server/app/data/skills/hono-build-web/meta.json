@@ -1,0 +1,11 @@
+{
+  "name": "hono-build-web",
+  "display_name": "Hono Build Web",
+  "description": "Build ultra-fast web APIs and full-stack apps with Hono — runs on Cloudflare Workers, Deno, Bun, Node.js, and any WinterCG-compatible runtime.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/hono/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/hono/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 10365,
+  "truncated": false
+}

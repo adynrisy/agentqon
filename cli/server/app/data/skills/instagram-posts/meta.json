@@ -1,0 +1,11 @@
+{
+  "name": "instagram-posts",
+  "display_name": "Instagram Posts",
+  "description": "Scrapes Instagram posts by hashtag, returning media items with captions, like/comment counts, media URLs and user info from the hashtag explore feed. Use when user mentions Instagram hashtag scraping, get posts by hashtag, IG hashtag feed, scrape Instagram by tag, hashtag posts Instagram, search Instagram hashtag, pull posts from hashtag, Instagram topic posts, trending hashtag content, Instagram tag posts.",
+  "repo": "browser-act/skills",
+  "path": "solutions/social-listening/instagram-hashtag-posts/SKILL.md",
+  "url": "https://github.com/browser-act/skills/tree/HEAD/solutions/social-listening/instagram-hashtag-posts/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 6089,
+  "truncated": false
+}

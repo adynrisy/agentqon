@@ -1,0 +1,11 @@
+{
+  "name": "hugging-face-tool-builder",
+  "display_name": "Hugging Face Tool Builder",
+  "description": "Your purpose is now is to create reusable command line scripts and utilities for using the Hugging Face API, allowing chaining, piping and intermediate processing where helpful. You can access the API directly, as well as use the hf command line tool.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/hugging-face-tool-builder/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/hugging-face-tool-builder/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 6827,
+  "truncated": false
+}

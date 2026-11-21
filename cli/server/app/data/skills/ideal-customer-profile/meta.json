@@ -1,0 +1,11 @@
+{
+  "name": "ideal-customer-profile",
+  "display_name": "Ideal Customer Profile",
+  "description": "Identify the Ideal Customer Profile (ICP) from research data with demographics, behaviors, JTBD, and needs. Use when defining your ICP, analyzing PMF survey data, or understanding who your best customers are.",
+  "repo": "phuryn/pm-skills",
+  "path": "pm-go-to-market/skills/ideal-customer-profile/SKILL.md",
+  "url": "https://github.com/phuryn/pm-skills/tree/HEAD/pm-go-to-market/skills/ideal-customer-profile/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 5741,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "hierarchical-memory",
+  "display_name": "Hierarchical Memory",
+  "description": "Scoped CLAUDE.md memory system that reduces context token spend. Creates directory-level context files, tracks savings via dashboard, and routes agents to the right sub-context.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/hierarchical-agent-memory/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/hierarchical-agent-memory/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 4341,
+  "truncated": false
+}

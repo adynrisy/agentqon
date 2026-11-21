@@ -1,0 +1,11 @@
+{
+  "name": "incident-response-engineering",
+  "display_name": "Incident Response · Engineering",
+  "description": "Run an incident response workflow — triage, communicate, and write postmortem. Trigger with \"we have an incident\", \"production is down\", an alert that needs severity assessment, a status update mid-incident, or when writing a blameless postmortem after resolution.",
+  "repo": "anthropics/knowledge-work-plugins",
+  "path": "engineering/skills/incident-response/SKILL.md",
+  "url": "https://github.com/anthropics/knowledge-work-plugins/tree/HEAD/engineering/skills/incident-response/SKILL.md",
+  "license": "Apache-2.0",
+  "body_bytes": 5307,
+  "truncated": false
+}

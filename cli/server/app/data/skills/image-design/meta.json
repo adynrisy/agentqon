@@ -1,0 +1,11 @@
+{
+  "name": "image-design",
+  "display_name": "Image Design",
+  "description": "Brand asset register: asset type, format, dimensions and aspect ratio, colour mode, background variant, clear space, approved and prohibited uses, rights owner and licence. Use for brand control.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/logo-image-design/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/logo-image-design/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 22245,
+  "truncated": false
+}

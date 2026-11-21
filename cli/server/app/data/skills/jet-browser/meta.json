@@ -1,0 +1,11 @@
+{
+  "name": "jet-browser",
+  "display_name": "Jet Browser",
+  "description": "Verify or integrate Jet Browser when a project needs isolated WPE WebKit sessions, native input, screenshots, ordered JSONL automation, or reproducible runtime checks.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/jet-browser/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/jet-browser/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 8385,
+  "truncated": false
+}

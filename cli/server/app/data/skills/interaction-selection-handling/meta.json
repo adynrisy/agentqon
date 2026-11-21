@@ -1,0 +1,11 @@
+{
+  "name": "interaction-selection-handling",
+  "display_name": "Interaction Selection Handling",
+  "description": "Three.js interaction - raycasting, controls, mouse/touch input, object selection. Use when handling user input, implementing click detection, adding camera controls, or creating interactive 3D experiences.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/threejs-interaction/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/threejs-interaction/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 920,
+  "truncated": false
+}

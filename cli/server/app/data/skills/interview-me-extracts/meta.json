@@ -1,0 +1,11 @@
+{
+  "name": "interview-me-extracts",
+  "display_name": "Interview Me · Extracts",
+  "description": "Extracts what the user actually wants instead of what they think they should want. Achieves this through one-question-at-a-time interview until ~95% confidence about the underlying intent. Use when an ask is underspecified (\"build me X\" without \"for whom\" or \"why now\"), when the user explicitly invokes (\"interview me\", \"grill me\", \"are we sure?\", \"stress-test my thinking\"), or when you catch yourself silently filling in ambiguous requirements before any plan, spec, or code exists.",
+  "repo": "addyosmani/agent-skills",
+  "path": "skills/interview-me/SKILL.md",
+  "url": "https://github.com/addyosmani/agent-skills/tree/HEAD/skills/interview-me/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 14553,
+  "truncated": false
+}

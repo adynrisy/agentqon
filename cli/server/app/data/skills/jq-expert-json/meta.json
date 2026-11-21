@@ -1,0 +1,11 @@
+{
+  "name": "jq-expert-json",
+  "display_name": "Jq Expert JSON",
+  "description": "Expert jq usage for JSON querying, filtering, transformation, and pipeline integration. Practical patterns for real shell workflows.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/jq/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/jq/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 7385,
+  "truncated": false
+}

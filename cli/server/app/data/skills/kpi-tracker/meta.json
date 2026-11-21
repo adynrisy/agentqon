@@ -1,0 +1,11 @@
+{
+  "name": "kpi-tracker",
+  "display_name": "KPI Tracker",
+  "description": "KPI register: metric by level, department, job title and employee, linked OKR, unit and direction, target against actual, achievement and weight percentages, period and owner. Use for scorecards.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/kpi-tracker/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/kpi-tracker/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 14100,
+  "truncated": false
+}

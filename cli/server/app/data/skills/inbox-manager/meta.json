@@ -1,0 +1,11 @@
+{
+  "name": "inbox-manager",
+  "display_name": "Inbox Manager",
+  "description": "Turns a full inbox into a short, ranked list of what actually needs the owner. Reads the mail, sorts it into needs-you, drafted-and-waiting, and handled, writes replies in the owner's own voice, pulls out the action items and deadlines buried in long threads, files what is finished, and hands bills, leads, and scheduling requests to the skills that own them. Works from pasted or forwarded email text when no mailbox is connected. Use this whenever the owner mentions email at all — including \"drowning in email,\" \"I have 300 unread,\" \"what emails need me,\" \"go through my inbox,\" \"clean up my email,\" \"did I miss anything,\" \"who am I supposed to get back to,\" \"draft a reply to this,\" or \"catch me up on my mail.\" Reach for it for one forwarded message as readily as for a whole morning's backlog.",
+  "repo": "anthropics/knowledge-work-plugins",
+  "path": "small-business/skills/inbox-manager/SKILL.md",
+  "url": "https://github.com/anthropics/knowledge-work-plugins/tree/HEAD/small-business/skills/inbox-manager/SKILL.md",
+  "license": "Apache-2.0",
+  "body_bytes": 9881,
+  "truncated": false
+}
