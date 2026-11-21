@@ -1,0 +1,11 @@
+{
+  "name": "product-manager",
+  "display_name": "Product Manager",
+  "description": "Product management agent for feature prioritization, customer discovery, PRD development, and roadmap planning using RICE framework. Use when a product decision needs structure and evidence — e.g., RICE-scoring a backlog of 20 feature requests before quarterly planning, or drafting a PRD from raw customer-interview notes.",
+  "repo": "alirezarezvani/claude-skills",
+  "path": ".gemini/skills/cs-product-manager/SKILL.md",
+  "url": "https://github.com/alirezarezvani/claude-skills/tree/HEAD/.gemini/skills/cs-product-manager/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 30754,
+  "truncated": false
+}

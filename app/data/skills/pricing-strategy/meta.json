@@ -1,0 +1,11 @@
+{
+  "name": "pricing-strategy",
+  "display_name": "Pricing Strategy",
+  "description": "Design pricing, packaging, and monetization strategies based on value, customer willingness to pay, and growth objectives.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/pricing-strategy/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/pricing-strategy/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 7211,
+  "truncated": false
+}

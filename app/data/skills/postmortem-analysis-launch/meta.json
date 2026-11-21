@@ -1,0 +1,11 @@
+{
+  "name": "postmortem-analysis-launch",
+  "display_name": "Postmortem Analysis Launch",
+  "description": "/em:postmortem — Honest analysis of what went wrong. Use after a failed launch, missed quarter, or bad hire to run a blameless 5-Whys retrospective with a change register — e.g. dissecting why the Q3 release slipped six weeks.",
+  "repo": "alirezarezvani/claude-skills",
+  "path": ".gemini/skills/postmortem/SKILL.md",
+  "url": "https://github.com/alirezarezvani/claude-skills/tree/HEAD/.gemini/skills/postmortem/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 7731,
+  "truncated": false
+}

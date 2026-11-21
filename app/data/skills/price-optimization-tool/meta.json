@@ -1,0 +1,11 @@
+{
+  "name": "price-optimization-tool",
+  "display_name": "Price Optimization Tool",
+  "description": "Evaluate ecommerce price candidates using unit economics, historical observations, elasticity analysis, scenario modeling, and controlled experiments. Use when a seller asks what price to test, how price changes could affect contribution or revenue, how to estimate elasticity, how to optimize a bundle or tier, or how to design a price experiment across Amazon, Shopify, TikTok Shop, Walmart, eBay, or other channels. Do not claim a proven optimal price without sufficient clean data, and do not change live prices without explicit authorization.",
+  "repo": "nexscope-ai/eCommerce-Skills",
+  "path": "price-optimization-tool/SKILL.md",
+  "url": "https://github.com/nexscope-ai/eCommerce-Skills/tree/HEAD/price-optimization-tool/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 12440,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "pr-review",
+  "display_name": "PR Review",
+  "description": "Review pull requests for the MiniMax Skills repository. Use when reviewing PRs, validating new skill submissions, or checking existing skills for compliance. Run the validation script first for hard checks, then apply quality guidelines for content review. Triggers: PR review, pull request, validate skill, check skill.",
+  "repo": "MiniMax-AI/skills",
+  "path": ".claude/skills/pr-review/SKILL.md",
+  "url": "https://github.com/MiniMax-AI/skills/tree/HEAD/.claude/skills/pr-review/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 2047,
+  "truncated": false
+}

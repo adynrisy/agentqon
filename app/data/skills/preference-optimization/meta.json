@@ -1,0 +1,11 @@
+{
+  "name": "preference-optimization",
+  "display_name": "Preference Optimization",
+  "description": "Align a fine-tuned model with preference data using DPO, ORPO, KTO, or SimPO. Use when preference pairs or thumbs-up/down feedback exist, when choosing between preference-optimization methods, or when a DPO run needs hyperparameters or debugging.",
+  "repo": "wshobson/agents",
+  "path": "plugins/llm-finetuning/skills/preference-optimization/SKILL.md",
+  "url": "https://github.com/wshobson/agents/tree/HEAD/plugins/llm-finetuning/skills/preference-optimization/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 7611,
+  "truncated": false
+}

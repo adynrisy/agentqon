@@ -1,0 +1,11 @@
+{
+  "name": "pptx-reference-deck-analysis",
+  "display_name": "Pptx Reference Deck Analysis",
+  "description": "Use when analyzing a reference PPTX for read-only structure, theme, typography, layout rhythm, diagnostics, derived template catalogs, or safe OOXML package inspection.",
+  "repo": "wshobson/agents",
+  "path": "plugins/pptx-deck-creation/skills/pptx-reference-deck-analysis/SKILL.md",
+  "url": "https://github.com/wshobson/agents/tree/HEAD/plugins/pptx-deck-creation/skills/pptx-reference-deck-analysis/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 2527,
+  "truncated": false
+}

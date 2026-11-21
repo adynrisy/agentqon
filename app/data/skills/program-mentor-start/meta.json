@@ -1,0 +1,11 @@
+{
+  "name": "program-mentor-start",
+  "display_name": "Program Mentor Start",
+  "description": "Internship register: intern and department, supervisor and mentor, institution, start and end dates, stipend, learning goals, mid-term and final scores, conversion flags. Use for intern tracking.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/intern-program/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/intern-program/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 15069,
+  "truncated": false
+}

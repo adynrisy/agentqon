@@ -1,0 +1,11 @@
+{
+  "name": "plan-writing",
+  "display_name": "Plan Writing",
+  "description": "Structured task planning with clear breakdowns, dependencies, and verification criteria. Use when implementing features, refactoring, or any multi-step work.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/plan-writing/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/plan-writing/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 4087,
+  "truncated": false
+}

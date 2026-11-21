@@ -1,0 +1,11 @@
+{
+  "name": "pymc-models-data",
+  "display_name": "Pymc Models Data",
+  "description": "Builds and checks Bayesian models with PyMC, including hierarchical models, NUTS MCMC, variational inference, mutable-data predictions, posterior predictive checks, diagnostics, and PSIS-LOO model comparison. Use for probabilistic modeling and uncertainty inference in PyMC.",
+  "repo": "K-Dense-AI/scientific-agent-skills",
+  "path": "skills/pymc/SKILL.md",
+  "url": "https://github.com/K-Dense-AI/scientific-agent-skills/tree/HEAD/skills/pymc/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 9972,
+  "truncated": false
+}

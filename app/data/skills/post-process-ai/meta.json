@@ -1,0 +1,11 @@
+{
+  "name": "post-process-ai",
+  "display_name": "Post Process AI",
+  "description": "Post-process AI-generated text through the unslop CLI to strip AI writing patterns before publishing",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/unslop/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/unslop/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 3942,
+  "truncated": false
+}

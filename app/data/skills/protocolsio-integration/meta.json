@@ -1,0 +1,11 @@
+{
+  "name": "protocolsio-integration",
+  "display_name": "Protocolsio Integration",
+  "description": "Reads, validates, and safely exports protocols.io data with current official REST/MCP contracts, or creates non-executing mutation plans. The bundled client makes bounded official-host GET requests only with explicit --execute. Use only for tasks explicitly targeting protocols.io or an exact protocols.io protocol version.",
+  "repo": "K-Dense-AI/scientific-agent-skills",
+  "path": "skills/protocolsio-integration/SKILL.md",
+  "url": "https://github.com/K-Dense-AI/scientific-agent-skills/tree/HEAD/skills/protocolsio-integration/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 12430,
+  "truncated": false
+}

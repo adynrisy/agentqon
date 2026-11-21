@@ -1,0 +1,11 @@
+{
+  "name": "public-relations",
+  "display_name": "Public Relations",
+  "description": "When the user wants help with public relations, earned media, press coverage, journalist outreach, or media strategy (not pull requests).",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/public-relations/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/public-relations/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 6793,
+  "truncated": false
+}

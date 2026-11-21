@@ -1,0 +1,11 @@
+{
+  "name": "ppt-editing",
+  "display_name": "Ppt Editing",
+  "description": "Edit existing PowerPoint files or templates with XML-safe workflows. Use for template-based deck updates: analyze layouts, map content to slides, duplicate/reorder/delete slides safely, edit slide XML in parallel, clean orphaned assets, and repack validated PPTX output.",
+  "repo": "MiniMax-AI/skills",
+  "path": "plugins/pptx-plugin/skills/ppt-editing-skill/SKILL.md",
+  "url": "https://github.com/MiniMax-AI/skills/tree/HEAD/plugins/pptx-plugin/skills/ppt-editing-skill/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 6534,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "premium-3d-website",
+  "display_name": "Premium 3D Website",
+  "description": "Guidelines for building premium 3D websites, focusing on custom WebGL shaders, post-processing, physics-based interactions, smooth animations, preloaders, and device optimization.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/premium-3d-website/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/premium-3d-website/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 5570,
+  "truncated": false
+}

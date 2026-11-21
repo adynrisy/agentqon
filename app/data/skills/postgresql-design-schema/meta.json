@@ -1,0 +1,11 @@
+{
+  "name": "postgresql-design-schema",
+  "display_name": "Postgresql Design Schema",
+  "description": "Design a PostgreSQL-specific schema. Covers best-practices, data types, indexing, constraints, performance patterns, and advanced features",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/postgresql/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/postgresql/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 16736,
+  "truncated": false
+}

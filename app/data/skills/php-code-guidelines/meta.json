@@ -1,0 +1,11 @@
+{
+  "name": "php-code-guidelines",
+  "display_name": "Php Code Guidelines",
+  "description": "Language-specific super-code guidelines for php.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/super-code/php/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/super-code/php/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 6836,
+  "truncated": false
+}

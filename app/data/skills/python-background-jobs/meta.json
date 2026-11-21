@@ -1,0 +1,11 @@
+{
+  "name": "python-background-jobs",
+  "display_name": "Python Background Jobs",
+  "description": "Python background job patterns including task queues, workers, and event-driven architecture. Use when implementing async task processing, job queues, long-running operations, or decoupling work from request/response cycles.",
+  "repo": "wshobson/agents",
+  "path": "plugins/python-development/skills/python-background-jobs/SKILL.md",
+  "url": "https://github.com/wshobson/agents/tree/HEAD/plugins/python-development/skills/python-background-jobs/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 7036,
+  "truncated": false
+}

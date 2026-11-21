@@ -1,0 +1,11 @@
+{
+  "name": "project-audit",
+  "display_name": "Project Audit",
+  "description": "Audit a project and recommend the highest-value skills to add or update.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills/skills/project-skill-audit/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills/skills/project-skill-audit/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 8330,
+  "truncated": false
+}

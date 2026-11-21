@@ -1,0 +1,11 @@
+{
+  "name": "process-doc",
+  "display_name": "Process Doc",
+  "description": "Document a business process — flowcharts, RACI, and SOPs. Use when formalizing a process that lives in someone's head, building a RACI to clarify who owns what, writing an SOP for a handoff or audit, or capturing the exceptions and edge cases of how work actually gets done.",
+  "repo": "anthropics/knowledge-work-plugins",
+  "path": "operations/skills/process-doc/SKILL.md",
+  "url": "https://github.com/anthropics/knowledge-work-plugins/tree/HEAD/operations/skills/process-doc/SKILL.md",
+  "license": "Apache-2.0",
+  "body_bytes": 2139,
+  "truncated": false
+}

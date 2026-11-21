@@ -1,0 +1,11 @@
+{
+  "name": "prompt-engineering-patterns",
+  "display_name": "Prompt Engineering Patterns",
+  "description": "This skill should be used when the user asks to \"optimize a prompt\", \"improve prompt performance\", \"design a prompt template\", \"write better prompts\", \"debug prompt issues\", \"use chain-of-thought\", \"structured prompting\", \"few-shot prompting\", or wants to apply advanced prompt engineering patterns for production LLM applications.",
+  "repo": "wshobson/agents",
+  "path": "plugins/llm-application-dev/skills/prompt-engineering-patterns/SKILL.md",
+  "url": "https://github.com/wshobson/agents/tree/HEAD/plugins/llm-application-dev/skills/prompt-engineering-patterns/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 4817,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "planetscale-workflows-production",
+  "display_name": "Planetscale Workflows Production",
+  "description": "Operate MySQL-compatible databases on PlanetScale with branching workflows, safe migrations, and production rollouts.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/planetscale/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/planetscale/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 8142,
+  "truncated": false
+}

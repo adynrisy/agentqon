@@ -1,0 +1,11 @@
+{
+  "name": "pro-master-development",
+  "display_name": "Pro Master Development",
+  "description": "Master enterprise-grade Scala development with functional programming, distributed systems, and big data processing. Expert in Apache Pekko, Akka, Spark, ZIO/Cats Effect, and reactive architectures.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/scala-pro/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/scala-pro/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 5620,
+  "truncated": false
+}

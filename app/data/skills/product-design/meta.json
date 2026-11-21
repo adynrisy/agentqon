@@ -1,0 +1,11 @@
+{
+  "name": "product-design",
+  "display_name": "Product Design",
+  "description": "Design de produto nivel Apple — sistemas visuais, UX flows, acessibilidade, linguagem visual proprietaria, design tokens, prototipagem e handoff. Cobre Figma, design systems, tipografia, cor, espacamento, motion design e principios de design cognitivo.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/product-design/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/product-design/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 10583,
+  "truncated": false
+}

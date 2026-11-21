@@ -1,0 +1,11 @@
+{
+  "name": "publish-companion",
+  "display_name": "Publish Companion",
+  "description": "Deploy the dispatcher PCF for a third-party `.ppmplugin` control to a Power Platform environment via `pac pcf push`. The dispatcher PCF is the Studio-side control that dispatches the composite key `<name>/<receiver>` over the wrap shell's `SendMessagePlugin` bridge to the control's native module. Verifies deploy prereqs (Node.js 20+ with npm, .NET SDK, and active `pac auth`), then three confirmation gates — publisher prefix (2–8 chars; defaults to `pamext` or the last-used value from `.extension-state.md`), version bump (patch / minor / major / no-bump), target environment URL (from `pac org who`). Builds the PCF if needed, then pushes. Decoupled from /generate-pcf-companion so the engineer can scaffold and customize locally, then deploy when ready. Updates `.extension-state.md` with deployment history (timestamp, env URL, version, prefix used).",
+  "repo": "microsoft/power-platform-skills",
+  "path": "plugins/power-apps-mobile-extension/skills/publish-pcf-companion/SKILL.md",
+  "url": "https://github.com/microsoft/power-platform-skills/tree/HEAD/plugins/power-apps-mobile-extension/skills/publish-pcf-companion/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 22230,
+  "truncated": false
+}

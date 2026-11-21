@@ -1,0 +1,11 @@
+{
+  "name": "pre-ship-gate",
+  "display_name": "Pre Ship Gate",
+  "description": "A ship gate that runs before any production deploy: checks the silent failure modes that make a deploy 'succeed' while prod stays broken, then verifies the live revision instead of trusting deploy output.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/pre-ship-gate/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/pre-ship-gate/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 6627,
+  "truncated": false
+}

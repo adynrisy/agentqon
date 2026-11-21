@@ -1,0 +1,11 @@
+{
+  "name": "porters-five-forces-read",
+  "display_name": "Porters Five Forces · Read",
+  "description": "Read an industry's structure through Porter's Five Forces with documented signals per rating, ending at the profit pool. Use when weighing market entry or when margins erode and nobody can say why.",
+  "repo": "deanpeters/Product-Manager-Skills",
+  "path": "skills/porters-five-forces/SKILL.md",
+  "url": "https://github.com/deanpeters/Product-Manager-Skills/tree/HEAD/skills/porters-five-forces/SKILL.md",
+  "license": "CC",
+  "body_bytes": 9599,
+  "truncated": false
+}

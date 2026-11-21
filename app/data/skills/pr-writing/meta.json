@@ -1,0 +1,11 @@
+{
+  "name": "pr-writing",
+  "display_name": "PR Writing",
+  "description": "Use when writing a PR body.",
+  "repo": "mattpocock/skills",
+  "path": "skills/engineering/pr/SKILL.md",
+  "url": "https://github.com/mattpocock/skills/tree/HEAD/skills/engineering/pr/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 3918,
+  "truncated": false
+}

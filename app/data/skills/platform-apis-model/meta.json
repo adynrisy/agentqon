@@ -1,0 +1,11 @@
+{
+  "name": "platform-apis-model",
+  "display_name": "Platform APIs Model",
+  "description": "Platform APIs for model management, pricing, and usage tracking",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/fal-platform/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/fal-platform/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 1495,
+  "truncated": false
+}

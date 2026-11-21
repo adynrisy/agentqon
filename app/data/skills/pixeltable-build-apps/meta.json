@@ -1,0 +1,11 @@
+{
+  "name": "pixeltable-build-apps",
+  "display_name": "Pixeltable Build Apps",
+  "description": "Build Pixeltable apps in app.py with tables, computed columns, embedding search, and HTTP routes. Use for RAG, media pipelines, and tool-calling agents.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/pixeltable/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/pixeltable/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 18141,
+  "truncated": false
+}

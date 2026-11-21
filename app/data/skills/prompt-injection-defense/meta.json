@@ -1,0 +1,11 @@
+{
+  "name": "prompt-injection-defense",
+  "display_name": "Prompt Injection Defense",
+  "description": "Defend AI systems against prompt injection and indirect prompt attacks using input controls, tool permissions, output validation, and isolation boundaries.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/prompt-injection-defense/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/prompt-injection-defense/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 16105,
+  "truncated": false
+}

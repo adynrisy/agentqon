@@ -1,0 +1,11 @@
+{
+  "name": "pi-coding-task",
+  "display_name": "Pi Coding Task",
+  "description": "Delegate a coding task to the Pi coding agent CLI (`pi`) as a background implementer, then review its diff and land it yourself. Use this whenever the user wants to delegate implementation work to Pi - phrasings like \"have Pi implement X\", \"delegate this to pi\", \"run it through Pi\", or \"use pi to implement/fix/refactor\" - or wants to run a queue of coding tasks through Pi while staying the reviewer. DO NOT USE for tasks small enough to do inline, or when the user wants the code written directly without delegating.",
+  "repo": "amElnagdy/delegate-skills",
+  "path": "skills/pi-delegate/SKILL.md",
+  "url": "https://github.com/amElnagdy/delegate-skills/tree/HEAD/skills/pi-delegate/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 6926,
+  "truncated": false
+}

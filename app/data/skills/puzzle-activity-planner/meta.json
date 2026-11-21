@@ -1,0 +1,11 @@
+{
+  "name": "puzzle-activity-planner",
+  "display_name": "Puzzle Activity Planner",
+  "description": "Plan puzzle-based activities for classrooms, parties, and events with pre-configured generator links",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/puzzle-activity-planner/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/puzzle-activity-planner/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 2736,
+  "truncated": false
+}

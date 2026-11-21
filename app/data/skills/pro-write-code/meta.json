@@ -1,0 +1,11 @@
+{
+  "name": "pro-write-code",
+  "display_name": "Pro Write Code",
+  "description": "Write idiomatic Elixir code with OTP patterns, supervision trees, and Phoenix LiveView. Masters concurrency, fault tolerance, and distributed systems.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/elixir-pro/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/elixir-pro/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 2474,
+  "truncated": false
+}

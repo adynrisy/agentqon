@@ -1,0 +1,11 @@
+{
+  "name": "pro-review-implement",
+  "display_name": "Pro Review Implement",
+  "description": "Review and implement C systems code with explicit memory ownership, pointer bounds, error handling, and measured performance.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/c-pro/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/c-pro/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 2360,
+  "truncated": false
+}

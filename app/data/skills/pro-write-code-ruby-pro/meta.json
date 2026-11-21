@@ -1,0 +1,11 @@
+{
+  "name": "pro-write-code-ruby-pro",
+  "display_name": "Pro Write Code · Ruby Pro",
+  "description": "Write idiomatic Ruby code with metaprogramming, Rails patterns, and performance optimization. Specializes in Ruby on Rails, gem development, and testing frameworks.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/ruby-pro/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/ruby-pro/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 1888,
+  "truncated": false
+}

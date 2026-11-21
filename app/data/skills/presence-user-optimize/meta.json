@@ -1,0 +1,11 @@
+{
+  "name": "presence-user-optimize",
+  "display_name": "Presence User Optimize",
+  "description": "When the user wants to optimize their GitHub profile, README, or project discoverability. Trigger phrases include \"GitHub README,\" \"README optimization,\" \"GitHub profile,\" \"GitHub stars,\" \"GitHub discoverability,\" \"awesome lists,\" or \"GitHub marketing.\"",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/github-presence/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/github-presence/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 13195,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "project-manager",
+  "display_name": "Project Manager",
+  "description": "Project Manager agent for sprint planning, Jira/Confluence workflows, Scrum ceremonies, and stakeholder reporting. Orchestrates project-management skills. Use when running delivery operations — e.g., planning a sprint with capacity and carry-over math in Jira, or assembling a portfolio health report for stakeholders from ticket and velocity data.",
+  "repo": "alirezarezvani/claude-skills",
+  "path": ".gemini/skills/cs-project-manager/SKILL.md",
+  "url": "https://github.com/alirezarezvani/claude-skills/tree/HEAD/.gemini/skills/cs-project-manager/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 25183,
+  "truncated": false
+}

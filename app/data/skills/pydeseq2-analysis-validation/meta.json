@@ -1,0 +1,11 @@
+{
+  "name": "pydeseq2-analysis-validation",
+  "display_name": "Pydeseq2 Analysis Validation",
+  "description": "Performs bulk RNA-seq differential expression analysis with PyDESeq2, including count validation, formula designs, explicit contrasts, Wald tests, FDR correction, coefficient-matched LFC shrinkage, and result visualization. Use for PyDESeq2 or Python DESeq2 workflows with biological replicates.",
+  "repo": "K-Dense-AI/scientific-agent-skills",
+  "path": "skills/pydeseq2/SKILL.md",
+  "url": "https://github.com/K-Dense-AI/scientific-agent-skills/tree/HEAD/skills/pydeseq2/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 9739,
+  "truncated": false
+}

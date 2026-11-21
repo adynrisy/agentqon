@@ -1,0 +1,11 @@
+{
+  "name": "pyhealth-clinical-learning",
+  "display_name": "Pyhealth Clinical Learning",
+  "description": "Builds and validates PyHealth clinical machine-learning pipelines for EHR, signals, imaging, and medical codes. Use for PyHealth dataset loading, MIMIC-III/IV, eICU or OMOP prediction tasks, patient-level evaluation, mortality/readmission/length-of-stay modeling, medication recommendation, sleep staging, Trainer checkpoints, and ICD/ATC/NDC/RxNorm mapping.",
+  "repo": "K-Dense-AI/scientific-agent-skills",
+  "path": "skills/pyhealth/SKILL.md",
+  "url": "https://github.com/K-Dense-AI/scientific-agent-skills/tree/HEAD/skills/pyhealth/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 7509,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "prompt-guard",
+  "display_name": "Prompt Guard",
+  "description": "Meta's 86M prompt injection and jailbreak detector. Filters malicious prompts and third-party data for LLM apps. 99%+ TPR, <1% FPR. Fast (<2ms GPU). Multilingual (8 languages). Deploy with HuggingFace or batch processing for RAG security.",
+  "repo": "Orchestra-Research/AI-Research-SKILLs",
+  "path": "07-safety-alignment/prompt-guard/SKILL.md",
+  "url": "https://github.com/Orchestra-Research/AI-Research-SKILLs/tree/HEAD/07-safety-alignment/prompt-guard/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 8953,
+  "truncated": false
+}

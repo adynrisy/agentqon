@@ -1,0 +1,11 @@
+{
+  "name": "process-git-bb",
+  "display_name": "Process Git BB",
+  "description": "Coordinate project or repository renames and moves involving Git, BB, services, or multiple machines. Preserve work and history while updating operational paths. Excludes ordinary file, code-symbol, and thread-title renames.",
+  "repo": "davidondrej/skills",
+  "path": "skills/ops-and-setup/rename-process/SKILL.md",
+  "url": "https://github.com/davidondrej/skills/tree/HEAD/skills/ops-and-setup/rename-process/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 3314,
+  "truncated": false
+}

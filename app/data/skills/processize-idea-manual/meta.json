@@ -1,0 +1,11 @@
+{
+  "name": "processize-idea-manual",
+  "display_name": "Processize Idea Manual",
+  "description": "Turn a product idea into a manual-first process you can start delivering today. Use when you have an idea and want to figure out how to deliver value by hand before writing any code.",
+  "repo": "slavingia/skills",
+  "path": "skills/processize/SKILL.md",
+  "url": "https://github.com/slavingia/skills/tree/HEAD/skills/processize/SKILL.md",
+  "license": "unknown",
+  "body_bytes": 4137,
+  "truncated": false
+}

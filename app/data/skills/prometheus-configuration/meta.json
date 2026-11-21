@@ -1,0 +1,11 @@
+{
+  "name": "prometheus-configuration",
+  "display_name": "Prometheus Configuration",
+  "description": "Set up Prometheus for comprehensive metric collection, storage, and monitoring of infrastructure and applications. Use when implementing metrics collection, setting up monitoring infrastructure, or configuring alerting systems.",
+  "repo": "wshobson/agents",
+  "path": "plugins/observability-monitoring/skills/prometheus-configuration/SKILL.md",
+  "url": "https://github.com/wshobson/agents/tree/HEAD/plugins/observability-monitoring/skills/prometheus-configuration/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 1514,
+  "truncated": false
+}

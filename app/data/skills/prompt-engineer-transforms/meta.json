@@ -1,0 +1,11 @@
+{
+  "name": "prompt-engineer-transforms",
+  "display_name": "Prompt Engineer · Transforms",
+  "description": "Transforms user prompts into optimized prompts using frameworks (RTF, RISEN, Chain of Thought, RODES, Chain of Density, RACE, RISE, STAR, SOAP, CLEAR, GROW)",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/prompt-engineer/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/prompt-engineer/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 11859,
+  "truncated": false
+}

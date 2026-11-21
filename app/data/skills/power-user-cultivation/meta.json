@@ -1,0 +1,11 @@
+{
+  "name": "power-user-cultivation",
+  "display_name": "Power User Cultivation",
+  "description": "When the user wants to identify and nurture developer advocates, build champion programs, or turn active users into contributors and evangelists.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/power-user-cultivation/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/power-user-cultivation/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 1278,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "prd-generation-problem",
+  "display_name": "Prd Generation Problem",
+  "description": "Gated PRD generation — interrogates problem, user, and metric before drafting; refuses to draft on unknowns. Usage: /prd <feature-or-problem>",
+  "repo": "alirezarezvani/claude-skills",
+  "path": ".gemini/skills/prd/SKILL.md",
+  "url": "https://github.com/alirezarezvani/claude-skills/tree/HEAD/.gemini/skills/prd/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 2724,
+  "truncated": false
+}

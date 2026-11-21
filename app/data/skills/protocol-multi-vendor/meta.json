@@ -1,0 +1,11 @@
+{
+  "name": "protocol-multi-vendor",
+  "display_name": "Protocol Multi Vendor",
+  "description": "Coordinate multi-vendor AI agents as a self-improving team — a learning router assigns work by track record and citizens can amend the protocol's own rules.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "skills/polis-protocol/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/skills/polis-protocol/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 5061,
+  "truncated": false
+}

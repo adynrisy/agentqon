@@ -1,0 +1,11 @@
+{
+  "name": "phylogenetics-sequence-tree",
+  "display_name": "Phylogenetics Sequence TREE",
+  "description": "Builds and analyzes phylogenetic trees using MAFFT multiple sequence alignment, IQ-TREE maximum likelihood with ModelFinder and branch support, and FastTree approximate inference. Uses ETE3 for tree summaries and visualization. Applies to homologous nucleotide or protein sequences, microbial gene trees, protein families, and cautiously interpreted dated phylogenies.",
+  "repo": "K-Dense-AI/scientific-agent-skills",
+  "path": "skills/phylogenetics/SKILL.md",
+  "url": "https://github.com/K-Dense-AI/scientific-agent-skills/tree/HEAD/skills/phylogenetics/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 8626,
+  "truncated": false
+}

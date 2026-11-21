@@ -1,0 +1,11 @@
+{
+  "name": "policy-acknowledgement",
+  "display_name": "Policy Acknowledgement",
+  "description": "Policy acknowledgement register: employee, policy and version, sent and due dates, acknowledged date and flag, days overdue, reminder sent and status. Use for policy sign-off tracking.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/policy-acknowledgement/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/policy-acknowledgement/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 13089,
+  "truncated": false
+}

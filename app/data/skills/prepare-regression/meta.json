@@ -1,0 +1,11 @@
+{
+  "name": "prepare-regression",
+  "display_name": "Prepare Regression",
+  "description": "Use when pinning before/after sources and collecting PR or commit context for a regression investigation.",
+  "repo": "trailofbits/skills",
+  "path": "plugins/regression-hunt/skills/prepare-regression/SKILL.md",
+  "url": "https://github.com/trailofbits/skills/tree/HEAD/plugins/regression-hunt/skills/prepare-regression/SKILL.md",
+  "license": "CC",
+  "body_bytes": 1906,
+  "truncated": false
+}

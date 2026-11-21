@@ -1,0 +1,11 @@
+{
+  "name": "policy-as-code",
+  "display_name": "Policy As Code",
+  "description": "Implement policy as code with OPA, Sentinel, and Kyverno. Automate policy enforcement in CI/CD and infrastructure. Use when enforcing compliance through automation.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/policy-as-code/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/policy-as-code/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 11806,
+  "truncated": false
+}

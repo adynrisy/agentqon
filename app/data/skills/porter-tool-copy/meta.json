@@ -1,0 +1,11 @@
+{
+  "name": "porter-tool-copy",
+  "display_name": "Porter Tool Copy",
+  "description": "Preview conservative tool-name translations and copy complete local skill bundles for manual adaptation to Google Antigravity.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/skill-porter/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/skill-porter/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 3758,
+  "truncated": false
+}

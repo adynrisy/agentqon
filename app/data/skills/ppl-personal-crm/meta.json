@@ -1,0 +1,11 @@
+{
+  "name": "ppl-personal-crm",
+  "display_name": "Ppl Personal CRM",
+  "description": "Uses the ppl personal CRM over MCP to prepare for conversations, recall facts about people, log interactions and manage relationship follow-ups.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/ppl-personal-crm/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/ppl-personal-crm/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 4545,
+  "truncated": false
+}

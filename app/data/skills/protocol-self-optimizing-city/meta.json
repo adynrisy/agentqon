@@ -1,0 +1,11 @@
+{
+  "name": "protocol-self-optimizing-city",
+  "display_name": "Protocol Self Optimizing City",
+  "description": "Polis Protocol: A Self-Optimizing City of Agents",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/polis-protocol-a-self-optimizing-city-of-agents/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/polis-protocol-a-self-optimizing-city-of-agents/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 15325,
+  "truncated": false
+}

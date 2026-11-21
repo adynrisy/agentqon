@@ -1,0 +1,11 @@
+{
+  "name": "presentation-deck",
+  "display_name": "Presentation Deck",
+  "description": "Build an evidence-linked slide register after context-first intake. Use when an SME needs a presentation deck, speaker notes, or a structured business story.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/presentation-deck/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/presentation-deck/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 25144,
+  "truncated": false
+}

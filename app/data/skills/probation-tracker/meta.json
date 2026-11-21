@@ -1,0 +1,11 @@
+{
+  "name": "probation-tracker",
+  "display_name": "Probation Tracker",
+  "description": "Probation register: employee, start and end dates, 30, 60 and 90-day review scores, overall score and confirmation letter. Use for probation tracking.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/probation-tracker/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/probation-tracker/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 14927,
+  "truncated": false
+}

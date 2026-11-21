@@ -1,0 +1,11 @@
+{
+  "name": "pitch-structure-proof",
+  "display_name": "Pitch Structure Proof",
+  "description": "Structure pitches, decks, and talk tracks around audience beliefs, proof, and a clear decision when presentations need stronger progression.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/pitch-psychologist/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/pitch-psychologist/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 6799,
+  "truncated": false
+}

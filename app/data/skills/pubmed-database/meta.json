@@ -1,0 +1,11 @@
+{
+  "name": "pubmed-database",
+  "display_name": "Pubmed Database",
+  "description": "Direct REST API access to PubMed. Advanced Boolean/MeSH queries, E-utilities API, batch processing, citation management. For Python workflows, prefer biopython (Bio.Entrez). Use this for direct HTTP/REST work or custom API implementations.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/pubmed-database/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/pubmed-database/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 16218,
+  "truncated": false
+}

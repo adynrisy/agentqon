@@ -1,0 +1,11 @@
+{
+  "name": "postmark-automation",
+  "display_name": "Postmark Automation",
+  "description": "Automate Postmark email delivery tasks via Rube MCP (Composio): send templated emails, manage templates, monitor delivery stats and bounces. Always search tools first for current schemas.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/postmark-automation/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/postmark-automation/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 8049,
+  "truncated": false
+}

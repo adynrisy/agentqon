@@ -1,0 +1,11 @@
+{
+  "name": "podman-manage-container",
+  "display_name": "Podman Manage Container",
+  "description": "Manage containers using Podman, the daemonless container engine.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/podman/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/podman/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 8029,
+  "truncated": false
+}

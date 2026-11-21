@@ -1,0 +1,11 @@
+{
+  "name": "prompt-engineering-patterns-master",
+  "display_name": "Prompt Engineering Patterns · Master",
+  "description": "Master advanced prompt engineering techniques to maximize LLM performance, reliability, and controllability.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/prompt-engineering-patterns/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/prompt-engineering-patterns/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 7336,
+  "truncated": false
+}

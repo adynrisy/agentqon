@@ -1,0 +1,11 @@
+{
+  "name": "pylabrobot-reviews-lab",
+  "display_name": "Pylabrobot Reviews Lab",
+  "description": "Develops and reviews PyLabRobot lab-automation resources, liquid-handling plans, offline simulations, and supported-device integrations. Supports PyLabRobot protocols and API questions; keep physical execution behind an explicit operator safety gate.",
+  "repo": "K-Dense-AI/scientific-agent-skills",
+  "path": "skills/pylabrobot/SKILL.md",
+  "url": "https://github.com/K-Dense-AI/scientific-agent-skills/tree/HEAD/skills/pylabrobot/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 11172,
+  "truncated": false
+}

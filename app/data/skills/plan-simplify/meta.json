@@ -1,0 +1,11 @@
+{
+  "name": "plan-simplify",
+  "display_name": "Plan Simplify",
+  "description": "Simplifies a written plan, design or spec against the system it changes: over-engineering, redundant guards and contradictions, as ranked cuts in a separate document. Use when asked what a plan can drop.",
+  "repo": "khasky/awesome-agent-skills",
+  "path": "skills/awesome-plan-simplify/SKILL.md",
+  "url": "https://github.com/khasky/awesome-agent-skills/tree/HEAD/skills/awesome-plan-simplify/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 10665,
+  "truncated": false
+}

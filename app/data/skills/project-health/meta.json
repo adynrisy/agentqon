@@ -1,0 +1,11 @@
+{
+  "name": "project-health",
+  "display_name": "Project Health",
+  "description": "Portfolio health dashboard and risk matrix analysis. Usage: /project-health <dashboard|risk> [options]",
+  "repo": "alirezarezvani/claude-skills",
+  "path": ".gemini/skills/project-health/SKILL.md",
+  "url": "https://github.com/alirezarezvani/claude-skills/tree/HEAD/.gemini/skills/project-health/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 1295,
+  "truncated": false
+}

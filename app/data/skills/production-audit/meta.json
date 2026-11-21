@@ -1,0 +1,11 @@
+{
+  "name": "production-audit",
+  "display_name": "Production Audit",
+  "description": "Audit a shipped repo for production-readiness gaps across RLS, webhooks, secrets, grants, Stripe idempotency, mobile UX, and deployment health.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/production-audit/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/production-audit/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 10340,
+  "truncated": false
+}

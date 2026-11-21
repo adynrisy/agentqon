@@ -1,0 +1,11 @@
+{
+  "name": "pricing-product-service",
+  "display_name": "Pricing Product Service",
+  "description": "Help figure out pricing for a product or service using minimalist entrepreneur principles. Use when someone is setting prices, considering price changes, or struggling with what to charge.",
+  "repo": "slavingia/skills",
+  "path": "skills/pricing/SKILL.md",
+  "url": "https://github.com/slavingia/skills/tree/HEAD/skills/pricing/SKILL.md",
+  "license": "unknown",
+  "body_bytes": 3020,
+  "truncated": false
+}

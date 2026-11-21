@@ -1,0 +1,11 @@
+{
+  "name": "probe-test-before",
+  "display_name": "Probe Test Before",
+  "description": "Define a Proof of Life probe to test a risky hypothesis cheaply. Use when you need harsh truth before building real product.",
+  "repo": "deanpeters/Product-Manager-Skills",
+  "path": "skills/pol-probe/SKILL.md",
+  "url": "https://github.com/deanpeters/Product-Manager-Skills/tree/HEAD/skills/pol-probe/SKILL.md",
+  "license": "CC",
+  "body_bytes": 9773,
+  "truncated": false
+}

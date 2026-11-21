@@ -1,0 +1,11 @@
+{
+  "name": "playwright-this-be",
+  "display_name": "Playwright This Be",
+  "description": "IMPORTANT - Path Resolution: This skill can be installed in different locations (plugin system, manual installation, global, or project-specific). Before executing any commands, determine the skill directory based on where you loaded this SKILL.md file, and use that path in all commands below.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/playwright-skill/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/playwright-skill/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 13896,
+  "truncated": false
+}

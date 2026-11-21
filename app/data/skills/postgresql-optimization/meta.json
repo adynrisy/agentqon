@@ -1,0 +1,11 @@
+{
+  "name": "postgresql-optimization",
+  "display_name": "Postgresql Optimization",
+  "description": "PostgreSQL database optimization workflow for query tuning, indexing strategies, performance analysis, and production database management.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/postgresql-optimization/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/postgresql-optimization/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 3841,
+  "truncated": false
+}

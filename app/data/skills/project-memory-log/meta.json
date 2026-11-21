@@ -1,0 +1,11 @@
+{
+  "name": "project-memory-log",
+  "display_name": "Project Memory Log",
+  "description": "Maintain one operation log and one deduplicated document catalog for long-running projects. Use when resuming project work or tracing durable document changes across sessions.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/project-memory-log/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/project-memory-log/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 7310,
+  "truncated": false
+}

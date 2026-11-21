@@ -1,0 +1,11 @@
+{
+  "name": "prove-patch",
+  "display_name": "Prove Patch",
+  "description": "Use when a local security patch commit needs independent scoped and three-arm proof.",
+  "repo": "trailofbits/skills",
+  "path": "plugins/patching-bugs/skills/prove-patch/SKILL.md",
+  "url": "https://github.com/trailofbits/skills/tree/HEAD/plugins/patching-bugs/skills/prove-patch/SKILL.md",
+  "license": "CC",
+  "body_bytes": 4351,
+  "truncated": false
+}

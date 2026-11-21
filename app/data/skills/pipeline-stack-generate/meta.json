@@ -1,0 +1,11 @@
+{
+  "name": "pipeline-stack-generate",
+  "display_name": "Pipeline Stack Generate",
+  "description": "Detect stack and generate CI/CD pipeline configs. Usage: /pipeline <detect|generate> [options]",
+  "repo": "alirezarezvani/claude-skills",
+  "path": ".gemini/skills/pipeline/SKILL.md",
+  "url": "https://github.com/alirezarezvani/claude-skills/tree/HEAD/.gemini/skills/pipeline/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 881,
+  "truncated": false
+}

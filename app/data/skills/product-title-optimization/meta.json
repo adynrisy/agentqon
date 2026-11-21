@@ -1,0 +1,11 @@
+{
+  "name": "product-title-optimization",
+  "display_name": "Product Title Optimization",
+  "description": "Optimize product titles for search visibility and click-through rate across e-commerce platforms. Platform-specific title rules for Amazon (200 chars), Etsy (140 chars), Walmart, Shopify SEO, and eBay.",
+  "repo": "nexscope-ai/eCommerce-Skills",
+  "path": "product-title-optimization/SKILL.md",
+  "url": "https://github.com/nexscope-ai/eCommerce-Skills/tree/HEAD/product-title-optimization/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 2103,
+  "truncated": false
+}

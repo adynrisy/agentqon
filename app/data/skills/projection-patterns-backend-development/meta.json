@@ -1,0 +1,11 @@
+{
+  "name": "projection-patterns-backend-development",
+  "display_name": "Projection Patterns · Backend Development",
+  "description": "Build read models and projections from event streams. Use when implementing CQRS read sides, building materialized views, or optimizing query performance in event-sourced systems.",
+  "repo": "wshobson/agents",
+  "path": "plugins/backend-development/skills/projection-patterns/SKILL.md",
+  "url": "https://github.com/wshobson/agents/tree/HEAD/plugins/backend-development/skills/projection-patterns/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 2438,
+  "truncated": false
+}

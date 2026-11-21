@@ -1,0 +1,11 @@
+{
+  "name": "production-runtime-certification",
+  "display_name": "Production Runtime Certification",
+  "description": "Certify a deployed service with fresh evidence across source, CI, migrations, runtime health, readiness, and critical routes; use before declaring a release production-ready.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/production-runtime-certification/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/production-runtime-certification/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 8870,
+  "truncated": false
+}

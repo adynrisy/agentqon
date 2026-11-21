@@ -1,0 +1,11 @@
+{
+  "name": "prompt-caching",
+  "display_name": "Prompt Caching",
+  "description": "Caching strategies for LLM prompts including Anthropic prompt caching, response caching, and CAG (Cache Augmented Generation)",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/prompt-caching/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/prompt-caching/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 13445,
+  "truncated": false
+}

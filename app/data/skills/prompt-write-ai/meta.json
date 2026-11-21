@@ -1,0 +1,11 @@
+{
+  "name": "prompt-write-ai",
+  "display_name": "Prompt Write AI",
+  "description": "Write a prompt teammates can give their AI agents to apply a fix, upgrade, or setup change. Use only when the user explicitly invokes /prompt-for-others.",
+  "repo": "davidondrej/skills",
+  "path": "skills/ops-and-setup/prompt-for-others/SKILL.md",
+  "url": "https://github.com/davidondrej/skills/tree/HEAD/skills/ops-and-setup/prompt-for-others/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 2234,
+  "truncated": false
+}

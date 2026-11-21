@@ -1,0 +1,11 @@
+{
+  "name": "pydicom-local-data",
+  "display_name": "Pydicom Local Data",
+  "description": "Reads, inspects, writes, transforms, and preflights local DICOM datasets and pixel data. Applies to DICOM metadata, transfer syntaxes, compression plugins, frames, private elements, JSON, and bounded de-identification review.",
+  "repo": "K-Dense-AI/scientific-agent-skills",
+  "path": "skills/pydicom/SKILL.md",
+  "url": "https://github.com/K-Dense-AI/scientific-agent-skills/tree/HEAD/skills/pydicom/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 18476,
+  "truncated": false
+}

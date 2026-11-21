@@ -1,0 +1,11 @@
+{
+  "name": "push-commit-changes",
+  "display_name": "Push Commit Changes",
+  "description": "Commit and push skill changes to the configured skills repository after review and validation.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/push-skill-to-github/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/push-skill-to-github/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 2399,
+  "truncated": false
+}

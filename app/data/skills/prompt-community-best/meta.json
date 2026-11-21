@@ -1,0 +1,11 @@
+{
+  "name": "prompt-community-best",
+  "display_name": "Prompt Community Best",
+  "description": "A comprehensive collection of battle-tested prompts inspired by [awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) and community best practices.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/prompt-library/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/prompt-library/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 7625,
+  "truncated": false
+}

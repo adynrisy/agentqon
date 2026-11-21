@@ -1,0 +1,11 @@
+{
+  "name": "problem-statement",
+  "display_name": "Problem Statement",
+  "description": "Write a user-centered problem statement with who is blocked, what they are trying to do, why it matters, and how it feels. Use when framing discovery, prioritization, or a PRD.",
+  "repo": "deanpeters/Product-Manager-Skills",
+  "path": "skills/problem-statement/SKILL.md",
+  "url": "https://github.com/deanpeters/Product-Manager-Skills/tree/HEAD/skills/problem-statement/SKILL.md",
+  "license": "CC",
+  "body_bytes": 9872,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "prioritization-advisor",
+  "display_name": "Prioritization Advisor",
+  "description": "Choose a prioritization framework based on stage, team context, and stakeholder needs. Use when deciding between RICE, ICE, value/effort, or another scoring approach.",
+  "repo": "deanpeters/Product-Manager-Skills",
+  "path": "skills/prioritization-advisor/SKILL.md",
+  "url": "https://github.com/deanpeters/Product-Manager-Skills/tree/HEAD/skills/prioritization-advisor/SKILL.md",
+  "license": "CC",
+  "body_bytes": 15852,
+  "truncated": false
+}

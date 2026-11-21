@@ -1,0 +1,11 @@
+{
+  "name": "protect-mcp-setup",
+  "display_name": "Protect MCP Setup",
+  "description": "Configure Cedar policy enforcement and Ed25519 signed receipts for Claude Code tool calls. Use when setting up projects that need cryptographic audit trails, policy-gated tool execution, or compliance-ready evidence of agent actions.",
+  "repo": "wshobson/agents",
+  "path": "plugins/protect-mcp/skills/protect-mcp-setup/SKILL.md",
+  "url": "https://github.com/wshobson/agents/tree/HEAD/plugins/protect-mcp/skills/protect-mcp-setup/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 8166,
+  "truncated": false
+}

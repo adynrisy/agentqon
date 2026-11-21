@@ -1,0 +1,11 @@
+{
+  "name": "product-research-product-user",
+  "display_name": "Product Research · Product/user",
+  "description": "Use when planning and synthesizing product/user research as a method-and-repository discipline — selecting the right method for the goal (generative interviews vs usability test vs concept test vs validation), computing method-based saturation/sample size with an explicit confidence level, or synthesizing coded observations into insights while flagging single-source anecdotes. Never fabricates user insight; an insight requires recurrence across independent participants. Distinct from product-team/ux-researcher-designer (persona/journey artifacts), product-discovery (discovery-sprint planning), and experiment-designer (live A/B) — this is the research-ops method + insight-repository layer.",
+  "repo": "alirezarezvani/claude-skills",
+  "path": ".gemini/skills/product-research/SKILL.md",
+  "url": "https://github.com/alirezarezvani/claude-skills/tree/HEAD/.gemini/skills/product-research/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 10150,
+  "truncated": false
+}

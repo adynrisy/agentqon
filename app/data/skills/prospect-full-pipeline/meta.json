@@ -1,0 +1,11 @@
+{
+  "name": "prospect-full-pipeline",
+  "display_name": "Prospect Full Pipeline",
+  "description": "Full ICP-to-leads pipeline. Describe your ideal customer in plain English and get a ranked table of enriched decision-maker leads with emails and phone numbers.",
+  "repo": "anthropics/knowledge-work-plugins",
+  "path": "partner-built/apollo/skills/prospect/SKILL.md",
+  "url": "https://github.com/anthropics/knowledge-work-plugins/tree/HEAD/partner-built/apollo/skills/prospect/SKILL.md",
+  "license": "Apache-2.0",
+  "body_bytes": 3337,
+  "truncated": false
+}

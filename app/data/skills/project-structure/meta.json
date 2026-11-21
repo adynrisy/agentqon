@@ -1,0 +1,11 @@
+{
+  "name": "project-structure",
+  "display_name": "Project Structure",
+  "description": "Folder structure for a new Expo app. Use when scaffolding or laying out a new Expo project with Expo Router, or deciding where a file should live in one. For new projects only — never restructure an existing app to match.",
+  "repo": "expo/skills",
+  "path": "plugins/expo/skills/expo-project-structure/SKILL.md",
+  "url": "https://github.com/expo/skills/tree/HEAD/plugins/expo/skills/expo-project-structure/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 6226,
+  "truncated": false
+}

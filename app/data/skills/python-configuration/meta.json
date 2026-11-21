@@ -1,0 +1,11 @@
+{
+  "name": "python-configuration",
+  "display_name": "Python Configuration",
+  "description": "Python configuration management via environment variables and typed settings. Use when externalizing config, setting up pydantic-settings, managing secrets, or implementing environment-specific behavior.",
+  "repo": "wshobson/agents",
+  "path": "plugins/python-development/skills/python-configuration/SKILL.md",
+  "url": "https://github.com/wshobson/agents/tree/HEAD/plugins/python-development/skills/python-configuration/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 5966,
+  "truncated": false
+}

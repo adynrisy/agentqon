@@ -1,0 +1,11 @@
+{
+  "name": "policy-compliance-framework",
+  "display_name": "Policy Compliance Framework",
+  "description": "Policy register: name, version, category, owner and approver, applies to, compliance framework, acknowledgement requirement, effective date and next review. Use for policy management.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/policy-library/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/policy-library/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 13539,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "pm-creator",
+  "display_name": "PM Creator",
+  "description": "Design a new PM skill through guided conversation. Use when you have raw content or an idea and want to shape it into a compliant skill.",
+  "repo": "deanpeters/Product-Manager-Skills",
+  "path": "skills/pm-skill-creator/SKILL.md",
+  "url": "https://github.com/deanpeters/Product-Manager-Skills/tree/HEAD/skills/pm-skill-creator/SKILL.md",
+  "license": "CC",
+  "body_bytes": 15955,
+  "truncated": false
+}

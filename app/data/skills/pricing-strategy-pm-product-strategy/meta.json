@@ -1,0 +1,11 @@
+{
+  "name": "pricing-strategy-pm-product-strategy",
+  "display_name": "Pricing Strategy · PM Product Strategy",
+  "description": "Analyze and design pricing strategies including pricing models, competitive pricing analysis, willingness-to-pay estimation, and price elasticity. Use when setting prices, evaluating pricing models, preparing for a pricing change, or comparing freemium vs paid approaches.",
+  "repo": "phuryn/pm-skills",
+  "path": "pm-product-strategy/skills/pricing-strategy/SKILL.md",
+  "url": "https://github.com/phuryn/pm-skills/tree/HEAD/pm-product-strategy/skills/pricing-strategy/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 3346,
+  "truncated": false
+}

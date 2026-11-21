@@ -1,0 +1,11 @@
+{
+  "name": "pi-delegate",
+  "display_name": "Pi Delegate",
+  "description": "Delegate coding tasks to the Pi coding agent CLI (`pi`) only when the user explicitly requests it, while the orchestrator retains review and landing responsibility.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/pi-delegate/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/pi-delegate/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 6960,
+  "truncated": false
+}

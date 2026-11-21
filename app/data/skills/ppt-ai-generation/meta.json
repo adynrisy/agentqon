@@ -1,0 +1,11 @@
+{
+  "name": "ppt-ai-generation",
+  "display_name": "Ppt AI Generation",
+  "description": "AI-powered PPT generation with document analysis and styled images",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/nanobanana-ppt-skills/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/nanobanana-ppt-skills/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 1575,
+  "truncated": false
+}

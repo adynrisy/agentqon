@@ -1,0 +1,11 @@
+{
+  "name": "postmortem-writing",
+  "display_name": "Postmortem Writing",
+  "description": "Write effective blameless postmortems with root cause analysis, timelines, and action items. Use when conducting incident reviews, writing postmortem documents, or improving incident response processes.",
+  "repo": "wshobson/agents",
+  "path": "plugins/incident-response/skills/postmortem-writing/SKILL.md",
+  "url": "https://github.com/wshobson/agents/tree/HEAD/plugins/incident-response/skills/postmortem-writing/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 6545,
+  "truncated": false
+}
