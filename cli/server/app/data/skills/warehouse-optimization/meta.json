@@ -1,0 +1,11 @@
+{
+  "name": "warehouse-optimization",
+  "display_name": "Warehouse Optimization",
+  "description": "E-commerce warehouse and inventory optimization advisor. Analyzes inventory health, calculates safety stock and reorder points, performs ABC analysis, evaluates fulfillment costs, and provides actionable recommendations for improving efficiency. Supports all major fulfillment models: Self-fulfillment, Amazon FBA/FBM, Walmart WFS, 3PL, Shopify Fulfillment, TikTok Shop, Dropshipping, and Hybrid setups. No API key required. Use when: (1) reducing stockouts or overstock, (2) calculating safety stock levels, (3) optimizing warehouse costs, (4) improving Amazon IPI score, (5) analyzing inventory KPIs.",
+  "repo": "nexscope-ai/eCommerce-Skills",
+  "path": "warehouse-optimization/SKILL.md",
+  "url": "https://github.com/nexscope-ai/eCommerce-Skills/tree/HEAD/warehouse-optimization/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 12805,
+  "truncated": false
+}

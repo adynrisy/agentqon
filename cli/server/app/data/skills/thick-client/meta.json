@@ -1,0 +1,11 @@
+{
+  "name": "thick-client",
+  "display_name": "Thick Client",
+  "description": "Authorized security testing of desktop thick clients: local storage, update channels, IPC, traffic interception, and client-side trust-boundary review.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/thick-client/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/thick-client/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 2775,
+  "truncated": false
+}

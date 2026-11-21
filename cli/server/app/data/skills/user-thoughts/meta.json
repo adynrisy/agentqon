@@ -1,0 +1,11 @@
+{
+  "name": "user-thoughts",
+  "display_name": "User Thoughts",
+  "description": "Persist user decisions and project constraints to mdbase across sessions. Trigger on /user-thoughts or /ustht, or when the user discusses architecture, tech stack, rules, UI/UX, or project memory.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/user-thoughts/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/user-thoughts/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 9479,
+  "truncated": false
+}

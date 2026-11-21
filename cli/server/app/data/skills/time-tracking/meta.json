@@ -1,0 +1,11 @@
+{
+  "name": "time-tracking",
+  "display_name": "Time Tracking",
+  "description": "Time entry register: employee, project, client, task, hours, billable flag, rate and amount, invoice and approver. Use for time tracking.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/time-tracking/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/time-tracking/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 14814,
+  "truncated": false
+}

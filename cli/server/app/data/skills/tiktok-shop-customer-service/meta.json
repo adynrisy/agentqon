@@ -1,0 +1,11 @@
+{
+  "name": "tiktok-shop-customer-service",
+  "display_name": "Tiktok Shop Customer Service",
+  "description": "Customer service on TikTok Shop — response time, dispute resolution, auto-replies, buyer satisfaction",
+  "repo": "nexscope-ai/eCommerce-Skills",
+  "path": "tiktok-shop-customer-service/SKILL.md",
+  "url": "https://github.com/nexscope-ai/eCommerce-Skills/tree/HEAD/tiktok-shop-customer-service/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 1626,
+  "truncated": false
+}

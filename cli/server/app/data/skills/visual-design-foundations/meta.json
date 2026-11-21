@@ -1,0 +1,11 @@
+{
+  "name": "visual-design-foundations",
+  "display_name": "Visual Design Foundations",
+  "description": "Apply typography, color theory, spacing systems, and iconography principles to create cohesive visual designs. Use when establishing design tokens, building style guides, or improving visual hierarchy and consistency.",
+  "repo": "wshobson/agents",
+  "path": "plugins/ui-design/skills/visual-design-foundations/SKILL.md",
+  "url": "https://github.com/wshobson/agents/tree/HEAD/plugins/ui-design/skills/visual-design-foundations/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 6946,
+  "truncated": false
+}

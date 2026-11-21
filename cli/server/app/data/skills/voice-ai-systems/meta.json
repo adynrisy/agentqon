@@ -1,0 +1,11 @@
+{
+  "name": "voice-ai-systems",
+  "display_name": "Voice AI Systems",
+  "description": "Voice agents represent the frontier of AI interaction - humans speaking naturally with AI systems.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/voice-agents/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/voice-agents/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 3957,
+  "truncated": false
+}

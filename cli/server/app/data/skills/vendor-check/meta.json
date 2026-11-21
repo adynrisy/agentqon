@@ -1,0 +1,11 @@
+{
+  "name": "vendor-check",
+  "display_name": "Vendor Check",
+  "description": "Check the status of existing agreements with a vendor across all connected systems — CLM, CRM, email, and document storage — with gap analysis and upcoming deadlines. Use when onboarding or renewing a vendor, when you need a consolidated view of what's signed and what's missing (MSA, DPA, SOW), or when checking for approaching expirations and surviving obligations.",
+  "repo": "anthropics/knowledge-work-plugins",
+  "path": "legal/skills/vendor-check/SKILL.md",
+  "url": "https://github.com/anthropics/knowledge-work-plugins/tree/HEAD/legal/skills/vendor-check/SKILL.md",
+  "license": "Apache-2.0",
+  "body_bytes": 5151,
+  "truncated": false
+}

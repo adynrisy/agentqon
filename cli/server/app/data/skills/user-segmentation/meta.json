@@ -1,0 +1,11 @@
+{
+  "name": "user-segmentation",
+  "display_name": "User Segmentation",
+  "description": "Segment users from feedback data based on behavior, JTBD, and needs. Identifies at least 3 distinct user segments. Use when segmenting a user base, analyzing diverse user feedback, or building a segmentation model.",
+  "repo": "phuryn/pm-skills",
+  "path": "pm-market-research/skills/user-segmentation/SKILL.md",
+  "url": "https://github.com/phuryn/pm-skills/tree/HEAD/pm-market-research/skills/user-segmentation/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 3839,
+  "truncated": false
+}

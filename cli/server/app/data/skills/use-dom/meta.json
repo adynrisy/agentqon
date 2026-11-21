@@ -1,0 +1,11 @@
+{
+  "name": "use-dom",
+  "display_name": "Use Dom",
+  "description": "Use Expo DOM components to run web code in a webview on native and as-is on web. Migrate web code to native incrementally.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/use-dom/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/use-dom/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 9923,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "vercel-react-view-transitions",
+  "display_name": "Vercel React View Transitions",
+  "description": "Guide React and Next.js view transitions, shared element animations, route transitions, transition types, and reduced-motion-safe UI state animation.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/vercel-react-view-transitions/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/vercel-react-view-transitions/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 12264,
+  "truncated": false
+}

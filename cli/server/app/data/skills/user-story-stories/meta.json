@@ -1,0 +1,11 @@
+{
+  "name": "user-story-stories",
+  "display_name": "User Story · Stories",
+  "description": "Create user stories with Mike Cohn format and Gherkin acceptance criteria. Use when turning user needs into development-ready work with clear outcomes and testable conditions.",
+  "repo": "deanpeters/Product-Manager-Skills",
+  "path": "skills/user-story/SKILL.md",
+  "url": "https://github.com/deanpeters/Product-Manager-Skills/tree/HEAD/skills/user-story/SKILL.md",
+  "license": "CC",
+  "body_bytes": 10422,
+  "truncated": false
+}

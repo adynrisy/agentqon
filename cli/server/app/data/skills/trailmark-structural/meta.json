@@ -1,0 +1,11 @@
+{
+  "name": "trailmark-structural",
+  "display_name": "Trailmark Structural",
+  "description": "Runs full Trailmark structural analysis by building a graph, running `preanalysis()`, and reporting hotspots, taint, blast radius, privilege boundaries, attack surface, and version-gated Trailmark 0.4+/0.5+ data such as proxy counts, subgraph edges, type/reference summaries, and entrypoint attributes. Use when vivisect needs detailed structural data for a target. Triggers: structural analysis, blast radius, taint analysis, complexity hotspots, proxy nodes, type references.",
+  "repo": "trailofbits/skills",
+  "path": "plugins/trailmark/skills/trailmark-structural/SKILL.md",
+  "url": "https://github.com/trailofbits/skills/tree/HEAD/plugins/trailmark/skills/trailmark-structural/SKILL.md",
+  "license": "CC",
+  "body_bytes": 5630,
+  "truncated": false
+}

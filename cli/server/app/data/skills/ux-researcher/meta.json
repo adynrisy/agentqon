@@ -1,0 +1,11 @@
+{
+  "name": "ux-researcher",
+  "display_name": "UX Researcher",
+  "description": "UX research agent for research planning, persona generation, journey mapping, and usability test analysis. Use when product decisions need user evidence — e.g., planning interview scripts and recruiting criteria for a discovery study, or synthesizing usability-test sessions into prioritized findings and updated personas.",
+  "repo": "alirezarezvani/claude-skills",
+  "path": ".gemini/skills/cs-ux-researcher/SKILL.md",
+  "url": "https://github.com/alirezarezvani/claude-skills/tree/HEAD/.gemini/skills/cs-ux-researcher/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 23477,
+  "truncated": false
+}

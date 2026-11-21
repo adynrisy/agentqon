@@ -1,0 +1,11 @@
+{
+  "name": "ux-persuasion-engineer",
+  "display_name": "UX Persuasion Engineer",
+  "description": "Audit decision friction and propose clear, accessible UX flows when layout, defaults, or sequencing obstruct informed action.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/ux-persuasion-engineer/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/ux-persuasion-engineer/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 6498,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "verify-citations",
+  "display_name": "Verify Citations",
+  "description": "Verify citations and references in a document, report, or article against real sources. Use when the user asks to fact-check, verify references, check citations, or validate evidence in research reports, tender responses, whitepapers, or academic writing.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/verify-citations/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/verify-citations/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 3523,
+  "truncated": false
+}

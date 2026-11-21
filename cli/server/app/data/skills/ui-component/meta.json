@@ -1,0 +1,11 @@
+{
+  "name": "ui-component",
+  "display_name": "UI Component",
+  "description": "Generate a new UI component following the StyleSeed design conventions",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/ui-component/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/ui-component/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 2871,
+  "truncated": false
+}

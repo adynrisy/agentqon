@@ -1,0 +1,11 @@
+{
+  "name": "ui-score",
+  "display_name": "UI Score",
+  "description": "Score a UI file's design quality 0-100 against StyleSeed's design language — per-category breakdown, the worst offenders, and a prioritized fix list. A quantified version of /ss-review.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/ui-score/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/ui-score/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 6927,
+  "truncated": false
+}

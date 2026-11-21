@@ -1,0 +1,11 @@
+{
+  "name": "threat-mitigation-mapping-security-scanning",
+  "display_name": "Threat Mitigation Mapping · Security Scanning",
+  "description": "Map identified threats to appropriate security controls and mitigations. Use when prioritizing security investments, creating remediation plans, or validating control effectiveness.",
+  "repo": "wshobson/agents",
+  "path": "plugins/security-scanning/skills/threat-mitigation-mapping/SKILL.md",
+  "url": "https://github.com/wshobson/agents/tree/HEAD/plugins/security-scanning/skills/threat-mitigation-mapping/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 3110,
+  "truncated": false
+}

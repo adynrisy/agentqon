@@ -1,0 +1,11 @@
+{
+  "name": "vibe-delegate",
+  "display_name": "Vibe Delegate",
+  "description": "Delegate coding tasks to the Mistral Vibe CLI (`vibe`) only when the user explicitly requests it, while the orchestrator retains review and landing responsibility.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/vibe-delegate/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/vibe-delegate/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 6766,
+  "truncated": false
+}

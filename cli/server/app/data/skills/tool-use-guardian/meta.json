@@ -1,0 +1,11 @@
+{
+  "name": "tool-use-guardian",
+  "display_name": "Tool Use Guardian",
+  "description": "FREE — Intelligent tool-call reliability wrapper. Monitors, retries, fixes, and learns from tool failures. Auto-recovers from truncated JSON, timeouts, rate limits, and mid-chain failures.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/tool-use-guardian/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/tool-use-guardian/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 2904,
+  "truncated": false
+}

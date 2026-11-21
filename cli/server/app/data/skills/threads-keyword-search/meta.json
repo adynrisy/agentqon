@@ -1,0 +1,11 @@
+{
+  "name": "threads-keyword-search",
+  "display_name": "Threads Keyword Search",
+  "description": "Searches Threads posts by keyword or hashtag and returns matching posts with engagement metrics, extracted from SSR-embedded JSON. Use when user asks to search Threads posts, find Threads content by topic, scrape Threads search results, collect Threads posts about a keyword, monitor Threads hashtag activity, pull Threads posts mentioning a term, gather Threads content by hashtag, search for posts on Threads, extract Threads search feed, get trending posts on Threads, find Threads discussions about a subject, or fetch recent or top Threads posts by keyword.",
+  "repo": "browser-act/skills",
+  "path": "solutions/social-listening/threads-keyword-search/SKILL.md",
+  "url": "https://github.com/browser-act/skills/tree/HEAD/solutions/social-listening/threads-keyword-search/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 6018,
+  "truncated": false
+}

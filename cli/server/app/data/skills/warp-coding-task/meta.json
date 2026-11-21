@@ -1,0 +1,11 @@
+{
+  "name": "warp-coding-task",
+  "display_name": "Warp Coding Task",
+  "description": "Delegate a coding task to the Warp Agent CLI (`oz`) as a background implementer, then review its diff and land it yourself. Use this whenever the user wants to hand implementation work to Warp - phrasings like \"have Warp implement X\", \"delegate this to the Warp CLI\", \"run it through Warp\", \"use oz to implement/fix/refactor\" - or wants to run a queue of coding tasks through Warp while staying the reviewer. DO NOT USE for tasks small enough to do inline, when the user wants the code written directly without delegating, or for the interactive `warp` TUI (this skill drives the headless `oz agent run`, not the terminal app).",
+  "repo": "amElnagdy/delegate-skills",
+  "path": "skills/warp-delegate/SKILL.md",
+  "url": "https://github.com/amElnagdy/delegate-skills/tree/HEAD/skills/warp-delegate/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 9995,
+  "truncated": false
+}

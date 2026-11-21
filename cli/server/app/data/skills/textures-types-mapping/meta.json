@@ -1,0 +1,11 @@
+{
+  "name": "textures-types-mapping",
+  "display_name": "Textures Types Mapping",
+  "description": "Three.js textures - texture types, UV mapping, environment maps, texture settings. Use when working with images, UV coordinates, cubemaps, HDR environments, or texture optimization.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/threejs-textures/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/threejs-textures/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 947,
+  "truncated": false
+}

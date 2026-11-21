@@ -1,0 +1,11 @@
+{
+  "name": "wechat-cover-maker",
+  "display_name": "Wechat Cover Maker",
+  "description": "Install and use the official WeChat Article Cover package, pinned by digest, for paid hosted work on the Beatra service.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/wechat-cover-maker/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/wechat-cover-maker/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 14681,
+  "truncated": false
+}

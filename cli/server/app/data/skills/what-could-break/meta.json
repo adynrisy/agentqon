@@ -1,0 +1,11 @@
+{
+  "name": "what-could-break",
+  "display_name": "What Could Break",
+  "description": "Find what a change breaks outside its own diff, then prove the one fact that makes it safe by running real code. Use before any multi-file edit or an edit to a shared path.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/what-could-break/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/what-could-break/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 6824,
+  "truncated": false
+}

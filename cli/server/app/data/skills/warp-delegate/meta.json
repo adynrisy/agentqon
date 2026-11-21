@@ -1,0 +1,11 @@
+{
+  "name": "warp-delegate",
+  "display_name": "Warp Delegate",
+  "description": "Delegate coding tasks to the Warp Agent CLI (`oz`) only when the user explicitly requests it, while the orchestrator retains review and landing responsibility.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/warp-delegate/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/warp-delegate/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 10043,
+  "truncated": false
+}

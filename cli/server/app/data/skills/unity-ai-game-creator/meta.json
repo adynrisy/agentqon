@@ -1,0 +1,11 @@
+{
+  "name": "unity-ai-game-creator",
+  "display_name": "Unity AI Game Creator",
+  "description": "Transform raw game ideas into complete Unity projects with AI-powered asset generation, scene blueprints, music/SFX prompts, and step-by-step development procedures using Unity 6+ and modern AI tools.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/unity-ai-game-creator/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/unity-ai-game-creator/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 14224,
+  "truncated": false
+}

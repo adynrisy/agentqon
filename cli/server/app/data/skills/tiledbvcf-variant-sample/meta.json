@@ -1,0 +1,11 @@
+{
+  "name": "tiledbvcf-variant-sample",
+  "display_name": "Tiledbvcf Variant Sample",
+  "description": "Stores and retrieves genomic variant calls with TileDB-VCF. Use for indexed single-sample VCF/BCF ingestion, incremental cohorts, region and sample queries, streaming results, allele statistics, QC, and VCF/BCF export locally or through TileDB Cloud.",
+  "repo": "K-Dense-AI/scientific-agent-skills",
+  "path": "skills/tiledbvcf/SKILL.md",
+  "url": "https://github.com/K-Dense-AI/scientific-agent-skills/tree/HEAD/skills/tiledbvcf/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 13158,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "ui-lint",
+  "display_name": "UI Lint",
+  "description": "Quick automated lint — detects common design system violations in seconds",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/ui-lint/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/ui-lint/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 3073,
+  "truncated": false
+}

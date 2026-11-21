@@ -1,0 +1,11 @@
+{
+  "name": "validator-project-artifacts",
+  "display_name": "Validator Project Artifacts",
+  "description": "Validates Conductor project artifacts for completeness,\nconsistency, and correctness. Use after setup, when diagnosing issues, or\nbefore implementation to verify project context.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/conductor-validator/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/conductor-validator/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 2265,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "using-lwc",
+  "display_name": "Using Lwc",
+  "description": "Use when project decisions, code structure, research, incidents, or verified context must survive future coding-agent sessions through LWC memory and graph indexes.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/using-lwc/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/using-lwc/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 7506,
+  "truncated": false
+}

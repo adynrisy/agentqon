@@ -1,0 +1,11 @@
+{
+  "name": "ui-root",
+  "display_name": "UI Root",
+  "description": "Use before UI-related work to select the smallest useful UI Skills context through the ui-skills CLI.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/ui-skills-root/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/ui-skills-root/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 1765,
+  "truncated": false
+}

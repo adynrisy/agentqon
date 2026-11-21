@@ -1,0 +1,11 @@
+{
+  "name": "verify-check-python",
+  "display_name": "Verify Check Python",
+  "description": "Check that a Python change is caught by tests: run every mutant of the changed lines and write tests until they catch them. Reports evidence instead of a diff to read.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/agentic-verify/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/agentic-verify/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 8006,
+  "truncated": false
+}

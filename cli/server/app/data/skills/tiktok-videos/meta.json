@@ -1,0 +1,11 @@
+{
+  "name": "tiktok-videos",
+  "display_name": "Tiktok Videos",
+  "description": "TikTok hashtag video scraper: input a hashtag name → output paginated video list with full metadata (author profile, engagement stats, music, video meta, hashtag list). Use when user mentions TikTok hashtag scraping, TikTok tag videos, scrape TikTok by hashtag, extract TikTok hashtag data, TikTok challenge videos, get videos from a TikTok tag, bulk collect TikTok hashtag posts, TikTok video collection by tag, TikTok topic videos, collect TikTok tag data, batch fetch TikTok videos by hashtag, tiktok tag scraper, tiktok challenge scraper. Also applies to competitive research on TikTok trending topics, influencer discovery by hashtag, content monitoring for specific TikTok tags, or any task requiring video lists from a specific TikTok hashtag or challenge.",
+  "repo": "browser-act/skills",
+  "path": "solutions/video-platforms/tiktok-hashtag-videos/SKILL.md",
+  "url": "https://github.com/browser-act/skills/tree/HEAD/solutions/video-platforms/tiktok-hashtag-videos/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 7051,
+  "truncated": false
+}

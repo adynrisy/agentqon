@@ -1,0 +1,11 @@
+{
+  "name": "uxkin-research",
+  "display_name": "Uxkin Research",
+  "description": "Research how real products handle a screen, flow or visual style before designing it: search UXKIN's real iOS screens, user journeys and website design systems, compare several and report what they share.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/uxkin-research/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/uxkin-research/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 4833,
+  "truncated": false
+}

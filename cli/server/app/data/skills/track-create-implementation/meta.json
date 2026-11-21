@@ -1,0 +1,11 @@
+{
+  "name": "track-create-implementation",
+  "display_name": "Track Create Implementation",
+  "description": "Create a new track with specification and phased implementation plan",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/conductor-new-track/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/conductor-new-track/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 8006,
+  "truncated": false
+}

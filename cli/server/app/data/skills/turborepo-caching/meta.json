@@ -1,0 +1,11 @@
+{
+  "name": "turborepo-caching",
+  "display_name": "Turborepo Caching",
+  "description": "Configure Turborepo for efficient monorepo builds with local and remote caching. Use when setting up Turborepo, optimizing build pipelines, or implementing distributed caching.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/turborepo-caching/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/turborepo-caching/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 8821,
+  "truncated": false
+}

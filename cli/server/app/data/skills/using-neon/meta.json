@@ -1,0 +1,11 @@
+{
+  "name": "using-neon",
+  "display_name": "Using Neon",
+  "description": "Neon is a serverless Postgres platform that separates compute and storage to offer autoscaling, branching, instant restore, and scale-to-zero. It's fully compatible with Postgres and works with any language, framework, or ORM that supports Postgres.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/using-neon/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/using-neon/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 6076,
+  "truncated": false
+}

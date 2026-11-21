@@ -1,0 +1,11 @@
+{
+  "name": "using-find-before",
+  "display_name": "Using Find Before",
+  "description": "Use when starting any conversation - establishes how to find and use skills, requiring skill invocation before ANY response including clarifying questions",
+  "repo": "obra/superpowers",
+  "path": "skills/using-superpowers/SKILL.md",
+  "url": "https://github.com/obra/superpowers/tree/HEAD/skills/using-superpowers/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 2991,
+  "truncated": false
+}

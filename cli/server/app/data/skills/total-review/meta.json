@@ -1,0 +1,11 @@
+{
+  "name": "total-review",
+  "display_name": "Total Review",
+  "description": "Run five independent max-effort reviews (Fable 5.1, Opus 5.5, GPT-6 Astra, GPT-6.1 Sol, Muse Wonder), merge their findings, and fix only what the user approves. Manual only: run when a human types /total-review; agents must never invoke it on their own.",
+  "repo": "davidondrej/skills",
+  "path": "skills/agent-orchestration/total-review/SKILL.md",
+  "url": "https://github.com/davidondrej/skills/tree/HEAD/skills/agent-orchestration/total-review/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 3186,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "tiktok-shop-fulfillment",
+  "display_name": "Tiktok Shop Fulfillment",
+  "description": "Fulfillment setup — Fulfilled by TikTok, self-fulfillment, shipping templates, return policies",
+  "repo": "nexscope-ai/eCommerce-Skills",
+  "path": "tiktok-shop-fulfillment/SKILL.md",
+  "url": "https://github.com/nexscope-ai/eCommerce-Skills/tree/HEAD/tiktok-shop-fulfillment/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 1594,
+  "truncated": false
+}

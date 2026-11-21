@@ -1,0 +1,11 @@
+{
+  "name": "web-design-guidelines-review",
+  "display_name": "Web Design Guidelines · Review",
+  "description": "Review UI code for Web Interface Guidelines compliance. Use when asked to \"review my UI\", \"check accessibility\", \"audit design\", \"review UX\", or \"check my site against best practices\".",
+  "repo": "vercel-labs/agent-skills",
+  "path": "skills/web-design-guidelines/SKILL.md",
+  "url": "https://github.com/vercel-labs/agent-skills/tree/HEAD/skills/web-design-guidelines/SKILL.md",
+  "license": "unknown",
+  "body_bytes": 915,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "vibe-coding-task",
+  "display_name": "Vibe Coding Task",
+  "description": "Delegate a coding task to the Mistral Vibe CLI (`vibe`) as a background implementer, then review its diff and land it yourself. Use this whenever the user wants to hand implementation work to Vibe — phrasings like \"have Vibe implement X\", \"delegate this to Vibe\", \"run it through Mistral Vibe\", \"use vibe to implement/fix/refactor\" — or wants to run a queue of coding tasks through Vibe while staying the reviewer. DO NOT USE for tasks small enough to do inline, or when the user wants the code written directly without delegating.",
+  "repo": "amElnagdy/delegate-skills",
+  "path": "skills/vibe-delegate/SKILL.md",
+  "url": "https://github.com/amElnagdy/delegate-skills/tree/HEAD/skills/vibe-delegate/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 6720,
+  "truncated": false
+}

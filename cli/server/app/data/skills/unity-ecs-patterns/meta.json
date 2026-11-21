@@ -1,0 +1,11 @@
+{
+  "name": "unity-ecs-patterns",
+  "display_name": "Unity Ecs Patterns",
+  "description": "Production patterns for Unity's Data-Oriented Technology Stack (DOTS) including Entity Component System, Job System, and Burst Compiler.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/unity-ecs-patterns/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/unity-ecs-patterns/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 1219,
+  "truncated": false
+}

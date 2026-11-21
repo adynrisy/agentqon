@@ -1,0 +1,11 @@
+{
+  "name": "url-markdown-fetch",
+  "display_name": "URL Markdown · Fetch",
+  "description": "Fetch a public webpage as clean Markdown for an agent: read, summarize, quote, or cite the page while preserving its source URL.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/url-to-markdown/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/url-to-markdown/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 1737,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "ui-page",
+  "display_name": "UI Page",
+  "description": "Scaffold a new mobile page/screen using the StyleSeed layout patterns",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/ui-page/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/ui-page/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 2949,
+  "truncated": false
+}

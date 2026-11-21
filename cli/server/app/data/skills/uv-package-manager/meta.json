@@ -1,0 +1,11 @@
+{
+  "name": "uv-package-manager",
+  "display_name": "Uv Package Manager",
+  "description": "Master the uv package manager for fast Python dependency management, virtual environments, and modern Python project workflows. Use when setting up Python projects, managing dependencies, or optimizing Python development workflows with uv.",
+  "repo": "wshobson/agents",
+  "path": "plugins/python-development/skills/uv-package-manager/SKILL.md",
+  "url": "https://github.com/wshobson/agents/tree/HEAD/plugins/python-development/skills/uv-package-manager/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 6821,
+  "truncated": false
+}

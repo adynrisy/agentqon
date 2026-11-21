@@ -1,0 +1,11 @@
+{
+  "name": "vibe-code-cleanup",
+  "display_name": "Vibe Code Cleanup",
+  "description": "Safe production cleanup and hardening for vibe-coded fullstack apps (Next.js, React, Node.js, etc.). Removes dead imports, unused files, and broken references without breaking routes or APIs.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/vibe-code-cleanup/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/vibe-code-cleanup/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 6537,
+  "truncated": false
+}

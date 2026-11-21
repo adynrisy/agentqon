@@ -1,0 +1,11 @@
+{
+  "name": "using-n8n-mcp",
+  "display_name": "Using N8n MCP",
+  "description": "Route n8n MCP workflow design, editing, validation, testing, deployment, credential, execution, and debugging tasks to specialist guidance.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/using-n8n-mcp-skills/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/using-n8n-mcp-skills/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 13140,
+  "truncated": false
+}

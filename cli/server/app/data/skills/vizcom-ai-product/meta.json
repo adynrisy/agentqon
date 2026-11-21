@@ -1,0 +1,11 @@
+{
+  "name": "vizcom-ai-product",
+  "display_name": "Vizcom AI Product",
+  "description": "AI-powered product design tool for transforming sketches into full-fidelity 3D renders.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/vizcom/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/vizcom/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 2398,
+  "truncated": false
+}

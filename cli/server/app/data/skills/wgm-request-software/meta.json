@@ -1,0 +1,11 @@
+{
+  "name": "wgm-request-software",
+  "display_name": "Wgm Request Software",
+  "description": "Turns a rough request into working software via a governed build loop: align first, plan, then iterate one task at a time with deterministic backpressure and holdout-scenario judging.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/wgm/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/wgm/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 6304,
+  "truncated": false
+}

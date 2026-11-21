@@ -1,0 +1,11 @@
+{
+  "name": "video-content-extractor",
+  "display_name": "Video Content Extractor",
+  "description": "Extract key frames from MP4 videos at configurable intervals, run Tesseract OCR, and generate structured Markdown reports with video metadata and timestamped text transcripts.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/video-content-extractor/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/video-content-extractor/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 4539,
+  "truncated": false
+}

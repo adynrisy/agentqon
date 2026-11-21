@@ -1,0 +1,11 @@
+{
+  "name": "web-performance-optimization",
+  "display_name": "Web Performance Optimization",
+  "description": "Optimize website and web application performance including loading speed, Core Web Vitals, bundle size, caching strategies, and runtime performance",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/web-performance-optimization/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/web-performance-optimization/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 10336,
+  "truncated": false
+}

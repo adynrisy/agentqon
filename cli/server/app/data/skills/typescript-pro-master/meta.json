@@ -1,0 +1,11 @@
+{
+  "name": "typescript-pro-master",
+  "display_name": "Typescript Pro · Master",
+  "description": "Master TypeScript with advanced types, generics, and strict type safety. Handles complex type systems, decorators, and enterprise-grade patterns.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/typescript-pro/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/typescript-pro/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 2252,
+  "truncated": false
+}

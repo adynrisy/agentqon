@@ -1,0 +1,11 @@
+{
+  "name": "wechat-account-strategist",
+  "display_name": "Wechat Account Strategist",
+  "description": "Grow WeChat Official Accounts (微信公众号) with high-conversion content strategy, title formulas, article architecture, and Mini-Program integration.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/wechat-official-account-strategist/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/wechat-official-account-strategist/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 4680,
+  "truncated": false
+}

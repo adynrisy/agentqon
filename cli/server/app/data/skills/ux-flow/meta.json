@@ -1,0 +1,11 @@
+{
+  "name": "ux-flow",
+  "display_name": "UX Flow",
+  "description": "Design user flows and navigation structure following proven UX patterns",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/ux-flow/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/ux-flow/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 2867,
+  "truncated": false
+}

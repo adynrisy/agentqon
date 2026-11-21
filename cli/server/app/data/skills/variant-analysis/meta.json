@@ -1,0 +1,11 @@
+{
+  "name": "variant-analysis",
+  "display_name": "Variant Analysis",
+  "description": "Find similar vulnerabilities and bugs across codebases using pattern-based analysis. Use when hunting bug variants, building CodeQL/Semgrep queries, analyzing security vulnerabilities, or performing systematic code audits after finding an initial issue.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/variant-analysis/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/variant-analysis/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 7492,
+  "truncated": false
+}

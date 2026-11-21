@@ -1,0 +1,11 @@
+{
+  "name": "tools-page-seo-optimizer",
+  "display_name": "Tools Page SEO Optimizer",
+  "description": "Framework-agnostic SEO workflow for any site with multiple tool, product, or feature pages. Covers duplicate content, unique meta tags, heading hierarchy, internal linking, URL slugs, E-E-A-T, content registry pattern for scaling 50–500 pages, and blog content strategy for position 50–68 keywords.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "skills/tools-page-seo-optimizer/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/skills/tools-page-seo-optimizer/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 1690,
+  "truncated": false
+}

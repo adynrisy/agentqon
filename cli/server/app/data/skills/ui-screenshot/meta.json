@@ -1,0 +1,11 @@
+{
+  "name": "ui-screenshot",
+  "display_name": "UI Screenshot",
+  "description": "Turn a screenshot or mockup into matching UI with the project's own components, then compare the result side by side with the image and fix the differences.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/ui-from-screenshot/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/ui-from-screenshot/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 5709,
+  "truncated": false
+}

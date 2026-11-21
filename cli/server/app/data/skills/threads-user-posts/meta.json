@@ -1,0 +1,11 @@
+{
+  "name": "threads-user-posts",
+  "display_name": "Threads User Posts",
+  "description": "Fetches public posts from a Threads user's profile page, extracting post text, engagement metrics, and media info from SSR-embedded JSON. Use when user asks to scrape Threads posts, get someone's Threads feed, pull posts from a Threads account, collect Threads content by username, download Threads user posts, extract Threads profile posts, monitor a Threads user's activity, retrieve recent posts from a Threads handle, gather Threads post data for a creator, or fetch all posts from a specific Threads profile.",
+  "repo": "browser-act/skills",
+  "path": "solutions/social-listening/threads-user-posts/SKILL.md",
+  "url": "https://github.com/browser-act/skills/tree/HEAD/solutions/social-listening/threads-user-posts/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 8600,
+  "truncated": false
+}

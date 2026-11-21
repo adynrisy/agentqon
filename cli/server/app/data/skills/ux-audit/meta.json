@@ -1,0 +1,11 @@
+{
+  "name": "ux-audit",
+  "display_name": "UX Audit",
+  "description": "Audit screens for UX issues using Nielsen's heuristics and modern mobile UX best practices",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/ux-audit/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/ux-audit/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 5043,
+  "truncated": false
+}

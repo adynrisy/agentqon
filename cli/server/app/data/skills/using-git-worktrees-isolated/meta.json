@@ -1,0 +1,11 @@
+{
+  "name": "using-git-worktrees-isolated",
+  "display_name": "Using Git Worktrees · Isolated",
+  "description": "Git worktrees create isolated workspaces sharing the same repository, allowing work on multiple branches simultaneously without switching.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "skills/using-git-worktrees/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/skills/using-git-worktrees/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 5762,
+  "truncated": false
+}

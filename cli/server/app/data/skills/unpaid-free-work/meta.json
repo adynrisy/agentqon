@@ -1,0 +1,11 @@
+{
+  "name": "unpaid-free-work",
+  "display_name": "Unpaid Free Work",
+  "description": "A free second brain for work in plain markdown files the user owns. Turns transcripts, docs, and tickets into briefings, meeting prep, debriefs, follow-ups, and status tables.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/unpaid-intern/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/unpaid-intern/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 9573,
+  "truncated": false
+}

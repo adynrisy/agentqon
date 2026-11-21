@@ -1,0 +1,11 @@
+{
+  "name": "vaporwave-web-app",
+  "display_name": "Vaporwave Web App",
+  "description": "Web and App implementation guide for Vaporwave. Trigger when user wants neon colors, retro digital aesthetics, 90s OS elements, and Roman statues.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/design-it/vaporwave/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/design-it/vaporwave/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 13288,
+  "truncated": false
+}

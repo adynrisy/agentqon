@@ -1,0 +1,11 @@
+{
+  "name": "ui-review",
+  "display_name": "UI Review",
+  "description": "Review UI code for design system compliance, accessibility, and best practices",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/ui-review/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/ui-review/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 4978,
+  "truncated": false
+}

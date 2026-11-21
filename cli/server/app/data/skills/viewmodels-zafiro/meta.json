@@ -1,0 +1,11 @@
+{
+  "name": "viewmodels-zafiro",
+  "display_name": "Viewmodels Zafiro",
+  "description": "Optimal ViewModel and Wizard creation patterns for Avalonia using Zafiro and ReactiveUI.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/avalonia-viewmodels-zafiro/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/avalonia-viewmodels-zafiro/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 1941,
+  "truncated": false
+}

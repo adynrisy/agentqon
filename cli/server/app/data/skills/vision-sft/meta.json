@@ -1,0 +1,11 @@
+{
+  "name": "vision-sft",
+  "display_name": "Vision Sft",
+  "description": "Fine-tune vision-language models (VLMs) with supervised learning on image+text data. Use when adapting a VLM to a visual domain or task, configuring frozen-vision-tower LoRA, or debugging a VLM fine-tune that trains without learning.",
+  "repo": "wshobson/agents",
+  "path": "plugins/llm-finetuning/skills/vision-sft/SKILL.md",
+  "url": "https://github.com/wshobson/agents/tree/HEAD/plugins/llm-finetuning/skills/vision-sft/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 7599,
+  "truncated": false
+}

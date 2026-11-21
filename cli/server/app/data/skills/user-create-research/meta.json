@@ -1,0 +1,11 @@
+{
+  "name": "user-create-research",
+  "display_name": "User Create Research",
+  "description": "Create refined user personas from research data — 3 personas with JTBD, pains, gains, and unexpected insights. Use when building personas from survey data, creating user profiles from research, or segmenting users for product decisions.",
+  "repo": "phuryn/pm-skills",
+  "path": "pm-market-research/skills/user-personas/SKILL.md",
+  "url": "https://github.com/phuryn/pm-skills/tree/HEAD/pm-market-research/skills/user-personas/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 2764,
+  "truncated": false
+}

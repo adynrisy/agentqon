@@ -1,0 +1,11 @@
+{
+  "name": "value-prop-statements",
+  "display_name": "Value Prop Statements",
+  "description": "Generate value proposition statements for marketing, sales, and onboarding from existing value propositions. Use when writing marketing copy, creating sales messaging, or crafting onboarding messages.",
+  "repo": "phuryn/pm-skills",
+  "path": "pm-marketing-growth/skills/value-prop-statements/SKILL.md",
+  "url": "https://github.com/phuryn/pm-skills/tree/HEAD/pm-marketing-growth/skills/value-prop-statements/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 2780,
+  "truncated": false
+}

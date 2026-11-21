@@ -1,0 +1,11 @@
+{
+  "name": "visualization-it-design",
+  "display_name": "Visualization It Design",
+  "description": "Creates and audits truthful, accessible, publication-ready scientific figures with Matplotlib, Seaborn, or Plotly. Use it for figure design, multi-panel layouts, uncertainty and missing-data displays, color/contrast review, image metadata validation, and journal export planning.",
+  "repo": "K-Dense-AI/scientific-agent-skills",
+  "path": "skills/scientific-visualization/SKILL.md",
+  "url": "https://github.com/K-Dense-AI/scientific-agent-skills/tree/HEAD/skills/scientific-visualization/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 14760,
+  "truncated": false
+}

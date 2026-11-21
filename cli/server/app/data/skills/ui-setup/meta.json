@@ -1,0 +1,11 @@
+{
+  "name": "ui-setup",
+  "display_name": "UI Setup",
+  "description": "Interactive setup wizard — guides you step-by-step to configure the design system for your project",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/ui-setup/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/ui-setup/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 7559,
+  "truncated": false
+}

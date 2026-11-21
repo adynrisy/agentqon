@@ -1,0 +1,11 @@
+{
+  "name": "token-minter",
+  "display_name": "Token Minter",
+  "description": "Soroban SEP-41 token contract architecture register: admin control, supply caps, metadata standard, and transfer event emissions on Stellar.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/soroban-token-minter/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/soroban-token-minter/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 4744,
+  "truncated": false
+}

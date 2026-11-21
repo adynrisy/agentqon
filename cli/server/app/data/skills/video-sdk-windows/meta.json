@@ -1,0 +1,11 @@
+{
+  "name": "video-sdk-windows",
+  "display_name": "Video SDK Windows",
+  "description": "Zoom Video SDK for Windows - C++ integration for video sessions, raw audio/video capture, screen sharing, recording, and real-time communication",
+  "repo": "anthropics/knowledge-work-plugins",
+  "path": "partner-built/zoom-plugin/skills/video-sdk/windows/SKILL.md",
+  "url": "https://github.com/anthropics/knowledge-work-plugins/tree/HEAD/partner-built/zoom-plugin/skills/video-sdk/windows/SKILL.md",
+  "license": "Apache-2.0",
+  "body_bytes": 40772,
+  "truncated": false
+}

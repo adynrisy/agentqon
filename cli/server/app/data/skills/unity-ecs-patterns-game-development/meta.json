@@ -1,0 +1,11 @@
+{
+  "name": "unity-ecs-patterns-game-development",
+  "display_name": "Unity Ecs Patterns · Game Development",
+  "description": "Master Unity ECS (Entity Component System) with DOTS, Jobs, and Burst for high-performance game development. Use when building data-oriented games, optimizing performance, or working with large entity counts.",
+  "repo": "wshobson/agents",
+  "path": "plugins/game-development/skills/unity-ecs-patterns/SKILL.md",
+  "url": "https://github.com/wshobson/agents/tree/HEAD/plugins/game-development/skills/unity-ecs-patterns/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 1810,
+  "truncated": false
+}

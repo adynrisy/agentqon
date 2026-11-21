@@ -1,0 +1,11 @@
+{
+  "name": "vibers-code-review",
+  "display_name": "Vibers Code Review",
+  "description": "Human review workflow for AI-generated GitHub projects with spec-based feedback, security review, and follow-up PRs from the Vibers service.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/vibers-code-review/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/vibers-code-review/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 4234,
+  "truncated": false
+}

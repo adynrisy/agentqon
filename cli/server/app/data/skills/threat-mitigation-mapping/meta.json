@@ -1,0 +1,11 @@
+{
+  "name": "threat-mitigation-mapping",
+  "display_name": "Threat Mitigation Mapping",
+  "description": "Map identified threats to appropriate security controls and mitigations. Use when prioritizing security investments, creating remediation plans, or validating control effectiveness.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/threat-mitigation-mapping/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/threat-mitigation-mapping/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 1103,
+  "truncated": false
+}

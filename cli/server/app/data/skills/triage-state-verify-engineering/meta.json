@@ -1,0 +1,11 @@
+{
+  "name": "triage-state-verify-engineering",
+  "display_name": "Triage State Verify · Engineering",
+  "description": "Move issues and external PRs through a state machine of triage roles, categorise, verify, grill if needed, and write agent-ready briefs.",
+  "repo": "mattpocock/skills",
+  "path": "skills/engineering/triage/SKILL.md",
+  "url": "https://github.com/mattpocock/skills/tree/HEAD/skills/engineering/triage/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 6355,
+  "truncated": false
+}

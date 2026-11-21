@@ -1,0 +1,11 @@
+{
+  "name": "treatment-plans",
+  "display_name": "Treatment Plans",
+  "description": "Formats and structurally validates local treatment-plan documentation after clinical decisions have already been supplied and verified by authorized licensed professionals. Use for source traceability, clinician-authored intervention records, goals and checkpoints, shared-decision records, reconciliation handoffs, and release gates—not for clinical decision-making.",
+  "repo": "K-Dense-AI/scientific-agent-skills",
+  "path": "skills/treatment-plans/SKILL.md",
+  "url": "https://github.com/K-Dense-AI/scientific-agent-skills/tree/HEAD/skills/treatment-plans/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 11870,
+  "truncated": false
+}

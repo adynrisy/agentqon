@@ -1,0 +1,11 @@
+{
+  "name": "vendor-management-implement",
+  "display_name": "Vendor Management · Implement",
+  "description": "Implement vendor risk management programs. Assess third-party security and maintain vendor inventory. Use when managing supplier security.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/vendor-management/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/vendor-management/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 14668,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "weekly-prep-brief",
+  "display_name": "Weekly Prep Brief",
+  "description": "Generate a comprehensive weekly briefing for all external calls in the next 7 days. Triggers on 'weekly prep brief', 'prepare my week', 'what calls do I have this week', 'Monday prep', or any weekly planning request.",
+  "repo": "anthropics/knowledge-work-plugins",
+  "path": "partner-built/common-room/skills/weekly-prep-brief/SKILL.md",
+  "url": "https://github.com/anthropics/knowledge-work-plugins/tree/HEAD/partner-built/common-room/skills/weekly-prep-brief/SKILL.md",
+  "license": "Apache-2.0",
+  "body_bytes": 5141,
+  "truncated": false
+}

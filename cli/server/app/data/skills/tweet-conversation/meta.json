@@ -1,0 +1,11 @@
+{
+  "name": "tweet-conversation",
+  "display_name": "Tweet Conversation",
+  "description": "Collects every tweet in an X (Twitter) conversation thread given a conversation id (root tweet id) — the focal tweet plus all replies, sub-replies, and quote chains — and returns normalized per-tweet data with text, author, engagement counts, media, hashtags, mentions, in_reply_to mapping, and cursor for pagination. Use when user mentions Twitter conversation, X conversation thread, conversation_id, thread scraper, scrape Twitter replies, all replies to a tweet, replies under a tweet, sub-replies, nested replies, thread harvester, get replies of a tweet, scrape comments on Twitter, scrape comments on X, full thread extraction, conversation export, conversation tree, reply chain, thread dump, X tweet thread, twitter thread scrape, comment scraping twitter, comment scraping x, focal tweet plus context, root tweet plus replies. Also applies to sentiment analysis on a single viral tweet, controversy mapping, harvesting community Q&A threads, capturing AMA threads, recovering long-running discussions, and any paginated bulk reply collection driven by a conversation id.",
+  "repo": "browser-act/skills",
+  "path": "solutions/social-listening/x-tweet-by-conversation/SKILL.md",
+  "url": "https://github.com/browser-act/skills/tree/HEAD/solutions/social-listening/x-tweet-by-conversation/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 10065,
+  "truncated": false
+}

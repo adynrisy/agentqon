@@ -1,0 +1,11 @@
+{
+  "name": "unity-developer",
+  "display_name": "Unity Developer",
+  "description": "Build Unity games with optimized C# scripts, efficient rendering, and proper asset management. Masters Unity 6 LTS, URP/HDRP pipelines, and cross-platform deployment.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/unity-developer/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/unity-developer/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 10702,
+  "truncated": false
+}

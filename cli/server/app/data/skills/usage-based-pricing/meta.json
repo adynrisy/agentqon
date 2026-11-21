@@ -1,0 +1,11 @@
+{
+  "name": "usage-based-pricing",
+  "display_name": "Usage Based Pricing",
+  "description": "Design pricing models that developers understand, accept, and can predict. Trigger phrases: usage-based pricing, API pricing, metered billing, developer pricing, pricing page, cost calculator, pay as you go, pricing transparency, competitive pricing, developer billing",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/usage-based-pricing/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/usage-based-pricing/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 4579,
+  "truncated": false
+}

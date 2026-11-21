@@ -1,0 +1,11 @@
+{
+  "name": "web-design-guidelines",
+  "display_name": "Web Design Guidelines",
+  "description": "Review files for compliance with Web Interface Guidelines.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/web-design-guidelines/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/web-design-guidelines/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 1337,
+  "truncated": false
+}

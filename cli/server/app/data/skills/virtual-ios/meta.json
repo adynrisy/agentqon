@@ -1,0 +1,11 @@
+{
+  "name": "virtual-ios",
+  "display_name": "Virtual iOS",
+  "description": "Zoom Virtual Agent iOS integration via WKWebView. Use for Swift/Objective-C script injection, message handlers, support_handoff relay, and URL routing policies.",
+  "repo": "anthropics/knowledge-work-plugins",
+  "path": "partner-built/zoom-plugin/skills/virtual-agent/ios/SKILL.md",
+  "url": "https://github.com/anthropics/knowledge-work-plugins/tree/HEAD/partner-built/zoom-plugin/skills/virtual-agent/ios/SKILL.md",
+  "license": "Apache-2.0",
+  "body_bytes": 1031,
+  "truncated": false
+}

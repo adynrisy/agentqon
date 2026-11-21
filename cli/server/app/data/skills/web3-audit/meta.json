@@ -1,0 +1,11 @@
+{
+  "name": "web3-audit",
+  "display_name": "Web3 Audit",
+  "description": "Smart contract security audit",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/web3-audit/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/web3-audit/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 15570,
+  "truncated": false
+}

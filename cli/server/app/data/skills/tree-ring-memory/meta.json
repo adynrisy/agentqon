@@ -1,0 +1,11 @@
+{
+  "name": "tree-ring-memory",
+  "display_name": "Tree Ring Memory",
+  "description": "Use Tree Ring Memory for local-first AI-agent memory lifecycle work: recall, evidence, audit, forgetting, and consolidation without transcript dumping.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/tree-ring-memory/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/tree-ring-memory/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 8072,
+  "truncated": false
+}

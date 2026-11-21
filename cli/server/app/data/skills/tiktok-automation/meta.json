@@ -1,0 +1,11 @@
+{
+  "name": "tiktok-automation",
+  "display_name": "Tiktok Automation",
+  "description": "Automate TikTok tasks via Rube MCP (Composio): upload/publish videos, post photos, manage content, and view user profiles/stats. Always search tools first for current schemas.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/tiktok-automation/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/tiktok-automation/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 6811,
+  "truncated": false
+}

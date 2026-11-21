@@ -1,0 +1,11 @@
+{
+  "name": "video-audio-editing",
+  "display_name": "Video Audio Editing",
+  "description": "Video and audio perception, indexing, and editing. Ingest files/URLs/live streams, build visual/spoken indexes, search with timestamps, edit timelines, add overlays/subtitles, generate media, and create real-time alerts.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/videodb/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/videodb/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 13614,
+  "truncated": false
+}

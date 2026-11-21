@@ -1,0 +1,11 @@
+{
+  "name": "weekly-wrap",
+  "display_name": "Weekly Wrap",
+  "description": "End-of-week summary for a rep or leader - what closed, what moved, what slipped, and what's on deck Monday. Optionally drafts a chat post to the team channel. Use when the user says \"weekly wrap\", \"week in review\", \"what happened this week\", or \"Friday summary\".",
+  "repo": "anthropics/knowledge-work-plugins",
+  "path": "sales/skills/weekly-wrap/SKILL.md",
+  "url": "https://github.com/anthropics/knowledge-work-plugins/tree/HEAD/sales/skills/weekly-wrap/SKILL.md",
+  "license": "Apache-2.0",
+  "body_bytes": 7219,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "verification-before-completion-without",
+  "display_name": "Verification Before Completion · Without",
+  "description": "Claiming work is complete without verification is dishonesty, not efficiency. Use when ANY variation of success/completion claims, ANY expression of satisfaction, or ANY positive statement about work state.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/verification-before-completion/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/verification-before-completion/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 4336,
+  "truncated": false
+}

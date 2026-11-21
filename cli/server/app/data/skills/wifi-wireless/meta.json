@@ -1,0 +1,11 @@
+{
+  "name": "wifi-wireless",
+  "display_name": "Wifi Wireless",
+  "description": "Authorized wireless security assessment: Wi-Fi capture, WPA handshake analysis, rogue AP detection research, and lab-only deauthentication testing.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/wifi-wireless/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/wifi-wireless/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 2263,
+  "truncated": false
+}

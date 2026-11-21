@@ -1,0 +1,11 @@
+{
+  "name": "what-if-oracle",
+  "display_name": "What If Oracle",
+  "description": "Supports structured what-if scenario analysis for research planning, experimental contingencies, and scientific project decisions. Explores favorable, reference, adverse, wild-card, contrarian, and second-order scenarios with explicit assumptions, evidence, and decision triggers. Use to stress-test a research plan under uncertainty; scenario narratives do not estimate causal effects or calibrated forecast probabilities.",
+  "repo": "K-Dense-AI/scientific-agent-skills",
+  "path": "skills/what-if-oracle/SKILL.md",
+  "url": "https://github.com/K-Dense-AI/scientific-agent-skills/tree/HEAD/skills/what-if-oracle/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 11077,
+  "truncated": false
+}

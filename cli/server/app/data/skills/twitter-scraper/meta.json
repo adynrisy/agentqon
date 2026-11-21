@@ -1,0 +1,11 @@
+{
+  "name": "twitter-scraper",
+  "display_name": "Twitter Scraper",
+  "description": "Use Xquik for X data workflows: tweet search, user lookup, follower export, media downloads, monitors, webhooks, REST API, MCP, SDK setup, and approval-gated account actions.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "skills/x-twitter-scraper/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/skills/x-twitter-scraper/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 7598,
+  "truncated": false
+}

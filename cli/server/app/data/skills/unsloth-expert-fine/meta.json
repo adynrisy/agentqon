@@ -1,0 +1,11 @@
+{
+  "name": "unsloth-expert-fine",
+  "display_name": "Unsloth Expert Fine",
+  "description": "Expert guidance for fast fine-tuning with Unsloth - 2-5x faster training, 50-80% less memory, LoRA/QLoRA optimization",
+  "repo": "Orchestra-Research/AI-Research-SKILLs",
+  "path": "03-fine-tuning/unsloth/SKILL.md",
+  "url": "https://github.com/Orchestra-Research/AI-Research-SKILLs/tree/HEAD/03-fine-tuning/unsloth/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 1914,
+  "truncated": false
+}

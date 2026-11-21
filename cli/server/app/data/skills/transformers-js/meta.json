@@ -1,0 +1,11 @@
+{
+  "name": "transformers-js",
+  "display_name": "Transformers JS",
+  "description": "Use Transformers.js to run state-of-the-art machine learning models directly in JavaScript/TypeScript.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/transformers-js/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/transformers-js/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 1363,
+  "truncated": false
+}

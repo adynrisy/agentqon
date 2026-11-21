@@ -1,0 +1,11 @@
+{
+  "name": "typescript-advanced-types",
+  "display_name": "Typescript Advanced Types",
+  "description": "Comprehensive guidance for mastering TypeScript's advanced type system including generics, conditional types, mapped types, template literal types, and utility types for building robust, type-safe applications.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/typescript-advanced-types/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/typescript-advanced-types/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 1403,
+  "truncated": false
+}

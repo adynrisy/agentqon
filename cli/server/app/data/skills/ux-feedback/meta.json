@@ -1,0 +1,11 @@
+{
+  "name": "ux-feedback",
+  "display_name": "UX Feedback",
+  "description": "Add appropriate user feedback states (loading, success, error, empty) to a component or page",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/ux-feedback/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/ux-feedback/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 3588,
+  "truncated": false
+}

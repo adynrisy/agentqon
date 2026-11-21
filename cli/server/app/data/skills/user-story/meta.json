@@ -1,0 +1,11 @@
+{
+  "name": "user-story",
+  "display_name": "User Story",
+  "description": "Generate user stories with acceptance criteria and sprint planning. Usage: /user-story <generate|sprint> [options]",
+  "repo": "alirezarezvani/claude-skills",
+  "path": ".gemini/skills/user-story/SKILL.md",
+  "url": "https://github.com/alirezarezvani/claude-skills/tree/HEAD/.gemini/skills/user-story/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 1011,
+  "truncated": false
+}

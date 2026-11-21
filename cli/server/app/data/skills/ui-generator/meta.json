@@ -1,0 +1,11 @@
+{
+  "name": "ui-generator",
+  "display_name": "UI Generator",
+  "description": "Utilizes Magic by 21st.dev to generate, compare, and integrate multiple production-ready UI component variations.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/magic-ui-generator/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/magic-ui-generator/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 3535,
+  "truncated": false
+}

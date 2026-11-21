@@ -1,0 +1,11 @@
+{
+  "name": "vendor-review",
+  "display_name": "Vendor Review",
+  "description": "Evaluate a vendor — cost analysis, risk assessment, and recommendation. Use when reviewing a new vendor proposal, deciding whether to renew or replace a contract, comparing two vendors side-by-side, or building a TCO breakdown and negotiation points before procurement sign-off.",
+  "repo": "anthropics/knowledge-work-plugins",
+  "path": "operations/skills/vendor-review/SKILL.md",
+  "url": "https://github.com/anthropics/knowledge-work-plugins/tree/HEAD/operations/skills/vendor-review/SKILL.md",
+  "license": "Apache-2.0",
+  "body_bytes": 2804,
+  "truncated": false
+}

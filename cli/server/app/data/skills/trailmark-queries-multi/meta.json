@@ -1,0 +1,11 @@
+{
+  "name": "trailmark-queries-multi",
+  "display_name": "Trailmark Queries Multi",
+  "description": "Builds and queries multi-language source and binary code graphs for security analysis. Includes pre-analysis passes for blast radius, taint propagation, privilege boundaries, entry point enumeration, proxy/unresolved-call tracking, type/reference queries, structural traversal, graph diffs, audit augmentation, declared cross-language/FFI/external links via `.trailmark/links.toml`, and SQL schema graphs. Use when analyzing call paths, mapping attack surface, finding complexity hotspots, enumerating entry points, tracing taint propagation, measuring blast radius, importing SARIF/weAudit/binary findings, linking source graphs across language or RPC boundaries, or building a code graph for audit prioritization. Feature-gate version-specific Trailmark APIs before using them; prefer `trailmark.parse.detect_languages()` or `--language auto` when the target language is unknown or polyglot.",
+  "repo": "trailofbits/skills",
+  "path": "plugins/trailmark/skills/trailmark/SKILL.md",
+  "url": "https://github.com/trailofbits/skills/tree/HEAD/plugins/trailmark/skills/trailmark/SKILL.md",
+  "license": "CC",
+  "body_bytes": 16506,
+  "truncated": false
+}

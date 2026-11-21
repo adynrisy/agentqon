@@ -1,0 +1,11 @@
+{
+  "name": "ticket-deflector",
+  "display_name": "Ticket Deflector",
+  "description": "Reads a forwarded customer email or ticket, pulls order and refund status from a payments connector (PayPal, Square, or Stripe) or Shopify, account history from the CRM, and open tickets from a support desk (Zoho Desk), drafts a tone-matched reply in the owner's writing voice, and can issue a refund through the payments connector with explicit owner approval. With Shopify connected it also runs a proactive order-triage mode that surfaces orders needing attention — unfulfilled past the promised window, payment problems, pending refunds, stuck shipments — and drafts the next action for each before the customer has to ask. Use when the user says \"draft a response,\" \"answer this customer,\" \"where's my order,\" \"I want a refund,\" \"check my orders,\" or \"anything about to blow up.\"",
+  "repo": "anthropics/knowledge-work-plugins",
+  "path": "small-business/skills/ticket-deflector/SKILL.md",
+  "url": "https://github.com/anthropics/knowledge-work-plugins/tree/HEAD/small-business/skills/ticket-deflector/SKILL.md",
+  "license": "Apache-2.0",
+  "body_bytes": 16735,
+  "truncated": false
+}

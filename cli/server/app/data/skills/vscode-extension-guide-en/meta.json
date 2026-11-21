@@ -1,0 +1,11 @@
+{
+  "name": "vscode-extension-guide-en",
+  "display_name": "Vscode Extension Guide En",
+  "description": "Guide for VS Code extension development from scaffolding to Marketplace publication",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/vscode-extension-guide-en/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/vscode-extension-guide-en/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 3189,
+  "truncated": false
+}

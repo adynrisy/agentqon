@@ -1,0 +1,11 @@
+{
+  "name": "verify-document",
+  "display_name": "Verify Document",
+  "description": "Check whether a document (PDF or image) shows signs of tampering or forgery before you rely on it. Use when the user asks to verify a payslip, invoice, bank statement, ID document, contract, or any document where authenticity matters.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/verify-document/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/verify-document/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 3792,
+  "truncated": false
+}

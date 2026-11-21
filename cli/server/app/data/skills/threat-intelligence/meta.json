@@ -1,0 +1,11 @@
+{
+  "name": "threat-intelligence",
+  "display_name": "Threat Intelligence",
+  "description": "Authorized OSINT and cyber threat intelligence: enriching IOCs, campaigns, impersonation, scams, and threat-actor profiles from public sources with defined boundaries.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/threat-intelligence/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/threat-intelligence/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 6889,
+  "truncated": false
+}

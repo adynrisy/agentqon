@@ -1,0 +1,11 @@
+{
+  "name": "threat-hunting",
+  "display_name": "Threat Hunting",
+  "description": "Blue-team threat hunting: detection engineering with Sigma/YARA, SIEM query design, and validation of incident detections against known technique patterns.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/threat-hunting/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/threat-hunting/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 2019,
+  "truncated": false
+}

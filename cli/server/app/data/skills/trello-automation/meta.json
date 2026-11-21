@@ -1,0 +1,11 @@
+{
+  "name": "trello-automation",
+  "display_name": "Trello Automation",
+  "description": "Automate Trello boards, cards, and workflows via Rube MCP (Composio). Create cards, manage lists, assign members, and search across boards programmatically.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/trello-automation/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/trello-automation/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 8005,
+  "truncated": false
+}

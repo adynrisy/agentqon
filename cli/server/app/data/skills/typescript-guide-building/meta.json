@@ -1,0 +1,11 @@
+{
+  "name": "typescript-guide-building",
+  "display_name": "Typescript Guide Building",
+  "description": "Guide for building reliable, fault-tolerant TypeScript applications with DBOS durable workflows. Use when adding DBOS to existing TypeScript code, creating workflows and steps, or using queues for concurrency control.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/dbos-typescript/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/dbos-typescript/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 2897,
+  "truncated": false
+}

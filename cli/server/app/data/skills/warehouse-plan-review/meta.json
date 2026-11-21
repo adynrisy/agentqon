@@ -1,0 +1,11 @@
+{
+  "name": "warehouse-plan-review",
+  "display_name": "Warehouse Plan Review",
+  "description": "Plan and review read-only data warehouse analysis with explicit scope, privacy, provenance, and validation checks.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/warehouse/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/warehouse/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 6484,
+  "truncated": false
+}

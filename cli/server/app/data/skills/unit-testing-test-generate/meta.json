@@ -1,0 +1,11 @@
+{
+  "name": "unit-testing-test-generate",
+  "display_name": "Unit Testing Test Generate",
+  "description": "Generate comprehensive, maintainable unit tests across languages with strong coverage and edge case focus.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/unit-testing-test-generate/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/unit-testing-test-generate/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 10876,
+  "truncated": false
+}

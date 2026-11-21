@@ -1,0 +1,11 @@
+{
+  "name": "variance-analysis",
+  "display_name": "Variance Analysis",
+  "description": "Decompose financial variances into drivers with narrative explanations and waterfall analysis. Use when analyzing budget vs. actual, period-over-period changes, revenue or expense variances, or preparing variance commentary for leadership.",
+  "repo": "anthropics/knowledge-work-plugins",
+  "path": "finance/skills/variance-analysis/SKILL.md",
+  "url": "https://github.com/anthropics/knowledge-work-plugins/tree/HEAD/finance/skills/variance-analysis/SKILL.md",
+  "license": "Apache-2.0",
+  "body_bytes": 10892,
+  "truncated": false
+}

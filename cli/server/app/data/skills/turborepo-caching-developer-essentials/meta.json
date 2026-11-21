@@ -1,0 +1,11 @@
+{
+  "name": "turborepo-caching-developer-essentials",
+  "display_name": "Turborepo Caching · Developer Essentials",
+  "description": "Configure Turborepo for efficient monorepo builds with local and remote caching. Use when setting up Turborepo, optimizing build pipelines, or implementing distributed caching.",
+  "repo": "wshobson/agents",
+  "path": "plugins/developer-essentials/skills/turborepo-caching/SKILL.md",
+  "url": "https://github.com/wshobson/agents/tree/HEAD/plugins/developer-essentials/skills/turborepo-caching/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 7978,
+  "truncated": false
+}

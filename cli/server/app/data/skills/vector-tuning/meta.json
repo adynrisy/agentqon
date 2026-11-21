@@ -1,0 +1,11 @@
+{
+  "name": "vector-tuning",
+  "display_name": "Vector Tuning",
+  "description": "Optimize vector index performance for latency, recall, and memory. Use when tuning HNSW parameters, selecting quantization strategies, or scaling vector search infrastructure.",
+  "repo": "wshobson/agents",
+  "path": "plugins/llm-application-dev/skills/vector-index-tuning/SKILL.md",
+  "url": "https://github.com/wshobson/agents/tree/HEAD/plugins/llm-application-dev/skills/vector-index-tuning/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 2101,
+  "truncated": false
+}

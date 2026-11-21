@@ -1,0 +1,11 @@
+{
+  "name": "tweet-handle",
+  "display_name": "Tweet Handle",
+  "description": "Scrapes tweets from an X (Twitter) user profile timeline given a handle, with selectable mode: tweets, tweets+replies, or media-only. Returns normalized per-tweet data including text, author profile, engagement counts, media, hashtags, mentions, and cursor for pagination. Use when user mentions X user tweets, Twitter user tweets, profile timeline, user feed, @handle tweets, scrape Twitter user, scrape X account, get all tweets from a user, scrape user timeline, download user posts, export tweets from user, with_replies tab, replies tab Twitter, media tab Twitter, photos of user Twitter, videos of user Twitter, latest tweets from user, recent tweets from account, KOL tweets, influencer tweet history, account post extraction, twitter handle scraper, x handle scraper, get tweets by username, monitor a Twitter account, monitor an X account, daily tweet export from handle, scrape from:username, twitter profile posts, x profile posts, by handle, by username. Also applies to building a creator backlog, tracking competitor accounts, populating quote-tweet research datasets, or any paginated bulk collection driven by a single user handle.",
+  "repo": "browser-act/skills",
+  "path": "solutions/social-listening/x-tweet-by-handle/SKILL.md",
+  "url": "https://github.com/browser-act/skills/tree/HEAD/solutions/social-listening/x-tweet-by-handle/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 9260,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "user-this",
+  "display_name": "User This",
+  "description": "Only use when the user explicitly invokes this skill by name.",
+  "repo": "humanlayer/skills",
+  "path": "plugins/rpi/skills/rpi/SKILL.md",
+  "url": "https://github.com/humanlayer/skills/tree/HEAD/plugins/rpi/skills/rpi/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 4836,
+  "truncated": false
+}

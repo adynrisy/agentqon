@@ -1,0 +1,11 @@
+{
+  "name": "virtual-android",
+  "display_name": "Virtual Android",
+  "description": "Zoom Virtual Agent Android integration via WebView. Use for Java/Kotlin bridge callbacks, native URL handling, support_handoff relay, and lifecycle-safe embedding.",
+  "repo": "anthropics/knowledge-work-plugins",
+  "path": "partner-built/zoom-plugin/skills/virtual-agent/android/SKILL.md",
+  "url": "https://github.com/anthropics/knowledge-work-plugins/tree/HEAD/partner-built/zoom-plugin/skills/virtual-agent/android/SKILL.md",
+  "license": "Apache-2.0",
+  "body_bytes": 1094,
+  "truncated": false
+}

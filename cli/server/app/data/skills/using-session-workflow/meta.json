@@ -1,0 +1,11 @@
+{
+  "name": "using-session-workflow",
+  "display_name": "Using Session Workflow",
+  "description": "Discovers and invokes agent skills. Use when starting a session, or when you need to decide which skill or workflow applies to the piece of work at hand. This is the meta-skill that governs how all other skills are discovered and invoked.",
+  "repo": "addyosmani/agent-skills",
+  "path": "skills/using-agent-skills/SKILL.md",
+  "url": "https://github.com/addyosmani/agent-skills/tree/HEAD/skills/using-agent-skills/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 10160,
+  "truncated": false
+}

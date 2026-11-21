@@ -1,0 +1,11 @@
+{
+  "name": "web-media-getter",
+  "display_name": "Web Media Getter",
+  "description": "One query across free image / video / GIF APIs (stock + historical/archival + GIF engines), returning normalized, license-tagged results with optional top-K download + attribution sidecar. The retrieval peer to local semantic search and generative media.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/web-media-getter/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/web-media-getter/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 5071,
+  "truncated": false
+}

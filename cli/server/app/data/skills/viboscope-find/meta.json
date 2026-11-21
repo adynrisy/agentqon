@@ -1,0 +1,11 @@
+{
+  "name": "viboscope-find",
+  "display_name": "Viboscope Find",
+  "description": "Psychological compatibility matching — find cofounders, collaborators, and friends through validated psychometrics",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/viboscope/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/viboscope/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 2050,
+  "truncated": false
+}

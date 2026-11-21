@@ -1,0 +1,11 @@
+{
+  "name": "track-management",
+  "display_name": "Track Management",
+  "description": "Use this skill when creating, managing, or working with Conductor tracks - the logical work units for features, bugs, and refactors. Applies to spec.md, plan.md, and track lifecycle operations.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/track-management/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/track-management/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 1341,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "tiktok-shop-inventory",
+  "display_name": "Tiktok Shop Inventory",
+  "description": "Inventory management for TikTok Shop — demand forecasting, viral stock planning, FBT optimization",
+  "repo": "nexscope-ai/eCommerce-Skills",
+  "path": "tiktok-shop-inventory/SKILL.md",
+  "url": "https://github.com/nexscope-ai/eCommerce-Skills/tree/HEAD/tiktok-shop-inventory/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 1587,
+  "truncated": false
+}

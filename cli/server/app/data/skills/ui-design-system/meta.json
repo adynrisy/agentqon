@@ -1,0 +1,11 @@
+{
+  "name": "ui-design-system",
+  "display_name": "UI Design System",
+  "description": "UI design system toolkit for Senior UI Designer including design token generation, component documentation, responsive design calculations, and developer handoff tools. Use when creating design systems, generating design tokens, maintaining visual consistency, or facilitating design-dev collaboration and developer handoff.",
+  "repo": "alirezarezvani/claude-skills",
+  "path": ".gemini/skills/ui-design-system/SKILL.md",
+  "url": "https://github.com/alirezarezvani/claude-skills/tree/HEAD/.gemini/skills/ui-design-system/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 10417,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "using-meta-work",
+  "display_name": "Using Meta Work",
+  "description": "Meta-skill for discovering and invoking the right agent skill for the work at hand, applied at session start.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/using-agent-skills/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/using-agent-skills/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 11078,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "voice-cloning-studio",
+  "display_name": "Voice Cloning Studio",
+  "description": "Install and use the official AI Voice Cloning package, pinned by digest, for paid hosted work on the Beatra service.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/voice-cloning-studio/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/voice-cloning-studio/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 14337,
+  "truncated": false
+}

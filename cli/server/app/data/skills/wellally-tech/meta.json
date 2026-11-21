@@ -1,0 +1,11 @@
+{
+  "name": "wellally-tech",
+  "display_name": "Wellally Tech",
+  "description": "Integrate multiple digital health data sources, connect to [WellAlly.tech](https://www.wellally.tech/) knowledge base, providing data import and knowledge reference for personal health management systems.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/wellally-tech/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/wellally-tech/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 9272,
+  "truncated": false
+}

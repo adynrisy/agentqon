@@ -1,0 +1,11 @@
+{
+  "name": "voice-ai-engine-development",
+  "display_name": "Voice AI Engine Development",
+  "description": "Build real-time conversational AI voice engines using async worker pipelines, streaming transcription, LLM agents, and TTS synthesis with interrupt handling and multi-provider support",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/voice-ai-engine-development/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/voice-ai-engine-development/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 1110,
+  "truncated": false
+}

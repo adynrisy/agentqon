@@ -1,0 +1,11 @@
+{
+  "name": "venue-templates",
+  "display_name": "Venue Templates",
+  "description": "Prepares journal manuscripts, conference papers, research posters, and grant documents using venue-specific formatting guidance and bundled LaTeX scaffolds. Supports selecting an official template, checking current page or anonymity rules, adapting academic writing to a venue, or inspecting a submission PDF.",
+  "repo": "K-Dense-AI/scientific-agent-skills",
+  "path": "skills/venue-templates/SKILL.md",
+  "url": "https://github.com/K-Dense-AI/scientific-agent-skills/tree/HEAD/skills/venue-templates/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 12672,
+  "truncated": false
+}

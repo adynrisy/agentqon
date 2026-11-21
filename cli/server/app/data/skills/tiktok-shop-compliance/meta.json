@@ -1,0 +1,11 @@
+{
+  "name": "tiktok-shop-compliance",
+  "display_name": "Tiktok Shop Compliance",
+  "description": "TikTok Shop policies and compliance — restricted products, intellectual property, content guidelines",
+  "repo": "nexscope-ai/eCommerce-Skills",
+  "path": "tiktok-shop-compliance/SKILL.md",
+  "url": "https://github.com/nexscope-ai/eCommerce-Skills/tree/HEAD/tiktok-shop-compliance/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 1595,
+  "truncated": false
+}

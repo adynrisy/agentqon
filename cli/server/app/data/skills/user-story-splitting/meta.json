@@ -1,0 +1,11 @@
+{
+  "name": "user-story-splitting",
+  "display_name": "User Story Splitting",
+  "description": "Break a large story or epic into smaller deliverable stories using proven split patterns. Use when backlog items are too big for estimation, sequencing, or independent release.",
+  "repo": "deanpeters/Product-Manager-Skills",
+  "path": "skills/user-story-splitting/SKILL.md",
+  "url": "https://github.com/deanpeters/Product-Manager-Skills/tree/HEAD/skills/user-story-splitting/SKILL.md",
+  "license": "CC",
+  "body_bytes": 11707,
+  "truncated": false
+}

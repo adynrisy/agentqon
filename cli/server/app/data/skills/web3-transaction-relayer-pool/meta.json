@@ -1,0 +1,11 @@
+{
+  "name": "web3-transaction-relayer-pool",
+  "display_name": "Web3 Transaction Relayer Pool",
+  "description": "Gasless transaction relayer node pool register: fee sponsorship limits, nonce synchronization, and balance replenishment alerts.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/web3-transaction-relayer-pool/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/web3-transaction-relayer-pool/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 4936,
+  "truncated": false
+}
