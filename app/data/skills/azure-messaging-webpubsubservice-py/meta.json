@@ -1,0 +1,11 @@
+{
+  "name": "azure-messaging-webpubsubservice-py",
+  "display_name": "Azure Messaging Webpubsubservice Py",
+  "description": "Azure Web PubSub Service SDK for Python. Use for real-time messaging, WebSocket connections, and pub/sub patterns.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/azure-messaging-webpubsubservice-py/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/azure-messaging-webpubsubservice-py/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 5845,
+  "truncated": false
+}

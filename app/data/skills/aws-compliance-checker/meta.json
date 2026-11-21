@@ -1,0 +1,11 @@
+{
+  "name": "aws-compliance-checker",
+  "display_name": "AWS Compliance Checker",
+  "description": "Automated compliance checking against CIS, PCI-DSS, HIPAA, and SOC 2 benchmarks",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/security/aws-compliance-checker/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/security/aws-compliance-checker/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 1184,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "azure-ts",
+  "display_name": "Azure TS",
+  "description": "Centralized configuration management with feature flags and dynamic refresh.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/azure-appconfiguration-ts/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/azure-appconfiguration-ts/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 8356,
+  "truncated": false
+}

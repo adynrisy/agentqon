@@ -1,0 +1,11 @@
+{
+  "name": "browser-testing-devtools-test",
+  "display_name": "Browser Testing Devtools · Test",
+  "description": "Test browser apps with Chrome DevTools MCP by inspecting live DOM, console logs, network traffic, screenshots, accessibility, and performance traces.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/browser-testing-with-devtools/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/browser-testing-with-devtools/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 14558,
+  "truncated": false
+}

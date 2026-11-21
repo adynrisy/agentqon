@@ -1,0 +1,11 @@
+{
+  "name": "azure-security-secrets-java",
+  "display_name": "Azure Security Secrets Java",
+  "description": "Azure Key Vault Secrets Java SDK for secret management. Use when storing, retrieving, or managing passwords, API keys, connection strings, or other sensitive configuration data.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/azure-security-keyvault-secrets-java/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/azure-security-keyvault-secrets-java/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 11550,
+  "truncated": false
+}

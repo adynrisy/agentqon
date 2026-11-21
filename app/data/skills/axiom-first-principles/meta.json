@@ -1,0 +1,11 @@
+{
+  "name": "axiom-first-principles",
+  "display_name": "Axiom First Principles",
+  "description": "First-principles assumption auditor. Classifies each hidden assumption (fact / convention / belief / interest-driven), ranks by fragility × impact, and rebuilds conclusions from verified premises. Bilingual: auto-detects Chinese or English.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/axiom/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/axiom/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 12992,
+  "truncated": false
+}

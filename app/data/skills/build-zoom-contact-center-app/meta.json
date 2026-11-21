@@ -1,0 +1,11 @@
+{
+  "name": "build-zoom-contact-center-app",
+  "display_name": "Build Zoom Contact Center App",
+  "description": "Reference skill for Zoom Contact Center. Use after routing to a contact-center workflow when implementing app, web, or native integrations; engagement context and state handling; campaigns; callbacks; or version-drift troubleshooting.",
+  "repo": "anthropics/knowledge-work-plugins",
+  "path": "partner-built/zoom-plugin/skills/contact-center/SKILL.md",
+  "url": "https://github.com/anthropics/knowledge-work-plugins/tree/HEAD/partner-built/zoom-plugin/skills/contact-center/SKILL.md",
+  "license": "Apache-2.0",
+  "body_bytes": 4523,
+  "truncated": false
+}

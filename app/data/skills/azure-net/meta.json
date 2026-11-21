@@ -1,0 +1,11 @@
+{
+  "name": "azure-net",
+  "display_name": "Azure .NET",
+  "description": "Azure Event Grid SDK for .NET. Client library for publishing and consuming events with Azure Event Grid. Use for event-driven architectures, pub/sub messaging, CloudEvents, and EventGridEvents.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/azure-eventgrid-dotnet/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/azure-eventgrid-dotnet/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 13269,
+  "truncated": false
+}

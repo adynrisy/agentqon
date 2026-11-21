@@ -1,0 +1,11 @@
+{
+  "name": "azure-ai-projects-ts",
+  "display_name": "Azure AI Projects TS",
+  "description": "High-level SDK for Azure AI Foundry projects with agents, connections, deployments, and evaluations.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/azure-ai-projects-ts/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/azure-ai-projects-ts/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 7044,
+  "truncated": false
+}

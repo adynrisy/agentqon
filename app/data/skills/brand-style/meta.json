@@ -1,0 +1,11 @@
+{
+  "name": "brand-style",
+  "display_name": "Brand Style",
+  "description": "Sets and updates the owner's brand look and output preferences, which every page and document the plugin produces then follows automatically. Captures the brand from a pasted website link or a plain-words description — never a hex code, color picker, or upload — previews it on a sample page, asks how they want their outputs delivered (visual artifacts, Word docs, markdown, Notion pages, Canva Docs, or best-for-the-skill), and saves both to the business profile. Runs inside smb-onboard on first setup and stands alone forever after. Use when the owner says \"update my brand,\" \"we rebranded,\" \"change my colors,\" \"make the reports match our new look,\" \"change how you give me reports,\" \"I want Word docs instead,\" or anything about the look or format of what the plugin hands them.",
+  "repo": "anthropics/knowledge-work-plugins",
+  "path": "small-business/skills/brand-style/SKILL.md",
+  "url": "https://github.com/anthropics/knowledge-work-plugins/tree/HEAD/small-business/skills/brand-style/SKILL.md",
+  "license": "Apache-2.0",
+  "body_bytes": 4254,
+  "truncated": false
+}

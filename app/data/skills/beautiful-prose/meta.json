@@ -1,0 +1,11 @@
+{
+  "name": "beautiful-prose",
+  "display_name": "Beautiful Prose",
+  "description": "A hard-edged writing style contract for timeless, forceful English prose without modern AI tics. Use when users ask for prose or rewrites that must be clean, exact, concrete, and free of AI cadence, filler, or therapeutic tone.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/beautiful-prose/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/beautiful-prose/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 5319,
+  "truncated": false
+}

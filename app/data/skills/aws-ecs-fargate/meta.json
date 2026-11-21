@@ -1,0 +1,11 @@
+{
+  "name": "aws-ecs-fargate",
+  "display_name": "AWS Ecs Fargate",
+  "description": "Deploy containers on ECS and Fargate. Configure task definitions, services, and load balancing. Use when running containerized workloads on AWS.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/aws-ecs-fargate/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/aws-ecs-fargate/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 11156,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "aws-cost-cleanup",
+  "display_name": "AWS Cost Cleanup",
+  "description": "Automated cleanup of unused AWS resources to reduce costs",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/aws-cost-cleanup/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/aws-cost-cleanup/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 8141,
+  "truncated": false
+}

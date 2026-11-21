@@ -1,0 +1,11 @@
+{
+  "name": "azure-ai-translation-ts",
+  "display_name": "Azure AI Translation TS",
+  "description": "Text and document translation with REST-style clients.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/azure-ai-translation-ts/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/azure-ai-translation-ts/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 7287,
+  "truncated": false
+}

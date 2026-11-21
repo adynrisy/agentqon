@@ -1,0 +1,11 @@
+{
+  "name": "azure-py-azure-eventhub-py",
+  "display_name": "Azure Py · Azure Eventhub Py",
+  "description": "Azure Event Hubs SDK for Python streaming. Use for high-throughput event ingestion, producers, consumers, and checkpointing.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/azure-eventhub-py/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/azure-eventhub-py/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 7507,
+  "truncated": false
+}

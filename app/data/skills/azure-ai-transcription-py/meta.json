@@ -1,0 +1,11 @@
+{
+  "name": "azure-ai-transcription-py",
+  "display_name": "Azure AI Transcription Py",
+  "description": "Azure AI Transcription SDK for Python. Use for audio-file transcription with timestamps; distinguish this client from streaming and asynchronous batch Speech APIs.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/azure-ai-transcription-py/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/azure-ai-transcription-py/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 1914,
+  "truncated": false
+}

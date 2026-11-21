@@ -1,0 +1,11 @@
+{
+  "name": "azure-search-documents-net",
+  "display_name": "Azure Search Documents .NET",
+  "description": "Azure AI Search SDK for .NET (Azure.Search.Documents). Use for building search applications with full-text, vector, semantic, and hybrid search.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/azure-search-documents-dotnet/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/azure-search-documents-dotnet/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 9626,
+  "truncated": false
+}

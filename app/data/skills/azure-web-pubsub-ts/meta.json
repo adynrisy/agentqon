@@ -1,0 +1,11 @@
+{
+  "name": "azure-web-pubsub-ts",
+  "display_name": "Azure Web Pubsub TS",
+  "description": "Real-time messaging with WebSocket connections and pub/sub patterns.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/azure-web-pubsub-ts/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/azure-web-pubsub-ts/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 7723,
+  "truncated": false
+}

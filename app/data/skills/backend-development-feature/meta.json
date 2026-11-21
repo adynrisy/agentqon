@@ -1,0 +1,11 @@
+{
+  "name": "backend-development-feature",
+  "display_name": "Backend Development Feature",
+  "description": "Orchestrate end-to-end backend feature development from requirements to deployment. Use when coordinating multi-phase feature delivery across teams and services.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/backend-development-feature-development/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/backend-development-feature-development/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 11396,
+  "truncated": false
+}

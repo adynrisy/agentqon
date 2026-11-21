@@ -1,0 +1,11 @@
+{
+  "name": "azure-communication-callautomation-java",
+  "display_name": "Azure Communication Callautomation Java",
+  "description": "Build server-side call automation workflows including IVR systems, call routing, recording, and AI-powered interactions.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/azure-communication-callautomation-java/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/azure-communication-callautomation-java/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 8447,
+  "truncated": false
+}

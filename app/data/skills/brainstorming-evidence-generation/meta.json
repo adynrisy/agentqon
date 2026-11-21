@@ -1,0 +1,11 @@
+{
+  "name": "brainstorming-evidence-generation",
+  "display_name": "Brainstorming Evidence Generation",
+  "description": "Facilitates evidence-aware scientific ideation with independent generation, structured discussion, explicit assumptions, transparent evaluation, adversarial review, and decision logs. Use for early-stage research brainstorming or prioritizing candidate directions; hand off empirical validation, study design, ethics or regulatory review, and clinical questions to appropriate experts or skills.",
+  "repo": "K-Dense-AI/scientific-agent-skills",
+  "path": "skills/scientific-brainstorming/SKILL.md",
+  "url": "https://github.com/K-Dense-AI/scientific-agent-skills/tree/HEAD/skills/scientific-brainstorming/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 13896,
+  "truncated": false
+}

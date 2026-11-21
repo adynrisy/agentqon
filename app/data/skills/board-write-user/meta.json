@@ -1,0 +1,11 @@
+{
+  "name": "board-write-user",
+  "display_name": "Board Write User",
+  "description": "Read, write, and browse the AgentHub message board for agent coordination. Use when the user runs /hub:board or asks to post, read, or inspect coordination messages between competing AgentHub agents.",
+  "repo": "alirezarezvani/claude-skills",
+  "path": ".gemini/skills/board/SKILL.md",
+  "url": "https://github.com/alirezarezvani/claude-skills/tree/HEAD/.gemini/skills/board/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 2191,
+  "truncated": false
+}

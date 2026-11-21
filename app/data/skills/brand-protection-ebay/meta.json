@@ -1,0 +1,11 @@
+{
+  "name": "brand-protection-ebay",
+  "display_name": "Brand Protection Ebay",
+  "description": "eBay brand protection toolkit. Detect unauthorized sellers, counterfeits, and VeRO violations. Includes price monitoring, trademark abuse detection, VeRO complaint templates, and enforcement guides. No API key required.",
+  "repo": "nexscope-ai/eCommerce-Skills",
+  "path": "brand-protection/brand-protection-ebay/SKILL.md",
+  "url": "https://github.com/nexscope-ai/eCommerce-Skills/tree/HEAD/brand-protection/brand-protection-ebay/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 2711,
+  "truncated": false
+}

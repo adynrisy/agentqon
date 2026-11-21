@@ -1,0 +1,11 @@
+{
+  "name": "azure-ai-document-intelligence-ts",
+  "display_name": "Azure AI Document Intelligence TS",
+  "description": "Extract text, tables, and structured data from documents using prebuilt and custom models.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/azure-ai-document-intelligence-ts/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/azure-ai-document-intelligence-ts/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 9219,
+  "truncated": false
+}

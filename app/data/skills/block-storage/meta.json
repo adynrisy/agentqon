@@ -1,0 +1,11 @@
+{
+  "name": "block-storage",
+  "display_name": "Block Storage",
+  "description": "Manage block storage volumes and LVM. Configure cloud block storage and local disks. Use when managing disk storage.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/block-storage/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/block-storage/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 10253,
+  "truncated": false
+}

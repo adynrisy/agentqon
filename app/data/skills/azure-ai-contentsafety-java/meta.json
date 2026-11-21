@@ -1,0 +1,11 @@
+{
+  "name": "azure-ai-contentsafety-java",
+  "display_name": "Azure AI Contentsafety Java",
+  "description": "Build content moderation applications using the Azure AI Content Safety SDK for Java.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/azure-ai-contentsafety-java/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/azure-ai-contentsafety-java/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 7861,
+  "truncated": false
+}

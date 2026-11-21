@@ -1,0 +1,11 @@
+{
+  "name": "azd-deployment",
+  "display_name": "Azd Deployment",
+  "description": "Prepare and verify authorized Azure Container Apps deployments with azd. Use for azure.yaml, Bicep, remote builds, managed identity and post-deploy checks.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/azd-deployment/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/azd-deployment/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 11136,
+  "truncated": false
+}

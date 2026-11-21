@@ -1,0 +1,11 @@
+{
+  "name": "axonx-research-cli",
+  "display_name": "Axonx Research CLI",
+  "description": "Develop AxonX research plugins and operate quantitative research tasks through CLI or MCP, inspecting execution status, logs, artifacts, and lineage.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/axonx/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/axonx/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 38405,
+  "truncated": false
+}

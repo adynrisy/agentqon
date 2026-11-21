@@ -1,0 +1,11 @@
+{
+  "name": "blockrun-code-google",
+  "display_name": "Blockrun Code Google",
+  "description": "BlockRun works with Claude Code and Google Antigravity.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "skills/blockrun/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/skills/blockrun/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 8987,
+  "truncated": false
+}

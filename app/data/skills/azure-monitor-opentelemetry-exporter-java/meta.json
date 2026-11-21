@@ -1,0 +1,11 @@
+{
+  "name": "azure-monitor-opentelemetry-exporter-java",
+  "display_name": "Azure Monitor Opentelemetry Exporter Java",
+  "description": "Azure Monitor OpenTelemetry Exporter for Java. Export OpenTelemetry traces, metrics, and logs to Azure Monitor/Application Insights.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/azure-monitor-opentelemetry-exporter-java/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/azure-monitor-opentelemetry-exporter-java/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 8644,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "build-ui",
+  "display_name": "Build UI",
+  "description": "Step-by-step workflow for UI work: read the project, follow the plan for the job (new screen, dashboard, polish, simplify, review), then render, fix and check again.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/build-ui/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/build-ui/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 7037,
+  "truncated": false
+}

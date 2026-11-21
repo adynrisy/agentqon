@@ -1,0 +1,11 @@
+{
+  "name": "board-prep",
+  "display_name": "Board Prep",
+  "description": "Board meeting preparation for the adversarial scenario, not the friendly one. Forces numbers-cold mastery, anticipates hard questions, builds a narrative that acknowledges weakness without losing the room. Use when preparing for a board meeting, an investor update, fundraising presentation, or any high-stakes adversarial review where every number must live in your head not just on a slide.",
+  "repo": "alirezarezvani/claude-skills",
+  "path": ".gemini/skills/board-prep/SKILL.md",
+  "url": "https://github.com/alirezarezvani/claude-skills/tree/HEAD/.gemini/skills/board-prep/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 6224,
+  "truncated": false
+}

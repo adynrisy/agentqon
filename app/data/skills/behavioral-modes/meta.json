@@ -1,0 +1,11 @@
+{
+  "name": "behavioral-modes",
+  "display_name": "Behavioral Modes",
+  "description": "AI operational modes (brainstorm, implement, debug, review, teach, ship, orchestrate). Use to adapt behavior based on task type.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/behavioral-modes/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/behavioral-modes/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 5595,
+  "truncated": false
+}

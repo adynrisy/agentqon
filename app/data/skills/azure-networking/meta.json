@@ -1,0 +1,11 @@
+{
+  "name": "azure-networking",
+  "display_name": "Azure Networking",
+  "description": "Configure Azure VNets, NSGs, and Azure Firewall. Implement hub-spoke topology and private endpoints. Use when designing Azure network infrastructure.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/azure-networking/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/azure-networking/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 11601,
+  "truncated": false
+}

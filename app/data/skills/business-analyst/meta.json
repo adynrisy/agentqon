@@ -1,0 +1,11 @@
+{
+  "name": "business-analyst",
+  "display_name": "Business Analyst",
+  "description": "Master modern business analysis with AI-powered analytics, real-time dashboards, and data-driven insights. Build comprehensive KPI frameworks, predictive models, and strategic recommendations.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/business-analyst/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/business-analyst/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 7807,
+  "truncated": false
+}

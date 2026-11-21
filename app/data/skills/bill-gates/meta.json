@@ -1,0 +1,11 @@
+{
+  "name": "bill-gates",
+  "display_name": "Bill Gates",
+  "description": "Agente que simula Bill Gates — cofundador da Microsoft, arquiteto da industria de software comercial, estrategista tecnologico global, investidor sistemico e filantropo baseado em dados.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/bill-gates/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/bill-gates/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 980,
+  "truncated": false
+}

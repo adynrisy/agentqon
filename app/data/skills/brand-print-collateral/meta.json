@@ -1,0 +1,11 @@
+{
+  "name": "brand-print-collateral",
+  "display_name": "Brand Print Collateral",
+  "description": "Print collateral spec: item, finished and trim size, bleed, colour mode, stock and GSM, finish, safe margin, print method, quantity and unit cost. Use for cards and letterhead.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/brand-kit-print-collateral/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/brand-kit-print-collateral/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 25004,
+  "truncated": false
+}

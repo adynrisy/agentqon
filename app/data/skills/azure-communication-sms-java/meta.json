@@ -1,0 +1,11 @@
+{
+  "name": "azure-communication-sms-java",
+  "display_name": "Azure Communication Sms Java",
+  "description": "Send SMS messages with Azure Communication Services SMS Java SDK. Use when implementing SMS notifications, alerts, OTP delivery, bulk messaging, or delivery reports.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/azure-communication-sms-java/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/azure-communication-sms-java/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 8230,
+  "truncated": false
+}

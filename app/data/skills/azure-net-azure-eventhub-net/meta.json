@@ -1,0 +1,11 @@
+{
+  "name": "azure-net-azure-eventhub-net",
+  "display_name": "Azure .NET · Azure Eventhub .NET",
+  "description": "Azure Event Hubs SDK for .NET.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/azure-eventhub-dotnet/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/azure-eventhub-dotnet/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 10271,
+  "truncated": false
+}

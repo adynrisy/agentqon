@@ -1,0 +1,11 @@
+{
+  "name": "azure-arizeaiobservabilityeval-net",
+  "display_name": "Azure Arizeaiobservabilityeval .NET",
+  "description": "Azure Resource Manager SDK for Arize AI Observability and Evaluation (.NET).",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/azure-mgmt-arizeaiobservabilityeval-dotnet/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/azure-mgmt-arizeaiobservabilityeval-dotnet/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 7205,
+  "truncated": false
+}

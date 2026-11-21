@@ -1,0 +1,11 @@
+{
+  "name": "busabase-workspace-knowledge",
+  "display_name": "Busabase Workspace Knowledge",
+  "description": "Use when managing Busabase workspace records, knowledge, apps, or skills through permission-aware ChangeRequests with auditable history.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/busabase/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/busabase/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 8766,
+  "truncated": false
+}

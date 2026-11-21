@@ -1,0 +1,11 @@
+{
+  "name": "azure-resource-manager-mysql-net",
+  "display_name": "Azure Resource Manager Mysql .NET",
+  "description": "Azure MySQL Flexible Server SDK for .NET. Database management for MySQL Flexible Server deployments.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/azure-resource-manager-mysql-dotnet/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/azure-resource-manager-mysql-dotnet/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 13485,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "aws-cost-operations",
+  "display_name": "AWS Cost Operations",
+  "description": "AWS cost optimization, monitoring, and operational excellence expert. Use when analyzing AWS bills, estimating costs, setting up CloudWatch alarms, querying logs, auditing CloudTrail activity, or assessing security posture.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/aws-cost-operations/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/aws-cost-operations/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 8913,
+  "truncated": false
+}

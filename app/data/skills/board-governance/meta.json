@@ -1,0 +1,11 @@
+{
+  "name": "board-governance",
+  "display_name": "Board Governance",
+  "description": "Board and governance register: meeting date, agenda, decision, resolution number, vote result, action owner and due date. Use for board packs and action tracking.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/board-governance/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/board-governance/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 16132,
+  "truncated": false
+}

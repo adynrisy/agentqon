@@ -1,0 +1,11 @@
+{
+  "name": "azure-storage-file-datalake-py",
+  "display_name": "Azure Storage File Datalake Py",
+  "description": "Azure Data Lake Storage Gen2 SDK for Python. Use for hierarchical file systems, big data analytics, and file/directory operations.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/azure-storage-file-datalake-py/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/azure-storage-file-datalake-py/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 5555,
+  "truncated": false
+}

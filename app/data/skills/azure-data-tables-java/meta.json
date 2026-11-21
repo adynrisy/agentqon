@@ -1,0 +1,11 @@
+{
+  "name": "azure-data-tables-java",
+  "display_name": "Azure Data Tables Java",
+  "description": "Build table storage applications using the Azure Tables SDK for Java. Works with both Azure Table Storage and Cosmos DB Table API.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/azure-data-tables-java/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/azure-data-tables-java/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 9075,
+  "truncated": false
+}

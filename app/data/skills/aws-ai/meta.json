@@ -1,0 +1,11 @@
+{
+  "name": "aws-ai",
+  "display_name": "AWS AI",
+  "description": "AWS Bedrock AgentCore comprehensive expert for deploying and managing AI agents at scale. Use when working with any AgentCore service including Gateway, Runtime, Memory, Identity, Code Interpreter, Browser, Observability, Agent Registry, or Evaluations.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/aws-agentic-ai/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/aws-agentic-ai/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 12265,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "azure-aks",
+  "display_name": "Azure Aks",
+  "description": "Deploy and manage Azure Kubernetes Service clusters. Configure node pools, networking, and integrations. Use when running Kubernetes workloads on Azure.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/azure-aks/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/azure-aks/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 11321,
+  "truncated": false
+}

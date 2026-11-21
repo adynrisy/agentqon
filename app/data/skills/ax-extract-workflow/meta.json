@@ -1,0 +1,11 @@
+{
+  "name": "ax-extract-workflow",
+  "display_name": "Ax Extract Workflow",
+  "description": "Reconstruct workflow behind a past coding-agent artifact using local ax sessions/commits/skills/tool traces. Use when asked how X was built.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/ax-extract-workflow/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/ax-extract-workflow/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 5569,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "azure-monitor-opentelemetry-ts",
+  "display_name": "Azure Monitor Opentelemetry TS",
+  "description": "Auto-instrument Node.js applications with distributed tracing, metrics, and logs.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/azure-monitor-opentelemetry-ts/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/azure-monitor-opentelemetry-ts/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 8443,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "azure-communication-chat-java",
+  "display_name": "Azure Communication Chat Java",
+  "description": "Build real-time chat applications with thread management, messaging, participants, and read receipts.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/azure-communication-chat-java/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/azure-communication-chat-java/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 9597,
+  "truncated": false
+}

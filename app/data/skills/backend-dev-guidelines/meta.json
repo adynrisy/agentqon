@@ -1,0 +1,11 @@
+{
+  "name": "backend-dev-guidelines",
+  "display_name": "Backend Dev Guidelines",
+  "description": "You are a senior backend engineer operating production-grade services under strict architectural and reliability constraints. Use when routes, controllers, services, repositories, express middleware, or prisma database access.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/backend-dev-guidelines/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/backend-dev-guidelines/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 7670,
+  "truncated": false
+}

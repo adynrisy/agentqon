@@ -1,0 +1,11 @@
+{
+  "name": "azure-ai-ml-py",
+  "display_name": "Azure AI ML Py",
+  "description": "Azure Machine Learning SDK v2 for Python. Use for ML workspaces, jobs, models, datasets, compute, and pipelines.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/azure-ai-ml-py/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/azure-ai-ml-py/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 6018,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "behavioral-xray",
+  "display_name": "Behavioral Xray",
+  "description": "X-ray any AI model's behavioral patterns — refusal boundaries, hallucination tendencies, reasoning style, formatting defaults. No API key needed.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/bdistill-behavioral-xray/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/bdistill-behavioral-xray/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 3735,
+  "truncated": false
+}

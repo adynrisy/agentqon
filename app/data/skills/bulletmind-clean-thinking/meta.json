@@ -1,0 +1,11 @@
+{
+  "name": "bulletmind-clean-thinking",
+  "display_name": "Bulletmind Clean Thinking",
+  "description": "Convert input into clean, structured, hierarchical bullet points for summarization, note-taking, and structured thinking.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/bulletmind/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/bulletmind/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 3269,
+  "truncated": false
+}

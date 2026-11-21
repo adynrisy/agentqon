@@ -1,0 +1,11 @@
+{
+  "name": "business-continuity",
+  "display_name": "Business Continuity",
+  "description": "Develop business continuity plans and impact analysis. Implement BCP testing and communication procedures. Use when building organizational resilience.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/business-continuity/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/business-continuity/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 15602,
+  "truncated": false
+}

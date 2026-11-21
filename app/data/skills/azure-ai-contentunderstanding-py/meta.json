@@ -1,0 +1,11 @@
+{
+  "name": "azure-ai-contentunderstanding-py",
+  "display_name": "Azure AI Contentunderstanding Py",
+  "description": "Azure AI Content Understanding SDK for Python. Use for multimodal content extraction from documents, images, audio, and video.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/azure-ai-contentunderstanding-py/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/azure-ai-contentunderstanding-py/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 7961,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "browser-extension-launch",
+  "display_name": "Browser Extension Launch",
+  "description": "Builds, tests, packages, and prepares Chrome extensions for store launch from a plain-language idea; use for new extensions, fixes, releases, and submission recovery.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/browser-extension-launch/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/browser-extension-launch/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 11500,
+  "truncated": false
+}

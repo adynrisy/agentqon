@@ -1,0 +1,11 @@
+{
+  "name": "billing-automation-payment-processing",
+  "display_name": "Billing Automation · Payment Processing",
+  "description": "Build automated billing systems for recurring payments, invoicing, subscription lifecycle, and dunning management. Use when implementing subscription billing, automating invoicing, or managing recurring payment systems.",
+  "repo": "wshobson/agents",
+  "path": "plugins/payment-processing/skills/billing-automation/SKILL.md",
+  "url": "https://github.com/wshobson/agents/tree/HEAD/plugins/payment-processing/skills/billing-automation/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 1632,
+  "truncated": false
+}

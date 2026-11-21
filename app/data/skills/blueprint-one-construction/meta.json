@@ -1,0 +1,11 @@
+{
+  "name": "blueprint-one-construction",
+  "display_name": "Blueprint One Construction",
+  "description": "Turn a one-line objective into a step-by-step construction plan any coding agent can execute cold. Each step has a self-contained context brief — a fresh agent in a new session can pick up any step without reading prior steps.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/blueprint/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/blueprint/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 4068,
+  "truncated": false
+}

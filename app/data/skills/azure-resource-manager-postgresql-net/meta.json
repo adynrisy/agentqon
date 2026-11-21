@@ -1,0 +1,11 @@
+{
+  "name": "azure-resource-manager-postgresql-net",
+  "display_name": "Azure Resource Manager Postgresql .NET",
+  "description": "Azure PostgreSQL Flexible Server SDK for .NET. Database management for PostgreSQL Flexible Server deployments.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/azure-resource-manager-postgresql-dotnet/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/azure-resource-manager-postgresql-dotnet/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 15310,
+  "truncated": false
+}

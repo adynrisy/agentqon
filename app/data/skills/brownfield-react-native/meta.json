@@ -1,0 +1,11 @@
+{
+  "name": "brownfield-react-native",
+  "display_name": "Brownfield React Native",
+  "description": "Integrate Expo and React Native into an existing native iOS or Android app. Use for brownfield, embedding a React Native screen in SwiftUI/UIKit or Kotlin, or AAR/XCFramework packaging. Covers isolated and integrated approaches. For building or distributing a purely native app with EAS, use eas-app-stores.",
+  "repo": "expo/skills",
+  "path": "plugins/expo/skills/expo-brownfield/SKILL.md",
+  "url": "https://github.com/expo/skills/tree/HEAD/plugins/expo/skills/expo-brownfield/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 5494,
+  "truncated": false
+}

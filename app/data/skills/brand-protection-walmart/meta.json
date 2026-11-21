@@ -1,0 +1,11 @@
+{
+  "name": "brand-protection-walmart",
+  "display_name": "Brand Protection Walmart",
+  "description": "Walmart brand protection toolkit. Detect unauthorized sellers, counterfeits, and MAP violations. Includes Walmart Brand Portal reporting, WFS seller monitoring, and complaint templates. No API key required.",
+  "repo": "nexscope-ai/eCommerce-Skills",
+  "path": "brand-protection/brand-protection-walmart/SKILL.md",
+  "url": "https://github.com/nexscope-ai/eCommerce-Skills/tree/HEAD/brand-protection/brand-protection-walmart/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 2784,
+  "truncated": false
+}

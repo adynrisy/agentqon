@@ -1,0 +1,11 @@
+{
+  "name": "azure-communication-common-java",
+  "display_name": "Azure Communication Common Java",
+  "description": "Azure Communication Services common utilities for Java. Use when working with CommunicationTokenCredential, user identifiers, token refresh, or shared authentication across ACS services.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/azure-communication-common-java/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/azure-communication-common-java/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 9745,
+  "truncated": false
+}

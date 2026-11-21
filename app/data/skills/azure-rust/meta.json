@@ -1,0 +1,11 @@
+{
+  "name": "azure-rust",
+  "display_name": "Azure Rust",
+  "description": "Azure Event Hubs SDK for Rust. Use for sending and receiving events, streaming data ingestion.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/azure-eventhub-rust/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/azure-eventhub-rust/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 5268,
+  "truncated": false
+}

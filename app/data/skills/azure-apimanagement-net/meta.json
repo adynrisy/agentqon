@@ -1,0 +1,11 @@
+{
+  "name": "azure-apimanagement-net",
+  "display_name": "Azure Apimanagement .NET",
+  "description": "Azure Resource Manager SDK for API Management in .NET.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/azure-mgmt-apimanagement-dotnet/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/azure-mgmt-apimanagement-dotnet/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 10153,
+  "truncated": false
+}

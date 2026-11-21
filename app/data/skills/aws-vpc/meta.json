@@ -1,0 +1,11 @@
+{
+  "name": "aws-vpc",
+  "display_name": "AWS Vpc",
+  "description": "Design and implement VPCs and networking. Configure subnets, route tables, and security groups. Use when setting up AWS network infrastructure.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/aws-vpc/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/aws-vpc/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 15253,
+  "truncated": false
+}

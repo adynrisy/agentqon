@@ -1,0 +1,11 @@
+{
+  "name": "box-automation",
+  "display_name": "Box Automation",
+  "description": "Automate Box operations including file upload/download, content search, folder management, collaboration, metadata queries, and sign requests through Composio's Box toolkit.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/box-automation/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/box-automation/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 12545,
+  "truncated": false
+}

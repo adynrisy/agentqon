@@ -1,0 +1,11 @@
+{
+  "name": "azure-containerregistry-py",
+  "display_name": "Azure Containerregistry Py",
+  "description": "Azure Container Registry SDK for Python. Use for managing container images, artifacts, and repositories.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/azure-containerregistry-py/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/azure-containerregistry-py/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 6223,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "buddy-sings",
+  "display_name": "Buddy Sings",
+  "description": "Use when user wants their Claude Code pet (/buddy) to sing a song. Triggers on any request that combines the concept of their Claude Code buddy, pet, or companion with singing or music. Supports multilingual triggers — match equivalent phrases in any language.",
+  "repo": "MiniMax-AI/skills",
+  "path": "skills/buddy-sings/SKILL.md",
+  "url": "https://github.com/MiniMax-AI/skills/tree/HEAD/skills/buddy-sings/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 16008,
+  "truncated": false
+}

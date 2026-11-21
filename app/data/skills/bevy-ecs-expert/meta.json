@@ -1,0 +1,11 @@
+{
+  "name": "bevy-ecs-expert",
+  "display_name": "Bevy Ecs Expert",
+  "description": "Master Bevy's Entity Component System (ECS) in Rust, covering Systems, Queries, Resources, and parallel scheduling.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/bevy-ecs-expert/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/bevy-ecs-expert/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 4317,
+  "truncated": false
+}

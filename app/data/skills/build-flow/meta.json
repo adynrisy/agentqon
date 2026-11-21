@@ -1,0 +1,11 @@
+{
+  "name": "build-flow",
+  "display_name": "Build Flow",
+  "description": "Autonomously build a complete Power Automate flow from a description. Use when you need to generate a full flow definition and create it.",
+  "repo": "microsoft/power-platform-skills",
+  "path": "plugins/power-automate/skills/build-flow/SKILL.md",
+  "url": "https://github.com/microsoft/power-platform-skills/tree/HEAD/plugins/power-automate/skills/build-flow/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 7794,
+  "truncated": false
+}

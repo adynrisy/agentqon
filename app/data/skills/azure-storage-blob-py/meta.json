@@ -1,0 +1,11 @@
+{
+  "name": "azure-storage-blob-py",
+  "display_name": "Azure Storage Blob Py",
+  "description": "Azure Blob Storage SDK for Python. Use for uploading, downloading, listing blobs, managing containers, and blob lifecycle.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/azure-storage-blob-py/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/azure-storage-blob-py/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 6013,
+  "truncated": false
+}

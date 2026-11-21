@@ -1,0 +1,11 @@
+{
+  "name": "brand-protection-shopify",
+  "display_name": "Brand Protection Shopify",
+  "description": "Shopify/DTC brand protection toolkit. Detect counterfeit stores, unauthorized resellers, and trademark violations. Includes DMCA takedown templates, domain monitoring, and social media infringement detection. No API key required.",
+  "repo": "nexscope-ai/eCommerce-Skills",
+  "path": "brand-protection/brand-protection-shopify/SKILL.md",
+  "url": "https://github.com/nexscope-ai/eCommerce-Skills/tree/HEAD/brand-protection/brand-protection-shopify/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 3021,
+  "truncated": false
+}

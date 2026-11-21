@@ -1,0 +1,11 @@
+{
+  "name": "backend-build-functions",
+  "display_name": "Backend Build Functions",
+  "description": "Build reactive backends with Convex functions, schema validation, auth integration, and deployment workflows. Use when building real-time apps with type-safe server functions and automatic caching.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/convex-backend/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/convex-backend/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 8087,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "bumblebee-run-supply",
+  "display_name": "Bumblebee Run Supply",
+  "description": "Run Bumblebee supply-chain inventory and exposure scans on macOS/Linux to detect compromised packages, extensions, and MCP host configs.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/bumblebee/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/bumblebee/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 9396,
+  "truncated": false
+}

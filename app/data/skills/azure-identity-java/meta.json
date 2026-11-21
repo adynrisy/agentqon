@@ -1,0 +1,11 @@
+{
+  "name": "azure-identity-java",
+  "display_name": "Azure Identity Java",
+  "description": "Authenticate Java applications with Azure services using Microsoft Entra ID (Azure AD).",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/azure-identity-java/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/azure-identity-java/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 11143,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "bulk-rnaseq",
+  "display_name": "Bulk Rnaseq",
+  "description": "Prepares bulk RNA-seq FASTQ, Salmon, STAR or featureCounts output for gene-level differential expression. Covers nf-core/rnaseq and standalone quantification, biological replication, strandedness, reference provenance, validated count assembly and a PyDESeq2 handoff. Use for FASTQ-to-counts analysis, nf-core/rnaseq configuration, STAR/Salmon quantification, or building a counts matrix for DESeq2. For single-cell data use scanpy; for statistical fitting alone use pydeseq2.",
+  "repo": "K-Dense-AI/scientific-agent-skills",
+  "path": "skills/bulk-rnaseq/SKILL.md",
+  "url": "https://github.com/K-Dense-AI/scientific-agent-skills/tree/HEAD/skills/bulk-rnaseq/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 16027,
+  "truncated": false
+}

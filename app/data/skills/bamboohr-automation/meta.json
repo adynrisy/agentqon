@@ -1,0 +1,11 @@
+{
+  "name": "bamboohr-automation",
+  "display_name": "Bamboohr Automation",
+  "description": "Automate BambooHR tasks via Rube MCP (Composio): employees, time-off, benefits, dependents, employee updates. Always search tools first for current schemas.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/bamboohr-automation/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/bamboohr-automation/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 8586,
+  "truncated": false
+}

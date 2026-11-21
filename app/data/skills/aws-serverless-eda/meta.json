@@ -1,0 +1,11 @@
+{
+  "name": "aws-serverless-eda",
+  "display_name": "AWS Serverless Eda",
+  "description": "AWS serverless and event-driven architecture expert based on Well-Architected Framework. Use when building serverless APIs, Lambda functions, REST APIs, microservices, or async workflows.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/aws-serverless-eda/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/aws-serverless-eda/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 12155,
+  "truncated": false
+}

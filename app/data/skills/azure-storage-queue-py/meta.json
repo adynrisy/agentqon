@@ -1,0 +1,11 @@
+{
+  "name": "azure-storage-queue-py",
+  "display_name": "Azure Storage Queue Py",
+  "description": "Azure Queue Storage SDK for Python. Use for reliable message queuing, task distribution, and asynchronous processing.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/azure-storage-queue-py/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/azure-storage-queue-py/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 5244,
+  "truncated": false
+}

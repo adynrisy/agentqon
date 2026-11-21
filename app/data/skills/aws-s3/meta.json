@@ -1,0 +1,11 @@
+{
+  "name": "aws-s3",
+  "display_name": "AWS S3",
+  "description": "Configure S3 buckets, policies, and lifecycle rules. Implement versioning, replication, and security. Use when managing object storage on AWS.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/aws-s3/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/aws-s3/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 11826,
+  "truncated": false
+}

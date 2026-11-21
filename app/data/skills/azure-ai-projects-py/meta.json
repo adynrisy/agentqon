@@ -1,0 +1,11 @@
+{
+  "name": "azure-ai-projects-py",
+  "display_name": "Azure AI Projects Py",
+  "description": "Build AI applications on Microsoft Foundry using the azure-ai-projects SDK.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/azure-ai-projects-py/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/azure-ai-projects-py/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 9002,
+  "truncated": false
+}

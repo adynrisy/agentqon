@@ -1,0 +1,11 @@
+{
+  "name": "azure-ts-azure-eventhub-ts",
+  "display_name": "Azure TS · Azure Eventhub TS",
+  "description": "High-throughput event streaming and real-time data ingestion.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/azure-eventhub-ts/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/azure-eventhub-ts/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 7247,
+  "truncated": false
+}

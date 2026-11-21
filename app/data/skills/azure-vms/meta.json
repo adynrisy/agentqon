@@ -1,0 +1,11 @@
+{
+  "name": "azure-vms",
+  "display_name": "Azure Vms",
+  "description": "Manage Azure Virtual Machines and scale sets. Configure availability sets and managed disks. Use when deploying compute resources on Azure.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/azure-vms/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/azure-vms/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 9730,
+  "truncated": false
+}

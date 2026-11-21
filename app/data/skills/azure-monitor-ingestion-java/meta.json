@@ -1,0 +1,11 @@
+{
+  "name": "azure-monitor-ingestion-java",
+  "display_name": "Azure Monitor Ingestion Java",
+  "description": "Azure Monitor Ingestion SDK for Java. Send custom logs to Azure Monitor via Data Collection Rules (DCR) and Data Collection Endpoints (DCE).",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/azure-monitor-ingestion-java/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/azure-monitor-ingestion-java/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 7266,
+  "truncated": false
+}

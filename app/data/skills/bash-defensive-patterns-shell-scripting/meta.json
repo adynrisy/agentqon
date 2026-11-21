@@ -1,0 +1,11 @@
+{
+  "name": "bash-defensive-patterns-shell-scripting",
+  "display_name": "Bash Defensive Patterns · Shell Scripting",
+  "description": "Master defensive Bash programming techniques for production-grade scripts. Use when writing robust shell scripts, CI/CD pipelines, or system utilities requiring fault tolerance and safety.",
+  "repo": "wshobson/agents",
+  "path": "plugins/shell-scripting/skills/bash-defensive-patterns/SKILL.md",
+  "url": "https://github.com/wshobson/agents/tree/HEAD/plugins/shell-scripting/skills/bash-defensive-patterns/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 1750,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "build-iterated-loop",
+  "display_name": "Build Iterated Loop",
+  "description": "build a repo-local skill and install a matching iterated coding-agent GitHub Actions workflow, prompt, memory file, and reference templates",
+  "repo": "humanlayer/skills",
+  "path": "plugins/build-iterated-agentic-loop/skills/build-iterated-agentic-loop/SKILL.md",
+  "url": "https://github.com/humanlayer/skills/tree/HEAD/plugins/build-iterated-agentic-loop/skills/build-iterated-agentic-loop/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 13357,
+  "truncated": false
+}

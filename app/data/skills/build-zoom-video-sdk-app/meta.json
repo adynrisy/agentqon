@@ -1,0 +1,11 @@
+{
+  "name": "build-zoom-video-sdk-app",
+  "display_name": "Build Zoom Video SDK App",
+  "description": "Reference skill for Zoom Video SDK. Use after routing to a custom-session workflow when the user needs full control over the video experience rather than an actual Zoom meeting.",
+  "repo": "anthropics/knowledge-work-plugins",
+  "path": "partner-built/zoom-plugin/skills/video-sdk/SKILL.md",
+  "url": "https://github.com/anthropics/knowledge-work-plugins/tree/HEAD/partner-built/zoom-plugin/skills/video-sdk/SKILL.md",
+  "license": "Apache-2.0",
+  "body_bytes": 13402,
+  "truncated": false
+}

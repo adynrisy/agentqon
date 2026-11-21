@@ -1,0 +1,11 @@
+{
+  "name": "browser-use",
+  "display_name": "Browser Use",
+  "description": "Direct browser control via CDP for web interaction: automation, scraping, testing, screenshots, and site/app work.",
+  "repo": "davidondrej/skills",
+  "path": "skills/research-and-web/browser-use/SKILL.md",
+  "url": "https://github.com/davidondrej/skills/tree/HEAD/skills/research-and-web/browser-use/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 9974,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "azure-storage-file-share-ts",
+  "display_name": "Azure Storage File Share TS",
+  "description": "Azure File Share JavaScript/TypeScript SDK (@azure/storage-file-share) for SMB file share operations.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/azure-storage-file-share-ts/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/azure-storage-file-share-ts/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 898,
+  "truncated": false
+}

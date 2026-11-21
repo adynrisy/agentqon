@@ -1,0 +1,11 @@
+{
+  "name": "building-native-ui",
+  "display_name": "Building Native UI",
+  "description": "Complete guide for building beautiful apps with Expo Router. Covers fundamentals, styling, components, navigation, animations, patterns, and native tabs.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/building-native-ui/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/building-native-ui/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 13750,
+  "truncated": false
+}

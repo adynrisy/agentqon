@@ -1,0 +1,11 @@
+{
+  "name": "azure-ai-persistent-net",
+  "display_name": "Azure AI Persistent .NET",
+  "description": "Azure AI Agents Persistent SDK for .NET. Low-level SDK for creating and managing AI agents with threads, messages, runs, and tools.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/azure-ai-agents-persistent-dotnet/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/azure-ai-agents-persistent-dotnet/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 11039,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "billing-automation",
+  "display_name": "Billing Automation",
+  "description": "Master automated billing systems including recurring billing, invoice generation, dunning management, proration, and tax calculation.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/billing-automation/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/billing-automation/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 1643,
+  "truncated": false
+}

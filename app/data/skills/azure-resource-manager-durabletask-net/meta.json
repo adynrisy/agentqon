@@ -1,0 +1,11 @@
+{
+  "name": "azure-resource-manager-durabletask-net",
+  "display_name": "Azure Resource Manager Durabletask .NET",
+  "description": "Azure Resource Manager SDK for Durable Task Scheduler in .NET.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/azure-resource-manager-durabletask-dotnet/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/azure-resource-manager-durabletask-dotnet/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 12326,
+  "truncated": false
+}

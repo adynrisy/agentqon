@@ -1,0 +1,11 @@
+{
+  "name": "bats-testing-patterns-master",
+  "display_name": "Bats Testing Patterns · Master",
+  "description": "Master Bash Automated Testing System (Bats) for comprehensive shell script testing. Use when writing tests for shell scripts, CI/CD pipelines, or requiring test-driven development of shell utilities.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/bats-testing-patterns/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/bats-testing-patterns/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 1352,
+  "truncated": false
+}

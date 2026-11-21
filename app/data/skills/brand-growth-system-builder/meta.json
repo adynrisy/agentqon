@@ -1,0 +1,11 @@
+{
+  "name": "brand-growth-system-builder",
+  "display_name": "Brand Growth System Builder",
+  "description": "Route requests across 13 brand and growth modules. Use when an SME needs help choosing branding, website, local SEO, content, or cloud-planning workflows.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/brand-growth-system-builder/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/brand-growth-system-builder/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 16693,
+  "truncated": false
+}

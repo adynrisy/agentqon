@@ -1,0 +1,11 @@
+{
+  "name": "before-build-review",
+  "display_name": "Before Build · Review",
+  "description": "Review product risk before coding by checking demand, alternatives, channels, switching costs, and failure signals.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/before-you-build/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/before-you-build/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 4440,
+  "truncated": false
+}

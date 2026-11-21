@@ -1,0 +1,11 @@
+{
+  "name": "build-zoom-rest-api-app",
+  "display_name": "Build Zoom REST API App",
+  "description": "Reference skill for Zoom REST API. Use after choosing an API-based workflow when you need endpoint selection, resource-management patterns, OAuth requirements, rate-limit awareness, or API error debugging.",
+  "repo": "anthropics/knowledge-work-plugins",
+  "path": "partner-built/zoom-plugin/skills/rest-api/SKILL.md",
+  "url": "https://github.com/anthropics/knowledge-work-plugins/tree/HEAD/partner-built/zoom-plugin/skills/rest-api/SKILL.md",
+  "license": "Apache-2.0",
+  "body_bytes": 25691,
+  "truncated": false
+}

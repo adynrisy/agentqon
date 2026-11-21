@@ -1,0 +1,11 @@
+{
+  "name": "azure-search-documents-py",
+  "display_name": "Azure Search Documents Py",
+  "description": "Azure AI Search SDK for Python. Use for vector search, hybrid search, semantic ranking, indexing, and skillsets.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/azure-search-documents-py/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/azure-search-documents-py/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 858,
+  "truncated": false
+}

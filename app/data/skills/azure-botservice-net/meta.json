@@ -1,0 +1,11 @@
+{
+  "name": "azure-botservice-net",
+  "display_name": "Azure Botservice .NET",
+  "description": "Azure Resource Manager SDK for Bot Service in .NET. Management plane operations for creating and managing Azure Bot resources, channels (Teams, DirectLine, Slack), and connection settings.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/azure-mgmt-botservice-dotnet/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/azure-mgmt-botservice-dotnet/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 9699,
+  "truncated": false
+}

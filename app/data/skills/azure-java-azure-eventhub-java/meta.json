@@ -1,0 +1,11 @@
+{
+  "name": "azure-java-azure-eventhub-java",
+  "display_name": "Azure Java · Azure Eventhub Java",
+  "description": "Build real-time streaming applications with Azure Event Hubs SDK for Java. Use when implementing event streaming, high-throughput data ingestion, or building event-driven architectures.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/azure-eventhub-java/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/azure-eventhub-java/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 10510,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "azure-monitor-ingestion-py",
+  "display_name": "Azure Monitor Ingestion Py",
+  "description": "Azure Monitor Ingestion SDK for Python. Use for sending custom logs to Log Analytics workspace via Logs Ingestion API.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/azure-monitor-ingestion-py/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/azure-monitor-ingestion-py/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 5489,
+  "truncated": false
+}

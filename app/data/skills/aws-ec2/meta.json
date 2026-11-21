@@ -1,0 +1,11 @@
+{
+  "name": "aws-ec2",
+  "display_name": "AWS Ec2",
+  "description": "Manage EC2 instances, AMIs, and auto-scaling groups. Configure security groups, key pairs, and instance types. Use when deploying compute resources on AWS.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/aws-ec2/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/aws-ec2/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 12864,
+  "truncated": false
+}

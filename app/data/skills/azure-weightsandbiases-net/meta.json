@@ -1,0 +1,11 @@
+{
+  "name": "azure-weightsandbiases-net",
+  "display_name": "Azure Weightsandbiases .NET",
+  "description": "Azure Weights & Biases SDK for .NET. ML experiment tracking and model management via Azure Marketplace. Use for creating W&B instances, managing SSO, marketplace integration, and ML observability.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/azure-mgmt-weightsandbiases-dotnet/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/azure-mgmt-weightsandbiases-dotnet/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 10649,
+  "truncated": false
+}

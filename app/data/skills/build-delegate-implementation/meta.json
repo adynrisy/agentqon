@@ -1,0 +1,11 @@
+{
+  "name": "build-delegate-implementation",
+  "display_name": "Build Delegate Implementation",
+  "description": "Delegate well-specified implementation tasks to xAI's Grok Build CLI running headlessly while the orchestrating agent plans, writes task specs, reviews every diff, and owns the result.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/grok-build/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/grok-build/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 6477,
+  "truncated": false
+}

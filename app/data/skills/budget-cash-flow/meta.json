@@ -1,0 +1,11 @@
+{
+  "name": "budget-cash-flow",
+  "display_name": "Budget Cash Flow",
+  "description": "Budget against actual by department, category and period, with budget and actual amounts, variance, percentage used and linked expenses. Use for budget tracking or cash-flow reviews.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/budget-cash-flow/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/budget-cash-flow/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 15812,
+  "truncated": false
+}

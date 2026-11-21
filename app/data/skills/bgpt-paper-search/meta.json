@@ -1,0 +1,11 @@
+{
+  "name": "bgpt-paper-search",
+  "display_name": "Bgpt Paper Search",
+  "description": "Searches BGPT scientific papers by topic or DOI and retrieves claim-level evidence extracted from full text, including experiments, reported statistics, scope, limitations, and provenance. Use for literature reviews, evidence synthesis, and finding experimental details beyond abstracts.",
+  "repo": "K-Dense-AI/scientific-agent-skills",
+  "path": "skills/bgpt-paper-search/SKILL.md",
+  "url": "https://github.com/K-Dense-AI/scientific-agent-skills/tree/HEAD/skills/bgpt-paper-search/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 7226,
+  "truncated": false
+}

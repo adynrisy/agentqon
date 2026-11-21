@@ -1,0 +1,11 @@
+{
+  "name": "azure-resource-manager-sql-net",
+  "display_name": "Azure Resource Manager SQL .NET",
+  "description": "Azure Resource Manager SDK for Azure SQL in .NET.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/azure-resource-manager-sql-dotnet/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/azure-resource-manager-sql-dotnet/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 9922,
+  "truncated": false
+}

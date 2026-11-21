@@ -1,0 +1,11 @@
+{
+  "name": "blockchain-developer",
+  "display_name": "Blockchain Developer",
+  "description": "Build production-ready Web3 applications, smart contracts, and decentralized systems. Implements DeFi protocols, NFT platforms, DAOs, and enterprise blockchain integrations.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/blockchain-developer/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/blockchain-developer/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 9730,
+  "truncated": false
+}

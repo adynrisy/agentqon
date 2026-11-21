@@ -1,0 +1,11 @@
+{
+  "name": "azure-postgres-ts",
+  "display_name": "Azure Postgres TS",
+  "description": "Connect to Azure Database for PostgreSQL Flexible Server from Node.js/TypeScript using the pg (node-postgres) package.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/azure-postgres-ts/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/azure-postgres-ts/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 12741,
+  "truncated": false
+}

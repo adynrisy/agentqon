@@ -1,0 +1,11 @@
+{
+  "name": "browser-automation",
+  "display_name": "Browser Automation",
+  "description": "Build reliable browser checks using observed UI state, semantic locators, bounded waits, isolated test data and explicit outcome verification.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/browser-automation/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/browser-automation/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 4214,
+  "truncated": false
+}

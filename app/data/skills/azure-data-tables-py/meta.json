@@ -1,0 +1,11 @@
+{
+  "name": "azure-data-tables-py",
+  "display_name": "Azure Data Tables Py",
+  "description": "Azure Tables SDK for Python (Storage and Cosmos DB). Use for NoSQL key-value storage, entity CRUD, and batch operations.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/azure-data-tables-py/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/azure-data-tables-py/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 5721,
+  "truncated": false
+}

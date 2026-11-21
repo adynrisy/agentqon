@@ -1,0 +1,11 @@
+{
+  "name": "baseline-ui",
+  "display_name": "Baseline UI",
+  "description": "Quickly deslop UI code by fixing spacing, hierarchy, typography, and small layout issues. Use when the interface needs a fast cleanup or polish pass.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/baseline-ui/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/baseline-ui/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 4138,
+  "truncated": false
+}

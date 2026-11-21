@@ -1,0 +1,11 @@
+{
+  "name": "azure-sql",
+  "display_name": "Azure SQL",
+  "description": "Provision Azure SQL Database and Cosmos DB. Configure security, backups, and replication. Use when deploying managed databases on Azure.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/azure-sql/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/azure-sql/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 10412,
+  "truncated": false
+}

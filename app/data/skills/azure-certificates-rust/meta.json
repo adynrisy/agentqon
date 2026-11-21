@@ -1,0 +1,11 @@
+{
+  "name": "azure-certificates-rust",
+  "display_name": "Azure Certificates Rust",
+  "description": "Azure Key Vault Certificates SDK for Rust. Use for creating, importing, and managing certificates.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/azure-keyvault-certificates-rust/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/azure-keyvault-certificates-rust/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 4643,
+  "truncated": false
+}

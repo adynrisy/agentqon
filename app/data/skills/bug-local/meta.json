@@ -1,0 +1,11 @@
+{
+  "name": "bug-local",
+  "display_name": "Bug Local",
+  "description": "Use when a named runtime or compiler bug in a local repository needs independent reproduction.",
+  "repo": "trailofbits/skills",
+  "path": "plugins/patching-bugs/skills/reproduce-bug/SKILL.md",
+  "url": "https://github.com/trailofbits/skills/tree/HEAD/plugins/patching-bugs/skills/reproduce-bug/SKILL.md",
+  "license": "CC",
+  "body_bytes": 2762,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "bullmq-specialist",
+  "display_name": "Bullmq Specialist",
+  "description": "BullMQ expert for Redis-backed job queues, background processing, and reliable async execution in Node.js/TypeScript applications.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/bullmq-specialist/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/bullmq-specialist/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 9936,
+  "truncated": false
+}

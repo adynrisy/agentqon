@@ -1,0 +1,11 @@
+{
+  "name": "brainstorming-before-creative",
+  "display_name": "Brainstorming Before Creative",
+  "description": "Use before creative or constructive work (features, architecture, behavior). Transforms vague ideas into validated designs through disciplined reasoning and collaboration.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/brainstorming/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/brainstorming/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 5386,
+  "truncated": false
+}

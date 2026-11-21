@@ -1,0 +1,11 @@
+{
+  "name": "azure-cosmos-py",
+  "display_name": "Azure Cosmos Py",
+  "description": "Azure Cosmos DB SDK for Python (NoSQL API). Use for document CRUD, queries, containers, and globally distributed data.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/azure-cosmos-py/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/azure-cosmos-py/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 7546,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "azure-identity-rust",
+  "display_name": "Azure Identity Rust",
+  "description": "Azure Identity SDK for Rust authentication. Use for DeveloperToolsCredential, ManagedIdentityCredential, ClientSecretCredential, and token-based authentication.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/azure-identity-rust/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/azure-identity-rust/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 4811,
+  "truncated": false
+}

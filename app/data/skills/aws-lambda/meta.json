@@ -1,0 +1,11 @@
+{
+  "name": "aws-lambda",
+  "display_name": "AWS Lambda",
+  "description": "Build and deploy serverless functions on AWS Lambda. Configure triggers, manage permissions, and optimize performance. Use when implementing serverless applications.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/aws-lambda/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/aws-lambda/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 12397,
+  "truncated": false
+}

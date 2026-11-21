@@ -1,0 +1,11 @@
+{
+  "name": "azure-ai-persistent-java",
+  "display_name": "Azure AI Persistent Java",
+  "description": "Azure AI Agents Persistent SDK for Java. Low-level SDK for creating and managing AI agents with threads, messages, runs, and tools.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/azure-ai-agents-persistent-java/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/azure-ai-agents-persistent-java/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 5721,
+  "truncated": false
+}

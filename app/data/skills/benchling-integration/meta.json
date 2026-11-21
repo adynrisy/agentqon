@@ -1,0 +1,11 @@
+{
+  "name": "benchling-integration",
+  "display_name": "Benchling Integration",
+  "description": "Benchling Python SDK and REST API integration for registry entities, inventory, ELN entries, workflows, Benchling Apps, and Data Warehouse queries. Use when automating lab data with benchling-sdk or the v2 API.",
+  "repo": "K-Dense-AI/scientific-agent-skills",
+  "path": "skills/benchling-integration/SKILL.md",
+  "url": "https://github.com/K-Dense-AI/scientific-agent-skills/tree/HEAD/skills/benchling-integration/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 7053,
+  "truncated": false
+}

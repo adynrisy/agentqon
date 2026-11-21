@@ -1,0 +1,11 @@
+{
+  "name": "bug-hunt-swarm",
+  "display_name": "Bug Hunt Swarm",
+  "description": "Parallel read-only multi-agent root-cause investigation for bugs, regressions, crashes, flaky behavior, or unexplained failures.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/bug-hunt-swarm/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/bug-hunt-swarm/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 7004,
+  "truncated": false
+}

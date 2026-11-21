@@ -1,0 +1,11 @@
+{
+  "name": "aws-secrets-manager",
+  "display_name": "AWS Secrets Manager",
+  "description": "Store and rotate secrets in AWS Secrets Manager.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/aws-secrets-manager/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/aws-secrets-manager/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 15010,
+  "truncated": false
+}
