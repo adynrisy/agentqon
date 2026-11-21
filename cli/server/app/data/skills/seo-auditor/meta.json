@@ -1,0 +1,11 @@
+{
+  "name": "seo-auditor",
+  "display_name": "SEO Auditor",
+  "description": "Scan and optimize documentation files for SEO. Audits README.md files and docs/ pages for\nmeta tags, headings, keywords, readability, duplicate content, and broken links. Applies\nfixes, updates sitemap.xml, and generates a report. Usage: /seo-auditor [path]",
+  "repo": "alirezarezvani/claude-skills",
+  "path": ".gemini/skills/seo-auditor/SKILL.md",
+  "url": "https://github.com/alirezarezvani/claude-skills/tree/HEAD/.gemini/skills/seo-auditor/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 13756,
+  "truncated": false
+}

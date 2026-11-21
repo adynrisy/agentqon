@@ -1,0 +1,11 @@
+{
+  "name": "shopify-email-flows",
+  "display_name": "Shopify Email Flows",
+  "description": "Email automation flows — welcome series, abandoned cart, post-purchase, win-back, browse abandonment",
+  "repo": "nexscope-ai/eCommerce-Skills",
+  "path": "shopify-email-flows/SKILL.md",
+  "url": "https://github.com/nexscope-ai/eCommerce-Skills/tree/HEAD/shopify-email-flows/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 1661,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "setup-cloud-implement",
+  "display_name": "Setup Cloud Implement",
+  "description": "Configure WireGuard, OpenVPN, and cloud VPNs. Implement secure remote access and site-to-site connectivity. Use when setting up secure network tunnels.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/vpn-setup/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/vpn-setup/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 11449,
+  "truncated": false
+}

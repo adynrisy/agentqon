@@ -1,0 +1,11 @@
+{
+  "name": "sentry-automation",
+  "display_name": "Sentry Automation",
+  "description": "Automate Sentry tasks via Rube MCP (Composio): manage issues/events, configure alerts, track releases, monitor projects and teams. Always search tools first for current schemas.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/sentry-automation/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/sentry-automation/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 10043,
+  "truncated": false
+}

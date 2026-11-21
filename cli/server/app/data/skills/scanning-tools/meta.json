@@ -1,0 +1,11 @@
+{
+  "name": "scanning-tools",
+  "display_name": "Scanning Tools",
+  "description": "Master essential security scanning tools for network discovery, vulnerability assessment, web application testing, wireless security, and compliance validation. This skill covers tool selection, configuration, and practical usage across different scanning categories.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/scanning-tools/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/scanning-tools/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 2225,
+  "truncated": false
+}

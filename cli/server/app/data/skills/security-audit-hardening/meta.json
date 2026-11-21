@@ -1,0 +1,11 @@
+{
+  "name": "security-audit-hardening",
+  "display_name": "Security Audit Hardening",
+  "description": "Security audit, hardening, threat modeling (STRIDE/PASTA), Red/Blue Team, OWASP checks, code review, incident response, and infrastructure security for any project.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/007/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/007/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 1229,
+  "truncated": false
+}

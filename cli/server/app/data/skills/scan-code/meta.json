@@ -1,0 +1,11 @@
+{
+  "name": "scan-code",
+  "display_name": "Scan Code",
+  "description": "Scans a Power Pages site project for security issues in source code and dependencies. Runs static analysis and dependency scanning, then surfaces findings by category (code patterns, vulnerable packages, secrets, license issues). Use when the user wants to review code for security problems, check for vulnerable packages, find hard-coded secrets, run a code scan, or asks \"is my code safe?\", \"check my dependencies\", \"find security issues in my source\" — even if they say \"audit my code\" without mentioning specific tools.",
+  "repo": "microsoft/power-platform-skills",
+  "path": "plugins/power-pages/skills/scan-code/SKILL.md",
+  "url": "https://github.com/microsoft/power-platform-skills/tree/HEAD/plugins/power-pages/skills/scan-code/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 12895,
+  "truncated": false
+}

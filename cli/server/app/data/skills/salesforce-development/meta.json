@@ -1,0 +1,11 @@
+{
+  "name": "salesforce-development",
+  "display_name": "Salesforce Development",
+  "description": "Expert patterns for Salesforce platform development including Lightning Web Components (LWC), Apex triggers and classes, REST/Bulk APIs, External Client Apps, and Salesforce DX with scratch orgs and 2nd generation packages (2GP).",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/salesforce-development/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/salesforce-development/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 1498,
+  "truncated": false
+}

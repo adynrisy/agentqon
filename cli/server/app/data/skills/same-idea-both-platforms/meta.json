@@ -1,0 +1,11 @@
+{
+  "name": "same-idea-both-platforms",
+  "display_name": "Same Idea Both Platforms",
+  "description": "Write one idea as a Twitter/X post and a LinkedIn post that read as written separately, not pasted twice. Use when someone wants to cross-post or adapt a post for the other platform.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/same-idea-both-platforms/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/same-idea-both-platforms/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 4725,
+  "truncated": false
+}

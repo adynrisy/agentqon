@@ -1,0 +1,11 @@
+{
+  "name": "self-eval",
+  "display_name": "Self Eval",
+  "description": "Honestly evaluate AI work quality using a two-axis scoring system. Use after completing a task, code review, or work session to get an unbiased assessment. Detects score inflation, forces devil's advocate reasoning, and persists scores across sessions.",
+  "repo": "alirezarezvani/claude-skills",
+  "path": ".gemini/skills/self-eval/SKILL.md",
+  "url": "https://github.com/alirezarezvani/claude-skills/tree/HEAD/.gemini/skills/self-eval/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 8147,
+  "truncated": false
+}

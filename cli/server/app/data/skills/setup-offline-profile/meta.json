@@ -1,0 +1,11 @@
+{
+  "name": "setup-offline-profile",
+  "display_name": "Setup Offline Profile",
+  "description": "Use when the user wants to enable offline mode for a Power Apps mobile app and create a Mobile Offline Profile in Dataverse — designs per-table row scope, relationships, columns, and sync frequency through a 3-gate approval flow.",
+  "repo": "microsoft/power-platform-skills",
+  "path": "plugins/mobile-apps/skills/setup-offline-profile/SKILL.md",
+  "url": "https://github.com/microsoft/power-platform-skills/tree/HEAD/plugins/mobile-apps/skills/setup-offline-profile/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 46863,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "ruzzy-up-production",
+  "display_name": "Ruzzy Up Production",
+  "description": "Sets up and runs Ruzzy, Trail of Bits' coverage-guided Ruby fuzzer and the only production-ready one for the language. Covers harness structure, fuzzing pure Ruby and the native C extensions in gems, and sanitizer builds. Use when fuzzing a Ruby library or gem, testing a Ruby C extension for memory safety, or asking how to fuzz Ruby at all.",
+  "repo": "trailofbits/skills",
+  "path": "plugins/testing-handbook-skills/skills/ruzzy/SKILL.md",
+  "url": "https://github.com/trailofbits/skills/tree/HEAD/plugins/testing-handbook-skills/skills/ruzzy/SKILL.md",
+  "license": "CC",
+  "body_bytes": 11772,
+  "truncated": false
+}

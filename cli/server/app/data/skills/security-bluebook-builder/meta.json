@@ -1,0 +1,11 @@
+{
+  "name": "security-bluebook-builder",
+  "display_name": "Security Bluebook Builder",
+  "description": "Build a minimal but real security policy for sensitive apps. The output is a single, coherent Blue Book document using MUST/SHOULD/CAN language, with explicit assumptions, scope, and security gates.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/security-bluebook-builder/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/security-bluebook-builder/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 3444,
+  "truncated": false
+}

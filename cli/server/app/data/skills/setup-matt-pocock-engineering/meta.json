@@ -1,0 +1,11 @@
+{
+  "name": "setup-matt-pocock-engineering",
+  "display_name": "Setup Matt Pocock · Engineering",
+  "description": "Configure this repo for the engineering skills: set up its issue tracker, triage label vocabulary, and domain doc layout. Run once before first use of the other engineering skills.",
+  "repo": "mattpocock/skills",
+  "path": "skills/engineering/setup-matt-pocock-skills/SKILL.md",
+  "url": "https://github.com/mattpocock/skills/tree/HEAD/skills/engineering/setup-matt-pocock-skills/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 6711,
+  "truncated": false
+}

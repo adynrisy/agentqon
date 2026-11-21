@@ -1,0 +1,11 @@
+{
+  "name": "setup-help-walk",
+  "display_name": "Setup Help · Walk",
+  "description": "Walk a user through setup or installation one step at a time with the remaining steps visible.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/setup-help/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/setup-help/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 2298,
+  "truncated": false
+}

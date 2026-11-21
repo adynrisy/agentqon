@@ -1,0 +1,11 @@
+{
+  "name": "scientific-research-analysis",
+  "display_name": "Scientific Research Analysis",
+  "description": "Scientific research and analysis skills",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/claude-scientific-skills/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/claude-scientific-skills/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 1651,
+  "truncated": false
+}

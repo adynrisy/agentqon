@@ -1,0 +1,11 @@
+{
+  "name": "rust-pro",
+  "display_name": "Rust Pro",
+  "description": "Master Rust 1.75+ with modern async patterns, advanced type system features, and production-ready systems programming.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/rust-pro/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/rust-pro/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 7542,
+  "truncated": false
+}

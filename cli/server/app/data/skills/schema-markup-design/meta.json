@@ -1,0 +1,11 @@
+{
+  "name": "schema-markup-design",
+  "display_name": "Schema Markup · Design",
+  "description": "Design, validate, and optimize schema.org structured data for eligibility, correctness, and measurable SEO impact.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/schema-markup/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/schema-markup/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 8131,
+  "truncated": false
+}

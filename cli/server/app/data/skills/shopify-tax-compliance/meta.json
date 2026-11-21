@@ -1,0 +1,11 @@
+{
+  "name": "shopify-tax-compliance",
+  "display_name": "Shopify Tax Compliance",
+  "description": "Tax setup and compliance — sales tax, VAT, duty collection, tax-exempt customers, reporting",
+  "repo": "nexscope-ai/eCommerce-Skills",
+  "path": "shopify-tax-compliance/SKILL.md",
+  "url": "https://github.com/nexscope-ai/eCommerce-Skills/tree/HEAD/shopify-tax-compliance/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 1673,
+  "truncated": false
+}

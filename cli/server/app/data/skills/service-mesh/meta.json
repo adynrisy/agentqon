@@ -1,0 +1,11 @@
+{
+  "name": "service-mesh",
+  "display_name": "Service Mesh",
+  "description": "Implement Istio and Linkerd service meshes. Configure mTLS, traffic management, and observability. Use when managing microservices communication.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/service-mesh/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/service-mesh/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 9978,
+  "truncated": false
+}

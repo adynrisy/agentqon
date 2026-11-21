@@ -1,0 +1,11 @@
+{
+  "name": "schematics-diagram-smart",
+  "display_name": "Schematics Diagram Smart",
+  "description": "Generates scientific diagram drafts using Nano Banana 2 AI with smart iterative refinement. Uses Gemini 3.7 Flash for quality review. Refines when the review requests improvement, with at most two generations. Specialized in neural network architectures, system diagrams, flowcharts, biological pathways, and complex scientific visualizations.",
+  "repo": "K-Dense-AI/scientific-agent-skills",
+  "path": "skills/scientific-schematics/SKILL.md",
+  "url": "https://github.com/K-Dense-AI/scientific-agent-skills/tree/HEAD/skills/scientific-schematics/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 19485,
+  "truncated": false
+}

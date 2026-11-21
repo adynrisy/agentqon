@@ -1,0 +1,11 @@
+{
+  "name": "short-novel-analyze",
+  "display_name": "Short Novel Analyze",
+  "description": "把长篇小说、连载网文或多集散稿拆成可追溯的原著分析：章节索引、改编价值快评、逐章功能提取、剧情单元与节奏聚合、人物与设定归并，最后给出改编价值判定与分集候选，交给 $short-drama-develop 立契约。用户说“导入这本小说”“拆这本书”“分析原著”“这本书能不能改短剧”“先看看值不值得拆”“把长篇拆成分集候选”，或直接给出小说文件路径时使用。只做只读的结构化分析，不写剧本、不建资产、不生成媒体，也不替创作者决定改编方案。",
+  "repo": "zenstory-ai/drama-skills",
+  "path": "skills/short-drama-novel-analyze/SKILL.md",
+  "url": "https://github.com/zenstory-ai/drama-skills/tree/HEAD/skills/short-drama-novel-analyze/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 13782,
+  "truncated": false
+}

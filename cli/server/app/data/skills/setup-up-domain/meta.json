@@ -1,0 +1,11 @@
+{
+  "name": "setup-up-domain",
+  "display_name": "Setup Up Domain",
+  "description": "Set up a new autoresearch experiment interactively. Collects domain, target file, eval command, metric, direction, and evaluator. Use when the user runs /ar:setup or asks to start optimizing a file with the autoresearch loop.",
+  "repo": "alirezarezvani/claude-skills",
+  "path": ".gemini/skills/setup/SKILL.md",
+  "url": "https://github.com/alirezarezvani/claude-skills/tree/HEAD/.gemini/skills/setup/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 2683,
+  "truncated": false
+}

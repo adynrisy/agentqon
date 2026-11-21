@@ -1,0 +1,11 @@
+{
+  "name": "sales-tracking-tool",
+  "display_name": "Sales Tracking Tool",
+  "description": "Track and analyze e-commerce sales performance across platforms. Set up KPI dashboards, trend analysis, and performance alerts to catch issues and opportunities early.",
+  "repo": "nexscope-ai/eCommerce-Skills",
+  "path": "sales-tracking-tool/SKILL.md",
+  "url": "https://github.com/nexscope-ai/eCommerce-Skills/tree/HEAD/sales-tracking-tool/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 2043,
+  "truncated": false
+}

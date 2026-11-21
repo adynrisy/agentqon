@@ -1,0 +1,11 @@
+{
+  "name": "scikit-learn",
+  "display_name": "Scikit Learn",
+  "description": "Supports machine learning in Python with scikit-learn. Applies when working with supervised learning (classification, regression), unsupervised learning (clustering, dimensionality reduction), model evaluation, hyperparameter tuning, preprocessing, or building ML pipelines. Provides comprehensive reference documentation for algorithms, preprocessing techniques, pipelines, and best practices.",
+  "repo": "K-Dense-AI/scientific-agent-skills",
+  "path": "skills/scikit-learn/SKILL.md",
+  "url": "https://github.com/K-Dense-AI/scientific-agent-skills/tree/HEAD/skills/scikit-learn/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 12391,
+  "truncated": false
+}

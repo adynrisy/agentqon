@@ -1,0 +1,11 @@
+{
+  "name": "scikit-learn-machine",
+  "display_name": "Scikit Learn · Machine",
+  "description": "Machine learning in Python with scikit-learn. Use for classification, regression, clustering, model evaluation, and ML pipelines.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/scikit-learn/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/scikit-learn/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 2103,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "shark-business-idea",
+  "display_name": "Shark Business Idea",
+  "description": "Pitch a business idea to a Shark Tank-style panel of Claude sub-agent investors who grill it, hear a founder agent answer, and each go IN or OUT with a practice offer.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/shark/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/shark/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 5164,
+  "truncated": false
+}

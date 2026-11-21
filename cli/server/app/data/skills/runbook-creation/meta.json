@@ -1,0 +1,11 @@
+{
+  "name": "runbook-creation",
+  "display_name": "Runbook Creation",
+  "description": "Create operational runbooks and standard operating procedures. Document troubleshooting guides and recovery procedures. Use when documenting operational knowledge.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/runbook-creation/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/runbook-creation/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 10982,
+  "truncated": false
+}

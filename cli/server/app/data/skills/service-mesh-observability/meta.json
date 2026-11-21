@@ -1,0 +1,11 @@
+{
+  "name": "service-mesh-observability",
+  "display_name": "Service Mesh Observability",
+  "description": "Complete guide to observability patterns for Istio, Linkerd, and service mesh deployments.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/service-mesh-observability/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/service-mesh-observability/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 10781,
+  "truncated": false
+}

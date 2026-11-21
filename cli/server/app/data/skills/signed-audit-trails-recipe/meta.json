@@ -1,0 +1,11 @@
+{
+  "name": "signed-audit-trails-recipe",
+  "display_name": "Signed Audit Trails Recipe",
+  "description": "Step-by-step cookbook for setting up cryptographically signed audit trails on Claude Code tool calls. Use when explaining, evaluating, or demonstrating the pattern before committing to the protect-mcp runtime hooks. Covers Cedar policy, Ed25519 receipts, offline verification, tamper detection, CI/CD integration, and SLSA composition.",
+  "repo": "wshobson/agents",
+  "path": "plugins/signed-audit-trails/skills/signed-audit-trails-recipe/SKILL.md",
+  "url": "https://github.com/wshobson/agents/tree/HEAD/plugins/signed-audit-trails/skills/signed-audit-trails-recipe/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 9716,
+  "truncated": false
+}

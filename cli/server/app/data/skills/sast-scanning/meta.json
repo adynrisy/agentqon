@@ -1,0 +1,11 @@
+{
+  "name": "sast-scanning",
+  "display_name": "SAST Scanning",
+  "description": "Perform static application security testing with tools like Semgrep, CodeQL, and SonarQube.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/sast-scanning/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/sast-scanning/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 8987,
+  "truncated": false
+}

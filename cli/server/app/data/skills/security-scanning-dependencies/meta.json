@@ -1,0 +1,11 @@
+{
+  "name": "security-scanning-dependencies",
+  "display_name": "Security Scanning Dependencies",
+  "description": "You are a security expert specializing in dependency vulnerability analysis, SBOM generation, and supply chain security. Scan project dependencies across multiple ecosystems to identify vulnerabilities, assess risks, and provide automated remediation strategies.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/security-scanning-security-dependencies/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/security-scanning-security-dependencies/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 1862,
+  "truncated": false
+}

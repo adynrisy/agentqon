@@ -1,0 +1,11 @@
+{
+  "name": "seo-aeo-content-quality-auditor",
+  "display_name": "SEO Aeo Content Quality Auditor",
+  "description": "Audits a website, codebase, page, or content set for technical SEO, search intent, AEO, conversion paths, and publishing readiness, then produces prioritised fixes that can be implemented and verified.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/seo-aeo-content-quality-auditor/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/seo-aeo-content-quality-auditor/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 11481,
+  "truncated": false
+}

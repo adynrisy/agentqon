@@ -1,0 +1,11 @@
+{
+  "name": "seo-content-planner",
+  "display_name": "SEO Content Planner",
+  "description": "Creates comprehensive content outlines and topic clusters for SEO.\nPlans content calendars and identifies topic gaps. Use PROACTIVELY for content\nstrategy and planning.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/seo-content-planner/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/seo-content-planner/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 2656,
+  "truncated": false
+}

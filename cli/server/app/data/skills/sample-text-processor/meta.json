@@ -1,0 +1,11 @@
+{
+  "name": "sample-text-processor",
+  "display_name": "Sample Text Processor",
+  "description": "Reference BASIC-tier skill used as a fixture by skill-tester. Counts words and characters and applies basic text transformations. Use when validating skill-tester itself or when you need a minimal, known-good skill layout to copy. Not a production skill.",
+  "repo": "alirezarezvani/claude-skills",
+  "path": ".gemini/skills/sample-skill/SKILL.md",
+  "url": "https://github.com/alirezarezvani/claude-skills/tree/HEAD/.gemini/skills/sample-skill/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 5522,
+  "truncated": false
+}

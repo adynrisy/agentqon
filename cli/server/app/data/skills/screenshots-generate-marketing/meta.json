@@ -1,0 +1,11 @@
+{
+  "name": "screenshots-generate-marketing",
+  "display_name": "Screenshots Generate Marketing",
+  "description": "Generate marketing screenshots of your app using Playwright. Use when the user wants to create screenshots for Product Hunt, social media, landing pages, or documentation.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/screenshots/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/screenshots/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 12805,
+  "truncated": false
+}

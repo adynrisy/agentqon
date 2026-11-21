@@ -1,0 +1,11 @@
+{
+  "name": "shopify-loyalty-program",
+  "display_name": "Shopify Loyalty Program",
+  "description": "Customer loyalty and rewards — points systems, VIP tiers, referral programs, app selection",
+  "repo": "nexscope-ai/eCommerce-Skills",
+  "path": "shopify-loyalty-program/SKILL.md",
+  "url": "https://github.com/nexscope-ai/eCommerce-Skills/tree/HEAD/shopify-loyalty-program/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 1679,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "sandbase-mcp",
+  "display_name": "Sandbase MCP",
+  "description": "Discover, inspect, and invoke 2,000+ AI models and APIs through SandBase's local MCP bridge with explicit schema and cost checks.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/sandbase-mcp/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/sandbase-mcp/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 6767,
+  "truncated": false
+}

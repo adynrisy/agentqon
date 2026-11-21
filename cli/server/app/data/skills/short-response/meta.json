@@ -1,0 +1,11 @@
+{
+  "name": "short-response",
+  "display_name": "Short Response",
+  "description": "Rewrite the previous response more briefly while preserving the substance.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/short/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/short/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 689,
+  "truncated": false
+}

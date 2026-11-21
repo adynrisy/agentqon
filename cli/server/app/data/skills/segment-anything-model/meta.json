@@ -1,0 +1,11 @@
+{
+  "name": "segment-anything-model",
+  "display_name": "Segment Anything Model",
+  "description": "Foundation model for image segmentation with zero-shot transfer. Use when you need to segment any object in images using points, boxes, or masks as prompts, or automatically generate all object masks in an image.",
+  "repo": "Orchestra-Research/AI-Research-SKILLs",
+  "path": "18-multimodal/segment-anything/SKILL.md",
+  "url": "https://github.com/Orchestra-Research/AI-Research-SKILLs/tree/HEAD/18-multimodal/segment-anything/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 12943,
+  "truncated": false
+}

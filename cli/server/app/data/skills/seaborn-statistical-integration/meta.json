@@ -1,0 +1,11 @@
+{
+  "name": "seaborn-statistical-integration",
+  "display_name": "Seaborn Statistical Integration",
+  "description": "Creates Seaborn statistical visualizations with pandas integration for distributions, relationships, categorical comparisons, regression displays, pair plots, and heatmaps. Supports function and objects interfaces with explicit aggregation, uncertainty, and missing-data handling. Best suited to static exploratory plots; plotly covers interactive figures and scientific-visualization covers publication styling.",
+  "repo": "K-Dense-AI/scientific-agent-skills",
+  "path": "skills/seaborn/SKILL.md",
+  "url": "https://github.com/K-Dense-AI/scientific-agent-skills/tree/HEAD/skills/seaborn/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 12527,
+  "truncated": false
+}

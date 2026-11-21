@@ -1,0 +1,11 @@
+{
+  "name": "senior-security",
+  "display_name": "Senior Security",
+  "description": "Use when the user asks for STRIDE threat modeling, DREAD risk scoring, data-flow-diagram threat analysis, or a quick secret scan — or when a security request needs routing to the right specialist skill (pen-testing, incident response, cloud posture, red team, AI security, threat hunting, secure code review). This skill owns threat modeling; everything else routes to a sibling.",
+  "repo": "alirezarezvani/claude-skills",
+  "path": ".gemini/skills/senior-security/SKILL.md",
+  "url": "https://github.com/alirezarezvani/claude-skills/tree/HEAD/.gemini/skills/senior-security/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 4760,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "seo-audit-diagnose",
+  "display_name": "SEO Audit · Diagnose",
+  "description": "Diagnose and audit SEO issues affecting crawlability, indexation, rankings, and organic performance.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/seo-audit/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/seo-audit/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 13142,
+  "truncated": false
+}

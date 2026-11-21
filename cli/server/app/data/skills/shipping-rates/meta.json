@@ -1,0 +1,11 @@
+{
+  "name": "shipping-rates",
+  "display_name": "Shipping Rates",
+  "description": "Compare and optimize shipping rates across carriers and fulfillment methods. UPS, FedEx, USPS, DHL rate comparison, zone optimization, and shipping strategy to maximize margins.",
+  "repo": "nexscope-ai/eCommerce-Skills",
+  "path": "ecommerce-shipping-rates/SKILL.md",
+  "url": "https://github.com/nexscope-ai/eCommerce-Skills/tree/HEAD/ecommerce-shipping-rates/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 2101,
+  "truncated": false
+}

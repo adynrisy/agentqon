@@ -1,0 +1,11 @@
+{
+  "name": "seek-analyze-video",
+  "display_name": "Seek Analyze Video",
+  "description": "Seek and analyze video content using Memories.ai Large Visual Memory Model for persistent video intelligence",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/seek-and-analyze-video/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/seek-and-analyze-video/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 3573,
+  "truncated": false
+}

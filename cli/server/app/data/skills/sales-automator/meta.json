@@ -1,0 +1,11 @@
+{
+  "name": "sales-automator",
+  "display_name": "Sales Automator",
+  "description": "Draft cold emails, follow-ups, and proposal templates. Creates pricing pages, case studies, and sales scripts. Use PROACTIVELY for sales outreach or lead nurturing.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/sales-automator/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/sales-automator/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 1649,
+  "truncated": false
+}

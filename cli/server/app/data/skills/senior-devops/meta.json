@@ -1,0 +1,11 @@
+{
+  "name": "senior-devops",
+  "display_name": "Senior DevOps",
+  "description": "Comprehensive DevOps skill for CI/CD, infrastructure automation, containerization, and cloud platforms (AWS, GCP, Azure). Includes pipeline setup, infrastructure as code, deployment automation, and monitoring. Use when setting up pipelines, deploying applications, managing infrastructure, implementing monitoring, or optimizing deployment processes.",
+  "repo": "alirezarezvani/claude-skills",
+  "path": ".gemini/skills/senior-devops/SKILL.md",
+  "url": "https://github.com/alirezarezvani/claude-skills/tree/HEAD/.gemini/skills/senior-devops/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 10406,
+  "truncated": false
+}

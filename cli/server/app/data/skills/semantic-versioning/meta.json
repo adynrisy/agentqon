@@ -1,0 +1,11 @@
+{
+  "name": "semantic-versioning",
+  "display_name": "Semantic Versioning",
+  "description": "Automate versioning and changelog generation using semantic versioning principles.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/semantic-versioning/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/semantic-versioning/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 9579,
+  "truncated": false
+}

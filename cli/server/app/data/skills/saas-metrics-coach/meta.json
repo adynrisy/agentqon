@@ -1,0 +1,11 @@
+{
+  "name": "saas-metrics-coach",
+  "display_name": "SaaS Metrics Coach",
+  "description": "SaaS financial health advisor. Use when a user shares revenue or customer numbers, or mentions ARR, MRR, churn, LTV, CAC, NRR, or asks how their SaaS business is doing.",
+  "repo": "alirezarezvani/claude-skills",
+  "path": ".gemini/skills/saas-metrics-coach/SKILL.md",
+  "url": "https://github.com/alirezarezvani/claude-skills/tree/HEAD/.gemini/skills/saas-metrics-coach/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 5430,
+  "truncated": false
+}

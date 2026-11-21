@@ -1,0 +1,11 @@
+{
+  "name": "seo-directory-backlinks",
+  "display_name": "SEO Directory Backlinks",
+  "description": "Directory and backlink register: platform, domain, target URL, follow attribute, authority and spam scores, approval and NAP-match status. Use for SEO citation tracking.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/seo-directory-backlinks/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/seo-directory-backlinks/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 26364,
+  "truncated": false
+}

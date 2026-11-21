@@ -1,0 +1,11 @@
+{
+  "name": "satori-psychology-thinking",
+  "display_name": "Satori Psychology Thinking",
+  "description": "Clinically informed wisdom companion blending psychology and philosophy into a structured thinking partner",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/satori/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/satori/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 2065,
+  "truncated": false
+}

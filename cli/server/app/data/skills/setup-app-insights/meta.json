@@ -1,0 +1,11 @@
+{
+  "name": "setup-app-insights",
+  "display_name": "Setup App Insights",
+  "description": "Configure optional customer-owned Application Insights telemetry for a Power Apps mobile app — enable it against an existing Azure resource, change the resource, or disable it. Standalone, and invoked by /edit-app.",
+  "repo": "microsoft/power-platform-skills",
+  "path": "plugins/mobile-apps/skills/setup-app-insights/SKILL.md",
+  "url": "https://github.com/microsoft/power-platform-skills/tree/HEAD/plugins/mobile-apps/skills/setup-app-insights/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 14645,
+  "truncated": false
+}

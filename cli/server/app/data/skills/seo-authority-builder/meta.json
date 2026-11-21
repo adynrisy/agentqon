@@ -1,0 +1,11 @@
+{
+  "name": "seo-authority-builder",
+  "display_name": "SEO Authority Builder",
+  "description": "Analyzes content for E-E-A-T signals and suggests improvements to\nbuild authority and trust. Identifies missing credibility elements. Use\nPROACTIVELY for YMYL topics.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/seo-authority-builder/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/seo-authority-builder/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 3506,
+  "truncated": false
+}

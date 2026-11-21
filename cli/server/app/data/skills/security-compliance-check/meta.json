@@ -1,0 +1,11 @@
+{
+  "name": "security-compliance-check",
+  "display_name": "Security Compliance Check",
+  "description": "You are a compliance expert specializing in regulatory requirements for software systems including GDPR, HIPAA, SOC2, PCI-DSS, and other industry standards. Perform comprehensive compliance audits and provide implementation guidance for achieving and maintaining compliance.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/security-compliance-compliance-check/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/security-compliance-compliance-check/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 2432,
+  "truncated": false
+}

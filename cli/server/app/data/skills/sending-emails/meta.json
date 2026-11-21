@@ -1,0 +1,11 @@
+{
+  "name": "sending-emails",
+  "display_name": "Sending Emails",
+  "description": "Configure or troubleshoot Mailtrap live email sending with Email API, SMTP, transactional streams, bulk streams, or batches.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/mailtrap-sending-emails/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/mailtrap-sending-emails/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 10997,
+  "truncated": false
+}

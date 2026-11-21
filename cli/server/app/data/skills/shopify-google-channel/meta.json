@@ -1,0 +1,11 @@
+{
+  "name": "shopify-google-channel",
+  "display_name": "Shopify Google Channel",
+  "description": "Google integration — Shopping feed, Performance Max, free listings, Merchant Center optimization",
+  "repo": "nexscope-ai/eCommerce-Skills",
+  "path": "shopify-google-channel/SKILL.md",
+  "url": "https://github.com/nexscope-ai/eCommerce-Skills/tree/HEAD/shopify-google-channel/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 1678,
+  "truncated": false
+}

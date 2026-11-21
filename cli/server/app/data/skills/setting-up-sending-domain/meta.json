@@ -1,0 +1,11 @@
+{
+  "name": "setting-up-sending-domain",
+  "display_name": "Setting Up Sending Domain",
+  "description": "Add or verify a Mailtrap sending domain, troubleshoot DNS propagation, publish SPF/DKIM/DMARC records, and complete compliance.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/mailtrap-setting-up-sending-domain/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/mailtrap-setting-up-sending-domain/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 4927,
+  "truncated": false
+}

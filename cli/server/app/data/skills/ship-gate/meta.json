@@ -1,0 +1,11 @@
+{
+  "name": "ship-gate",
+  "display_name": "Ship Gate",
+  "description": "Pre-production audit that scans a codebase for security, database, deployment, code quality, AI/LLM, dependency, frontend, and observability issues. Intercepts deploy commands and blocks until critical items pass. Stack-agnostic. Use for \"run ship gate\", \"am I ready to ship\", \"pre-launch audit\", \"can I deploy\", \"push to production\", \"go live checklist\", \"preflight check\". Not for CI/CD setup or infra provisioning.",
+  "repo": "alirezarezvani/claude-skills",
+  "path": ".gemini/skills/ship-gate/SKILL.md",
+  "url": "https://github.com/alirezarezvani/claude-skills/tree/HEAD/.gemini/skills/ship-gate/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 6067,
+  "truncated": false
+}

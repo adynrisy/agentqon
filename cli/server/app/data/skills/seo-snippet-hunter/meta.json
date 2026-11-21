@@ -1,0 +1,11 @@
+{
+  "name": "seo-snippet-hunter",
+  "display_name": "SEO Snippet Hunter",
+  "description": "Formats content to be eligible for featured snippets and SERP features. Creates snippet-optimized content blocks based on best practices. Use PROACTIVELY for question-based content.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/seo-snippet-hunter/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/seo-snippet-hunter/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 2995,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "sentinel-de",
+  "display_name": "Sentinel De",
+  "description": "Auditoria e evolucao do ecossistema de skills. Qualidade de codigo, seguranca, custos, gaps, duplicacoes, dependencias e relatorios de saude.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/skill-sentinel/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/skill-sentinel/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 7867,
+  "truncated": false
+}

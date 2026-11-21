@@ -1,0 +1,11 @@
+{
+  "name": "setup-zoom-webhooks",
+  "display_name": "Setup Zoom Webhooks",
+  "description": "Reference skill for Zoom webhooks. Use after routing to an event-driven workflow when implementing subscriptions, signature verification, delivery handling, retries, or event-type selection.",
+  "repo": "anthropics/knowledge-work-plugins",
+  "path": "partner-built/zoom-plugin/skills/webhooks/SKILL.md",
+  "url": "https://github.com/anthropics/knowledge-work-plugins/tree/HEAD/partner-built/zoom-plugin/skills/webhooks/SKILL.md",
+  "license": "Apache-2.0",
+  "body_bytes": 4750,
+  "truncated": false
+}

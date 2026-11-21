@@ -1,0 +1,11 @@
+{
+  "name": "signal-expert",
+  "display_name": "Signal Expert",
+  "description": "Compare the user's notes with an expert's work on a topic. Return relevant exact quotes, source locations, and at least one gap in the user's thinking. Use only when /signal-from-expert is explicitly invoked.",
+  "repo": "davidondrej/skills",
+  "path": "skills/thinking-and-docs/signal-from-expert/SKILL.md",
+  "url": "https://github.com/davidondrej/skills/tree/HEAD/skills/thinking-and-docs/signal-from-expert/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 2827,
+  "truncated": false
+}

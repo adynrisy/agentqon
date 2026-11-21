@@ -1,0 +1,11 @@
+{
+  "name": "self-archive",
+  "display_name": "Self Archive",
+  "description": "Archive the current Cloudroom thread and release its runtime. Use only when the user explicitly asks to self-archive, archive yourself, or archive this thread.",
+  "repo": "davidondrej/skills",
+  "path": "skills/agent-orchestration/self-archive/SKILL.md",
+  "url": "https://github.com/davidondrej/skills/tree/HEAD/skills/agent-orchestration/self-archive/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 684,
+  "truncated": false
+}

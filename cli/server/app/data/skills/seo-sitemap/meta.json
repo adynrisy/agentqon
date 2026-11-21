@@ -1,0 +1,11 @@
+{
+  "name": "seo-sitemap",
+  "display_name": "SEO Sitemap",
+  "description": "Analyze existing XML sitemaps or generate new ones with industry templates. Validates format, URLs, and structure. Use when user says \"sitemap\", \"generate sitemap\", \"sitemap issues\", or \"XML sitemap\".",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/seo-sitemap/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/seo-sitemap/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 4008,
+  "truncated": false
+}

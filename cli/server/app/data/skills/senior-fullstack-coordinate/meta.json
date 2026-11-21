@@ -1,0 +1,11 @@
+{
+  "name": "senior-fullstack-coordinate",
+  "display_name": "Senior Fullstack · Coordinate",
+  "description": "Coordinate full-stack implementation across interface, service, database and delivery boundaries using the existing project stack and verified checks.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/senior-fullstack/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/senior-fullstack/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 2569,
+  "truncated": false
+}

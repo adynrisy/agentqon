@@ -1,0 +1,11 @@
+{
+  "name": "shopify-inventory-management",
+  "display_name": "Shopify Inventory Management",
+  "description": "Multi-location inventory — transfers, low stock alerts, demand forecasting, safety stock, ABC analysis",
+  "repo": "nexscope-ai/eCommerce-Skills",
+  "path": "shopify-inventory-management/SKILL.md",
+  "url": "https://github.com/nexscope-ai/eCommerce-Skills/tree/HEAD/shopify-inventory-management/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 1726,
+  "truncated": false
+}

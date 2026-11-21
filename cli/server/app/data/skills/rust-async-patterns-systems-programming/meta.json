@@ -1,0 +1,11 @@
+{
+  "name": "rust-async-patterns-systems-programming",
+  "display_name": "Rust Async Patterns · Systems Programming",
+  "description": "Master Rust async programming with Tokio, async traits, error handling, and concurrent patterns. Use when building async Rust applications, implementing concurrent systems, or debugging async code.",
+  "repo": "wshobson/agents",
+  "path": "plugins/systems-programming/skills/rust-async-patterns/SKILL.md",
+  "url": "https://github.com/wshobson/agents/tree/HEAD/plugins/systems-programming/skills/rust-async-patterns/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 2433,
+  "truncated": false
+}

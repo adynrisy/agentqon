@@ -1,0 +1,11 @@
+{
+  "name": "security-scanning-sast",
+  "display_name": "Security Scanning SAST",
+  "description": "Static Application Security Testing (SAST) for code vulnerability\nanalysis across multiple languages and frameworks",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/security-scanning-security-sast/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/security-scanning-security-sast/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 1605,
+  "truncated": false
+}

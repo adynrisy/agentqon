@@ -1,0 +1,11 @@
+{
+  "name": "short-image-prompts",
+  "display_name": "Short Image Prompts",
+  "description": "为短剧人物、造型、地点、道具和状态编写或修改可直接复制的图片提示词 Markdown。用户提到角色设定图、三视图、参考图、场景板、道具图、风格帧、Look Development、状态变体或局部编辑提示词时使用；不生成图片，也不调用供应商。",
+  "repo": "zenstory-ai/drama-skills",
+  "path": "skills/short-drama-image-prompts/SKILL.md",
+  "url": "https://github.com/zenstory-ai/drama-skills/tree/HEAD/skills/short-drama-image-prompts/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 4633,
+  "truncated": false
+}

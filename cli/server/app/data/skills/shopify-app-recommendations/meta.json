@@ -1,0 +1,11 @@
+{
+  "name": "shopify-app-recommendations",
+  "display_name": "Shopify App Recommendations",
+  "description": "App stack advisor — essential apps by business stage, cost optimization, performance impact analysis",
+  "repo": "nexscope-ai/eCommerce-Skills",
+  "path": "shopify-app-recommendations/SKILL.md",
+  "url": "https://github.com/nexscope-ai/eCommerce-Skills/tree/HEAD/shopify-app-recommendations/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 1717,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "security-review",
+  "display_name": "Security Review",
+  "description": "Runs a guided, end-to-end security review of a Power Pages site and consolidates every finding into one HTML report covering source code and dependencies, the live site, browser headers, firewall, authentication, and role-based permissions. Use when the user wants a full security review, a release-readiness check before publishing, a code-and-config check during development, live site monitoring, or asks open-ended questions like \"review my site security\", \"is my site safe to ship\", \"do a security check\", \"monitor my site\" — even if they do not name the individual checks.",
+  "repo": "microsoft/power-platform-skills",
+  "path": "plugins/power-pages/skills/security-review/SKILL.md",
+  "url": "https://github.com/microsoft/power-platform-skills/tree/HEAD/plugins/power-pages/skills/security-review/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 16589,
+  "truncated": false
+}

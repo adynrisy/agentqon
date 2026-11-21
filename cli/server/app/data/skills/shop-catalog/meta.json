@@ -1,0 +1,11 @@
+{
+  "name": "shop-catalog",
+  "display_name": "Shop Catalog",
+  "description": "Browse a Taobao or Tmall shop's product catalog by shopId, returning paginated product listings with itemId and title. Use when user asks to scrape a Taobao shop, get all products from a store, list items in a Taobao/Tmall shop, fetch shop catalog by userId or shopId, 采集淘宝店铺商品, 抓取淘宝店铺所有商品, 获取天猫店铺商品列表, 淘宝店铺目录, 按店铺ID采集商品. Also applies to shop inventory monitoring, competitor store analysis, and bulk itemId collection from a specific seller.",
+  "repo": "browser-act/skills",
+  "path": "solutions/ecommerce/taobao-shop-catalog/SKILL.md",
+  "url": "https://github.com/browser-act/skills/tree/HEAD/solutions/ecommerce/taobao-shop-catalog/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 5380,
+  "truncated": false
+}

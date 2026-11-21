@@ -1,0 +1,11 @@
+{
+  "name": "sexual-health-analyzer",
+  "display_name": "Sexual Health Analyzer",
+  "description": "Sexual Health Analyzer",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/sexual-health-analyzer/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/sexual-health-analyzer/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 1089,
+  "truncated": false
+}

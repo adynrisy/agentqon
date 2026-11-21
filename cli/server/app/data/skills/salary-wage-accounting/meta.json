@@ -1,0 +1,11 @@
+{
+  "name": "salary-wage-accounting",
+  "display_name": "Salary Wage Accounting",
+  "description": "Payroll register: gross, allowances, TDS and provident fund deductions, net pay, payment date and statutory reconciliation. Use for salary accounting.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/salary-wage-accounting/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/salary-wage-accounting/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 20031,
+  "truncated": false
+}

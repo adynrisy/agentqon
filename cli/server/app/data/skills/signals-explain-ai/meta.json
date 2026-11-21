@@ -1,0 +1,11 @@
+{
+  "name": "signals-explain-ai",
+  "display_name": "Signals Explain AI",
+  "description": "Fetch and explain TraderSpy's AI crypto futures signals: entry, take-profit ladder, stop, triggers, status against the live price, and how recent signals resolved. Use for \"latest signals\".",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/traderspy-trading-signals/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/traderspy-trading-signals/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 8163,
+  "truncated": false
+}

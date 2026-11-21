@@ -1,0 +1,11 @@
+{
+  "name": "seo-aeo-keyword-research",
+  "display_name": "SEO Aeo Keyword Research",
+  "description": "Researches and prioritises keywords from the site context and live search intent, including problem queries, question queries, difficulty tiers, and a content map.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/seo-aeo-keyword-research/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/seo-aeo-keyword-research/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 15386,
+  "truncated": false
+}

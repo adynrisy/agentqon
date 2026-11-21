@@ -1,0 +1,11 @@
+{
+  "name": "saga-orchestration-backend-development",
+  "display_name": "Saga Orchestration · Backend Development",
+  "description": "Implement saga patterns for distributed transactions and cross-aggregate workflows. Use this skill when implementing distributed transactions across microservices where 2PC is unavailable, designing compensating actions for failed order workflows that span inventory, payment, and shipping services, building event-driven saga coordinators for travel booking systems that must roll back hotel, flight, and car rental reservations atomically, or debugging stuck saga states in production where compensation steps never complete.",
+  "repo": "wshobson/agents",
+  "path": "plugins/backend-development/skills/saga-orchestration/SKILL.md",
+  "url": "https://github.com/wshobson/agents/tree/HEAD/plugins/backend-development/skills/saga-orchestration/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 5470,
+  "truncated": false
+}

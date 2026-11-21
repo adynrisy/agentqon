@@ -1,0 +1,11 @@
+{
+  "name": "schema-markup-generator",
+  "display_name": "Schema Markup Generator",
+  "description": "Generate and implement JSON-LD structured data for web apps, blogs, FAQs, and SaaS sites. Supports WebSite, SoftwareApplication, BlogPosting, FAQPage, HowTo, and more.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/schema-markup-generator/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/schema-markup-generator/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 7873,
+  "truncated": false
+}

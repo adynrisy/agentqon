@@ -1,0 +1,11 @@
+{
+  "name": "seo-technical",
+  "display_name": "SEO Technical",
+  "description": "Audit technical SEO across crawlability, indexability, security, URLs, mobile, Core Web Vitals, structured data, JavaScript rendering, and related platform signals like robots.txt and AI crawler access.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/seo-technical/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/seo-technical/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 8204,
+  "truncated": false
+}

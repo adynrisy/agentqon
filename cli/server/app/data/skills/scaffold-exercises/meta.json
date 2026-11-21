@@ -1,0 +1,11 @@
+{
+  "name": "scaffold-exercises",
+  "display_name": "Scaffold Exercises",
+  "description": "Create exercise directory structures with sections, problems, solutions, and explainers that pass linting. Use when user wants to scaffold exercises, create exercise stubs, or set up a new course section.",
+  "repo": "mattpocock/skills",
+  "path": "skills/misc/scaffold-exercises/SKILL.md",
+  "url": "https://github.com/mattpocock/skills/tree/HEAD/skills/misc/scaffold-exercises/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 3337,
+  "truncated": false
+}

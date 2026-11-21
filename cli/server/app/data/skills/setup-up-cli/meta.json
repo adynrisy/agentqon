@@ -1,0 +1,11 @@
+{
+  "name": "setup-up-cli",
+  "display_name": "Setup Up CLI",
+  "description": "Set up Power Automate CLI prerequisites. Use when the user is new, something isn't working, or they need help getting started.",
+  "repo": "microsoft/power-platform-skills",
+  "path": "plugins/power-automate/skills/setup/SKILL.md",
+  "url": "https://github.com/microsoft/power-platform-skills/tree/HEAD/plugins/power-automate/skills/setup/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 11946,
+  "truncated": false
+}

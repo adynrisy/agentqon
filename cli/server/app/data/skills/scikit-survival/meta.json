@@ -1,0 +1,11 @@
+{
+  "name": "scikit-survival",
+  "display_name": "Scikit Survival",
+  "description": "Builds, evaluates, and audits right-censored or competing-risk survival workflows with scikit-survival, including leakage-safe preprocessing, model selection, probability prediction, and censoring-aware metrics.",
+  "repo": "K-Dense-AI/scientific-agent-skills",
+  "path": "skills/scikit-survival/SKILL.md",
+  "url": "https://github.com/K-Dense-AI/scientific-agent-skills/tree/HEAD/skills/scikit-survival/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 15929,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "setup-pipeline",
+  "display_name": "Setup Pipeline",
+  "description": "Sets up a Power Platform Pipeline for automated Power Pages deployments. Power Platform Pipelines is Microsoft's native CI/CD tool built into the Power Platform — no external infrastructure required. Use when asked to: \"set up ci/cd\", \"create pipeline\", \"setup pipeline\", \"set up power platform pipelines\", \"create power pipelines\", \"automate deployments\", \"set up automated deployment\", \"create deployment pipeline\", \"use power pipelines\". Also handles: \"set up github actions\" or \"set up azure devops pipeline\" (shows coming-soon guidance for those platforms).",
+  "repo": "microsoft/power-platform-skills",
+  "path": "plugins/power-pages/skills/setup-pipeline/SKILL.md",
+  "url": "https://github.com/microsoft/power-platform-skills/tree/HEAD/plugins/power-pages/skills/setup-pipeline/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 42257,
+  "truncated": false
+}

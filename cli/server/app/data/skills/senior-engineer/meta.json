@@ -1,0 +1,11 @@
+{
+  "name": "senior-engineer",
+  "display_name": "Senior Engineer",
+  "description": "Senior Engineer agent for architecture decisions, code review, DevOps, and API design. Orchestrates engineering and engineering-team skills for technical implementation work. Spawn when users need system design, code quality review, CI/CD pipeline setup, or infrastructure decisions.",
+  "repo": "alirezarezvani/claude-skills",
+  "path": ".gemini/skills/cs-senior-engineer/SKILL.md",
+  "url": "https://github.com/alirezarezvani/claude-skills/tree/HEAD/.gemini/skills/cs-senior-engineer/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 4115,
+  "truncated": false
+}

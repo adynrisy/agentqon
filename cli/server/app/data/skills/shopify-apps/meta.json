@@ -1,0 +1,11 @@
+{
+  "name": "shopify-apps",
+  "display_name": "Shopify Apps",
+  "description": "Expert patterns for Shopify app development including Remix/React Router apps, embedded apps with App Bridge, webhook handling, GraphQL Admin API, Polaris components, billing, and app extensions.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/shopify-apps/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/shopify-apps/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 1115,
+  "truncated": false
+}

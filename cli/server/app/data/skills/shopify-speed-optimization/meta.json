@@ -1,0 +1,11 @@
+{
+  "name": "shopify-speed-optimization",
+  "display_name": "Shopify Speed Optimization",
+  "description": "Store speed audit — lazy loading, image compression, app bloat removal, theme code optimization",
+  "repo": "nexscope-ai/eCommerce-Skills",
+  "path": "shopify-speed-optimization/SKILL.md",
+  "url": "https://github.com/nexscope-ai/eCommerce-Skills/tree/HEAD/shopify-speed-optimization/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 1705,
+  "truncated": false
+}

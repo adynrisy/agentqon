@@ -1,0 +1,11 @@
+{
+  "name": "scholar-evaluation",
+  "display_name": "Scholar Evaluation",
+  "description": "Provides qualitative-first, evidence-traceable developmental review of scholarly works and audit low-stakes research-assessment rubrics with optional local quality controls. Never use for ranking people or consequential decisions.",
+  "repo": "K-Dense-AI/scientific-agent-skills",
+  "path": "skills/scholar-evaluation/SKILL.md",
+  "url": "https://github.com/K-Dense-AI/scientific-agent-skills/tree/HEAD/skills/scholar-evaluation/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 11812,
+  "truncated": false
+}

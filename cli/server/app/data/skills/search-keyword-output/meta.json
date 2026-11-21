@@ -1,0 +1,11 @@
+{
+  "name": "search-keyword-output",
+  "display_name": "Search Keyword Output",
+  "description": "Scrapes second-hand item search results from Goofish (闲鱼/xianyu, goofish.com) — China's largest second-hand marketplace. Input: keyword, optional sort/filter params. Output: list of items with id, title, price, image, location, want-count per page (30 items/page). Use when user mentions goofish, 闲鱼, xianyu, 二手交易, second-hand marketplace China, 二手商品搜索, search used goods, scrape goofish listings, xianyu search results, collect second-hand prices, monitor used item prices, 闲鱼关键词搜索, 闲鱼数据采集, 批量抓取闲鱼, goofish scraper, goofish data, xianyu data extraction, 二手商品价格监控, used iPhone prices, 二手手机价格. Also applies to: price research on Chinese second-hand market, competitor product monitoring via used goods listings, inventory analysis.",
+  "repo": "browser-act/skills",
+  "path": "solutions/ecommerce/goofish-search-list/SKILL.md",
+  "url": "https://github.com/browser-act/skills/tree/HEAD/solutions/ecommerce/goofish-search-list/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 7565,
+  "truncated": false
+}

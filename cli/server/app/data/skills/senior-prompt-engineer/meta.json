@@ -1,0 +1,11 @@
+{
+  "name": "senior-prompt-engineer",
+  "display_name": "Senior Prompt Engineer",
+  "description": "Use when the user asks to optimize prompts, design prompt templates, evaluate LLM outputs with an eval set, measure RAG retrieval quality, validate agent/tool configurations, analyze token usage, or design structured-output contracts. Covers eval-driven prompt iteration, RAG metrics (relevance, faithfulness, coverage), agent workflow validation, and token/cost budgeting — all model-agnostic, with three stdlib Python tools.",
+  "repo": "alirezarezvani/claude-skills",
+  "path": ".gemini/skills/senior-prompt-engineer/SKILL.md",
+  "url": "https://github.com/alirezarezvani/claude-skills/tree/HEAD/.gemini/skills/senior-prompt-engineer/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 9472,
+  "truncated": false
+}

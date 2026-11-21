@@ -1,0 +1,11 @@
+{
+  "name": "scientific-writing",
+  "display_name": "Scientific Writing",
+  "description": "This is the core skill for the deep research and writing tool—combining AI-driven deep research with well-formatted written outputs. Every document produced is backed by comprehensive literature search and verified citations through the research-lookup skill.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/scientific-writing/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/scientific-writing/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 1533,
+  "truncated": false
+}

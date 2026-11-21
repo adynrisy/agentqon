@@ -1,0 +1,11 @@
+{
+  "name": "seo-aeo-blog-writer",
+  "display_name": "SEO Aeo Blog Writer",
+  "description": "Writes search-intent-led long-form articles with answer-first structure, FAQ coverage, internal links, and conversion paths for SEO and AEO.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/seo-aeo-blog-writer/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/seo-aeo-blog-writer/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 5853,
+  "truncated": false
+}

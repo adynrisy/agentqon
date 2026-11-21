@@ -1,0 +1,11 @@
+{
+  "name": "serply-search-mcp",
+  "display_name": "Serply Search MCP",
+  "description": "Search Google, Bing, Google News and Google Scholar, and read public pages, with the Serply MCP server. Use when the user chooses Serply or its connected tools for current information and source verification.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/serply-search-mcp/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/serply-search-mcp/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 5711,
+  "truncated": false
+}

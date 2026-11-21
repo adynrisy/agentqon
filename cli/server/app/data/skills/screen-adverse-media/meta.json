@@ -1,0 +1,11 @@
+{
+  "name": "screen-adverse-media",
+  "display_name": "Screen Adverse Media",
+  "description": "Screen a person or organisation for adverse media coverage, PEP status, and sanctions exposure — corroboration-gated, returns \"review\" never \"guilty\". Use when the user asks to screen someone before onboarding, partnership, or investment; for AML/CTF flows; or for ongoing counterparty monitoring.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/screen-adverse-media/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/screen-adverse-media/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 3693,
+  "truncated": false
+}

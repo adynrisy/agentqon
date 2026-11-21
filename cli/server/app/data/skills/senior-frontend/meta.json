@@ -1,0 +1,11 @@
+{
+  "name": "senior-frontend",
+  "display_name": "Senior Frontend",
+  "description": "Frontend development skill for React, Next.js, TypeScript, and Tailwind CSS applications. Use when building React components, optimizing Next.js performance, analyzing bundle sizes, scaffolding frontend projects, implementing accessibility, or reviewing frontend code quality.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/senior-frontend/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/senior-frontend/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 12072,
+  "truncated": false
+}

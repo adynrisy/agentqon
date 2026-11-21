@@ -1,0 +1,11 @@
+{
+  "name": "session-user-this",
+  "display_name": "Session User This",
+  "description": "Manually-invoked skill that renames the current thread or session to 2-5 lowercase descriptive words. Use when the user says \"rename\", \"rename this\", \"rename thread\", or \"rename session\".",
+  "repo": "davidondrej/skills",
+  "path": "skills/thinking-and-docs/rename/SKILL.md",
+  "url": "https://github.com/davidondrej/skills/tree/HEAD/skills/thinking-and-docs/rename/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 413,
+  "truncated": false
+}

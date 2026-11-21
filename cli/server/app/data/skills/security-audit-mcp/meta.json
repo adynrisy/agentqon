@@ -1,0 +1,11 @@
+{
+  "name": "security-audit-mcp",
+  "display_name": "Security Audit · MCP",
+  "description": "Audit an Agent Skill, MCP server, connector, or desktop extension before installation by tracing code, dependencies, permissions, credentials, data flow, and irreversible actions.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/skill-security-audit/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/skill-security-audit/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 4923,
+  "truncated": false
+}

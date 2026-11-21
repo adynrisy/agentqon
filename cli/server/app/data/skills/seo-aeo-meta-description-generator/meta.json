@@ -1,0 +1,11 @@
+{
+  "name": "seo-aeo-meta-description-generator",
+  "display_name": "SEO Aeo Meta Description Generator",
+  "description": "Writes title tags, meta descriptions, Open Graph tags, and Twitter Card tags aligned to page intent and conversion goals.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/seo-aeo-meta-description-generator/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/seo-aeo-meta-description-generator/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 12285,
+  "truncated": false
+}

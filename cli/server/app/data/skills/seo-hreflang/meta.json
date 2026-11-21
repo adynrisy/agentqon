@@ -1,0 +1,11 @@
+{
+  "name": "seo-hreflang",
+  "display_name": "SEO Hreflang",
+  "description": "Hreflang and international SEO audit, validation, and generation. Detects common mistakes, validates language/region codes, and generates correct hreflang implementations. Use when user says \"hreflang\", \"i18n SEO\", \"international SEO\", \"multi-language\", \"multi-region\", or \"language tags\".",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/seo-hreflang/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/seo-hreflang/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 8809,
+  "truncated": false
+}

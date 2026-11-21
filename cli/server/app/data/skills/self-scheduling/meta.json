@@ -1,0 +1,11 @@
+{
+  "name": "self-scheduling",
+  "display_name": "Self Scheduling",
+  "description": "Schedule AI agent runs with cron, loops, or external clocks while avoiding unsafe tight autonomous timers.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/agent-self-scheduling/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/agent-self-scheduling/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 5140,
+  "truncated": false
+}

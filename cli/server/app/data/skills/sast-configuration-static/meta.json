@@ -1,0 +1,11 @@
+{
+  "name": "sast-configuration-static",
+  "display_name": "SAST Configuration · Static",
+  "description": "Static Application Security Testing (SAST) tool setup, configuration, and custom rule creation for comprehensive security scanning across multiple programming languages.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/sast-configuration/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/sast-configuration/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 6270,
+  "truncated": false
+}

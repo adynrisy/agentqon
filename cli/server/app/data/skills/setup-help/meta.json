@@ -1,0 +1,11 @@
+{
+  "name": "setup-help",
+  "display_name": "Setup Help",
+  "description": "Guide setup one step at a time and show what remains. Use only when the user explicitly asks for it by name.",
+  "repo": "davidondrej/skills",
+  "path": "skills/ops-and-setup/setup-help/SKILL.md",
+  "url": "https://github.com/davidondrej/skills/tree/HEAD/skills/ops-and-setup/setup-help/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 2042,
+  "truncated": false
+}

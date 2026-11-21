@@ -1,0 +1,11 @@
+{
+  "name": "screen-reader-testing-accessibility-compliance",
+  "display_name": "Screen Reader Testing · Accessibility Compliance",
+  "description": "Test web applications with screen readers including VoiceOver, NVDA, and JAWS. Use when validating screen reader compatibility, debugging accessibility issues, or ensuring assistive technology support.",
+  "repo": "wshobson/agents",
+  "path": "plugins/accessibility-compliance/skills/screen-reader-testing/SKILL.md",
+  "url": "https://github.com/wshobson/agents/tree/HEAD/plugins/accessibility-compliance/skills/screen-reader-testing/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 6171,
+  "truncated": false
+}

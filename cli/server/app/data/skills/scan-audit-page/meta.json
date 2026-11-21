@@ -1,0 +1,11 @@
+{
+  "name": "scan-audit-page",
+  "display_name": "Scan Audit Page",
+  "description": "Audit a live page for accessibility issues, locate each WCAG violation precisely, and return a selector-grounded fix worklist without editing.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/accesslint-scan/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/accesslint-scan/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 3095,
+  "truncated": false
+}

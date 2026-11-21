@@ -1,0 +1,11 @@
+{
+  "name": "scvi-tools-fits",
+  "display_name": "Scvi Tools · Fits",
+  "description": "Fits probabilistic models for single-cell omics, including scVI batch integration, scANVI annotation, totalVI CITE-seq, MultiVI RNA/ATAC integration, and posterior differential expression. Use for generative modeling, reference mapping, multimodal analysis, or model-based uncertainty; use scanpy for standard preprocessing and exploratory analysis.",
+  "repo": "K-Dense-AI/scientific-agent-skills",
+  "path": "skills/scvi-tools/SKILL.md",
+  "url": "https://github.com/K-Dense-AI/scientific-agent-skills/tree/HEAD/skills/scvi-tools/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 9437,
+  "truncated": false
+}

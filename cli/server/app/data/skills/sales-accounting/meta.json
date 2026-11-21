@@ -1,0 +1,11 @@
+{
+  "name": "sales-accounting",
+  "display_name": "Sales Accounting",
+  "description": "Sales register: customer, invoice, gross amount, discount, VAT and TDS, net receivable, credit terms and balance. Use for sales accounting.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/sales-accounting/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/sales-accounting/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 25081,
+  "truncated": false
+}

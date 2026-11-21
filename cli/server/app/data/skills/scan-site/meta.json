@@ -1,0 +1,11 @@
+{
+  "name": "scan-site",
+  "display_name": "Scan Site",
+  "description": "Runs a security scan on a deployed Power Pages site, fetches the latest scan report, and produces a plain-language summary. Scans the live site's public surface for vulnerabilities and surfaces issues by severity. Use when the user wants to scan, check, test, audit, or assess a published site, find vulnerabilities on production, view the latest scan report, see previous scan results, run a security audit, or asks \"how safe is my live site?\", \"is my site vulnerable?\", \"audit my production site\" — even if they say \"find issues\" or \"check for problems\" without mentioning \"scan\" or \"security\".",
+  "repo": "microsoft/power-platform-skills",
+  "path": "plugins/power-pages/skills/scan-site/SKILL.md",
+  "url": "https://github.com/microsoft/power-platform-skills/tree/HEAD/plugins/power-pages/skills/scan-site/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 11988,
+  "truncated": false
+}

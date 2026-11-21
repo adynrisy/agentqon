@@ -1,0 +1,11 @@
+{
+  "name": "shopify-review-triage",
+  "display_name": "Shopify Review Triage",
+  "description": "Turn public 1-3-star Shopify App Store review rows into a P0-P3 triage brief: incident risk, repeated friction, pricing confusion, feature requests, and an explicit needs-human-read bucket.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/shopify-review-triage/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/shopify-review-triage/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 22847,
+  "truncated": false
+}

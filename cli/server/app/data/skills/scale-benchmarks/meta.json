@@ -1,0 +1,11 @@
+{
+  "name": "scale-benchmarks",
+  "display_name": "Scale Benchmarks",
+  "description": "Reference document for monopoly scale-benchmarks.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/monopoly/scale-benchmarks/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/monopoly/scale-benchmarks/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 5419,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "setup-user-design",
+  "display_name": "Setup User Design",
+  "description": "Use when the user wants to design or redesign the Dataverse schema and connector plan for an existing mobile app, or has an ER diagram (image, Mermaid, or text) to apply. Skip when the user is creating a brand-new app — /create-mobile-app handles the data model inline.",
+  "repo": "microsoft/power-platform-skills",
+  "path": "plugins/mobile-apps/skills/setup-datamodel/SKILL.md",
+  "url": "https://github.com/microsoft/power-platform-skills/tree/HEAD/plugins/mobile-apps/skills/setup-datamodel/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 23525,
+  "truncated": false
+}

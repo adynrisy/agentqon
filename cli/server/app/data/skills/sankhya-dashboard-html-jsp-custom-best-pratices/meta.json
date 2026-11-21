@@ -1,0 +1,11 @@
+{
+  "name": "sankhya-dashboard-html-jsp-custom-best-pratices",
+  "display_name": "Sankhya Dashboard HTML Jsp Custom Best Pratices",
+  "description": "This skill should be used when the user asks for patterns, best practices, creation, or fixing of Sankhya dashboards using HTML, JSP, Java, and SQL.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/sankhya-dashboard-html-jsp-custom-best-pratices/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/sankhya-dashboard-html-jsp-custom-best-pratices/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 17156,
+  "truncated": false
+}

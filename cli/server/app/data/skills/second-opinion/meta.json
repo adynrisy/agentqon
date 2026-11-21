@@ -1,0 +1,11 @@
+{
+  "name": "second-opinion",
+  "display_name": "Second Opinion",
+  "description": "Gets independent code reviews from Codex or Antigravity for uncommitted changes, branch diffs, and commits. Use when the user requests an external review, a second opinion on code, a codex review, a gemini review, an antigravity review, or /second-opinion.",
+  "repo": "trailofbits/skills",
+  "path": "plugins/second-opinion/skills/second-opinion/SKILL.md",
+  "url": "https://github.com/trailofbits/skills/tree/HEAD/plugins/second-opinion/skills/second-opinion/SKILL.md",
+  "license": "CC",
+  "body_bytes": 4693,
+  "truncated": false
+}

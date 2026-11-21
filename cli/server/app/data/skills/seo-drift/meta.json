@@ -1,0 +1,11 @@
+{
+  "name": "seo-drift",
+  "display_name": "SEO Drift",
+  "description": "Snapshot a site's SEO state and detect ranking, indexation, metadata, canonical, robots, schema, and on-page regressions over time.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/seo-drift/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/seo-drift/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 6676,
+  "truncated": false
+}

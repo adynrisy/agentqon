@@ -1,0 +1,11 @@
+{
+  "name": "sharp-coder",
+  "display_name": "Sharp Coder",
+  "description": "Two-layer performance skill combining disciplined THINK layer (surgical edits, simplicity) and terse SPEAK layer (caveman compression). Triggers on requests for brevity, token efficiency, or disciplined coding.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/sharp-coder/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/sharp-coder/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 5101,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "security-requirement-extraction-security-scanning",
+  "display_name": "Security Requirement Extraction · Security Scanning",
+  "description": "Derive security requirements from threat models and business context. Use when translating threats into actionable requirements, creating security user stories, or building security test cases.",
+  "repo": "wshobson/agents",
+  "path": "plugins/security-scanning/skills/security-requirement-extraction/SKILL.md",
+  "url": "https://github.com/wshobson/agents/tree/HEAD/plugins/security-scanning/skills/security-requirement-extraction/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 2283,
+  "truncated": false
+}

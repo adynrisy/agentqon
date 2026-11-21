@@ -1,0 +1,11 @@
+{
+  "name": "senior-computer-vision",
+  "display_name": "Senior Computer Vision",
+  "description": "Computer vision engineering skill for object detection, image segmentation, and visual AI systems. Covers CNN and Vision Transformer architectures, YOLO/Faster R-CNN/DETR detection, Mask R-CNN/SAM segmentation, and production deployment with ONNX/TensorRT. Includes PyTorch, torchvision, Ultralytics, Detectron2, and MMDetection frameworks. Use when building detection pipelines, training custom models, optimizing inference, or deploying vision systems.",
+  "repo": "alirezarezvani/claude-skills",
+  "path": ".gemini/skills/senior-computer-vision/SKILL.md",
+  "url": "https://github.com/alirezarezvani/claude-skills/tree/HEAD/.gemini/skills/senior-computer-vision/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 12398,
+  "truncated": false
+}

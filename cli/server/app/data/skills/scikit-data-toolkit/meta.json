@@ -1,0 +1,11 @@
+{
+  "name": "scikit-data-toolkit",
+  "display_name": "Scikit Data Toolkit",
+  "description": "Biological data toolkit. Sequence analysis, alignments, phylogenetic trees, diversity metrics (alpha/beta, UniFrac), ordination (PCoA), PERMANOVA, FASTA/Newick I/O, for microbiome analysis.",
+  "repo": "K-Dense-AI/scientific-agent-skills",
+  "path": "skills/scikit-bio/SKILL.md",
+  "url": "https://github.com/K-Dense-AI/scientific-agent-skills/tree/HEAD/skills/scikit-bio/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 23260,
+  "truncated": false
+}

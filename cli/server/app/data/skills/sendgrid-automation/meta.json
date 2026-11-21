@@ -1,0 +1,11 @@
+{
+  "name": "sendgrid-automation",
+  "display_name": "Sendgrid Automation",
+  "description": "Automate SendGrid email delivery workflows including marketing campaigns (Single Sends), contact and list management, sender identity setup, and email analytics through Composio's SendGrid toolkit.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/sendgrid-automation/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/sendgrid-automation/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 13077,
+  "truncated": false
+}

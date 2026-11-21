@@ -1,0 +1,11 @@
+{
+  "name": "security-hardening",
+  "display_name": "Security Hardening",
+  "description": "Harden OpenClaw self-hosted environments with baseline host controls, auth tightening, secret handling, network segmentation, and safe update/rollback workflows.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/openclaw-security-hardening/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/openclaw-security-hardening/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 4130,
+  "truncated": false
+}

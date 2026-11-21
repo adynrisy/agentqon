@@ -1,0 +1,11 @@
+{
+  "name": "seo-audit-marketing",
+  "display_name": "SEO Audit · Marketing",
+  "description": "Run a comprehensive SEO audit — keyword research, on-page analysis, content gaps, technical checks, and competitor comparison. Use when assessing a site's SEO health, when finding keyword opportunities and content gaps competitors own, or when you need a prioritized action plan split into quick wins and strategic investments.",
+  "repo": "anthropics/knowledge-work-plugins",
+  "path": "marketing/skills/seo-audit/SKILL.md",
+  "url": "https://github.com/anthropics/knowledge-work-plugins/tree/HEAD/marketing/skills/seo-audit/SKILL.md",
+  "license": "Apache-2.0",
+  "body_bytes": 9113,
+  "truncated": false
+}

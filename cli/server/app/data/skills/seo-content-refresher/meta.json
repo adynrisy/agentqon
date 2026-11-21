@@ -1,0 +1,11 @@
+{
+  "name": "seo-content-refresher",
+  "display_name": "SEO Content Refresher",
+  "description": "Identifies outdated elements in provided content and suggests updates to maintain freshness. Finds statistics, dates, and examples that need updating. Use PROACTIVELY for older content.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/seo-content-refresher/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/seo-content-refresher/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 3732,
+  "truncated": false
+}
