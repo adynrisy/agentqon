@@ -1,0 +1,11 @@
+{
+  "name": "zk-proof-verification-pipeline",
+  "display_name": "Zk Proof Verification Pipeline",
+  "description": "Zero-knowledge cryptographic verification pipeline register: proving system, circuit verification keys, public inputs, and gas costs.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/zk-proof-verification-pipeline/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/zk-proof-verification-pipeline/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 4932,
+  "truncated": false
+}

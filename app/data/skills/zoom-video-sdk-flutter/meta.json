@@ -1,0 +1,11 @@
+{
+  "name": "zoom-video-sdk-flutter",
+  "display_name": "Zoom Video SDK Flutter",
+  "description": "Zoom Video SDK for Flutter. Use when building custom video session apps in Flutter with\nflutter_zoom_videosdk, event-driven architecture, session lifecycle handling, and mobile\nplatform integration patterns.",
+  "repo": "anthropics/knowledge-work-plugins",
+  "path": "partner-built/zoom-plugin/skills/video-sdk/flutter/SKILL.md",
+  "url": "https://github.com/anthropics/knowledge-work-plugins/tree/HEAD/partner-built/zoom-plugin/skills/video-sdk/flutter/SKILL.md",
+  "license": "Apache-2.0",
+  "body_bytes": 2618,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "zoom-automation",
+  "display_name": "Zoom Automation",
+  "description": "Automate Zoom meeting creation, management, recordings, webinars, and participant tracking via Rube MCP (Composio). Always search tools first for current schemas.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/zoom-automation/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/zoom-automation/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 11094,
+  "truncated": false
+}

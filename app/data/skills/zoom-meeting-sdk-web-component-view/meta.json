@@ -1,0 +1,11 @@
+{
+  "name": "zoom-meeting-sdk-web-component-view",
+  "display_name": "Zoom Meeting SDK Web Component View",
+  "description": "Zoom Meeting SDK Web - Component View. Embeddable Zoom meeting components with Promise-based API\nfor flexible integration. Ideal for React/Vue/Angular apps and custom layouts. Uses ZoomMtgEmbedded\nwith async/await patterns and embeddable UI containers.",
+  "repo": "anthropics/knowledge-work-plugins",
+  "path": "partner-built/zoom-plugin/skills/meeting-sdk/web/component-view/SKILL.md",
+  "url": "https://github.com/anthropics/knowledge-work-plugins/tree/HEAD/partner-built/zoom-plugin/skills/meeting-sdk/web/component-view/SKILL.md",
+  "license": "Apache-2.0",
+  "body_bytes": 13818,
+  "truncated": false
+}

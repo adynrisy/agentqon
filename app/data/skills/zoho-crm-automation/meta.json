@@ -1,0 +1,11 @@
+{
+  "name": "zoho-crm-automation",
+  "display_name": "Zoho CRM Automation",
+  "description": "Automate Zoho CRM tasks via Rube MCP (Composio): create/update records, search contacts, manage leads, and convert leads. Always search tools first for current schemas.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/zoho-crm-automation/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/zoho-crm-automation/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 7720,
+  "truncated": false
+}

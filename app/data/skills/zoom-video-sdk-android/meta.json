@@ -1,0 +1,11 @@
+{
+  "name": "zoom-video-sdk-android",
+  "display_name": "Zoom Video SDK Android",
+  "description": "Zoom Video SDK for Android native apps. Use when building custom Android video experiences\nwith full UI control, session tokens, raw media options, and event-driven participant state.",
+  "repo": "anthropics/knowledge-work-plugins",
+  "path": "partner-built/zoom-plugin/skills/video-sdk/android/SKILL.md",
+  "url": "https://github.com/anthropics/knowledge-work-plugins/tree/HEAD/partner-built/zoom-plugin/skills/video-sdk/android/SKILL.md",
+  "license": "Apache-2.0",
+  "body_bytes": 1031,
+  "truncated": false
+}

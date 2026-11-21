@@ -1,0 +1,11 @@
+{
+  "name": "zoom-meeting-sdk-ios",
+  "display_name": "Zoom Meeting SDK iOS",
+  "description": "Zoom Meeting SDK for iOS native apps. Use when embedding Zoom meetings in iOS with\ndefault/custom UI, PKCE + SDK auth, host start with ZAK, and mobile lifecycle handling.",
+  "repo": "anthropics/knowledge-work-plugins",
+  "path": "partner-built/zoom-plugin/skills/meeting-sdk/ios/SKILL.md",
+  "url": "https://github.com/anthropics/knowledge-work-plugins/tree/HEAD/partner-built/zoom-plugin/skills/meeting-sdk/ios/SKILL.md",
+  "license": "Apache-2.0",
+  "body_bytes": 1007,
+  "truncated": false
+}

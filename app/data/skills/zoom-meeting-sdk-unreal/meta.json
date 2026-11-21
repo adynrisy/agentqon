@@ -1,0 +1,11 @@
+{
+  "name": "zoom-meeting-sdk-unreal",
+  "display_name": "Zoom Meeting SDK Unreal",
+  "description": "Zoom Meeting SDK for Unreal Engine wrapper integrations. Use when building Unreal projects that\nembed Zoom meetings with C++ and Blueprint wrappers, including wrapper-to-SDK mapping concerns.",
+  "repo": "anthropics/knowledge-work-plugins",
+  "path": "partner-built/zoom-plugin/skills/meeting-sdk/unreal/SKILL.md",
+  "url": "https://github.com/anthropics/knowledge-work-plugins/tree/HEAD/partner-built/zoom-plugin/skills/meeting-sdk/unreal/SKILL.md",
+  "license": "Apache-2.0",
+  "body_bytes": 1046,
+  "truncated": false
+}

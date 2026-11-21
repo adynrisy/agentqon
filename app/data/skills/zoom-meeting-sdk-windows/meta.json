@@ -1,0 +1,11 @@
+{
+  "name": "zoom-meeting-sdk-windows",
+  "display_name": "Zoom Meeting SDK Windows",
+  "description": "Zoom Meeting SDK for Windows - Native C++ SDK for embedding Zoom meetings into Windows desktop\napplications. Supports custom UI architecture with raw video/audio data, headless bots, and deep\nintegration with meeting features. Includes SDK architecture patterns and Windows message loop handling.",
+  "repo": "anthropics/knowledge-work-plugins",
+  "path": "partner-built/zoom-plugin/skills/meeting-sdk/windows/SKILL.md",
+  "url": "https://github.com/anthropics/knowledge-work-plugins/tree/HEAD/partner-built/zoom-plugin/skills/meeting-sdk/windows/SKILL.md",
+  "license": "Apache-2.0",
+  "body_bytes": 44906,
+  "truncated": false
+}
