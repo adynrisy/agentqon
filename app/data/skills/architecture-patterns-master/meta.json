@@ -1,0 +1,11 @@
+{
+  "name": "architecture-patterns-master",
+  "display_name": "Architecture Patterns · Master",
+  "description": "Master proven backend architecture patterns including Clean Architecture, Hexagonal Architecture, and Domain-Driven Design to build maintainable, testable, and scalable systems.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/architecture-patterns/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/architecture-patterns/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 1966,
+  "truncated": false
+}

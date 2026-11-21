@@ -1,0 +1,11 @@
+{
+  "name": "avoid-ai-writing",
+  "display_name": "Avoid AI Writing",
+  "description": "Audit and rewrite prose so it stops reading as machine-generated. Use this skill when asked to remove AI-isms, clean up AI writing, edit a draft for AI tells, audit a README, changelog, release note, PR description, or blog post for machine-sounding prose, or make text sound less like AI. Supports a detect-only mode, a rewrite mode, and an edit-in-place mode, with optional voice and context profiles.",
+  "repo": "wshobson/agents",
+  "path": "plugins/avoid-ai-writing/skills/avoid-ai-writing/SKILL.md",
+  "url": "https://github.com/wshobson/agents/tree/HEAD/plugins/avoid-ai-writing/skills/avoid-ai-writing/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 7217,
+  "truncated": false
+}

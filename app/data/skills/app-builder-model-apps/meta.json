@@ -1,0 +1,11 @@
+{
+  "name": "app-builder-model-apps",
+  "display_name": "App Builder · Model Apps",
+  "description": "Builds and edits a model-driven Power Apps app from a natural-language intent — tables, columns, relationships, adaptive forms with sub-grids, views, Choice-column charts, business rules, business process flows, generative page intents for overview/dashboard surfaces, and an app module + sitemap. Runs an interactive authoring flow with plan approval and can download a deployed app back into an editable spec to change it. Use when the user says \"build an app for X\", \"create a model-driven app\", \"make me an app to manage Y\", \"add a business process flow\", or \"edit/add to my app\". Do not use it for a generic web or React app or website, Power Pages, canvas apps, or Power Automate, or when the user rules out Power Platform, Dataverse, or model-driven apps (for example \"no Power Platform\"). This skill stands alone and does not require /genpage — but for a standalone generative page added to an app that already exists, use /genpage instead.",
+  "repo": "microsoft/power-platform-skills",
+  "path": "plugins/model-apps/skills/app-builder/SKILL.md",
+  "url": "https://github.com/microsoft/power-platform-skills/tree/HEAD/plugins/model-apps/skills/app-builder/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 65536,
+  "truncated": true
+}

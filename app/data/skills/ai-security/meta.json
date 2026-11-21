@@ -1,0 +1,11 @@
+{
+  "name": "ai-security",
+  "display_name": "AI Security",
+  "description": "Secure AI agents against prompt injection, tool abuse, and data exfiltration with defense-in-depth controls.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/ai-agent-security/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/ai-agent-security/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 13443,
+  "truncated": false
+}

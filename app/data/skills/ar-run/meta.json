@@ -1,0 +1,11 @@
+{
+  "name": "ar-run",
+  "display_name": "AR Run",
+  "description": "Run a single experiment iteration. Edit the target file, evaluate, keep or discard. Use when the user runs /ar:ar-run or asks for one manual autoresearch iteration.",
+  "repo": "alirezarezvani/claude-skills",
+  "path": ".gemini/skills/ar-run/SKILL.md",
+  "url": "https://github.com/alirezarezvani/claude-skills/tree/HEAD/.gemini/skills/ar-run/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 2307,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "analyze-project",
+  "display_name": "Analyze Project",
+  "description": "Forensic root cause analyzer for Antigravity sessions. Classifies scope deltas, rework patterns, root causes, hotspots, and auto-improves prompts/health.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "skills/analyze-project/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/skills/analyze-project/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 12416,
+  "truncated": false
+}

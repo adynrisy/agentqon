@@ -1,0 +1,11 @@
+{
+  "name": "audit-run-security",
+  "display_name": "Audit Run Security",
+  "description": "Run read-only exposure checks for security advisories and write a structured local audit report.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/cyber-audit/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/cyber-audit/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 5133,
+  "truncated": false
+}

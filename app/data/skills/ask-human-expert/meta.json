@@ -1,0 +1,11 @@
+{
+  "name": "ask-human-expert",
+  "display_name": "Ask Human Expert",
+  "description": "Ask real executives and domain experts a question through Instant Expert for a written answer or short call: practitioner knowledge, customer discovery. Free test mode; live sends need approval.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/ask-human-expert/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/ask-human-expert/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 10239,
+  "truncated": false
+}

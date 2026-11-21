@@ -1,0 +1,11 @@
+{
+  "name": "api-onboarding",
+  "display_name": "API Onboarding",
+  "description": "Reduce time-to-first-API-call (TTFAC) by optimizing every step of the developer onboarding journey. This skill covers authentication simplification, sandbox environments, interactive documentation, and identifying and eliminating common failure points.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/api-onboarding/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/api-onboarding/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 12673,
+  "truncated": false
+}

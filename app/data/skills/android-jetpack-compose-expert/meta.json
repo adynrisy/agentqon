@@ -1,0 +1,11 @@
+{
+  "name": "android-jetpack-compose-expert",
+  "display_name": "Android Jetpack Compose Expert",
+  "description": "Expert guidance for building modern Android UIs with Jetpack Compose, covering state management, navigation, performance, and Material Design 3.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/android-jetpack-compose-expert/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/android-jetpack-compose-expert/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 5200,
+  "truncated": false
+}

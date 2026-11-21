@@ -1,0 +1,11 @@
+{
+  "name": "audit-context-building-understand",
+  "display_name": "Audit Context Building · Understand",
+  "description": "Understand a codebase before looking for bugs in it - what each function assumes, what it guarantees, and what it depends on elsewhere. Use when starting an audit, threat model, or architecture review on unfamiliar code, and before any vulnerability-hunting pass.",
+  "repo": "trailofbits/skills",
+  "path": "plugins/audit-context-building/skills/audit-context-building/SKILL.md",
+  "url": "https://github.com/trailofbits/skills/tree/HEAD/plugins/audit-context-building/skills/audit-context-building/SKILL.md",
+  "license": "CC",
+  "body_bytes": 3632,
+  "truncated": false
+}

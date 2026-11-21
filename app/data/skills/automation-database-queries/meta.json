@@ -1,0 +1,11 @@
+{
+  "name": "automation-database-queries",
+  "display_name": "Automation Database Queries",
+  "description": "Automate Supabase database queries, table management, project administration, storage, edge functions, and SQL execution via Rube MCP (Composio). Always search tools first for current schemas.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/supabase-automation/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/supabase-automation/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 12883,
+  "truncated": false
+}

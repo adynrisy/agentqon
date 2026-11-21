@@ -1,0 +1,11 @@
+{
+  "name": "atlassian-admin",
+  "display_name": "Atlassian Admin",
+  "description": "Atlassian Administrator for managing and organizing Atlassian products (Jira, Confluence, Bitbucket, Trello), users, permissions, security, integrations, system configuration, and org-wide governance. Use when asked to add users to Jira, change Confluence permissions, configure access control, update admin settings, manage Atlassian groups, set up SSO, install marketplace apps, review security policies, or handle any org-wide Atlassian administration task.",
+  "repo": "alirezarezvani/claude-skills",
+  "path": ".gemini/skills/atlassian-admin/SKILL.md",
+  "url": "https://github.com/alirezarezvani/claude-skills/tree/HEAD/.gemini/skills/atlassian-admin/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 12468,
+  "truncated": false
+}

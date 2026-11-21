@@ -1,0 +1,11 @@
+{
+  "name": "ai-multilingual-dubbing",
+  "display_name": "AI Multilingual Dubbing",
+  "description": "Install and use the official Multilingual Voiceover package, pinned by digest, for paid hosted work on the Beatra service.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/ai-multilingual-dubbing/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/ai-multilingual-dubbing/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 14599,
+  "truncated": false
+}

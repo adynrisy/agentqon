@@ -1,0 +1,11 @@
+{
+  "name": "apify-actorization",
+  "display_name": "Apify Actorization",
+  "description": "Actorization converts existing software into reusable serverless applications compatible with the Apify platform. Actors are programs packaged as Docker images that accept well-defined JSON input, perform an action, and optionally produce structured JSON output.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/apify-actorization/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/apify-actorization/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 6482,
+  "truncated": false
+}

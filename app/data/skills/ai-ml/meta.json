@@ -1,0 +1,11 @@
+{
+  "name": "ai-ml",
+  "display_name": "AI ML",
+  "description": "AI and machine learning workflow covering LLM application development, RAG implementation, agent architecture, ML pipelines, and AI-powered features.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/ai-ml/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/ai-ml/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 6219,
+  "truncated": false
+}

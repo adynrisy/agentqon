@@ -1,0 +1,11 @@
+{
+  "name": "ai-native-cli",
+  "display_name": "AI Native CLI",
+  "description": "Design spec with 98 rules for building CLI tools that AI agents can safely use. Covers structured JSON output, error handling, input contracts, safety guardrails, exit codes, and agent self-description.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/ai-native-cli/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/ai-native-cli/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 13696,
+  "truncated": false
+}

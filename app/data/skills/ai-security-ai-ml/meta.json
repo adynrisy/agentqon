@@ -1,0 +1,11 @@
+{
+  "name": "ai-security-ai-ml",
+  "display_name": "AI Security · AI/ML",
+  "description": "Use when assessing AI/ML systems for prompt injection, jailbreak vulnerabilities, model inversion risk, data poisoning exposure, or agent tool abuse. Covers MITRE ATLAS technique mapping, injection signature detection, and adversarial robustness scoring.",
+  "repo": "alirezarezvani/claude-skills",
+  "path": ".gemini/skills/ai-security/SKILL.md",
+  "url": "https://github.com/alirezarezvani/claude-skills/tree/HEAD/.gemini/skills/ai-security/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 17656,
+  "truncated": false
+}

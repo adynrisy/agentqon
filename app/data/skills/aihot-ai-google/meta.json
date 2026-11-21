@@ -1,0 +1,11 @@
+{
+  "name": "aihot-ai-google",
+  "display_name": "Aihot AI Google",
+  "description": "查询 AIHOT（aihot.news）的中文 AI 资讯。用户问今天或最近 AI 圈发生了什么、AI 新闻和 AI 日报、大模型与 AI 产品发布、OpenAI／Anthropic／Google 等公司或某个 AI 话题的最新消息、当前最热的 AI 事件及来龙去脉、AI 模型排行、Codex 额度重置，或其它 AI 行业动态时使用。必须实时查询 AIHOT，不凭训练记忆回答新闻；匿名只读，无需 API Key。",
+  "repo": "KKKKhazix/khazix-skills",
+  "path": "aihot/SKILL.md",
+  "url": "https://github.com/KKKKhazix/khazix-skills/tree/HEAD/aihot/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 2821,
+  "truncated": false
+}

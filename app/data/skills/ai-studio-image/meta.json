@@ -1,0 +1,11 @@
+{
+  "name": "ai-studio-image",
+  "display_name": "AI Studio Image",
+  "description": "Geracao de imagens humanizadas via Google AI Studio (Gemini). Fotos realistas estilo influencer ou educacional com iluminacao natural e imperfeicoes sutis.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/ai-studio-image/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/ai-studio-image/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 11628,
+  "truncated": false
+}

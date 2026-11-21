@@ -1,0 +1,11 @@
+{
+  "name": "assign-offline-profile",
+  "display_name": "Assign Offline Profile",
+  "description": "Use when the user needs to bind users or teams to a Mobile Offline Profile so they actually receive offline sync on their devices. Without this, the profile exists in Dataverse but no one's app uses it.",
+  "repo": "microsoft/power-platform-skills",
+  "path": "plugins/mobile-apps/skills/assign-offline-profile/SKILL.md",
+  "url": "https://github.com/microsoft/power-platform-skills/tree/HEAD/plugins/mobile-apps/skills/assign-offline-profile/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 10177,
+  "truncated": false
+}

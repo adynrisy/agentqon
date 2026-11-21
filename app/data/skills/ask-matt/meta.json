@@ -1,0 +1,11 @@
+{
+  "name": "ask-matt",
+  "display_name": "Ask Matt",
+  "description": "Ask which skill or flow fits your situation. A router over the user-invoked skills in this repo.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/ask-matt/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/ask-matt/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 4905,
+  "truncated": false
+}

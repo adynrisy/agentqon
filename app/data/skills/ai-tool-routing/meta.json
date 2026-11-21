@@ -1,0 +1,11 @@
+{
+  "name": "ai-tool-routing",
+  "display_name": "AI Tool Routing",
+  "description": "Use when designing or reviewing an AI agent tool registry or MCP router: document parameter schemas, caller authorization, execution limits, replay-safe retries and verification evidence.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/ai-agent-tool-routing/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/ai-agent-tool-routing/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 5436,
+  "truncated": false
+}

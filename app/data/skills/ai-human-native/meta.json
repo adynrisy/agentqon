@@ -1,0 +1,11 @@
+{
+  "name": "ai-human-native",
+  "display_name": "AI Human Native",
+  "description": "Convert human-written CLAUDE.md into AI-native structured-label format. Battle-tested across 4 models. Same rules, fewer tokens, higher compliance.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/ai-md/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/ai-md/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 1012,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "article-illustrations",
+  "display_name": "Article Illustrations",
+  "description": "Generate hand-drawn 16:9 article illustrations with the Grav character IP, sparse annotations, and absurd but clear visual metaphors.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/article-illustrations/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/article-illustrations/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 6000,
+  "truncated": false
+}

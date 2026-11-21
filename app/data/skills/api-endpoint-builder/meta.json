@@ -1,0 +1,11 @@
+{
+  "name": "api-endpoint-builder",
+  "display_name": "API Endpoint Builder",
+  "description": "Builds production-ready REST API endpoints with validation, error handling, authentication, and documentation. Follows best practices for security and scalability.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/api-endpoint-builder/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/api-endpoint-builder/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 7116,
+  "truncated": false
+}

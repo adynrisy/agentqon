@@ -1,0 +1,11 @@
+{
+  "name": "avoid-ai-writing-audit",
+  "display_name": "Avoid AI Writing · Audit",
+  "description": "Audit and rewrite prose for repetitive, vague, or formulaic wording while preserving meaning, evidence, and the writer's voice.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/avoid-ai-writing/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/avoid-ai-writing/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 2870,
+  "truncated": false
+}

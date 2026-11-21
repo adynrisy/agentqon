@@ -1,0 +1,11 @@
+{
+  "name": "amazon-review-checker",
+  "display_name": "Amazon Review Checker",
+  "description": "Amazon review authenticity analyzer. Detect fake reviews, suspicious patterns, and rating manipulation. Includes time clustering detection, content similarity analysis, rating distribution checks, and verified purchase validation. Progressive analysis with L1-L4 depth levels. No API key required.",
+  "repo": "nexscope-ai/eCommerce-Skills",
+  "path": "review-checker/amazon-review-checker/SKILL.md",
+  "url": "https://github.com/nexscope-ai/eCommerce-Skills/tree/HEAD/review-checker/amazon-review-checker/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 3240,
+  "truncated": false
+}

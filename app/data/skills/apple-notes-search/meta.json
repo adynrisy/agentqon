@@ -1,0 +1,11 @@
+{
+  "name": "apple-notes-search",
+  "display_name": "Apple Notes Search",
+  "description": "Semantic + keyword search and connection-discovery across the user's own Apple Notes via the apple-notes MCP server. Use when the user wants to find, recall, or synthesize something from their notes, or surface non-obvious bridges/related notes. macOS, on-device.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "skills/apple-notes-search/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/skills/apple-notes-search/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 7238,
+  "truncated": false
+}

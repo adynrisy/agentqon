@@ -1,0 +1,11 @@
+{
+  "name": "api-documenter",
+  "display_name": "API Documenter",
+  "description": "Master API documentation with OpenAPI 3.1, AI-powered tools, and modern developer experience practices. Create interactive docs, generate SDKs, and build comprehensive developer portals.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/api-documenter/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/api-documenter/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 8153,
+  "truncated": false
+}

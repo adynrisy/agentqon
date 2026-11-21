@@ -1,0 +1,11 @@
+{
+  "name": "ai-coding-guardrails",
+  "display_name": "AI Coding Guardrails",
+  "description": "Secure AI coding agents (Claude Code, Cursor, Codex, Copilot) with permission boundaries, secret protection, code review gates, and safe sandbox configurations for team environments.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/ai-coding-agent-guardrails/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/ai-coding-agent-guardrails/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 12223,
+  "truncated": false
+}

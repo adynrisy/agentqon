@@ -1,0 +1,11 @@
+{
+  "name": "audit-find-fix",
+  "display_name": "Audit Find Fix",
+  "description": "Find and fix WCAG 2.2 accessibility issues. Two modes — report (sweep a codebase or page, produce a prioritized written report, no edits) and fix (audit→edit→verify loop on a target). Prefers direct-CDP live-DOM auditing; falls back to a browser-MCP composition or HTML-string audits.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/accesslint-audit/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/accesslint-audit/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 7252,
+  "truncated": false
+}

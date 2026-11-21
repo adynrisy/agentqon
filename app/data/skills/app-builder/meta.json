@@ -1,0 +1,11 @@
+{
+  "name": "app-builder",
+  "display_name": "App Builder",
+  "description": "Main application building orchestrator. Creates full-stack applications from natural language requests. Determines project type, selects tech stack, coordinates agents.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/app-builder/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/app-builder/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 3327,
+  "truncated": false
+}

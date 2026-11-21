@@ -1,0 +1,11 @@
+{
+  "name": "ai-analyzer",
+  "display_name": "AI Analyzer",
+  "description": "AI驱动的综合健康分析系统，整合多维度健康数据、识别异常模式、整理风险因素、提供一般性健康信息。支持智能问答和AI健康报告生成。",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/ai-analyzer/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/ai-analyzer/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 9951,
+  "truncated": false
+}

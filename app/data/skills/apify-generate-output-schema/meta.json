@@ -1,0 +1,11 @@
+{
+  "name": "apify-generate-output-schema",
+  "display_name": "Apify Generate Output Schema",
+  "description": "Generate output schemas (dataset_schema.json, output_schema.json, key_value_store_schema.json) for an Apify Actor by analyzing its source code. Use when creating or updating Actor output schemas.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/apify-generate-output-schema/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/apify-generate-output-schema/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 17091,
+  "truncated": false
+}

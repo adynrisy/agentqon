@@ -1,0 +1,11 @@
+{
+  "name": "airflow-dag-patterns-production",
+  "display_name": "Airflow Dag Patterns · Production",
+  "description": "Build production Apache Airflow DAGs with best practices for operators, sensors, testing, and deployment. Use when creating data pipelines, orchestrating workflows, or scheduling batch jobs.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/airflow-dag-patterns/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/airflow-dag-patterns/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 1501,
+  "truncated": false
+}

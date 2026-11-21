@@ -1,0 +1,11 @@
+{
+  "name": "authoring-workflow",
+  "display_name": "Authoring Workflow",
+  "description": "Turn raw PM content into a compliant, publish-ready skill. Use when creating or updating a repo skill without breaking standards.",
+  "repo": "deanpeters/Product-Manager-Skills",
+  "path": "skills/skill-authoring-workflow/SKILL.md",
+  "url": "https://github.com/deanpeters/Product-Manager-Skills/tree/HEAD/skills/skill-authoring-workflow/SKILL.md",
+  "license": "CC",
+  "body_bytes": 6951,
+  "truncated": false
+}

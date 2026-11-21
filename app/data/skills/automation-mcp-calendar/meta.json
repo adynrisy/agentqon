@@ -1,0 +1,11 @@
+{
+  "name": "automation-mcp-calendar",
+  "display_name": "Automation MCP Calendar",
+  "description": "Automate Outlook tasks via Rube MCP (Composio): emails, calendar, contacts, folders, attachments. Always search tools first for current schemas.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/outlook-automation/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/outlook-automation/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 7787,
+  "truncated": false
+}

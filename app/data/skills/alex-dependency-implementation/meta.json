@@ -1,0 +1,11 @@
+{
+  "name": "alex-dependency-implementation",
+  "display_name": "Alex Dependency Implementation",
+  "description": "Turns requirements into a precise, dependency-aware implementation plan.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/agent-squad/alex/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/agent-squad/alex/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 5452,
+  "truncated": false
+}

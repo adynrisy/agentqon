@@ -1,0 +1,11 @@
+{
+  "name": "api-application-code",
+  "display_name": "API Application Code",
+  "description": "Send and receive iMessage, SMS, and RCS from application code via the Sendblue HTTP API — text, media, group messages, send styles, reactions, typing indicators, status callbacks, and inbound webhooks.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "skills/sendblue/sendblue-api/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/skills/sendblue/sendblue-api/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 8740,
+  "truncated": false
+}

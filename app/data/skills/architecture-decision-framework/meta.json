@@ -1,0 +1,11 @@
+{
+  "name": "architecture-decision-framework",
+  "display_name": "Architecture Decision Framework",
+  "description": "Architectural decision-making framework. Requirements analysis, trade-off evaluation, ADR documentation. Use when making architecture decisions or analyzing system design.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/architecture/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/architecture/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 1936,
+  "truncated": false
+}

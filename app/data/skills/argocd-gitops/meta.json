@@ -1,0 +1,11 @@
+{
+  "name": "argocd-gitops",
+  "display_name": "Argocd Gitops",
+  "description": "Implement GitOps with ArgoCD for declarative Kubernetes deployments.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/argocd-gitops/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/argocd-gitops/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 9889,
+  "truncated": false
+}

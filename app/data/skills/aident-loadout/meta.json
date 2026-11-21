@@ -1,0 +1,11 @@
+{
+  "name": "aident-loadout",
+  "display_name": "Aident Loadout",
+  "description": "Run multi-step work across apps the user connected in Aident Loadout: live action schemas, connection checks, cost preflight, and approval before side effects.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/aident-loadout/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/aident-loadout/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 4278,
+  "truncated": false
+}

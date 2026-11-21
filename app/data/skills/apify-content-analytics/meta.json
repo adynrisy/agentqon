@@ -1,0 +1,11 @@
+{
+  "name": "apify-content-analytics",
+  "display_name": "Apify Content Analytics",
+  "description": "Track engagement metrics, measure campaign ROI, and analyze content performance across Instagram, Facebook, YouTube, and TikTok.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/apify-content-analytics/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/apify-content-analytics/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 4669,
+  "truncated": false
+}

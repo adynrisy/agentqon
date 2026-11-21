@@ -1,0 +1,11 @@
+{
+  "name": "anti-deception",
+  "display_name": "Anti Deception",
+  "description": "Use before responding to pressure for agreement, manufactured urgency, authority appeals, or requests to certify unsupported claims; separate evidence from persuasion and state uncertainty.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/anti-deception/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/anti-deception/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 2089,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "android-cli",
+  "display_name": "Android CLI",
+  "description": "Orchestrates Android development tasks including project creation, deployment, SDK management, and environment diagnostics using the `android` command-line tool.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "skills/android-cli/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/skills/android-cli/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 10157,
+  "truncated": false
+}

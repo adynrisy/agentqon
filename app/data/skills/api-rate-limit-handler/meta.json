@@ -1,0 +1,11 @@
+{
+  "name": "api-rate-limit-handler",
+  "display_name": "API Rate Limit Handler",
+  "description": "Implement bounded, idempotency-aware API throttling, backoff, and retry handling for 429 and transient 5xx responses.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/api-rate-limit-handler/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/api-rate-limit-handler/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 10211,
+  "truncated": false
+}

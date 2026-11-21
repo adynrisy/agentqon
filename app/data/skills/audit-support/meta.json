@@ -1,0 +1,11 @@
+{
+  "name": "audit-support",
+  "display_name": "Audit Support",
+  "description": "Support SOX 404 compliance with control testing methodology, sample selection, and documentation standards. Use when generating testing workpapers, selecting audit samples, classifying control deficiencies, or preparing for internal or external audits.",
+  "repo": "anthropics/knowledge-work-plugins",
+  "path": "finance/skills/audit-support/SKILL.md",
+  "url": "https://github.com/anthropics/knowledge-work-plugins/tree/HEAD/finance/skills/audit-support/SKILL.md",
+  "license": "Apache-2.0",
+  "body_bytes": 16484,
+  "truncated": false
+}

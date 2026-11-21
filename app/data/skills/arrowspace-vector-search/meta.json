@@ -1,0 +1,11 @@
+{
+  "name": "arrowspace-vector-search",
+  "display_name": "Arrowspace Vector Search",
+  "description": "Spectral vector search using graph Laplacian eigenstructure. Use when cosine/L2 similarity misses latent structure in your embeddings.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/arrowspace/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/arrowspace/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 4444,
+  "truncated": false
+}

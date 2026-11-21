@@ -1,0 +1,11 @@
+{
+  "name": "apify-competitor-intelligence",
+  "display_name": "Apify Competitor Intelligence",
+  "description": "Analyze competitor strategies, content, pricing, ads, and market positioning across Google Maps, Booking.com, Facebook, Instagram, YouTube, and TikTok.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/apify-competitor-intelligence/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/apify-competitor-intelligence/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 5725,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "apify-audience-analysis",
+  "display_name": "Apify Audience Analysis",
+  "description": "Understand audience demographics, preferences, behavior patterns, and engagement quality across Facebook, Instagram, YouTube, and TikTok.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/apify-audience-analysis/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/apify-audience-analysis/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 5070,
+  "truncated": false
+}

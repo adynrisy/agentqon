@@ -1,0 +1,11 @@
+{
+  "name": "ar-status",
+  "display_name": "AR Status",
+  "description": "Show experiment dashboard with results, active loops, and progress. Use when the user runs /ar:ar-status or asks how an autoresearch experiment is going.",
+  "repo": "alirezarezvani/claude-skills",
+  "path": ".gemini/skills/ar-status/SKILL.md",
+  "url": "https://github.com/alirezarezvani/claude-skills/tree/HEAD/.gemini/skills/ar-status/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 1726,
+  "truncated": false
+}

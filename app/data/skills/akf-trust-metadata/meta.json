@@ -1,0 +1,11 @@
+{
+  "name": "akf-trust-metadata",
+  "display_name": "Akf Trust Metadata",
+  "description": "The AI native file format. EXIF for AI — stamps every file with trust scores, source provenance, and compliance metadata. Embeds into 20+ formats (DOCX, PDF, images, code). EU AI Act, SOX, HIPAA auditing.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/akf-trust-metadata/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/akf-trust-metadata/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 2280,
+  "truncated": false
+}

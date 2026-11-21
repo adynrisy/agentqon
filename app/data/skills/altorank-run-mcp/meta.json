@@ -1,0 +1,11 @@
+{
+  "name": "altorank-run-mcp",
+  "display_name": "Altorank Run MCP",
+  "description": "Run AltoRank through its hosted MCP server: readiness audits, Search Console, keyword research, and SEO drafts into a review queue.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/altorank/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/altorank/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 7052,
+  "truncated": false
+}

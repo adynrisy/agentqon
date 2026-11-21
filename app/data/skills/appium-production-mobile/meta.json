@@ -1,0 +1,11 @@
+{
+  "name": "appium-production-mobile",
+  "display_name": "Appium Production Mobile",
+  "description": "Generates production-grade Appium mobile automation scripts for Android and iOS in Java, Python, or JavaScript. Supports real device and emulator testing locally and on TestMu AI cloud with 100+ real devices.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/appium-skill/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/appium-skill/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 10878,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "api-test-suite-builder",
+  "display_name": "API Test Suite Builder",
+  "description": "Use when the user asks to generate API tests, create integration test suites, test REST endpoints, or build contract tests.",
+  "repo": "alirezarezvani/claude-skills",
+  "path": ".gemini/skills/api-test-suite-builder/SKILL.md",
+  "url": "https://github.com/alirezarezvani/claude-skills/tree/HEAD/.gemini/skills/api-test-suite-builder/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 6130,
+  "truncated": false
+}

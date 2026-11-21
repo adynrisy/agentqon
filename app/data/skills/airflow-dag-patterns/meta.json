@@ -1,0 +1,11 @@
+{
+  "name": "airflow-dag-patterns",
+  "display_name": "Airflow Dag Patterns",
+  "description": "Build production Apache Airflow DAGs with best practices for operators, sensors, testing, and deployment. Use when creating data pipelines, orchestrating workflows, or scheduling batch jobs.",
+  "repo": "wshobson/agents",
+  "path": "plugins/data-engineering/skills/airflow-dag-patterns/SKILL.md",
+  "url": "https://github.com/wshobson/agents/tree/HEAD/plugins/data-engineering/skills/airflow-dag-patterns/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 2895,
+  "truncated": false
+}

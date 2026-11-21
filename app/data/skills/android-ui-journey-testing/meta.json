@@ -1,0 +1,11 @@
+{
+  "name": "android-ui-journey-testing",
+  "display_name": "Android UI Journey Testing",
+  "description": "XML-specified Android UI journey testing, interactive step execution, assertion verification, and JSON outcome reporting.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/android-ui-journey-testing/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/android-ui-journey-testing/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 7269,
+  "truncated": false
+}

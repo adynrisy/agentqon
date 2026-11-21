@@ -1,0 +1,11 @@
+{
+  "name": "audit-expert-security",
+  "display_name": "Audit Expert Security",
+  "description": "Expert security auditor for AI Skills and Bundles. Performs non-intrusive static analysis to identify malicious patterns, data leaks, system stability risks, and obfuscated payloads across Windows, macOS, Linux/Unix, and Mobile (Android/iOS).",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "skills/audit-skills/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/skills/audit-skills/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 5726,
+  "truncated": false
+}

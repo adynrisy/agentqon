@@ -1,0 +1,11 @@
+{
+  "name": "ai-seo",
+  "display_name": "AI SEO",
+  "description": "Optimize content for AI search and LLM citations across AI Overviews, ChatGPT, Perplexity, Claude, Gemini, and similar systems. Use when improving AI visibility, answer engine optimization, or citation readiness.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/ai-seo/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/ai-seo/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 17197,
+  "truncated": false
+}

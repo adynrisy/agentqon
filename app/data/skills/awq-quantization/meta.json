@@ -1,0 +1,11 @@
+{
+  "name": "awq-quantization",
+  "display_name": "Awq Quantization",
+  "description": "Activation-aware weight quantization for 4-bit LLM compression with 3x speedup and minimal accuracy loss. Use when deploying large models (7B-70B) on limited GPU memory, when you need faster inference than GPTQ with better accuracy preservation, or for instruction-tuned and multimodal models. MLSys 2024 Best Paper Award winner.",
+  "repo": "Orchestra-Research/AI-Research-SKILLs",
+  "path": "10-optimization/awq/SKILL.md",
+  "url": "https://github.com/Orchestra-Research/AI-Research-SKILLs/tree/HEAD/10-optimization/awq/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 7757,
+  "truncated": false
+}

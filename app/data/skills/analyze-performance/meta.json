@@ -1,0 +1,11 @@
+{
+  "name": "analyze-performance",
+  "display_name": "Analyze Performance",
+  "description": "Use when investigating slow activities, waiting, handoff duration, bottlenecks or cumulative activity workload.",
+  "repo": "microsoft/power-platform-skills",
+  "path": "plugins/process-intelligence/skills/analyze-performance/SKILL.md",
+  "url": "https://github.com/microsoft/power-platform-skills/tree/HEAD/plugins/process-intelligence/skills/analyze-performance/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 3242,
+  "truncated": false
+}

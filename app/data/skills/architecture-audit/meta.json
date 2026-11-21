@@ -1,0 +1,11 @@
+{
+  "name": "architecture-audit",
+  "display_name": "Architecture Audit",
+  "description": "Read-only audit of a whole codebase's design: module boundaries, dependency direction, docs-vs-code drift, extensibility, with a verdict. Use when asked to audit the architecture.",
+  "repo": "khasky/awesome-agent-skills",
+  "path": "skills/awesome-architecture-audit/SKILL.md",
+  "url": "https://github.com/khasky/awesome-agent-skills/tree/HEAD/skills/awesome-architecture-audit/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 18472,
+  "truncated": false
+}

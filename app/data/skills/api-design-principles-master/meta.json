@@ -1,0 +1,11 @@
+{
+  "name": "api-design-principles-master",
+  "display_name": "API Design Principles · Master",
+  "description": "Master REST and GraphQL API design principles to build intuitive, scalable, and maintainable APIs that delight developers and stand the test of time.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/api-design-principles/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/api-design-principles/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 1537,
+  "truncated": false
+}

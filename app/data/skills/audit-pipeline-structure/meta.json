@@ -1,0 +1,11 @@
+{
+  "name": "audit-pipeline-structure",
+  "display_name": "Audit Pipeline Structure",
+  "description": "Comprehensive audit pipeline for skills, plugins, agents, and commands. Validates structure,\nquality, security, marketplace compliance, cross-platform compatibility, and ecosystem integration.\nRuns all built-in validation tools, invokes domain-appropriate agents for code review,\nand produces a pass/fail gate report. Usage: /plugin-audit <skill-path>",
+  "repo": "alirezarezvani/claude-skills",
+  "path": ".gemini/skills/plugin-audit/SKILL.md",
+  "url": "https://github.com/alirezarezvani/claude-skills/tree/HEAD/.gemini/skills/plugin-audit/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 11310,
+  "truncated": false
+}

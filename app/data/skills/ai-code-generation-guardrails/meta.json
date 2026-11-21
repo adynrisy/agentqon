@@ -1,0 +1,11 @@
+{
+  "name": "ai-code-generation-guardrails",
+  "display_name": "AI Code Generation Guardrails",
+  "description": "Use when reviewing AI-generated code before merge or execution: plan AST/security checks, isolated behavior tests and evidence, with language-specific coverage limits.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/ai-code-generation-guardrails/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/ai-code-generation-guardrails/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 5473,
+  "truncated": false
+}

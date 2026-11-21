@@ -1,0 +1,11 @@
+{
+  "name": "automation-requests-workflows",
+  "display_name": "Automation Requests Workflows",
+  "description": "Operate GitHub issues, pull requests, branches, checks, workflows, and permissions through Rube MCP. Use when GitHub work must be queried or changed programmatically with repository-policy safeguards.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/github-automation/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/github-automation/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 5049,
+  "truncated": false
+}

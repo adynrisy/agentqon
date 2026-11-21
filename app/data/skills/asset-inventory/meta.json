@@ -1,0 +1,11 @@
+{
+  "name": "asset-inventory",
+  "display_name": "Asset Inventory",
+  "description": "Maintain IT asset inventory and configuration management database. Track hardware, software, and cloud resources. Use when managing IT assets.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/asset-inventory/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/asset-inventory/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 12892,
+  "truncated": false
+}

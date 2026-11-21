@@ -1,0 +1,11 @@
+{
+  "name": "amazon-competitor-analyzer",
+  "display_name": "Amazon Competitor Analyzer",
+  "description": "Scrapes Amazon product data from ASINs using browseract.com automation API and performs surgical competitive analysis. Compares specifications, pricing, review quality, and visual strategies to identify competitor moats and vulnerabilities.",
+  "repo": "browser-act/skills",
+  "path": "solutions/ecommerce/amazon-competitor-analyzer/SKILL.md",
+  "url": "https://github.com/browser-act/skills/tree/HEAD/solutions/ecommerce/amazon-competitor-analyzer/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 3736,
+  "truncated": false
+}

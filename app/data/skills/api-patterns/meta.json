@@ -1,0 +1,11 @@
+{
+  "name": "api-patterns",
+  "display_name": "API Patterns",
+  "description": "API design principles and decision-making. REST vs GraphQL vs tRPC selection, response formats, versioning, pagination.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/api-patterns/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/api-patterns/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 4008,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "alpha-vantage",
+  "display_name": "Alpha Vantage",
+  "description": "Access 20+ years of global financial data: equities, options, forex, crypto, commodities, economic indicators, and 50+ technical indicators.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/alpha-vantage/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/alpha-vantage/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 4273,
+  "truncated": false
+}

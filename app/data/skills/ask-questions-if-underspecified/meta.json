@@ -1,0 +1,11 @@
+{
+  "name": "ask-questions-if-underspecified",
+  "display_name": "Ask Questions If Underspecified",
+  "description": "Clarify requirements before implementing. Use when serious doubts arise.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/ask-questions-if-underspecified/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/ask-questions-if-underspecified/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 4400,
+  "truncated": false
+}

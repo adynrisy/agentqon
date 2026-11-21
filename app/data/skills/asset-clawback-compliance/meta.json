@@ -1,0 +1,11 @@
+{
+  "name": "asset-clawback-compliance",
+  "display_name": "Asset Clawback Compliance",
+  "description": "Regulated Stellar asset clawback architecture register: issuer authorization flags, claimable balance revocations, and regulatory audit trail.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/stellar-asset-clawback-compliance/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/stellar-asset-clawback-compliance/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 4783,
+  "truncated": false
+}

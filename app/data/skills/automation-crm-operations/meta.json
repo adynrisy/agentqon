@@ -1,0 +1,11 @@
+{
+  "name": "automation-crm-operations",
+  "display_name": "Automation CRM Operations",
+  "description": "Automate HubSpot CRM operations (contacts, companies, deals, tickets, properties) via Rube MCP using Composio integration.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/hubspot-automation/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/hubspot-automation/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 9652,
+  "truncated": false
+}

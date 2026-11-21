@@ -1,0 +1,11 @@
+{
+  "name": "android-ui-verification",
+  "display_name": "Android UI Verification",
+  "description": "Automated end-to-end UI testing and verification on an Android Emulator using ADB.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/android_ui_verification/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/android_ui_verification/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 2975,
+  "truncated": false
+}

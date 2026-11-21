@@ -1,0 +1,11 @@
+{
+  "name": "applicationinsights-web-ts",
+  "display_name": "Applicationinsights Web TS",
+  "description": "Instrument browser/web apps with the Application Insights JavaScript SDK (@microsoft/applicationinsights-web).",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/applicationinsights-web-ts/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/applicationinsights-web-ts/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 21761,
+  "truncated": false
+}

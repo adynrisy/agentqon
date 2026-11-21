@@ -1,0 +1,11 @@
+{
+  "name": "apis-web-data",
+  "display_name": "APIs Web Data",
+  "description": "Use HasData APIs for web scraping and structured web data extraction.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/hasdata/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/hasdata/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 6551,
+  "truncated": false
+}

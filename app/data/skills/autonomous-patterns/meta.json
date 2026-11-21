@@ -1,0 +1,11 @@
+{
+  "name": "autonomous-patterns",
+  "display_name": "Autonomous Patterns",
+  "description": "Design patterns for building autonomous coding agents, inspired by [Cline](https://github.com/cline/cline) and [OpenAI Codex](https://github.com/openai/codex).",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/autonomous-agent-patterns/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/autonomous-agent-patterns/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 1104,
+  "truncated": false
+}

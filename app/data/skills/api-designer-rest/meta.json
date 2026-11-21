@@ -1,0 +1,11 @@
+{
+  "name": "api-designer-rest",
+  "display_name": "API Designer · REST",
+  "description": "Use when designing REST or GraphQL APIs, creating OpenAPI specifications, or planning API architecture. Invoke for resource modeling, versioning strategies, pagination patterns, error handling standards.",
+  "repo": "Jeffallan/claude-skills",
+  "path": "skills/api-designer/SKILL.md",
+  "url": "https://github.com/Jeffallan/claude-skills/tree/HEAD/skills/api-designer/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 7293,
+  "truncated": false
+}

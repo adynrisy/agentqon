@@ -1,0 +1,11 @@
+{
+  "name": "autogpt-platform-building",
+  "display_name": "Autogpt Platform Building",
+  "description": "Autonomous AI agent platform for building and deploying continuous agents. Use when creating visual workflow agents, deploying persistent autonomous agents, or building complex multi-step AI automation systems.",
+  "repo": "Orchestra-Research/AI-Research-SKILLs",
+  "path": "14-agents/autogpt/SKILL.md",
+  "url": "https://github.com/Orchestra-Research/AI-Research-SKILLs/tree/HEAD/14-agents/autogpt/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 8862,
+  "truncated": false
+}

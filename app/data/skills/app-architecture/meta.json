@@ -1,0 +1,11 @@
+{
+  "name": "app-architecture",
+  "display_name": "App Architecture",
+  "description": "CRITICAL: Use for Robius app architecture patterns. Triggers on:\nTokio, async, submit_async_request, 异步, 架构,\nSignalToUI, Cx::post_action, worker task,\napp structure, MatchEvent, handle_startup",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/robius-app-architecture/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/robius-app-architecture/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 13280,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "automation-mcp-query",
+  "display_name": "Automation MCP Query",
+  "description": "Automate Datadog tasks via Rube MCP (Composio): query metrics, search logs, manage monitors/dashboards, create events and downtimes. Always search tools first for current schemas.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/datadog-automation/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/datadog-automation/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 9391,
+  "truncated": false
+}

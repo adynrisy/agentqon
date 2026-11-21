@@ -1,0 +1,11 @@
+{
+  "name": "alerting-oncall",
+  "display_name": "Alerting Oncall",
+  "description": "Set up alerting rules, configure on-call rotations, and manage incident response workflows.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/alerting-oncall/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/alerting-oncall/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 10688,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "ansoff-matrix",
+  "display_name": "Ansoff Matrix",
+  "description": "Map evidence-backed growth options across the Ansoff Matrix with risk-rated sequencing. Use when the question is where the next tranche of growth comes from, and at what risk.",
+  "repo": "deanpeters/Product-Manager-Skills",
+  "path": "skills/ansoff-matrix/SKILL.md",
+  "url": "https://github.com/deanpeters/Product-Manager-Skills/tree/HEAD/skills/ansoff-matrix/SKILL.md",
+  "license": "CC",
+  "body_bytes": 10233,
+  "truncated": false
+}

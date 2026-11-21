@@ -1,0 +1,11 @@
+{
+  "name": "alumni-re-hire-tracker",
+  "display_name": "Alumni Re Hire Tracker",
+  "description": "Alumni and re-hire register: former role, last working day, re-hire eligibility, current employer and re-engagement date, as CSV, SQL, JSON Schema or Notion on request. Use for alumni outreach.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/alumni-re-hire-tracker/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/alumni-re-hire-tracker/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 12984,
+  "truncated": false
+}

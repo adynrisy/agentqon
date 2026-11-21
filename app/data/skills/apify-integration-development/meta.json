@@ -1,0 +1,11 @@
+{
+  "name": "apify-integration-development",
+  "display_name": "Apify Integration Development",
+  "description": "Curated upstream guidance for Apify Integration Development; use when the workflow matches the user goal.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/apify-integration-development/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/apify-integration-development/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 12326,
+  "truncated": false
+}

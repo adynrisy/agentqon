@@ -1,0 +1,11 @@
+{
+  "name": "apify-market-research",
+  "display_name": "Apify Market Research",
+  "description": "Analyze market conditions, geographic opportunities, pricing, consumer behavior, and product validation across Google Maps, Facebook, Instagram, Booking.com, and TripAdvisor.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/apify-market-research/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/apify-market-research/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 4448,
+  "truncated": false
+}

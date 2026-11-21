@@ -1,0 +1,11 @@
+{
+  "name": "autoresearch-end-projects",
+  "display_name": "Autoresearch End Projects",
+  "description": "Orchestrates end-to-end autonomous AI research projects using a two-loop architecture. The inner loop runs rapid experiment iterations with clear optimization targets. The outer loop synthesizes results, identifies patterns, and steers research direction. Routes to domain-specific skills for execution, supports continuous agent operation via Claude Code /loop and OpenClaw heartbeat, and produces research presentations and papers. Use when starting a research project, running autonomous experiments, or managing a multi-hypothesis research effort.",
+  "repo": "Orchestra-Research/AI-Research-SKILLs",
+  "path": "0-autoresearch-skill/SKILL.md",
+  "url": "https://github.com/Orchestra-Research/AI-Research-SKILLs/tree/HEAD/0-autoresearch-skill/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 24180,
+  "truncated": false
+}

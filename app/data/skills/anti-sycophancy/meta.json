@@ -1,0 +1,11 @@
+{
+  "name": "anti-sycophancy",
+  "display_name": "Anti Sycophancy",
+  "description": "Eliminate sycophantic agreement patterns in AI responses. Load via /skill anti-sycophancy.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/anti-sycophancy/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/anti-sycophancy/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 1091,
+  "truncated": false
+}

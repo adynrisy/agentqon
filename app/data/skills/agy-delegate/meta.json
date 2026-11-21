@@ -1,0 +1,11 @@
+{
+  "name": "agy-delegate",
+  "display_name": "Agy Delegate",
+  "description": "Delegate coding tasks to the Google Antigravity CLI (`agy`) only when the user explicitly requests it, while the orchestrator retains review and landing responsibility.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/agy-delegate/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/agy-delegate/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 8213,
+  "truncated": false
+}

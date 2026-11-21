@@ -1,0 +1,11 @@
+{
+  "name": "automation-generate-cli",
+  "display_name": "Automation Generate CLI",
+  "description": "Generate Newman CLI commands, configuration files, Jenkins pipeline scripts, and shell automation for running Postman collections in CI/CD or local environments.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/postman-newman-automation/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/postman-newman-automation/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 7764,
+  "truncated": false
+}

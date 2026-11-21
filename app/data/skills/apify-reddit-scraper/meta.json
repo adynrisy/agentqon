@@ -1,0 +1,11 @@
+{
+  "name": "apify-reddit-scraper",
+  "display_name": "Apify Reddit Scraper",
+  "description": "Scrape Reddit posts, comments, subreddits and users with the harshmaur/reddit-scraper Apify Actor. No Reddit API key. Keyword search, date windows, full threads.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/apify-reddit-scraper/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/apify-reddit-scraper/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 15970,
+  "truncated": false
+}

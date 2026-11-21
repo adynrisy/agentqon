@@ -1,0 +1,11 @@
+{
+  "name": "ai-engineering-toolkit",
+  "display_name": "AI Engineering Toolkit",
+  "description": "Overview of six AI engineering workflows: prompt evaluation (8-dimension scoring), context budget planning, RAG pipeline design, agent security audit (65-point checklist), eval harness building, and product sense coaching.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/ai-engineering-toolkit/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/ai-engineering-toolkit/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 7667,
+  "truncated": false
+}

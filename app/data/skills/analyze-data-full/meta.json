@@ -1,0 +1,11 @@
+{
+  "name": "analyze-data-full",
+  "display_name": "Analyze Data Full",
+  "description": "Answer data questions -- from quick lookups to full analyses. Use when looking up a single metric, investigating what's driving a trend or drop, comparing segments over time, or preparing a formal data report for stakeholders.",
+  "repo": "anthropics/knowledge-work-plugins",
+  "path": "data/skills/analyze/SKILL.md",
+  "url": "https://github.com/anthropics/knowledge-work-plugins/tree/HEAD/data/skills/analyze/SKILL.md",
+  "license": "Apache-2.0",
+  "body_bytes": 4141,
+  "truncated": false
+}

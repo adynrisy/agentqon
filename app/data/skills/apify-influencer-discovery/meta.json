@@ -1,0 +1,11 @@
+{
+  "name": "apify-influencer-discovery",
+  "display_name": "Apify Influencer Discovery",
+  "description": "Find and evaluate influencers for brand partnerships, verify authenticity, and track collaboration performance across Instagram, Facebook, YouTube, and TikTok.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/apify-influencer-discovery/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/apify-influencer-discovery/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 4766,
+  "truncated": false
+}

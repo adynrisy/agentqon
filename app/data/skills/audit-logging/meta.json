@@ -1,0 +1,11 @@
+{
+  "name": "audit-logging",
+  "display_name": "Audit Logging",
+  "description": "Implement centralized audit logging and SIEM integration. Configure log retention and security monitoring. Use when implementing audit trail requirements.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/audit-logging/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/audit-logging/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 12615,
+  "truncated": false
+}

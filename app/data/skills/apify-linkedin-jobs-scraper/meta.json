@@ -1,0 +1,11 @@
+{
+  "name": "apify-linkedin-jobs-scraper",
+  "display_name": "Apify Linkedin Jobs Scraper",
+  "description": "Search and export LinkedIn job postings with salary, seniority, recruiter and company fields using the harshmaur/linkedin-jobs-scraper Apify Actor. No LinkedIn login.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/apify-linkedin-jobs-scraper/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/apify-linkedin-jobs-scraper/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 9877,
+  "truncated": false
+}

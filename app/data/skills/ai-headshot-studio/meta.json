@@ -1,0 +1,11 @@
+{
+  "name": "ai-headshot-studio",
+  "display_name": "AI Headshot Studio",
+  "description": "Install and use the official AI Headshot Generator package, pinned by digest, for paid hosted work on the Beatra service.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/ai-headshot-studio/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/ai-headshot-studio/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 14566,
+  "truncated": false
+}

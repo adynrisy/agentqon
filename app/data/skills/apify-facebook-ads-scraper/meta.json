@@ -1,0 +1,11 @@
+{
+  "name": "apify-facebook-ads-scraper",
+  "display_name": "Apify Facebook Ads Scraper",
+  "description": "Research Meta Ad Library ads by advertiser or keyword with creative links, dates and disclosed reach or spend through the harshmaur/facebook-ads-library-scraper Apify Actor.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/apify-facebook-ads-library-scraper/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/apify-facebook-ads-library-scraper/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 9845,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "api-design-principles",
+  "display_name": "API Design Principles",
+  "description": "Master REST and GraphQL API design principles to build intuitive, scalable, and maintainable APIs that delight developers. Use when designing new APIs, reviewing API specifications, or establishing API design standards.",
+  "repo": "wshobson/agents",
+  "path": "plugins/backend-development/skills/api-design-principles/SKILL.md",
+  "url": "https://github.com/wshobson/agents/tree/HEAD/plugins/backend-development/skills/api-design-principles/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 3333,
+  "truncated": false
+}

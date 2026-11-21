@@ -1,0 +1,11 @@
+{
+  "name": "async-python-patterns",
+  "display_name": "Async Python Patterns",
+  "description": "Master Python asyncio, concurrent programming, and async/await patterns for high-performance applications. Use when building async APIs, concurrent systems, or I/O-bound applications requiring non-blocking operations.",
+  "repo": "wshobson/agents",
+  "path": "plugins/python-development/skills/async-python-patterns/SKILL.md",
+  "url": "https://github.com/wshobson/agents/tree/HEAD/plugins/python-development/skills/async-python-patterns/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 7267,
+  "truncated": false
+}

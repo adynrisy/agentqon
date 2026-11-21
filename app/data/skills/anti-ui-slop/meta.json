@@ -1,0 +1,11 @@
+{
+  "name": "anti-ui-slop",
+  "display_name": "Anti UI Slop",
+  "description": "Stop coding agents from shipping generic UI. Extend the product's design system, use UIZZE evidence only when useful, cover required states, and inspect the rendered result.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/anti-ui-slop/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/anti-ui-slop/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 2790,
+  "truncated": false
+}

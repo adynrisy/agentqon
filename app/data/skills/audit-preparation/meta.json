@@ -1,0 +1,11 @@
+{
+  "name": "audit-preparation",
+  "display_name": "Audit Preparation",
+  "description": "Audit preparation register: required document, period covered, request and receipt dates, preparer and reviewer, auditor queries and adjustments. Use for assembling an audit file.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/audit-preparation/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/audit-preparation/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 20750,
+  "truncated": false
+}

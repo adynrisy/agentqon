@@ -1,0 +1,11 @@
+{
+  "name": "aurora-ui",
+  "display_name": "Aurora UI",
+  "description": "Web and App implementation guide for Aurora UI. Trigger when user wants gradient glows, color blobs, and atmospheric lighting effects.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/design-it/aurora-ui/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/design-it/aurora-ui/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 10240,
+  "truncated": false
+}

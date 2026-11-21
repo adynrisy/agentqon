@@ -1,0 +1,11 @@
+{
+  "name": "api-sdk-generator",
+  "display_name": "API SDK Generator",
+  "description": "Generates client SDK code, API wrapper libraries, request/response models, and language-specific usage patterns for any REST API.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/api-sdk-generator/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/api-sdk-generator/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 5657,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "article-illustrator",
+  "display_name": "Article Illustrator",
+  "description": "Analyzes article structure, identifies positions requiring visual aids, generates illustrations with Type × Style × Palette three-dimension approach. Use when user asks to \"illustrate article\", \"add images\", \"generate images for article\", or \"为文章配图\".",
+  "repo": "JimLiu/baoyu-skills",
+  "path": "skills/baoyu-article-illustrator/SKILL.md",
+  "url": "https://github.com/JimLiu/baoyu-skills/tree/HEAD/skills/baoyu-article-illustrator/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 16744,
+  "truncated": false
+}

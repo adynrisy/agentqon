@@ -1,0 +1,11 @@
+{
+  "name": "audit-permissions",
+  "display_name": "Audit Permissions",
+  "description": "Audits existing table permissions on a Power Pages site by analyzing them against site code and Dataverse metadata, then GRADES the configuration with deterministic 1–5 scores across 3 security/usability/correctness categories (9 dimensions). Detection is anchored by a recurring-issue catalog so findings and severities stay consistent run-to-run. Generates an HTML report with an at-a-glance verdict and per-category scores in the Overview plus a single list of **major/minor** issues (each major issue labelled permissions-only or upstream-caused with a short justification), and suggested fixes. Use when the user wants to review, verify, check, score, or grade table permissions for security issues.",
+  "repo": "microsoft/power-platform-skills",
+  "path": "plugins/power-pages/skills/audit-permissions/SKILL.md",
+  "url": "https://github.com/microsoft/power-platform-skills/tree/HEAD/plugins/power-pages/skills/audit-permissions/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 65536,
+  "truncated": true
+}

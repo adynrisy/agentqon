@@ -1,0 +1,11 @@
+{
+  "name": "ai-architect",
+  "display_name": "AI Architect",
+  "description": "Expert in designing and building autonomous AI agents. Masters tool use, memory systems, planning strategies, and multi-agent orchestration.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/ai-agents-architect/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/ai-agents-architect/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 10035,
+  "truncated": false
+}

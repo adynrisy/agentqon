@@ -1,0 +1,11 @@
+{
+  "name": "audit-architecture-maps",
+  "display_name": "Audit Architecture Maps",
+  "description": "Architecture audit that maps module dependencies, checks layering integrity, and flags structural decay across a codebase, drawing on twelve classic engineering books.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/brooks-audit/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/brooks-audit/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 2131,
+  "truncated": false
+}

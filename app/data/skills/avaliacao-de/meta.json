@@ -1,0 +1,11 @@
+{
+  "name": "avaliacao-de",
+  "display_name": "Avaliacao De",
+  "description": "Avaliacao pericial de imoveis em leilao. Valor de mercado, liquidacao forcada, ABNT NBR 14653, metodos comparativo/renda/custo, CUB e margem de seguranca.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/leiloeiro-avaliacao/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/leiloeiro-avaliacao/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 1330,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "ai-pipeline-orchestration",
+  "display_name": "AI Pipeline Orchestration",
+  "description": "Orchestrate AI/ML pipelines for data ingestion, model training, batch inference, and RAG indexing using Prefect, Airflow, or Dagster.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/ai-pipeline-orchestration/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/ai-pipeline-orchestration/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 11135,
+  "truncated": false
+}

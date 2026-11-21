@@ -1,0 +1,11 @@
+{
+  "name": "apple-container",
+  "display_name": "Apple Container",
+  "description": "Build, run, and manage OCI/Linux containers as lightweight per-container VMs on Apple-silicon macOS using Apple's open-source container CLI, no Docker daemon required.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/apple-container/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/apple-container/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 9376,
+  "truncated": false
+}

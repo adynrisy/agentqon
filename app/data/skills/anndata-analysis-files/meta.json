@@ -1,0 +1,11 @@
+{
+  "name": "anndata-analysis-files",
+  "display_name": "Anndata Analysis Files",
+  "description": "Handles annotated matrices in single-cell analysis, .h5ad and Zarr files, and integration with the scverse ecosystem. This is the data format skill—for analysis workflows use scanpy; for probabilistic models use scvi-tools; for population-scale queries use cellxgene-census.",
+  "repo": "K-Dense-AI/scientific-agent-skills",
+  "path": "skills/anndata/SKILL.md",
+  "url": "https://github.com/K-Dense-AI/scientific-agent-skills/tree/HEAD/skills/anndata/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 14989,
+  "truncated": false
+}

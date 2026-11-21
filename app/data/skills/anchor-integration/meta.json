@@ -1,0 +1,11 @@
+{
+  "name": "anchor-integration",
+  "display_name": "Anchor Integration",
+  "description": "Stellar anchor protocol compliance register: SEP-10 web authentication, SEP-24 interactive deposit and withdrawal, and KYC lifecycle.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/stellar-anchor-integration/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/stellar-anchor-integration/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 4974,
+  "truncated": false
+}
