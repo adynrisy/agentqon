@@ -1,0 +1,11 @@
+{
+  "name": "deploy-publish-push",
+  "display_name": "Deploy Publish Push",
+  "description": "Use to deploy, publish, or push an Expo/React Native Power Apps mobile app to a Power Platform tenant.",
+  "repo": "microsoft/power-platform-skills",
+  "path": "plugins/mobile-apps/skills/deploy/SKILL.md",
+  "url": "https://github.com/microsoft/power-platform-skills/tree/HEAD/plugins/mobile-apps/skills/deploy/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 18659,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "debug-app",
+  "display_name": "Debug App",
+  "description": "Use when the user has finished building a mobile app, started Metro with `npm run dev`, and wants the running app monitored for runtime errors AND silent failures (empty lists, blank screens, swallowed network errors) and fixed autonomously. Accepts a free-text symptom (e.g., `/debug-app \"todos not appearing on home screen\"`) to drive persisted-log diagnostics — injects temporary console.log statements at data-path boundaries, reads the sanitized `.powernative/metro-logs/` log, and cleans up logs after the root cause is fixed. Supports port/platform filtering, configurable clean-cycle and timeout limits, and watch-only `--no-fix` mode. Otherwise polls with a durable byte cursor, fixes inline or routes appropriately, verifies each fix from new output, and exits after the configured clean checks (default 3). Foreground loop — blocks the conversation while running. Run only after the app is loaded.",
+  "repo": "microsoft/power-platform-skills",
+  "path": "plugins/mobile-apps/skills/debug-app/SKILL.md",
+  "url": "https://github.com/microsoft/power-platform-skills/tree/HEAD/plugins/mobile-apps/skills/debug-app/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 65536,
+  "truncated": true
+}

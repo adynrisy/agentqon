@@ -1,0 +1,11 @@
+{
+  "name": "design-token-contrast",
+  "display_name": "Design Token Contrast",
+  "description": "Checks WCAG 2.2 contrast between the color tokens of a project (light and dark theme) and suggests the closest passing color that keeps the hue.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/design-token-contrast/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/design-token-contrast/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 4984,
+  "truncated": false
+}

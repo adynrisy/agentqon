@@ -1,0 +1,11 @@
+{
+  "name": "database-optimizer-expert",
+  "display_name": "Database Optimizer · Expert",
+  "description": "Expert database optimizer specializing in modern performance tuning, query optimization, and scalable architectures.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/database-optimizer/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/database-optimizer/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 10062,
+  "truncated": false
+}

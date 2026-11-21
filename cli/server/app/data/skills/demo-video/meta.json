@@ -1,0 +1,11 @@
+{
+  "name": "demo-video",
+  "display_name": "Demo Video",
+  "description": "Use when the user asks to create a demo video, product walkthrough, feature showcase, animated presentation, marketing video, or GIF from screenshots or scene descriptions. Orchestrates playwright, ffmpeg, and edge-tts MCPs to produce polished video content.",
+  "repo": "alirezarezvani/claude-skills",
+  "path": ".gemini/skills/demo-video/SKILL.md",
+  "url": "https://github.com/alirezarezvani/claude-skills/tree/HEAD/.gemini/skills/demo-video/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 4871,
+  "truncated": false
+}

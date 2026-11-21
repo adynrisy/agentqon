@@ -1,0 +1,11 @@
+{
+  "name": "design-style",
+  "display_name": "Design Style",
+  "description": "Select a consistent visual design system for PPT slides using radius/spacing style recipes. Use when users ask for overall style direction or component styling consistency. Includes Sharp/Soft/Rounded/Pill recipes, component mappings, typography/spacing rules, and mixing guidance. Triggers: 风格, style, radius, spacing, 圆角, 间距, PPT风格, 视觉风格, design style, component style.",
+  "repo": "MiniMax-AI/skills",
+  "path": "plugins/pptx-plugin/skills/design-style-skill/SKILL.md",
+  "url": "https://github.com/MiniMax-AI/skills/tree/HEAD/plugins/pptx-plugin/skills/design-style-skill/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 5749,
+  "truncated": false
+}

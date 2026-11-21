@@ -1,0 +1,11 @@
+{
+  "name": "decide-c-log",
+  "display_name": "Decide C Log",
+  "description": "/c-level-agents:decide [memo] — Log a decision to two-layer memory via decision-logger. Approved memo becomes durable; raw transcripts kept for reference. Use when the founder has approved a boardroom memo and the decision must become durable company memory — e.g. right after /c-level-agents:boardroom concludes.",
+  "repo": "alirezarezvani/claude-skills",
+  "path": ".gemini/skills/decide/SKILL.md",
+  "url": "https://github.com/alirezarezvani/claude-skills/tree/HEAD/.gemini/skills/decide/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 3394,
+  "truncated": false
+}

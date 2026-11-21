@@ -1,0 +1,11 @@
+{
+  "name": "data-engineering-driven-feature",
+  "display_name": "Data Engineering Driven Feature",
+  "description": "Build features guided by data insights, A/B testing, and continuous measurement using specialized agents for analysis, implementation, and experimentation.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/data-engineering-data-driven-feature/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/data-engineering-data-driven-feature/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 12063,
+  "truncated": false
+}

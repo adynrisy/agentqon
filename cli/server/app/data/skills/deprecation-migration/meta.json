@@ -1,0 +1,11 @@
+{
+  "name": "deprecation-migration",
+  "display_name": "Deprecation Migration",
+  "description": "Manages deprecation and migration. Use when removing old systems, APIs, or features. Use when migrating users from one implementation to another. Use when migrating a database schema in production, such as renaming or dropping a column without downtime (expand/contract). Use when deciding whether to maintain or sunset existing code.",
+  "repo": "addyosmani/agent-skills",
+  "path": "skills/deprecation-and-migration/SKILL.md",
+  "url": "https://github.com/addyosmani/agent-skills/tree/HEAD/skills/deprecation-and-migration/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 12253,
+  "truncated": false
+}

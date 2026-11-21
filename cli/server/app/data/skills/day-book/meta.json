@@ -1,0 +1,11 @@
+{
+  "name": "day-book",
+  "display_name": "Day Book",
+  "description": "Daily cash, bank and digital day book: opening and closing balances per book, in/out movements, debit/credit presentation and reconciliation status. Use for daily bookkeeping.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/day-book/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/day-book/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 27475,
+  "truncated": false
+}

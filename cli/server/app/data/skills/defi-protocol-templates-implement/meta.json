@@ -1,0 +1,11 @@
+{
+  "name": "defi-protocol-templates-implement",
+  "display_name": "Defi Protocol Templates · Implement",
+  "description": "Implement DeFi protocols with production-ready templates for staking, AMMs, governance, and lending systems. Use when building decentralized finance applications or smart contract protocols.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/defi-protocol-templates/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/defi-protocol-templates/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 15946,
+  "truncated": false
+}

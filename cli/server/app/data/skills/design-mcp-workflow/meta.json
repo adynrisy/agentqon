@@ -1,0 +1,11 @@
+{
+  "name": "design-mcp-workflow",
+  "display_name": "Design MCP Workflow",
+  "description": "Design a Zoom MCP workflow for Claude. Use when deciding whether Zoom MCP fits a task, when planning tool-based AI workflows, or when separating MCP responsibilities from REST API responsibilities.",
+  "repo": "anthropics/knowledge-work-plugins",
+  "path": "partner-built/zoom-plugin/skills/design-mcp-workflow/SKILL.md",
+  "url": "https://github.com/anthropics/knowledge-work-plugins/tree/HEAD/partner-built/zoom-plugin/skills/design-mcp-workflow/SKILL.md",
+  "license": "Apache-2.0",
+  "body_bytes": 944,
+  "truncated": false
+}

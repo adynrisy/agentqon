@@ -1,0 +1,11 @@
+{
+  "name": "design-web-app-flat-design",
+  "display_name": "Design Web App · Flat Design",
+  "description": "Web and App implementation guide for Flat Design 2.0 (Semi-Flat). Trigger when the user wants flat design with subtle shadows and improved usability.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/design-it/flat-design-2/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/design-it/flat-design-2/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 8350,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "data-ml-pytorch",
+  "display_name": "Data ML PyTorch",
+  "description": "Scalable data processing for ML workloads. Streaming execution across CPU/GPU, supports Parquet/CSV/JSON/images. Integrates with Ray Train, PyTorch, TensorFlow. Scales from single machine to 100s of nodes. Use for batch inference, data preprocessing, multi-modal data loading, or distributed ETL pipelines.",
+  "repo": "Orchestra-Research/AI-Research-SKILLs",
+  "path": "05-data-processing/ray-data/SKILL.md",
+  "url": "https://github.com/Orchestra-Research/AI-Research-SKILLs/tree/HEAD/05-data-processing/ray-data/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 6755,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "deploy-pipeline",
+  "display_name": "Deploy Pipeline",
+  "description": "Triggers a Power Platform Pipeline deployment run for a Power Pages solution. Selects a target stage, validates the package, optionally configures deployment settings (environment variables, connection references), then deploys and polls for completion. Use when asked to: \"deploy pipeline\", \"run pipeline\", \"trigger deployment\", \"deploy to staging\", \"deploy to production\", \"run power platform pipeline\", \"deploy solution via pipeline\", \"promote solution\", \"push to staging\", \"push to production\".",
+  "repo": "microsoft/power-platform-skills",
+  "path": "plugins/power-pages/skills/deploy-pipeline/SKILL.md",
+  "url": "https://github.com/microsoft/power-platform-skills/tree/HEAD/plugins/power-pages/skills/deploy-pipeline/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 65536,
+  "truncated": true
+}

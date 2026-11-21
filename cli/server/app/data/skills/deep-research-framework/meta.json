@@ -1,0 +1,11 @@
+{
+  "name": "deep-research-framework",
+  "display_name": "Deep Research Framework",
+  "description": "Framework for deep research reports: define the question and tier sources first, cross-verify, then write conclusion-first reports with explicit uncertainty statements. Use when the user asks for a research report, topic investigation, or competitive analysis.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/deep-research-framework/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/deep-research-framework/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 3932,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "cv-generator",
+  "display_name": "Cv Generator",
+  "description": "Generate professional, ATS-optimized CVs for FlowCV, Canva, Google Docs, or Word. Handles multi-source merging, JD targeting, seniority adaptation, and humanized rewriting. Outputs paste-ready text with an ATS flaw report and improvement suggestions.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/cv-generator/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/cv-generator/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 1800,
+  "truncated": false
+}

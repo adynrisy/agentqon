@@ -1,0 +1,11 @@
+{
+  "name": "dependency-analysis",
+  "display_name": "Dependency Analysis",
+  "description": "Analyze internal and package dependencies using Ontoly graph traversal. Use when asked which modules, packages, services, or files depend on each other.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/dependency-analysis/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/dependency-analysis/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 1674,
+  "truncated": false
+}

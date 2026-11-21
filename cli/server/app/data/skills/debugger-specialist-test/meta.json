@@ -1,0 +1,11 @@
+{
+  "name": "debugger-specialist-test",
+  "display_name": "Debugger Specialist Test",
+  "description": "Debugging specialist for errors, test failures, and unexpected\nbehavior. Use proactively when encountering any issues.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/debugger/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/debugger/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 1822,
+  "truncated": false
+}

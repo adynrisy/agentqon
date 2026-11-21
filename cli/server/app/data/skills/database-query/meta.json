@@ -1,0 +1,11 @@
+{
+  "name": "database-query",
+  "display_name": "Database Query",
+  "description": "Food Database Query",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/food-database-query/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/food-database-query/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 1088,
+  "truncated": false
+}

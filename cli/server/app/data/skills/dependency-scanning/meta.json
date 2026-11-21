@@ -1,0 +1,11 @@
+{
+  "name": "dependency-scanning",
+  "display_name": "Dependency Scanning",
+  "description": "Scan package dependencies for known vulnerabilities using Snyk, Dependabot, and OWASP Dependency-Check.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/dependency-scanning/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/dependency-scanning/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 9435,
+  "truncated": false
+}

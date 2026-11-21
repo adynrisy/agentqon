@@ -1,0 +1,11 @@
+{
+  "name": "design-ux",
+  "display_name": "Design UX",
+  "description": "UX / usability audit — heuristic evaluation of INTERACTIVE UIs (not just visual polish). Load with design when a UI \"feels off\", \"sucks to use\", is hard to learn, needs an instruction wall, or before shipping an interactive tool/editor/app.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/design-ux/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/design-ux/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 6813,
+  "truncated": false
+}

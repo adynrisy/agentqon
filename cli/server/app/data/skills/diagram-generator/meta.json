@@ -1,0 +1,11 @@
+{
+  "name": "diagram-generator",
+  "display_name": "Diagram Generator",
+  "description": "Generate, refine, validate, and render diagrams from natural language, notes, code, schemas, or existing diagram sources: flowcharts, swimlanes, attack-path graphs, data-flow diagrams, architecture, and state machines.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/diagram-generator/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/diagram-generator/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 9703,
+  "truncated": false
+}

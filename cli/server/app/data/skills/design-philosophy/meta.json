@@ -1,0 +1,11 @@
+{
+  "name": "design-philosophy",
+  "display_name": "Design Philosophy",
+  "description": "Visual philosophy and art-direction for frontend. Use when creating high-concept work, campaigns, or when the user asks for a visual philosophy, manifesto, or unmistakable art-like aesthetic.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/design-philosophy/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/design-philosophy/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 2264,
+  "truncated": false
+}

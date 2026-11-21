@@ -1,0 +1,11 @@
+{
+  "name": "deep-research-autonomous",
+  "display_name": "Deep Research · Autonomous",
+  "description": "Run autonomous multi-step research with Google's Gemini Deep Research Agent: kick off a query, poll progress, and collect a cited report for market analysis or literature reviews.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "skills/gemini-deep-research/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/skills/gemini-deep-research/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 3581,
+  "truncated": false
+}

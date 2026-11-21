@@ -1,0 +1,11 @@
+{
+  "name": "data-engineering-pipeline",
+  "display_name": "Data Engineering Pipeline",
+  "description": "You are a data pipeline architecture expert specializing in scalable, reliable, and cost-effective data pipelines for batch and streaming data processing.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/data-engineering-data-pipeline/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/data-engineering-data-pipeline/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 7025,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "design-theme-guide",
+  "display_name": "Design Theme Guide",
+  "description": "Design-token register: colour, typography, spacing and radius tokens with light and dark values, contrast ratio and WCAG level. Use for design system documentation.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/design-theme-guide/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/design-theme-guide/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 22249,
+  "truncated": false
+}

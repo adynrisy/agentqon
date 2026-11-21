@@ -1,0 +1,11 @@
+{
+  "name": "data-storytelling-business-analytics",
+  "display_name": "Data Storytelling · Business Analytics",
+  "description": "Transform data into compelling narratives using visualization, context, and persuasive structure. Use when presenting analytics to stakeholders, creating data reports, or building executive presentations.",
+  "repo": "wshobson/agents",
+  "path": "plugins/business-analytics/skills/data-storytelling/SKILL.md",
+  "url": "https://github.com/wshobson/agents/tree/HEAD/plugins/business-analytics/skills/data-storytelling/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 1868,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "data-structure-protocol",
+  "display_name": "Data Structure Protocol",
+  "description": "Give agents persistent structural memory of a codebase — navigate dependencies, track public APIs, and understand why connections exist without re-reading the whole repo.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/data-structure-protocol/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/data-structure-protocol/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 9638,
+  "truncated": false
+}

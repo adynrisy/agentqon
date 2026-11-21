@@ -1,0 +1,11 @@
+{
+  "name": "deepread-user-book",
+  "display_name": "Deepread User Book",
+  "description": "Use when the user asks to deeply read a book, article, PDF, or document set; extract claims and evidence; build a knowledge map; or learn through Feynman explanation and recall. Covers quick, deep, map, Feynman, and whole-book reading modes.",
+  "repo": "alirezarezvani/claude-skills",
+  "path": ".gemini/skills/deepread/SKILL.md",
+  "url": "https://github.com/alirezarezvani/claude-skills/tree/HEAD/.gemini/skills/deepread/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 7917,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "database-security",
+  "display_name": "Database Security",
+  "description": "Authorized database security assessment across PostgreSQL, MySQL, MSSQL, MongoDB, and Redis: exposure, authorization gaps, UDF/command execution paths, and misconfiguration review.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/database-security/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/database-security/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 2297,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "design-handoff",
+  "display_name": "Design Handoff",
+  "description": "Generate developer handoff specs from a design. Use when a design is ready for engineering and needs a spec sheet covering layout, design tokens, component props, interaction states, responsive breakpoints, edge cases, and animation details.",
+  "repo": "anthropics/knowledge-work-plugins",
+  "path": "design/skills/design-handoff/SKILL.md",
+  "url": "https://github.com/anthropics/knowledge-work-plugins/tree/HEAD/design/skills/design-handoff/SKILL.md",
+  "license": "Apache-2.0",
+  "body_bytes": 3617,
+  "truncated": false
+}

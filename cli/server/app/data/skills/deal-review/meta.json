@@ -1,0 +1,11 @@
+{
+  "name": "deal-review",
+  "display_name": "Deal Review",
+  "description": "Deep-dive on a single opportunity - signal-adjusted health score, risks, gaps in qualification, and recommended next actions. Use when the user asks \"review the [account] deal\", \"deal review on [opp]\", \"is [opp] going to close\", or \"what's the risk on [deal]\".",
+  "repo": "anthropics/knowledge-work-plugins",
+  "path": "sales/skills/deal-review/SKILL.md",
+  "url": "https://github.com/anthropics/knowledge-work-plugins/tree/HEAD/sales/skills/deal-review/SKILL.md",
+  "license": "Apache-2.0",
+  "body_bytes": 7576,
+  "truncated": false
+}

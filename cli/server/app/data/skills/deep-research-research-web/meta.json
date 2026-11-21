@@ -1,0 +1,11 @@
+{
+  "name": "deep-research-research-web",
+  "display_name": "Deep Research · Research Web",
+  "description": "Run deep research through DeepAPI and save a report with sources. Use when asked for deep research, DeepAPI research, or Perplexity deep research.",
+  "repo": "davidondrej/skills",
+  "path": "skills/research-and-web/deep-research/SKILL.md",
+  "url": "https://github.com/davidondrej/skills/tree/HEAD/skills/research-and-web/deep-research/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 2455,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "debug-buttercup",
+  "display_name": "Debug Buttercup",
+  "description": "All pods run in namespace crs. Use when pods in the crs namespace are in CrashLoopBackOff, OOMKilled, or restarting, multiple services restart simultaneously (cascade failure), or redis is unresponsive or showing AOF warnings.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/debug-buttercup/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/debug-buttercup/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 10481,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "dbt-transformation-patterns",
+  "display_name": "Dbt Transformation Patterns",
+  "description": "Production-ready patterns for dbt (data build tool) including model organization, testing strategies, documentation, and incremental processing.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/dbt-transformation-patterns/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/dbt-transformation-patterns/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 1364,
+  "truncated": false
+}

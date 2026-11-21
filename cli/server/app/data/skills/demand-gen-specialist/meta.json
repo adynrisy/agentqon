@@ -1,0 +1,11 @@
+{
+  "name": "demand-gen-specialist",
+  "display_name": "Demand Gen Specialist",
+  "description": "Demand generation and acquisition-funnel specialist orchestrating the marketing-demand-acquisition, paid-ads, and email-sequence skills. Use when building or fixing the acquisition engine — e.g., comparing channel CAC against B2B SaaS benchmarks before reallocating a $40k/month budget, scoring paid-ads account health with ad_health_scorer.py before scaling spend, or designing a nurture sequence that must score 70+ on sequence_analyzer.py before launch. Covers channel mix, CAC/ROAS math, MQL→SQL workflows, attribution, and nurture design.",
+  "repo": "alirezarezvani/claude-skills",
+  "path": ".gemini/skills/cs-demand-gen-specialist/SKILL.md",
+  "url": "https://github.com/alirezarezvani/claude-skills/tree/HEAD/.gemini/skills/cs-demand-gen-specialist/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 10963,
+  "truncated": false
+}

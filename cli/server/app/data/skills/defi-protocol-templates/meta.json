@@ -1,0 +1,11 @@
+{
+  "name": "defi-protocol-templates",
+  "display_name": "Defi Protocol Templates",
+  "description": "Implement DeFi protocols with production-ready templates for staking, AMMs, governance, and flash loans. Use when building decentralized finance applications or smart contract protocols.",
+  "repo": "wshobson/agents",
+  "path": "plugins/blockchain-web3/skills/defi-protocol-templates/SKILL.md",
+  "url": "https://github.com/wshobson/agents/tree/HEAD/plugins/blockchain-web3/skills/defi-protocol-templates/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 7221,
+  "truncated": false
+}

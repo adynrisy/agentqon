@@ -1,0 +1,11 @@
+{
+  "name": "distribute-local",
+  "display_name": "Distribute Local",
+  "description": "Distribute a skill across configured agent skill folders while respecting local symlink layouts.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/distribute-skill-to-all-agents/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/distribute-skill-to-all-agents/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 4184,
+  "truncated": false
+}

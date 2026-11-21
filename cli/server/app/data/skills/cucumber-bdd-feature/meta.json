@@ -1,0 +1,11 @@
+{
+  "name": "cucumber-bdd-feature",
+  "display_name": "Cucumber BDD Feature",
+  "description": "Generates Cucumber BDD tests with Gherkin feature files and step definitions in Java, JavaScript, or Ruby. Use when user mentions \"Cucumber\", \"Gherkin\", \"Feature/Scenario\", \"Given/When/Then\", \"BDD\".",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/cucumber-skill/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/cucumber-skill/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 6762,
+  "truncated": false
+}

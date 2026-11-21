@@ -1,0 +1,11 @@
+{
+  "name": "design-sprint",
+  "display_name": "Design Sprint",
+  "description": "Run a structured 5-day process to prototype, test, and validate product ideas with real users. Use when the user mentions \"design sprint\", \"validate before we build\", \"rapid prototype\", \"test with users\", or \"should we build this\". Also trigger when a team is stuck in endless debate over a high-stakes product decision, or wants to de-risk a costly idea before investing in development. Covers mapping, sketching, deciding, prototyping, and testing across Monday-Friday. For ongoing experimentation and MVPs, see lean-startup. For customer job analysis, see jobs-to-be-done. For non-leading user interviews, see mom-test.",
+  "repo": "wondelai/skills",
+  "path": "design-sprint/SKILL.md",
+  "url": "https://github.com/wondelai/skills/tree/HEAD/design-sprint/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 14629,
+  "truncated": false
+}

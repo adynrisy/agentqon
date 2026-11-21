@@ -1,0 +1,11 @@
+{
+  "name": "database-admin",
+  "display_name": "Database Admin",
+  "description": "Expert database administrator specializing in modern cloud databases, automation, and reliability engineering.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/database-admin/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/database-admin/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 9778,
+  "truncated": false
+}

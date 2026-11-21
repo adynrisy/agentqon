@@ -1,0 +1,11 @@
+{
+  "name": "delegate-coding-cli-user",
+  "display_name": "Delegate Coding CLI · User",
+  "description": "Delegate coding tasks to the GitHub Copilot CLI (`copilot`) only when the user explicitly requests it, while the orchestrator retains review and landing responsibility.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/copilot-delegate/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/copilot-delegate/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 7036,
+  "truncated": false
+}

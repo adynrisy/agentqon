@@ -1,0 +1,11 @@
+{
+  "name": "dependency-audit",
+  "display_name": "Dependency Audit",
+  "description": "Read-only supply-chain audit of packages and agent extensions: lockfiles, typosquats, dependency confusion, install scripts, licenses, CVEs. Use when asked if a package, manifest change or bot bump is safe.",
+  "repo": "khasky/awesome-agent-skills",
+  "path": "skills/awesome-dependency-audit/SKILL.md",
+  "url": "https://github.com/khasky/awesome-agent-skills/tree/HEAD/skills/awesome-dependency-audit/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 15200,
+  "truncated": false
+}

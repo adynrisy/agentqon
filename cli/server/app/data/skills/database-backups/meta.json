@@ -1,0 +1,11 @@
+{
+  "name": "database-backups",
+  "display_name": "Database Backups",
+  "description": "Implement database backup strategies. Configure automated backups, retention, and recovery testing. Use when designing backup and recovery procedures.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/database-backups/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/database-backups/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 11792,
+  "truncated": false
+}

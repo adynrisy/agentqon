@@ -1,0 +1,11 @@
+{
+  "name": "database-lookup",
+  "display_name": "Database Lookup",
+  "description": "Queries documented public database APIs with explicit endpoints, filters, pagination, and provenance. Used when a scientific, regulatory, financial, or other database-backed fact must be retrieved reproducibly from a named source rather than inferred from general knowledge.",
+  "repo": "K-Dense-AI/scientific-agent-skills",
+  "path": "skills/database-lookup/SKILL.md",
+  "url": "https://github.com/K-Dense-AI/scientific-agent-skills/tree/HEAD/skills/database-lookup/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 27137,
+  "truncated": false
+}

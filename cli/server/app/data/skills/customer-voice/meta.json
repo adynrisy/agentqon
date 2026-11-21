@@ -1,0 +1,11 @@
+{
+  "name": "customer-voice",
+  "display_name": "Customer Voice",
+  "description": "Surface what customers are actually saying - direct attributed quotes on a topic across call transcripts and email, across your accounts. Use when the user asks \"what are customers saying about [topic]\", \"pull quotes on [objection/feature/competitor]\", \"voice of customer on [X]\", or \"what's coming up in calls\".",
+  "repo": "anthropics/knowledge-work-plugins",
+  "path": "sales/skills/customer-voice/SKILL.md",
+  "url": "https://github.com/anthropics/knowledge-work-plugins/tree/HEAD/sales/skills/customer-voice/SKILL.md",
+  "license": "Apache-2.0",
+  "body_bytes": 6829,
+  "truncated": false
+}

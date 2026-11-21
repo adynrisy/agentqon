@@ -1,0 +1,11 @@
+{
+  "name": "dali-short-address-commissioner",
+  "display_name": "Dali Short Address Commissioner",
+  "description": "Commissions DALI and DALI-2 (IEC 62386) lighting buses: short-address assignment (0-63), 24-bit binary search collision resolution, groups, and DT8 color control. Trigger phrases: commission dali, dali short address, dali collision resolution, dali bus addressing, dali-2 setup.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/dali-short-address-commissioner/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/dali-short-address-commissioner/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 11347,
+  "truncated": false
+}

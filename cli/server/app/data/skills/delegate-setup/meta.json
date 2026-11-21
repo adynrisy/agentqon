@@ -1,0 +1,11 @@
+{
+  "name": "delegate-setup",
+  "display_name": "Delegate Setup",
+  "description": "Configure approved delegation lanes across installed implementer CLIs, including optional model and effort choices, then write global or project config only after explicit user approval.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/delegate-setup/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/delegate-setup/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 10817,
+  "truncated": false
+}

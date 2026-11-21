@@ -1,0 +1,11 @@
+{
+  "name": "crypto-bd",
+  "display_name": "Crypto Bd",
+  "description": "Production-tested patterns for building AI agents that autonomously discover, evaluate, and acquire token listings for cryptocurrency exchanges.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/crypto-bd-agent/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/crypto-bd-agent/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 7950,
+  "truncated": false
+}

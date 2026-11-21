@@ -1,0 +1,11 @@
+{
+  "name": "cua-driver",
+  "display_name": "Cua Driver",
+  "description": "Use Cua Driver for desktop or browser tasks that are awkward or unavailable through Bash/APIs, or when the user explicitly wants GUI interaction: app testing, visual bug reproduction, form filling, calendar entry, screenshots, and demo recording. Also covers Cua setup; not OpenAI Codex Computer Use or web research.",
+  "repo": "davidondrej/skills",
+  "path": "skills/ops-and-setup/cua-driver/SKILL.md",
+  "url": "https://github.com/davidondrej/skills/tree/HEAD/skills/ops-and-setup/cua-driver/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 2935,
+  "truncated": false
+}

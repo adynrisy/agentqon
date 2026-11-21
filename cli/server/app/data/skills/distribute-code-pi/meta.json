@@ -1,0 +1,11 @@
+{
+  "name": "distribute-code-pi",
+  "display_name": "Distribute Code Pi",
+  "description": "Distribute global skills across Codex, Claude Code, Pi, Hermes, and Cursor. Use for \"distribute this skill\", \"sync skills across agents\", or after creating or updating a global skill.",
+  "repo": "davidondrej/skills",
+  "path": "skills/skill-authoring/distribute-skill-to-all-agents/SKILL.md",
+  "url": "https://github.com/davidondrej/skills/tree/HEAD/skills/skill-authoring/distribute-skill-to-all-agents/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 3472,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "dep-ci-cd-setup",
+  "display_name": "Dep CI/CD Setup",
+  "description": "Handles containerization, CI/CD pipelines, and deployment setup.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/agent-squad/dep/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/agent-squad/dep/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 7730,
+  "truncated": false
+}

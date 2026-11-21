@@ -1,0 +1,11 @@
+{
+  "name": "deploy-apps-code",
+  "display_name": "Deploy Apps Code",
+  "description": "Builds and deploys a Power Apps code app to Power Platform. Use when deploying changes, redeploying an existing app, or pushing updates.",
+  "repo": "microsoft/power-platform-skills",
+  "path": "plugins/code-apps/skills/deploy/SKILL.md",
+  "url": "https://github.com/microsoft/power-platform-skills/tree/HEAD/plugins/code-apps/skills/deploy/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 1751,
+  "truncated": false
+}

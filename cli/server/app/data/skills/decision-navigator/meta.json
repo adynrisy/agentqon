@@ -1,0 +1,11 @@
+{
+  "name": "decision-navigator",
+  "display_name": "Decision Navigator",
+  "description": "Guide stuck or overwhelmed users through targeted branching questions until they reach concrete next steps.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/decision-navigator/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/decision-navigator/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 9258,
+  "truncated": false
+}

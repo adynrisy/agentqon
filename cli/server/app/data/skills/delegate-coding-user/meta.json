@@ -1,0 +1,11 @@
+{
+  "name": "delegate-coding-user",
+  "display_name": "Delegate Coding User",
+  "description": "Delegate coding tasks to Aider (`aider`) only when the user explicitly requests it, while the orchestrator retains review and landing responsibility.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/aider-delegate/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/aider-delegate/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 11321,
+  "truncated": false
+}

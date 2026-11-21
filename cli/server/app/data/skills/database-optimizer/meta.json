@@ -1,0 +1,11 @@
+{
+  "name": "database-optimizer",
+  "display_name": "Database Optimizer",
+  "description": "Optimizes database queries and improves performance across PostgreSQL and MySQL systems. Use when investigating slow queries, analyzing execution plans, or optimizing database performance. Invoke for index design, query rewrites, configuration tuning, partitioning strategies, lock contention resolution.",
+  "repo": "Jeffallan/claude-skills",
+  "path": "skills/database-optimizer/SKILL.md",
+  "url": "https://github.com/Jeffallan/claude-skills/tree/HEAD/skills/database-optimizer/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 5389,
+  "truncated": false
+}

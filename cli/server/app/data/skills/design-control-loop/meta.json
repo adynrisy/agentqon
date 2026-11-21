@@ -1,0 +1,11 @@
+{
+  "name": "design-control-loop",
+  "display_name": "Design Control Loop",
+  "description": "interview the user to design an agentic control loop (sensor, controller, actuator under disturbances) tailored to their codebase, then build it as locally-runnable components plus a scheduled coding-agent workflow",
+  "repo": "humanlayer/skills",
+  "path": "plugins/design-control-loop/skills/design-control-loop/SKILL.md",
+  "url": "https://github.com/humanlayer/skills/tree/HEAD/plugins/design-control-loop/skills/design-control-loop/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 15232,
+  "truncated": false
+}

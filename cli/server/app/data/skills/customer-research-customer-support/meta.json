@@ -1,0 +1,11 @@
+{
+  "name": "customer-research-customer-support",
+  "display_name": "Customer Research · Customer Support",
+  "description": "Multi-source research on a customer question or topic with source attribution. Use when a customer asks something you need to look up, investigating whether a bug has been reported before, checking what was previously told to a specific account, or gathering background before drafting a response.",
+  "repo": "anthropics/knowledge-work-plugins",
+  "path": "customer-support/skills/customer-research/SKILL.md",
+  "url": "https://github.com/anthropics/knowledge-work-plugins/tree/HEAD/customer-support/skills/customer-research/SKILL.md",
+  "license": "Apache-2.0",
+  "body_bytes": 9851,
+  "truncated": false
+}

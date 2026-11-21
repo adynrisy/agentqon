@@ -1,0 +1,11 @@
+{
+  "name": "digest-generate-daily",
+  "display_name": "Digest Generate Daily",
+  "description": "Generate a daily or weekly digest of activity across all connected sources. Use when catching up after time away, starting the day and wanting a summary of mentions and action items, or reviewing a week's decisions and document updates grouped by project.",
+  "repo": "anthropics/knowledge-work-plugins",
+  "path": "enterprise-search/skills/digest/SKILL.md",
+  "url": "https://github.com/anthropics/knowledge-work-plugins/tree/HEAD/enterprise-search/skills/digest/SKILL.md",
+  "license": "Apache-2.0",
+  "body_bytes": 5241,
+  "truncated": false
+}

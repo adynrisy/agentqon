@@ -1,0 +1,11 @@
+{
+  "name": "data-visualization",
+  "display_name": "Data Visualization",
+  "description": "Create effective data visualizations with Python (matplotlib, seaborn, plotly). Use when building charts, choosing the right chart type for a dataset, creating publication-quality figures, or applying design principles like accessibility and color theory.",
+  "repo": "anthropics/knowledge-work-plugins",
+  "path": "data/skills/data-visualization/SKILL.md",
+  "url": "https://github.com/anthropics/knowledge-work-plugins/tree/HEAD/data/skills/data-visualization/SKILL.md",
+  "license": "Apache-2.0",
+  "body_bytes": 10726,
+  "truncated": false
+}

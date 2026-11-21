@@ -1,0 +1,11 @@
+{
+  "name": "debt-tech-assessment",
+  "display_name": "Debt Tech Assessment",
+  "description": "Tech debt assessment that identifies, classifies, and prioritizes maintainability problems — helping teams build a refactoring roadmap — drawing on twelve classic engineering books.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/brooks-debt/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/brooks-debt/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 1690,
+  "truncated": false
+}

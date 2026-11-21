@@ -1,0 +1,11 @@
+{
+  "name": "design-system-mobile-apps",
+  "display_name": "Design System · Mobile Apps",
+  "description": "Creates the Tamagui brand system for an Expo/React Native Power Apps mobile app, including design-system.md, tokens.ts, and an HTML gallery.",
+  "repo": "microsoft/power-platform-skills",
+  "path": "plugins/mobile-apps/skills/design-system/SKILL.md",
+  "url": "https://github.com/microsoft/power-platform-skills/tree/HEAD/plugins/mobile-apps/skills/design-system/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 40745,
+  "truncated": false
+}

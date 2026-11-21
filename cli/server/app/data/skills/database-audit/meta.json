@@ -1,0 +1,11 @@
+{
+  "name": "database-audit",
+  "display_name": "Database Audit",
+  "description": "Read-only audit of a database layer: schema anti-patterns, query and index fit, integrity, concurrency, migrations, tenancy, with a verdict. Use when asked to review a schema, migrations or data model.",
+  "repo": "khasky/awesome-agent-skills",
+  "path": "skills/awesome-database-audit/SKILL.md",
+  "url": "https://github.com/khasky/awesome-agent-skills/tree/HEAD/skills/awesome-database-audit/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 13641,
+  "truncated": false
+}

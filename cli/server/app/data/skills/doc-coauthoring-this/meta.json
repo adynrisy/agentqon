@@ -1,0 +1,11 @@
+{
+  "name": "doc-coauthoring-this",
+  "display_name": "Doc Coauthoring · This",
+  "description": "This skill provides a structured workflow for guiding users through collaborative document creation. Act as an active guide, walking users through three stages: Context Gathering, Refinement & Structure, and Reader Testing.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/doc-coauthoring/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/doc-coauthoring/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 15943,
+  "truncated": false
+}

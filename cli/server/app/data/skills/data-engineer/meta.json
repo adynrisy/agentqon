@@ -1,0 +1,11 @@
+{
+  "name": "data-engineer",
+  "display_name": "Data Engineer",
+  "description": "Build scalable data pipelines, modern data warehouses, and real-time streaming architectures. Implements Apache Spark, dbt, Airflow, and cloud-native data platforms.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/data-engineer/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/data-engineer/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 11411,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "dnanexus-integration",
+  "display_name": "Dnanexus Integration",
+  "description": "Builds and operates reproducible genomics workloads on DNAnexus with the dx CLI, dxpy, apps/applets, native workflows, dxCompiler, and Nextflow. Supports DNAnexus data transfers, dxapp.json development, execution monitoring, workflow import, and project automation.",
+  "repo": "K-Dense-AI/scientific-agent-skills",
+  "path": "skills/dnanexus-integration/SKILL.md",
+  "url": "https://github.com/K-Dense-AI/scientific-agent-skills/tree/HEAD/skills/dnanexus-integration/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 11733,
+  "truncated": false
+}

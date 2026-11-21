@@ -1,0 +1,11 @@
+{
+  "name": "design-google-systems",
+  "display_name": "Design Google Systems",
+  "description": "Use when generating Google Stitch DESIGN.md systems for premium typography, color, layout, motion intent, and anti-generic UI rules.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/stitch-design-taste/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/stitch-design-taste/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 12347,
+  "truncated": false
+}

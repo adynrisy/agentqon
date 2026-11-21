@@ -1,0 +1,11 @@
+{
+  "name": "delegate-coding-cli",
+  "display_name": "Delegate Coding CLI",
+  "description": "Delegate coding tasks to a separate Claude Code CLI process or Claude session only when the user explicitly requests it, while the orchestrator retains review and landing responsibility.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/claude-delegate/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/claude-delegate/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 8620,
+  "truncated": false
+}

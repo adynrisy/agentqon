@@ -1,0 +1,11 @@
+{
+  "name": "diagnose-android-overheating",
+  "display_name": "Diagnose Android Overheating",
+  "description": "Use when diagnosing Android overheating, idle heat, thermal throttling, charging or radio heat, or abnormal battery drain with read-only ADB evidence and approval gates.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/diagnose-android-overheating/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/diagnose-android-overheating/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 11219,
+  "truncated": false
+}

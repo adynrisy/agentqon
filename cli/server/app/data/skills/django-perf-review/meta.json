@@ -1,0 +1,11 @@
+{
+  "name": "django-perf-review",
+  "display_name": "Django Perf Review",
+  "description": "Django performance code review. Use when asked to \"review Django performance\", \"find N+1 queries\", \"optimize Django\", \"check queryset performance\", \"database performance\", \"Django ORM issues\", or audit Django code for performance problems.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/django-perf-review/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/django-perf-review/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 11693,
+  "truncated": false
+}

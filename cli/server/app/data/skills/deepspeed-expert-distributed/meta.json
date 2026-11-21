@@ -1,0 +1,11 @@
+{
+  "name": "deepspeed-expert-distributed",
+  "display_name": "Deepspeed Expert Distributed",
+  "description": "Expert guidance for distributed training with DeepSpeed - ZeRO optimization stages, pipeline parallelism, FP16/BF16/FP8, 1-bit Adam, sparse attention",
+  "repo": "Orchestra-Research/AI-Research-SKILLs",
+  "path": "08-distributed-training/deepspeed/SKILL.md",
+  "url": "https://github.com/Orchestra-Research/AI-Research-SKILLs/tree/HEAD/08-distributed-training/deepspeed/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 65536,
+  "truncated": true
+}

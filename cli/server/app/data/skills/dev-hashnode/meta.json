@@ -1,0 +1,11 @@
+{
+  "name": "dev-hashnode",
+  "display_name": "Dev Hashnode",
+  "description": "When the user wants to publish on Dev.to, Hashnode, or other developer blogging platforms. Trigger phrases include \"Dev.to,\" \"Hashnode,\" \"developer blog,\" \"cross-posting,\" \"technical blogging,\" \"canonical URL,\" or \"developer content platform.\"",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/dev-to-hashnode/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/dev-to-hashnode/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 11328,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "datacircle-api-plan",
+  "display_name": "Datacircle API Plan",
+  "description": "Every GTM API plan on datacircle.dev, as one file you download and query. Use it to compare or price a GTM data API.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/datacircle/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/datacircle/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 40705,
+  "truncated": false
+}

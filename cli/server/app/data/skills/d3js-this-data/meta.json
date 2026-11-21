@@ -1,0 +1,11 @@
+{
+  "name": "d3js-this-data",
+  "display_name": "D3js This Data",
+  "description": "This skill provides guidance for creating sophisticated, interactive data visualisations using d3.js.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/claude-d3js-skill/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/claude-d3js-skill/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 1264,
+  "truncated": false
+}

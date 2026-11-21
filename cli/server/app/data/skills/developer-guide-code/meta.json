@@ -1,0 +1,11 @@
+{
+  "name": "developer-guide-code",
+  "display_name": "Developer Guide Code",
+  "description": "Comprehensive guide for creating and managing skills in Claude Code with auto-activation system, following Anthropic's official best practices including the 500-line rule and progressive disclosure pattern.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/skill-developer/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/skill-developer/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 12055,
+  "truncated": false
+}

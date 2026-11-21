@@ -1,0 +1,11 @@
+{
+  "name": "disciplinary-pip-tracker",
+  "display_name": "Disciplinary Pip Tracker",
+  "description": "Disciplinary and performance-improvement case register: case type, linked review or issue, improvement goals, review dates, outcome and confidentiality. Use for PIP tracking.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/disciplinary-pip-tracker/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/disciplinary-pip-tracker/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 14926,
+  "truncated": false
+}

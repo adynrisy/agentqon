@@ -1,0 +1,11 @@
+{
+  "name": "devcontainer-setup-devcontainers",
+  "display_name": "Devcontainer Setup · Devcontainers",
+  "description": "Creates devcontainers with Claude Code, language-specific tooling (Python/Node/Rust/Go), and persistent volumes. Use when adding devcontainer support to a project, setting up isolated development environments, or configuring sandboxed Claude Code workspaces.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/devcontainer-setup/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/devcontainer-setup/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 8048,
+  "truncated": false
+}

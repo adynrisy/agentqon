@@ -1,0 +1,11 @@
+{
+  "name": "design-analyze-projects",
+  "display_name": "Design Analyze Projects",
+  "description": "Analyze Stitch projects and synthesize a semantic design system into DESIGN.md files",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/design-md/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/design-md/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 8015,
+  "truncated": false
+}

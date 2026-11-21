@@ -1,0 +1,11 @@
+{
+  "name": "doc2math-technical-problem",
+  "display_name": "Doc2math Technical Problem",
+  "description": "Convert narrative technical documents into grounded Mathematical Problem Specifications with variables, constraints, objectives, and uncertainty.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/doc2math/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/doc2math/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 4186,
+  "truncated": false
+}

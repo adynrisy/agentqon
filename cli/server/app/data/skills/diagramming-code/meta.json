@@ -1,0 +1,11 @@
+{
+  "name": "diagramming-code",
+  "display_name": "Diagramming Code",
+  "description": "Generates Mermaid diagrams from Trailmark code graphs. Produces call graphs, class hierarchies, module dependency maps, containment diagrams, complexity heatmaps, and attack surface data flow visualizations. Use when visualizing code architecture, drawing call graphs, generating class diagrams, creating dependency maps, producing complexity heatmaps, or visualizing data flow and attack surface paths as Mermaid diagrams.",
+  "repo": "trailofbits/skills",
+  "path": "plugins/trailmark/skills/diagramming-code/SKILL.md",
+  "url": "https://github.com/trailofbits/skills/tree/HEAD/plugins/trailmark/skills/diagramming-code/SKILL.md",
+  "license": "CC",
+  "body_bytes": 6328,
+  "truncated": false
+}

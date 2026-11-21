@@ -1,0 +1,11 @@
+{
+  "name": "deepapi-research-email",
+  "display_name": "Deepapi Research Email",
+  "description": "Use DeepAPI for supported scraping, research, and email workflows with explicit credentials and approval.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/deepapi/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/deepapi/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 928,
+  "truncated": false
+}

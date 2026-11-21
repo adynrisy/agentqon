@@ -1,0 +1,11 @@
+{
+  "name": "dependency-upgrade",
+  "display_name": "Dependency Upgrade",
+  "description": "Plans and executes dependency upgrades: batches by risk, changelog-driven majors, CVE overrides, one revertable commit per batch. Use when asked to upgrade packages, merge bot update PRs, or act on an audit report.",
+  "repo": "khasky/awesome-agent-skills",
+  "path": "skills/awesome-dependency-upgrade/SKILL.md",
+  "url": "https://github.com/khasky/awesome-agent-skills/tree/HEAD/skills/awesome-dependency-upgrade/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 8899,
+  "truncated": false
+}

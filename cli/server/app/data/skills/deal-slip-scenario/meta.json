@@ -1,0 +1,11 @@
+{
+  "name": "deal-slip-scenario",
+  "display_name": "Deal Slip Scenario",
+  "description": "Model what happens to your number if a deal slips, shrinks, or dies - quota impact, coverage ratio change, and the substitute pipeline needed to stay on plan. Use when the user asks \"what if [deal] slips\", \"what happens if [account] pushes to next quarter\", \"can I still hit my number without [deal]\", or \"model losing [deal]\".",
+  "repo": "anthropics/knowledge-work-plugins",
+  "path": "sales/skills/deal-slip-scenario/SKILL.md",
+  "url": "https://github.com/anthropics/knowledge-work-plugins/tree/HEAD/sales/skills/deal-slip-scenario/SKILL.md",
+  "license": "Apache-2.0",
+  "body_bytes": 7057,
+  "truncated": false
+}

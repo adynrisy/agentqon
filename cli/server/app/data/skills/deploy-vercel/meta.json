@@ -1,0 +1,11 @@
+{
+  "name": "deploy-vercel",
+  "display_name": "Deploy Vercel",
+  "description": "Deploy applications and websites to Vercel. Use when the user requests deployment actions like \"deploy my app\", \"deploy and give me the link\", \"push this live\", or \"create a preview deployment\".",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/deploy-to-vercel/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/deploy-to-vercel/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 12087,
+  "truncated": false
+}

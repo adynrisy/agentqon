@@ -1,0 +1,11 @@
+{
+  "name": "debugging-strategies",
+  "display_name": "Debugging Strategies",
+  "description": "Master systematic debugging techniques, profiling tools, and root cause analysis to efficiently track down bugs across any codebase or technology stack. Use when investigating bugs, performance issues, or unexpected behavior.",
+  "repo": "wshobson/agents",
+  "path": "plugins/developer-essentials/skills/debugging-strategies/SKILL.md",
+  "url": "https://github.com/wshobson/agents/tree/HEAD/plugins/developer-essentials/skills/debugging-strategies/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 5935,
+  "truncated": false
+}

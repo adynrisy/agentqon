@@ -1,0 +1,11 @@
+{
+  "name": "devops-engineer",
+  "display_name": "DevOps Engineer",
+  "description": "Builds infrastructure that scales without babysitting. Automates everything worth automating. Monitors before it breaks. Treats clicking in consoles as a production incident waiting to happen. Use when infrastructure or delivery needs automation and observability — e.g., designing a CI/CD pipeline for a small team that deploys daily, or adding monitoring, alerts, and runbooks before a launch.",
+  "repo": "alirezarezvani/claude-skills",
+  "path": ".gemini/skills/devops-engineer/SKILL.md",
+  "url": "https://github.com/alirezarezvani/claude-skills/tree/HEAD/.gemini/skills/devops-engineer/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 4789,
+  "truncated": false
+}

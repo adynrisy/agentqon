@@ -1,0 +1,11 @@
+{
+  "name": "design-system-audit",
+  "display_name": "Design System · Audit",
+  "description": "Audit, document, or extend your design system. Use when checking for naming inconsistencies or hardcoded values across components, writing documentation for a component's variants, states, and accessibility notes, or designing a new pattern that fits the existing system.",
+  "repo": "anthropics/knowledge-work-plugins",
+  "path": "design/skills/design-system/SKILL.md",
+  "url": "https://github.com/anthropics/knowledge-work-plugins/tree/HEAD/design/skills/design-system/SKILL.md",
+  "license": "Apache-2.0",
+  "body_bytes": 5219,
+  "truncated": false
+}

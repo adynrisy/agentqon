@@ -1,0 +1,11 @@
+{
+  "name": "deploy-site",
+  "display_name": "Deploy Site",
+  "description": "Deploys an existing Power Pages code site to a Power Pages environment using PAC CLI. Handles tooling verification, authentication, environment confirmation, building, and uploading. Use when the user wants to deploy, upload, or publish their code site.",
+  "repo": "microsoft/power-platform-skills",
+  "path": "plugins/power-pages/skills/deploy-site/SKILL.md",
+  "url": "https://github.com/microsoft/power-platform-skills/tree/HEAD/plugins/power-pages/skills/deploy-site/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 22133,
+  "truncated": false
+}

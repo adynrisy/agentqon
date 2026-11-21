@@ -1,0 +1,11 @@
+{
+  "name": "dask-custom-python",
+  "display_name": "Dask Custom Python",
+  "description": "Scales pandas, NumPy, and custom Python research workflows beyond memory or across clusters with Dask. Covers DataFrames, Arrays, Bags, Futures, chunking, schedulers, and distributed diagnostics. Use for partitioned file processing, scientific array computation, or parallel tasks whose memory and dependency structure require Dask.",
+  "repo": "K-Dense-AI/scientific-agent-skills",
+  "path": "skills/dask/SKILL.md",
+  "url": "https://github.com/K-Dense-AI/scientific-agent-skills/tree/HEAD/skills/dask/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 16699,
+  "truncated": false
+}

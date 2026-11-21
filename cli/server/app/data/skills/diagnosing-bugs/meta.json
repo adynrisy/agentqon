@@ -1,0 +1,11 @@
+{
+  "name": "diagnosing-bugs",
+  "display_name": "Diagnosing Bugs",
+  "description": "Diagnosis loop for hard bugs and performance regressions. Use when the user says \"diagnose\"/\"debug this\", or reports something broken/throwing/failing/slow.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/diagnosing-bugs/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/diagnosing-bugs/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 9008,
+  "truncated": false
+}
