@@ -1,0 +1,11 @@
+{
+  "name": "aws-development",
+  "display_name": "AWS Development",
+  "description": "AWS Cloud Development Kit (CDK) expert for building cloud infrastructure with TypeScript/Python.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/aws-cdk-development/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/aws-cdk-development/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 10130,
+  "truncated": false
+}

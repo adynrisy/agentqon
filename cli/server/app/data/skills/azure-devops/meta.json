@@ -1,0 +1,11 @@
+{
+  "name": "azure-devops",
+  "display_name": "Azure DevOps",
+  "description": "Set up Azure Pipelines for CI/CD, configure build and release pipelines, manage Azure DevOps projects, and integrate with Azure services.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/azure-devops/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/azure-devops/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 8655,
+  "truncated": false
+}

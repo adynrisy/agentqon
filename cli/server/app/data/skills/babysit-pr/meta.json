@@ -1,0 +1,11 @@
+{
+  "name": "babysit-pr",
+  "display_name": "Babysit PR",
+  "description": "Babysit a pull request through its bot review rounds: verify, fix, reply, resolve. Use for any babysit or watch-the-PR ask.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/babysit-pr/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/babysit-pr/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 18828,
+  "truncated": false
+}

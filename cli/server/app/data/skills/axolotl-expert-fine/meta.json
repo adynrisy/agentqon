@@ -1,0 +1,11 @@
+{
+  "name": "axolotl-expert-fine",
+  "display_name": "Axolotl Expert Fine",
+  "description": "Expert guidance for fine-tuning LLMs with Axolotl - YAML configs, 100+ models, LoRA/QLoRA, DPO/KTO/ORPO/GRPO, multimodal support",
+  "repo": "Orchestra-Research/AI-Research-SKILLs",
+  "path": "03-fine-tuning/axolotl/SKILL.md",
+  "url": "https://github.com/Orchestra-Research/AI-Research-SKILLs/tree/HEAD/03-fine-tuning/axolotl/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 4382,
+  "truncated": false
+}

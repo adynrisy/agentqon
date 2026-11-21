@@ -1,0 +1,11 @@
+{
+  "name": "binary-analysis-patterns",
+  "display_name": "Binary Analysis Patterns",
+  "description": "Comprehensive patterns and techniques for analyzing compiled binaries, understanding assembly code, and reconstructing program logic.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/binary-analysis-patterns/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/binary-analysis-patterns/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 9836,
+  "truncated": false
+}

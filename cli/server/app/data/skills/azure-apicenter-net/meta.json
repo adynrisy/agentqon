@@ -1,0 +1,11 @@
+{
+  "name": "azure-apicenter-net",
+  "display_name": "Azure Apicenter .NET",
+  "description": "Azure API Center SDK for .NET. Centralized API inventory management with governance, versioning, and discovery.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/azure-mgmt-apicenter-dotnet/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/azure-mgmt-apicenter-dotnet/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 12739,
+  "truncated": false
+}

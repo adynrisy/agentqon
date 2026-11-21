@@ -1,0 +1,11 @@
+{
+  "name": "battle-card-builder",
+  "display_name": "Battle Card Builder",
+  "description": "Research and draft a competitive battle card from public evidence — every claim labeled and sourced. Use when a rep needs a field-action card, not a research report.",
+  "repo": "deanpeters/Product-Manager-Skills",
+  "path": "skills/battle-card-builder/SKILL.md",
+  "url": "https://github.com/deanpeters/Product-Manager-Skills/tree/HEAD/skills/battle-card-builder/SKILL.md",
+  "license": "CC",
+  "body_bytes": 9229,
+  "truncated": false
+}

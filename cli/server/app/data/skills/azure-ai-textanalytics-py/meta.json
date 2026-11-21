@@ -1,0 +1,11 @@
+{
+  "name": "azure-ai-textanalytics-py",
+  "display_name": "Azure AI Textanalytics Py",
+  "description": "Azure AI Text Analytics SDK for sentiment analysis, entity recognition, key phrases, language detection, PII, and healthcare NLP. Use for natural language processing on text.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/azure-ai-textanalytics-py/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/azure-ai-textanalytics-py/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 6715,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "best-practices",
+  "display_name": "Best Practices",
+  "description": "CloudFormation template optimization, nested stacks, drift detection, and production-ready patterns. Use when writing or reviewing CF templates.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/cloudformation-best-practices/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/cloudformation-best-practices/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 3101,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "azure-search-documents-ts",
+  "display_name": "Azure Search Documents TS",
+  "description": "Build search applications with vector, hybrid, and semantic search capabilities.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/azure-search-documents-ts/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/azure-search-documents-ts/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 6738,
+  "truncated": false
+}

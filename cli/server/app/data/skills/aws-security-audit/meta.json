@@ -1,0 +1,11 @@
+{
+  "name": "aws-security-audit",
+  "display_name": "AWS Security Audit",
+  "description": "Comprehensive AWS security posture assessment using AWS CLI and security best practices",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/security/aws-security-audit/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/security/aws-security-audit/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 9943,
+  "truncated": false
+}

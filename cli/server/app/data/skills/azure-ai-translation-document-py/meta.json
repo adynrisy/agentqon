@@ -1,0 +1,11 @@
+{
+  "name": "azure-ai-translation-document-py",
+  "display_name": "Azure AI Translation Document Py",
+  "description": "Azure AI Document Translation SDK for batch translation of documents with format preservation. Use for translating Word, PDF, Excel, PowerPoint, and other document formats at scale.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/azure-ai-translation-document-py/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/azure-ai-translation-document-py/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 6846,
+  "truncated": false
+}

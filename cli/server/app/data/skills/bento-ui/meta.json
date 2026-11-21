@@ -1,0 +1,11 @@
+{
+  "name": "bento-ui",
+  "display_name": "Bento UI",
+  "description": "Web and App implementation guide for Bento UI. Trigger when user wants modular grid cards, Apple-like dashboard style, or sections arranged like a bento box.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/design-it/bento-ui/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/design-it/bento-ui/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 10616,
+  "truncated": false
+}

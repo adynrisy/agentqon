@@ -1,0 +1,11 @@
+{
+  "name": "azure-microsoft-playwright-testing-ts",
+  "display_name": "Azure Microsoft Playwright Testing TS",
+  "description": "Run Playwright tests at scale with cloud-hosted browsers and integrated Azure portal reporting.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/azure-microsoft-playwright-testing-ts/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/azure-microsoft-playwright-testing-ts/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 8054,
+  "truncated": false
+}

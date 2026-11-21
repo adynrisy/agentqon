@@ -1,0 +1,11 @@
+{
+  "name": "azure-mongodbatlas-net",
+  "display_name": "Azure Mongodbatlas .NET",
+  "description": "Manage MongoDB Atlas Organizations as Azure ARM resources with unified billing through Azure Marketplace.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/azure-mgmt-mongodbatlas-dotnet/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/azure-mgmt-mongodbatlas-dotnet/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 10887,
+  "truncated": false
+}

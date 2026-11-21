@@ -1,0 +1,11 @@
+{
+  "name": "aws-mcp-setup",
+  "display_name": "AWS MCP Setup",
+  "description": "Configure AWS MCP servers for documentation search and API access. Use when setting up AWS MCP, configuring AWS documentation tools, troubleshooting MCP connectivity, or when user mentions aws-mcp, awsdocs, uvx setup, or MCP server configuration.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/aws-mcp-setup/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/aws-mcp-setup/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 5353,
+  "truncated": false
+}

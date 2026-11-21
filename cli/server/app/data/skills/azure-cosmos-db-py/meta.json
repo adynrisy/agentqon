@@ -1,0 +1,11 @@
+{
+  "name": "azure-cosmos-db-py",
+  "display_name": "Azure Cosmos DB Py",
+  "description": "Build production-grade Azure Cosmos DB NoSQL services following clean code, security best practices, and TDD principles.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/azure-cosmos-db-py/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/azure-cosmos-db-py/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 9534,
+  "truncated": false
+}

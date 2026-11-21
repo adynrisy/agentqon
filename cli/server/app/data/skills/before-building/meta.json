@@ -1,0 +1,11 @@
+{
+  "name": "before-building",
+  "display_name": "Before Building",
+  "description": "Fire the moment the user proposes a build. Instantly surface the 1-3 consequential choices hidden in their idea. Can also be invoked with /before-building.",
+  "repo": "davidondrej/skills",
+  "path": "skills/thinking-and-docs/before-building/SKILL.md",
+  "url": "https://github.com/davidondrej/skills/tree/HEAD/skills/thinking-and-docs/before-building/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 456,
+  "truncated": false
+}

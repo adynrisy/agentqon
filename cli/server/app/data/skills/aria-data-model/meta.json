@@ -1,0 +1,11 @@
+{
+  "name": "aria-data-model",
+  "display_name": "Aria Data Model",
+  "description": "Designs the data model, API contracts, and structural foundation of the system.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/agent-squad/aria/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/agent-squad/aria/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 6389,
+  "truncated": false
+}

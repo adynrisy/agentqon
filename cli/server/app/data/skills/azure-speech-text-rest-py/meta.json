@@ -1,0 +1,11 @@
+{
+  "name": "azure-speech-text-rest-py",
+  "display_name": "Azure Speech Text REST Py",
+  "description": "Azure Speech to Text REST API for short audio (Python). Use for simple speech recognition of audio files up to 60 seconds without the Speech SDK.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/azure-speech-to-text-rest-py/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/azure-speech-to-text-rest-py/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 10813,
+  "truncated": false
+}

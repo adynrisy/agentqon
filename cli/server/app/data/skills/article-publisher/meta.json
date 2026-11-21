@@ -1,0 +1,11 @@
+{
+  "name": "article-publisher",
+  "display_name": "Article Publisher",
+  "description": "Publish articles to X/Twitter",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/x-article-publisher-skill/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/x-article-publisher-skill/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 757,
+  "truncated": false
+}

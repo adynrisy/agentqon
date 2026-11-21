@@ -1,0 +1,11 @@
+{
+  "name": "azure-py-azure-eventgrid-py",
+  "display_name": "Azure Py · Azure Eventgrid Py",
+  "description": "Azure Event Grid SDK for Python. Use for publishing events, handling CloudEvents, and event-driven architectures.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/azure-eventgrid-py/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/azure-eventgrid-py/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 4737,
+  "truncated": false
+}

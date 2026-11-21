@@ -1,0 +1,11 @@
+{
+  "name": "bb-cli",
+  "display_name": "Bb CLI",
+  "description": "Use this when controlling bb. The bb CLI inspects and manages threads, environments, projects, machines, providers, skills, plugins, settings, terminals, and other BB services.",
+  "repo": "davidondrej/skills",
+  "path": "skills/agent-orchestration/bb-cli/SKILL.md",
+  "url": "https://github.com/davidondrej/skills/tree/HEAD/skills/agent-orchestration/bb-cli/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 3077,
+  "truncated": false
+}

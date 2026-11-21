@@ -1,0 +1,11 @@
+{
+  "name": "architecture-review",
+  "display_name": "Architecture Review",
+  "description": "Review repository architecture using Ontoly Software Graph and MCP capabilities. Use when asked to explain architecture, module boundaries, package topology, service ownership, or architectural risk.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/architecture-review/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/architecture-review/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 1874,
+  "truncated": false
+}

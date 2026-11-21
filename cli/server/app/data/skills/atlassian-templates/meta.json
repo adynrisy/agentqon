@@ -1,0 +1,11 @@
+{
+  "name": "atlassian-templates",
+  "display_name": "Atlassian Templates",
+  "description": "Atlassian Template and Files Creator/Modifier expert for creating, modifying, and managing Jira and Confluence templates, blueprints, custom layouts, reusable components, and standardized content structures. Use when building org-wide templates, custom blueprints, page layouts, and automated content generation.",
+  "repo": "alirezarezvani/claude-skills",
+  "path": ".gemini/skills/atlassian-templates/SKILL.md",
+  "url": "https://github.com/alirezarezvani/claude-skills/tree/HEAD/.gemini/skills/atlassian-templates/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 12077,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "azure-py-azure-servicebus-py",
+  "display_name": "Azure Py · Azure Servicebus Py",
+  "description": "Azure Service Bus SDK for Python messaging. Use for queues, topics, subscriptions, and enterprise messaging patterns.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/azure-servicebus-py/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/azure-servicebus-py/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 8678,
+  "truncated": false
+}

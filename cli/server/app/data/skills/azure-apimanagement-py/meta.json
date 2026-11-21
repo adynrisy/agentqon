@@ -1,0 +1,11 @@
+{
+  "name": "azure-apimanagement-py",
+  "display_name": "Azure Apimanagement Py",
+  "description": "Azure API Management SDK for Python. Use for managing APIM services, APIs, products, subscriptions, and policies.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/azure-mgmt-apimanagement-py/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/azure-mgmt-apimanagement-py/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 6912,
+  "truncated": false
+}

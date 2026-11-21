@@ -1,0 +1,11 @@
+{
+  "name": "azure-ai-vision-imageanalysis-py",
+  "display_name": "Azure AI Vision Imageanalysis Py",
+  "description": "Azure AI Vision Image Analysis SDK for captions, tags, objects, OCR, people detection, and smart cropping. Use for computer vision and image understanding tasks.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/azure-ai-vision-imageanalysis-py/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/azure-ai-vision-imageanalysis-py/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 6736,
+  "truncated": false
+}

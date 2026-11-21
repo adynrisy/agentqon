@@ -1,0 +1,11 @@
+{
+  "name": "atheris-up-python",
+  "display_name": "Atheris Up Python",
+  "description": "Sets up and runs Atheris, the coverage-guided Python fuzzer built on libFuzzer. Covers TestOneInput harnesses, FuzzedDataProvider, instrumenting both pure Python and native C extensions, and running under AddressSanitizer. Use when fuzzing a Python package, hunting memory corruption in a Python C extension, or choosing between Atheris and Hypothesis for a Python target.",
+  "repo": "trailofbits/skills",
+  "path": "plugins/testing-handbook-skills/skills/atheris/SKILL.md",
+  "url": "https://github.com/trailofbits/skills/tree/HEAD/plugins/testing-handbook-skills/skills/atheris/SKILL.md",
+  "license": "CC",
+  "body_bytes": 14308,
+  "truncated": false
+}

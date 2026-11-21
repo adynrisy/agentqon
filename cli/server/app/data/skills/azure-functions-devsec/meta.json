@@ -1,0 +1,11 @@
+{
+  "name": "azure-functions-devsec",
+  "display_name": "Azure Functions Devsec",
+  "description": "Build serverless applications on Azure Functions. Configure triggers, bindings, and deployment. Use when implementing serverless workloads on Azure.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/azure-functions-devsec/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/azure-functions-devsec/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 12170,
+  "truncated": false
+}

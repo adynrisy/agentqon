@@ -1,0 +1,11 @@
+{
+  "name": "aws-plan-review",
+  "display_name": "AWS Plan Review",
+  "description": "Plan and review AWS architecture and infrastructure changes using the upstream AWS skill collection.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/aws-skills/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/aws-skills/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 1947,
+  "truncated": false
+}

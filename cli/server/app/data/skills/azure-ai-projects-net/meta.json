@@ -1,0 +1,11 @@
+{
+  "name": "azure-ai-projects-net",
+  "display_name": "Azure AI Projects .NET",
+  "description": "Azure AI Projects SDK for .NET. High-level client for Azure AI Foundry projects including agents, connections, datasets, deployments, evaluations, and indexes.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/azure-ai-projects-dotnet/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/azure-ai-projects-dotnet/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 10886,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "async-python-patterns-comprehensive",
+  "display_name": "Async Python Patterns · Comprehensive",
+  "description": "Comprehensive guidance for implementing asynchronous Python applications using asyncio, concurrent programming patterns, and async/await for building high-performance, non-blocking systems.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/async-python-patterns/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/async-python-patterns/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 1742,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "aws-cost-optimization",
+  "display_name": "AWS Cost Optimization",
+  "description": "Reduce AWS spend with rightsizing, autoscaling, commitment planning, and storage lifecycle policies. Use when running FinOps reviews, lowering cloud bills, or improving cost-per-request metrics.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/aws-cost-optimization/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/aws-cost-optimization/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 10370,
+  "truncated": false
+}

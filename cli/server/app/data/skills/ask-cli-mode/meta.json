@@ -1,0 +1,11 @@
+{
+  "name": "ask-cli-mode",
+  "display_name": "Ask CLI Mode",
+  "description": "Use GitHub Copilot CLI in non-interactive mode to ask questions, review code, or generate snippets without manual interaction.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/ask-copilot/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/ask-copilot/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 5796,
+  "truncated": false
+}

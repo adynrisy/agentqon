@@ -1,0 +1,11 @@
+{
+  "name": "architecture-decision-records-comprehensive",
+  "display_name": "Architecture Decision Records · Comprehensive",
+  "description": "Comprehensive patterns for creating, maintaining, and managing Architecture Decision Records (ADRs) that capture the context and rationale behind significant technical decisions.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/architecture-decision-records/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/architecture-decision-records/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 13015,
+  "truncated": false
+}

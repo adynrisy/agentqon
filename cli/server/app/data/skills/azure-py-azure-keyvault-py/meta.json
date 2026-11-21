@@ -1,0 +1,11 @@
+{
+  "name": "azure-py-azure-keyvault-py",
+  "display_name": "Azure Py · Azure Keyvault Py",
+  "description": "Azure Key Vault SDK for Python. Use for secrets, keys, and certificates management with secure storage.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/azure-keyvault-py/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/azure-keyvault-py/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 6868,
+  "truncated": false
+}

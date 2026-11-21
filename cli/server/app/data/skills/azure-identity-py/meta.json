@@ -1,0 +1,11 @@
+{
+  "name": "azure-identity-py",
+  "display_name": "Azure Identity Py",
+  "description": "Azure Identity SDK for Python authentication. Use for DefaultAzureCredential, managed identity, service principals, and token caching.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/azure-identity-py/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/azure-identity-py/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 5500,
+  "truncated": false
+}

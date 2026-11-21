@@ -1,0 +1,11 @@
+{
+  "name": "astropy-core-python",
+  "display_name": "Astropy Core Python",
+  "description": "Astropy is the core Python package for astronomy, providing essential functionality for astronomical research and data analysis.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/astropy/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/astropy/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 11262,
+  "truncated": false
+}

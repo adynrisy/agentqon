@@ -1,0 +1,11 @@
+{
+  "name": "aws-sst-development",
+  "display_name": "AWS Sst Development",
+  "description": "SST v4 (Ion) expert for managing AWS resources as code with the Pulumi-backed framework.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/aws-sst-development/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/aws-sst-development/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 10212,
+  "truncated": false
+}

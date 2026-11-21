@@ -1,0 +1,11 @@
+{
+  "name": "azure-ai-voicelive-java",
+  "display_name": "Azure AI Voicelive Java",
+  "description": "Azure AI VoiceLive SDK for Java. Real-time bidirectional voice conversations with AI assistants using WebSocket.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/azure-ai-voicelive-java/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/azure-ai-voicelive-java/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 7447,
+  "truncated": false
+}

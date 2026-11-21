@@ -1,0 +1,11 @@
+{
+  "name": "bazel-build-optimization",
+  "display_name": "Bazel Build Optimization",
+  "description": "Optimize Bazel builds for large-scale monorepos. Use when configuring Bazel, implementing remote execution, or optimizing build performance for enterprise codebases.",
+  "repo": "wshobson/agents",
+  "path": "plugins/developer-essentials/skills/bazel-build-optimization/SKILL.md",
+  "url": "https://github.com/wshobson/agents/tree/HEAD/plugins/developer-essentials/skills/bazel-build-optimization/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 1872,
+  "truncated": false
+}

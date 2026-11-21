@@ -1,0 +1,11 @@
+{
+  "name": "arcmira-find-quotes",
+  "display_name": "Arcmira Find Quotes",
+  "description": "Search indexed YouTube and podcast transcripts for quotes, speakers and clip boundaries with timestamped source links using Arcmira.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/arcmira-find-quotes/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/arcmira-find-quotes/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 4749,
+  "truncated": false
+}

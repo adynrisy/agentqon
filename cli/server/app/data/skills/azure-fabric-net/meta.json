@@ -1,0 +1,11 @@
+{
+  "name": "azure-fabric-net",
+  "display_name": "Azure Fabric .NET",
+  "description": "Azure Resource Manager SDK for Fabric in .NET.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/azure-mgmt-fabric-dotnet/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/azure-mgmt-fabric-dotnet/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 10920,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "azure-java",
+  "display_name": "Azure Java",
+  "description": "Azure App Configuration SDK for Java. Centralized application configuration management with key-value settings, feature flags, and snapshots.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/azure-appconfiguration-java/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/azure-appconfiguration-java/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 13037,
+  "truncated": false
+}

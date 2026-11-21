@@ -1,0 +1,11 @@
+{
+  "name": "backtesting-frameworks-robust",
+  "display_name": "Backtesting Frameworks · Robust",
+  "description": "Build robust, production-grade backtesting systems that avoid common pitfalls and produce reliable strategy performance estimates.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/backtesting-frameworks/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/backtesting-frameworks/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 1454,
+  "truncated": false
+}

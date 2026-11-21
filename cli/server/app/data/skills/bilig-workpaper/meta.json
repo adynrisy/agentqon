@@ -1,0 +1,11 @@
+{
+  "name": "bilig-workpaper",
+  "display_name": "Bilig Workpaper",
+  "description": "Use formula-backed WorkPaper JSON and MCP tools for agent spreadsheet tasks without driving Excel or a browser UI.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "skills/bilig-workpaper/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/skills/bilig-workpaper/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 4872,
+  "truncated": false
+}

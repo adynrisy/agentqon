@@ -1,0 +1,11 @@
+{
+  "name": "aws-rds",
+  "display_name": "AWS Rds",
+  "description": "Provision and manage RDS databases. Configure backups, replication, and security. Use when deploying managed relational databases on AWS.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/aws-rds/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/aws-rds/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 12632,
+  "truncated": false
+}

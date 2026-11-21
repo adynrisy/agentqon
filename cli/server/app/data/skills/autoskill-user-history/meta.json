@@ -1,0 +1,11 @@
+{
+  "name": "autoskill-user-history",
+  "display_name": "Autoskill User History",
+  "description": "Analyzes user-requested Screenpipe history windows to detect repeated research workflows, match existing scientific skills, and stage new skill drafts or composition recipes for review. Requires a reachable Screenpipe HTTP API, normally on localhost:3030. Detection and embedding inference run locally; the selected LLM receives redacted app/title cluster summaries and matched skill descriptions. Use only when the user explicitly asks to analyze their recent work and propose skills.",
+  "repo": "K-Dense-AI/scientific-agent-skills",
+  "path": "skills/autoskill/SKILL.md",
+  "url": "https://github.com/K-Dense-AI/scientific-agent-skills/tree/HEAD/skills/autoskill/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 15484,
+  "truncated": false
+}

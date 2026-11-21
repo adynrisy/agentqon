@@ -1,0 +1,11 @@
+{
+  "name": "azure-keys-ts",
+  "display_name": "Azure Keys TS",
+  "description": "Manage cryptographic keys using Azure Key Vault Keys SDK for JavaScript (@azure/keyvault-keys). Use when creating, encrypting/decrypting, signing, or rotating keys.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/azure-keyvault-keys-ts/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/azure-keyvault-keys-ts/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 6314,
+  "truncated": false
+}

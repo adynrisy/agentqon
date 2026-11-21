@@ -1,0 +1,11 @@
+{
+  "name": "azure-ai-voicelive-py",
+  "display_name": "Azure AI Voicelive Py",
+  "description": "Build real-time voice AI applications with bidirectional WebSocket communication.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/azure-ai-voicelive-py/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/azure-ai-voicelive-py/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 9177,
+  "truncated": false
+}

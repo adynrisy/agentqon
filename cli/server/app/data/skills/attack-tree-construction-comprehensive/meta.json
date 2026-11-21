@@ -1,0 +1,11 @@
+{
+  "name": "attack-tree-construction-comprehensive",
+  "display_name": "Attack Tree Construction · Comprehensive",
+  "description": "Build comprehensive attack trees to visualize threat paths. Use when mapping attack scenarios, identifying defense gaps, or communicating security risks to stakeholders.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/attack-tree-construction/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/attack-tree-construction/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 2389,
+  "truncated": false
+}

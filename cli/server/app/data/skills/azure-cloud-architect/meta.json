@@ -1,0 +1,11 @@
+{
+  "name": "azure-cloud-architect",
+  "display_name": "Azure Cloud Architect",
+  "description": "Design Azure architectures for startups and enterprises. Use when asked to design Azure infrastructure, create Bicep/ARM templates, optimize Azure costs, set up Azure DevOps pipelines, or migrate to Azure. Covers AKS, App Service, Azure Functions, Cosmos DB, and cost optimization.",
+  "repo": "alirezarezvani/claude-skills",
+  "path": ".gemini/skills/azure-cloud-architect/SKILL.md",
+  "url": "https://github.com/alirezarezvani/claude-skills/tree/HEAD/.gemini/skills/azure-cloud-architect/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 13366,
+  "truncated": false
+}

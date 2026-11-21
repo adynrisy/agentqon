@@ -1,0 +1,11 @@
+{
+  "name": "asset-it-management",
+  "display_name": "Asset It Management",
+  "description": "Asset and IT register: serial, model, condition, assignee, location, purchase value, warranty expiry and return date, as CSV, SQL, JSON Schema or Notion on request. Use for asset audits.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/asset-it-management/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/asset-it-management/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 15538,
+  "truncated": false
+}

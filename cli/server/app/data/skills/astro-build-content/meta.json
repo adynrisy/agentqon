@@ -1,0 +1,11 @@
+{
+  "name": "astro-build-content",
+  "display_name": "Astro Build Content",
+  "description": "Build content-focused websites with Astro — zero JS by default, islands architecture, multi-framework components, and Markdown/MDX support.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/astro/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/astro/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 10167,
+  "truncated": false
+}

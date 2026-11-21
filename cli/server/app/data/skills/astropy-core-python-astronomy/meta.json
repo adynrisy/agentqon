@@ -1,0 +1,11 @@
+{
+  "name": "astropy-core-python-astronomy",
+  "display_name": "Astropy Core Python · Astronomy",
+  "description": "Core Python library for astronomy and astrophysics workflows that need Astropy APIs, including units/quantities, coordinates, FITS I/O, tables, time systems, WCS, and cosmology. Use when implementing or debugging astronomical data analysis code with Astropy.",
+  "repo": "K-Dense-AI/scientific-agent-skills",
+  "path": "skills/astropy/SKILL.md",
+  "url": "https://github.com/K-Dense-AI/scientific-agent-skills/tree/HEAD/skills/astropy/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 16396,
+  "truncated": false
+}

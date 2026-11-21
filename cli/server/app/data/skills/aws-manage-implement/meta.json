@@ -1,0 +1,11 @@
+{
+  "name": "aws-manage-implement",
+  "display_name": "AWS Manage Implement",
+  "description": "Manage IAM users, roles, and policies. Implement least-privilege access and security best practices. Use when configuring AWS identity and access management.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/aws-iam/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/aws-iam/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 12879,
+  "truncated": false
+}

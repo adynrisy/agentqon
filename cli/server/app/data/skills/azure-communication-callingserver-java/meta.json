@@ -1,0 +1,11 @@
+{
+  "name": "azure-communication-callingserver-java",
+  "display_name": "Azure Communication Callingserver Java",
+  "description": "⚠️ DEPRECATED: This SDK has been renamed to Call Automation. For new projects, use azure-communication-callautomation instead. This skill is for maintaining legacy code only.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/azure-communication-callingserver-java/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/azure-communication-callingserver-java/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 3436,
+  "truncated": false
+}

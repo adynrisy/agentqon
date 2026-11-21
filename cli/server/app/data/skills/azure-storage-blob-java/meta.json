@@ -1,0 +1,11 @@
+{
+  "name": "azure-storage-blob-java",
+  "display_name": "Azure Storage Blob Java",
+  "description": "Build blob storage applications using the Azure Storage Blob SDK for Java.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/azure-storage-blob-java/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/azure-storage-blob-java/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 10129,
+  "truncated": false
+}

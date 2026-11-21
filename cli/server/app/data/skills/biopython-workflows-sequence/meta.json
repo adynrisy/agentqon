@@ -1,0 +1,11 @@
+{
+  "name": "biopython-workflows-sequence",
+  "display_name": "Biopython Workflows Sequence",
+  "description": "Provides Biopython workflows for sequence manipulation, file parsing (FASTA/GenBank/PDB), phylogenetics, and programmatic NCBI/PubMed access (Bio.Entrez). Supports batch processing, custom molecular-biology pipelines, BLAST automation, structure analysis, and motif analysis.",
+  "repo": "K-Dense-AI/scientific-agent-skills",
+  "path": "skills/biopython/SKILL.md",
+  "url": "https://github.com/K-Dense-AI/scientific-agent-skills/tree/HEAD/skills/biopython/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 16213,
+  "truncated": false
+}

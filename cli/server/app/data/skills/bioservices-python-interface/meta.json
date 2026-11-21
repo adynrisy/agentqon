@@ -1,0 +1,11 @@
+{
+  "name": "bioservices-python-interface",
+  "display_name": "Bioservices Python Interface",
+  "description": "Provides a Python interface to bioinformatics services including UniProt, KEGG, ChEMBL, Reactome, QuickGO, and UniChem. Used for cross-database protein annotation, pathway retrieval, chemical identifier mapping, and integrated biological data workflows with BioServices.",
+  "repo": "K-Dense-AI/scientific-agent-skills",
+  "path": "skills/bioservices/SKILL.md",
+  "url": "https://github.com/K-Dense-AI/scientific-agent-skills/tree/HEAD/skills/bioservices/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 11138,
+  "truncated": false
+}

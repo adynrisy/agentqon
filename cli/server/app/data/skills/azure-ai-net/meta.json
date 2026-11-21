@@ -1,0 +1,11 @@
+{
+  "name": "azure-ai-net",
+  "display_name": "Azure AI .NET",
+  "description": "Azure OpenAI SDK for .NET. Client library for Azure OpenAI and OpenAI services. Use for chat completions, embeddings, image generation, audio transcription, and assistants.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/azure-ai-openai-dotnet/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/azure-ai-openai-dotnet/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 12880,
+  "truncated": false
+}

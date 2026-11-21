@@ -1,0 +1,11 @@
+{
+  "name": "azure-compute-batch-java",
+  "display_name": "Azure Compute Batch Java",
+  "description": "Azure Batch SDK for Java. Run large-scale parallel and HPC batch jobs with pools, jobs, tasks, and compute nodes.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/azure-compute-batch-java/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/azure-compute-batch-java/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 11150,
+  "truncated": false
+}

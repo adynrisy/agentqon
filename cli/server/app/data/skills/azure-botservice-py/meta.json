@@ -1,0 +1,11 @@
+{
+  "name": "azure-botservice-py",
+  "display_name": "Azure Botservice Py",
+  "description": "Azure Bot Service Management SDK for Python. Use for creating, managing, and configuring Azure Bot Service resources.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/azure-mgmt-botservice-py/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/azure-mgmt-botservice-py/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 7805,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "azure-functions",
+  "display_name": "Azure Functions",
+  "description": "Expert patterns for Azure Functions development including isolated worker model, Durable Functions orchestration, cold start optimization, and production patterns. Covers .NET, Python, and Node.js programming models.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/azure-functions/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/azure-functions/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 1122,
+  "truncated": false
+}

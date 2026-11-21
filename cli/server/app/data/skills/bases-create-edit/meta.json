@@ -1,0 +1,11 @@
+{
+  "name": "bases-create-edit",
+  "display_name": "Bases Create Edit",
+  "description": "Create and edit Obsidian Bases (.base files) with views, filters, formulas, and summaries. Use when working with .base files, creating database-like views of notes, or when the user mentions Bases, table views, card views, filters, or formulas in Obsidian.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/obsidian-bases/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/obsidian-bases/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 3264,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "auto-research",
+  "display_name": "Auto Research",
+  "description": "Research uncertain questions with an explicit, user-approved web search or ChatGPT consultation, then present options and wait for implementation approval.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/auto-research/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/auto-research/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 5426,
+  "truncated": false
+}

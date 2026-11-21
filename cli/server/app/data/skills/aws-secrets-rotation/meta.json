@@ -1,0 +1,11 @@
+{
+  "name": "aws-secrets-rotation",
+  "display_name": "AWS Secrets Rotation",
+  "description": "Automate AWS secrets rotation for RDS, API keys, and credentials",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/security/aws-secrets-rotation/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/security/aws-secrets-rotation/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 12401,
+  "truncated": false
+}

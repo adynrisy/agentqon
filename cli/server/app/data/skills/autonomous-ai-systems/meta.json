@@ -1,0 +1,11 @@
+{
+  "name": "autonomous-ai-systems",
+  "display_name": "Autonomous AI Systems",
+  "description": "Autonomous agents are AI systems that can independently decompose goals, plan actions, execute tools, and self-correct without constant human guidance. The challenge isn't making them capable - it's making them reliable. Every extra decision multiplies failure probability.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/autonomous-agents/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/autonomous-agents/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 2864,
+  "truncated": false
+}

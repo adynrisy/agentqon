@@ -1,0 +1,11 @@
+{
+  "name": "aws-best-practices",
+  "display_name": "AWS Best Practices",
+  "description": "IAM policy review, hardening, and least privilege implementation",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/security/aws-iam-best-practices/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/security/aws-iam-best-practices/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 10204,
+  "truncated": false
+}

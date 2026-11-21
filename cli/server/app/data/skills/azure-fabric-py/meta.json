@@ -1,0 +1,11 @@
+{
+  "name": "azure-fabric-py",
+  "display_name": "Azure Fabric Py",
+  "description": "Azure Fabric Management SDK for Python. Use for managing Microsoft Fabric capacities and resources.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/azure-mgmt-fabric-py/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/azure-mgmt-fabric-py/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 6424,
+  "truncated": false
+}

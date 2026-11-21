@@ -1,0 +1,11 @@
+{
+  "name": "automation-project-management",
+  "display_name": "Automation Project Management",
+  "description": "Automate GitLab project management, issues, merge requests, pipelines, branches, and user operations via Rube MCP (Composio). Always search tools first for current schemas.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/gitlab-automation/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/gitlab-automation/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 13640,
+  "truncated": false
+}

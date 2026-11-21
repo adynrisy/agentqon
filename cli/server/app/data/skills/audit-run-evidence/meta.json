@@ -1,0 +1,11 @@
+{
+  "name": "audit-run-evidence",
+  "display_name": "Audit Run Evidence",
+  "description": "Use when an agent, harness, gateway, MCP workflow, or multi-step automation claims completion and the available traces, checkpoints, approvals, tool calls, or deployment records must be judged without trusting self-reported success.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/audit-agent-run-evidence/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/audit-agent-run-evidence/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 8115,
+  "truncated": false
+}

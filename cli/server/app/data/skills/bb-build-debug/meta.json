@@ -1,0 +1,11 @@
+{
+  "name": "bb-build-debug",
+  "display_name": "Bb Build Debug",
+  "description": "Build, install, and debug bb plugins. Use when the user wants a bb plugin, a sidebar panel, a bb CLI subcommand, an agent tool, a theme, a provider, or to extend bb itself. For running threads and the core bb CLI, use bb-cli instead.",
+  "repo": "davidondrej/skills",
+  "path": "skills/agent-orchestration/bb-plugins/SKILL.md",
+  "url": "https://github.com/davidondrej/skills/tree/HEAD/skills/agent-orchestration/bb-plugins/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 3133,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "binary-diff",
+  "display_name": "Binary Diff",
+  "description": "Cross-version binary symbol migration: diff updated binaries, recover function names without PDBs, and propagate annotations after software updates using BinDiff-style tooling.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/binary-diff/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/binary-diff/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 11045,
+  "truncated": false
+}

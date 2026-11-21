@@ -1,0 +1,11 @@
+{
+  "name": "azure-monitor-opentelemetry-py",
+  "display_name": "Azure Monitor Opentelemetry Py",
+  "description": "Azure Monitor OpenTelemetry Distro for Python. Use for one-line Application Insights setup with auto-instrumentation.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/azure-monitor-opentelemetry-py/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/azure-monitor-opentelemetry-py/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 5146,
+  "truncated": false
+}

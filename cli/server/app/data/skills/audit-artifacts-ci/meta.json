@@ -1,0 +1,11 @@
+{
+  "name": "audit-artifacts-ci",
+  "display_name": "Audit Artifacts CI",
+  "description": "Audit and repair repository hygiene across artifacts, dependencies, CI, docs, Git state, and code-quality signals. Use for repository maintenance, cleanup, health checks, or pre-release hardening.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/repo-maintainer/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/repo-maintainer/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 5540,
+  "truncated": false
+}

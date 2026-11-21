@@ -1,0 +1,11 @@
+{
+  "name": "auth-implementation-patterns",
+  "display_name": "Auth Implementation Patterns",
+  "description": "Implement or review authentication and authorization with explicit token, session and resource-access boundaries.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/auth-implementation-patterns/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/auth-implementation-patterns/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 2363,
+  "truncated": false
+}

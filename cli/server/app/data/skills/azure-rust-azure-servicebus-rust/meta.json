@@ -1,0 +1,11 @@
+{
+  "name": "azure-rust-azure-servicebus-rust",
+  "display_name": "Azure Rust · Azure Servicebus Rust",
+  "description": "Azure Service Bus library for Rust. Send and receive messages using queues, topics, and subscriptions. Triggers: \"service bus rust\", \"ServiceBusClient rust\", \"send message servicebus rust\", \"receive message servicebus rust\", \"queue rust messaging\", \"topic subscription rust\".",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/azure-servicebus-rust/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/azure-servicebus-rust/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 7426,
+  "truncated": false
+}

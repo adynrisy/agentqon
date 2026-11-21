@@ -1,0 +1,11 @@
+{
+  "name": "azure-ai-translation-text-py",
+  "display_name": "Azure AI Translation Text Py",
+  "description": "Azure AI Text Translation SDK for real-time text translation, transliteration, language detection, and dictionary lookup. Use for translating text content in applications.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/azure-ai-translation-text-py/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/azure-ai-translation-text-py/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 7412,
+  "truncated": false
+}

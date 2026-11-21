@@ -1,0 +1,11 @@
+{
+  "name": "azure-py",
+  "display_name": "Azure Py",
+  "description": "Azure App Configuration SDK for Python. Use for centralized configuration management, feature flags, and dynamic settings.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/azure-appconfiguration-py/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/azure-appconfiguration-py/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 5683,
+  "truncated": false
+}

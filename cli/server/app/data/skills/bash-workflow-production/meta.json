@@ -1,0 +1,11 @@
+{
+  "name": "bash-workflow-production",
+  "display_name": "Bash Workflow Production",
+  "description": "Bash scripting workflow for creating production-ready shell scripts with defensive patterns, error handling, and testing.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/bash-scripting/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/bash-scripting/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 4709,
+  "truncated": false
+}

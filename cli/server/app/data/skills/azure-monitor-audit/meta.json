@@ -1,0 +1,11 @@
+{
+  "name": "azure-monitor-audit",
+  "display_name": "Azure Monitor Audit",
+  "description": "Configure Azure Monitor and Activity Log for auditing. Set up diagnostic settings and log analytics. Use when auditing Azure activity.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/azure-monitor-audit/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/azure-monitor-audit/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 13718,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "better-prompt",
+  "display_name": "Better Prompt",
+  "description": "Rewrite a prompt into a deeper version of the same task, the way a top professional would approach it. Use only when explicitly invoked with /better-prompt.",
+  "repo": "davidondrej/skills",
+  "path": "skills/thinking-and-docs/better-prompt/SKILL.md",
+  "url": "https://github.com/davidondrej/skills/tree/HEAD/skills/thinking-and-docs/better-prompt/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 435,
+  "truncated": false
+}

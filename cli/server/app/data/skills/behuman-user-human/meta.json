@@ -1,0 +1,11 @@
+{
+  "name": "behuman-user-human",
+  "display_name": "Behuman User Human",
+  "description": "Use when the user wants more human-like AI responses — less robotic, less listy, more authentic. Triggers: 'behuman', 'be real', 'like a human', 'more human', 'less AI', 'talk like a person', 'mirror mode', 'stop being so AI', or when conversations are emotionally charged (grief, job loss, relationship advice, fear). NOT for technical questions, code generation, or factual lookups.",
+  "repo": "alirezarezvani/claude-skills",
+  "path": ".gemini/skills/behuman/SKILL.md",
+  "url": "https://github.com/alirezarezvani/claude-skills/tree/HEAD/.gemini/skills/behuman/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 7688,
+  "truncated": false
+}

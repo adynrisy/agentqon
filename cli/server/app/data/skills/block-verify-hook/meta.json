@@ -1,0 +1,11 @@
+{
+  "name": "block-verify-hook",
+  "display_name": "Block Verify Hook",
+  "description": "Configure a PreToolUse hook to prevent AI agents from skipping git pre-commit hooks with --no-verify and other bypass flags. Use when setting up Claude Code projects that enforce commit quality gates.",
+  "repo": "wshobson/agents",
+  "path": "plugins/block-no-verify/skills/block-no-verify-hook/SKILL.md",
+  "url": "https://github.com/wshobson/agents/tree/HEAD/plugins/block-no-verify/skills/block-no-verify-hook/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 7255,
+  "truncated": false
+}

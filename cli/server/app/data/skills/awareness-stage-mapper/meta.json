@@ -1,0 +1,11 @@
+{
+  "name": "awareness-stage-mapper",
+  "display_name": "Awareness Stage Mapper",
+  "description": "Map audience awareness stages to messaging strategy when planning a campaign, offer, or persuasion sequence.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/awareness-stage-mapper/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/awareness-stage-mapper/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 7503,
+  "truncated": false
+}

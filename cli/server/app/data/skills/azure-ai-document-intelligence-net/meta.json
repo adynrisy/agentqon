@@ -1,0 +1,11 @@
+{
+  "name": "azure-ai-document-intelligence-net",
+  "display_name": "Azure AI Document Intelligence .NET",
+  "description": "Azure AI Document Intelligence SDK for .NET. Extract text, tables, and structured data from documents using prebuilt and custom models.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/azure-ai-document-intelligence-dotnet/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/azure-ai-document-intelligence-dotnet/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 11112,
+  "truncated": false
+}

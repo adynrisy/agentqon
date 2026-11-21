@@ -1,0 +1,11 @@
+{
+  "name": "ask-matt-engineering",
+  "display_name": "Ask Matt · Engineering",
+  "description": "Ask which skill or flow fits your situation. A router over the skills in this repo.",
+  "repo": "mattpocock/skills",
+  "path": "skills/engineering/ask-matt/SKILL.md",
+  "url": "https://github.com/mattpocock/skills/tree/HEAD/skills/engineering/ask-matt/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 12442,
+  "truncated": false
+}

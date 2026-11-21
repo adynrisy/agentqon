@@ -1,0 +1,11 @@
+{
+  "name": "azure-resource-manager-cosmosdb-net",
+  "display_name": "Azure Resource Manager Cosmosdb .NET",
+  "description": "Azure Resource Manager SDK for Cosmos DB in .NET.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/azure-resource-manager-cosmosdb-dotnet/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/azure-resource-manager-cosmosdb-dotnet/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 7957,
+  "truncated": false
+}

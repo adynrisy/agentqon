@@ -1,0 +1,11 @@
+{
+  "name": "azure-manage-secrets",
+  "display_name": "Azure Manage Secrets",
+  "description": "Manage secrets and certificates in Azure Key Vault. Configure access policies, integrate with Azure services, and implement secure secret management. Use when managing secrets in Azure environments.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/azure-keyvault/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/azure-keyvault/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 12118,
+  "truncated": false
+}

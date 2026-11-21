@@ -1,0 +1,11 @@
+{
+  "name": "architecture-create-decision",
+  "display_name": "Architecture Create Decision",
+  "description": "Create or evaluate an architecture decision record (ADR). Use when choosing between technologies (e.g., Kafka vs SQS), documenting a design decision with trade-offs and consequences, reviewing a system design proposal, or designing a new component from requirements and constraints.",
+  "repo": "anthropics/knowledge-work-plugins",
+  "path": "engineering/skills/architecture/SKILL.md",
+  "url": "https://github.com/anthropics/knowledge-work-plugins/tree/HEAD/engineering/skills/architecture/SKILL.md",
+  "license": "Apache-2.0",
+  "body_bytes": 2038,
+  "truncated": false
+}

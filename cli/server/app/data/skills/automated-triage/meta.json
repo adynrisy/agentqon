@@ -1,0 +1,11 @@
+{
+  "name": "automated-triage",
+  "display_name": "Automated Triage",
+  "description": "Triage Monte Carlo alerts interactively or build an automated workflow. Fetch, score, and troubleshoot alerts using MCP tools now, or design a reusable workflow that runs on a schedule.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/automated-triage/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/automated-triage/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 12529,
+  "truncated": false
+}

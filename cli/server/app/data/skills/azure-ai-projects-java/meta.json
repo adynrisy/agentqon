@@ -1,0 +1,11 @@
+{
+  "name": "azure-ai-projects-java",
+  "display_name": "Azure AI Projects Java",
+  "description": "Azure AI Projects SDK for Java. High-level SDK for Azure AI Foundry project management including connections, datasets, indexes, and evaluations.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/azure-ai-projects-java/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/azure-ai-projects-java/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 4841,
+  "truncated": false
+}

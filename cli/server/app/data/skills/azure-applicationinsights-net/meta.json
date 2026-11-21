@@ -1,0 +1,11 @@
+{
+  "name": "azure-applicationinsights-net",
+  "display_name": "Azure Applicationinsights .NET",
+  "description": "Azure Application Insights SDK for .NET. Application performance monitoring and observability resource management.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/azure-mgmt-applicationinsights-dotnet/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/azure-mgmt-applicationinsights-dotnet/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 17483,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "backend-expert-schema",
+  "display_name": "Backend Expert Schema",
+  "description": "Convex reactive backend expert: schema design, TypeScript functions, real-time subscriptions, auth, file storage, scheduling, and deployment.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/convex/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/convex/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 1840,
+  "truncated": false
+}

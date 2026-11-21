@@ -1,0 +1,11 @@
+{
+  "name": "biopython-python-tools",
+  "display_name": "Biopython Python Tools",
+  "description": "Biopython is a comprehensive set of freely available Python tools for biological computation. It provides functionality for sequence manipulation, file I/O, database access, structural bioinformatics, phylogenetics, and many other bioinformatics tasks.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/biopython/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/biopython/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 13942,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "assay-run-web",
+  "display_name": "Assay Run Web",
+  "description": "Run assay on a web page you just wrote or changed. It opens the page in a real browser, drives every control, and reports where the page contradicts itself. Deterministic, no API key, no network.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/assay/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/assay/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 7369,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "azure-identity-ts",
+  "display_name": "Azure Identity TS",
+  "description": "Authenticate to Azure services with various credential types.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/azure-identity-ts/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/azure-identity-ts/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 6912,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "azure-ts-azure-servicebus-ts",
+  "display_name": "Azure TS · Azure Servicebus TS",
+  "description": "Enterprise messaging with queues, topics, and subscriptions.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/azure-servicebus-ts/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/azure-servicebus-ts/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 6568,
+  "truncated": false
+}

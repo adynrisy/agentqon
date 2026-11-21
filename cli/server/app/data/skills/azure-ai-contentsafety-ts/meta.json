@@ -1,0 +1,11 @@
+{
+  "name": "azure-ai-contentsafety-ts",
+  "display_name": "Azure AI Contentsafety TS",
+  "description": "Analyze text and images for harmful content with customizable blocklists.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/azure-ai-contentsafety-ts/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/azure-ai-contentsafety-ts/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 7758,
+  "truncated": false
+}

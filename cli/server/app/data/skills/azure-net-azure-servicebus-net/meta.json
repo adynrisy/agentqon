@@ -1,0 +1,11 @@
+{
+  "name": "azure-net-azure-servicebus-net",
+  "display_name": "Azure .NET · Azure Servicebus .NET",
+  "description": "Azure Service Bus SDK for .NET. Enterprise messaging with queues, topics, subscriptions, and sessions.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/azure-servicebus-dotnet/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/azure-servicebus-dotnet/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 10479,
+  "truncated": false
+}

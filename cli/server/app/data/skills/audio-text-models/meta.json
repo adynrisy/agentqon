@@ -1,0 +1,11 @@
+{
+  "name": "audio-text-models",
+  "display_name": "Audio Text Models",
+  "description": "Text-to-speech and speech-to-text using fal.ai audio models",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/fal-audio/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/fal-audio/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 1758,
+  "truncated": false
+}

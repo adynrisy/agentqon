@@ -1,0 +1,11 @@
+{
+  "name": "aws-cloudtrail",
+  "display_name": "AWS Cloudtrail",
+  "description": "Configure AWS CloudTrail for audit logging. Set up organization trails and event analysis. Use when auditing AWS activity.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/aws-cloudtrail/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/aws-cloudtrail/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 15921,
+  "truncated": false
+}

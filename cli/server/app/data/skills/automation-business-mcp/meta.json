@@ -1,0 +1,11 @@
+{
+  "name": "automation-business-mcp",
+  "display_name": "Automation Business MCP",
+  "description": "Automate WhatsApp Business tasks via Rube MCP (Composio): send messages, manage templates, upload media, and handle contacts. Always search tools first for current schemas.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/whatsapp-automation/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/whatsapp-automation/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 8365,
+  "truncated": false
+}

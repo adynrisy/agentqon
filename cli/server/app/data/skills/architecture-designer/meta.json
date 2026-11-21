@@ -1,0 +1,11 @@
+{
+  "name": "architecture-designer",
+  "display_name": "Architecture Designer",
+  "description": "Use when designing new high-level system architecture, reviewing existing designs, or making architectural decisions. Invoke to create architecture diagrams, write Architecture Decision Records (ADRs), evaluate technology trade-offs, design component interactions, and plan for scalability. Use for system design, architecture review, microservices structuring, ADR authoring, scalability planning, and infrastructure pattern selection — distinct from code-level design patterns or database-only design tasks.",
+  "repo": "Jeffallan/claude-skills",
+  "path": "skills/architecture-designer/SKILL.md",
+  "url": "https://github.com/Jeffallan/claude-skills/tree/HEAD/skills/architecture-designer/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 3920,
+  "truncated": false
+}

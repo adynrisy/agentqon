@@ -1,0 +1,11 @@
+{
+  "name": "audio-transcriber",
+  "display_name": "Audio Transcriber",
+  "description": "Transform audio recordings into professional Markdown documentation with intelligent summaries using LLM integration",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/audio-transcriber/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/audio-transcriber/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 3480,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "artifact-ledger-secret",
+  "display_name": "Artifact Ledger Secret",
+  "description": "Capture and retrieve durable YYLO Ledger artifact Records with intentional profiles, payload modes, provenance, retention, and secret-safe immutable evidence.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/artifact-yylo/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/artifact-yylo/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 4739,
+  "truncated": false
+}

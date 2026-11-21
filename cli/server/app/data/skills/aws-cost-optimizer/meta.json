@@ -1,0 +1,11 @@
+{
+  "name": "aws-cost-optimizer",
+  "display_name": "AWS Cost Optimizer",
+  "description": "Comprehensive AWS cost analysis and optimization recommendations using AWS CLI and Cost Explorer",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/aws-cost-optimizer/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/aws-cost-optimizer/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 6198,
+  "truncated": false
+}

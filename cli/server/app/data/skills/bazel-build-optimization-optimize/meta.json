@@ -1,0 +1,11 @@
+{
+  "name": "bazel-build-optimization-optimize",
+  "display_name": "Bazel Build Optimization · Optimize",
+  "description": "Optimize Bazel builds for large-scale monorepos. Use when configuring Bazel, implementing remote execution, or optimizing build performance for enterprise codebases.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/bazel-build-optimization/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/bazel-build-optimization/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 10012,
+  "truncated": false
+}

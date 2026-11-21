@@ -1,0 +1,11 @@
+{
+  "name": "azure-ai-formrecognizer-java",
+  "display_name": "Azure AI Formrecognizer Java",
+  "description": "Build document analysis applications using the Azure AI Document Intelligence SDK for Java.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/azure-ai-formrecognizer-java/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/azure-ai-formrecognizer-java/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 10359,
+  "truncated": false
+}

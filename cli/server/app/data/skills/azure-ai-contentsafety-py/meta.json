@@ -1,0 +1,11 @@
+{
+  "name": "azure-ai-contentsafety-py",
+  "display_name": "Azure AI Contentsafety Py",
+  "description": "Azure AI Content Safety SDK for Python. Use for detecting harmful content in text and images with multi-severity classification.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/azure-ai-contentsafety-py/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/azure-ai-contentsafety-py/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 5763,
+  "truncated": false
+}

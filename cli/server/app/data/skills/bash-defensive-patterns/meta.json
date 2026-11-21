@@ -1,0 +1,11 @@
+{
+  "name": "bash-defensive-patterns",
+  "display_name": "Bash Defensive Patterns",
+  "description": "Master defensive Bash programming techniques for production-grade scripts. Use when writing robust shell scripts, CI/CD pipelines, or system utilities requiring fault tolerance and safety.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/bash-defensive-patterns/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/bash-defensive-patterns/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 1731,
+  "truncated": false
+}

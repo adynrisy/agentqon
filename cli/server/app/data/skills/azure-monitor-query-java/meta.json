@@ -1,0 +1,11 @@
+{
+  "name": "azure-monitor-query-java",
+  "display_name": "Azure Monitor Query Java",
+  "description": "Azure Monitor Query SDK for Java. Execute Kusto queries against Log Analytics workspaces and query metrics from Azure resources.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/azure-monitor-query-java/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/azure-monitor-query-java/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 13155,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "base-database-management",
+  "display_name": "Base Database Management",
+  "description": "Database management, forms, reports, and data operations with LibreOffice Base.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/libreoffice/base/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/libreoffice/base/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 4412,
+  "truncated": false
+}

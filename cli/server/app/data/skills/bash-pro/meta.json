@@ -1,0 +1,11 @@
+{
+  "name": "bash-pro",
+  "display_name": "Bash Pro",
+  "description": "Master of defensive Bash scripting for production automation, CI/CD\npipelines, and system utilities. Expert in safe, portable, and testable shell\nscripts.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/bash-pro/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/bash-pro/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 18525,
+  "truncated": false
+}
