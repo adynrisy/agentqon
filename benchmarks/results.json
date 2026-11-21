@@ -1,0 +1,302 @@
+[
+  {
+    "mode": "single",
+    "objective": "Choose a go-to-market strategy for a B2B invoicing tool for small retailers",
+    "candidates": [
+      {
+        "candidate_id": "cand_e79aea808f3e",
+        "strategy": "niche-first",
+        "agent": "agent.research.alpha@1.3.0",
+        "mean_score": 4.75,
+        "dimensions": {
+          "evidence": 5.0,
+          "completeness": 5.0,
+          "robustness": 4.0,
+          "cost_efficiency": 5.0
+        },
+        "disagreements": []
+      }
+    ],
+    "selected_strategy": "niche-first",
+    "selected_mean_score": 4.75,
+    "total_run_cost_usd": 0.39,
+    "elapsed_ms": 0.08,
+    "high_severity_critiques": 0
+  },
+  {
+    "mode": "parallel",
+    "objective": "Choose a go-to-market strategy for a B2B invoicing tool for small retailers",
+    "candidates": [
+      {
+        "candidate_id": "cand_d7836fa763de",
+        "strategy": "niche-first",
+        "agent": "agent.research.alpha@1.3.0",
+        "mean_score": 4.75,
+        "dimensions": {
+          "evidence": 5.0,
+          "completeness": 5.0,
+          "robustness": 4.0,
+          "cost_efficiency": 5.0
+        },
+        "disagreements": []
+      },
+      {
+        "candidate_id": "cand_ea748de07e9e",
+        "strategy": "partnership-led",
+        "agent": "agent.research.beta@1.1.0",
+        "mean_score": 4.375,
+        "dimensions": {
+          "evidence": 5.0,
+          "completeness": 5.0,
+          "robustness": 4.0,
+          "cost_efficiency": 3.5
+        },
+        "disagreements": []
+      }
+    ],
+    "selected_strategy": "niche-first",
+    "selected_mean_score": 4.75,
+    "total_run_cost_usd": 0.84,
+    "elapsed_ms": 0.07,
+    "high_severity_critiques": 0
+  },
+  {
+    "mode": "full",
+    "objective": "Choose a go-to-market strategy for a B2B invoicing tool for small retailers",
+    "candidates": [
+      {
+        "candidate_id": "cand_42c2d8d6b97e",
+        "strategy": "niche-first",
+        "agent": "agent.research.alpha@1.3.0",
+        "mean_score": 4.75,
+        "dimensions": {
+          "evidence": 5.0,
+          "completeness": 5.0,
+          "robustness": 4.0,
+          "cost_efficiency": 5.0
+        },
+        "disagreements": []
+      },
+      {
+        "candidate_id": "cand_99b80662dae7",
+        "strategy": "partnership-led",
+        "agent": "agent.research.beta@1.1.0",
+        "mean_score": 3.75,
+        "dimensions": {
+          "evidence": 4.0,
+          "completeness": 5.0,
+          "robustness": 2.5,
+          "cost_efficiency": 3.5
+        },
+        "disagreements": [
+          "This claim rests only on opinion sources with no cohort data. It is load-bearing for the strategy and currently unsupported."
+        ]
+      }
+    ],
+    "selected_strategy": "niche-first",
+    "selected_mean_score": 4.75,
+    "total_run_cost_usd": 1.05,
+    "elapsed_ms": 0.21,
+    "high_severity_critiques": 1
+  },
+  {
+    "mode": "single",
+    "objective": "Choose a launch strategy for a consumer habit-tracking app",
+    "candidates": [
+      {
+        "candidate_id": "cand_a526f52bef1a",
+        "strategy": "niche-first",
+        "agent": "agent.research.alpha@1.3.0",
+        "mean_score": 4.75,
+        "dimensions": {
+          "evidence": 5.0,
+          "completeness": 5.0,
+          "robustness": 4.0,
+          "cost_efficiency": 5.0
+        },
+        "disagreements": []
+      }
+    ],
+    "selected_strategy": "niche-first",
+    "selected_mean_score": 4.75,
+    "total_run_cost_usd": 0.39,
+    "elapsed_ms": 0.03,
+    "high_severity_critiques": 0
+  },
+  {
+    "mode": "parallel",
+    "objective": "Choose a launch strategy for a consumer habit-tracking app",
+    "candidates": [
+      {
+        "candidate_id": "cand_49ff99dadf9a",
+        "strategy": "niche-first",
+        "agent": "agent.research.alpha@1.3.0",
+        "mean_score": 4.75,
+        "dimensions": {
+          "evidence": 5.0,
+          "completeness": 5.0,
+          "robustness": 4.0,
+          "cost_efficiency": 5.0
+        },
+        "disagreements": []
+      },
+      {
+        "candidate_id": "cand_eabdb4849349",
+        "strategy": "partnership-led",
+        "agent": "agent.research.beta@1.1.0",
+        "mean_score": 4.375,
+        "dimensions": {
+          "evidence": 5.0,
+          "completeness": 5.0,
+          "robustness": 4.0,
+          "cost_efficiency": 3.5
+        },
+        "disagreements": []
+      }
+    ],
+    "selected_strategy": "niche-first",
+    "selected_mean_score": 4.75,
+    "total_run_cost_usd": 0.84,
+    "elapsed_ms": 0.06,
+    "high_severity_critiques": 0
+  },
+  {
+    "mode": "full",
+    "objective": "Choose a launch strategy for a consumer habit-tracking app",
+    "candidates": [
+      {
+        "candidate_id": "cand_2c710ca2d9b1",
+        "strategy": "niche-first",
+        "agent": "agent.research.alpha@1.3.0",
+        "mean_score": 4.75,
+        "dimensions": {
+          "evidence": 5.0,
+          "completeness": 5.0,
+          "robustness": 4.0,
+          "cost_efficiency": 5.0
+        },
+        "disagreements": []
+      },
+      {
+        "candidate_id": "cand_40619f4659a2",
+        "strategy": "partnership-led",
+        "agent": "agent.research.beta@1.1.0",
+        "mean_score": 3.75,
+        "dimensions": {
+          "evidence": 4.0,
+          "completeness": 5.0,
+          "robustness": 2.5,
+          "cost_efficiency": 3.5
+        },
+        "disagreements": [
+          "This claim rests only on opinion sources with no cohort data. It is load-bearing for the strategy and currently unsupported."
+        ]
+      }
+    ],
+    "selected_strategy": "niche-first",
+    "selected_mean_score": 4.75,
+    "total_run_cost_usd": 1.05,
+    "elapsed_ms": 0.13,
+    "high_severity_critiques": 1
+  },
+  {
+    "mode": "single",
+    "objective": "Choose an expansion strategy for an online tutoring marketplace",
+    "candidates": [
+      {
+        "candidate_id": "cand_d484fc47261f",
+        "strategy": "niche-first",
+        "agent": "agent.research.alpha@1.3.0",
+        "mean_score": 4.75,
+        "dimensions": {
+          "evidence": 5.0,
+          "completeness": 5.0,
+          "robustness": 4.0,
+          "cost_efficiency": 5.0
+        },
+        "disagreements": []
+      }
+    ],
+    "selected_strategy": "niche-first",
+    "selected_mean_score": 4.75,
+    "total_run_cost_usd": 0.39,
+    "elapsed_ms": 0.03,
+    "high_severity_critiques": 0
+  },
+  {
+    "mode": "parallel",
+    "objective": "Choose an expansion strategy for an online tutoring marketplace",
+    "candidates": [
+      {
+        "candidate_id": "cand_d1570027f030",
+        "strategy": "niche-first",
+        "agent": "agent.research.alpha@1.3.0",
+        "mean_score": 4.75,
+        "dimensions": {
+          "evidence": 5.0,
+          "completeness": 5.0,
+          "robustness": 4.0,
+          "cost_efficiency": 5.0
+        },
+        "disagreements": []
+      },
+      {
+        "candidate_id": "cand_b7220603c30f",
+        "strategy": "partnership-led",
+        "agent": "agent.research.beta@1.1.0",
+        "mean_score": 4.375,
+        "dimensions": {
+          "evidence": 5.0,
+          "completeness": 5.0,
+          "robustness": 4.0,
+          "cost_efficiency": 3.5
+        },
+        "disagreements": []
+      }
+    ],
+    "selected_strategy": "niche-first",
+    "selected_mean_score": 4.75,
+    "total_run_cost_usd": 0.84,
+    "elapsed_ms": 0.05,
+    "high_severity_critiques": 0
+  },
+  {
+    "mode": "full",
+    "objective": "Choose an expansion strategy for an online tutoring marketplace",
+    "candidates": [
+      {
+        "candidate_id": "cand_057ff83d98d9",
+        "strategy": "niche-first",
+        "agent": "agent.research.alpha@1.3.0",
+        "mean_score": 4.75,
+        "dimensions": {
+          "evidence": 5.0,
+          "completeness": 5.0,
+          "robustness": 4.0,
+          "cost_efficiency": 5.0
+        },
+        "disagreements": []
+      },
+      {
+        "candidate_id": "cand_79a9715087fc",
+        "strategy": "partnership-led",
+        "agent": "agent.research.beta@1.1.0",
+        "mean_score": 3.75,
+        "dimensions": {
+          "evidence": 4.0,
+          "completeness": 5.0,
+          "robustness": 2.5,
+          "cost_efficiency": 3.5
+        },
+        "disagreements": [
+          "This claim rests only on opinion sources with no cohort data. It is load-bearing for the strategy and currently unsupported."
+        ]
+      }
+    ],
+    "selected_strategy": "niche-first",
+    "selected_mean_score": 4.75,
+    "total_run_cost_usd": 1.05,
+    "elapsed_ms": 0.12,
+    "high_severity_critiques": 1
+  }
+]

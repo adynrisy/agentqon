@@ -1,0 +1,44 @@
+{
+  "author": "AgentQon",
+  "bin": {
+    "agentqon": "bin/agentqon.js",
+    "omnimind": "bin/agentqon.js"
+  },
+  "description": "AgentQon \u2014 a free AI agentic harness: one install that seats a panel of AI agents on the model you connect, by your own key or a free local model. Missions run by rival agents, critic-verified and evidence-labelled.",
+  "engines": {
+    "node": ">=18",
+    "python": ">=3.12 <3.13"
+  },
+  "files": [
+    "bin",
+    "lib",
+    "server",
+    "README.md",
+    "LICENSE",
+    "THIRD_PARTY_NOTICES.md",
+    "mcp"
+  ],
+  "keywords": [
+    "ai",
+    "agents",
+    "cli",
+    "missions",
+    "agentqon"
+  ],
+  "license": "MIT",
+  "name": "omnimind-ai",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adynrisy/agentqon.git"
+  },
+  "homepage": "https://github.com/adynrisy/agentqon",
+  "scripts": {
+    "start": "node bin/agentqon.js",
+    "sync-server": "node scripts/sync-server.js",
+    "build-payload": "node scripts/build-payload.js",
+    "pack-gate": "node scripts/pack-gate.js",
+    "prepack": "node scripts/sync-server.js && node scripts/build-payload.js"
+  },
+  "type": "commonjs",
+  "version": "22.8.1"
+}

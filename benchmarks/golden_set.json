@@ -1,0 +1,1105 @@
+{
+ "version": "golden-v1",
+ "cases": [
+  {
+   "id": "g01",
+   "title": "SMB invoicing launch strategy",
+   "contract": {
+    "objective": "Compare launch strategies for a new SMB invoicing product",
+    "deliverables": [
+     "Decision brief",
+     "Assumptions ledger",
+     "Risk register"
+    ],
+    "acceptance": [
+     "Material claims cite sources",
+     "At least two genuinely distinct options",
+     "Assumptions and risks are visible"
+    ],
+    "constraints": {
+     "max_cost_usd": 10
+    },
+    "tools": {
+     "allow": [
+      "web.read",
+      "artifact.write",
+      "artifact.read"
+     ],
+     "deny": [
+      "email.send",
+      "purchase.create"
+     ]
+    },
+    "approval_policy": {
+     "external_side_effects": "required"
+    },
+    "data_classification": "internal"
+   },
+   "expect": {
+    "research_live": true,
+    "min_candidates": 2,
+    "distinct_strategies": true,
+    "min_citation_coverage": 0.99,
+    "max_invalid_citations": 0,
+    "min_mean_dimension": 2.0,
+    "max_spend_usd": 10.0
+   }
+  },
+  {
+   "id": "g02",
+   "title": "Pricing model for a design tool",
+   "contract": {
+    "objective": "Compare pricing models (flat tiers vs usage-based) for a new collaborative design tool",
+    "deliverables": [
+     "Decision brief",
+     "Assumptions ledger",
+     "Risk register"
+    ],
+    "acceptance": [
+     "Material claims cite sources",
+     "At least two genuinely distinct options",
+     "Assumptions and risks are visible"
+    ],
+    "constraints": {
+     "max_cost_usd": 12
+    },
+    "tools": {
+     "allow": [
+      "web.read",
+      "artifact.write",
+      "artifact.read"
+     ],
+     "deny": [
+      "email.send",
+      "purchase.create"
+     ]
+    },
+    "approval_policy": {
+     "external_side_effects": "required"
+    },
+    "data_classification": "internal"
+   },
+   "expect": {
+    "research_live": true,
+    "min_candidates": 2,
+    "distinct_strategies": true,
+    "min_citation_coverage": 0.99,
+    "max_invalid_citations": 0,
+    "min_mean_dimension": 2.0,
+    "max_spend_usd": 12.0
+   }
+  },
+  {
+   "id": "g03",
+   "title": "Churn reduction for a fitness app",
+   "contract": {
+    "objective": "Compare strategies to reduce 90-day churn for a subscription fitness app",
+    "deliverables": [
+     "Decision brief",
+     "Assumptions ledger",
+     "Risk register"
+    ],
+    "acceptance": [
+     "Material claims cite sources",
+     "At least two genuinely distinct options",
+     "Assumptions and risks are visible"
+    ],
+    "constraints": {
+     "max_cost_usd": 8
+    },
+    "tools": {
+     "allow": [
+      "web.read",
+      "artifact.write",
+      "artifact.read"
+     ],
+     "deny": [
+      "email.send",
+      "purchase.create"
+     ]
+    },
+    "approval_policy": {
+     "external_side_effects": "required"
+    },
+    "data_classification": "public"
+   },
+   "expect": {
+    "research_live": true,
+    "min_candidates": 2,
+    "distinct_strategies": true,
+    "min_citation_coverage": 0.99,
+    "max_invalid_citations": 0,
+    "min_mean_dimension": 2.0,
+    "max_spend_usd": 8.0
+   }
+  },
+  {
+   "id": "g04",
+   "title": "Snack brand market entry UAE",
+   "contract": {
+    "objective": "Compare market-entry strategies for a Pakistani snack brand entering the UAE",
+    "deliverables": [
+     "Decision brief",
+     "Assumptions ledger",
+     "Risk register"
+    ],
+    "acceptance": [
+     "Material claims cite sources",
+     "At least two genuinely distinct options",
+     "Assumptions and risks are visible"
+    ],
+    "constraints": {
+     "max_cost_usd": 15
+    },
+    "tools": {
+     "allow": [
+      "web.read",
+      "artifact.write",
+      "artifact.read"
+     ],
+     "deny": [
+      "email.send",
+      "purchase.create"
+     ]
+    },
+    "approval_policy": {
+     "external_side_effects": "required"
+    },
+    "data_classification": "internal"
+   },
+   "expect": {
+    "research_live": true,
+    "min_candidates": 2,
+    "distinct_strategies": true,
+    "min_citation_coverage": 0.99,
+    "max_invalid_citations": 0,
+    "min_mean_dimension": 2.0,
+    "max_spend_usd": 15.0
+   }
+  },
+  {
+   "id": "g05",
+   "title": "Support team hiring plan",
+   "contract": {
+    "objective": "Compare hiring plans (in-house vs hybrid contractors) for a growing support team",
+    "deliverables": [
+     "Decision brief",
+     "Assumptions ledger",
+     "Risk register"
+    ],
+    "acceptance": [
+     "Material claims cite sources",
+     "At least two genuinely distinct options",
+     "Assumptions and risks are visible"
+    ],
+    "constraints": {
+     "max_cost_usd": 10
+    },
+    "tools": {
+     "allow": [
+      "web.read",
+      "artifact.write",
+      "artifact.read"
+     ],
+     "deny": [
+      "email.send",
+      "purchase.create"
+     ]
+    },
+    "approval_policy": {
+     "external_side_effects": "required"
+    },
+    "data_classification": "internal"
+   },
+   "expect": {
+    "research_live": true,
+    "min_candidates": 2,
+    "distinct_strategies": true,
+    "min_citation_coverage": 0.99,
+    "max_invalid_citations": 0,
+    "min_mean_dimension": 2.0,
+    "max_spend_usd": 10.0
+   }
+  },
+  {
+   "id": "g06",
+   "title": "CRM vendor selection",
+   "contract": {
+    "objective": "Compare CRM vendor selection strategies for a 60-person sales organization",
+    "deliverables": [
+     "Decision brief",
+     "Assumptions ledger",
+     "Risk register"
+    ],
+    "acceptance": [
+     "Material claims cite sources",
+     "At least two genuinely distinct options",
+     "Assumptions and risks are visible"
+    ],
+    "constraints": {
+     "max_cost_usd": 10
+    },
+    "tools": {
+     "allow": [
+      "web.read",
+      "artifact.write",
+      "artifact.read"
+     ],
+     "deny": [
+      "email.send",
+      "purchase.create"
+     ]
+    },
+    "approval_policy": {
+     "external_side_effects": "required"
+    },
+    "data_classification": "internal"
+   },
+   "expect": {
+    "research_live": true,
+    "min_candidates": 2,
+    "distinct_strategies": true,
+    "min_citation_coverage": 0.99,
+    "max_invalid_citations": 0,
+    "min_mean_dimension": 2.0,
+    "max_spend_usd": 10.0
+   }
+  },
+  {
+   "id": "g07",
+   "title": "Drama channel content strategy",
+   "contract": {
+    "objective": "Compare content strategies to grow a drama channel's watch time in 6 months",
+    "deliverables": [
+     "Decision brief",
+     "Assumptions ledger",
+     "Risk register"
+    ],
+    "acceptance": [
+     "Material claims cite sources",
+     "At least two genuinely distinct options",
+     "Assumptions and risks are visible"
+    ],
+    "constraints": {
+     "max_cost_usd": 8
+    },
+    "tools": {
+     "allow": [
+      "web.read",
+      "artifact.write",
+      "artifact.read"
+     ],
+     "deny": [
+      "email.send",
+      "purchase.create"
+     ]
+    },
+    "approval_policy": {
+     "external_side_effects": "required"
+    },
+    "data_classification": "public"
+   },
+   "expect": {
+    "research_live": true,
+    "min_candidates": 2,
+    "distinct_strategies": true,
+    "min_citation_coverage": 0.99,
+    "max_invalid_citations": 0,
+    "min_mean_dimension": 2.0,
+    "max_spend_usd": 8.0
+   }
+  },
+  {
+   "id": "g08",
+   "title": "Freemium conversion for language app",
+   "contract": {
+    "objective": "Compare strategies to lift free-to-paid conversion for a language learning app",
+    "deliverables": [
+     "Decision brief",
+     "Assumptions ledger",
+     "Risk register"
+    ],
+    "acceptance": [
+     "Material claims cite sources",
+     "At least two genuinely distinct options",
+     "Assumptions and risks are visible"
+    ],
+    "constraints": {
+     "max_cost_usd": 12
+    },
+    "tools": {
+     "allow": [
+      "web.read",
+      "artifact.write",
+      "artifact.read"
+     ],
+     "deny": [
+      "email.send",
+      "purchase.create"
+     ]
+    },
+    "approval_policy": {
+     "external_side_effects": "required"
+    },
+    "data_classification": "internal"
+   },
+   "expect": {
+    "research_live": true,
+    "min_candidates": 2,
+    "distinct_strategies": true,
+    "min_citation_coverage": 0.99,
+    "max_invalid_citations": 0,
+    "min_mean_dimension": 2.0,
+    "max_spend_usd": 12.0
+   }
+  },
+  {
+   "id": "g09",
+   "title": "Fintech onboarding redesign",
+   "contract": {
+    "objective": "Compare onboarding redesign approaches to raise activation for a retail fintech app",
+    "deliverables": [
+     "Decision brief",
+     "Assumptions ledger",
+     "Risk register"
+    ],
+    "acceptance": [
+     "Material claims cite sources",
+     "At least two genuinely distinct options",
+     "Assumptions and risks are visible"
+    ],
+    "constraints": {
+     "max_cost_usd": 10
+    },
+    "tools": {
+     "allow": [
+      "web.read",
+      "artifact.write",
+      "artifact.read"
+     ],
+     "deny": [
+      "email.send",
+      "purchase.create"
+     ]
+    },
+    "approval_policy": {
+     "external_side_effects": "required"
+    },
+    "data_classification": "confidential"
+   },
+   "expect": {
+    "research_live": false,
+    "min_candidates": 2,
+    "distinct_strategies": true,
+    "min_citation_coverage": 0.99,
+    "max_invalid_citations": 0,
+    "min_mean_dimension": 2.0,
+    "max_spend_usd": 10.0
+   }
+  },
+  {
+   "id": "g10",
+   "title": "Logistics partnership strategy",
+   "contract": {
+    "objective": "Compare partnership strategies for a last-mile logistics startup in Karachi",
+    "deliverables": [
+     "Decision brief",
+     "Assumptions ledger",
+     "Risk register"
+    ],
+    "acceptance": [
+     "Material claims cite sources",
+     "At least two genuinely distinct options",
+     "Assumptions and risks are visible"
+    ],
+    "constraints": {
+     "max_cost_usd": 10
+    },
+    "tools": {
+     "allow": [
+      "web.read",
+      "artifact.write",
+      "artifact.read"
+     ],
+     "deny": [
+      "email.send",
+      "purchase.create"
+     ]
+    },
+    "approval_policy": {
+     "external_side_effects": "required"
+    },
+    "data_classification": "internal"
+   },
+   "expect": {
+    "research_live": true,
+    "min_candidates": 2,
+    "distinct_strategies": true,
+    "min_citation_coverage": 0.99,
+    "max_invalid_citations": 0,
+    "min_mean_dimension": 2.0,
+    "max_spend_usd": 10.0
+   }
+  },
+  {
+   "id": "g11",
+   "title": "E-commerce SEO program",
+   "contract": {
+    "objective": "Compare SEO program designs for a mid-size fashion e-commerce store",
+    "deliverables": [
+     "Decision brief",
+     "Assumptions ledger",
+     "Risk register"
+    ],
+    "acceptance": [
+     "Material claims cite sources",
+     "At least two genuinely distinct options",
+     "Assumptions and risks are visible"
+    ],
+    "constraints": {
+     "max_cost_usd": 8
+    },
+    "tools": {
+     "allow": [
+      "web.read",
+      "artifact.write",
+      "artifact.read"
+     ],
+     "deny": [
+      "email.send",
+      "purchase.create"
+     ]
+    },
+    "approval_policy": {
+     "external_side_effects": "required"
+    },
+    "data_classification": "public"
+   },
+   "expect": {
+    "research_live": true,
+    "min_candidates": 2,
+    "distinct_strategies": true,
+    "min_citation_coverage": 0.99,
+    "max_invalid_citations": 0,
+    "min_mean_dimension": 2.0,
+    "max_spend_usd": 8.0
+   }
+  },
+  {
+   "id": "g12",
+   "title": "Support automation rollout",
+   "contract": {
+    "objective": "Compare rollout strategies for AI-assisted customer support automation",
+    "deliverables": [
+     "Decision brief",
+     "Assumptions ledger",
+     "Risk register"
+    ],
+    "acceptance": [
+     "Material claims cite sources",
+     "At least two genuinely distinct options",
+     "Assumptions and risks are visible"
+    ],
+    "constraints": {
+     "max_cost_usd": 12
+    },
+    "tools": {
+     "allow": [
+      "web.read",
+      "artifact.write",
+      "artifact.read"
+     ],
+     "deny": [
+      "email.send",
+      "purchase.create"
+     ]
+    },
+    "approval_policy": {
+     "external_side_effects": "required"
+    },
+    "data_classification": "internal"
+   },
+   "expect": {
+    "research_live": true,
+    "min_candidates": 2,
+    "distinct_strategies": true,
+    "min_citation_coverage": 0.99,
+    "max_invalid_citations": 0,
+    "min_mean_dimension": 2.0,
+    "max_spend_usd": 12.0
+   }
+  },
+  {
+   "id": "g13",
+   "title": "API product pricing experiment",
+   "contract": {
+    "objective": "Compare pricing experiment designs for a developer API product",
+    "deliverables": [
+     "Decision brief",
+     "Assumptions ledger",
+     "Risk register"
+    ],
+    "acceptance": [
+     "Material claims cite sources",
+     "At least two genuinely distinct options",
+     "Assumptions and risks are visible"
+    ],
+    "constraints": {
+     "max_cost_usd": 10
+    },
+    "tools": {
+     "allow": [
+      "web.read",
+      "artifact.write",
+      "artifact.read"
+     ],
+     "deny": [
+      "email.send",
+      "purchase.create"
+     ]
+    },
+    "approval_policy": {
+     "external_side_effects": "required"
+    },
+    "data_classification": "internal"
+   },
+   "expect": {
+    "research_live": true,
+    "min_candidates": 2,
+    "distinct_strategies": true,
+    "min_citation_coverage": 0.99,
+    "max_invalid_citations": 0,
+    "min_mean_dimension": 2.0,
+    "max_spend_usd": 10.0
+   }
+  },
+  {
+   "id": "g14",
+   "title": "Coffee chain city expansion",
+   "contract": {
+    "objective": "Compare city-expansion strategies for a regional coffee chain's next three outlets",
+    "deliverables": [
+     "Decision brief",
+     "Assumptions ledger",
+     "Risk register"
+    ],
+    "acceptance": [
+     "Material claims cite sources",
+     "At least two genuinely distinct options",
+     "Assumptions and risks are visible"
+    ],
+    "constraints": {
+     "max_cost_usd": 15
+    },
+    "tools": {
+     "allow": [
+      "web.read",
+      "artifact.write",
+      "artifact.read"
+     ],
+     "deny": [
+      "email.send",
+      "purchase.create"
+     ]
+    },
+    "approval_policy": {
+     "external_side_effects": "required"
+    },
+    "data_classification": "internal"
+   },
+   "expect": {
+    "research_live": true,
+    "min_candidates": 2,
+    "distinct_strategies": true,
+    "min_citation_coverage": 0.99,
+    "max_invalid_citations": 0,
+    "min_mean_dimension": 2.0,
+    "max_spend_usd": 15.0
+   }
+  },
+  {
+   "id": "g15",
+   "title": "News subscription retention",
+   "contract": {
+    "objective": "Compare retention strategies for a digital news subscription product",
+    "deliverables": [
+     "Decision brief",
+     "Assumptions ledger",
+     "Risk register"
+    ],
+    "acceptance": [
+     "Material claims cite sources",
+     "At least two genuinely distinct options",
+     "Assumptions and risks are visible"
+    ],
+    "constraints": {
+     "max_cost_usd": 10
+    },
+    "tools": {
+     "allow": [
+      "web.read",
+      "artifact.write",
+      "artifact.read"
+     ],
+     "deny": [
+      "email.send",
+      "purchase.create"
+     ]
+    },
+    "approval_policy": {
+     "external_side_effects": "required"
+    },
+    "data_classification": "internal"
+   },
+   "expect": {
+    "research_live": true,
+    "min_candidates": 2,
+    "distinct_strategies": true,
+    "min_citation_coverage": 0.99,
+    "max_invalid_citations": 0,
+    "min_mean_dimension": 2.0,
+    "max_spend_usd": 10.0
+   }
+  },
+  {
+   "id": "g16",
+   "title": "HR software sales motion",
+   "contract": {
+    "objective": "Compare go-to-market sales motions for B2B HR software targeting 100-500 seat firms",
+    "deliverables": [
+     "Decision brief",
+     "Assumptions ledger",
+     "Risk register"
+    ],
+    "acceptance": [
+     "Material claims cite sources",
+     "At least two genuinely distinct options",
+     "Assumptions and risks are visible"
+    ],
+    "constraints": {
+     "max_cost_usd": 12
+    },
+    "tools": {
+     "allow": [
+      "web.read",
+      "artifact.write",
+      "artifact.read"
+     ],
+     "deny": [
+      "email.send",
+      "purchase.create"
+     ]
+    },
+    "approval_policy": {
+     "external_side_effects": "required"
+    },
+    "data_classification": "internal"
+   },
+   "expect": {
+    "research_live": true,
+    "min_candidates": 2,
+    "distinct_strategies": true,
+    "min_citation_coverage": 0.99,
+    "max_invalid_citations": 0,
+    "min_mean_dimension": 2.0,
+    "max_spend_usd": 12.0
+   }
+  },
+  {
+   "id": "g17",
+   "title": "Gaming accessory community launch",
+   "contract": {
+    "objective": "Compare community-launch strategies for a new gaming accessory brand",
+    "deliverables": [
+     "Decision brief",
+     "Assumptions ledger",
+     "Risk register"
+    ],
+    "acceptance": [
+     "Material claims cite sources",
+     "At least two genuinely distinct options",
+     "Assumptions and risks are visible"
+    ],
+    "constraints": {
+     "max_cost_usd": 8
+    },
+    "tools": {
+     "allow": [
+      "web.read",
+      "artifact.write",
+      "artifact.read"
+     ],
+     "deny": [
+      "email.send",
+      "purchase.create"
+     ]
+    },
+    "approval_policy": {
+     "external_side_effects": "required"
+    },
+    "data_classification": "public"
+   },
+   "expect": {
+    "research_live": true,
+    "min_candidates": 2,
+    "distinct_strategies": true,
+    "min_citation_coverage": 0.99,
+    "max_invalid_citations": 0,
+    "min_mean_dimension": 2.0,
+    "max_spend_usd": 8.0
+   }
+  },
+  {
+   "id": "g18",
+   "title": "Fashion store email lifecycle",
+   "contract": {
+    "objective": "Compare email lifecycle programs to raise repeat purchase rate for a fashion store",
+    "deliverables": [
+     "Decision brief",
+     "Assumptions ledger",
+     "Risk register"
+    ],
+    "acceptance": [
+     "Material claims cite sources",
+     "At least two genuinely distinct options",
+     "Assumptions and risks are visible"
+    ],
+    "constraints": {
+     "max_cost_usd": 8
+    },
+    "tools": {
+     "allow": [
+      "web.read",
+      "artifact.write",
+      "artifact.read"
+     ],
+     "deny": [
+      "email.send",
+      "purchase.create"
+     ]
+    },
+    "approval_policy": {
+     "external_side_effects": "required"
+    },
+    "data_classification": "internal"
+   },
+   "expect": {
+    "research_live": true,
+    "min_candidates": 2,
+    "distinct_strategies": true,
+    "min_citation_coverage": 0.99,
+    "max_invalid_citations": 0,
+    "min_mean_dimension": 2.0,
+    "max_spend_usd": 8.0
+   }
+  },
+  {
+   "id": "g19",
+   "title": "Build vs buy analytics",
+   "contract": {
+    "objective": "Compare build-versus-buy strategies for product analytics at a Series A startup",
+    "deliverables": [
+     "Decision brief",
+     "Assumptions ledger",
+     "Risk register"
+    ],
+    "acceptance": [
+     "Material claims cite sources",
+     "At least two genuinely distinct options",
+     "Assumptions and risks are visible"
+    ],
+    "constraints": {
+     "max_cost_usd": 10
+    },
+    "tools": {
+     "allow": [
+      "web.read",
+      "artifact.write",
+      "artifact.read"
+     ],
+     "deny": [
+      "email.send",
+      "purchase.create"
+     ]
+    },
+    "approval_policy": {
+     "external_side_effects": "required"
+    },
+    "data_classification": "internal"
+   },
+   "expect": {
+    "research_live": true,
+    "min_candidates": 2,
+    "distinct_strategies": true,
+    "min_citation_coverage": 0.99,
+    "max_invalid_citations": 0,
+    "min_mean_dimension": 2.0,
+    "max_spend_usd": 10.0
+   }
+  },
+  {
+   "id": "g20",
+   "title": "Exam prep course launch",
+   "contract": {
+    "objective": "Compare launch strategies for an online exam-preparation course",
+    "deliverables": [
+     "Decision brief",
+     "Assumptions ledger",
+     "Risk register"
+    ],
+    "acceptance": [
+     "Material claims cite sources",
+     "At least two genuinely distinct options",
+     "Assumptions and risks are visible"
+    ],
+    "constraints": {
+     "max_cost_usd": 8
+    },
+    "tools": {
+     "allow": [
+      "web.read",
+      "artifact.write",
+      "artifact.read"
+     ],
+     "deny": [
+      "email.send",
+      "purchase.create"
+     ]
+    },
+    "approval_policy": {
+     "external_side_effects": "required"
+    },
+    "data_classification": "public"
+   },
+   "expect": {
+    "research_live": true,
+    "min_candidates": 2,
+    "distinct_strategies": true,
+    "min_citation_coverage": 0.99,
+    "max_invalid_citations": 0,
+    "min_mean_dimension": 2.0,
+    "max_spend_usd": 8.0
+   }
+  },
+  {
+   "id": "g21",
+   "title": "Skincare influencer strategy",
+   "contract": {
+    "objective": "Compare influencer strategies for launching a skincare line to Gen Z buyers",
+    "deliverables": [
+     "Decision brief",
+     "Assumptions ledger",
+     "Risk register"
+    ],
+    "acceptance": [
+     "Material claims cite sources",
+     "At least two genuinely distinct options",
+     "Assumptions and risks are visible"
+    ],
+    "constraints": {
+     "max_cost_usd": 10
+    },
+    "tools": {
+     "allow": [
+      "web.read",
+      "artifact.write",
+      "artifact.read"
+     ],
+     "deny": [
+      "email.send",
+      "purchase.create"
+     ]
+    },
+    "approval_policy": {
+     "external_side_effects": "required"
+    },
+    "data_classification": "public"
+   },
+   "expect": {
+    "research_live": true,
+    "min_candidates": 2,
+    "distinct_strategies": true,
+    "min_citation_coverage": 0.99,
+    "max_invalid_citations": 0,
+    "min_mean_dimension": 2.0,
+    "max_spend_usd": 10.0
+   }
+  },
+  {
+   "id": "g22",
+   "title": "Nonprofit donor growth",
+   "contract": {
+    "objective": "Compare donor-growth strategies for a small education nonprofit",
+    "deliverables": [
+     "Decision brief",
+     "Assumptions ledger",
+     "Risk register"
+    ],
+    "acceptance": [
+     "Material claims cite sources",
+     "At least two genuinely distinct options",
+     "Assumptions and risks are visible"
+    ],
+    "constraints": {
+     "max_cost_usd": 8
+    },
+    "tools": {
+     "allow": [
+      "web.read",
+      "artifact.write",
+      "artifact.read"
+     ],
+     "deny": [
+      "email.send",
+      "purchase.create"
+     ]
+    },
+    "approval_policy": {
+     "external_side_effects": "required"
+    },
+    "data_classification": "public"
+   },
+   "expect": {
+    "research_live": true,
+    "min_candidates": 2,
+    "distinct_strategies": true,
+    "min_citation_coverage": 0.99,
+    "max_invalid_citations": 0,
+    "min_mean_dimension": 2.0,
+    "max_spend_usd": 8.0
+   }
+  },
+  {
+   "id": "g23",
+   "title": "Support hours policy",
+   "contract": {
+    "objective": "Compare support-hours policies (follow-the-sun vs extended local) for a SaaS firm",
+    "deliverables": [
+     "Decision brief",
+     "Assumptions ledger",
+     "Risk register"
+    ],
+    "acceptance": [
+     "Material claims cite sources",
+     "At least two genuinely distinct options",
+     "Assumptions and risks are visible"
+    ],
+    "constraints": {
+     "max_cost_usd": 10
+    },
+    "tools": {
+     "allow": [
+      "web.read",
+      "artifact.write",
+      "artifact.read"
+     ],
+     "deny": [
+      "email.send",
+      "purchase.create"
+     ]
+    },
+    "approval_policy": {
+     "external_side_effects": "required"
+    },
+    "data_classification": "internal"
+   },
+   "expect": {
+    "research_live": true,
+    "min_candidates": 2,
+    "distinct_strategies": true,
+    "min_citation_coverage": 0.99,
+    "max_invalid_citations": 0,
+    "min_mean_dimension": 2.0,
+    "max_spend_usd": 10.0
+   }
+  },
+  {
+   "id": "g24",
+   "title": "Internal tooling roadmap (confidential)",
+   "contract": {
+    "objective": "Compare internal tooling roadmap options for a bank's operations team",
+    "deliverables": [
+     "Decision brief",
+     "Assumptions ledger",
+     "Risk register"
+    ],
+    "acceptance": [
+     "Material claims cite sources",
+     "At least two genuinely distinct options",
+     "Assumptions and risks are visible"
+    ],
+    "constraints": {
+     "max_cost_usd": 12
+    },
+    "tools": {
+     "allow": [
+      "web.read",
+      "artifact.write",
+      "artifact.read"
+     ],
+     "deny": [
+      "email.send",
+      "purchase.create"
+     ]
+    },
+    "approval_policy": {
+     "external_side_effects": "required"
+    },
+    "data_classification": "confidential"
+   },
+   "expect": {
+    "research_live": false,
+    "min_candidates": 2,
+    "distinct_strategies": true,
+    "min_citation_coverage": 0.99,
+    "max_invalid_citations": 0,
+    "min_mean_dimension": 2.0,
+    "max_spend_usd": 12.0
+   }
+  },
+  {
+   "id": "g25",
+   "title": "Restricted data product scoping",
+   "contract": {
+    "objective": "Compare scoping options for a restricted internal data product",
+    "deliverables": [
+     "Decision brief",
+     "Assumptions ledger",
+     "Risk register"
+    ],
+    "acceptance": [
+     "Material claims cite sources",
+     "At least two genuinely distinct options",
+     "Assumptions and risks are visible"
+    ],
+    "constraints": {
+     "max_cost_usd": 12
+    },
+    "tools": {
+     "allow": [
+      "web.read",
+      "artifact.write",
+      "artifact.read"
+     ],
+     "deny": [
+      "email.send",
+      "purchase.create"
+     ]
+    },
+    "approval_policy": {
+     "external_side_effects": "required"
+    },
+    "data_classification": "restricted"
+   },
+   "expect": {
+    "research_live": false,
+    "min_candidates": 2,
+    "distinct_strategies": true,
+    "min_citation_coverage": 0.99,
+    "max_invalid_citations": 0,
+    "min_mean_dimension": 2.0,
+    "max_spend_usd": 12.0
+   }
+  }
+ ]
+}

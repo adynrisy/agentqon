@@ -1,0 +1,174 @@
+{
+ "version": "critic-calibration-v1",
+ "cases": [
+  {
+   "id": "c01",
+   "label": "high",
+   "why": "sole source is opinion",
+   "claims": [
+    {
+     "text": "Partnerships are all you need.",
+     "source_ids": [
+      "src_seed_founder_opinion_2026"
+     ],
+     "confidence_category": "supported"
+    }
+   ]
+  },
+  {
+   "id": "c02",
+   "label": "high",
+   "why": "no source attached",
+   "claims": [
+    {
+     "text": "Users love the new pricing.",
+     "source_ids": [],
+     "confidence_category": "supported"
+    }
+   ]
+  },
+  {
+   "id": "c03",
+   "label": "high",
+   "why": "contested on a single secondary source",
+   "claims": [
+    {
+     "text": "Churn fell after the redesign.",
+     "source_ids": [
+      "src_seed_cac_benchmarks_2026"
+     ],
+     "confidence_category": "contested"
+    }
+   ]
+  },
+  {
+   "id": "c04",
+   "label": "medium",
+   "why": "single secondary source, supported",
+   "claims": [
+    {
+     "text": "Median CAC was 2.4x lower for niche launches.",
+     "source_ids": [
+      "src_seed_cac_benchmarks_2026"
+     ],
+     "confidence_category": "supported"
+    }
+   ]
+  },
+  {
+   "id": "c05",
+   "label": "medium",
+   "why": "single primary source, supported",
+   "claims": [
+    {
+     "text": "68% adopted via community recommendation.",
+     "source_ids": [
+      "src_seed_smb_survey_2026"
+     ],
+     "confidence_category": "supported"
+    }
+   ]
+  },
+  {
+   "id": "c06",
+   "label": "low",
+   "why": "two independent non-opinion sources",
+   "claims": [
+    {
+     "text": "Retention is higher for narrow launches.",
+     "source_ids": [
+      "src_seed_retention_note_2026",
+      "src_seed_smb_survey_2026"
+     ],
+     "confidence_category": "supported"
+    }
+   ]
+  },
+  {
+   "id": "c07",
+   "label": "medium",
+   "why": "opinion mixed with a primary source",
+   "claims": [
+    {
+     "text": "Partnership-led launches convert well.",
+     "source_ids": [
+      "src_seed_founder_opinion_2026",
+      "src_seed_partnership_report_2025"
+     ],
+     "confidence_category": "supported"
+    }
+   ]
+  },
+  {
+   "id": "c08",
+   "label": "medium",
+   "why": "contested but corroborated by two sources",
+   "claims": [
+    {
+     "text": "Partnership CAC beats paid in year one.",
+     "source_ids": [
+      "src_seed_partnership_report_2025",
+      "src_seed_cac_benchmarks_2026"
+     ],
+     "confidence_category": "contested"
+    }
+   ]
+  },
+  {
+   "id": "c09",
+   "label": "high",
+   "why": "two sources, both opinion-grade (founder opinion x2 via same kind)",
+   "claims": [
+    {
+     "text": "Everyone should partner first.",
+     "source_ids": [
+      "src_seed_founder_opinion_2026"
+     ],
+     "confidence_category": "supported"
+    },
+    {
+     "text": "Partnerships are all you need, restated.",
+     "source_ids": [
+      "src_seed_founder_opinion_2026"
+     ],
+     "confidence_category": "supported"
+    }
+   ]
+  },
+  {
+   "id": "c10",
+   "label": "medium",
+   "why": "single secondary field note",
+   "claims": [
+    {
+     "text": "90-day retention was 41% vs 23%.",
+     "source_ids": [
+      "src_seed_retention_note_2026"
+     ],
+     "confidence_category": "supported"
+    }
+   ]
+  },
+  {
+   "id": "c11",
+   "label": "medium",
+   "why": "contested, corroborated, includes primary",
+   "claims": [
+    {
+     "text": "Community adoption dominates first purchases.",
+     "source_ids": [
+      "src_seed_smb_survey_2026",
+      "src_seed_retention_note_2026"
+     ],
+     "confidence_category": "contested"
+    }
+   ]
+  },
+  {
+   "id": "c12",
+   "label": "none",
+   "why": "candidate carries no claims at all",
+   "claims": []
+  }
+ ]
+}

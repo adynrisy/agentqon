@@ -1,0 +1,413 @@
+[
+ {
+  "mode": "single",
+  "objective": "Choose a go-to-market strategy for a B2B invoicing tool for small retailers",
+  "candidates": [
+   {
+    "candidate_id": "cand_19c8209af615",
+    "strategy": "niche-first",
+    "agent": "agent.research.alpha@1.3.0",
+    "mean_score": 4.125,
+    "confidence": "medium",
+    "dims": {
+     "evidence": 5.0,
+     "completeness": 5.0,
+     "robustness": 4.0,
+     "cost_efficiency": 2.5
+    }
+   }
+  ],
+  "selected": {
+   "candidate_id": "cand_19c8209af615",
+   "strategy": "niche-first",
+   "agent": "agent.research.alpha@1.3.0",
+   "mean_score": 4.125,
+   "confidence": "medium",
+   "dims": {
+    "evidence": 5.0,
+    "completeness": 5.0,
+    "robustness": 4.0,
+    "cost_efficiency": 2.5
+   }
+  },
+  "cost_usd": 0.07,
+  "elapsed_ms": 62922.6,
+  "high_critiques": 0,
+  "warnings": [],
+  "errors": []
+ },
+ {
+  "mode": "parallel",
+  "objective": "Choose a go-to-market strategy for a B2B invoicing tool for small retailers",
+  "candidates": [
+   {
+    "candidate_id": "cand_17f1d95b7fb3",
+    "strategy": "niche-first",
+    "agent": "agent.research.alpha@1.3.0",
+    "mean_score": 4.125,
+    "confidence": "medium",
+    "dims": {
+     "evidence": 5.0,
+     "completeness": 5.0,
+     "robustness": 4.0,
+     "cost_efficiency": 2.5
+    }
+   },
+   {
+    "candidate_id": "cand_7cee832e12b3",
+    "strategy": "partnership-led",
+    "agent": "agent.research.beta@1.1.0",
+    "mean_score": 3.708,
+    "confidence": "medium",
+    "dims": {
+     "evidence": 3.33,
+     "completeness": 5.0,
+     "robustness": 4.0,
+     "cost_efficiency": 2.5
+    }
+   }
+  ],
+  "selected": {
+   "candidate_id": "cand_17f1d95b7fb3",
+   "strategy": "niche-first",
+   "agent": "agent.research.alpha@1.3.0",
+   "mean_score": 4.125,
+   "confidence": "medium",
+   "dims": {
+    "evidence": 5.0,
+    "completeness": 5.0,
+    "robustness": 4.0,
+    "cost_efficiency": 2.5
+   }
+  },
+  "cost_usd": 0.14,
+  "elapsed_ms": 69069.3,
+  "high_critiques": 0,
+  "warnings": [],
+  "errors": []
+ },
+ {
+  "mode": "full",
+  "objective": "Choose a go-to-market strategy for a B2B invoicing tool for small retailers",
+  "candidates": [
+   {
+    "candidate_id": "cand_10190bf0bc8c",
+    "strategy": "niche-first",
+    "agent": "agent.research.alpha@1.3.0",
+    "mean_score": 4.125,
+    "confidence": "medium",
+    "dims": {
+     "evidence": 5.0,
+     "completeness": 5.0,
+     "robustness": 4.0,
+     "cost_efficiency": 2.5
+    }
+   },
+   {
+    "candidate_id": "cand_d1d6d336dfe8",
+    "strategy": "partnership-led",
+    "agent": "agent.research.beta@1.1.0",
+    "mean_score": 4.125,
+    "confidence": "medium",
+    "dims": {
+     "evidence": 5.0,
+     "completeness": 5.0,
+     "robustness": 4.0,
+     "cost_efficiency": 2.5
+    }
+   }
+  ],
+  "selected": {
+   "candidate_id": "cand_10190bf0bc8c",
+   "strategy": "niche-first",
+   "agent": "agent.research.alpha@1.3.0",
+   "mean_score": 4.125,
+   "confidence": "medium",
+   "dims": {
+    "evidence": 5.0,
+    "completeness": 5.0,
+    "robustness": 4.0,
+    "cost_efficiency": 2.5
+   }
+  },
+  "cost_usd": 0.14,
+  "elapsed_ms": 79871.6,
+  "high_critiques": 0,
+  "warnings": [],
+  "errors": []
+ },
+ {
+  "mode": "single",
+  "objective": "Choose a launch strategy for a consumer habit-tracking app",
+  "candidates": [
+   {
+    "candidate_id": "cand_1d1976e4b438",
+    "strategy": "niche-first",
+    "agent": "agent.research.alpha@1.3.0",
+    "mean_score": 4.125,
+    "confidence": "medium",
+    "dims": {
+     "evidence": 5.0,
+     "completeness": 5.0,
+     "robustness": 4.0,
+     "cost_efficiency": 2.5
+    }
+   }
+  ],
+  "selected": {
+   "candidate_id": "cand_1d1976e4b438",
+   "strategy": "niche-first",
+   "agent": "agent.research.alpha@1.3.0",
+   "mean_score": 4.125,
+   "confidence": "medium",
+   "dims": {
+    "evidence": 5.0,
+    "completeness": 5.0,
+    "robustness": 4.0,
+    "cost_efficiency": 2.5
+   }
+  },
+  "cost_usd": 0.07,
+  "elapsed_ms": 40881.8,
+  "high_critiques": 0,
+  "warnings": [],
+  "errors": []
+ },
+ {
+  "mode": "parallel",
+  "objective": "Choose a launch strategy for a consumer habit-tracking app",
+  "candidates": [
+   {
+    "candidate_id": "cand_8e3be1abb23b",
+    "strategy": "niche-first",
+    "agent": "agent.research.alpha@1.3.0",
+    "mean_score": 4.125,
+    "confidence": "medium",
+    "dims": {
+     "evidence": 5.0,
+     "completeness": 5.0,
+     "robustness": 4.0,
+     "cost_efficiency": 2.5
+    }
+   },
+   {
+    "candidate_id": "cand_45c7d0716735",
+    "strategy": "partnership-led",
+    "agent": "agent.research.beta@1.1.0",
+    "mean_score": 4.125,
+    "confidence": "medium",
+    "dims": {
+     "evidence": 5.0,
+     "completeness": 5.0,
+     "robustness": 4.0,
+     "cost_efficiency": 2.5
+    }
+   }
+  ],
+  "selected": {
+   "candidate_id": "cand_8e3be1abb23b",
+   "strategy": "niche-first",
+   "agent": "agent.research.alpha@1.3.0",
+   "mean_score": 4.125,
+   "confidence": "medium",
+   "dims": {
+    "evidence": 5.0,
+    "completeness": 5.0,
+    "robustness": 4.0,
+    "cost_efficiency": 2.5
+   }
+  },
+  "cost_usd": 0.14,
+  "elapsed_ms": 68572.3,
+  "high_critiques": 0,
+  "warnings": [],
+  "errors": []
+ },
+ {
+  "mode": "full",
+  "objective": "Choose a launch strategy for a consumer habit-tracking app",
+  "candidates": [
+   {
+    "candidate_id": "cand_91ba0322b9fc",
+    "strategy": "niche-first",
+    "agent": "agent.research.alpha@1.3.0",
+    "mean_score": 4.125,
+    "confidence": "medium",
+    "dims": {
+     "evidence": 5.0,
+     "completeness": 5.0,
+     "robustness": 4.0,
+     "cost_efficiency": 2.5
+    }
+   },
+   {
+    "candidate_id": "cand_480be3e45e7a",
+    "strategy": "partnership-led",
+    "agent": "agent.research.beta@1.1.0",
+    "mean_score": 4.125,
+    "confidence": "medium",
+    "dims": {
+     "evidence": 5.0,
+     "completeness": 5.0,
+     "robustness": 4.0,
+     "cost_efficiency": 2.5
+    }
+   }
+  ],
+  "selected": {
+   "candidate_id": "cand_91ba0322b9fc",
+   "strategy": "niche-first",
+   "agent": "agent.research.alpha@1.3.0",
+   "mean_score": 4.125,
+   "confidence": "medium",
+   "dims": {
+    "evidence": 5.0,
+    "completeness": 5.0,
+    "robustness": 4.0,
+    "cost_efficiency": 2.5
+   }
+  },
+  "cost_usd": 0.14,
+  "elapsed_ms": 88297.9,
+  "high_critiques": 0,
+  "warnings": [],
+  "errors": []
+ },
+ {
+  "mode": "single",
+  "objective": "Choose an expansion strategy for an online tutoring marketplace",
+  "candidates": [
+   {
+    "candidate_id": "cand_c886978617d4",
+    "strategy": "niche-first",
+    "agent": "agent.research.alpha@1.3.0",
+    "mean_score": 4.125,
+    "confidence": "medium",
+    "dims": {
+     "evidence": 5.0,
+     "completeness": 5.0,
+     "robustness": 4.0,
+     "cost_efficiency": 2.5
+    }
+   }
+  ],
+  "selected": {
+   "candidate_id": "cand_c886978617d4",
+   "strategy": "niche-first",
+   "agent": "agent.research.alpha@1.3.0",
+   "mean_score": 4.125,
+   "confidence": "medium",
+   "dims": {
+    "evidence": 5.0,
+    "completeness": 5.0,
+    "robustness": 4.0,
+    "cost_efficiency": 2.5
+   }
+  },
+  "cost_usd": 0.07,
+  "elapsed_ms": 42958.8,
+  "high_critiques": 0,
+  "warnings": [],
+  "errors": []
+ },
+ {
+  "mode": "parallel",
+  "objective": "Choose an expansion strategy for an online tutoring marketplace",
+  "candidates": [
+   {
+    "candidate_id": "cand_a44374d37cb0",
+    "strategy": "niche-first",
+    "agent": "agent.research.alpha@1.3.0",
+    "mean_score": 4.125,
+    "confidence": "medium",
+    "dims": {
+     "evidence": 5.0,
+     "completeness": 5.0,
+     "robustness": 4.0,
+     "cost_efficiency": 2.5
+    }
+   },
+   {
+    "candidate_id": "cand_1ec432b5dac9",
+    "strategy": "partnership-led",
+    "agent": "agent.research.beta@1.1.0",
+    "mean_score": 3.708,
+    "confidence": "medium",
+    "dims": {
+     "evidence": 3.33,
+     "completeness": 5.0,
+     "robustness": 4.0,
+     "cost_efficiency": 2.5
+    }
+   }
+  ],
+  "selected": {
+   "candidate_id": "cand_a44374d37cb0",
+   "strategy": "niche-first",
+   "agent": "agent.research.alpha@1.3.0",
+   "mean_score": 4.125,
+   "confidence": "medium",
+   "dims": {
+    "evidence": 5.0,
+    "completeness": 5.0,
+    "robustness": 4.0,
+    "cost_efficiency": 2.5
+   }
+  },
+  "cost_usd": 0.14,
+  "elapsed_ms": 50706.6,
+  "high_critiques": 0,
+  "warnings": [],
+  "errors": []
+ },
+ {
+  "mode": "full",
+  "objective": "Choose an expansion strategy for an online tutoring marketplace",
+  "candidates": [
+   {
+    "candidate_id": "cand_0c272edd9ce8",
+    "strategy": "niche-first",
+    "agent": "agent.research.alpha@1.3.0",
+    "mean_score": 3.188,
+    "confidence": "low",
+    "dims": {
+     "evidence": 2.75,
+     "completeness": 5.0,
+     "robustness": 2.5,
+     "cost_efficiency": 2.5
+    }
+   },
+   {
+    "candidate_id": "cand_70713f9d7d08",
+    "strategy": "partnership-led",
+    "agent": "agent.research.beta@1.1.0",
+    "mean_score": 3.5,
+    "confidence": "low",
+    "dims": {
+     "evidence": 4.0,
+     "completeness": 5.0,
+     "robustness": 2.5,
+     "cost_efficiency": 2.5
+    }
+   }
+  ],
+  "selected": {
+   "candidate_id": "cand_70713f9d7d08",
+   "strategy": "partnership-led",
+   "agent": "agent.research.beta@1.1.0",
+   "mean_score": 3.5,
+   "confidence": "low",
+   "dims": {
+    "evidence": 4.0,
+    "completeness": 5.0,
+    "robustness": 2.5,
+    "cost_efficiency": 2.5
+   }
+  },
+  "cost_usd": 0.14,
+  "elapsed_ms": 93238.6,
+  "high_critiques": 3,
+  "warnings": [],
+  "errors": []
+ }
+]

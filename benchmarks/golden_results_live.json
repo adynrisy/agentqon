@@ -1,0 +1,150 @@
+{
+ "harness": "phase6-golden-v1",
+ "golden": {
+  "suite": "golden",
+  "mode": "live",
+  "cases": [
+   {
+    "case": "g01",
+    "title": "SMB invoicing launch strategy",
+    "seconds": 9.48,
+    "metrics": {
+     "status": "completed",
+     "candidates": 2,
+     "strategies": [
+      "niche-first",
+      "partnership-led"
+     ],
+     "claims": 6,
+     "citation_coverage": 1.0,
+     "invalid_citations": 0,
+     "mean_dimension": 4.25,
+     "spend_usd": 1.0699999999999998,
+     "research_event": "ResearchCompleted",
+     "live_sources_cited": 4,
+     "critiques": 2
+    },
+    "failures": [],
+    "passed": true
+   },
+   {
+    "case": "g02",
+    "title": "Pricing model for a design tool",
+    "seconds": 9.18,
+    "metrics": {
+     "status": "completed",
+     "candidates": 2,
+     "strategies": [
+      "niche-first",
+      "partnership-led"
+     ],
+     "claims": 6,
+     "citation_coverage": 1.0,
+     "invalid_citations": 0,
+     "mean_dimension": 4.25,
+     "spend_usd": 1.0699999999999998,
+     "research_event": "ResearchCompleted",
+     "live_sources_cited": 4,
+     "critiques": 2
+    },
+    "failures": [],
+    "passed": true
+   },
+   {
+    "case": "g03",
+    "title": "Churn reduction for a fitness app",
+    "seconds": 8.09,
+    "metrics": {
+     "status": "completed",
+     "candidates": 2,
+     "strategies": [
+      "niche-first",
+      "partnership-led"
+     ],
+     "claims": 6,
+     "citation_coverage": 1.0,
+     "invalid_citations": 0,
+     "mean_dimension": 4.25,
+     "spend_usd": 1.0699999999999998,
+     "research_event": "ResearchCompleted",
+     "live_sources_cited": 4,
+     "critiques": 2
+    },
+    "failures": [],
+    "passed": true
+   },
+   {
+    "case": "g09",
+    "title": "Fintech onboarding redesign",
+    "seconds": 0.02,
+    "metrics": {
+     "status": "completed",
+     "candidates": 2,
+     "strategies": [
+      "niche-first",
+      "partnership-led"
+     ],
+     "claims": 6,
+     "citation_coverage": 1.0,
+     "invalid_citations": 0,
+     "mean_dimension": 4.25,
+     "spend_usd": 1.0699999999999998,
+     "research_event": "ResearchSkipped",
+     "live_sources_cited": 0,
+     "critiques": 2
+    },
+    "failures": [],
+    "passed": true
+   },
+   {
+    "case": "g24",
+    "title": "Internal tooling roadmap (confidential)",
+    "seconds": 0.02,
+    "metrics": {
+     "status": "completed",
+     "candidates": 2,
+     "strategies": [
+      "niche-first",
+      "partnership-led"
+     ],
+     "claims": 6,
+     "citation_coverage": 1.0,
+     "invalid_citations": 0,
+     "mean_dimension": 4.25,
+     "spend_usd": 1.0699999999999998,
+     "research_event": "ResearchSkipped",
+     "live_sources_cited": 0,
+     "critiques": 2
+    },
+    "failures": [],
+    "passed": true
+   },
+   {
+    "case": "g25",
+    "title": "Restricted data product scoping",
+    "seconds": 0.02,
+    "metrics": {
+     "status": "completed",
+     "candidates": 2,
+     "strategies": [
+      "niche-first",
+      "partnership-led"
+     ],
+     "claims": 6,
+     "citation_coverage": 1.0,
+     "invalid_citations": 0,
+     "mean_dimension": 4.25,
+     "spend_usd": 1.0699999999999998,
+     "research_event": "ResearchSkipped",
+     "live_sources_cited": 0,
+     "critiques": 2
+    },
+    "failures": [],
+    "passed": true
+   }
+  ],
+  "passed": 6,
+  "total": 6,
+  "all_passed": true
+ }
+}

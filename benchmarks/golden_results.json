@@ -1,0 +1,827 @@
+{
+ "harness": "phase6-golden-v1",
+ "critic": {
+  "cases": [
+   {
+    "case": "c01",
+    "expected": "high",
+    "observed": "high",
+    "agree": true,
+    "why": "sole source is opinion"
+   },
+   {
+    "case": "c02",
+    "expected": "high",
+    "observed": "high",
+    "agree": true,
+    "why": "no source attached"
+   },
+   {
+    "case": "c03",
+    "expected": "high",
+    "observed": "high",
+    "agree": true,
+    "why": "contested on a single secondary source"
+   },
+   {
+    "case": "c04",
+    "expected": "medium",
+    "observed": "medium",
+    "agree": true,
+    "why": "single secondary source, supported"
+   },
+   {
+    "case": "c05",
+    "expected": "medium",
+    "observed": "medium",
+    "agree": true,
+    "why": "single primary source, supported"
+   },
+   {
+    "case": "c06",
+    "expected": "low",
+    "observed": "low",
+    "agree": true,
+    "why": "two independent non-opinion sources"
+   },
+   {
+    "case": "c07",
+    "expected": "medium",
+    "observed": "medium",
+    "agree": true,
+    "why": "opinion mixed with a primary source"
+   },
+   {
+    "case": "c08",
+    "expected": "medium",
+    "observed": "medium",
+    "agree": true,
+    "why": "contested but corroborated by two sources"
+   },
+   {
+    "case": "c09",
+    "expected": "high",
+    "observed": "high",
+    "agree": true,
+    "why": "two sources, both opinion-grade (founder opinion x2 via same kind)"
+   },
+   {
+    "case": "c10",
+    "expected": "medium",
+    "observed": "medium",
+    "agree": true,
+    "why": "single secondary field note"
+   },
+   {
+    "case": "c11",
+    "expected": "medium",
+    "observed": "medium",
+    "agree": true,
+    "why": "contested, corroborated, includes primary"
+   },
+   {
+    "case": "c12",
+    "expected": "none",
+    "observed": "none",
+    "agree": true,
+    "why": "candidate carries no claims at all"
+   }
+  ],
+  "n": 12,
+  "agreement": 1.0,
+  "kappa": 1.0
+ },
+ "router": {
+  "rows": [
+   {
+    "scenario": "open-budget",
+    "mode": "lowest_cost_acceptable",
+    "outcome": "routed",
+    "model": "local/private",
+    "est_cost_usd": 0,
+    "quality": 0.55
+   },
+   {
+    "scenario": "open-budget",
+    "mode": "balanced",
+    "outcome": "routed",
+    "model": "cloud/flagship",
+    "est_cost_usd": 0.018,
+    "quality": 0.93
+   },
+   {
+    "scenario": "open-budget",
+    "mode": "quality_within_budget",
+    "outcome": "routed",
+    "model": "cloud/flagship",
+    "est_cost_usd": 0.018,
+    "quality": 0.93
+   },
+   {
+    "scenario": "open-budget",
+    "mode": "fastest_eligible",
+    "outcome": "routed",
+    "model": "cloud/fast",
+    "est_cost_usd": 0.0036,
+    "quality": 0.78
+   },
+   {
+    "scenario": "open-budget",
+    "mode": "pinned_model",
+    "outcome": "routed",
+    "model": "cloud/flagship",
+    "est_cost_usd": 0.018,
+    "quality": 0.93
+   },
+   {
+    "scenario": "open-budget",
+    "mode": "task_aware_auto",
+    "outcome": "routed",
+    "model": "cloud/flagship",
+    "est_cost_usd": 0.018,
+    "quality": 0.93
+   },
+   {
+    "scenario": "tight-budget",
+    "mode": "lowest_cost_acceptable",
+    "outcome": "routed",
+    "model": "local/private",
+    "est_cost_usd": 0,
+    "quality": 0.55
+   },
+   {
+    "scenario": "tight-budget",
+    "mode": "balanced",
+    "outcome": "routed",
+    "model": "cloud/fast",
+    "est_cost_usd": 0.0036,
+    "quality": 0.78
+   },
+   {
+    "scenario": "tight-budget",
+    "mode": "quality_within_budget",
+    "outcome": "routed",
+    "model": "cloud/fast",
+    "est_cost_usd": 0.0036,
+    "quality": 0.78
+   },
+   {
+    "scenario": "tight-budget",
+    "mode": "fastest_eligible",
+    "outcome": "routed",
+    "model": "cloud/fast",
+    "est_cost_usd": 0.0036,
+    "quality": 0.78
+   },
+   {
+    "scenario": "tight-budget",
+    "mode": "pinned_model",
+    "outcome": "no_eligible_model",
+    "model": null,
+    "est_cost_usd": null,
+    "quality": null
+   },
+   {
+    "scenario": "tight-budget",
+    "mode": "task_aware_auto",
+    "outcome": "routed",
+    "model": "cloud/fast",
+    "est_cost_usd": 0.0036,
+    "quality": 0.78
+   },
+   {
+    "scenario": "confidential",
+    "mode": "lowest_cost_acceptable",
+    "outcome": "routed",
+    "model": "local/private",
+    "est_cost_usd": 0,
+    "quality": 0.55
+   },
+   {
+    "scenario": "confidential",
+    "mode": "balanced",
+    "outcome": "routed",
+    "model": "local/private",
+    "est_cost_usd": 0,
+    "quality": 0.55
+   },
+   {
+    "scenario": "confidential",
+    "mode": "quality_within_budget",
+    "outcome": "routed",
+    "model": "local/private",
+    "est_cost_usd": 0,
+    "quality": 0.55
+   },
+   {
+    "scenario": "confidential",
+    "mode": "fastest_eligible",
+    "outcome": "routed",
+    "model": "local/private",
+    "est_cost_usd": 0,
+    "quality": 0.55
+   },
+   {
+    "scenario": "confidential",
+    "mode": "pinned_model",
+    "outcome": "no_eligible_model",
+    "model": null,
+    "est_cost_usd": null,
+    "quality": null
+   },
+   {
+    "scenario": "confidential",
+    "mode": "task_aware_auto",
+    "outcome": "routed",
+    "model": "local/private",
+    "est_cost_usd": 0,
+    "quality": 0.55
+   }
+  ],
+  "invariant_failures": []
+ },
+ "golden": {
+  "suite": "golden",
+  "mode": "seed",
+  "cases": [
+   {
+    "case": "g01",
+    "title": "SMB invoicing launch strategy",
+    "seconds": 0.09,
+    "metrics": {
+     "status": "completed",
+     "candidates": 2,
+     "strategies": [
+      "niche-first",
+      "partnership-led"
+     ],
+     "claims": 6,
+     "citation_coverage": 1.0,
+     "invalid_citations": 0,
+     "mean_dimension": 4.25,
+     "spend_usd": 1.0699999999999998,
+     "research_event": null,
+     "live_sources_cited": 0,
+     "critiques": 2
+    },
+    "failures": [],
+    "passed": true
+   },
+   {
+    "case": "g02",
+    "title": "Pricing model for a design tool",
+    "seconds": 0.03,
+    "metrics": {
+     "status": "completed",
+     "candidates": 2,
+     "strategies": [
+      "niche-first",
+      "partnership-led"
+     ],
+     "claims": 6,
+     "citation_coverage": 1.0,
+     "invalid_citations": 0,
+     "mean_dimension": 4.25,
+     "spend_usd": 1.0699999999999998,
+     "research_event": null,
+     "live_sources_cited": 0,
+     "critiques": 2
+    },
+    "failures": [],
+    "passed": true
+   },
+   {
+    "case": "g03",
+    "title": "Churn reduction for a fitness app",
+    "seconds": 0.02,
+    "metrics": {
+     "status": "completed",
+     "candidates": 2,
+     "strategies": [
+      "niche-first",
+      "partnership-led"
+     ],
+     "claims": 6,
+     "citation_coverage": 1.0,
+     "invalid_citations": 0,
+     "mean_dimension": 4.25,
+     "spend_usd": 1.0699999999999998,
+     "research_event": null,
+     "live_sources_cited": 0,
+     "critiques": 2
+    },
+    "failures": [],
+    "passed": true
+   },
+   {
+    "case": "g04",
+    "title": "Snack brand market entry UAE",
+    "seconds": 0.02,
+    "metrics": {
+     "status": "completed",
+     "candidates": 2,
+     "strategies": [
+      "niche-first",
+      "partnership-led"
+     ],
+     "claims": 6,
+     "citation_coverage": 1.0,
+     "invalid_citations": 0,
+     "mean_dimension": 4.25,
+     "spend_usd": 1.0699999999999998,
+     "research_event": null,
+     "live_sources_cited": 0,
+     "critiques": 2
+    },
+    "failures": [],
+    "passed": true
+   },
+   {
+    "case": "g05",
+    "title": "Support team hiring plan",
+    "seconds": 0.02,
+    "metrics": {
+     "status": "completed",
+     "candidates": 2,
+     "strategies": [
+      "niche-first",
+      "partnership-led"
+     ],
+     "claims": 6,
+     "citation_coverage": 1.0,
+     "invalid_citations": 0,
+     "mean_dimension": 4.25,
+     "spend_usd": 1.0699999999999998,
+     "research_event": null,
+     "live_sources_cited": 0,
+     "critiques": 2
+    },
+    "failures": [],
+    "passed": true
+   },
+   {
+    "case": "g06",
+    "title": "CRM vendor selection",
+    "seconds": 0.02,
+    "metrics": {
+     "status": "completed",
+     "candidates": 2,
+     "strategies": [
+      "niche-first",
+      "partnership-led"
+     ],
+     "claims": 6,
+     "citation_coverage": 1.0,
+     "invalid_citations": 0,
+     "mean_dimension": 4.25,
+     "spend_usd": 1.0699999999999998,
+     "research_event": null,
+     "live_sources_cited": 0,
+     "critiques": 2
+    },
+    "failures": [],
+    "passed": true
+   },
+   {
+    "case": "g07",
+    "title": "Drama channel content strategy",
+    "seconds": 0.02,
+    "metrics": {
+     "status": "completed",
+     "candidates": 2,
+     "strategies": [
+      "niche-first",
+      "partnership-led"
+     ],
+     "claims": 6,
+     "citation_coverage": 1.0,
+     "invalid_citations": 0,
+     "mean_dimension": 4.25,
+     "spend_usd": 1.0699999999999998,
+     "research_event": null,
+     "live_sources_cited": 0,
+     "critiques": 2
+    },
+    "failures": [],
+    "passed": true
+   },
+   {
+    "case": "g08",
+    "title": "Freemium conversion for language app",
+    "seconds": 0.02,
+    "metrics": {
+     "status": "completed",
+     "candidates": 2,
+     "strategies": [
+      "niche-first",
+      "partnership-led"
+     ],
+     "claims": 6,
+     "citation_coverage": 1.0,
+     "invalid_citations": 0,
+     "mean_dimension": 4.25,
+     "spend_usd": 1.0699999999999998,
+     "research_event": null,
+     "live_sources_cited": 0,
+     "critiques": 2
+    },
+    "failures": [],
+    "passed": true
+   },
+   {
+    "case": "g09",
+    "title": "Fintech onboarding redesign",
+    "seconds": 0.02,
+    "metrics": {
+     "status": "completed",
+     "candidates": 2,
+     "strategies": [
+      "niche-first",
+      "partnership-led"
+     ],
+     "claims": 6,
+     "citation_coverage": 1.0,
+     "invalid_citations": 0,
+     "mean_dimension": 4.25,
+     "spend_usd": 1.0699999999999998,
+     "research_event": null,
+     "live_sources_cited": 0,
+     "critiques": 2
+    },
+    "failures": [],
+    "passed": true
+   },
+   {
+    "case": "g10",
+    "title": "Logistics partnership strategy",
+    "seconds": 0.02,
+    "metrics": {
+     "status": "completed",
+     "candidates": 2,
+     "strategies": [
+      "niche-first",
+      "partnership-led"
+     ],
+     "claims": 6,
+     "citation_coverage": 1.0,
+     "invalid_citations": 0,
+     "mean_dimension": 4.25,
+     "spend_usd": 1.0699999999999998,
+     "research_event": null,
+     "live_sources_cited": 0,
+     "critiques": 2
+    },
+    "failures": [],
+    "passed": true
+   },
+   {
+    "case": "g11",
+    "title": "E-commerce SEO program",
+    "seconds": 0.02,
+    "metrics": {
+     "status": "completed",
+     "candidates": 2,
+     "strategies": [
+      "niche-first",
+      "partnership-led"
+     ],
+     "claims": 6,
+     "citation_coverage": 1.0,
+     "invalid_citations": 0,
+     "mean_dimension": 4.25,
+     "spend_usd": 1.0699999999999998,
+     "research_event": null,
+     "live_sources_cited": 0,
+     "critiques": 2
+    },
+    "failures": [],
+    "passed": true
+   },
+   {
+    "case": "g12",
+    "title": "Support automation rollout",
+    "seconds": 0.02,
+    "metrics": {
+     "status": "completed",
+     "candidates": 2,
+     "strategies": [
+      "niche-first",
+      "partnership-led"
+     ],
+     "claims": 6,
+     "citation_coverage": 1.0,
+     "invalid_citations": 0,
+     "mean_dimension": 4.25,
+     "spend_usd": 1.0699999999999998,
+     "research_event": null,
+     "live_sources_cited": 0,
+     "critiques": 2
+    },
+    "failures": [],
+    "passed": true
+   },
+   {
+    "case": "g13",
+    "title": "API product pricing experiment",
+    "seconds": 0.02,
+    "metrics": {
+     "status": "completed",
+     "candidates": 2,
+     "strategies": [
+      "niche-first",
+      "partnership-led"
+     ],
+     "claims": 6,
+     "citation_coverage": 1.0,
+     "invalid_citations": 0,
+     "mean_dimension": 4.25,
+     "spend_usd": 1.0699999999999998,
+     "research_event": null,
+     "live_sources_cited": 0,
+     "critiques": 2
+    },
+    "failures": [],
+    "passed": true
+   },
+   {
+    "case": "g14",
+    "title": "Coffee chain city expansion",
+    "seconds": 0.02,
+    "metrics": {
+     "status": "completed",
+     "candidates": 2,
+     "strategies": [
+      "niche-first",
+      "partnership-led"
+     ],
+     "claims": 6,
+     "citation_coverage": 1.0,
+     "invalid_citations": 0,
+     "mean_dimension": 4.25,
+     "spend_usd": 1.0699999999999998,
+     "research_event": null,
+     "live_sources_cited": 0,
+     "critiques": 2
+    },
+    "failures": [],
+    "passed": true
+   },
+   {
+    "case": "g15",
+    "title": "News subscription retention",
+    "seconds": 0.02,
+    "metrics": {
+     "status": "completed",
+     "candidates": 2,
+     "strategies": [
+      "niche-first",
+      "partnership-led"
+     ],
+     "claims": 6,
+     "citation_coverage": 1.0,
+     "invalid_citations": 0,
+     "mean_dimension": 4.25,
+     "spend_usd": 1.0699999999999998,
+     "research_event": null,
+     "live_sources_cited": 0,
+     "critiques": 2
+    },
+    "failures": [],
+    "passed": true
+   },
+   {
+    "case": "g16",
+    "title": "HR software sales motion",
+    "seconds": 0.02,
+    "metrics": {
+     "status": "completed",
+     "candidates": 2,
+     "strategies": [
+      "niche-first",
+      "partnership-led"
+     ],
+     "claims": 6,
+     "citation_coverage": 1.0,
+     "invalid_citations": 0,
+     "mean_dimension": 4.25,
+     "spend_usd": 1.0699999999999998,
+     "research_event": null,
+     "live_sources_cited": 0,
+     "critiques": 2
+    },
+    "failures": [],
+    "passed": true
+   },
+   {
+    "case": "g17",
+    "title": "Gaming accessory community launch",
+    "seconds": 0.02,
+    "metrics": {
+     "status": "completed",
+     "candidates": 2,
+     "strategies": [
+      "niche-first",
+      "partnership-led"
+     ],
+     "claims": 6,
+     "citation_coverage": 1.0,
+     "invalid_citations": 0,
+     "mean_dimension": 4.25,
+     "spend_usd": 1.0699999999999998,
+     "research_event": null,
+     "live_sources_cited": 0,
+     "critiques": 2
+    },
+    "failures": [],
+    "passed": true
+   },
+   {
+    "case": "g18",
+    "title": "Fashion store email lifecycle",
+    "seconds": 0.02,
+    "metrics": {
+     "status": "completed",
+     "candidates": 2,
+     "strategies": [
+      "niche-first",
+      "partnership-led"
+     ],
+     "claims": 6,
+     "citation_coverage": 1.0,
+     "invalid_citations": 0,
+     "mean_dimension": 4.25,
+     "spend_usd": 1.0699999999999998,
+     "research_event": null,
+     "live_sources_cited": 0,
+     "critiques": 2
+    },
+    "failures": [],
+    "passed": true
+   },
+   {
+    "case": "g19",
+    "title": "Build vs buy analytics",
+    "seconds": 0.02,
+    "metrics": {
+     "status": "completed",
+     "candidates": 2,
+     "strategies": [
+      "niche-first",
+      "partnership-led"
+     ],
+     "claims": 6,
+     "citation_coverage": 1.0,
+     "invalid_citations": 0,
+     "mean_dimension": 4.25,
+     "spend_usd": 1.0699999999999998,
+     "research_event": null,
+     "live_sources_cited": 0,
+     "critiques": 2
+    },
+    "failures": [],
+    "passed": true
+   },
+   {
+    "case": "g20",
+    "title": "Exam prep course launch",
+    "seconds": 0.02,
+    "metrics": {
+     "status": "completed",
+     "candidates": 2,
+     "strategies": [
+      "niche-first",
+      "partnership-led"
+     ],
+     "claims": 6,
+     "citation_coverage": 1.0,
+     "invalid_citations": 0,
+     "mean_dimension": 4.25,
+     "spend_usd": 1.0699999999999998,
+     "research_event": null,
+     "live_sources_cited": 0,
+     "critiques": 2
+    },
+    "failures": [],
+    "passed": true
+   },
+   {
+    "case": "g21",
+    "title": "Skincare influencer strategy",
+    "seconds": 0.02,
+    "metrics": {
+     "status": "completed",
+     "candidates": 2,
+     "strategies": [
+      "niche-first",
+      "partnership-led"
+     ],
+     "claims": 6,
+     "citation_coverage": 1.0,
+     "invalid_citations": 0,
+     "mean_dimension": 4.25,
+     "spend_usd": 1.0699999999999998,
+     "research_event": null,
+     "live_sources_cited": 0,
+     "critiques": 2
+    },
+    "failures": [],
+    "passed": true
+   },
+   {
+    "case": "g22",
+    "title": "Nonprofit donor growth",
+    "seconds": 0.02,
+    "metrics": {
+     "status": "completed",
+     "candidates": 2,
+     "strategies": [
+      "niche-first",
+      "partnership-led"
+     ],
+     "claims": 6,
+     "citation_coverage": 1.0,
+     "invalid_citations": 0,
+     "mean_dimension": 4.25,
+     "spend_usd": 1.0699999999999998,
+     "research_event": null,
+     "live_sources_cited": 0,
+     "critiques": 2
+    },
+    "failures": [],
+    "passed": true
+   },
+   {
+    "case": "g23",
+    "title": "Support hours policy",
+    "seconds": 0.02,
+    "metrics": {
+     "status": "completed",
+     "candidates": 2,
+     "strategies": [
+      "niche-first",
+      "partnership-led"
+     ],
+     "claims": 6,
+     "citation_coverage": 1.0,
+     "invalid_citations": 0,
+     "mean_dimension": 4.25,
+     "spend_usd": 1.0699999999999998,
+     "research_event": null,
+     "live_sources_cited": 0,
+     "critiques": 2
+    },
+    "failures": [],
+    "passed": true
+   },
+   {
+    "case": "g24",
+    "title": "Internal tooling roadmap (confidential)",
+    "seconds": 0.02,
+    "metrics": {
+     "status": "completed",
+     "candidates": 2,
+     "strategies": [
+      "niche-first",
+      "partnership-led"
+     ],
+     "claims": 6,
+     "citation_coverage": 1.0,
+     "invalid_citations": 0,
+     "mean_dimension": 4.25,
+     "spend_usd": 1.0699999999999998,
+     "research_event": null,
+     "live_sources_cited": 0,
+     "critiques": 2
+    },
+    "failures": [],
+    "passed": true
+   },
+   {
+    "case": "g25",
+    "title": "Restricted data product scoping",
+    "seconds": 0.02,
+    "metrics": {
+     "status": "completed",
+     "candidates": 2,
+     "strategies": [
+      "niche-first",
+      "partnership-led"
+     ],
+     "claims": 6,
+     "citation_coverage": 1.0,
+     "invalid_citations": 0,
+     "mean_dimension": 4.25,
+     "spend_usd": 1.0699999999999998,
+     "research_event": null,
+     "live_sources_cited": 0,
+     "critiques": 2
+    },
+    "failures": [],
+    "passed": true
+   }
+  ],
+  "passed": 25,
+  "total": 25,
+  "all_passed": true
+ }
+}
