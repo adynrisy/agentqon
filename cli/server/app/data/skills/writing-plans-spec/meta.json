@@ -1,0 +1,11 @@
+{
+  "name": "writing-plans-spec",
+  "display_name": "Writing Plans · Spec",
+  "description": "Use when you have a spec or requirements for a multi-step task, before touching code",
+  "repo": "obra/superpowers",
+  "path": "skills/writing-plans/SKILL.md",
+  "url": "https://github.com/obra/superpowers/tree/HEAD/skills/writing-plans/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 10208,
+  "truncated": false
+}

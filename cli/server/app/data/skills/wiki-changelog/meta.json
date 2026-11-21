@@ -1,0 +1,11 @@
+{
+  "name": "wiki-changelog",
+  "display_name": "Wiki Changelog",
+  "description": "Generate structured changelogs from git history. Use when user asks \"what changed recently\", \"generate a changelog\", \"summarize commits\" or user wants to understand recent development activity.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/wiki-changelog/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/wiki-changelog/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 1019,
+  "truncated": false
+}

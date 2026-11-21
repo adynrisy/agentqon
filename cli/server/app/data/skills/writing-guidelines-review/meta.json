@@ -1,0 +1,11 @@
+{
+  "name": "writing-guidelines-review",
+  "display_name": "Writing Guidelines · Review",
+  "description": "Review docs/prose for Writing Guidelines compliance. Use when asked to \"review my docs\", \"check writing style\", \"audit prose\", \"review docs voice and tone\", or \"check this page against the writing handbook\".",
+  "repo": "vercel-labs/agent-skills",
+  "path": "skills/writing-guidelines/SKILL.md",
+  "url": "https://github.com/vercel-labs/agent-skills/tree/HEAD/skills/writing-guidelines/SKILL.md",
+  "license": "unknown",
+  "body_bytes": 897,
+  "truncated": false
+}

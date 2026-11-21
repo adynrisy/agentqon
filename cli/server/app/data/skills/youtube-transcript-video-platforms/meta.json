@@ -1,0 +1,11 @@
+{
+  "name": "youtube-transcript-video-platforms",
+  "display_name": "Youtube Transcript · Video Platforms",
+  "description": "YouTube transcript extraction and content reformatting: given a YouTube video URL, opens the video's transcript panel, extracts all timestamped segments, and transforms the raw transcript into summaries, chapter outlines, Twitter/X threads, blog posts, or notable quotes. Use when the user shares a YouTube URL or video link, asks to summarize a video, get a transcript, extract content from a YouTube video, get YouTube captions, extract YouTube captions, download YouTube captions, transcribe YouTube video, YouTube video to text, make a thread from YouTube, YouTube to blog post, YouTube to article, pull transcript from YouTube, YouTube content extraction, convert YouTube to text, video to transcript. Also applies when user wants to reformat any YouTube video content into structured output (chapters, threads, blog articles, key quotes).",
+  "repo": "browser-act/skills",
+  "path": "solutions/video-platforms/youtube-transcript/SKILL.md",
+  "url": "https://github.com/browser-act/skills/tree/HEAD/solutions/video-platforms/youtube-transcript/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 7722,
+  "truncated": false
+}

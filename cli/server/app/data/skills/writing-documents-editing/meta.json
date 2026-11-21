@@ -1,0 +1,11 @@
+{
+  "name": "writing-documents-editing",
+  "display_name": "Writing Documents Editing",
+  "description": "Writing documents for agents. Use when creating or editing skills, or modifying AGENTS.md or CLAUDE.md.",
+  "repo": "mattpocock/skills",
+  "path": "skills/productivity/writing-for-agents/SKILL.md",
+  "url": "https://github.com/mattpocock/skills/tree/HEAD/skills/productivity/writing-for-agents/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 10735,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "wireshark-analysis",
+  "display_name": "Wireshark Analysis",
+  "description": "Execute comprehensive network traffic analysis using Wireshark to capture, filter, and examine network packets for security investigations, performance optimization, and troubleshooting.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/wireshark-analysis/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/wireshark-analysis/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 2231,
+  "truncated": false
+}

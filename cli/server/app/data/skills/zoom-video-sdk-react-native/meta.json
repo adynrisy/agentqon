@@ -1,0 +1,11 @@
+{
+  "name": "zoom-video-sdk-react-native",
+  "display_name": "Zoom Video SDK React Native",
+  "description": "Zoom Video SDK for React Native. Use when building custom mobile video session experiences\nwith @zoom/react-native-videosdk, event listeners, helper-based APIs, and backend JWT token flows.",
+  "repo": "anthropics/knowledge-work-plugins",
+  "path": "partner-built/zoom-plugin/skills/video-sdk/react-native/SKILL.md",
+  "url": "https://github.com/anthropics/knowledge-work-plugins/tree/HEAD/partner-built/zoom-plugin/skills/video-sdk/react-native/SKILL.md",
+  "license": "Apache-2.0",
+  "body_bytes": 2534,
+  "truncated": false
+}

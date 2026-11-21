@@ -1,0 +1,11 @@
+{
+  "name": "zoom-cobrowse-sdk",
+  "display_name": "Zoom Cobrowse SDK",
+  "description": "Reference skill for Zoom Cobrowse SDK. Use after routing to a collaborative-support workflow when implementing browser co-browsing, annotation tools, privacy masking, remote assist, or PIN-based session sharing.",
+  "repo": "anthropics/knowledge-work-plugins",
+  "path": "partner-built/zoom-plugin/skills/cobrowse-sdk/SKILL.md",
+  "url": "https://github.com/anthropics/knowledge-work-plugins/tree/HEAD/partner-built/zoom-plugin/skills/cobrowse-sdk/SKILL.md",
+  "license": "Apache-2.0",
+  "body_bytes": 32829,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "workflow-orchestration-patterns",
+  "display_name": "Workflow Orchestration Patterns",
+  "description": "Master workflow orchestration architecture with Temporal, covering fundamental design decisions, resilience patterns, and best practices for building reliable distributed systems.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/workflow-orchestration-patterns/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/workflow-orchestration-patterns/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 9909,
+  "truncated": false
+}

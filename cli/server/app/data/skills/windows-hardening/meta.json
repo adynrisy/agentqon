@@ -1,0 +1,11 @@
+{
+  "name": "windows-hardening",
+  "display_name": "Windows Hardening",
+  "description": "Harden Windows servers per security baselines and CIS benchmarks. Configure Group Policy, Windows Defender, and security features. Use when securing Windows Server environments.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/windows-hardening/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/windows-hardening/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 16685,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "wrike-automation",
+  "display_name": "Wrike Automation",
+  "description": "Automate Wrike project management via Rube MCP (Composio): create tasks/folders, manage projects, assign work, and track progress. Always search tools first for current schemas.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/wrike-automation/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/wrike-automation/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 9417,
+  "truncated": false
+}

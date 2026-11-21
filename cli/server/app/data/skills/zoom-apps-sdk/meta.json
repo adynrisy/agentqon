@@ -1,0 +1,11 @@
+{
+  "name": "zoom-apps-sdk",
+  "display_name": "Zoom Apps SDK",
+  "description": "Reference skill for Zoom Apps SDK. Use after routing to an in-client app workflow when building web apps that run inside Zoom meetings, webinars, the main client, or Zoom Phone.",
+  "repo": "anthropics/knowledge-work-plugins",
+  "path": "partner-built/zoom-plugin/skills/zoom-apps-sdk/SKILL.md",
+  "url": "https://github.com/anthropics/knowledge-work-plugins/tree/HEAD/partner-built/zoom-plugin/skills/zoom-apps-sdk/SKILL.md",
+  "license": "Apache-2.0",
+  "body_bytes": 25291,
+  "truncated": false
+}

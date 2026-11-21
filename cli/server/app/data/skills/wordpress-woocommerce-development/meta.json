@@ -1,0 +1,11 @@
+{
+  "name": "wordpress-woocommerce-development",
+  "display_name": "Wordpress Woocommerce Development",
+  "description": "WooCommerce store development workflow covering store setup, payment integration, shipping configuration, customization, and WordPress 7.0 features: AI connectors, DataViews, and collaboration tools.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/wordpress-woocommerce-development/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/wordpress-woocommerce-development/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 954,
+  "truncated": false
+}

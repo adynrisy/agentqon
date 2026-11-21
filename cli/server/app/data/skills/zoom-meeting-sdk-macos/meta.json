@@ -1,0 +1,11 @@
+{
+  "name": "zoom-meeting-sdk-macos",
+  "display_name": "Zoom Meeting SDK macOS",
+  "description": "Zoom Meeting SDK for macOS native apps. Use when embedding Zoom meetings in macOS with\ndefault/custom UI, PKCE + SDK auth, host start/join flows, and desktop meeting feature controllers.",
+  "repo": "anthropics/knowledge-work-plugins",
+  "path": "partner-built/zoom-plugin/skills/meeting-sdk/macos/SKILL.md",
+  "url": "https://github.com/anthropics/knowledge-work-plugins/tree/HEAD/partner-built/zoom-plugin/skills/meeting-sdk/macos/SKILL.md",
+  "license": "Apache-2.0",
+  "body_bytes": 1023,
+  "truncated": false
+}

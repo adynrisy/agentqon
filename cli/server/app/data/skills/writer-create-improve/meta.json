@@ -1,0 +1,11 @@
+{
+  "name": "writer-create-improve",
+  "display_name": "Writer Create Improve",
+  "description": "Create and improve agent skills following the Agent Skills specification. Use when asked to create, write, or update skills.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/skill-writer/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/skill-writer/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 4865,
+  "truncated": false
+}

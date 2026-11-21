@@ -1,0 +1,11 @@
+{
+  "name": "workers-build-deploy",
+  "display_name": "Workers Build Deploy",
+  "description": "Build and deploy edge functions with Cloudflare Workers and Wrangler. Use for APIs, cron jobs, and edge middleware.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/cloudflare-workers/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/cloudflare-workers/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 10088,
+  "truncated": false
+}

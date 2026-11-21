@@ -1,0 +1,11 @@
+{
+  "name": "wordpress-development-theme",
+  "display_name": "Wordpress Development Theme",
+  "description": "Complete WordPress development workflow covering theme development, plugin creation, WooCommerce integration, performance optimization, and security hardening. Includes WordPress 7.0 features: Real-Time Collaboration, AI Connectors, Abilities API, DataViews, and PHP-only blocks.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/wordpress/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/wordpress/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 993,
+  "truncated": false
+}

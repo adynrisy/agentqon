@@ -1,0 +1,11 @@
+{
+  "name": "writing-reports-evidence",
+  "display_name": "Writing Reports Evidence",
+  "description": "Drafts, revises, and audits scientific manuscripts or reports with explicit evidence provenance, reporting-guideline coverage, authorship accountability, confidentiality controls, and local consistency checks. Use for manuscript sections, references, declarations, tables, figures, or submission preparation when scientific accuracy and traceability matter.",
+  "repo": "K-Dense-AI/scientific-agent-skills",
+  "path": "skills/scientific-writing/SKILL.md",
+  "url": "https://github.com/K-Dense-AI/scientific-agent-skills/tree/HEAD/skills/scientific-writing/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 14224,
+  "truncated": false
+}

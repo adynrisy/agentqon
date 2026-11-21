@@ -1,0 +1,11 @@
+{
+  "name": "zipai-optimizer",
+  "display_name": "Zipai Optimizer",
+  "description": "Ultra-dense token optimizer skill for prompt caching, log pruning, AST-based inspection, and minified JSON payloads.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/zipai-optimizer/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/zipai-optimizer/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 4910,
+  "truncated": false
+}

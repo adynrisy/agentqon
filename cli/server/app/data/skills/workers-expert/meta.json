@@ -1,0 +1,11 @@
+{
+  "name": "workers-expert",
+  "display_name": "Workers Expert",
+  "description": "Expert in Cloudflare Workers and the Edge Computing ecosystem. Covers Wrangler, KV, D1, Durable Objects, and R2 storage.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/cloudflare-workers-expert/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/cloudflare-workers-expert/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 4082,
+  "truncated": false
+}

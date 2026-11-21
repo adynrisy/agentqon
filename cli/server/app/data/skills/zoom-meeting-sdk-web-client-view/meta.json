@@ -1,0 +1,11 @@
+{
+  "name": "zoom-meeting-sdk-web-client-view",
+  "display_name": "Zoom Meeting SDK Web Client View",
+  "description": "Zoom Meeting SDK Web - Client View. Full-page Zoom meeting experience with the familiar Zoom interface.\nUses ZoomMtg global singleton with callback-based API. Ideal for quick integration with minimal\ncustomization. Provides the same UI as Zoom Web Client.",
+  "repo": "anthropics/knowledge-work-plugins",
+  "path": "partner-built/zoom-plugin/skills/meeting-sdk/web/client-view/SKILL.md",
+  "url": "https://github.com/anthropics/knowledge-work-plugins/tree/HEAD/partner-built/zoom-plugin/skills/meeting-sdk/web/client-view/SKILL.md",
+  "license": "Apache-2.0",
+  "body_bytes": 16318,
+  "truncated": false
+}

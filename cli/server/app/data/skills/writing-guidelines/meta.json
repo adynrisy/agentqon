@@ -1,0 +1,11 @@
+{
+  "name": "writing-guidelines",
+  "display_name": "Writing Guidelines",
+  "description": "Curated upstream guidance for Writing Guidelines; use when the workflow matches the user goal.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/writing-guidelines/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/writing-guidelines/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 1411,
+  "truncated": false
+}

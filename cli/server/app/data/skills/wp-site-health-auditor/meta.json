@@ -1,0 +1,11 @@
+{
+  "name": "wp-site-health-auditor",
+  "display_name": "Wp Site Health Auditor",
+  "description": "Turns a WordPress Site Health report into a risk-tiered, backup-first fix plan with exact WP-CLI/PHP snippets. Use for site health, recommended improvements, or critical issue reports.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/wp-site-health-auditor/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/wp-site-health-auditor/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 18823,
+  "truncated": false
+}

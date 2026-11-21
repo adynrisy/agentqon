@@ -1,0 +1,11 @@
+{
+  "name": "wiki-query",
+  "display_name": "Wiki Query",
+  "description": "Query the LLM Wiki — reads index.md first, drills into 3-10 relevant pages, synthesizes an answer with inline [[wikilink]] citations, and offers to file the answer back as a new comparison or synthesis page. Usage /wiki-query \"<question>\"",
+  "repo": "alirezarezvani/claude-skills",
+  "path": ".gemini/skills/wiki-query/SKILL.md",
+  "url": "https://github.com/alirezarezvani/claude-skills/tree/HEAD/.gemini/skills/wiki-query/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 2298,
+  "truncated": false
+}

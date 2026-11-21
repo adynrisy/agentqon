@@ -1,0 +1,11 @@
+{
+  "name": "win-loss-review",
+  "display_name": "Win Loss Review",
+  "description": "Analyze recently closed opportunities to find patterns in what wins and what loses - stage of loss, common objections from transcripts, deal characteristics. Leader-focused. Use when the user asks \"win loss review\", \"why are we losing deals\", \"what's working\", or \"analyze closed opps\".",
+  "repo": "anthropics/knowledge-work-plugins",
+  "path": "sales/skills/win-loss-review/SKILL.md",
+  "url": "https://github.com/anthropics/knowledge-work-plugins/tree/HEAD/sales/skills/win-loss-review/SKILL.md",
+  "license": "Apache-2.0",
+  "body_bytes": 6860,
+  "truncated": false
+}

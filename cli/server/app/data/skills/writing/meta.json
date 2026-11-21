@@ -1,0 +1,11 @@
+{
+  "name": "writing",
+  "display_name": "Writing",
+  "description": "Use when creating, updating, or improving agent skills.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/writing-skills/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/writing-skills/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 4071,
+  "truncated": false
+}

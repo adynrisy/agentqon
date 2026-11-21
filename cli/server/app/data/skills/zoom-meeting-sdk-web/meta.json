@@ -1,0 +1,11 @@
+{
+  "name": "zoom-meeting-sdk-web",
+  "display_name": "Zoom Meeting SDK Web",
+  "description": "Zoom Meeting SDK for Web - Embed Zoom meeting capabilities into web applications. Two integration\noptions: Client View (full-page, familiar Zoom UI) and Component View (embeddable, Promise-based API).\nIncludes SharedArrayBuffer setup for HD video, gallery view, and virtual backgrounds.",
+  "repo": "anthropics/knowledge-work-plugins",
+  "path": "partner-built/zoom-plugin/skills/meeting-sdk/web/SKILL.md",
+  "url": "https://github.com/anthropics/knowledge-work-plugins/tree/HEAD/partner-built/zoom-plugin/skills/meeting-sdk/web/SKILL.md",
+  "license": "Apache-2.0",
+  "body_bytes": 34303,
+  "truncated": false
+}

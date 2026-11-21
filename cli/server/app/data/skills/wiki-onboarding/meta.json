@@ -1,0 +1,11 @@
+{
+  "name": "wiki-onboarding",
+  "display_name": "Wiki Onboarding",
+  "description": "Generate two complementary onboarding documents that together give any engineer — from newcomer to principal — a complete understanding of a codebase. Use when user asks for onboarding docs or getting-started guides, user runs /deep-wiki, or user wants to help new team members understand a codebase.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/wiki-onboarding/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/wiki-onboarding/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 4308,
+  "truncated": false
+}

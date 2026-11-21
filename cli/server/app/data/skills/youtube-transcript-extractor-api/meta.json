@@ -1,0 +1,11 @@
+{
+  "name": "youtube-transcript-extractor-api",
+  "display_name": "Youtube Transcript Extractor API",
+  "description": "This skill helps users automatically extract YouTube video transcripts and metadata via the BrowserAct API. The Agent should proactively apply this skill when users express needs like extracting full transcript from a specific YouTube video, getting subtitles and metadata for video content analysis, gathering video titles and likes counts, summarizing YouTube videos without watching them, collecting channel details from a video URL, tracking transcript automation for specific videos, scraping YouTube subtitles for internal knowledge bases, fetching full video content for AI summarization pipelines, downloading structured transcripts from YouTube links, analyzing video text content for media research, monitoring video publisher information and channel links, or building datasets from YouTube video transcripts.",
+  "repo": "browser-act/skills",
+  "path": "solutions/video-platforms/youtube-transcript-extractor-api-skill/SKILL.md",
+  "url": "https://github.com/browser-act/skills/tree/HEAD/solutions/video-platforms/youtube-transcript-extractor-api-skill/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 3967,
+  "truncated": false
+}

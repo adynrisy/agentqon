@@ -1,0 +1,11 @@
+{
+  "name": "zafiro-development",
+  "display_name": "Zafiro Development",
+  "description": "Mandatory skills, conventions, and behavioral rules for Avalonia UI development using the Zafiro toolkit.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/avalonia-zafiro-development/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/avalonia-zafiro-development/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 2044,
+  "truncated": false
+}

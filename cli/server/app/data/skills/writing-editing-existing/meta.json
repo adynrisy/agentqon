@@ -1,0 +1,11 @@
+{
+  "name": "writing-editing-existing",
+  "display_name": "Writing Editing Existing",
+  "description": "Use when creating new skills, editing existing skills, or verifying skills work before deployment",
+  "repo": "obra/superpowers",
+  "path": "skills/writing-skills/SKILL.md",
+  "url": "https://github.com/obra/superpowers/tree/HEAD/skills/writing-skills/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 26482,
+  "truncated": false
+}

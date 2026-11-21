@@ -1,0 +1,11 @@
+{
+  "name": "writing-great",
+  "display_name": "Writing Great",
+  "description": "Reference for writing and editing skills well — the vocabulary and principles that make a skill predictable.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/writing-great-skills/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/writing-great-skills/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 9644,
+  "truncated": false
+}

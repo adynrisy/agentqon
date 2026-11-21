@@ -1,0 +1,11 @@
+{
+  "name": "zoom-video-sdk-macos",
+  "display_name": "Zoom Video SDK macOS",
+  "description": "Zoom Video SDK for macOS native desktop apps. Use when building custom macOS video sessions\nwith native UI control, tokenized join, and desktop-oriented media/device workflows.",
+  "repo": "anthropics/knowledge-work-plugins",
+  "path": "partner-built/zoom-plugin/skills/video-sdk/macos/SKILL.md",
+  "url": "https://github.com/anthropics/knowledge-work-plugins/tree/HEAD/partner-built/zoom-plugin/skills/video-sdk/macos/SKILL.md",
+  "license": "Apache-2.0",
+  "body_bytes": 1011,
+  "truncated": false
+}

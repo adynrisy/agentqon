@@ -1,0 +1,11 @@
+{
+  "name": "workflow-patterns-conductor",
+  "display_name": "Workflow Patterns · Conductor",
+  "description": "Use this skill when implementing tasks according to Conductor's TDD workflow, handling phase checkpoints, managing git commits for tasks, or understanding the verification protocol.",
+  "repo": "wshobson/agents",
+  "path": "plugins/conductor/skills/workflow-patterns/SKILL.md",
+  "url": "https://github.com/wshobson/agents/tree/HEAD/plugins/conductor/skills/workflow-patterns/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 1460,
+  "truncated": false
+}

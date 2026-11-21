@@ -1,0 +1,11 @@
+{
+  "name": "woo-guard",
+  "display_name": "Woo Guard",
+  "description": "Review generated or changed WooCommerce extensions, payment and shipping integrations, checkout customizations, and order or product logic.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/woo-guard/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/woo-guard/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 7950,
+  "truncated": false
+}

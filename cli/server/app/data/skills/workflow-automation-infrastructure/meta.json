@@ -1,0 +1,11 @@
+{
+  "name": "workflow-automation-infrastructure",
+  "display_name": "Workflow Automation · Infrastructure",
+  "description": "Workflow automation is the infrastructure that makes AI agents reliable. Without durable execution, a network hiccup during a 10-step payment flow means lost money and angry customers. With it, workflows resume exactly where they left off.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/workflow-automation/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/workflow-automation/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 4970,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "zarr-python",
+  "display_name": "Zarr Python",
+  "description": "Stores and queries chunked N-D scientific arrays with Zarr-Python 3, including codecs, sharding, S3/GCS storage, and NumPy/Dask/Xarray integration. Use for array layout, bounded I/O, format migration, or scientific metadata preservation.",
+  "repo": "K-Dense-AI/scientific-agent-skills",
+  "path": "skills/zarr-python/SKILL.md",
+  "url": "https://github.com/K-Dense-AI/scientific-agent-skills/tree/HEAD/skills/zarr-python/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 8293,
+  "truncated": false
+}

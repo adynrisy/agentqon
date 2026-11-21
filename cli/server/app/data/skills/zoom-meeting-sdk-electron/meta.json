@@ -1,0 +1,11 @@
+{
+  "name": "zoom-meeting-sdk-electron",
+  "display_name": "Zoom Meeting SDK Electron",
+  "description": "Zoom Meeting SDK for Electron desktop applications. Use when embedding Zoom meetings in an Electron app\nwith the Node addon wrapper, JWT auth, join/start flows, settings controllers, and raw data integration.",
+  "repo": "anthropics/knowledge-work-plugins",
+  "path": "partner-built/zoom-plugin/skills/meeting-sdk/electron/SKILL.md",
+  "url": "https://github.com/anthropics/knowledge-work-plugins/tree/HEAD/partner-built/zoom-plugin/skills/meeting-sdk/electron/SKILL.md",
+  "license": "Apache-2.0",
+  "body_bytes": 2548,
+  "truncated": false
+}

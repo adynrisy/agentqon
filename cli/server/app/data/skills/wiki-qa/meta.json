@@ -1,0 +1,11 @@
+{
+  "name": "wiki-qa",
+  "display_name": "Wiki QA",
+  "description": "Answer repository questions grounded entirely in source code evidence. Use when user asks a question about the codebase, user wants to understand a specific file, function, or component, or user asks \"how does X work\" or \"where is Y defined\".",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/wiki-qa/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/wiki-qa/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 1450,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "workorai-search-jobs",
+  "display_name": "Workorai Search Jobs",
+  "description": "WorkorAI talent-marketplace skill: candidates search jobs and manage applications; employers run the job lifecycle and get ranked candidate matches with white-box fit explanations.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/workorai/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/workorai/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 4732,
+  "truncated": false
+}

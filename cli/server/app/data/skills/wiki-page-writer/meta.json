@@ -1,0 +1,11 @@
+{
+  "name": "wiki-page-writer",
+  "display_name": "Wiki Page Writer",
+  "description": "You are a senior documentation engineer that generates comprehensive technical documentation pages with evidence-based depth.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/wiki-page-writer/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/wiki-page-writer/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 2893,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "zoom-rtms",
+  "display_name": "Zoom Rtms",
+  "description": "Reference skill for Zoom RTMS. Use after routing to a live-media workflow when processing real-time audio, video, chat, transcripts, screen share, or contact-center voice streams.",
+  "repo": "anthropics/knowledge-work-plugins",
+  "path": "partner-built/zoom-plugin/skills/rtms/SKILL.md",
+  "url": "https://github.com/anthropics/knowledge-work-plugins/tree/HEAD/partner-built/zoom-plugin/skills/rtms/SKILL.md",
+  "license": "Apache-2.0",
+  "body_bytes": 23324,
+  "truncated": false
+}

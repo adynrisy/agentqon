@@ -1,0 +1,11 @@
+{
+  "name": "zoom-video-sdk-ios",
+  "display_name": "Zoom Video SDK iOS",
+  "description": "Zoom Video SDK for iOS native apps. Use when building custom iOS video sessions with\nfull UI control, token-based session auth, and event-driven media/participant flows.",
+  "repo": "anthropics/knowledge-work-plugins",
+  "path": "partner-built/zoom-plugin/skills/video-sdk/ios/SKILL.md",
+  "url": "https://github.com/anthropics/knowledge-work-plugins/tree/HEAD/partner-built/zoom-plugin/skills/video-sdk/ios/SKILL.md",
+  "license": "Apache-2.0",
+  "body_bytes": 994,
+  "truncated": false
+}

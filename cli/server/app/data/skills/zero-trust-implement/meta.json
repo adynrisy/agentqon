@@ -1,0 +1,11 @@
+{
+  "name": "zero-trust-implement",
+  "display_name": "Zero Trust · Implement",
+  "description": "Implement zero-trust network architecture. Configure identity-based access, micro-segmentation, and continuous verification. Use when implementing modern security architectures.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/zero-trust/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/zero-trust/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 12208,
+  "truncated": false
+}

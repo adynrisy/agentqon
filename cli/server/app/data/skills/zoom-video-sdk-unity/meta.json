@@ -1,0 +1,11 @@
+{
+  "name": "zoom-video-sdk-unity",
+  "display_name": "Zoom Video SDK Unity",
+  "description": "Zoom Video SDK for Unity wrapper integrations. Use when building custom Unity-based\nvideo session experiences and mapping Unity scene/UI state to Video SDK events.",
+  "repo": "anthropics/knowledge-work-plugins",
+  "path": "partner-built/zoom-plugin/skills/video-sdk/unity/SKILL.md",
+  "url": "https://github.com/anthropics/knowledge-work-plugins/tree/HEAD/partner-built/zoom-plugin/skills/video-sdk/unity/SKILL.md",
+  "license": "Apache-2.0",
+  "body_bytes": 1021,
+  "truncated": false
+}

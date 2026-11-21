@@ -1,0 +1,11 @@
+{
+  "name": "windows-server",
+  "display_name": "Windows Server",
+  "description": "Administer Windows Server systems. Manage IIS, Active Directory, and PowerShell automation. Use when administering Windows infrastructure.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/windows-server/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/windows-server/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 10893,
+  "truncated": false
+}

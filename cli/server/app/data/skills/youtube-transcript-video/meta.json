@@ -1,0 +1,11 @@
+{
+  "name": "youtube-transcript-video",
+  "display_name": "Youtube Transcript · Video",
+  "description": "Fetch YouTube video transcripts, search videos/channels, browse channels, and extract playlists via the getyoutubetranscript.com API - free tier, no card required.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/youtube-transcript-skills/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/youtube-transcript-skills/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 5626,
+  "truncated": false
+}

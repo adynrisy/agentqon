@@ -1,0 +1,11 @@
+{
+  "name": "zoom-mcp-whiteboard",
+  "display_name": "Zoom MCP Whiteboard",
+  "description": "Guidance for the bundled Zoom Whiteboard MCP connector. Use for Whiteboard MCP auth,\nendpoints, ID mapping, and tool workflows such as list_whiteboards and get_a_whiteboard.\nPrefer this skill when the request is specifically about Whiteboard MCP rather than general Zoom MCP.",
+  "repo": "anthropics/knowledge-work-plugins",
+  "path": "partner-built/zoom-plugin/skills/zoom-mcp/whiteboard/SKILL.md",
+  "url": "https://github.com/anthropics/knowledge-work-plugins/tree/HEAD/partner-built/zoom-plugin/skills/zoom-mcp/whiteboard/SKILL.md",
+  "license": "Apache-2.0",
+  "body_bytes": 2709,
+  "truncated": false
+}

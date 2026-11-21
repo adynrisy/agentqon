@@ -1,0 +1,11 @@
+{
+  "name": "zustand-store-ts",
+  "display_name": "Zustand Store TS",
+  "description": "Create Zustand stores following established patterns with proper TypeScript types and middleware.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/zustand-store-ts/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/zustand-store-ts/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 1825,
+  "truncated": false
+}

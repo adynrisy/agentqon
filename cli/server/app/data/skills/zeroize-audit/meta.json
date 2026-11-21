@@ -1,0 +1,11 @@
+{
+  "name": "zeroize-audit",
+  "display_name": "Zeroize Audit",
+  "description": "Detects missing zeroization of sensitive data in source code and identifies zeroization removed by compiler optimizations, with assembly-level analysis, and control-flow verification. Use for auditing C/C++/Rust code handling secrets, keys, passwords, or other sensitive data.",
+  "repo": "trailofbits/skills",
+  "path": "plugins/zeroize-audit/skills/zeroize-audit/SKILL.md",
+  "url": "https://github.com/trailofbits/skills/tree/HEAD/plugins/zeroize-audit/skills/zeroize-audit/SKILL.md",
+  "license": "CC",
+  "body_bytes": 26158,
+  "truncated": false
+}

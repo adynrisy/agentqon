@@ -1,0 +1,11 @@
+{
+  "name": "work-summary",
+  "display_name": "Work Summary",
+  "description": "Go back through the previous year of work and create a Notion doc that groups relevant links into projects that can then be documented as SRED projects.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/sred-work-summary/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/sred-work-summary/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 5974,
+  "truncated": false
+}

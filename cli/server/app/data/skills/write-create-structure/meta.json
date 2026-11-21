@@ -1,0 +1,11 @@
+{
+  "name": "write-create-structure",
+  "display_name": "Write Create Structure",
+  "description": "Create new agent skills with proper structure, progressive disclosure, and bundled resources. Use when user wants to create, write, build, or author a new skill.",
+  "repo": "alirezarezvani/claude-skills",
+  "path": ".gemini/skills/write-a-skill/SKILL.md",
+  "url": "https://github.com/alirezarezvani/claude-skills/tree/HEAD/.gemini/skills/write-a-skill/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 4375,
+  "truncated": false
+}

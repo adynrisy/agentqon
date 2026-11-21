@@ -1,0 +1,11 @@
+{
+  "name": "wiki-researcher",
+  "display_name": "Wiki Researcher",
+  "description": "You are an expert software engineer and systems analyst. Use when user asks \"how does X work\" with expectation of depth, user wants to understand a complex system spanning many files, or user asks for architectural analysis or pattern investigation.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/wiki-researcher/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/wiki-researcher/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 3422,
+  "truncated": false
+}

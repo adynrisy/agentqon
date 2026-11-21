@@ -1,0 +1,11 @@
+{
+  "name": "workflow-automation",
+  "display_name": "Workflow Automation",
+  "description": "Patterns for automating GitHub workflows with AI assistance, inspired by [Gemini CLI](https://github.com/google-gemini/gemini-cli) and modern DevOps practices.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/github-workflow-automation/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/github-workflow-automation/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 1098,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "win11-speckit-update",
+  "display_name": "Win11 Speckit Update",
+  "description": "Review updates to GitHub SpecKit on Windows 11 with PowerShell, preserving local templates and customizations",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/claude-win11-speckit-update-skill/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/claude-win11-speckit-update-skill/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 1514,
+  "truncated": false
+}

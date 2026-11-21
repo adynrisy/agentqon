@@ -1,0 +1,11 @@
+{
+  "name": "wiki-ingest",
+  "display_name": "Wiki Ingest",
+  "description": "Ingest a source file from raw/ into the LLM Wiki — read, discuss, write summary page, update cross-references across 5-15 pages, regenerate index, append to log. Usage /wiki-ingest <path-to-source>",
+  "repo": "alirezarezvani/claude-skills",
+  "path": ".gemini/skills/wiki-ingest/SKILL.md",
+  "url": "https://github.com/alirezarezvani/claude-skills/tree/HEAD/.gemini/skills/wiki-ingest/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 2295,
+  "truncated": false
+}
