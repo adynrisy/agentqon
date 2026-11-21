@@ -1,0 +1,11 @@
+{
+  "name": "identity-access-management",
+  "display_name": "Identity Access Management",
+  "description": "Set up and manage SSO, SCIM provisioning, and MFA for startup teams using Google Workspace, Okta, or Azure AD.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/identity-access-management/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/identity-access-management/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 11023,
+  "truncated": false
+}

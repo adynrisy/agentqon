@@ -1,0 +1,11 @@
+{
+  "name": "langchain-architecture",
+  "display_name": "Langchain Architecture",
+  "description": "Master the LangChain framework for building sophisticated LLM applications with agents, chains, memory, and tool integration.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/langchain-architecture/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/langchain-architecture/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 11639,
+  "truncated": false
+}

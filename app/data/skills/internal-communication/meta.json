@@ -1,0 +1,11 @@
+{
+  "name": "internal-communication",
+  "display_name": "Internal Communication",
+  "description": "Internal communication log: title, type, date, department, host and attendees, agenda, action items, follow-up date, meeting link and delivery status. Use for internal comms tracking.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/internal-communication/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/internal-communication/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 13063,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "k8s-security-policies",
+  "display_name": "K8s Security Policies",
+  "description": "Comprehensive guide for implementing NetworkPolicy, PodSecurityPolicy, RBAC, and Pod Security Standards in Kubernetes.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/k8s-security-policies/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/k8s-security-policies/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 8526,
+  "truncated": false
+}

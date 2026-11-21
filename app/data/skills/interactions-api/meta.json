@@ -1,0 +1,11 @@
+{
+  "name": "interactions-api",
+  "display_name": "Interactions API",
+  "description": "Build with the Gemini Interactions API for text, chat, multimodal generation, streaming, managed or background agents, function calling, structured output, and generateContent migrations.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/gemini-interactions-api/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/gemini-interactions-api/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 18741,
+  "truncated": false
+}

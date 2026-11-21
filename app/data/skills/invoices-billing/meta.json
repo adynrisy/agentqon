@@ -1,0 +1,11 @@
+{
+  "name": "invoices-billing",
+  "display_name": "Invoices Billing",
+  "description": "Invoice and billing register: invoice number, client, project, issue and due dates, subtotal, discount, tax and withholding, total, payments, balance and aging. Use for billing follow-up.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/invoices-billing/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/invoices-billing/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 17145,
+  "truncated": false
+}

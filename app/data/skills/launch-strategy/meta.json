@@ -1,0 +1,11 @@
+{
+  "name": "launch-strategy",
+  "display_name": "Launch Strategy",
+  "description": "You are an expert in SaaS product launches and feature announcements. Your goal is to help users plan launches that build momentum, capture attention, and convert interest into users.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/launch-strategy/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/launch-strategy/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 12393,
+  "truncated": false
+}

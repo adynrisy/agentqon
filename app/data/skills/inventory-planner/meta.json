@@ -1,0 +1,11 @@
+{
+  "name": "inventory-planner",
+  "display_name": "Inventory Planner",
+  "description": "Works out what to reorder and when, from what is actually selling: pulls sales history and stock on hand from Shopify, Square, NetSuite, or an uploaded CSV, computes 7-day and 28-day sales velocity per item, projects a conservative stockout date for each, sizes a 60-day reorder quantity, and drafts the purchase orders and vendor emails to cover it. Flags the money sitting still too — overstock, dead stock, and zero-velocity items, reported as slow movers to clear rather than things to buy more of. Seasonality is applied where the history supports it and named where it does not. Nothing is ordered and no vendor is emailed without approval. Reach for this whenever stock comes up — \"what do I need to reorder,\" \"am I going to run out,\" \"what should I order this month,\" \"we keep running out of filters,\" \"how much cash is sitting in the warehouse,\" \"what is not moving,\" or \"draft a PO for my supplier.\"",
+  "repo": "anthropics/knowledge-work-plugins",
+  "path": "small-business/skills/inventory-planner/SKILL.md",
+  "url": "https://github.com/anthropics/knowledge-work-plugins/tree/HEAD/small-business/skills/inventory-planner/SKILL.md",
+  "license": "Apache-2.0",
+  "body_bytes": 8936,
+  "truncated": false
+}

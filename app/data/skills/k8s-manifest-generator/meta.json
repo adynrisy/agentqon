@@ -1,0 +1,11 @@
+{
+  "name": "k8s-manifest-generator",
+  "display_name": "K8s Manifest Generator",
+  "description": "Step-by-step guidance for creating production-ready Kubernetes manifests including Deployments, Services, ConfigMaps, Secrets, and PersistentVolumeClaims.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/k8s-manifest-generator/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/k8s-manifest-generator/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 1463,
+  "truncated": false
+}

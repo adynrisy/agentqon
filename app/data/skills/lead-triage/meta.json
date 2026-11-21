@@ -1,0 +1,11 @@
+{
+  "name": "lead-triage",
+  "display_name": "Lead Triage",
+  "description": "Score and route an inbound lead, or rank a backlog of leads, against your ICP and qualification framework, then recommend a priority and next action. Use when the user asks \"triage this lead\", \"triage my leads\", \"rank my lead backlog\", \"is [company] a good lead\", \"qualify [lead]\", or pastes or uploads lead info.",
+  "repo": "anthropics/knowledge-work-plugins",
+  "path": "sales/skills/lead-triage/SKILL.md",
+  "url": "https://github.com/anthropics/knowledge-work-plugins/tree/HEAD/sales/skills/lead-triage/SKILL.md",
+  "license": "Apache-2.0",
+  "body_bytes": 7997,
+  "truncated": false
+}

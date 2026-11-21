@@ -1,0 +1,11 @@
+{
+  "name": "kaizen-guide-error",
+  "display_name": "Kaizen Guide Error",
+  "description": "Guide for continuous improvement, error proofing, and standardization. Use this skill when the user wants to improve code quality, refactor, or discuss process improvements.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/kaizen/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/kaizen/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 976,
+  "truncated": false
+}

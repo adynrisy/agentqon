@@ -1,0 +1,11 @@
+{
+  "name": "lintlang-audit",
+  "display_name": "Lintlang Audit",
+  "description": "Audit named agent instructions, tool definitions, and supported Python prompts with local LintLang checks; return finding codes and locations without changing files.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/lintlang-audit/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/lintlang-audit/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 4409,
+  "truncated": false
+}

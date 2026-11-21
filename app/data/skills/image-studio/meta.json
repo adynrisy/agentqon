@@ -1,0 +1,11 @@
+{
+  "name": "image-studio",
+  "display_name": "Image Studio",
+  "description": "Studio de geracao de imagens inteligente — roteamento automatico entre ai-studio-image (fotos humanizadas/influencer) e stability-ai (arte/ ilustracao/edicao). Detecta o tipo de imagem solicitada e escolhe o modelo ideal automaticamente.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/image-studio/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/image-studio/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 9021,
+  "truncated": false
+}

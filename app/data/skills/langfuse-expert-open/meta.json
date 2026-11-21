@@ -1,0 +1,11 @@
+{
+  "name": "langfuse-expert-open",
+  "display_name": "Langfuse Expert Open",
+  "description": "Expert in Langfuse - the open-source LLM observability platform. Covers tracing, prompt management, evaluation, datasets, and integration with LangChain, LlamaIndex, and OpenAI. Essential for debugging, monitoring, and improving LLM applications in production.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/langfuse/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/langfuse/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 5408,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "internal-comms-compatibility",
+  "display_name": "Internal Comms · Compatibility",
+  "description": "Compatibility alias for internal-comms: draft status updates, newsletters and FAQs from approved sources.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/internal-comms-anthropic/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/internal-comms-anthropic/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 2593,
+  "truncated": false
+}

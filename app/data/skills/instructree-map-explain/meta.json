@@ -1,0 +1,11 @@
+{
+  "name": "instructree-map-explain",
+  "display_name": "Instructree Map Explain",
+  "description": "Map, explain, and lint repository-scoped coding-agent instructions before changing code.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/instructree/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/instructree/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 3386,
+  "truncated": false
+}

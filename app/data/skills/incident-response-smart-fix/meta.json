@@ -1,0 +1,11 @@
+{
+  "name": "incident-response-smart-fix",
+  "display_name": "Incident Response Smart Fix",
+  "description": "Investigate production issues, reproduce root causes, implement scoped fixes, and verify recovery using tests and observability.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/incident-response-smart-fix/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/incident-response-smart-fix/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 3378,
+  "truncated": false
+}

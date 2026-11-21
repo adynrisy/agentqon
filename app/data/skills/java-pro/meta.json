@@ -1,0 +1,11 @@
+{
+  "name": "java-pro",
+  "display_name": "Java Pro",
+  "description": "Master Java 21+ with modern features like virtual threads, pattern matching, and Spring Boot 3.x. Expert in the latest Java ecosystem including GraalVM, Project Loom, and cloud-native patterns.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/java-pro/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/java-pro/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 8159,
+  "truncated": false
+}

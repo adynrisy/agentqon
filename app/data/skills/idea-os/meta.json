@@ -1,0 +1,11 @@
+{
+  "name": "idea-os",
+  "display_name": "Idea OS",
+  "description": "Five-phase pipeline (triage → clarify → research → PRD → plan) that turns a raw idea into four linked files: clarifying questions, deep research, a PRD with non-goals and metrics, and a phased execution plan with mermaid user journey and kill criteria.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/idea-os/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/idea-os/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 5251,
+  "truncated": false
+}

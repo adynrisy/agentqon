@@ -1,0 +1,11 @@
+{
+  "name": "kustomize-kubernetes",
+  "display_name": "Kustomize Kubernetes",
+  "description": "Customize Kubernetes manifests without templating using Kustomize.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/kustomize/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/kustomize/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 8602,
+  "truncated": false
+}

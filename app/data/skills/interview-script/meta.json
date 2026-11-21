@@ -1,0 +1,11 @@
+{
+  "name": "interview-script",
+  "display_name": "Interview Script",
+  "description": "Create a structured customer interview script with JTBD probing questions, warm-up, core exploration, and wrap-up sections. Follows The Mom Test principles — no leading questions, no pitching, focus on past behavior. Use when preparing for user interviews, creating interview guides, or planning discovery research.",
+  "repo": "phuryn/pm-skills",
+  "path": "pm-product-discovery/skills/interview-script/SKILL.md",
+  "url": "https://github.com/phuryn/pm-skills/tree/HEAD/pm-product-discovery/skills/interview-script/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 4452,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "linktree-link-hub",
+  "display_name": "Linktree Link Hub",
+  "description": "Link-in-bio register: label, destination URL, link type, priority order, audience, click tracking, UTM source, schedule, click count and status. Use for link hub tracking.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/linktree-link-hub/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/linktree-link-hub/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 22000,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "knowledge-base",
+  "display_name": "Knowledge Base",
+  "description": "Knowledge base register: article title, category, department, owner, tags, summary, linked SOP, audience, last and next review dates and status. Use for documentation management.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/knowledge-base/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/knowledge-base/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 12922,
+  "truncated": false
+}

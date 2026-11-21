@@ -1,0 +1,11 @@
+{
+  "name": "ledger-contract-auto",
+  "display_name": "Ledger Contract Auto",
+  "description": "Companion to atlas-contract. Auto-invoked by its Final Audit on caught drift; also use after Post Reviews or user requests to record a mistake. Distills drift into WHEN/DON'T/INSTEAD clauses, writes to Atlas.md after confirmation.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "skills/atlas-ledger/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/skills/atlas-ledger/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 15295,
+  "truncated": false
+}

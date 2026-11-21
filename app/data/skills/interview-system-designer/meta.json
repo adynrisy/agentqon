@@ -1,0 +1,11 @@
+{
+  "name": "interview-system-designer",
+  "display_name": "Interview System Designer",
+  "description": "This skill should be used when the user asks to \"design interview processes\", \"create hiring pipelines\", \"calibrate interview loops\", \"generate interview questions\", \"design competency matrices\", \"analyze interviewer bias\", \"create scoring rubrics\", \"build question banks\", or \"optimize hiring systems\". Use for designing role-specific interview loops, competency assessments, and hiring calibration systems.",
+  "repo": "alirezarezvani/claude-skills",
+  "path": ".gemini/skills/interview-system-designer/SKILL.md",
+  "url": "https://github.com/alirezarezvani/claude-skills/tree/HEAD/.gemini/skills/interview-system-designer/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 1805,
+  "truncated": false
+}

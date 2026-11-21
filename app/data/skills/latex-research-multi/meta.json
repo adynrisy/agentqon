@@ -1,0 +1,11 @@
+{
+  "name": "latex-research-multi",
+  "display_name": "Latex Research Multi",
+  "description": "Creates research posters in LaTeX using beamerposter, tikzposter, or baposter. Use for conference posters, academic presentations, multi-column scientific layouts, figure integration, typography, compilation, and PDF preflight.",
+  "repo": "K-Dense-AI/scientific-agent-skills",
+  "path": "skills/latex-posters/SKILL.md",
+  "url": "https://github.com/K-Dense-AI/scientific-agent-skills/tree/HEAD/skills/latex-posters/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 9784,
+  "truncated": false
+}

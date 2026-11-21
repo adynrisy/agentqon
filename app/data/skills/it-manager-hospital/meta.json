@@ -1,0 +1,11 @@
+{
+  "name": "it-manager-hospital",
+  "display_name": "It Manager Hospital",
+  "description": "World-class Hospital IT Management Advisor specializing in clinical safety, digital maturity (HIMSS/ONA/JCI), and HIS/PEP ecosystems.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/it-manager-hospital/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/it-manager-hospital/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 5371,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "lab-hardware-cad",
+  "display_name": "Lab Hardware Cad",
+  "description": "Designs custom laboratory hardware as parametric build123d models and exports fabrication artifacts as STEP, STL, and DXF files - microfluidic chips and molds, optomechanical mounts and breadboard adapters, cuvette and microplate holders, tube racks, animal-behavior rigs, and 3D-printed instrument fixtures. Use when a research task needs a physical part that must mate with standardized labware, an optical table, a cage system, or a printer, CNC, or laser process.",
+  "repo": "K-Dense-AI/scientific-agent-skills",
+  "path": "skills/lab-hardware-cad/SKILL.md",
+  "url": "https://github.com/K-Dense-AI/scientific-agent-skills/tree/HEAD/skills/lab-hardware-cad/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 21845,
+  "truncated": false
+}

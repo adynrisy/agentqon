@@ -1,0 +1,11 @@
+{
+  "name": "julia-pro",
+  "display_name": "Julia Pro",
+  "description": "Master Julia 1.10+ with modern features, performance optimization, multiple dispatch, and production-ready practices.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/julia-pro/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/julia-pro/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 8607,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "improve-file",
+  "display_name": "Improve File",
+  "description": "improve a CLAUDE.md file using <important if> blocks to improve instruction adherence",
+  "repo": "humanlayer/skills",
+  "path": "plugins/improve-claude-md/skills/improve-claude-md/SKILL.md",
+  "url": "https://github.com/humanlayer/skills/tree/HEAD/plugins/improve-claude-md/skills/improve-claude-md/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 9318,
+  "truncated": false
+}

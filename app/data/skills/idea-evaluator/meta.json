@@ -1,0 +1,11 @@
+{
+  "name": "idea-evaluator",
+  "display_name": "Idea Evaluator",
+  "description": "Evaluates an idea by hosting a multi-turn debate between a Pro and Con agent, delivering a final verdict on whether it's worth pursuing.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/idea-evaluator/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/idea-evaluator/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 3352,
+  "truncated": false
+}

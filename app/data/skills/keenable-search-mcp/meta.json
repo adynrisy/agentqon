@@ -1,0 +1,11 @@
+{
+  "name": "keenable-search-mcp",
+  "display_name": "Keenable Search MCP",
+  "description": "Search the public web with site and date filters, and read pages with an extraction prompt, through Keenable's keyless MCP server. Use when the user chooses Keenable or its connected tools.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/keenable-search-mcp/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/keenable-search-mcp/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 6599,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "identity-federation",
+  "display_name": "Identity Federation",
+  "description": "Authorized assessment of federated identity systems: SAML, OIDC, OAuth2 flows, SSO misconfiguration, and token-confusion issues.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/identity-federation/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/identity-federation/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 2391,
+  "truncated": false
+}

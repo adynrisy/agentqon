@@ -1,0 +1,11 @@
+{
+  "name": "issue-creator",
+  "display_name": "Issue Creator",
+  "description": "Turn error logs, screenshots, voice notes, and rough bug reports into crisp, developer-ready GitHub issues with repro steps, impact, and evidence.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/github-issue-creator/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/github-issue-creator/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 4323,
+  "truncated": false
+}

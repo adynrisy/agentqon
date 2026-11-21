@@ -1,0 +1,11 @@
+{
+  "name": "improve-business",
+  "display_name": "Improve Business",
+  "description": "Guided journey from a stalled, plateaued business to one with an honest diagnosis, a working operating rhythm, and offers repriced to real value. Orchestrates eight skills phase by phase - good-strategy-bad-strategy, traction-eos, high-output-management, team-topologies, drive-motivation, lean-analytics, negotiation, monetizing-innovation - asking the user questions at every decision point and recording results in the project docs/ folder (STRATEGY.md, OPERATIONS.md, METRICS.md, IMPROVE-BUSINESS-PLAN.md) so the journey resumes across sessions. Use when the user wants to fix a business that has plateaued, diagnose why growth stalled, tighten strategy and execution, re-motivate a team, or says 'revenue is flat and I do not know why'. Starting from scratch with no customers: use create-business. Once the fundamentals work and the goal is expansion: use grow-business. When the product itself drags the business down: use improve-app. For one framework in isolation, invoke that skill directly.",
+  "repo": "wondelai/skills",
+  "path": "improve-business/SKILL.md",
+  "url": "https://github.com/wondelai/skills/tree/HEAD/improve-business/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 20950,
+  "truncated": false
+}

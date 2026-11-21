@@ -1,0 +1,11 @@
+{
+  "name": "image-gen",
+  "display_name": "Image Gen",
+  "description": "AI image generation with OpenAI GPT Image 2.5, Azure OpenAI, Google, OpenRouter, DashScope, Z.AI GLM-Image, MiniMax, Jimeng, Seedream, Replicate and Agnes APIs. Supports text-to-image, reference images, aspect ratios, and batch generation from saved prompt files. Sequential by default; use batch parallel generation when the user already has multiple prompts or wants stable multi-image throughput. Use when user asks to generate, create, or draw images.",
+  "repo": "JimLiu/baoyu-skills",
+  "path": "skills/baoyu-image-gen/SKILL.md",
+  "url": "https://github.com/JimLiu/baoyu-skills/tree/HEAD/skills/baoyu-image-gen/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 20721,
+  "truncated": false
+}

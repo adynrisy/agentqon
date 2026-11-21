@@ -1,0 +1,11 @@
+{
+  "name": "launch-cli-auth",
+  "display_name": "Launch CLI Auth",
+  "description": "Launch OpenAI Codex CLI as a subagent (ChatGPT subscription auth, no API key). Use when delegating a self-contained coding task to Codex from another agent — parallel implementation work, a second opinion, or an independent verification pass.",
+  "repo": "davidondrej/skills",
+  "path": "skills/agent-orchestration/codex-subagent/SKILL.md",
+  "url": "https://github.com/davidondrej/skills/tree/HEAD/skills/agent-orchestration/codex-subagent/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 3870,
+  "truncated": false
+}

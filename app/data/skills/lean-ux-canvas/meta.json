@@ -1,0 +1,11 @@
+{
+  "name": "lean-ux-canvas",
+  "display_name": "Lean UX Canvas",
+  "description": "Guide teams through Lean UX Canvas v2. Use when framing a business problem, surfacing assumptions, and defining what to learn next.",
+  "repo": "deanpeters/Product-Manager-Skills",
+  "path": "skills/lean-ux-canvas/SKILL.md",
+  "url": "https://github.com/deanpeters/Product-Manager-Skills/tree/HEAD/skills/lean-ux-canvas/SKILL.md",
+  "license": "CC",
+  "body_bytes": 25110,
+  "truncated": false
+}

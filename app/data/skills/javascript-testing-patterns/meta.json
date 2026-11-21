@@ -1,0 +1,11 @@
+{
+  "name": "javascript-testing-patterns",
+  "display_name": "Javascript Testing Patterns",
+  "description": "Comprehensive guide for implementing robust testing strategies in JavaScript/TypeScript applications using modern testing frameworks and best practices.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/javascript-testing-patterns/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/javascript-testing-patterns/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 1398,
+  "truncated": false
+}

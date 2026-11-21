@@ -1,0 +1,11 @@
+{
+  "name": "learn-user-planning",
+  "display_name": "Learn User Planning",
+  "description": "Help a user learn a topic through adaptive tutoring, lesson planning, practice, retrieval checks, explanations, study guides, or exercises. Use when the user asks to learn, understand, practice, drill, review, study, or be tutored on something.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/learn/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/learn/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 5934,
+  "truncated": false
+}

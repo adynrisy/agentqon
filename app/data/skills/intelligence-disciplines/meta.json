@@ -1,0 +1,11 @@
+{
+  "name": "intelligence-disciplines",
+  "display_name": "Intelligence Disciplines",
+  "description": "Run competitive research like an intelligence agency: eight collection disciplines (OSINT to MASINT), signal-to-inference chains, and fusion. Use when one-source research isn't enough.",
+  "repo": "deanpeters/Product-Manager-Skills",
+  "path": "skills/intelligence-collection-disciplines/SKILL.md",
+  "url": "https://github.com/deanpeters/Product-Manager-Skills/tree/HEAD/skills/intelligence-collection-disciplines/SKILL.md",
+  "license": "CC",
+  "body_bytes": 25299,
+  "truncated": false
+}

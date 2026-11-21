@@ -1,0 +1,11 @@
+{
+  "name": "implement-monitoring",
+  "display_name": "Implement Monitoring",
+  "description": "Implement Datadog monitoring and APM for infrastructure and applications.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/datadog/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/datadog/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 10111,
+  "truncated": false
+}

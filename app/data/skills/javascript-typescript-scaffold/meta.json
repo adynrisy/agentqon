@@ -1,0 +1,11 @@
+{
+  "name": "javascript-typescript-scaffold",
+  "display_name": "Javascript Typescript Scaffold",
+  "description": "Scaffold TypeScript projects with build tooling, type checking, testing, and configuration.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/javascript-typescript-typescript-scaffold/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/javascript-typescript-typescript-scaffold/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 8732,
+  "truncated": false
+}

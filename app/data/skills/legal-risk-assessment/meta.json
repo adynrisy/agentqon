@@ -1,0 +1,11 @@
+{
+  "name": "legal-risk-assessment",
+  "display_name": "Legal Risk Assessment",
+  "description": "Assess and classify legal risks using a severity-by-likelihood framework with escalation criteria. Use when evaluating contract risk, assessing deal exposure, classifying issues by severity, or determining whether a matter needs senior counsel or outside legal review.",
+  "repo": "anthropics/knowledge-work-plugins",
+  "path": "legal/skills/legal-risk-assessment/SKILL.md",
+  "url": "https://github.com/anthropics/knowledge-work-plugins/tree/HEAD/legal/skills/legal-risk-assessment/SKILL.md",
+  "license": "Apache-2.0",
+  "body_bytes": 12262,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "issues-create-view",
+  "display_name": "Issues Create View",
+  "description": "Interact with GitHub issues - create, list, and view issues.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/issues/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/issues/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 7642,
+  "truncated": false
+}

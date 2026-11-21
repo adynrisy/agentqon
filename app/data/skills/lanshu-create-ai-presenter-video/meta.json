@@ -1,0 +1,11 @@
+{
+  "name": "lanshu-create-ai-presenter-video",
+  "display_name": "Lanshu Create AI Presenter Video",
+  "description": "Turn a topic or script into a publish-ready explainer video, led by an AI presenter or performed in one of twelve styled explainer looks.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/lanshu-create-ai-presenter-video/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/lanshu-create-ai-presenter-video/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 4016,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "javascript-pro-debugs",
+  "display_name": "Javascript Pro · Debugs",
+  "description": "Writes, debugs, and refactors JavaScript code using modern ES2023+ features, async/await patterns, ESM module systems, and Node.js APIs. Use when building vanilla JavaScript applications, implementing Promise-based async flows, optimising browser or Node.js performance, working with Web Workers or Fetch API, or reviewing .js/.mjs/.cjs files for correctness and best practices.",
+  "repo": "Jeffallan/claude-skills",
+  "path": "skills/javascript-pro/SKILL.md",
+  "url": "https://github.com/Jeffallan/claude-skills/tree/HEAD/skills/javascript-pro/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 4209,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "lex-engine-cross",
+  "display_name": "Lex Engine Cross",
+  "description": "Centralized 'Truth Engine' for cross-jurisdictional legal context (US, EU, CA) and contract scaffolding.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/lex/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/lex/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 3165,
+  "truncated": false
+}

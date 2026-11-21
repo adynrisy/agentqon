@@ -1,0 +1,11 @@
+{
+  "name": "inventory-demand-planning",
+  "display_name": "Inventory Demand Planning",
+  "description": "Codified expertise for demand forecasting, safety stock optimisation, replenishment planning, and promotional lift estimation at multi-location retailers.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/inventory-demand-planning/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/inventory-demand-planning/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 25937,
+  "truncated": false
+}

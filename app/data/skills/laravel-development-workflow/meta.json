@@ -1,0 +1,11 @@
+{
+  "name": "laravel-development-workflow",
+  "display_name": "Laravel Development Workflow",
+  "description": "Build and fix existing Laravel applications through root-cause diagnosis, repository-native implementation, regression coverage, and risk-based verification.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/laravel-development-workflow/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/laravel-development-workflow/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 5204,
+  "truncated": false
+}

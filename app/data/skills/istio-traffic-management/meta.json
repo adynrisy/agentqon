@@ -1,0 +1,11 @@
+{
+  "name": "istio-traffic-management",
+  "display_name": "Istio Traffic Management",
+  "description": "Comprehensive guide to Istio traffic management for production service mesh deployments.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/istio-traffic-management/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/istio-traffic-management/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 7374,
+  "truncated": false
+}

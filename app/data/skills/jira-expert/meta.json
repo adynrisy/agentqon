@@ -1,0 +1,11 @@
+{
+  "name": "jira-expert",
+  "display_name": "Jira Expert",
+  "description": "Atlassian Jira expert for creating and managing projects, planning, product discovery, JQL queries, workflows, custom fields, automation, reporting, and all Jira features. Use when setting up or configuring Jira projects, writing JQL and advanced searches, creating dashboards, designing workflows, or performing technical Jira operations.",
+  "repo": "alirezarezvani/claude-skills",
+  "path": ".gemini/skills/jira-expert/SKILL.md",
+  "url": "https://github.com/alirezarezvani/claude-skills/tree/HEAD/.gemini/skills/jira-expert/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 12281,
+  "truncated": false
+}

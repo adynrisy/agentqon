@@ -1,0 +1,11 @@
+{
+  "name": "invokely-statistics",
+  "display_name": "Invokely Statistics",
+  "description": "Use Invokely MCP to find official statistics, retrieve values and series, compare or rank places, and report each figure with its period, unit, and source citation.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/invokely-statistics/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/invokely-statistics/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 7900,
+  "truncated": false
+}

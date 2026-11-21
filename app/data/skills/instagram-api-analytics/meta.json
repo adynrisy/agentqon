@@ -1,0 +1,11 @@
+{
+  "name": "instagram-api-analytics",
+  "display_name": "Instagram API Analytics",
+  "description": "Integracao completa com Instagram via Graph API. Publicacao, analytics, comentarios, DMs, hashtags, agendamento, templates e gestao de contas Business/Creator.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/instagram/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/instagram/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 13596,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "industrial-ui",
+  "display_name": "Industrial UI",
+  "description": "Use when creating raw industrial or tactical telemetry UIs with rigid grids, stark typography, CRT effects, and high-density data.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/industrial-brutalist-ui/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/industrial-brutalist-ui/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 9096,
+  "truncated": false
+}

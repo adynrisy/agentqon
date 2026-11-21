@@ -1,0 +1,11 @@
+{
+  "name": "installer-de-orchestrator",
+  "display_name": "Installer De Orchestrator",
+  "description": "Instala, valida, registra e verifica novas skills no ecossistema. 10 checks de seguranca, copia, registro no orchestrator e verificacao pos-instalacao.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/skill-installer/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/skill-installer/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 10947,
+  "truncated": false
+}

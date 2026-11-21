@@ -1,0 +1,11 @@
+{
+  "name": "lint-ai-code",
+  "display_name": "Lint AI Code",
+  "description": "AI code reviewer grounded in classic software engineering books for catching design smells, coupling issues, and architectural risks.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/brooks-lint/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/brooks-lint/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 5821,
+  "truncated": false
+}

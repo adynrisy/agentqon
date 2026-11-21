@@ -1,0 +1,11 @@
+{
+  "name": "laravel-specialist",
+  "display_name": "Laravel Specialist",
+  "description": "Build and configure Laravel 10+ applications, including creating Eloquent models and relationships, implementing Sanctum authentication, configuring Horizon queues, designing RESTful APIs with API resources, and building reactive interfaces with Livewire. Use when creating Laravel models, setting up queue workers, implementing Sanctum auth flows, building Livewire components, optimising Eloquent queries, or writing Pest/PHPUnit tests for Laravel features.",
+  "repo": "Jeffallan/claude-skills",
+  "path": "skills/laravel-specialist/SKILL.md",
+  "url": "https://github.com/Jeffallan/claude-skills/tree/HEAD/skills/laravel-specialist/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 7582,
+  "truncated": false
+}

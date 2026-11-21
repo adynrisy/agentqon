@@ -1,0 +1,11 @@
+{
+  "name": "interaction-design",
+  "display_name": "Interaction Design",
+  "description": "Design and implement microinteractions, motion design, transitions, and user feedback patterns. Use when adding polish to UI interactions, implementing loading states, or creating delightful user experiences.",
+  "repo": "wshobson/agents",
+  "path": "plugins/ui-design/skills/interaction-design/SKILL.md",
+  "url": "https://github.com/wshobson/agents/tree/HEAD/plugins/ui-design/skills/interaction-design/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 7316,
+  "truncated": false
+}

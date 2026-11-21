@@ -1,0 +1,11 @@
+{
+  "name": "impress-creation-conversion",
+  "display_name": "Impress Creation Conversion",
+  "description": "Presentation creation, format conversion (ODP/PPTX/PDF), slide automation with LibreOffice Impress.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/libreoffice/impress/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/libreoffice/impress/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 4324,
+  "truncated": false
+}

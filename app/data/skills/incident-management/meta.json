@@ -1,0 +1,11 @@
+{
+  "name": "incident-management",
+  "display_name": "Incident Management",
+  "description": "Implement incident management processes and escalation procedures. Configure on-call schedules and post-incident reviews. Use when managing production incidents.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/incident-management/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/incident-management/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 17167,
+  "truncated": false
+}

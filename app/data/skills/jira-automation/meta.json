@@ -1,0 +1,11 @@
+{
+  "name": "jira-automation",
+  "display_name": "Jira Automation",
+  "description": "Automate Jira tasks via Rube MCP (Composio): issues, projects, sprints, boards, comments, users. Always search tools first for current schemas.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/jira-automation/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/jira-automation/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 6996,
+  "truncated": false
+}

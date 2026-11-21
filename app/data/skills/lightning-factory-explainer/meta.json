@@ -1,0 +1,11 @@
+{
+  "name": "lightning-factory-explainer",
+  "display_name": "Lightning Factory Explainer",
+  "description": "Explain Bitcoin Lightning channel factories and the SuperScalar protocol — scalable Lightning onboarding using shared UTXOs, Decker-Wattenhofer trees, timeout-signature trees, MuSig2, and Taproot. No soft fork required.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/lightning-factory-explainer/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/lightning-factory-explainer/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 2949,
+  "truncated": false
+}

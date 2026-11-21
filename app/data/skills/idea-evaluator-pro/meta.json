@@ -1,0 +1,11 @@
+{
+  "name": "idea-evaluator-pro",
+  "display_name": "Idea Evaluator Pro",
+  "description": "The Pro Agent persona for idea evaluation. Logically supports an idea, arguing for its market fit, feasibility, and potential.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/idea-evaluator/idea-evaluator-pro/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/idea-evaluator/idea-evaluator-pro/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 3086,
+  "truncated": false
+}

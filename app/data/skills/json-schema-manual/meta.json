@@ -1,0 +1,11 @@
+{
+  "name": "json-schema-manual",
+  "display_name": "JSON Schema Manual",
+  "description": "JSON Schema Manual: draft 2020-12 validation schema from a confirmed field list, with required and enum values only where confirmed. Use for an API or import contract.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/json-schema-manual/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/json-schema-manual/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 11041,
+  "truncated": false
+}

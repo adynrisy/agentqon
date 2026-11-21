@@ -1,0 +1,11 @@
+{
+  "name": "ingest-youtube",
+  "display_name": "Ingest Youtube",
+  "description": "Pull a YouTube video transcript into a queryable markdown vault with yt-dlp subtitle discovery, VTT cleanup, metadata frontmatter, and capture-seed stubs.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/ingest-youtube/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/ingest-youtube/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 5589,
+  "truncated": false
+}

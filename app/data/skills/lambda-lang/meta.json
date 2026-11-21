@@ -1,0 +1,11 @@
+{
+  "name": "lambda-lang",
+  "display_name": "Lambda Lang",
+  "description": "Native agent-to-agent language for compact multi-agent messaging. A shared tongue agents speak directly, not a translation layer. 340+ atoms across 7 domains; 3x smaller than natural language.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/lambda-lang/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/lambda-lang/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 4396,
+  "truncated": false
+}

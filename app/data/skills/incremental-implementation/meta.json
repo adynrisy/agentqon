@@ -1,0 +1,11 @@
+{
+  "name": "incremental-implementation",
+  "display_name": "Incremental Implementation",
+  "description": "Delivers changes incrementally. Use when implementing any feature or change that touches more than one file. Use when you're about to write a large amount of code at once, or when a task feels too big to land in one step.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/incremental-implementation/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/incremental-implementation/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 10223,
+  "truncated": false
+}

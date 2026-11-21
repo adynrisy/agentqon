@@ -1,0 +1,11 @@
+{
+  "name": "karpathy-coder",
+  "display_name": "Karpathy Coder",
+  "description": "Use when writing, reviewing, or committing code to enforce Karpathy's 4 coding principles — surface assumptions before coding, keep it simple, make surgical changes, define verifiable goals. Triggers on \"review my diff\", \"check complexity\", \"am I overcomplicating this\", \"karpathy check\", \"before I commit\", or any code quality concern where the LLM might be overcoding.",
+  "repo": "alirezarezvani/claude-skills",
+  "path": ".gemini/skills/karpathy-coder/SKILL.md",
+  "url": "https://github.com/alirezarezvani/claude-skills/tree/HEAD/.gemini/skills/karpathy-coder/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 5079,
+  "truncated": false
+}

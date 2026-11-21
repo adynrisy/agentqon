@@ -1,0 +1,11 @@
+{
+  "name": "ledger-tasks",
+  "display_name": "Ledger Tasks",
+  "description": "Use YYLO Ledger task management: create, list, search, get, mark, update, archive, deps, ready, order and merge with dependencies.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/ledger-tasks-yylo/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/ledger-tasks-yylo/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 10714,
+  "truncated": false
+}

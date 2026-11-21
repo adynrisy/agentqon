@@ -1,0 +1,11 @@
+{
+  "name": "idea-refine",
+  "display_name": "Idea Refine",
+  "description": "Refines raw ideas into sharp, actionable concepts through structured divergent and convergent thinking. Use when an idea is still vague, when you need to stress-test assumptions before committing to a plan, or when you want to expand options before converging on one.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/idea-refine/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/idea-refine/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 8438,
+  "truncated": false
+}

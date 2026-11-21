@@ -1,0 +1,11 @@
+{
+  "name": "lean-analytics",
+  "display_name": "Lean Analytics",
+  "description": "Choose and audit startup metrics using Croll and Yoskovitz's \"Lean Analytics\". Use when the user mentions \"what metrics should we track\", \"KPIs\", \"north star metric\", \"One Metric That Matters (OMTM)\", \"vanity metrics\", \"analytics dashboard\", \"DAU/MAU\", \"churn benchmark\", or \"measure product-market fit\". Also trigger when choosing metrics for a startup or feature, auditing a dashboard for vanity metrics, setting metric targets and baselines, or instrumenting a product by business model and stage. Covers good-vs-vanity metrics, the One Metric That Matters, metrics by business model, the five startup stages, and benchmarks. For the build-measure-learn loop, see lean-startup. For fixing activation and retention, see improve-retention.",
+  "repo": "wondelai/skills",
+  "path": "lean-analytics/SKILL.md",
+  "url": "https://github.com/wondelai/skills/tree/HEAD/lean-analytics/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 16199,
+  "truncated": false
+}

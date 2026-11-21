@@ -1,0 +1,11 @@
+{
+  "name": "linkedin-automation",
+  "display_name": "Linkedin Automation",
+  "description": "Automate LinkedIn tasks via Rube MCP (Composio): create posts, manage profile, company info, comments, and image uploads. Always search tools first for current schemas.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/linkedin-automation/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/linkedin-automation/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 6521,
+  "truncated": false
+}

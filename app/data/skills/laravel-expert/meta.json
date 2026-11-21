@@ -1,0 +1,11 @@
+{
+  "name": "laravel-expert",
+  "display_name": "Laravel Expert",
+  "description": "Senior Laravel Engineer role for production-grade, maintainable, and idiomatic Laravel solutions. Focuses on clean architecture, security, performance, and modern standards (Laravel 10/11+).",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/laravel-expert/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/laravel-expert/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 3962,
+  "truncated": false
+}

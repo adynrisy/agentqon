@@ -1,0 +1,11 @@
+{
+  "name": "incident-response-2",
+  "display_name": "Incident Response (2)",
+  "description": "Use when working with incident response incident response",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/incident-response-incident-response/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/incident-response-incident-response/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 10969,
+  "truncated": false
+}

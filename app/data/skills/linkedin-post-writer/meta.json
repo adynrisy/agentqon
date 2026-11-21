@@ -1,0 +1,11 @@
+{
+  "name": "linkedin-post-writer",
+  "display_name": "Linkedin Post Writer",
+  "description": "Draft LinkedIn posts from 16 tested hook formulas mapped to engagement goals (comments, reposts, likes, saves), with 2026 algorithm formatting rules and an AI-tell scrub pass before publishing.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/linkedin-post-writer/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/linkedin-post-writer/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 9300,
+  "truncated": false
+}

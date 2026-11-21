@@ -1,0 +1,11 @@
+{
+  "name": "labarchive-integration",
+  "display_name": "Labarchive Integration",
+  "description": "Integrates with the official LabArchives ELN REST-like API and Inventory API v1. Supports regional endpoint selection, signed-request construction, user authorization and UID flows, local LA container validation, and verified LabArchives integration workflows.",
+  "repo": "K-Dense-AI/scientific-agent-skills",
+  "path": "skills/labarchive-integration/SKILL.md",
+  "url": "https://github.com/K-Dense-AI/scientific-agent-skills/tree/HEAD/skills/labarchive-integration/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 10902,
+  "truncated": false
+}

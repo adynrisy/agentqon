@@ -1,0 +1,11 @@
+{
+  "name": "kotlin-code-guidelines",
+  "display_name": "Kotlin Code Guidelines",
+  "description": "Language-specific super-code guidelines for kotlin.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/super-code/kotlin/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/super-code/kotlin/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 6326,
+  "truncated": false
+}

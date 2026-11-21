@@ -1,0 +1,11 @@
+{
+  "name": "istio-traffic-management-cloud-infrastructure",
+  "display_name": "Istio Traffic Management · Cloud Infrastructure",
+  "description": "Configure Istio traffic management including routing, load balancing, circuit breakers, and canary deployments. Use when implementing service mesh traffic policies, progressive delivery, or resilience patterns.",
+  "repo": "wshobson/agents",
+  "path": "plugins/cloud-infrastructure/skills/istio-traffic-management/SKILL.md",
+  "url": "https://github.com/wshobson/agents/tree/HEAD/plugins/cloud-infrastructure/skills/istio-traffic-management/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 6549,
+  "truncated": false
+}

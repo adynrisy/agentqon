@@ -1,0 +1,11 @@
+{
+  "name": "iterate-pr",
+  "display_name": "Iterate PR",
+  "description": "Iterate on a PR until CI passes. Use when you need to fix CI failures, address review feedback, or continuously push fixes until all checks are green. Automates the feedback-fix-push-wait cycle.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/iterate-pr/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/iterate-pr/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 8538,
+  "truncated": false
+}

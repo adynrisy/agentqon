@@ -1,0 +1,11 @@
+{
+  "name": "keyword-search",
+  "display_name": "Keyword Search",
+  "description": "Search Taobao and Tmall product listings by keyword, returning paginated product cards with title, price, shop, image, sales, and tags. Use when user asks to search Taobao, find products on Taobao/Tmall, scrape Taobao search results, get product listings from Taobao, collect Taobao items by keyword, 搜索淘宝, 淘宝关键词搜索, 采集淘宝商品, 抓取淘宝搜索结果, 淘宝天猫商品列表. Also applies to bulk keyword searches, price monitoring across keywords, and competitive product research on Taobao.",
+  "repo": "browser-act/skills",
+  "path": "solutions/ecommerce/taobao-keyword-search/SKILL.md",
+  "url": "https://github.com/browser-act/skills/tree/HEAD/solutions/ecommerce/taobao-keyword-search/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 5956,
+  "truncated": false
+}

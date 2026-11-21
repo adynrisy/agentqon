@@ -1,0 +1,11 @@
+{
+  "name": "linkerd-patterns",
+  "display_name": "Linkerd Patterns",
+  "description": "Implement Linkerd service mesh patterns for lightweight, security-focused service mesh deployments. Use when setting up Linkerd, configuring traffic policies, or implementing zero-trust networking with minimal overhead.",
+  "repo": "wshobson/agents",
+  "path": "plugins/cloud-infrastructure/skills/linkerd-patterns/SKILL.md",
+  "url": "https://github.com/wshobson/agents/tree/HEAD/plugins/cloud-infrastructure/skills/linkerd-patterns/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 7819,
+  "truncated": false
+}

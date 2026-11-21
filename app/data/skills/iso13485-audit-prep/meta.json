@@ -1,0 +1,11 @@
+{
+  "name": "iso13485-audit-prep",
+  "display_name": "Iso13485 Audit Prep",
+  "description": "/compliance-os:iso13485-audit-prep [scope] — ISO 13485 QMS audit 6-question forcing interrogation. Design controls + CAPA + post-market focused. Use before Clause 8.2.4 internal audit, MDR / FDA QSR alignment review, or product-launch DHF closure audit.",
+  "repo": "alirezarezvani/claude-skills",
+  "path": ".gemini/skills/iso13485-audit-prep/SKILL.md",
+  "url": "https://github.com/alirezarezvani/claude-skills/tree/HEAD/.gemini/skills/iso13485-audit-prep/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 6570,
+  "truncated": false
+}

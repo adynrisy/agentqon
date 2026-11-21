@@ -1,0 +1,11 @@
+{
+  "name": "java-code-guidelines",
+  "display_name": "Java Code Guidelines",
+  "description": "Language-specific super-code guidelines for java.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/super-code/java/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/super-code/java/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 5518,
+  "truncated": false
+}

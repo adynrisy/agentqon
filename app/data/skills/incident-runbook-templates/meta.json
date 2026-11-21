@@ -1,0 +1,11 @@
+{
+  "name": "incident-runbook-templates",
+  "display_name": "Incident Runbook Templates",
+  "description": "Create structured incident response runbooks with step-by-step procedures, escalation paths, and recovery actions. Use this skill when building a service outage runbook for a payment processing system; creating database incident procedures covering connection pool exhaustion, replication lag, and disk space alerts; onboarding new on-call engineers who need step-by-step recovery guides written for a 3 AM brain; or standardizing escalation matrices across multiple engineering teams.",
+  "repo": "wshobson/agents",
+  "path": "plugins/incident-response/skills/incident-runbook-templates/SKILL.md",
+  "url": "https://github.com/wshobson/agents/tree/HEAD/plugins/incident-response/skills/incident-runbook-templates/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 4922,
+  "truncated": false
+}

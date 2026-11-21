@@ -1,0 +1,11 @@
+{
+  "name": "javascript-pro",
+  "display_name": "Javascript Pro",
+  "description": "Master modern JavaScript with ES6+, async patterns, and Node.js APIs. Handles promises, event loops, and browser/Node compatibility.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/javascript-pro/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/javascript-pro/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 2018,
+  "truncated": false
+}

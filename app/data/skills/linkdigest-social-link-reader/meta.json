@@ -1,0 +1,11 @@
+{
+  "name": "linkdigest-social-link-reader",
+  "display_name": "Linkdigest Social Link Reader",
+  "description": "Read one public Xiaohongshu, Douyin, TikTok, YouTube, X or WeChat article link into text an agent can use (transcript, image text, key points) via the LinkDigest API or MCP server.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/linkdigest-social-link-reader/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/linkdigest-social-link-reader/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 12972,
+  "truncated": false
+}

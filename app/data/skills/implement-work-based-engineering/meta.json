@@ -1,0 +1,11 @@
+{
+  "name": "implement-work-based-engineering",
+  "display_name": "Implement Work Based · Engineering",
+  "description": "Implement a piece of work based on a spec or set of tickets.",
+  "repo": "mattpocock/skills",
+  "path": "skills/engineering/implement/SKILL.md",
+  "url": "https://github.com/mattpocock/skills/tree/HEAD/skills/engineering/implement/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 490,
+  "truncated": false
+}

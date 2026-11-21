@@ -1,0 +1,11 @@
+{
+  "name": "kotler-macro-analyzer",
+  "display_name": "Kotler Macro Analyzer",
+  "description": "Professional PESTEL/SWOT analysis agent based on Kotler's methodology for strategic market audits.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/kotler-macro-analyzer/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/kotler-macro-analyzer/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 2726,
+  "truncated": false
+}

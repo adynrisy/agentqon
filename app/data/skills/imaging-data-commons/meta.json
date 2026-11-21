@@ -1,0 +1,11 @@
+{
+  "name": "imaging-data-commons",
+  "display_name": "Imaging Data Commons",
+  "description": "Queries and downloads public cancer imaging data from NCI Imaging Data Commons. Supports IDC collection discovery, DICOM access, radiology (CT, MR, PET) and pathology AI datasets, metadata SQL, visualization, licensing, and citations. Uses public metadata and download routes without authentication; optional BigQuery and Google Healthcare routes require Google credentials.",
+  "repo": "K-Dense-AI/scientific-agent-skills",
+  "path": "skills/imaging-data-commons/SKILL.md",
+  "url": "https://github.com/K-Dense-AI/scientific-agent-skills/tree/HEAD/skills/imaging-data-commons/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 30399,
+  "truncated": false
+}

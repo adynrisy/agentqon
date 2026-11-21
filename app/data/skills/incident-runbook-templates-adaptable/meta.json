@@ -1,0 +1,11 @@
+{
+  "name": "incident-runbook-templates-adaptable",
+  "display_name": "Incident Runbook Templates · Adaptable",
+  "description": "Adaptable templates for incident response runbooks covering detection, triage, mitigation, resolution, and communication.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/incident-runbook-templates/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/incident-runbook-templates/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 12021,
+  "truncated": false
+}

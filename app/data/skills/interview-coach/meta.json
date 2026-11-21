@@ -1,0 +1,11 @@
+{
+  "name": "interview-coach",
+  "display_name": "Interview Coach",
+  "description": "Full job search coaching system — JD decoding, resume, storybank, mock interviews, transcript analysis, comp negotiation. Coaching guide with an optional separately installed command package and scoped state.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/interview-coach/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/interview-coach/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 3272,
+  "truncated": false
+}

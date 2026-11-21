@@ -1,0 +1,11 @@
+{
+  "name": "linkedin-content-generator",
+  "display_name": "Linkedin Content Generator",
+  "description": "AI-powered LinkedIn content suite: generate posts, carousels, newsletters, and 30-day calendars with niche-specific SEO rules and a reinforcement-learning personal memory system.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/linkedin-content-generator/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/linkedin-content-generator/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 18058,
+  "truncated": false
+}

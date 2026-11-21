@@ -1,0 +1,11 @@
+{
+  "name": "kubernetes-architect",
+  "display_name": "Kubernetes Architect",
+  "description": "Expert Kubernetes architect specializing in cloud-native infrastructure, advanced GitOps workflows (ArgoCD/Flux), and enterprise container orchestration.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/kubernetes-architect/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/kubernetes-architect/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 9962,
+  "truncated": false
+}

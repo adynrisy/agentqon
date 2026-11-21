@@ -1,0 +1,11 @@
+{
+  "name": "identify-assumptions",
+  "display_name": "Identify Assumptions",
+  "description": "Identify risky assumptions for a new product idea across 8 risk categories including Go-to-Market, Strategy, and Team. Use when evaluating startup risks, assessing a new product concept, or mapping assumptions for a new venture.",
+  "repo": "phuryn/pm-skills",
+  "path": "pm-product-discovery/skills/identify-assumptions-new/SKILL.md",
+  "url": "https://github.com/phuryn/pm-skills/tree/HEAD/pm-product-discovery/skills/identify-assumptions-new/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 2943,
+  "truncated": false
+}

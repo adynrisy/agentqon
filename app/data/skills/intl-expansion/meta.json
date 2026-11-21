@@ -1,0 +1,11 @@
+{
+  "name": "intl-expansion",
+  "display_name": "Intl Expansion",
+  "description": "International market expansion strategy. Market selection, entry modes, localization, regulatory compliance, and go-to-market by region. Use when expanding to new countries, evaluating international markets, planning localization, or building regional teams.",
+  "repo": "alirezarezvani/claude-skills",
+  "path": ".gemini/skills/intl-expansion/SKILL.md",
+  "url": "https://github.com/alirezarezvani/claude-skills/tree/HEAD/.gemini/skills/intl-expansion/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 4101,
+  "truncated": false
+}

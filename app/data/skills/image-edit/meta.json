@@ -1,0 +1,11 @@
+{
+  "name": "image-edit",
+  "display_name": "Image Edit",
+  "description": "AI-powered image editing with style transfer and object removal",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/fal-image-edit/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/fal-image-edit/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 1741,
+  "truncated": false
+}

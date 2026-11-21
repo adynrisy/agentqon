@@ -1,0 +1,11 @@
+{
+  "name": "ledger-decision-plan",
+  "display_name": "Ledger Decision Plan",
+  "description": "A trading journal that captures the decision, not just the fill: thesis, plan, and emotion at the moment of entry, written to the user's own Notion database; reviews grade decisions, not P&L.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/trading-ledger/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/trading-ledger/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 8232,
+  "truncated": false
+}

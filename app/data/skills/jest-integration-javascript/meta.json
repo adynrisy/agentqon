@@ -1,0 +1,11 @@
+{
+  "name": "jest-integration-javascript",
+  "display_name": "Jest Integration JavaScript",
+  "description": "Generates Jest unit and integration tests in JavaScript or TypeScript. Covers mocking, snapshots, async testing, and React component testing. Use when user mentions \"Jest\", \"describe/it/expect\", \"jest.mock\", \"toMatchSnapshot\".",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/jest-skill/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/jest-skill/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 5102,
+  "truncated": false
+}

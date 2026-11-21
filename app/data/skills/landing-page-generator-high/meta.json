@@ -1,0 +1,11 @@
+{
+  "name": "landing-page-generator-high",
+  "display_name": "Landing Page Generator · High",
+  "description": "Generates high-converting Next.js/React landing pages with Tailwind CSS. Uses PAS, AIDA, and BAB frameworks for optimized copy/components (Heroes, Features, Pricing). Focuses on Core Web Vitals/SEO.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/landing-page-generator/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/landing-page-generator/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 10529,
+  "truncated": false
+}

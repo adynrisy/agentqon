@@ -1,0 +1,11 @@
+{
+  "name": "kotlin-coroutines-expert",
+  "display_name": "Kotlin Coroutines Expert",
+  "description": "Expert patterns for Kotlin Coroutines and Flow, covering structured concurrency, error handling, and testing.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/kotlin-coroutines-expert/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/kotlin-coroutines-expert/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 3784,
+  "truncated": false
+}

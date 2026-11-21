@@ -1,0 +1,11 @@
+{
+  "name": "intelligence-analysis-user",
+  "display_name": "Intelligence Analysis User",
+  "description": "Passive income portfolio analysis — activate when user asks about dividend yields, Treasury rates, REIT income, monthly passive income goals, or portfolio yield optimization. Scans 4 asset classes, ranks by risk-adjusted return, and builds allocations targeting a specific monthly income.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/yield-intelligence/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/yield-intelligence/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 4377,
+  "truncated": false
+}

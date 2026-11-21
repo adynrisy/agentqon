@@ -1,0 +1,11 @@
+{
+  "name": "inngest-expert-serverless",
+  "display_name": "Inngest Expert Serverless",
+  "description": "Inngest expert for serverless-first background jobs, event-driven workflows, and durable execution without managing queues or workers.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/inngest/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/inngest/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 12329,
+  "truncated": false
+}

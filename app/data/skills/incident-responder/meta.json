@@ -1,0 +1,11 @@
+{
+  "name": "incident-responder",
+  "display_name": "Incident Responder",
+  "description": "Expert SRE incident responder specializing in rapid problem resolution, modern observability, and comprehensive incident management.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/incident-responder/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/incident-responder/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 10523,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "linkedin-cli",
+  "display_name": "Linkedin CLI",
+  "description": "Use when automating LinkedIn via CLI: fetch profiles, search people/companies, send messages, manage connections, create posts, and Sales Navigator.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/linkedin-cli/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/linkedin-cli/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 1375,
+  "truncated": false
+}

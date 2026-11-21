@@ -1,0 +1,11 @@
+{
+  "name": "issue-grievance-tracker",
+  "display_name": "Issue Grievance Tracker",
+  "description": "Grievance register: issue type, raised by or anonymous, person or team concerned, department, date raised, policy reference, severity, assignee, action taken and status. Use for complaint handling.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/issue-grievance-tracker/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/issue-grievance-tracker/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 16026,
+  "truncated": false
+}

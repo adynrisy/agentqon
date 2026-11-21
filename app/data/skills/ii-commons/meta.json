@@ -1,0 +1,11 @@
+{
+  "name": "ii-commons",
+  "display_name": "Ii Commons",
+  "description": "Deterministic search across arXiv, PubMed/PMC, and US policy corpora with daily freshness cutoffs.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/ii-commons/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/ii-commons/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 4019,
+  "truncated": false
+}

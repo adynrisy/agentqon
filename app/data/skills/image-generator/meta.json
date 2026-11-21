@@ -1,0 +1,11 @@
+{
+  "name": "image-generator",
+  "display_name": "Image Generator",
+  "description": "Generate and edit images using Gemini's Nano Banana Pro model (gemini-3-pro-image-preview). Use this skill when the user asks you to generate images, create visuals, edit photos, create logos, generate product mockups, or perform any image generation/editing task.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/image-generator/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/image-generator/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 4987,
+  "truncated": false
+}

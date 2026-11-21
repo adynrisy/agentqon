@@ -1,0 +1,11 @@
+{
+  "name": "lemmaly-first-state",
+  "display_name": "Lemmaly First State",
+  "description": "Algorithm-first discipline: state Big-O, data structure, and algorithm family BEFORE writing loops, queries, or recursion. Catches O(n^2), N+1, and brute-force defaults.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/lemmaly/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/lemmaly/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 15939,
+  "truncated": false
+}
