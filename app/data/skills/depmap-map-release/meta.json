@@ -1,0 +1,11 @@
+{
+  "name": "depmap-map-release",
+  "display_name": "Depmap Map Release",
+  "description": "Retrieves and analyzes Cancer Dependency Map (DepMap) release data, including CRISPR Chronos gene effects, cancer model annotations, omics biomarkers, and PRISM drug sensitivity. Supports cancer-selective dependency, co-essentiality, and candidate synthetic-lethality analyses with release-aware identifiers and statistical checks.",
+  "repo": "K-Dense-AI/scientific-agent-skills",
+  "path": "skills/depmap/SKILL.md",
+  "url": "https://github.com/K-Dense-AI/scientific-agent-skills/tree/HEAD/skills/depmap/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 13182,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "delegate-coding-cli-tasks",
+  "display_name": "Delegate Coding CLI · Tasks",
+  "description": "Delegate coding tasks to the Cline CLI (`cline`) only when the user explicitly requests it, while the orchestrator retains review and landing responsibility.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/cline-delegate/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/cline-delegate/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 6035,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "director-readiness-advisor",
+  "display_name": "Director Readiness Advisor",
+  "description": "Guide the PM-to-Director transition across preparing, interviewing, landing, and recalibrating. Use when leadership scope is changing and you need practical coaching.",
+  "repo": "deanpeters/Product-Manager-Skills",
+  "path": "skills/director-readiness-advisor/SKILL.md",
+  "url": "https://github.com/deanpeters/Product-Manager-Skills/tree/HEAD/skills/director-readiness-advisor/SKILL.md",
+  "license": "CC",
+  "body_bytes": 18371,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "dropthehassle-publish",
+  "display_name": "Dropthehassle Publish",
+  "description": "Publish a finished static site to a free HTTPS link with DropTheHassle: build it if needed, deploy, hand over the claim link, verify it is live, never spend money.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/dropthehassle-publish/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/dropthehassle-publish/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 7008,
+  "truncated": false
+}

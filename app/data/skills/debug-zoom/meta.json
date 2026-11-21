@@ -1,0 +1,11 @@
+{
+  "name": "debug-zoom",
+  "display_name": "Debug Zoom",
+  "description": "Debug a broken Zoom integration by isolating the failure point and routing into the right Zoom references. Use when auth, API, webhook, SDK, or MCP behavior is failing and you need a ranked hypothesis list plus verification steps.",
+  "repo": "anthropics/knowledge-work-plugins",
+  "path": "partner-built/zoom-plugin/skills/debug-zoom/SKILL.md",
+  "url": "https://github.com/anthropics/knowledge-work-plugins/tree/HEAD/partner-built/zoom-plugin/skills/debug-zoom/SKILL.md",
+  "license": "Apache-2.0",
+  "body_bytes": 1019,
+  "truncated": false
+}

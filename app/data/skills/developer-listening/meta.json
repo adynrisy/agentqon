@@ -1,0 +1,11 @@
+{
+  "name": "developer-listening",
+  "display_name": "Developer Listening",
+  "description": "Monitor what developers say about your brand, competitors, and the problems they're solving. Track mentions and conversations across GitHub, Hacker News, Reddit, Stack Overflow, Twitter, and Discord.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/developer-listening/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/developer-listening/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 7927,
+  "truncated": false
+}

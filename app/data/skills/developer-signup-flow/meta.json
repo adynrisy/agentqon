@@ -1,0 +1,11 @@
+{
+  "name": "developer-signup-flow",
+  "display_name": "Developer Signup Flow",
+  "description": "Design frictionless signup experiences for developers including GitHub OAuth, API key generation, and onboarding personalization.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/developer-signup-flow/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/developer-signup-flow/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 12040,
+  "truncated": false
+}

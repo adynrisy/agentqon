@@ -1,0 +1,11 @@
+{
+  "name": "docker-management",
+  "display_name": "Docker Management",
+  "description": "Build, optimize, and troubleshoot Docker containers and images.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/docker-management/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/docker-management/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 9126,
+  "truncated": false
+}

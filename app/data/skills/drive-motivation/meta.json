@@ -1,0 +1,11 @@
+{
+  "name": "drive-motivation",
+  "display_name": "Drive Motivation",
+  "description": "Design motivation systems using Autonomy, Mastery, and Purpose (AMP) for products and teams. Use when the user mentions \"intrinsic motivation\", \"gamification isnt working\", \"rewards arent working\", \"autonomy\", \"mastery\", \"purpose-driven\", \"my team is disengaged\", or \"how do I motivate people\". Also trigger when designing onboarding progression, fixing broken gamification, or building team structures that sustain high performance. Covers why carrot-and-stick fails and how to build progress systems. For habit-forming product loops, see hooked-ux. For retention behavior design, see improve-retention.",
+  "repo": "wondelai/skills",
+  "path": "drive-motivation/SKILL.md",
+  "url": "https://github.com/wondelai/skills/tree/HEAD/drive-motivation/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 11728,
+  "truncated": false
+}

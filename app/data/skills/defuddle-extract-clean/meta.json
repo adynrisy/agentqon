@@ -1,0 +1,11 @@
+{
+  "name": "defuddle-extract-clean",
+  "display_name": "Defuddle Extract Clean",
+  "description": "Extract clean markdown content from web pages using Defuddle CLI, removing clutter and navigation to save tokens. Use instead of WebFetch when the user provides a URL to read or analyze, for online documentation, articles, blog posts, or any standard web page.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/defuddle/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/defuddle/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 1930,
+  "truncated": false
+}

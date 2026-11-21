@@ -1,0 +1,11 @@
+{
+  "name": "dhdna-profiler",
+  "display_name": "Dhdna Profiler",
+  "description": "Applies the DHDNA framework as an exploratory rubric for reasoning and writing patterns in supplied text. Used for explicit requests for DHDNA, cognitive-style reflection, a thinking-pattern profile, or comparisons of textual reasoning. Scores describe evidence in the sample, not validated psychological traits or personal identity.",
+  "repo": "K-Dense-AI/scientific-agent-skills",
+  "path": "skills/dhdna-profiler/SKILL.md",
+  "url": "https://github.com/K-Dense-AI/scientific-agent-skills/tree/HEAD/skills/dhdna-profiler/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 10843,
+  "truncated": false
+}

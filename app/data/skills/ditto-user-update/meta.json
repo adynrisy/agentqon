@@ -1,0 +1,11 @@
+{
+  "name": "ditto-user-update",
+  "display_name": "Ditto User Update",
+  "description": "Use when a user asks to mine or update a private, evidence-backed work profile from local Claude Code, Codex, Copilot CLI, or OpenCode sessions.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/ditto/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/ditto/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 6290,
+  "truncated": false
+}

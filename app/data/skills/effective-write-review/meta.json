@@ -1,0 +1,11 @@
+{
+  "name": "effective-write-review",
+  "display_name": "Effective Write Review",
+  "description": "Write, review, and debug agent skills. Use when creating or editing SKILL.md files, improving skill structure, or diagnosing invocation and execution problems.",
+  "repo": "davidondrej/skills",
+  "path": "skills/skill-authoring/effective-agent-skills/SKILL.md",
+  "url": "https://github.com/davidondrej/skills/tree/HEAD/skills/skill-authoring/effective-agent-skills/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 12641,
+  "truncated": false
+}

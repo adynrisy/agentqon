@@ -1,0 +1,11 @@
+{
+  "name": "duotone-design",
+  "display_name": "Duotone Design",
+  "description": "Web and App implementation guide for Duotone Design. Trigger when user wants two-color schemes, striking imagery, and Spotify-like playlist aesthetics.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/design-it/duotone-design/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/design-it/duotone-design/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 8113,
+  "truncated": false
+}

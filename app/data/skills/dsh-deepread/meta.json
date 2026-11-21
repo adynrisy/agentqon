@@ -1,0 +1,11 @@
+{
+  "name": "dsh-deepread",
+  "display_name": "Dsh Deepread",
+  "description": "Use for evidence-first reading of articles, books, PDFs, web pages, or document sets, with knowledge maps and Feynman checks.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/dsh-deepread/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/dsh-deepread/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 8727,
+  "truncated": false
+}

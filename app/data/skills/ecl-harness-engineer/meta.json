@@ -1,0 +1,11 @@
+{
+  "name": "ecl-harness-engineer",
+  "display_name": "Ecl Harness Engineer",
+  "description": "Create or audit ECL Agent Harness infrastructure: AGENTS.md, change tracking, repository guidance, lint checks, CI gates, and agent handoff docs.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/ecl-harness-engineer/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/ecl-harness-engineer/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 1933,
+  "truncated": false
+}

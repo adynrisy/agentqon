@@ -1,0 +1,11 @@
+{
+  "name": "delegate-coding-cli-explicitly",
+  "display_name": "Delegate Coding CLI · Explicitly",
+  "description": "Delegate coding tasks to the Cursor Agent CLI (`cursor-agent`) only when the user explicitly requests it, while the orchestrator retains review and landing responsibility.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "skills/cursor-delegate/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/skills/cursor-delegate/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 8211,
+  "truncated": false
+}

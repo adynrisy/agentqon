@@ -1,0 +1,11 @@
+{
+  "name": "deploy-aws-templates",
+  "display_name": "Deploy AWS Templates",
+  "description": "Deploy AWS resources with CloudFormation templates. Create stacks, use nested stacks, and implement drift detection. Use when deploying AWS-native IaC.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/cloudformation/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/cloudformation/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 13723,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "design-doc",
+  "display_name": "Design Doc",
+  "description": "Writes a design doc or ADR: requirements and scale first, real alternatives with trade-offs, a grounded recommendation, non-goals, migration path; also runs a pre-mortem on a plan. Use when choosing an approach.",
+  "repo": "khasky/awesome-agent-skills",
+  "path": "skills/awesome-design-doc/SKILL.md",
+  "url": "https://github.com/khasky/awesome-agent-skills/tree/HEAD/skills/awesome-design-doc/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 12769,
+  "truncated": false
+}

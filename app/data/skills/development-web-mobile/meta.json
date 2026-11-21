@@ -1,0 +1,11 @@
+{
+  "name": "development-web-mobile",
+  "display_name": "Development Web Mobile",
+  "description": "Comprehensive web, mobile, and backend development workflow bundling frontend, backend, full-stack, and mobile development skills for end-to-end application delivery.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/development/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/development/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 6753,
+  "truncated": false
+}

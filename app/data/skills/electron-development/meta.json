@@ -1,0 +1,11 @@
+{
+  "name": "electron-development",
+  "display_name": "Electron Development",
+  "description": "Master Electron desktop app development with secure IPC, contextIsolation, preload scripts, multi-process architecture, electron-builder packaging, code signing, and auto-update.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/electron-development/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/electron-development/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 2460,
+  "truncated": false
+}

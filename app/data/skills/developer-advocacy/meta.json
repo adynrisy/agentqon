@@ -1,0 +1,11 @@
+{
+  "name": "developer-advocacy",
+  "display_name": "Developer Advocacy",
+  "description": "When the user wants to do developer advocacy activities including conference talks, live coding, podcasts, and building in public.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/developer-advocacy/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/developer-advocacy/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 12580,
+  "truncated": false
+}

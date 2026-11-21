@@ -1,0 +1,11 @@
+{
+  "name": "debugging-error-recovery-guides",
+  "display_name": "Debugging Error Recovery · Guides",
+  "description": "Guides systematic root-cause debugging. Use when tests fail, builds break, something that worked yesterday broke, behavior doesn't match expectations, or you encounter any unexpected error. Use when you need to figure out what broke and why — a systematic approach to finding and fixing the root cause rather than guessing.",
+  "repo": "addyosmani/agent-skills",
+  "path": "skills/debugging-and-error-recovery/SKILL.md",
+  "url": "https://github.com/addyosmani/agent-skills/tree/HEAD/skills/debugging-and-error-recovery/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 10530,
+  "truncated": false
+}

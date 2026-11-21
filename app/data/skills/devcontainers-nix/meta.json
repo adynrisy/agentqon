@@ -1,0 +1,11 @@
+{
+  "name": "devcontainers-nix",
+  "display_name": "Devcontainers Nix",
+  "description": "Create reproducible development environments with Dev Containers, Nix flakes, and Devbox for consistent toolchains across teams.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/devcontainers-nix/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/devcontainers-nix/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 9545,
+  "truncated": false
+}

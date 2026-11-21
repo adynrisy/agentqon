@@ -1,0 +1,11 @@
+{
+  "name": "draft-comments",
+  "display_name": "Draft Comments",
+  "description": "Write a LinkedIn comment that adds something the post did not have, not agreement. Use when someone asks what to comment, wants to engage with creators, or says their comments go nowhere.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/draft-my-comments/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/draft-my-comments/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 5035,
+  "truncated": false
+}

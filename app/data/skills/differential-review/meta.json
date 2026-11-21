@@ -1,0 +1,11 @@
+{
+  "name": "differential-review",
+  "display_name": "Differential Review",
+  "description": "Security-focused code review for PRs, commits, and diffs.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/differential-review/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/differential-review/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 6720,
+  "truncated": false
+}

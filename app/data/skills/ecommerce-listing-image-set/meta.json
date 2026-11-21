@@ -1,0 +1,11 @@
+{
+  "name": "ecommerce-listing-image-set",
+  "display_name": "Ecommerce Listing Image Set",
+  "description": "Install and use the official Ecommerce Product Images package, pinned by digest, for paid hosted work on the Beatra service.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/ecommerce-listing-image-set/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/ecommerce-listing-image-set/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 14369,
+  "truncated": false
+}

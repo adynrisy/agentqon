@@ -1,0 +1,11 @@
+{
+  "name": "design-web-app",
+  "display_name": "Design Web App",
+  "description": "Web and App implementation guide for the Flat Design style. Trigger when the user wants no shadows, simple shapes, and bold colors.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/design-it/flat-design/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/design-it/flat-design/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 7499,
+  "truncated": false
+}

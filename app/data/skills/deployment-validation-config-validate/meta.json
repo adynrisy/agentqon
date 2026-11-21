@@ -1,0 +1,11 @@
+{
+  "name": "deployment-validation-config-validate",
+  "display_name": "Deployment Validation Config Validate",
+  "description": "Validate application configurations with schemas, configuration tests, and checks for security and environment consistency.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/deployment-validation-config-validate/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/deployment-validation-config-validate/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 1295,
+  "truncated": false
+}

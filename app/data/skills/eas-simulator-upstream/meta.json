@@ -1,0 +1,11 @@
+{
+  "name": "eas-simulator-upstream",
+  "display_name": "Eas Simulator · Upstream",
+  "description": "Curated upstream guidance for Eas Simulator; use when the workflow matches the user goal.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/eas-simulator/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/eas-simulator/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 23933,
+  "truncated": false
+}

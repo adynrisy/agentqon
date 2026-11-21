@@ -1,0 +1,11 @@
+{
+  "name": "devrel-content",
+  "display_name": "Devrel Content",
+  "description": "When the user wants to create technical content for developers including blog posts, tutorials, and documentation.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/devrel-content/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/devrel-content/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 11654,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "developer-seo",
+  "display_name": "Developer SEO",
+  "description": "SEO strategy for technical queries and developer audiences. Covers keyword research for \"how to X in language\" queries, error message SEO, Stack Overflow-style content, technical long-tail keywords, and competing with official documentation sites.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/developer-seo/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/developer-seo/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 9124,
+  "truncated": false
+}

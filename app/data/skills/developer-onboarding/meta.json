@@ -1,0 +1,11 @@
+{
+  "name": "developer-onboarding",
+  "display_name": "Developer Onboarding",
+  "description": "Get developers to \"Hello World\" fast with optimized quickstarts, tutorials, and sample apps.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/developer-onboarding/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/developer-onboarding/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 2061,
+  "truncated": false
+}

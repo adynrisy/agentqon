@@ -1,0 +1,11 @@
+{
+  "name": "ebay-review-checker",
+  "display_name": "Ebay Review Checker",
+  "description": "eBay review and feedback authenticity analyzer. Detect fake reviews, suspicious seller feedback patterns, and buyer manipulation. Includes time clustering detection, content similarity analysis, and eBay-specific red flag identification. No API key required.",
+  "repo": "nexscope-ai/eCommerce-Skills",
+  "path": "review-checker/ebay-review-checker/SKILL.md",
+  "url": "https://github.com/nexscope-ai/eCommerce-Skills/tree/HEAD/review-checker/ebay-review-checker/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 2156,
+  "truncated": false
+}

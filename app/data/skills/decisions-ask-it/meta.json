@@ -1,0 +1,11 @@
+{
+  "name": "decisions-ask-it",
+  "display_name": "Decisions Ask It",
+  "description": "Ask the agent to list all choices it made during the current work that it is not confident of. Manual-only; the user must ask for it by name.",
+  "repo": "davidondrej/skills",
+  "path": "skills/thinking-and-docs/decisions/SKILL.md",
+  "url": "https://github.com/davidondrej/skills/tree/HEAD/skills/thinking-and-docs/decisions/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 480,
+  "truncated": false
+}

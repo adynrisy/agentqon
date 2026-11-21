@@ -1,0 +1,11 @@
+{
+  "name": "define-content-pillars",
+  "display_name": "Define Content Pillars",
+  "description": "Find the three to five subjects someone can post about repeatedly, from what they have published and know first-hand. Use when someone asks what to post about or has run out of ideas.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/define-my-content-pillars/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/define-my-content-pillars/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 4832,
+  "truncated": false
+}

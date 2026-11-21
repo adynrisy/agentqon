@@ -1,0 +1,11 @@
+{
+  "name": "debug-flow",
+  "display_name": "Debug Flow",
+  "description": "Debug a failed Power Automate flow run. Use when a flow failed, has errors, or the user wants to troubleshoot a run.",
+  "repo": "microsoft/power-platform-skills",
+  "path": "plugins/power-automate/skills/debug-flow/SKILL.md",
+  "url": "https://github.com/microsoft/power-platform-skills/tree/HEAD/plugins/power-automate/skills/debug-flow/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 4759,
+  "truncated": false
+}

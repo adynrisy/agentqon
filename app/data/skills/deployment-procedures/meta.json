@@ -1,0 +1,11 @@
+{
+  "name": "deployment-procedures",
+  "display_name": "Deployment Procedures",
+  "description": "Production deployment principles and decision-making. Safe deployment workflows, rollback strategies, and verification. Teaches thinking, not scripts.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/deployment-procedures/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/deployment-procedures/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 5891,
+  "truncated": false
+}

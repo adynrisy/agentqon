@@ -1,0 +1,11 @@
+{
+  "name": "dependency-upgrade-master",
+  "display_name": "Dependency Upgrade · Master",
+  "description": "Master major dependency version upgrades, compatibility analysis, staged upgrade strategies, and comprehensive testing approaches.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/dependency-upgrade/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/dependency-upgrade/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 10603,
+  "truncated": false
+}

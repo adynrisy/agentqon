@@ -1,0 +1,11 @@
+{
+  "name": "diff-page-accessibility",
+  "display_name": "Diff Page Accessibility",
+  "description": "Diff a live page's accessibility violations against a baseline — by default compares uncommitted changes (stash-based), or pass --branch [<name>] to diff against a branch. Reports only new violations introduced, violations fixed, and pre-existing count. Use `scan` for a full audit with no diffing.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/accesslint-diff/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/accesslint-diff/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 3352,
+  "truncated": false
+}

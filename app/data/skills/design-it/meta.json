@@ -1,0 +1,11 @@
+{
+  "name": "design-it",
+  "display_name": "Design It",
+  "description": "Routes frontend design tasks to 48 specific UI styles. Triggers for websites, app screens, or UI components requesting a specific aesthetic.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/design-it/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/design-it/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 5726,
+  "truncated": false
+}

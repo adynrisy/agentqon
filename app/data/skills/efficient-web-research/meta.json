@@ -1,0 +1,11 @@
+{
+  "name": "efficient-web-research",
+  "display_name": "Efficient Web Research",
+  "description": "Protocol for token-efficient web research. Use when accessing URLs, GitHub repos, or running search queries. Prevents full-page fetching waste.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/efficient-web-research/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/efficient-web-research/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 11003,
+  "truncated": false
+}

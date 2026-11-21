@@ -1,0 +1,11 @@
+{
+  "name": "eas-observe",
+  "display_name": "Eas Observe",
+  "description": "Curated upstream guidance for Eas Observe; use when the workflow matches the user goal.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/eas-observe/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/eas-observe/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 5022,
+  "truncated": false
+}

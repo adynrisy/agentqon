@@ -1,0 +1,11 @@
+{
+  "name": "django-pro",
+  "display_name": "Django Pro",
+  "description": "Master Django 5.x with async views, DRF, Celery, and Django Channels. Build scalable web applications with proper architecture, testing, and deployment.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/django-pro/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/django-pro/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 7050,
+  "truncated": false
+}

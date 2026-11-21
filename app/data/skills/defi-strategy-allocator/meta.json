@@ -1,0 +1,11 @@
+{
+  "name": "defi-strategy-allocator",
+  "display_name": "Defi Strategy Allocator",
+  "description": "Multi-vault automated yield strategy allocation register: APY benchmarks, impermanent loss risk tiers, and rebalancing triggers.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/defi-yield-strategy-allocator/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/defi-yield-strategy-allocator/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 4999,
+  "truncated": false
+}

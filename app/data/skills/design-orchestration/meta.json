@@ -1,0 +1,11 @@
+{
+  "name": "design-orchestration",
+  "display_name": "Design Orchestration",
+  "description": "Orchestrates design workflows by routing work through brainstorming, multi-agent review, and execution readiness in the correct order.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/design-orchestration/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/design-orchestration/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 4329,
+  "truncated": false
+}

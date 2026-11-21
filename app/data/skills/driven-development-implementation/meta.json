@@ -1,0 +1,11 @@
+{
+  "name": "driven-development-implementation",
+  "display_name": "Driven Development · Implementation",
+  "description": "Use when executing implementation plans with independent tasks in the current session",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/subagent-driven-development/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/subagent-driven-development/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 9985,
+  "truncated": false
+}

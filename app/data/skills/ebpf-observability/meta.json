@@ -1,0 +1,11 @@
+{
+  "name": "ebpf-observability",
+  "display_name": "Ebpf Observability",
+  "description": "Use eBPF for deep kernel-level observability — trace syscalls, network flows, and application behavior without code changes using Cilium, Tetragon, and bpftrace.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/ebpf-observability/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/ebpf-observability/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 12578,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "diagnose-deployment",
+  "display_name": "Diagnose Deployment",
+  "description": "Surfaces PAC CLI upload errors and Dataverse async operation errors, pattern-matches against a known failure catalog, and optionally auto-fixes identified issues. Use when asked to: \"diagnose deployment\", \"debug deployment\", \"deployment failed\", \"show deployment errors\", \"fix deployment issues\", \"show upload logs\", \"why did my deploy fail\", or \"troubleshoot upload\".",
+  "repo": "microsoft/power-platform-skills",
+  "path": "plugins/power-pages/skills/diagnose-deployment/SKILL.md",
+  "url": "https://github.com/microsoft/power-platform-skills/tree/HEAD/plugins/power-pages/skills/diagnose-deployment/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 9750,
+  "truncated": false
+}

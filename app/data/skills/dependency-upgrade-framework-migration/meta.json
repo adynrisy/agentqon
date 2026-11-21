@@ -1,0 +1,11 @@
+{
+  "name": "dependency-upgrade-framework-migration",
+  "display_name": "Dependency Upgrade · Framework Migration",
+  "description": "Manage major dependency version upgrades with compatibility analysis, staged rollout, and comprehensive testing. Use when upgrading framework versions, updating major dependencies, or managing breaking changes in libraries.",
+  "repo": "wshobson/agents",
+  "path": "plugins/framework-migration/skills/dependency-upgrade/SKILL.md",
+  "url": "https://github.com/wshobson/agents/tree/HEAD/plugins/framework-migration/skills/dependency-upgrade/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 7353,
+  "truncated": false
+}

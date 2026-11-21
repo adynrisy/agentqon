@@ -1,0 +1,11 @@
+{
+  "name": "domain-checker",
+  "display_name": "Domain Checker",
+  "description": "Check domain registration in batches using public RDAP APIs, without keys or login. Use only when the user explicitly invokes /domain-checker.",
+  "repo": "davidondrej/skills",
+  "path": "skills/research-and-web/domain-checker/SKILL.md",
+  "url": "https://github.com/davidondrej/skills/tree/HEAD/skills/research-and-web/domain-checker/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 2132,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "domain-modeling-engineering",
+  "display_name": "Domain Modeling · Engineering",
+  "description": "Build and sharpen a project's domain model. Use when discussing codebase terminology, writing or editing a GLOSSARY.md, or recording or editing an ADR.",
+  "repo": "mattpocock/skills",
+  "path": "skills/engineering/domain-modeling/SKILL.md",
+  "url": "https://github.com/mattpocock/skills/tree/HEAD/skills/engineering/domain-modeling/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 3150,
+  "truncated": false
+}

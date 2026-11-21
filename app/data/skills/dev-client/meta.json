@@ -1,0 +1,11 @@
+{
+  "name": "dev-client",
+  "display_name": "Dev Client",
+  "description": "Build and distribute Expo development clients locally or via TestFlight for internal testing. For production TestFlight releases and store submission, use the eas-app-stores skill.",
+  "repo": "expo/skills",
+  "path": "plugins/expo/skills/expo-dev-client/SKILL.md",
+  "url": "https://github.com/expo/skills/tree/HEAD/plugins/expo/skills/expo-dev-client/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 5207,
+  "truncated": false
+}

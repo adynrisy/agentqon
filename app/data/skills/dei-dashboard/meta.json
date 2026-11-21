@@ -1,0 +1,11 @@
+{
+  "name": "dei-dashboard",
+  "display_name": "Dei Dashboard",
+  "description": "Diversity, equity and inclusion dashboard: metric by department and period, value against target, group size and minimum-threshold flag. Use for DEI reporting.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/dei-dashboard/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/dei-dashboard/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 12377,
+  "truncated": false
+}

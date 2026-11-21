@@ -1,0 +1,11 @@
+{
+  "name": "diary-system-context",
+  "display_name": "Diary System Context",
+  "description": "Unified Diary System: A context-preserving automated logger for multi-project development.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "skills/diary/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/skills/diary/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 9122,
+  "truncated": false
+}

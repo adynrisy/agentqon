@@ -1,0 +1,11 @@
+{
+  "name": "delegate-cli-google",
+  "display_name": "Delegate CLI Google",
+  "description": "Delegate tasks to OpenAI Codex CLI and Google Antigravity CLI from Claude Code with topic-aware sessions",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "skills/dispatch/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/skills/dispatch/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 7384,
+  "truncated": false
+}

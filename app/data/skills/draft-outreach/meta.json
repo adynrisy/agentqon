@@ -1,0 +1,11 @@
+{
+  "name": "draft-outreach",
+  "display_name": "Draft Outreach",
+  "description": "Draft a personalized outreach email or multi-touch sequence to a prospect, create it as an email draft for review, and add the contact to a sequence in your sales engagement tool when asked. Use when the user asks to \"draft outreach to [person/company]\", \"write a cold email to [prospect]\", \"re-engage [prospect]\", \"draft a 3-touch sequence\", or \"reach out to [person]\".",
+  "repo": "anthropics/knowledge-work-plugins",
+  "path": "sales/skills/draft-outreach/SKILL.md",
+  "url": "https://github.com/anthropics/knowledge-work-plugins/tree/HEAD/sales/skills/draft-outreach/SKILL.md",
+  "license": "Apache-2.0",
+  "body_bytes": 9278,
+  "truncated": false
+}

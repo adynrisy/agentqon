@@ -1,0 +1,11 @@
+{
+  "name": "deployment-pipeline-design",
+  "display_name": "Deployment Pipeline Design",
+  "description": "Architecture patterns for multi-stage CI/CD pipelines with approval gates and deployment strategies.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/deployment-pipeline-design/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/deployment-pipeline-design/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 8462,
+  "truncated": false
+}

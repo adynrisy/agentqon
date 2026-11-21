@@ -1,0 +1,11 @@
+{
+  "name": "elk-stack",
+  "display_name": "Elk Stack",
+  "description": "Deploy and manage the ELK Stack (Elasticsearch, Logstash, Kibana) for log aggregation and analysis.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/elk-stack/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/elk-stack/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 9548,
+  "truncated": false
+}

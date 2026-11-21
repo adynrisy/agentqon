@@ -1,0 +1,11 @@
+{
+  "name": "disaster-recovery",
+  "display_name": "Disaster Recovery",
+  "description": "Implement disaster recovery strategies and runbooks. Configure RPO/RTO targets and failover procedures. Use when planning for business continuity.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/disaster-recovery/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/disaster-recovery/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 11324,
+  "truncated": false
+}

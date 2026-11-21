@@ -1,0 +1,11 @@
+{
+  "name": "deed-page",
+  "display_name": "Deed Page",
+  "description": "Publish an HTML file or static folder to a permanent public https://<slug>.deed.page/ URL with one curl request. No account; the first publish returns a token for updates.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/deed-page/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/deed-page/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 6085,
+  "truncated": false
+}

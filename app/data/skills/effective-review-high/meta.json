@@ -1,0 +1,11 @@
+{
+  "name": "effective-review-high",
+  "display_name": "Effective Review High",
+  "description": "Author and review high-quality agent skills with triggers, progressive disclosure, and safety notes.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/effective-agent-skills/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/effective-agent-skills/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 15387,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "deployment-engineer",
+  "display_name": "Deployment Engineer",
+  "description": "Expert deployment engineer specializing in modern CI/CD pipelines, GitOps workflows, and advanced deployment automation.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/deployment-engineer/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/deployment-engineer/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 9613,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "doctor-user-setup",
+  "display_name": "Doctor User Setup",
+  "description": "Use when the user wants their agent setup graded from real conversation history, asks which installed skills are actually working, or wants evidence-backed skill edits — scores recent local Claude Code / Codex sessions against efficiency and code-quality rubrics, then drafts skill changes gated by a deterministic aggregator and renders one local shareable report.",
+  "repo": "alirezarezvani/claude-skills",
+  "path": ".gemini/skills/skill-doctor/SKILL.md",
+  "url": "https://github.com/alirezarezvani/claude-skills/tree/HEAD/.gemini/skills/skill-doctor/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 5241,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "edital-de",
+  "display_name": "Edital De",
+  "description": "Analise e auditoria de editais de leilao judicial e extrajudicial. Riscos ocultos, clausulas perigosas, debitos, ocupante e classificacao da oportunidade.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/leiloeiro-edital/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/leiloeiro-edital/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 1311,
+  "truncated": false
+}

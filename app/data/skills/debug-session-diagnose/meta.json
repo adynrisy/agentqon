@@ -1,0 +1,11 @@
+{
+  "name": "debug-session-diagnose",
+  "display_name": "Debug Session Diagnose",
+  "description": "Structured debugging session — reproduce, isolate, diagnose, and fix. Trigger with an error message or stack trace, \"this works in staging but not prod\", \"something broke after the deploy\", or when behavior diverges from expected and the cause isn't obvious.",
+  "repo": "anthropics/knowledge-work-plugins",
+  "path": "engineering/skills/debug/SKILL.md",
+  "url": "https://github.com/anthropics/knowledge-work-plugins/tree/HEAD/engineering/skills/debug/SKILL.md",
+  "license": "Apache-2.0",
+  "body_bytes": 3723,
+  "truncated": false
+}

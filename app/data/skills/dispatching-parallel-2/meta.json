@@ -1,0 +1,11 @@
+{
+  "name": "dispatching-parallel-2",
+  "display_name": "Dispatching Parallel · 2+",
+  "description": "Use when facing 2+ independent tasks that can be worked on without shared state or sequential dependencies",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/dispatching-parallel-agents/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/dispatching-parallel-agents/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 6259,
+  "truncated": false
+}

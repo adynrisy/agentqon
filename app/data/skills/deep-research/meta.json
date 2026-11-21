@@ -1,0 +1,11 @@
+{
+  "name": "deep-research",
+  "display_name": "Deep Research",
+  "description": "Run autonomous research tasks that plan, search, read, and synthesize information into comprehensive reports.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "skills/deep-research/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/skills/deep-research/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 5224,
+  "truncated": false
+}

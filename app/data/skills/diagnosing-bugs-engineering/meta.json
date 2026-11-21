@@ -1,0 +1,11 @@
+{
+  "name": "diagnosing-bugs-engineering",
+  "display_name": "Diagnosing Bugs · Engineering",
+  "description": "Diagnosis loop for hard bugs and performance regressions. Use when the user says \"diagnose\"/\"debug this\", or reports something broken/throwing/failing/slow.",
+  "repo": "mattpocock/skills",
+  "path": "skills/engineering/diagnosing-bugs/SKILL.md",
+  "url": "https://github.com/mattpocock/skills/tree/HEAD/skills/engineering/diagnosing-bugs/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 8463,
+  "truncated": false
+}

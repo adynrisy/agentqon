@@ -1,0 +1,11 @@
+{
+  "name": "debugging-toolkit",
+  "display_name": "Debugging Toolkit",
+  "description": "Use when working with debugging toolkit smart debug (Alias for debugging-toolkit-smart-debug)",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/debugging-toolkit/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/debugging-toolkit/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 1301,
+  "truncated": false
+}

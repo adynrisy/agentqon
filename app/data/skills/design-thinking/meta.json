@@ -1,0 +1,11 @@
+{
+  "name": "design-thinking",
+  "display_name": "Design Thinking",
+  "description": "Direction and intent for frontend design. Use with design when defining purpose, tone, domain, color world, and review bar; includes cross-domain lens from cinema, architecture, marketing, UX, automotive, industrial design.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/design-thinking/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/design-thinking/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 6913,
+  "truncated": false
+}

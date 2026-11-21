@@ -1,0 +1,11 @@
+{
+  "name": "deployment-hardening",
+  "display_name": "Deployment Hardening",
+  "description": "Secure OpenClaw deployments with preflight hardening checks, CI/CD guardrails, container runtime restrictions, and post-deploy verification.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/openclaw-deployment-hardening/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/openclaw-deployment-hardening/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 3653,
+  "truncated": false
+}

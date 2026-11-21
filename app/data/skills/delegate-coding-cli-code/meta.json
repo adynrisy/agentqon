@@ -1,0 +1,11 @@
+{
+  "name": "delegate-coding-cli-code",
+  "display_name": "Delegate Coding CLI · Code",
+  "description": "Delegate coding tasks to the Kimi Code CLI (`kimi`) only when the user explicitly requests it, while the orchestrator retains review and landing responsibility.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/kimi-delegate/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/kimi-delegate/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 6162,
+  "truncated": false
+}

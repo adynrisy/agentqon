@@ -1,0 +1,11 @@
+{
+  "name": "deprecation-migration-manages",
+  "display_name": "Deprecation Migration · Manages",
+  "description": "Manages deprecation and migration. Use when removing old systems, APIs, or features. Use when migrating users from one implementation to another. Use when deciding whether to maintain or sunset existing code.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/deprecation-and-migration/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/deprecation-and-migration/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 9555,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "diffdock-sequence-batch",
+  "display_name": "Diffdock Sequence Batch",
+  "description": "Predicts protein-small-molecule binding poses with DiffDock and DiffDock-L from PDB or sequence plus SMILES/SDF/MOL2. Covers batch docking, pose triage, confidence interpretation, and validation. Use for molecular docking and virtual-screening pose generation, not binding-affinity prediction.",
+  "repo": "K-Dense-AI/scientific-agent-skills",
+  "path": "skills/diffdock/SKILL.md",
+  "url": "https://github.com/K-Dense-AI/scientific-agent-skills/tree/HEAD/skills/diffdock/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 11056,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "delegating-work-ai",
+  "display_name": "Delegating Work AI",
+  "description": "Delegate bounded work to other AI agents while preserving context, ownership, and progress checks.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "skills/delegating-to-agents/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/skills/delegating-to-agents/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 3585,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "derive-metric",
+  "display_name": "Derive Metric",
+  "description": "Use when a requested measure is missing, a saved custom metric needs reuse, or an ephemeral formula or derived scalar is needed.",
+  "repo": "microsoft/power-platform-skills",
+  "path": "plugins/process-intelligence/skills/derive-metric/SKILL.md",
+  "url": "https://github.com/microsoft/power-platform-skills/tree/HEAD/plugins/process-intelligence/skills/derive-metric/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 3902,
+  "truncated": false
+}

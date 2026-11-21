@@ -1,0 +1,11 @@
+{
+  "name": "domain-modeling",
+  "display_name": "Domain Modeling",
+  "description": "Build and sharpen a project's domain model. Use when the user wants to pin down domain terminology or a ubiquitous language, record an architectural decision, or when another skill needs to maintain the domain model.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/domain-modeling/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/domain-modeling/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 3861,
+  "truncated": false
+}

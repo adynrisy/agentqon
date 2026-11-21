@@ -1,0 +1,11 @@
+{
+  "name": "derisk-measurement-advisor",
+  "display_name": "Derisk Measurement Advisor",
+  "description": "Identify what to measure, test, or track to de-risk a product or AI idea. Use when stress-testing an idea across internal (DUFV) and external (PESTEL) dimensions.",
+  "repo": "deanpeters/Product-Manager-Skills",
+  "path": "skills/derisk-measurement-advisor/SKILL.md",
+  "url": "https://github.com/deanpeters/Product-Manager-Skills/tree/HEAD/skills/derisk-measurement-advisor/SKILL.md",
+  "license": "CC",
+  "body_bytes": 22178,
+  "truncated": false
+}

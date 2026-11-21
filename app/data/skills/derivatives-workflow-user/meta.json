@@ -1,0 +1,11 @@
+{
+  "name": "derivatives-workflow-user",
+  "display_name": "Derivatives Workflow User",
+  "description": "Curated upstream guidance for Longbridge Derivatives; use when the workflow matches the user goal.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/longbridge-derivatives/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/longbridge-derivatives/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 4151,
+  "truncated": false
+}

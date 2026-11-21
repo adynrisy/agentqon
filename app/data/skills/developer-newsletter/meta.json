@@ -1,0 +1,11 @@
+{
+  "name": "developer-newsletter",
+  "display_name": "Developer Newsletter",
+  "description": "When the user wants to create, write, or improve a newsletter for developer audiences. Trigger phrases include \"newsletter,\" \"email marketing,\" \"developer email,\" \"weekly digest,\" \"dev newsletter,\" \"email subscribers,\" \"newsletter growth,\" or \"email list.\"",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/developer-newsletter/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/developer-newsletter/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 10992,
+  "truncated": false
+}

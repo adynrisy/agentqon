@@ -1,0 +1,11 @@
+{
+  "name": "eas-workflows-or",
+  "display_name": "Eas Workflows · Or",
+  "description": "Use when writing or reviewing Expo EAS workflow YAML: inspect current schema and job syntax, validate configuration, and separate draft edits from launching builds or submissions.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/eas-workflows/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/eas-workflows/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 7624,
+  "truncated": false
+}

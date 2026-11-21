@@ -1,0 +1,11 @@
+{
+  "name": "developer-churn",
+  "display_name": "Developer Churn",
+  "description": "When the user wants to understand, reduce, or recover from developer churn. Trigger phrases include \"why developers leave,\" \"churn rate,\" \"win-back campaign,\" \"at-risk users,\" \"developer retention,\" \"preventing churn,\" or \"competitor switching.\"",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/developer-churn/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/developer-churn/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 1247,
+  "truncated": false
+}

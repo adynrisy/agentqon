@@ -1,0 +1,11 @@
+{
+  "name": "digital-forensics",
+  "display_name": "Digital Forensics",
+  "description": "Authorized digital forensics: memory dumps, disk timelines, PCAP investigation, artifact triage, and incident-response evidence preservation.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/digital-forensics/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/digital-forensics/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 1981,
+  "truncated": false
+}

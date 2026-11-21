@@ -1,0 +1,11 @@
+{
+  "name": "dspy-build-systems",
+  "display_name": "Dspy Build Systems",
+  "description": "Build complex AI systems with declarative programming, optimize prompts automatically, create modular RAG systems and agents with DSPy - Stanford NLP's framework for systematic LM programming",
+  "repo": "Orchestra-Research/AI-Research-SKILLs",
+  "path": "16-prompt-engineering/dspy/SKILL.md",
+  "url": "https://github.com/Orchestra-Research/AI-Research-SKILLs/tree/HEAD/16-prompt-engineering/dspy/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 14813,
+  "truncated": false
+}

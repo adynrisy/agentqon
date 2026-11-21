@@ -1,0 +1,11 @@
+{
+  "name": "driven-development",
+  "display_name": "Driven Development",
+  "description": "Use when executing implementation plans with independent tasks in the current session",
+  "repo": "obra/superpowers",
+  "path": "skills/subagent-driven-development/SKILL.md",
+  "url": "https://github.com/obra/superpowers/tree/HEAD/skills/subagent-driven-development/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 32435,
+  "truncated": false
+}

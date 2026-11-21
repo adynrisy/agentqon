@@ -1,0 +1,11 @@
+{
+  "name": "deploy-user-requests",
+  "display_name": "Deploy User Requests",
+  "description": "Deploy applications and websites to Vercel. Use when the user requests deployment actions like \"deploy my app\", \"deploy and give me the link\", \"push this live\", or \"create a preview deployment\".",
+  "repo": "vercel-labs/agent-skills",
+  "path": "skills/deploy-to-vercel/SKILL.md",
+  "url": "https://github.com/vercel-labs/agent-skills/tree/HEAD/skills/deploy-to-vercel/SKILL.md",
+  "license": "unknown",
+  "body_bytes": 11500,
+  "truncated": false
+}

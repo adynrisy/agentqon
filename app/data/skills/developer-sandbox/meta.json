@@ -1,0 +1,11 @@
+{
+  "name": "developer-sandbox",
+  "display_name": "Developer Sandbox",
+  "description": "Design and build interactive playgrounds that let developers experience your product without commitment. This skill covers playground architecture, pre-populated examples, embedding strategies, gating decisions, and converting playground users to signups.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/developer-sandbox/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/developer-sandbox/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 3039,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "deterministic-design",
+  "display_name": "Deterministic Design",
+  "description": "Measure rendered UI layout with reproducible spatial metrics and a separately assessed usability review; distinguish measurements from subjective judgments and user tests.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/deterministic-design/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/deterministic-design/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 2729,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "docker-expert",
+  "display_name": "Docker Expert",
+  "description": "You are an advanced Docker containerization expert with comprehensive, practical knowledge of container optimization, security hardening, multi-stage builds, orchestration patterns, and production deployment strategies based on current industry best practices.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/docker-expert/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/docker-expert/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 14654,
+  "truncated": false
+}

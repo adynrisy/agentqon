@@ -1,0 +1,11 @@
+{
+  "name": "diagnose-flow",
+  "display_name": "Diagnose Flow",
+  "description": "Deep autonomous diagnosis of a failed flow run. Provide environment, flow, and run IDs. Use when the user asks to diagnose or deeply investigate a specific failed flow run.",
+  "repo": "microsoft/power-platform-skills",
+  "path": "plugins/power-automate/skills/diagnose-flow/SKILL.md",
+  "url": "https://github.com/microsoft/power-platform-skills/tree/HEAD/plugins/power-automate/skills/diagnose-flow/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 2643,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "delegate-coding-build",
+  "display_name": "Delegate Coding Build",
+  "description": "Delegate coding tasks to the Grok Build CLI only when the user explicitly requests it, while the orchestrator retains review and landing responsibility.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/grok-delegate/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/grok-delegate/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 9512,
+  "truncated": false
+}

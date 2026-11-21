@@ -1,0 +1,11 @@
+{
+  "name": "dns-management",
+  "display_name": "DNS Management",
+  "description": "Configure DNS zones and records. Manage Route53, Cloud DNS, and self-hosted DNS. Use when setting up DNS infrastructure.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/dns-management/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/dns-management/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 10201,
+  "truncated": false
+}

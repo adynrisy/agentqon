@@ -1,0 +1,11 @@
+{
+  "name": "doubt-driven-development",
+  "display_name": "Doubt Driven Development",
+  "description": "Subjects every non-trivial decision to a fresh-context adversarial review before it stands.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/doubt-driven-development/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/doubt-driven-development/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 17349,
+  "truncated": false
+}

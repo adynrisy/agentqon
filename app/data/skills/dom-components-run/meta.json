@@ -1,0 +1,11 @@
+{
+  "name": "dom-components-run",
+  "display_name": "Dom Components Run",
+  "description": "Use Expo DOM components to run web code in a webview on native and as-is on web. Migrate web code to native incrementally. For the end-to-end migration of a whole web app, use the expo-web-to-native skill.",
+  "repo": "expo/skills",
+  "path": "plugins/expo/skills/expo-dom/SKILL.md",
+  "url": "https://github.com/expo/skills/tree/HEAD/plugins/expo/skills/expo-dom/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 10107,
+  "truncated": false
+}

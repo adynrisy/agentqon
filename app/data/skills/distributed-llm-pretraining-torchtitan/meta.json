@@ -1,0 +1,11 @@
+{
+  "name": "distributed-llm-pretraining-torchtitan",
+  "display_name": "Distributed LLM Pretraining Torchtitan",
+  "description": "Provides PyTorch-native distributed LLM pretraining using torchtitan with 4D parallelism (FSDP2, TP, PP, CP). Use when pretraining Llama 3.1, DeepSeek V3, or custom models at scale from 8 to 512+ GPUs with Float8, torch.compile, and distributed checkpointing.",
+  "repo": "Orchestra-Research/AI-Research-SKILLs",
+  "path": "01-model-architecture/torchtitan/SKILL.md",
+  "url": "https://github.com/Orchestra-Research/AI-Research-SKILLs/tree/HEAD/01-model-architecture/torchtitan/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 8331,
+  "truncated": false
+}

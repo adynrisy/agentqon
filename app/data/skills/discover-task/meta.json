@@ -1,0 +1,11 @@
+{
+  "name": "discover-task",
+  "display_name": "Discover Task",
+  "description": "Discover AAS skills for an explicit task and compare their complete instructions without installing them.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/aas-discover/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/aas-discover/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 1774,
+  "truncated": false
+}

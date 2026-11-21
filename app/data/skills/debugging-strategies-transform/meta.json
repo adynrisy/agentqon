@@ -1,0 +1,11 @@
+{
+  "name": "debugging-strategies-transform",
+  "display_name": "Debugging Strategies · Transform",
+  "description": "Transform debugging from frustrating guesswork into systematic problem-solving with proven strategies, powerful tools, and methodical approaches.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/debugging-strategies/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/debugging-strategies/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 1299,
+  "truncated": false
+}

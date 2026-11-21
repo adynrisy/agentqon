@@ -1,0 +1,11 @@
+{
+  "name": "documentation-write-technical",
+  "display_name": "Documentation Write Technical",
+  "description": "Write and maintain technical documentation. Trigger with \"write docs for\", \"document this\", \"create a README\", \"write a runbook\", \"onboarding guide\", or when the user needs help with any form of technical writing — API docs, architecture docs, or operational runbooks.",
+  "repo": "anthropics/knowledge-work-plugins",
+  "path": "engineering/skills/documentation/SKILL.md",
+  "url": "https://github.com/anthropics/knowledge-work-plugins/tree/HEAD/engineering/skills/documentation/SKILL.md",
+  "license": "Apache-2.0",
+  "body_bytes": 1194,
+  "truncated": false
+}

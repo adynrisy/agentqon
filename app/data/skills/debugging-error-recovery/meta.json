@@ -1,0 +1,11 @@
+{
+  "name": "debugging-error-recovery",
+  "display_name": "Debugging Error Recovery",
+  "description": "Guides systematic root-cause debugging. Use when tests fail, builds break, behavior doesn't match expectations, or you encounter any unexpected error. Use when you need a systematic approach to finding and fixing the root cause rather than guessing.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/debugging-and-error-recovery/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/debugging-and-error-recovery/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 10670,
+  "truncated": false
+}

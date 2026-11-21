@@ -1,0 +1,11 @@
+{
+  "name": "edit-app",
+  "display_name": "Edit App",
+  "description": "Use when the user wants to iterate on an existing generated Power Apps mobile app after /create-mobile-app: update Application Insights configuration, the plan, data model, native capabilities, design, screens, generated app code, and preview without restarting the full project flow. Natural-language triggers include 'the app already exists', 'edit my app', 'change this screen', and 'add a feature to this app'.",
+  "repo": "microsoft/power-platform-skills",
+  "path": "plugins/mobile-apps/skills/edit-app/SKILL.md",
+  "url": "https://github.com/microsoft/power-platform-skills/tree/HEAD/plugins/mobile-apps/skills/edit-app/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 65536,
+  "truncated": true
+}

@@ -1,0 +1,11 @@
+{
+  "name": "design-system-mechanical",
+  "display_name": "Design System · Mechanical",
+  "description": "Mechanical implementation invariants for frontend design: token architecture, typography hierarchy, loading order, FOUT prevention, chrome stability, motion timing, color semantics. Use with design when building components, pages, or design systems.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "skills/design-system/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/skills/design-system/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 14929,
+  "truncated": false
+}

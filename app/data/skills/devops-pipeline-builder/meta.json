@@ -1,0 +1,11 @@
+{
+  "name": "devops-pipeline-builder",
+  "display_name": "DevOps Pipeline Builder",
+  "description": "Design and implement CI/CD pipelines, Docker configurations, deployment strategies, and infrastructure automation with production-ready patterns.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/devops-pipeline-builder/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/devops-pipeline-builder/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 5668,
+  "truncated": false
+}

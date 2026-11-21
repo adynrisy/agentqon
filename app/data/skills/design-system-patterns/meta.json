@@ -1,0 +1,11 @@
+{
+  "name": "design-system-patterns",
+  "display_name": "Design System Patterns",
+  "description": "Build scalable design systems with design tokens, theming infrastructure, and component architecture patterns. Use when creating design tokens, implementing theme switching, building component libraries, or establishing design system foundations.",
+  "repo": "wshobson/agents",
+  "path": "plugins/ui-design/skills/design-system-patterns/SKILL.md",
+  "url": "https://github.com/wshobson/agents/tree/HEAD/plugins/ui-design/skills/design-system-patterns/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 3705,
+  "truncated": false
+}

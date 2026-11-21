@@ -1,0 +1,11 @@
+{
+  "name": "deep-scrape",
+  "display_name": "Deep Scrape",
+  "description": "Build sourced JSON dossiers on people, companies, or topics with DeepAPI. Use for profiles, prospects, vendor due diligence, or customer research across sources; use deep-research for recommendations.",
+  "repo": "davidondrej/skills",
+  "path": "skills/research-and-web/deep-scrape/SKILL.md",
+  "url": "https://github.com/davidondrej/skills/tree/HEAD/skills/research-and-web/deep-scrape/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 8936,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "design-frontend",
+  "display_name": "Design Frontend",
+  "description": "Use when building high-agency frontend interfaces with strict design taste, calibrated color, responsive layout, and motion rules.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/design-taste-frontend/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/design-taste-frontend/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 21984,
+  "truncated": false
+}

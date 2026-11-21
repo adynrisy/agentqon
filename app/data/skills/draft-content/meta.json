@@ -1,0 +1,11 @@
+{
+  "name": "draft-content",
+  "display_name": "Draft Content",
+  "description": "Draft blog posts, social media, email newsletters, landing pages, press releases, and case studies with channel-specific formatting and SEO recommendations. Use when writing any marketing content, when you need headline or subject line options, or when adapting a message for a specific platform, audience, and brand voice.",
+  "repo": "anthropics/knowledge-work-plugins",
+  "path": "marketing/skills/draft-content/SKILL.md",
+  "url": "https://github.com/anthropics/knowledge-work-plugins/tree/HEAD/marketing/skills/draft-content/SKILL.md",
+  "license": "Apache-2.0",
+  "body_bytes": 4204,
+  "truncated": false
+}
