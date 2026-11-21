@@ -1,0 +1,11 @@
+{
+  "name": "accounting-audit-system-builder",
+  "display_name": "Accounting Audit System Builder",
+  "description": "Routes an accounting or audit request to the right module skill, from software selection through monthly closing, asking only what is missing. Use for books of accounts or audit files.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/accounting-audit-system-builder/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/accounting-audit-system-builder/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 12561,
+  "truncated": false
+}

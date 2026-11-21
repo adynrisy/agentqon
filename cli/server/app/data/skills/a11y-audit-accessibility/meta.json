@@ -1,0 +1,11 @@
+{
+  "name": "a11y-audit-accessibility",
+  "display_name": "A11y Audit · Accessibility",
+  "description": "Accessibility audit skill for scanning, fixing, and verifying WCAG 2.2 Level A and AA compliance across React, Next.js, Vue, Angular, Svelte, and plain HTML codebases. Use when auditing accessibility, fixing a11y violations, checking color contrast, generating compliance reports, or integrating accessibility checks into CI/CD pipelines.",
+  "repo": "alirezarezvani/claude-skills",
+  "path": ".gemini/skills/a11y-audit/SKILL.md",
+  "url": "https://github.com/alirezarezvani/claude-skills/tree/HEAD/.gemini/skills/a11y-audit/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 9398,
+  "truncated": false
+}

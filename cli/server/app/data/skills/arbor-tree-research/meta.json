@@ -1,0 +1,11 @@
+{
+  "name": "arbor-tree-research",
+  "display_name": "Arbor Tree Research",
+  "description": "Applies Arbor Hypothesis Tree Refinement to research artifacts with repeatable evaluators, including model training, agent harnesses, data synthesis and benchmark optimization. Uses persistent hypotheses, isolated experiments, evidence propagation and held-out candidate comparison for multi-experiment research runs. Includes a standard-library state manager and guidance for the RUC-NLPIR Arbor CLI.",
+  "repo": "K-Dense-AI/scientific-agent-skills",
+  "path": "skills/arbor/SKILL.md",
+  "url": "https://github.com/K-Dense-AI/scientific-agent-skills/tree/HEAD/skills/arbor/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 16220,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "3d-ui",
+  "display_name": "3D UI",
+  "description": "Web and App implementation guide for 3D UI. Trigger when user wants actual 3D objects, perspective effects, and spatial depth.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/design-it/3d-ui/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/design-it/3d-ui/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 8688,
+  "truncated": false
+}

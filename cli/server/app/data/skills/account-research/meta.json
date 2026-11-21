@@ -1,0 +1,11 @@
+{
+  "name": "account-research",
+  "display_name": "Account Research",
+  "description": "Research a company using Common Room data. Triggers on 'research [company]', 'tell me about [domain]', 'pull up signals for [account]', 'what's going on with [company]', or any account-level question.",
+  "repo": "anthropics/knowledge-work-plugins",
+  "path": "partner-built/common-room/skills/account-research/SKILL.md",
+  "url": "https://github.com/anthropics/knowledge-work-plugins/tree/HEAD/partner-built/common-room/skills/account-research/SKILL.md",
+  "license": "Apache-2.0",
+  "body_bytes": 5865,
+  "truncated": false
+}

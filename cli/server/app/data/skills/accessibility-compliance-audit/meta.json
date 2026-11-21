@@ -1,0 +1,11 @@
+{
+  "name": "accessibility-compliance-audit",
+  "display_name": "Accessibility Compliance Audit",
+  "description": "Audit pages and user journeys against a declared WCAG scope. Use when identifying keyboard, screen-reader, focus or contrast barriers and planning verified remediation.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/accessibility-compliance-accessibility-audit/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/accessibility-compliance-accessibility-audit/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 2589,
+  "truncated": false
+}

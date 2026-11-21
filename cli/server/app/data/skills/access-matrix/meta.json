@@ -1,0 +1,11 @@
+{
+  "name": "access-matrix",
+  "display_name": "Access Matrix",
+  "description": "Access matrix of role-by-module permissions, with per-role scope, confidentiality level and SME tier, as CSV, SQL, JSON Schema or Notion on request. Use for access reviews.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/access-matrix/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/access-matrix/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 14279,
+  "truncated": false
+}

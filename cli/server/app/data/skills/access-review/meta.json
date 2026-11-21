@@ -1,0 +1,11 @@
+{
+  "name": "access-review",
+  "display_name": "Access Review",
+  "description": "Conduct periodic access reviews and certifications. Implement access governance and recertification workflows. Use when managing access compliance.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/access-review/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/access-review/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 13814,
+  "truncated": false
+}

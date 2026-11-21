@@ -1,0 +1,11 @@
+{
+  "name": "arboreto-data-network",
+  "display_name": "Arboreto Data Network",
+  "description": "Infers candidate gene regulatory networks from bulk or single-cell expression data using AertsLab Arboreto GRNBoost2 and GENIE3. Use for transcription factor-target association ranking, compatible Dask execution, sparse expression inputs, and network stability checks.",
+  "repo": "K-Dense-AI/scientific-agent-skills",
+  "path": "skills/arboreto/SKILL.md",
+  "url": "https://github.com/K-Dense-AI/scientific-agent-skills/tree/HEAD/skills/arboreto/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 9997,
+  "truncated": false
+}

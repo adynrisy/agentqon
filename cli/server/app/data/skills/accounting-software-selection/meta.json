@@ -1,0 +1,11 @@
+{
+  "name": "accounting-software-selection",
+  "display_name": "Accounting Software Selection",
+  "description": "Scores shortlisted accounting packages against 57 evidence-backed fields, emitted as CSV, SQL, JSON Schema or Notion on request. Use for choosing accounting software.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/accounting-software-selection/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/accounting-software-selection/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 29254,
+  "truncated": false
+}

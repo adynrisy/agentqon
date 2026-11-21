@@ -1,0 +1,11 @@
+{
+  "name": "architect-review",
+  "display_name": "Architect Review",
+  "description": "Master software architect specializing in modern architecture",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/architect-review/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/architect-review/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 8403,
+  "truncated": false
+}

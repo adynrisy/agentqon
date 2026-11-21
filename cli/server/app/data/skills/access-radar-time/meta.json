@@ -1,0 +1,11 @@
+{
+  "name": "access-radar-time",
+  "display_name": "Access Radar Time",
+  "description": "Access official NOAA/NCEP MRMS radar and multisensor composites for a region and time; validate product, grid, domain, quality, timestamp, and provenance.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/nexrad-mosaic-access/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/nexrad-mosaic-access/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 12502,
+  "truncated": false
+}

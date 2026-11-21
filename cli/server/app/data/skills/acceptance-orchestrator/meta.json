@@ -1,0 +1,11 @@
+{
+  "name": "acceptance-orchestrator",
+  "display_name": "Acceptance Orchestrator",
+  "description": "Use when a coding task should be driven end-to-end from issue intake through implementation, review, deployment, and acceptance verification with minimal human re-intervention.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/acceptance-orchestrator/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/acceptance-orchestrator/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 3816,
+  "truncated": false
+}

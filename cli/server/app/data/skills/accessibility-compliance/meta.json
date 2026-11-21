@@ -1,0 +1,11 @@
+{
+  "name": "accessibility-compliance",
+  "display_name": "Accessibility Compliance",
+  "description": "Implement WCAG 2.2 compliant interfaces with mobile accessibility, inclusive design patterns, and assistive technology support. Use when auditing accessibility, implementing ARIA patterns, building for screen readers, or ensuring inclusive user experiences.",
+  "repo": "wshobson/agents",
+  "path": "plugins/ui-design/skills/accessibility-compliance/SKILL.md",
+  "url": "https://github.com/wshobson/agents/tree/HEAD/plugins/ui-design/skills/accessibility-compliance/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 2091,
+  "truncated": false
+}

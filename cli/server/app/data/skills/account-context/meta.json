@@ -1,0 +1,11 @@
+{
+  "name": "account-context",
+  "display_name": "Account Context",
+  "description": "360-degree view of an account - CRM data, recent email threads, docs, transcripts, and internal chat chatter, synthesized into one brief. Use when the user asks \"tell me about [account]\" (an existing customer; for a prospect, account-research), \"account context for [name]\", \"what's going on with [account]\", or \"catch me up on [account]\".",
+  "repo": "anthropics/knowledge-work-plugins",
+  "path": "sales/skills/account-context/SKILL.md",
+  "url": "https://github.com/anthropics/knowledge-work-plugins/tree/HEAD/sales/skills/account-context/SKILL.md",
+  "license": "Apache-2.0",
+  "body_bytes": 7318,
+  "truncated": false
+}

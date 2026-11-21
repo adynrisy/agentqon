@@ -1,0 +1,11 @@
+{
+  "name": "ar-resume",
+  "display_name": "AR Resume",
+  "description": "Resume a paused experiment. Checkout the experiment branch, read results history, continue iterating. Use when the user runs /ar:ar-resume or asks to pick up a previously started autoresearch experiment.",
+  "repo": "alirezarezvani/claude-skills",
+  "path": ".gemini/skills/ar-resume/SKILL.md",
+  "url": "https://github.com/alirezarezvani/claude-skills/tree/HEAD/.gemini/skills/ar-resume/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 1863,
+  "truncated": false
+}

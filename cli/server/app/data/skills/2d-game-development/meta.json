@@ -1,0 +1,11 @@
+{
+  "name": "2d-game-development",
+  "display_name": "2D Game Development",
+  "description": "2D game development principles. Sprites, atlases, tilemaps, physics, cameras, and genre patterns (platformer, top-down). Use for canvas/Phaser/Kaplay/Pixi 2D games or guest viewports inside hybrid web apps.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/game-development/2d-games/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/game-development/2d-games/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 3020,
+  "truncated": false
+}
