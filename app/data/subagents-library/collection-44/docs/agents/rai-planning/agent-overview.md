@@ -1,0 +1,181 @@
+---
+title: Agent Architecture
+description: Technical architecture of the RAI Planner agent including state management, instruction file references, interaction model, and session recovery
+sidebar_position: 3
+sidebar_label: Agent Architecture
+keywords:
+  - RAI Planner
+  - agent architecture
+  - state management
+  - NIST AI RMF
+tags:
+  - rai-planning
+  - architecture
+  - reference
+author: Microsoft
+ms.date: 2026-10-02
+ms.topic: reference
+estimated_reading_time: 7
+---
+
+## Architecture Diagram
+
+```mermaid
+flowchart TD
+  accTitle: RAI Planner Agent Architecture
+  accDescr: The RAI Planner reads and writes session state, generates phase artifacts, activates research for framework questions, and follows its identity, licensing, planning, and standards guidance.
+  subgraph Agent ["RAI Planner Agent"]
+    RP["rai-planner.agent.md"]
+    RR["rpi-research"]
+    RP -->|"activates framework research"| RR
+  end
+
+  subgraph State ["Assessment State"]
+    SJ["state.json"]
+    AF["Phase Artifacts"]
+    SJ -->|"references"| AF
+  end
+
+  subgraph Instructions ["Instruction Files"]
+    I1["rai-identity"]
+    I2["rai-license-posture"]
+  end
+
+  subgraph Skills ["Skills"]
+    S1["rai-planner"]
+    S2["rai-standards"]
+  end
+
+  RP -->|"reads/writes"| SJ
+  RP -->|"generates"| AF
+  RP -->|"follows"| I1
+  RP -->|"follows"| I2
+  RP -->|"uses"| S1
+  RP -->|"uses"| S2
+```
+
+The RAI Planner agent definition lives at `.github/agents/rai-planning/rai-planner.agent.md`. Two instruction files under `.github/instructions/rai-planning/` provide domain-specific guidance, auto-applied via `applyTo` patterns when working within `.copilot-tracking/rai-plans/`. Phase-specific assessment guidance lives in the `rai-planner` skill and the `rai-standards` skill.
+
+| Instruction file                      | Domain                                                                    |
+|---------------------------------------|---------------------------------------------------------------------------|
+| `rai-identity.instructions.md`        | Agent identity, orchestration, state management, session recovery         |
+| `rai-license-posture.instructions.md` | RAI standards licensing posture, source-class mapping, attribution gating |
+
+| Skill           | Domain                                                                                                         |
+|-----------------|----------------------------------------------------------------------------------------------------------------|
+| `rai-planner`   | Risk classification, impact assessment, security model, capture coaching, and backlog handoff phase references |
+| `rai-standards` | NIST AI RMF 1.0 trustworthiness characteristics, subcategory mappings, framework isolation, AI STRIDE overlay  |
+
+## State Management
+
+All assessment state persists under `.copilot-tracking/rai-plans/{project-slug}/`. The `state.json` file tracks phase progress, entry mode, and assessment metadata.
+
+### State Fields
+
+| Field                          | Type           | Purpose                                                                            |
+|--------------------------------|----------------|------------------------------------------------------------------------------------|
+| `projectSlug`                  | string         | Kebab-case project identifier                                                      |
+| `raiPlanFile`                  | string         | Path to the RAI plan markdown file                                                 |
+| `currentPhase`                 | number         | Current phase (1-6)                                                                |
+| `entryMode`                    | string         | `capture`, `from-prd`, or `from-security-plan`                                     |
+| `preflight`                    | object         | Phase 1 preflight data: `templates` array and `assessmentContentFile` string       |
+| `disclaimerShownAt`            | string or null | ISO 8601 timestamp when the disclaimer was displayed                               |
+| `noticeLog`                    | array          | Log of disclaimers, attribution notices, and exit reminders                        |
+| `phaseGates`                   | object         | Per-phase gate type (`hard` vs `summary-and-advance`) and `confirmedAt` timestamps |
+| `securityPlanRef`              | string or null | Path to security plan state when using `from-security-plan`                        |
+| `assessmentDepth`              | string         | Assessment tier (`Basic`, `Standard`, or `Comprehensive`)                          |
+| `riskClassification`           | object         | Phase 2 risk classification results including `suggestedDepthTier`                 |
+| `standardsMapped`              | boolean        | Whether Phase 3 mapping is complete                                                |
+| `securityModelAnalysisStarted` | boolean        | Whether Phase 4 analysis has begun                                                 |
+| `raiThreatCount`               | number         | Running count of identified RAI threats                                            |
+| `impactAssessmentGenerated`    | boolean        | Whether Phase 5 assessment is complete                                             |
+| `evidenceRegisterComplete`     | boolean        | Whether evidence register is finalized                                             |
+| `handoffGenerated`             | object         | Dual-format handoff status (`{ "ado": false, "github": false }`)                   |
+| `gateResults`                  | object         | Gate outcomes for threat coverage                                                  |
+| `runningObservations`          | array          | Cross-phase observation log with phase number, observation text, and flag level    |
+| `principleTracker`             | object         | Per-principle coverage status, threat counts, and open observations                |
+| `referencesProcessed`          | array          | Files that have been read and incorporated                                         |
+| `nextActions`                  | array          | Pending action items for the current phase                                         |
+| `signingRequested`             | boolean        | Whether artifact signing was requested                                             |
+| `signingManifestPath`          | string or null | Path to the signing manifest file                                                  |
+| `userPreferences`              | object         | User-specified preferences for interaction and output                              |
+
+### Six-Step State Protocol
+
+Every conversation turn follows this protocol:
+
+| Step | Action    | Description                                                   |
+|------|-----------|---------------------------------------------------------------|
+| 1    | READ      | Load `state.json` at conversation start                       |
+| 2    | VALIDATE  | Confirm state integrity and check for missing fields          |
+| 3    | DETERMINE | Identify current phase and next actions from state            |
+| 4    | EXECUTE   | Perform phase work (questions, analysis, artifact generation) |
+| 5    | UPDATE    | Update `state.json` with results                              |
+| 6    | WRITE     | Persist updated `state.json` to disk                          |
+
+## Interaction Model
+
+The agent asks up to 7 focused questions per turn, using emoji checklists to track progress within each phase.
+
+| Marker | Meaning                                            |
+|--------|----------------------------------------------------|
+| ❓      | Pending: question not yet answered                 |
+| ✅      | Complete: answer received and recorded             |
+| ❌      | Blocked or skipped: user indicated "skip" or "n/a" |
+
+Each turn begins by showing the current phase checklist status. When all questions for a phase reach ✅ or ❌, the agent summarizes findings. At hard gates (Phases 2, 3, and 6) it then asks for explicit confirmation before advancing; at summary-and-advance gates (Phases 1, 4, and 5) it advances unless the user objects.
+
+> [!NOTE]
+> Phases 2, 3, and 6 are hard gates that require explicit user confirmation before advancing. Phases 1, 4, and 5 are summary-and-advance gates: the agent presents a summary and advances unless the user objects. This keeps the user in control at the decision points that carry irreversible downstream effect while keeping lighter phases moving.
+
+## Session Resume Protocol
+
+When returning to an existing RAI assessment, the agent follows a five-step resume protocol:
+
+1. Read `state.json` from the project slug directory
+2. If `disclaimerShownAt` is `null`, display the Startup Announcement verbatim and record the timestamp
+3. Display current phase progress and checklist status
+4. Read persisted preflight state and perform validation:
+Revalidate every template by kind before dereferencing it. For documents, normalize the stored workspace-relative path, resolve it against the workspace root, and reject it when the result escapes the workspace. For Mural, accept only the stored opaque ID and keep authentication in the tool boundary.
+When templates is non-empty, verify the required assessmentContentFile; if it is missing or unusable, pause phase work and recreate it from every validated template, the authoritative rai-plan.md, and each template's local stableIdMap.
+Require every local map to be non-empty, one-to-one, and consistent with reconstructed content. If a local map is absent, empty, not one-to-one, or conflicting, obtain confirmation before issuing replacement IDs.
+Stop and ask the user if validation or recreation fails. When templates is empty, require a null content file. Summarize what was completed and what remains.
+5. Continue from the last incomplete action
+
+### Post-Summarization Recovery
+
+When conversation context is compacted, a seven-step recovery process reconstructs state:
+
+1. Read `state.json` for project slug and current phase
+2. If `disclaimerShownAt` is `null`, display the Startup Announcement verbatim and record the timestamp
+3. Run the complete Session Resume step 4 preflight validation and recovery contract, including the empty-template/null-content requirement, before reconstructing context or resuming the next task
+4. Read the RAI plan markdown file referenced in `raiPlanFile`
+5. Reconstruct context from existing artifacts (system definition pack, standards mapping, security model addendum, and control surface catalog)
+6. Identify the next incomplete task within the current phase
+7. Resume with a brief summary of recovered state and the next action
+
+> [!NOTE]
+> The disclaimer and attribution notices described above are conversational, displayed in the chat interface during session starts, resumes, and exit points. Generated artifacts in Phases 5 and 6 carry separate persisted footers (AI-content transparency notes, human review checkboxes, and full disclaimers on handoff deliverables) written directly into the markdown files. See [Handoff Pipeline](handoff-pipeline#artifact-attribution-and-review) for details on persisted artifact footers.
+
+## Operational Constraints
+
+* All files are created under `.copilot-tracking/rai-plans/{project-slug}/`
+* The agent never modifies application source code
+* Embedded standards (NIST AI RMF 1.0) are referenced from the `rai-standards` skill
+* Additional framework lookups (WAF, CAF, ISO 42001, EU AI Act details) activate `rpi-research`
+* In `from-security-plan` mode, security plan artifacts are read-only
+
+## Related Files
+
+| File                                                                | Purpose                             |
+|---------------------------------------------------------------------|-------------------------------------|
+| `.github/agents/rai-planning/rai-planner.agent.md`                  | Agent definition                    |
+| `.github/agents/rai-planning/rai-reviewer.agent.md`                 | Reviewer agent orchestrator         |
+| `.github/agents/rai-planning/subagents/rai-skill-assessor.agent.md` | Skill assessor subagent             |
+| `.github/instructions/rai-planning/*.instructions.md`               | Identity and licensing instructions |
+| `.copilot-tracking/rai-plans/{project-slug}/state.json`             | Assessment state                    |
+
+<!-- markdownlint-disable MD036 -->
+*🤖 Crafted with precision by ✨Copilot following brilliant human instruction,
+then carefully refined by our team of discerning human reviewers.*
+<!-- markdownlint-enable MD036 -->
