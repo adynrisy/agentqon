@@ -1,0 +1,11 @@
+{
+  "name": "experiment-designer",
+  "display_name": "Experiment Designer",
+  "description": "Use when planning product experiments, writing testable hypotheses, estimating sample size, prioritizing tests, or interpreting A/B outcomes with practical statistical rigor.",
+  "repo": "alirezarezvani/claude-skills",
+  "path": ".gemini/skills/experiment-designer/SKILL.md",
+  "url": "https://github.com/alirezarezvani/claude-skills/tree/HEAD/.gemini/skills/experiment-designer/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 2906,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "flowhunt-automation-discovery",
+  "display_name": "Flowhunt Automation Discovery",
+  "description": "Automation discovery audit skill. Walks through a 5-question workflow intake, then audits Gmail/Calendar/Slack/task trackers to identify automation opportunities. Use when a user wants to discover what processes in their business can be automated.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/flowhunt-skill/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/flowhunt-skill/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 4744,
+  "truncated": false
+}

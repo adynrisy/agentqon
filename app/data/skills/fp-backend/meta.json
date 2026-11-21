@@ -1,0 +1,11 @@
+{
+  "name": "fp-backend",
+  "display_name": "Fp Backend",
+  "description": "Functional programming patterns for Node.js/Deno backend development using fp-ts, ReaderTaskEither, and functional dependency injection",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/fp-backend/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/fp-backend/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 1063,
+  "truncated": false
+}

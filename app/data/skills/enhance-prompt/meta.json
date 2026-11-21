@@ -1,0 +1,11 @@
+{
+  "name": "enhance-prompt",
+  "display_name": "Enhance Prompt",
+  "description": "Transforms vague UI ideas into polished, Stitch-optimized prompts. Enhances specificity, adds UI/UX keywords, injects design system context, and structures output for better generation results.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/enhance-prompt/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/enhance-prompt/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 6684,
+  "truncated": false
+}

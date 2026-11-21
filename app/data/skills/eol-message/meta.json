@@ -1,0 +1,11 @@
+{
+  "name": "eol-message",
+  "display_name": "Eol Message",
+  "description": "Write a right-sized EOL announcement — brief notice through full phased comms — with rationale, customer impact, and next steps. Use when retiring a product, feature, or plan.",
+  "repo": "deanpeters/Product-Manager-Skills",
+  "path": "skills/eol-message/SKILL.md",
+  "url": "https://github.com/deanpeters/Product-Manager-Skills/tree/HEAD/skills/eol-message/SKILL.md",
+  "license": "CC",
+  "body_bytes": 16495,
+  "truncated": false
+}

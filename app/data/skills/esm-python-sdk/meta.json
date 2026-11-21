@@ -1,0 +1,11 @@
+{
+  "name": "esm-python-sdk",
+  "display_name": "Esm Python SDK",
+  "description": "Uses the Biohub esm Python SDK for ESM3 protein generation, ESMC embeddings, and ESMFold2 all-atom folding. Applies to local model inference and Biohub hosted clients, including former Forge workflows; distinguishes the separate legacy fair-esm distribution.",
+  "repo": "K-Dense-AI/scientific-agent-skills",
+  "path": "skills/esm/SKILL.md",
+  "url": "https://github.com/K-Dense-AI/scientific-agent-skills/tree/HEAD/skills/esm/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 10061,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "fedramp-compliance",
+  "display_name": "Fedramp Compliance",
+  "description": "Implement FedRAMP requirements for federal cloud services. Configure NIST 800-53 controls and continuous monitoring. Use when providing cloud services to US federal agencies.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/fedramp-compliance/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/fedramp-compliance/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 15723,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "extract-debugging-solution",
+  "display_name": "Extract Debugging Solution",
+  "description": "Turn a proven pattern or debugging solution into a standalone reusable skill with SKILL.md, reference docs, and examples. Use when the user runs /si:extract or asks to package a recurring solution from memory into a skill.",
+  "repo": "alirezarezvani/claude-skills",
+  "path": ".gemini/skills/extract/SKILL.md",
+  "url": "https://github.com/alirezarezvani/claude-skills/tree/HEAD/.gemini/skills/extract/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 5450,
+  "truncated": false
+}

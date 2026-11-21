@@ -1,0 +1,11 @@
+{
+  "name": "etsy-star-seller",
+  "display_name": "Etsy Star Seller",
+  "description": "Star Seller achievement guide — response time, shipping tracking, 5-star ratings, maintaining status",
+  "repo": "nexscope-ai/eCommerce-Skills",
+  "path": "etsy-star-seller/SKILL.md",
+  "url": "https://github.com/nexscope-ai/eCommerce-Skills/tree/HEAD/etsy-star-seller/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 1544,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "evolving-domain-llm",
+  "display_name": "Evolving Domain LLM",
+  "description": "Provides guidance for automatically evolving and optimizing AI agents across any domain using LLM-driven evolution algorithms. Use when building self-improving agents, optimizing agent prompts and skills against benchmarks, or implementing automated agent evaluation loops.",
+  "repo": "Orchestra-Research/AI-Research-SKILLs",
+  "path": "14-agents/a-evolve/SKILL.md",
+  "url": "https://github.com/Orchestra-Research/AI-Research-SKILLs/tree/HEAD/14-agents/a-evolve/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 14067,
+  "truncated": false
+}

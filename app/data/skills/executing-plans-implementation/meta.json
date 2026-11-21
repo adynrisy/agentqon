@@ -1,0 +1,11 @@
+{
+  "name": "executing-plans-implementation",
+  "display_name": "Executing Plans · Implementation",
+  "description": "Use when executing an implementation plan in the current session as the implementer yourself — your human partner chose inline execution, or no subagent tool is available",
+  "repo": "obra/superpowers",
+  "path": "skills/executing-plans/SKILL.md",
+  "url": "https://github.com/obra/superpowers/tree/HEAD/skills/executing-plans/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 20188,
+  "truncated": false
+}

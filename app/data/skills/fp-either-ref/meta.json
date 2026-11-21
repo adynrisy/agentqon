@@ -1,0 +1,11 @@
+{
+  "name": "fp-either-ref",
+  "display_name": "Fp Either Ref",
+  "description": "Quick reference for Either type. Use when user needs error handling, validation, or operations that can fail with typed errors.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/fp-either-ref/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/fp-either-ref/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 2813,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "frontend-optimistic-mutations",
+  "display_name": "Frontend Optimistic Mutations",
+  "description": "A portable, framework-agnostic discipline for the write path of any React or React Native app using a query/cache layer.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/frontend-optimistic-mutations/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/frontend-optimistic-mutations/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 13781,
+  "truncated": false
+}

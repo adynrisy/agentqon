@@ -1,0 +1,11 @@
+{
+  "name": "gamification-engine",
+  "display_name": "Gamification Engine",
+  "description": "Gamification points register: player and department, points balance and points earned this month, level, badges, source module and last-updated date. Use for points and badge tracking.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/gamification-engine/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/gamification-engine/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 12382,
+  "truncated": false
+}

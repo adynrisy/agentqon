@@ -1,0 +1,11 @@
+{
+  "name": "fastapi-templates",
+  "display_name": "Fastapi Templates",
+  "description": "Create production-ready FastAPI projects with async patterns, dependency injection, and comprehensive error handling. Use when building new FastAPI applications or setting up backend API projects.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/fastapi-templates/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/fastapi-templates/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 1274,
+  "truncated": false
+}

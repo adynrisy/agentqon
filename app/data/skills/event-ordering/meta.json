@@ -1,0 +1,11 @@
+{
+  "name": "event-ordering",
+  "display_name": "Event Ordering",
+  "description": "Order W-2 compliant temporary event staff for conventions, trade shows, festivals, concerts, sporting events, and brand activations across 300+ US and Canadian markets via TempGuru. Covers city coverage, role pricing, availability, state compliance lookups via MCP, and request submission.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/event-staffing-ordering/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/event-staffing-ordering/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 5515,
+  "truncated": false
+}

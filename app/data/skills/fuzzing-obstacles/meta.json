@@ -1,0 +1,11 @@
+{
+  "name": "fuzzing-obstacles",
+  "display_name": "Fuzzing Obstacles",
+  "description": "Patches past the barriers that stop a fuzzer making progress — checksum and hash verification, magic-value validation, time-based seeds, and other non-deterministic global state. Covers locating the blocking check, neutering it behind a fuzzing build flag, and avoiding the false positives a patch can introduce. Use when a fuzzer is stuck at validation, when coverage shows large regions behind a checksum, or when valid inputs are impractical to generate.",
+  "repo": "trailofbits/skills",
+  "path": "plugins/testing-handbook-skills/skills/fuzzing-obstacles/SKILL.md",
+  "url": "https://github.com/trailofbits/skills/tree/HEAD/plugins/testing-handbook-skills/skills/fuzzing-obstacles/SKILL.md",
+  "license": "CC",
+  "body_bytes": 15298,
+  "truncated": false
+}

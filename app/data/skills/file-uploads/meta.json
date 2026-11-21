@@ -1,0 +1,11 @@
+{
+  "name": "file-uploads",
+  "display_name": "File Uploads",
+  "description": "Expert at handling file uploads and cloud storage. Covers S3, Cloudflare R2, presigned URLs, multipart uploads, and image optimization. Knows how to handle large files without blocking.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/file-uploads/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/file-uploads/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 5546,
+  "truncated": false
+}

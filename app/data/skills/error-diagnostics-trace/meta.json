@@ -1,0 +1,11 @@
+{
+  "name": "error-diagnostics-trace",
+  "display_name": "Error Diagnostics Trace",
+  "description": "You are an error tracking and observability expert specializing in implementing comprehensive error monitoring solutions. Set up error tracking systems, configure alerts, implement structured logging,",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/error-diagnostics-error-trace/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/error-diagnostics-error-trace/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 2168,
+  "truncated": false
+}

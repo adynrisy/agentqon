@@ -1,0 +1,11 @@
+{
+  "name": "fix-playwright-user",
+  "display_name": "Fix Playwright User",
+  "description": "Fix failing or flaky Playwright tests. Use when user says \"fix test\", \"flaky test\", \"test failing\", \"debug test\", \"test broken\", \"test passes sometimes\", or \"intermittent failure\".",
+  "repo": "alirezarezvani/claude-skills",
+  "path": ".gemini/skills/fix/SKILL.md",
+  "url": "https://github.com/alirezarezvani/claude-skills/tree/HEAD/.gemini/skills/fix/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 2833,
+  "truncated": false
+}

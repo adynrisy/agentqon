@@ -1,0 +1,11 @@
+{
+  "name": "fp-react",
+  "display_name": "Fp React",
+  "description": "Practical patterns for using fp-ts with React - hooks, state, forms, data fetching. Works with React 18/19, Next.js 14/15.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/fp-react/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/fp-react/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 1228,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "folder-specific",
+  "display_name": "Folder Specific",
+  "description": "Create folder-scoped CLAUDE.md and AGENTS.md guidance for future agents working in that area.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/folder-specific-claude-and-agents-md/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/folder-specific-claude-and-agents-md/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 5437,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "fixing-accessibility",
+  "display_name": "Fixing Accessibility",
+  "description": "Audit and fix HTML accessibility issues including ARIA labels, keyboard navigation, focus management, color contrast, and form errors. Use when adding interactive controls, forms, dialogs, or reviewing WCAG compliance.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/fixing-accessibility/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/fixing-accessibility/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 5090,
+  "truncated": false
+}

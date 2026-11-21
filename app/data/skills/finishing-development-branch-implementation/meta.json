@@ -1,0 +1,11 @@
+{
+  "name": "finishing-development-branch-implementation",
+  "display_name": "Finishing Development Branch · Implementation",
+  "description": "Use when implementation is complete, all tests pass, and you need to decide how to integrate the work",
+  "repo": "obra/superpowers",
+  "path": "skills/finishing-a-development-branch/SKILL.md",
+  "url": "https://github.com/obra/superpowers/tree/HEAD/skills/finishing-a-development-branch/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 7620,
+  "truncated": false
+}

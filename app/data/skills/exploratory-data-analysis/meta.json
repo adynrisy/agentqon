@@ -1,0 +1,11 @@
+{
+  "name": "exploratory-data-analysis",
+  "display_name": "Exploratory Data Analysis",
+  "description": "Performs bounded, local exploratory analysis of explicitly supported scientific files. Supports redacted CSV/TSV/JSON profiles; optional NumPy, HDF5, FASTA/FASTQ, and basic image metadata inspection; missingness/leakage audits; outlier and transformation sensitivity; and rigorous EDA report scaffolds. Other domain formats are reference-only and unknown formats fail closed.",
+  "repo": "K-Dense-AI/scientific-agent-skills",
+  "path": "skills/exploratory-data-analysis/SKILL.md",
+  "url": "https://github.com/K-Dense-AI/scientific-agent-skills/tree/HEAD/skills/exploratory-data-analysis/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 13959,
+  "truncated": false
+}

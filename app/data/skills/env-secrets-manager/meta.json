@@ -1,0 +1,11 @@
+{
+  "name": "env-secrets-manager",
+  "display_name": "Env Secrets Manager",
+  "description": "Manage environment-variable hygiene and secrets safety across local development and production. Practical auditing, drift awareness, rotation readiness. Use when auditing .env files for committed secrets, planning a credential rotation, debugging missing-env-var production incidents, or hardening a new project against secrets leakage.",
+  "repo": "alirezarezvani/claude-skills",
+  "path": ".gemini/skills/env-secrets-manager/SKILL.md",
+  "url": "https://github.com/alirezarezvani/claude-skills/tree/HEAD/.gemini/skills/env-secrets-manager/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 10311,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "favicon-generate-source",
+  "display_name": "Favicon Generate Source",
+  "description": "Generate favicons from a source image",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/favicon/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/favicon/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 9405,
+  "truncated": false
+}

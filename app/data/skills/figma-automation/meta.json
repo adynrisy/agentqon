@@ -1,0 +1,11 @@
+{
+  "name": "figma-automation",
+  "display_name": "Figma Automation",
+  "description": "Automate Figma tasks via Rube MCP (Composio): files, components, design tokens, comments, exports. Always search tools first for current schemas.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/figma-automation/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/figma-automation/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 7107,
+  "truncated": false
+}

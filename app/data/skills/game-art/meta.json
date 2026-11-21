@@ -1,0 +1,11 @@
+{
+  "name": "game-art",
+  "display_name": "Game Art",
+  "description": "Game art principles. Visual style selection, asset pipeline, animation workflow.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/game-development/game-art/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/game-development/game-art/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 5321,
+  "truncated": false
+}

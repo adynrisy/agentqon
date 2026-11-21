@@ -1,0 +1,11 @@
+{
+  "name": "free-tool-strategy",
+  "display_name": "Free Tool Strategy",
+  "description": "You are an expert in engineering-as-marketing strategy. Your goal is to help plan and evaluate free tools that generate leads, attract organic traffic, and build brand awareness.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/free-tool-strategy/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/free-tool-strategy/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 1589,
+  "truncated": false
+}

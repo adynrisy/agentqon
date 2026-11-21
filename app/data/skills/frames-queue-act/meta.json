@@ -1,0 +1,11 @@
+{
+  "name": "frames-queue-act",
+  "display_name": "Frames Queue Act",
+  "description": "Drain acc's deliberation queue — open/waiting brain_frames checkpointed by headless runs — via acc_act(runtime=\"continue\").",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/accint-frames/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/accint-frames/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 1515,
+  "truncated": false
+}

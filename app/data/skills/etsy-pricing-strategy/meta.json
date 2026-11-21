@@ -1,0 +1,11 @@
+{
+  "name": "etsy-pricing-strategy",
+  "display_name": "Etsy Pricing Strategy",
+  "description": "Etsy pricing — cost calculation, competitor pricing, perceived value, shipping cost integration, sales and coupons",
+  "repo": "nexscope-ai/eCommerce-Skills",
+  "path": "etsy-pricing-strategy/SKILL.md",
+  "url": "https://github.com/nexscope-ai/eCommerce-Skills/tree/HEAD/etsy-pricing-strategy/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 1583,
+  "truncated": false
+}

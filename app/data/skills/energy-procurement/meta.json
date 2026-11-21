@@ -1,0 +1,11 @@
+{
+  "name": "energy-procurement",
+  "display_name": "Energy Procurement",
+  "description": "Codified expertise for electricity and gas procurement, tariff optimisation, demand charge management, renewable PPA evaluation, and multi-facility energy cost management.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/energy-procurement/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/energy-procurement/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 29520,
+  "truncated": false
+}

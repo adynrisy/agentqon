@@ -1,0 +1,11 @@
+{
+  "name": "framework-azure-ai-py",
+  "display_name": "Framework Azure AI Py",
+  "description": "Build persistent agents on Azure AI Foundry using the Microsoft Agent Framework Python SDK.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/agent-framework-azure-ai-py/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/agent-framework-azure-ai-py/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 10330,
+  "truncated": false
+}

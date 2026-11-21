@@ -1,0 +1,11 @@
+{
+  "name": "financial-analyst",
+  "display_name": "Financial Analyst",
+  "description": "Financial Analyst agent for DCF valuation, financial modeling, budgeting, forecasting, and SaaS metrics (ARR, MRR, churn, CAC, LTV, NRR). Orchestrates finance skills. Spawn when users need financial analysis, valuation models, budget planning, ratio analysis, SaaS health checks, or unit economics projections.",
+  "repo": "alirezarezvani/claude-skills",
+  "path": ".gemini/skills/cs-financial-analyst/SKILL.md",
+  "url": "https://github.com/alirezarezvani/claude-skills/tree/HEAD/.gemini/skills/cs-financial-analyst/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 4317,
+  "truncated": false
+}

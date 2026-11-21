@@ -1,0 +1,11 @@
+{
+  "name": "end-day",
+  "display_name": "End Day",
+  "description": "The closing beat of the day - every call processed or explicitly skipped, the CRM brought current, commitments captured, and tomorrow's top three teed up. Use when the user says \"end of day\", \"close out my day\", \"process today's calls\", \"EOD\", or on an evening schedule. Companion bookend to daily-briefing.",
+  "repo": "anthropics/knowledge-work-plugins",
+  "path": "sales/skills/end-of-day/SKILL.md",
+  "url": "https://github.com/anthropics/knowledge-work-plugins/tree/HEAD/sales/skills/end-of-day/SKILL.md",
+  "license": "Apache-2.0",
+  "body_bytes": 8485,
+  "truncated": false
+}

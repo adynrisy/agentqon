@@ -1,0 +1,11 @@
+{
+  "name": "full-page-screenshot",
+  "display_name": "Full Page Screenshot",
+  "description": "Use when the user asks to capture a full-page screenshot, long screenshot, or complete page capture of a web page. Handles SPA scroll containers, lazy-loaded images, and very tall pages via Chrome DevTools Protocol with zero external dependencies.",
+  "repo": "alirezarezvani/claude-skills",
+  "path": ".gemini/skills/full-page-screenshot/SKILL.md",
+  "url": "https://github.com/alirezarezvani/claude-skills/tree/HEAD/.gemini/skills/full-page-screenshot/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 5207,
+  "truncated": false
+}

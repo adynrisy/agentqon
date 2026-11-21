@@ -1,0 +1,11 @@
+{
+  "name": "frontend-ui-dark-ts",
+  "display_name": "Frontend UI Dark TS",
+  "description": "A modern dark-themed React UI system using Tailwind CSS and Framer Motion. Designed for dashboards, admin panels, and data-rich applications with glassmorphism effects and tasteful animations.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/frontend-ui-dark-ts/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/frontend-ui-dark-ts/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 1719,
+  "truncated": false
+}

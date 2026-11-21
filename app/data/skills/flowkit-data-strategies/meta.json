@@ -1,0 +1,11 @@
+{
+  "name": "flowkit-data-strategies",
+  "display_name": "Flowkit Data Strategies",
+  "description": "Analyzes flow cytometry data with FlowKit, including spillover compensation, logicle and biexponential transforms, hierarchical gating, GatingML strategies, and supported FlowJo 10 workspaces. Use for reproducible gate counts, population percentages, gated fluorescence summaries, or reproducing a FlowJo analysis in Python. For FCS metadata inspection or file-format repair alone, use FlowIO.",
+  "repo": "K-Dense-AI/scientific-agent-skills",
+  "path": "skills/flowkit/SKILL.md",
+  "url": "https://github.com/K-Dense-AI/scientific-agent-skills/tree/HEAD/skills/flowkit/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 7896,
+  "truncated": false
+}

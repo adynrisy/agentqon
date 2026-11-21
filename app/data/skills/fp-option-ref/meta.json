@@ -1,0 +1,11 @@
+{
+  "name": "fp-option-ref",
+  "display_name": "Fp Option Ref",
+  "description": "Quick reference for Option type. Use when user needs to handle nullable values, optional data, or wants to avoid null checks.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/fp-option-ref/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/fp-option-ref/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 2612,
+  "truncated": false
+}

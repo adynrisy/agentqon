@@ -1,0 +1,11 @@
+{
+  "name": "game-design",
+  "display_name": "Game Design",
+  "description": "Game design principles. GDD structure, balancing, player psychology, progression.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/game-development/game-design/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/game-development/game-design/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 3397,
+  "truncated": false
+}

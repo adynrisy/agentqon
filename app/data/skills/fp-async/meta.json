@@ -1,0 +1,11 @@
+{
+  "name": "fp-async",
+  "display_name": "Fp Async",
+  "description": "Practical async patterns using TaskEither - clean pipelines instead of try/catch hell, with real API examples",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/fp-async/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/fp-async/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 7132,
+  "truncated": false
+}

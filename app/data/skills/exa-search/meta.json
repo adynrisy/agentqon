@@ -1,0 +1,11 @@
+{
+  "name": "exa-search",
+  "display_name": "Exa Search",
+  "description": "Semantic search, similar content discovery, and structured research using Exa API. Use when you need semantic/embeddings-based search, finding similar content, or searching by category (company, people, research papers, etc.).",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/exa-search/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/exa-search/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 1733,
+  "truncated": false
+}

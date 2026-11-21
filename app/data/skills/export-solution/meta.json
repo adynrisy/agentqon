@@ -1,0 +1,11 @@
+{
+  "name": "export-solution",
+  "display_name": "Export Solution",
+  "description": "Exports a Dataverse solution containing Power Pages site components as a zip file, ready for deployment to another environment. Use when asked to: \"export solution\", \"download solution\", \"export managed\", \"export unmanaged\", \"package for deployment\", \"create solution zip\", \"export site package\", or \"build deployment artifact\".",
+  "repo": "microsoft/power-platform-skills",
+  "path": "plugins/power-pages/skills/export-solution/SKILL.md",
+  "url": "https://github.com/microsoft/power-platform-skills/tree/HEAD/plugins/power-pages/skills/export-solution/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 27086,
+  "truncated": false
+}

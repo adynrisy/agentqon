@@ -1,0 +1,11 @@
+{
+  "name": "email-sequence-marketing",
+  "display_name": "Email Sequence · Marketing",
+  "description": "Design and draft multi-email sequences with full copy, timing, branching logic, exit conditions, and performance benchmarks. Use when building onboarding, lead nurture, re-engagement, win-back, or product launch flows, when you need a complete drip campaign with A/B test suggestions, or when mapping a sequence end-to-end with a flow diagram.",
+  "repo": "anthropics/knowledge-work-plugins",
+  "path": "marketing/skills/email-sequence/SKILL.md",
+  "url": "https://github.com/anthropics/knowledge-work-plugins/tree/HEAD/marketing/skills/email-sequence/SKILL.md",
+  "license": "Apache-2.0",
+  "body_bytes": 10207,
+  "truncated": false
+}

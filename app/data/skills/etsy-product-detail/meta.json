@@ -1,0 +1,11 @@
+{
+  "name": "etsy-product-detail",
+  "display_name": "Etsy Product Detail",
+  "description": "Etsy product detail scraper: given an Etsy listing URL, returns full product detail including listingId, title, priceCurrent, priceOriginal, currency, images (all), description, shopName, shopUrl, rating, reviewCount, favorites, inCartCount, variations (with per-option price ranges), highlights, listedDate, relatedTags. Use when user mentions Etsy product, Etsy listing detail, Etsy item info, Etsy product page, scrape Etsy listing, extract Etsy product data, Etsy price and variations, Etsy product images, Etsy product description, Etsy shop from listing, Etsy favorites count, Etsy sale count, Etsy variations extraction, Etsy listing metadata, single Etsy product scrape, bulk enrich Etsy listing URLs, Etsy product details export. Also applies to competitor product monitoring, price and variation tracking on a specific listing, favorites/wishlist popularity tracking, description mining for SEO analysis, and any per-listing enrichment task.",
+  "repo": "browser-act/skills",
+  "path": "solutions/ecommerce/etsy-product-detail/SKILL.md",
+  "url": "https://github.com/browser-act/skills/tree/HEAD/solutions/ecommerce/etsy-product-detail/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 8156,
+  "truncated": false
+}

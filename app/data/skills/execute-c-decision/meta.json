@@ -1,0 +1,11 @@
+{
+  "name": "execute-c-decision",
+  "display_name": "Execute C Decision",
+  "description": "/c-level-agents:execute [decision] — Generate a 90-day execution plan with weekly milestones, DRIs, and check-in cadence from an approved decision. Use when a logged decision needs to become an operating plan — e.g. turning an approved market-entry call into weekly milestones with DRIs.",
+  "repo": "alirezarezvani/claude-skills",
+  "path": ".gemini/skills/execute/SKILL.md",
+  "url": "https://github.com/alirezarezvani/claude-skills/tree/HEAD/.gemini/skills/execute/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 3207,
+  "truncated": false
+}

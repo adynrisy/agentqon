@@ -1,0 +1,11 @@
+{
+  "name": "evaluation-prompt-changes",
+  "display_name": "Evaluation Prompt Changes",
+  "description": "Evaluate agent behavior with versioned cases and explicit verifiers. Use when comparing agent or prompt changes, reproducing failures, or running agent regression tests.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/agent-evaluation/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/agent-evaluation/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 7514,
+  "truncated": false
+}

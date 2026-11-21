@@ -1,0 +1,11 @@
+{
+  "name": "frontend-pages-structure",
+  "display_name": "Frontend Pages Structure",
+  "description": "Use when generating elite GSAP-heavy frontend pages with strict AIDA structure, wide hero typography, and gapless bento grids.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/gpt-taste/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/gpt-taste/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 8632,
+  "truncated": false
+}

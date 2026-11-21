@@ -1,0 +1,11 @@
+{
+  "name": "etsy-listing",
+  "display_name": "Etsy Listing",
+  "description": "Etsy category page scraper: given an Etsy category URL (e.g. https://www.etsy.com/c/jewelry) and optional page number, returns paginated product listings with listingId, shopId, title, url, image, salePrice, originalPrice, currency, rating, reviewCount, shopName, isAd, freeShipping, badge from category and subcategory pages. Use when user mentions Etsy category, Etsy c/ URL, etsy.com category, browse Etsy categories, scrape Etsy category, Etsy category listing, extract Etsy category products, Etsy subcategory, Etsy jewelry, Etsy clothing, Etsy home decor, Etsy wedding, Etsy accessories, Etsy craft supplies, Etsy vintage category, Etsy category page scraper, Etsy taxonomy, get all products from an Etsy category, bulk category export from Etsy, Etsy niche scraping. Also applies to trend research within a specific Etsy category, competitor benchmarking within a category, sourcing suppliers by category, seasonal product monitoring, and paginated bulk collection driven by a category URL.",
+  "repo": "browser-act/skills",
+  "path": "solutions/ecommerce/etsy-category-listing/SKILL.md",
+  "url": "https://github.com/browser-act/skills/tree/HEAD/solutions/ecommerce/etsy-category-listing/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 7133,
+  "truncated": false
+}

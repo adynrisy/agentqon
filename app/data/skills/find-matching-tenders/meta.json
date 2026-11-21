@@ -1,0 +1,11 @@
+{
+  "name": "find-matching-tenders",
+  "display_name": "Find Matching Tenders",
+  "description": "Find open AU/NZ government tenders matching what a company does, ranked by fit with why and gap analysis. Use when the user asks to find tenders, bid opportunities, government contracts, or RFPs for their business (or a client's).",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/find-matching-tenders/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/find-matching-tenders/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 3823,
+  "truncated": false
+}

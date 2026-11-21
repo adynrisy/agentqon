@@ -1,0 +1,11 @@
+{
+  "name": "fp-ts-pragmatic",
+  "display_name": "Fp TS Pragmatic",
+  "description": "A practical, jargon-free guide to fp-ts functional programming - the 80/20 approach that gets results without the academic overhead. Use when writing TypeScript with fp-ts library.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/fp-ts-pragmatic/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/fp-ts-pragmatic/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 3060,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "full-output-enforcement",
+  "display_name": "Full Output Enforcement",
+  "description": "Use when a task requires exhaustive unabridged output, complete files, or strict prevention of placeholders and skipped code.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/full-output-enforcement/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/full-output-enforcement/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 4118,
+  "truncated": false
+}

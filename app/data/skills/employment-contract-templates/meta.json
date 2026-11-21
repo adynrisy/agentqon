@@ -1,0 +1,11 @@
+{
+  "name": "employment-contract-templates",
+  "display_name": "Employment Contract Templates",
+  "description": "Templates and patterns for creating legally sound employment documentation including contracts, offer letters, and HR policies.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/employment-contract-templates/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/employment-contract-templates/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 1414,
+  "truncated": false
+}

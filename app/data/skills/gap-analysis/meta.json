@@ -1,0 +1,11 @@
+{
+  "name": "gap-analysis",
+  "display_name": "Gap Analysis",
+  "description": "Skill gap register: employee, skill area, current against required level, gap severity and recommended training. Use for capability planning.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/skill-gap-analysis/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/skill-gap-analysis/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 14013,
+  "truncated": false
+}

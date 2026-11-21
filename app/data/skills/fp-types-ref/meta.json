@@ -1,0 +1,11 @@
+{
+  "name": "fp-types-ref",
+  "display_name": "Fp Types Ref",
+  "description": "Quick reference for fp-ts types. Use when user asks which type to use, needs Option/Either/Task decision help, or wants fp-ts imports.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/fp-types-ref/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/fp-types-ref/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 2482,
+  "truncated": false
+}

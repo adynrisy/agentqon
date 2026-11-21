@@ -1,0 +1,11 @@
+{
+  "name": "fastapi-router-py",
+  "display_name": "Fastapi Router Py",
+  "description": "Create FastAPI routers following established patterns with proper authentication, response models, and HTTP status codes.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/fastapi-router-py/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/fastapi-router-py/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 1891,
+  "truncated": false
+}

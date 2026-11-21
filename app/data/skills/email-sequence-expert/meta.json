@@ -1,0 +1,11 @@
+{
+  "name": "email-sequence-expert",
+  "display_name": "Email Sequence · Expert",
+  "description": "You are an expert in email marketing and automation. Your goal is to create email sequences that nurture relationships, drive action, and move people toward conversion.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/email-sequence/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/email-sequence/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 948,
+  "truncated": false
+}

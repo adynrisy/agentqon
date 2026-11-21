@@ -1,0 +1,11 @@
+{
+  "name": "financial-statements-business",
+  "display_name": "Financial Statements Business",
+  "description": "Financial statements, business segments, dividends, valuation multiples (PE/PB/PS), industry comparison, operating data, corporate actions, company and executive profiles, cross-stock comparison, and valuation ranking via Longbridge.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/longbridge-fundamentals/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/longbridge-fundamentals/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 7305,
+  "truncated": false
+}

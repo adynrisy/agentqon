@@ -1,0 +1,11 @@
+{
+  "name": "fp-refactor",
+  "display_name": "Fp Refactor",
+  "description": "Comprehensive guide for refactoring imperative TypeScript code to fp-ts functional patterns",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/fp-refactor/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/fp-refactor/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 1134,
+  "truncated": false
+}

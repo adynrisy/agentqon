@@ -1,0 +1,11 @@
+{
+  "name": "expert-advanced-ai",
+  "display_name": "Expert Advanced AI",
+  "description": "Advanced .faf (Foundational AI-context Format) specialist. IANA-registered format, MCP server config, championship scoring, bi-directional sync.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/faf-expert/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/faf-expert/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 5564,
+  "truncated": false
+}

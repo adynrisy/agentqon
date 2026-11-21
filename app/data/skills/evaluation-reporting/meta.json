@@ -1,0 +1,11 @@
+{
+  "name": "evaluation-reporting",
+  "display_name": "Evaluation Reporting",
+  "description": "Use when summarizing agent evaluations where autonomous, assisted, failed, timed-out, or invalid outcomes must remain distinct and comparable.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/agent-evaluation-reporting/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/agent-evaluation-reporting/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 7840,
+  "truncated": false
+}

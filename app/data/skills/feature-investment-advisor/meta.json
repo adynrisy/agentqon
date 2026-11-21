@@ -1,0 +1,11 @@
+{
+  "name": "feature-investment-advisor",
+  "display_name": "Feature Investment Advisor",
+  "description": "Evaluate feature investments using revenue impact, cost structure, ROI, and strategy. Use when deciding whether a feature deserves investment.",
+  "repo": "deanpeters/Product-Manager-Skills",
+  "path": "skills/feature-investment-advisor/SKILL.md",
+  "url": "https://github.com/deanpeters/Product-Manager-Skills/tree/HEAD/skills/feature-investment-advisor/SKILL.md",
+  "license": "CC",
+  "body_bytes": 21444,
+  "truncated": false
+}

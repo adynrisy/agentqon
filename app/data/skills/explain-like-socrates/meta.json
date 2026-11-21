@@ -1,0 +1,11 @@
+{
+  "name": "explain-like-socrates",
+  "display_name": "Explain Like Socrates",
+  "description": "Explains concepts using Socratic-style dialogue. Use when the user asks to explain, teach or help understand a concept like socrates.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/explain-like-socrates/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/explain-like-socrates/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 4366,
+  "truncated": false
+}

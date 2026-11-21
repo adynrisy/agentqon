@@ -1,0 +1,11 @@
+{
+  "name": "fine-tuning-trl",
+  "display_name": "Fine Tuning Trl",
+  "description": "Fine-tune LLMs using reinforcement learning with TRL - SFT for instruction tuning, DPO for preference alignment, PPO/GRPO for reward optimization, and reward model training. Use when need RLHF, align model with preferences, or train from human feedback. Works with HuggingFace Transformers.",
+  "repo": "Orchestra-Research/AI-Research-SKILLs",
+  "path": "06-post-training/trl-fine-tuning/SKILL.md",
+  "url": "https://github.com/Orchestra-Research/AI-Research-SKILLs/tree/HEAD/06-post-training/trl-fine-tuning/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 10861,
+  "truncated": false
+}

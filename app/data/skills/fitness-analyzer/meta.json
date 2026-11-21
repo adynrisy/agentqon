@@ -1,0 +1,11 @@
+{
+  "name": "fitness-analyzer",
+  "display_name": "Fitness Analyzer",
+  "description": "分析运动数据、识别运动模式、评估健身进展，并提供个性化训练建议。支持与慢性病数据的关联分析。",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/fitness-analyzer/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/fitness-analyzer/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 10257,
+  "truncated": false
+}

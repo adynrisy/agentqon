@@ -1,0 +1,11 @@
+{
+  "name": "etsy-custom-orders",
+  "display_name": "Etsy Custom Orders",
+  "description": "Custom order management — communication templates, pricing, delivery timelines, return policies",
+  "repo": "nexscope-ai/eCommerce-Skills",
+  "path": "etsy-custom-orders/SKILL.md",
+  "url": "https://github.com/nexscope-ai/eCommerce-Skills/tree/HEAD/etsy-custom-orders/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 1549,
+  "truncated": false
+}

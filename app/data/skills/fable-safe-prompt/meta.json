@@ -1,0 +1,11 @@
+{
+  "name": "fable-safe-prompt",
+  "display_name": "Fable Safe Prompt",
+  "description": "Make minimal prompt edits to reduce false-positive refusals from Fable. Use only when the user explicitly invokes /fable-safe-prompt.",
+  "repo": "davidondrej/skills",
+  "path": "skills/agent-orchestration/fable-safe-prompt/SKILL.md",
+  "url": "https://github.com/davidondrej/skills/tree/HEAD/skills/agent-orchestration/fable-safe-prompt/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 3083,
+  "truncated": false
+}

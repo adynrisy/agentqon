@@ -1,0 +1,11 @@
+{
+  "name": "expo-tailwind-setup",
+  "display_name": "Expo Tailwind Setup",
+  "description": "Set up Tailwind CSS v4 in Expo with react-native-css and NativeWind v5 for universal styling",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/expo-tailwind-setup/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/expo-tailwind-setup/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 12288,
+  "truncated": false
+}

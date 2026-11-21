@@ -1,0 +1,11 @@
+{
+  "name": "environment-management-code",
+  "display_name": "Environment Management Code",
+  "description": "Secure-by-default environment variable management for Claude Code sessions.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/varlock/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/varlock/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 10333,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "frontend-developer",
+  "display_name": "Frontend Developer",
+  "description": "Build React components, implement responsive layouts, and handle client-side state management. Masters React 19, Next.js 15, and modern frontend architecture.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/frontend-developer/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/frontend-developer/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 7368,
+  "truncated": false
+}

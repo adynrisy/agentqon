@@ -1,0 +1,11 @@
+{
+  "name": "eval-llm-session",
+  "display_name": "Eval LLM Session",
+  "description": "Evaluate and rank agent results by metric or LLM judge for an AgentHub session. Use when the user runs /hub:eval or asks to score, compare, or pick a winner among completed AgentHub agents.",
+  "repo": "alirezarezvani/claude-skills",
+  "path": ".gemini/skills/eval/SKILL.md",
+  "url": "https://github.com/alirezarezvani/claude-skills/tree/HEAD/.gemini/skills/eval/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 2233,
+  "truncated": false
+}

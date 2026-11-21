@@ -1,0 +1,11 @@
+{
+  "name": "fine-tuning-expert",
+  "display_name": "Fine Tuning Expert",
+  "description": "Use when fine-tuning LLMs, training custom models, or adapting foundation models for specific tasks. Invoke for configuring LoRA/QLoRA adapters, preparing JSONL training datasets, setting hyperparameters for fine-tuning runs, adapter training, transfer learning, finetuning with Hugging Face PEFT, OpenAI fine-tuning, instruction tuning, RLHF, DPO, or quantizing and deploying fine-tuned models. Trigger terms include: LoRA, QLoRA, PEFT, finetuning, fine-tuning, adapter tuning, LLM training, model training, custom model.",
+  "repo": "Jeffallan/claude-skills",
+  "path": "skills/fine-tuning-expert/SKILL.md",
+  "url": "https://github.com/Jeffallan/claude-skills/tree/HEAD/skills/fine-tuning-expert/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 5792,
+  "truncated": false
+}

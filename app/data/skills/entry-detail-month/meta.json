@@ -1,0 +1,11 @@
+{
+  "name": "entry-detail-month",
+  "display_name": "Entry Detail Month",
+  "description": "Prepare journal entries with proper debits, credits, and supporting detail. Use when booking month-end accruals (AP, payroll, prepaid), recording depreciation or amortization, posting revenue recognition or deferred revenue adjustments, or documenting an entry for audit review.",
+  "repo": "anthropics/knowledge-work-plugins",
+  "path": "finance/skills/journal-entry/SKILL.md",
+  "url": "https://github.com/anthropics/knowledge-work-plugins/tree/HEAD/finance/skills/journal-entry/SKILL.md",
+  "license": "Apache-2.0",
+  "body_bytes": 4784,
+  "truncated": false
+}

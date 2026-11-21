@@ -1,0 +1,11 @@
+{
+  "name": "falsify-scientific-thinking",
+  "display_name": "Falsify Scientific Thinking",
+  "description": "The scientific thinking protocol for AI agents. Use when facing complex, ambiguous, or high-stakes questions where guessing is costly: hypothesis → attempt to break it → evidence → calibrated conclusion.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/falsify/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/falsify/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 30835,
+  "truncated": false
+}

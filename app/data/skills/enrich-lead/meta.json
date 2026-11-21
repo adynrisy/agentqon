@@ -1,0 +1,11 @@
+{
+  "name": "enrich-lead",
+  "display_name": "Enrich Lead",
+  "description": "Instant lead enrichment. Drop a name, company, LinkedIn URL, or email and get the full contact card with email, phone, title, company intel, and next actions.",
+  "repo": "anthropics/knowledge-work-plugins",
+  "path": "partner-built/apollo/skills/enrich-lead/SKILL.md",
+  "url": "https://github.com/anthropics/knowledge-work-plugins/tree/HEAD/partner-built/apollo/skills/enrich-lead/SKILL.md",
+  "license": "Apache-2.0",
+  "body_bytes": 2645,
+  "truncated": false
+}

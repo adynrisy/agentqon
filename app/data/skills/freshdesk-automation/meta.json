@@ -1,0 +1,11 @@
+{
+  "name": "freshdesk-automation",
+  "display_name": "Freshdesk Automation",
+  "description": "Automate Freshdesk helpdesk operations including tickets, contacts, companies, notes, and replies via Rube MCP (Composio). Always search tools first for current schemas.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/freshdesk-automation/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/freshdesk-automation/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 11712,
+  "truncated": false
+}

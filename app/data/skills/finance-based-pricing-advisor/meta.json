@@ -1,0 +1,11 @@
+{
+  "name": "finance-based-pricing-advisor",
+  "display_name": "Finance Based Pricing Advisor",
+  "description": "Evaluate pricing changes using ARPU, conversion, churn risk, NRR, and payback. Use when deciding whether a pricing move should ship.",
+  "repo": "deanpeters/Product-Manager-Skills",
+  "path": "skills/finance-based-pricing-advisor/SKILL.md",
+  "url": "https://github.com/deanpeters/Product-Manager-Skills/tree/HEAD/skills/finance-based-pricing-advisor/SKILL.md",
+  "license": "CC",
+  "body_bytes": 22804,
+  "truncated": false
+}

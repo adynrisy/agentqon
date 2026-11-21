@@ -1,0 +1,11 @@
+{
+  "name": "eol-process",
+  "display_name": "Eol Process",
+  "description": "Run a product sunset end to end — decide, align, plan, prepare, announce, close. Use when you need the whole EOL process, not just one artifact.",
+  "repo": "deanpeters/Product-Manager-Skills",
+  "path": "skills/eol-process/SKILL.md",
+  "url": "https://github.com/deanpeters/Product-Manager-Skills/tree/HEAD/skills/eol-process/SKILL.md",
+  "license": "CC",
+  "body_bytes": 20141,
+  "truncated": false
+}

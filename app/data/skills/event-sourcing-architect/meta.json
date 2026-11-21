@@ -1,0 +1,11 @@
+{
+  "name": "event-sourcing-architect",
+  "display_name": "Event Sourcing Architect",
+  "description": "Expert in event sourcing, CQRS, and event-driven architecture patterns. Masters event store design, projection building, saga orchestration, and eventual consistency patterns. Use PROACTIVELY for event-sourced systems, audit trail requirements, or complex domain modeling with temporal queries.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/event-sourcing-architect/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/event-sourcing-architect/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 3302,
+  "truncated": false
+}

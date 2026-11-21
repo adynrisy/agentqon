@@ -1,0 +1,11 @@
+{
+  "name": "embedded-systems",
+  "display_name": "Embedded Systems",
+  "description": "Use when developing firmware for microcontrollers, implementing RTOS applications, or optimizing power consumption. Invoke for STM32, ESP32, FreeRTOS, bare-metal, power optimization, real-time systems, configure peripherals, write interrupt handlers, implement DMA transfers, debug timing issues.",
+  "repo": "Jeffallan/claude-skills",
+  "path": "skills/embedded-systems/SKILL.md",
+  "url": "https://github.com/Jeffallan/claude-skills/tree/HEAD/skills/embedded-systems/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 5599,
+  "truncated": false
+}

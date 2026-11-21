@@ -1,0 +1,11 @@
+{
+  "name": "fine-tuning-serving-openpi",
+  "display_name": "Fine Tuning Serving Openpi",
+  "description": "Fine-tune and serve Physical Intelligence OpenPI models (pi0, pi0-fast, pi0.5) using JAX or PyTorch backends for robot policy inference across ALOHA, DROID, and LIBERO environments. Use when adapting pi0 models to custom datasets, converting JAX checkpoints to PyTorch, running policy inference servers, or debugging norm stats and GPU memory issues.",
+  "repo": "Orchestra-Research/AI-Research-SKILLs",
+  "path": "18-multimodal/openpi/SKILL.md",
+  "url": "https://github.com/Orchestra-Research/AI-Research-SKILLs/tree/HEAD/18-multimodal/openpi/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 13583,
+  "truncated": false
+}

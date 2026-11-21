@@ -1,0 +1,11 @@
+{
+  "name": "email-marketing-bible",
+  "display_name": "Email Marketing Bible",
+  "description": "Data-backed email marketing for AI agents: automation flows, deliverability triage, copy de-slopping, AI email design, ESP control via MCP with send gates and compliance.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/email-marketing-bible/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/email-marketing-bible/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 34533,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "fxmacrodata-query-source",
+  "display_name": "Fxmacrodata Query Source",
+  "description": "Query FXMacroData for official-source macro indicators, release calendars, central-bank policy rates, FX rates and CFTC positioning across 22 currencies.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/fxmacrodata/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/fxmacrodata/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 11258,
+  "truncated": false
+}

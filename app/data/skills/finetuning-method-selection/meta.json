@@ -1,0 +1,11 @@
+{
+  "name": "finetuning-method-selection",
+  "display_name": "Finetuning Method Selection",
+  "description": "Decide whether to fine-tune at all, and route to the right method (SFT, DPO/ORPO/KTO, GRPO/RLVR, continued pretraining) and base model. Use when starting any fine-tuning effort, when unsure whether RAG or prompting would suffice, or when choosing between preference-optimization and reinforcement methods.",
+  "repo": "wshobson/agents",
+  "path": "plugins/llm-finetuning/skills/finetuning-method-selection/SKILL.md",
+  "url": "https://github.com/wshobson/agents/tree/HEAD/plugins/llm-finetuning/skills/finetuning-method-selection/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 7564,
+  "truncated": false
+}

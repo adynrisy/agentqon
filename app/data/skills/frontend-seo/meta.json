@@ -1,0 +1,11 @@
+{
+  "name": "frontend-seo",
+  "display_name": "Frontend SEO",
+  "description": "A portable, framework-agnostic SEO system for any React or React Native-for-web frontend.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/frontend-seo/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/frontend-seo/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 1845,
+  "truncated": false
+}

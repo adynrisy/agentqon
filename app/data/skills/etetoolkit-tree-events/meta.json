@@ -1,0 +1,11 @@
+{
+  "name": "etetoolkit-tree-events",
+  "display_name": "Etetoolkit Tree Events",
+  "description": "Analyzes, manipulates, compares, annotates, and visualizes phylogenetic or other hierarchical trees with ETE 4. Supports Newick/Nexus tree I/O, topology edits and pattern matching, Robinson-Foulds comparisons, gene-tree evolutionary events and reconciliation, NCBI/GTDB taxonomy, SmartView exploration, and publication rendering. Applies to existing trees after alignment and phylogenetic inference, rather than inferring trees from raw sequences.",
+  "repo": "K-Dense-AI/scientific-agent-skills",
+  "path": "skills/etetoolkit/SKILL.md",
+  "url": "https://github.com/K-Dense-AI/scientific-agent-skills/tree/HEAD/skills/etetoolkit/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 12333,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "fp-taskeither-ref",
+  "display_name": "Fp Taskeither Ref",
+  "description": "Quick reference for TaskEither. Use when user needs async error handling, API calls, or Promise-based operations that can fail.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/fp-taskeither-ref/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/fp-taskeither-ref/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 3890,
+  "truncated": false
+}

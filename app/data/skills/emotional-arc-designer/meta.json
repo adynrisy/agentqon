@@ -1,0 +1,11 @@
+{
+  "name": "emotional-arc-designer",
+  "display_name": "Emotional Arc Designer",
+  "description": "Map the emotional progression of a narrative, page, or campaign when content needs a coherent path from attention to action.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/emotional-arc-designer/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/emotional-arc-designer/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 7660,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "eval-harness-first",
+  "display_name": "Eval Harness First",
+  "description": "Build the evaluation harness that gates every fine-tuning run — golden sets, per-failure-mode graders, judge calibration, and base-model baselines. Use when starting a fine-tuning effort, when converting traces into an eval set, or when calibrating a judge against human labels.",
+  "repo": "wshobson/agents",
+  "path": "plugins/llm-finetuning/skills/eval-harness-first/SKILL.md",
+  "url": "https://github.com/wshobson/agents/tree/HEAD/plugins/llm-finetuning/skills/eval-harness-first/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 7664,
+  "truncated": false
+}

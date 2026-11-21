@@ -1,0 +1,11 @@
+{
+  "name": "executive-thinking-plans",
+  "display_name": "Executive Thinking Plans",
+  "description": "Adversarial thinking partner for founders and executives. Stress-tests plans, prepares for brutal board meetings, dissects decisions with no good options, and forces honest post-mortems. Use when you need someone to find the holes before the board does, make a decision you've been avoiding, or understand what actually went wrong.",
+  "repo": "alirezarezvani/claude-skills",
+  "path": ".gemini/skills/executive-mentor/SKILL.md",
+  "url": "https://github.com/alirezarezvani/claude-skills/tree/HEAD/.gemini/skills/executive-mentor/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 6544,
+  "truncated": false
+}

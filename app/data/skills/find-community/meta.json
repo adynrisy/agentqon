@@ -1,0 +1,11 @@
+{
+  "name": "find-community",
+  "display_name": "Find Community",
+  "description": "Help identify and evaluate communities to build a minimalist business around. Use when someone is looking for a business idea, trying to find their community, or wondering where to start as an entrepreneur.",
+  "repo": "slavingia/skills",
+  "path": "skills/find-community/SKILL.md",
+  "url": "https://github.com/slavingia/skills/tree/HEAD/skills/find-community/SKILL.md",
+  "license": "unknown",
+  "body_bytes": 2708,
+  "truncated": false
+}

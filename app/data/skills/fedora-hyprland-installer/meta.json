@@ -1,0 +1,11 @@
+{
+  "name": "fedora-hyprland-installer",
+  "display_name": "Fedora Hyprland Installer",
+  "description": "Install, configure, verify, repair, update, and uninstall Hyprland on Fedora Linux with GPU-aware detection (NVIDIA/AMD/Intel).",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/fedora-hyprland-installer/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/fedora-hyprland-installer/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 6619,
+  "truncated": false
+}

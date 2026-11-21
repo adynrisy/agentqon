@@ -1,0 +1,11 @@
+{
+  "name": "framework-migration-deps-upgrade",
+  "display_name": "Framework Migration Deps Upgrade",
+  "description": "You are a dependency management expert specializing in safe, incremental upgrades of project dependencies. Plan and execute dependency updates with minimal risk, proper testing, and clear migration pa",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/framework-migration-deps-upgrade/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/framework-migration-deps-upgrade/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 2152,
+  "truncated": false
+}

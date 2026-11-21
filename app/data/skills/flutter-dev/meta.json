@@ -1,0 +1,11 @@
+{
+  "name": "flutter-dev",
+  "display_name": "Flutter Dev",
+  "description": "Flutter cross-platform development guide covering widget patterns, Riverpod/Bloc state management, GoRouter navigation, performance optimization, and platform-specific implementations. Includes const optimization, responsive layouts, testing strategies, and DevTools profiling.\nUse when: building Flutter apps, implementing state management (Riverpod/Bloc), setting up GoRouter navigation, creating custom widgets, optimizing performance, writing widget tests, cross-platform development.",
+  "repo": "MiniMax-AI/skills",
+  "path": "skills/flutter-dev/SKILL.md",
+  "url": "https://github.com/MiniMax-AI/skills/tree/HEAD/skills/flutter-dev/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 4414,
+  "truncated": false
+}

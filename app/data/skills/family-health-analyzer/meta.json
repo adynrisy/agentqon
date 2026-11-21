@@ -1,0 +1,11 @@
+{
+  "name": "family-health-analyzer",
+  "display_name": "Family Health Analyzer",
+  "description": "整理家族病史和已知健康记录，识别需要医生或遗传咨询师评估的线索，不计算未经验证的个体发病概率",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/family-health-analyzer/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/family-health-analyzer/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 4422,
+  "truncated": false
+}

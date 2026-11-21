@@ -1,0 +1,11 @@
+{
+  "name": "free-tier-strategy",
+  "display_name": "Free Tier Strategy",
+  "description": "Design free tiers that convert to paid without creating resentment or abuse. Trigger phrases: free tier design, freemium model, free trial strategy, free tier limits, developer free plan, open source commercial, feature gating, upgrade triggers, free tier conversion",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/free-tier-strategy/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/free-tier-strategy/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 13385,
+  "truncated": false
+}

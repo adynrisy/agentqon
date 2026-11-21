@@ -1,0 +1,11 @@
+{
+  "name": "firebase-app-platform",
+  "display_name": "Firebase App Platform",
+  "description": "Build and operate apps on Firebase using Auth, Firestore, Cloud Functions, and Hosting. Use when building mobile/web backends with managed services, real-time data sync, or serverless APIs.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/firebase-app-platform/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/firebase-app-platform/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 9673,
+  "truncated": false
+}

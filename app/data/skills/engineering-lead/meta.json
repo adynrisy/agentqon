@@ -1,0 +1,11 @@
+{
+  "name": "engineering-lead",
+  "display_name": "Engineering Lead",
+  "description": "Engineering Team Lead agent for coordinating QA, security, data engineering, ML, and frontend/backend teams. Orchestrates engineering-team skills for team-level technical decisions. Spawn when users need team coordination, tech stack evaluation, incident response, or cross-functional engineering work.",
+  "repo": "alirezarezvani/claude-skills",
+  "path": ".gemini/skills/cs-engineering-lead/SKILL.md",
+  "url": "https://github.com/alirezarezvani/claude-skills/tree/HEAD/.gemini/skills/cs-engineering-lead/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 3078,
+  "truncated": false
+}

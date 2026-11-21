@@ -1,0 +1,11 @@
+{
+  "name": "error-handling-patterns-resilient",
+  "display_name": "Error Handling Patterns · Resilient",
+  "description": "Build resilient applications with robust error handling strategies that gracefully handle failures and provide excellent debugging experiences.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/error-handling-patterns/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/error-handling-patterns/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 1332,
+  "truncated": false
+}

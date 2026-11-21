@@ -1,0 +1,11 @@
+{
+  "name": "etsy-product-description",
+  "display_name": "Etsy Product Description",
+  "description": "Product description writing — keyword integration, benefit-focused copy, FAQ, formatting",
+  "repo": "nexscope-ai/eCommerce-Skills",
+  "path": "etsy-product-description/SKILL.md",
+  "url": "https://github.com/nexscope-ai/eCommerce-Skills/tree/HEAD/etsy-product-description/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 1572,
+  "truncated": false
+}

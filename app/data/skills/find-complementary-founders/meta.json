@@ -1,0 +1,11 @@
+{
+  "name": "find-complementary-founders",
+  "display_name": "Find Complementary Founders",
+  "description": "Use when an owner explicitly asks for a cofounder or project partner, or explicitly says they need a complementary builder, operator, go-to-market partner, or scaling capability. Assess and publish only the agent's own owner, then rank only approved own-owner profiles.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/find-complementary-founders/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/find-complementary-founders/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 18499,
+  "truncated": false
+}

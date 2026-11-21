@@ -1,0 +1,11 @@
+{
+  "name": "game-audio",
+  "display_name": "Game Audio",
+  "description": "Game audio principles. Sound design, music integration, adaptive audio systems.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/game-development/game-audio/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/game-development/game-audio/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 5632,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "frontend-ui-engineering-production",
+  "display_name": "Frontend UI Engineering · Production",
+  "description": "Builds production-quality, accessible, responsive user-facing UIs. Use when building or modifying interfaces and pages, creating components, implementing layouts, meeting WCAG accessibility requirements, managing state, or when the output needs to look and feel production-quality rather than AI-generated.",
+  "repo": "addyosmani/agent-skills",
+  "path": "skills/frontend-ui-engineering/SKILL.md",
+  "url": "https://github.com/addyosmani/agent-skills/tree/HEAD/skills/frontend-ui-engineering/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 11362,
+  "truncated": false
+}

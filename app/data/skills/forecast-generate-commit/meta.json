@@ -1,0 +1,11 @@
+{
+  "name": "forecast-generate-commit",
+  "display_name": "Forecast Generate Commit",
+  "description": "Generate the commit / best-case / pipeline narrative for a forecast call or a 1:1 with your manager - what's closing, what's at risk, what changed since last time. Use when the user asks \"write my forecast\", \"forecast narrative\", \"prep for forecast call\", \"prep for my quarterly forecast call\", \"which deals should I commit vs. call upside\", \"forecast from this pipeline export\", or \"prep for my 1:1 with my manager\".",
+  "repo": "anthropics/knowledge-work-plugins",
+  "path": "sales/skills/forecast/SKILL.md",
+  "url": "https://github.com/anthropics/knowledge-work-plugins/tree/HEAD/sales/skills/forecast/SKILL.md",
+  "license": "Apache-2.0",
+  "body_bytes": 7552,
+  "truncated": false
+}

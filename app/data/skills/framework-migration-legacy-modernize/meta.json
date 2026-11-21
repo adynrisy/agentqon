@@ -1,0 +1,11 @@
+{
+  "name": "framework-migration-legacy-modernize",
+  "display_name": "Framework Migration Legacy Modernize",
+  "description": "Orchestrate a comprehensive legacy system modernization using the strangler fig pattern, enabling gradual replacement of outdated components while maintaining continuous business operations through ex",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/framework-migration-legacy-modernize/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/framework-migration-legacy-modernize/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 11082,
+  "truncated": false
+}

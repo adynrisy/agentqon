@@ -1,0 +1,11 @@
+{
+  "name": "evaluator-sdk",
+  "display_name": "Evaluator SDK",
+  "description": "Evaluates LLMs across 100+ benchmarks from 18+ harnesses (MMLU, HumanEval, GSM8K, safety, VLM) with multi-backend execution. Use when needing scalable evaluation on local Docker, Slurm HPC, or cloud platforms. NVIDIA's enterprise-grade platform with container-first architecture for reproducible benchmarking.",
+  "repo": "Orchestra-Research/AI-Research-SKILLs",
+  "path": "11-evaluation/nemo-evaluator/SKILL.md",
+  "url": "https://github.com/Orchestra-Research/AI-Research-SKILLs/tree/HEAD/11-evaluation/nemo-evaluator/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 11637,
+  "truncated": false
+}

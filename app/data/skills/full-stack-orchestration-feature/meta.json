@@ -1,0 +1,11 @@
+{
+  "name": "full-stack-orchestration-feature",
+  "display_name": "Full Stack Orchestration Feature",
+  "description": "Use when working with full stack orchestration full stack feature",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/full-stack-orchestration-full-stack-feature/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/full-stack-orchestration-full-stack-feature/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 10611,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "file-conversion",
+  "display_name": "File Conversion",
+  "description": "Use when the user needs a local file converted between common image, audio, video, document, or data formats. Select installed tools, preserve originals, and verify the output.",
+  "repo": "wshobson/agents",
+  "path": "plugins/file-conversion/skills/file-conversion/SKILL.md",
+  "url": "https://github.com/wshobson/agents/tree/HEAD/plugins/file-conversion/skills/file-conversion/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 7963,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "enable-tables-offline",
+  "display_name": "Enable Tables Offline",
+  "description": "Internal mobile-app workflow read and executed only by /setup-offline-profile to enable Dataverse table prerequisites for a Mobile Offline Profile.",
+  "repo": "microsoft/power-platform-skills",
+  "path": "plugins/mobile-apps/skills/enable-tables-offline/SKILL.md",
+  "url": "https://github.com/microsoft/power-platform-skills/tree/HEAD/plugins/mobile-apps/skills/enable-tables-offline/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 12048,
+  "truncated": false
+}

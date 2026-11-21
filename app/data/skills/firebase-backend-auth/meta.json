@@ -1,0 +1,11 @@
+{
+  "name": "firebase-backend-auth",
+  "display_name": "Firebase Backend Auth",
+  "description": "Firebase gives you a complete backend in minutes - auth, database, storage, functions, hosting. But the ease of setup hides real complexity. Security rules are your last line of defense, and they're often wrong.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/firebase/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/firebase/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 2050,
+  "truncated": false
+}

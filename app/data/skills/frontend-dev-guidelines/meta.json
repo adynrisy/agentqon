@@ -1,0 +1,11 @@
+{
+  "name": "frontend-dev-guidelines",
+  "display_name": "Frontend Dev Guidelines",
+  "description": "You are a senior frontend engineer operating under strict architectural and performance standards. Use when creating components or pages, adding new features, or fetching or mutating data.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/frontend-dev-guidelines/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/frontend-dev-guidelines/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 8112,
+  "truncated": false
+}

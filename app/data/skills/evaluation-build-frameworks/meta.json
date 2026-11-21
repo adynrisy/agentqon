@@ -1,0 +1,11 @@
+{
+  "name": "evaluation-build-frameworks",
+  "display_name": "Evaluation Build Frameworks",
+  "description": "Build evaluation frameworks for agent systems. Use when testing agent performance systematically, validating context engineering choices, or measuring improvements over time.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/evaluation/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/evaluation/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 10679,
+  "truncated": false
+}

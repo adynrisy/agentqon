@@ -1,0 +1,11 @@
+{
+  "name": "examprep-ai",
+  "display_name": "Examprep AI",
+  "description": "Exam preparation assistant that converts syllabi, past papers, or notes into a ranked High Score Roadmap. Covers theory, numericals, MCQs, coding, and lab prep, ordered Easy → Medium → Hard. Use for last-minute revision, important topics, and question prediction.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/examprep-ai/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/examprep-ai/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 16519,
+  "truncated": false
+}

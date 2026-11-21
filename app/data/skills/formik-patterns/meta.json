@@ -1,0 +1,11 @@
+{
+  "name": "formik-patterns",
+  "display_name": "Formik Patterns",
+  "description": "Formik form handling with validation patterns. Use when building forms, implementing validation, or handling form submission.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/formik-patterns/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/formik-patterns/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 8932,
+  "truncated": false
+}

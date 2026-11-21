@@ -1,0 +1,11 @@
+{
+  "name": "first-customers",
+  "display_name": "First Customers",
+  "description": "Create a strategy for selling to your first 100 customers using the minimalist entrepreneur playbook. Use when someone has a product and needs to find customers, or is struggling with early sales.",
+  "repo": "slavingia/skills",
+  "path": "skills/first-customers/SKILL.md",
+  "url": "https://github.com/slavingia/skills/tree/HEAD/skills/first-customers/SKILL.md",
+  "license": "unknown",
+  "body_bytes": 3893,
+  "truncated": false
+}

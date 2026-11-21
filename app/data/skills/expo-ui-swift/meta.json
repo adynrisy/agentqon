@@ -1,0 +1,11 @@
+{
+  "name": "expo-ui-swift",
+  "display_name": "Expo UI Swift",
+  "description": "Build iOS-native Expo SDK 55 UI with SwiftUI views/modifiers, Host/RNHostView embedding and native rebuild prerequisites.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/expo-ui-swift-ui/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/expo-ui-swift-ui/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 2463,
+  "truncated": false
+}
