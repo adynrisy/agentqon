@@ -1,0 +1,11 @@
+{
+  "name": "contract-goal-change",
+  "display_name": "Contract Goal Change",
+  "description": "Goal-integrity skill. Use for backend/API/persistence, preserve/do-not-change, tests/validation, mocks, rework, multi-part requests. Emits Goal Contracts, Deviation Notices, Phase Checks, Final Audits. Skip for Q&A or trivial edits.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "skills/atlas-contract/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/skills/atlas-contract/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 6922,
+  "truncated": false
+}

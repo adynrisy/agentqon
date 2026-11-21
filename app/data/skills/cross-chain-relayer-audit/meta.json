@@ -1,0 +1,11 @@
+{
+  "name": "cross-chain-relayer-audit",
+  "display_name": "Cross Chain Relayer Audit",
+  "description": "Cross-chain relayer bridge audit register: message hash verifications, replay protection nonces, validator quorum, and withdrawal proofs.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/cross-chain-relayer-audit/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/cross-chain-relayer-audit/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 5120,
+  "truncated": false
+}

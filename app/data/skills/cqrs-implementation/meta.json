@@ -1,0 +1,11 @@
+{
+  "name": "cqrs-implementation",
+  "display_name": "Cqrs Implementation",
+  "description": "Implement Command Query Responsibility Segregation for scalable architectures. Use when separating read and write models, optimizing query performance, or building event-sourced systems.",
+  "repo": "wshobson/agents",
+  "path": "plugins/backend-development/skills/cqrs-implementation/SKILL.md",
+  "url": "https://github.com/wshobson/agents/tree/HEAD/plugins/backend-development/skills/cqrs-implementation/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 3212,
+  "truncated": false
+}

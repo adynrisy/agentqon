@@ -1,0 +1,11 @@
+{
+  "name": "context-de-briefing",
+  "display_name": "Context De Briefing",
+  "description": "Agente de contexto para continuidade entre sessoes. Salva resumos, decisoes, tarefas pendentes e carrega briefing automatico na sessao seguinte.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/context-agent/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/context-agent/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 6795,
+  "truncated": false
+}

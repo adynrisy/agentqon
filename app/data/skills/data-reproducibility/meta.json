@@ -1,0 +1,11 @@
+{
+  "name": "data-reproducibility",
+  "display_name": "Data Reproducibility",
+  "description": "Record and verify provenance manifests for weather-data inputs and derived artifacts, including object identity, selections, software versions, transformations, and hashes.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/weather-data-reproducibility/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/weather-data-reproducibility/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 11639,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "database-schema-designer",
+  "display_name": "Database Schema Designer",
+  "description": "Use when the user asks to create ERD diagrams, normalize database schemas, design table relationships, or plan schema migrations.",
+  "repo": "alirezarezvani/claude-skills",
+  "path": ".gemini/skills/database-schema-designer/SKILL.md",
+  "url": "https://github.com/alirezarezvani/claude-skills/tree/HEAD/.gemini/skills/database-schema-designer/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 7315,
+  "truncated": false
+}

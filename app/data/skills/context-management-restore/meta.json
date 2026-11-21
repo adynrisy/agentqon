@@ -1,0 +1,11 @@
+{
+  "name": "context-management-restore",
+  "display_name": "Context Management Restore",
+  "description": "Resume interrupted project work from a handoff and current checkout evidence; reconcile completed work, pending changes and existing user constraints.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/context-management-context-restore/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/context-management-context-restore/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 2433,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "copy-editing-user",
+  "display_name": "Copy Editing · User",
+  "description": "When the user wants to edit, review, or improve existing marketing copy. Also use when the user mentions 'edit this copy,' 'review my copy,' 'copy feedback,' 'proofread,' 'polish this,' 'make this better,' or 'copy sweep.' This skill provides a systematic approach to editing marketing copy through multiple focused passes.",
+  "repo": "alirezarezvani/claude-skills",
+  "path": ".gemini/skills/copy-editing/SKILL.md",
+  "url": "https://github.com/alirezarezvani/claude-skills/tree/HEAD/.gemini/skills/copy-editing/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 16205,
+  "truncated": false
+}

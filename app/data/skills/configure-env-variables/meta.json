@@ -1,0 +1,11 @@
+{
+  "name": "configure-env-variables",
+  "display_name": "Configure Env Variables",
+  "description": "Configures environment variables for Power Pages site settings to support ALM across environments. Creates environment variable definitions in Dataverse, guides the user through linking site settings to those variables via the Power Pages Management app, adds the variables to the solution, and generates a deployment-settings.json file with per-stage override values. Use when asked to: \"configure environment variables\", \"add env vars\", \"set up deployment variables\", \"make site settings environment-specific\", \"configure ALM variables\", \"set up env-specific settings\", \"add deployment settings\", \"configure per-environment settings\".",
+  "repo": "microsoft/power-platform-skills",
+  "path": "plugins/power-pages/skills/configure-env-variables/SKILL.md",
+  "url": "https://github.com/microsoft/power-platform-skills/tree/HEAD/plugins/power-pages/skills/configure-env-variables/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 33117,
+  "truncated": false
+}

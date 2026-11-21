@@ -1,0 +1,11 @@
+{
+  "name": "content-repurpose",
+  "display_name": "Content Repurpose",
+  "description": "Turns one source (article, guide, notes) into three posts for all platforms: a long read, a regular and a short post, in the language the user picks. Use when asked to adapt one text for social posts.",
+  "repo": "khasky/awesome-agent-skills",
+  "path": "skills/awesome-content-repurpose/SKILL.md",
+  "url": "https://github.com/khasky/awesome-agent-skills/tree/HEAD/skills/awesome-content-repurpose/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 43476,
+  "truncated": false
+}

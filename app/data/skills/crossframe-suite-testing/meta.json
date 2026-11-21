@@ -1,0 +1,11 @@
+{
+  "name": "crossframe-suite-testing",
+  "display_name": "Crossframe Suite Testing",
+  "description": "Use when CrossFrame Suite routes explicit Chinese proposition testing, debate analysis, hidden-premise review, rebuttal design, or withdrawal condition checks.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/crossframe-debate/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/crossframe-debate/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 6393,
+  "truncated": false
+}

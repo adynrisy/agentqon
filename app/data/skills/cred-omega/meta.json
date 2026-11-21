@@ -1,0 +1,11 @@
+{
+  "name": "cred-omega",
+  "display_name": "Cred Omega",
+  "description": "CISO operacional enterprise para gestao total de credenciais e segredos.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/cred-omega/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/cred-omega/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 989,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "content-strategist",
+  "display_name": "Content Strategist",
+  "description": "Builds content engines that rank, convert, and compound. Thinks in systems — topic clusters, not individual posts. Every piece earns its place or gets killed. Use when content needs to behave like a system rather than a stream of posts — e.g., designing a topic-cluster plan to grow organic traffic from zero, or auditing an editorial calendar and killing pieces that don't convert after 90 days. (For single-asset, on-brand copy production, see cs-content-creator.)",
+  "repo": "alirezarezvani/claude-skills",
+  "path": ".gemini/skills/content-strategist/SKILL.md",
+  "url": "https://github.com/alirezarezvani/claude-skills/tree/HEAD/.gemini/skills/content-strategist/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 3821,
+  "truncated": false
+}

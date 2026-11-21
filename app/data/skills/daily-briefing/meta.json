@@ -1,0 +1,11 @@
+{
+  "name": "daily-briefing",
+  "display_name": "Daily Briefing",
+  "description": "Morning rundown - today's meetings with account context, opps closing soon with stale flags, waiting customer emails, and the day's top actions. Use when the user says \"daily briefing\", \"daily brief\", \"morning briefing\", \"what's my day\", \"what's on my plate today\", \"prep my day\", \"start my day\", \"morning rundown\", or on a schedule.",
+  "repo": "anthropics/knowledge-work-plugins",
+  "path": "sales/skills/daily-briefing/SKILL.md",
+  "url": "https://github.com/anthropics/knowledge-work-plugins/tree/HEAD/sales/skills/daily-briefing/SKILL.md",
+  "license": "Apache-2.0",
+  "body_bytes": 6418,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "database-development-operations",
+  "display_name": "Database Development Operations",
+  "description": "Database development and operations workflow covering SQL, NoSQL, database design, migrations, optimization, and data engineering.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/database/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/database/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 4491,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "convertkit-automation",
+  "display_name": "Convertkit Automation",
+  "description": "Automate ConvertKit (Kit) tasks via Rube MCP (Composio): manage subscribers, tags, broadcasts, and broadcast stats. Always search tools first for current schemas.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/convertkit-automation/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/convertkit-automation/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 7287,
+  "truncated": false
+}

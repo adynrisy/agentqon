@@ -1,0 +1,11 @@
+{
+  "name": "crm-hygiene-check",
+  "display_name": "CRM Hygiene Check",
+  "description": "Read-only audit of your CRM opportunities for missing fields, stale dates, and stage mismatches - outputs a fix checklist to apply by hand or through update-opportunity. Use when the user asks \"check my CRM hygiene\", \"check my Salesforce or HubSpot data\", \"clean up my CRM\", \"audit my opps\", \"what's missing in the CRM\", or \"clean up my pipeline\".",
+  "repo": "anthropics/knowledge-work-plugins",
+  "path": "sales/skills/crm-hygiene-check/SKILL.md",
+  "url": "https://github.com/anthropics/knowledge-work-plugins/tree/HEAD/sales/skills/crm-hygiene-check/SKILL.md",
+  "license": "Apache-2.0",
+  "body_bytes": 7150,
+  "truncated": false
+}

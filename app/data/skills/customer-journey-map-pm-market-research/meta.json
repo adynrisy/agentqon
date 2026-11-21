@@ -1,0 +1,11 @@
+{
+  "name": "customer-journey-map-pm-market-research",
+  "display_name": "Customer Journey Map · PM Market Research",
+  "description": "Create an end-to-end customer journey map with stages, touchpoints, emotions, pain points, and opportunities. Use when mapping the customer experience, identifying friction points, improving onboarding, or visualizing the user journey.",
+  "repo": "phuryn/pm-skills",
+  "path": "pm-market-research/skills/customer-journey-map/SKILL.md",
+  "url": "https://github.com/phuryn/pm-skills/tree/HEAD/pm-market-research/skills/customer-journey-map/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 2981,
+  "truncated": false
+}

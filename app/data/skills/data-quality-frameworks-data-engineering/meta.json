@@ -1,0 +1,11 @@
+{
+  "name": "data-quality-frameworks-data-engineering",
+  "display_name": "Data Quality Frameworks · Data Engineering",
+  "description": "Implement data quality validation with Great Expectations, dbt tests, and data contracts. Use when building data quality pipelines, implementing validation rules, or establishing data contracts.",
+  "repo": "wshobson/agents",
+  "path": "plugins/data-engineering/skills/data-quality-frameworks/SKILL.md",
+  "url": "https://github.com/wshobson/agents/tree/HEAD/plugins/data-engineering/skills/data-quality-frameworks/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 4251,
+  "truncated": false
+}

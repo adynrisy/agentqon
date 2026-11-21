@@ -1,0 +1,11 @@
+{
+  "name": "connections-find-create",
+  "display_name": "Connections Find Create",
+  "description": "Use to find or create a Power Platform connection ID or reference for an Expo/React Native Power Apps mobile app.",
+  "repo": "microsoft/power-platform-skills",
+  "path": "plugins/mobile-apps/skills/list-connections/SKILL.md",
+  "url": "https://github.com/microsoft/power-platform-skills/tree/HEAD/plugins/mobile-apps/skills/list-connections/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 4470,
+  "truncated": false
+}

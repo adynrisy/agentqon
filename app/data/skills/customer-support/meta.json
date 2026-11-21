@@ -1,0 +1,11 @@
+{
+  "name": "customer-support",
+  "display_name": "Customer Support",
+  "description": "Elite AI-powered customer support specialist mastering conversational AI, automated ticketing, sentiment analysis, and omnichannel support experiences.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/customer-support/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/customer-support/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 8579,
+  "truncated": false
+}

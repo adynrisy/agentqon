@@ -1,0 +1,11 @@
+{
+  "name": "context-driven-development",
+  "display_name": "Context Driven Development",
+  "description": "Creates and maintains project context artifacts (product.md, tech-stack.md, workflow.md, tracks.md) in a `conductor/` directory. Scaffolds new projects from scratch, extracts context from existing codebases, validates artifact consistency before implementation, and synchronizes documents as the project evolves. Use when setting up a project, creating or updating product docs, managing a tech stack file, defining development workflows, tracking work units, onboarding to an existing codebase, or running project scaffolding.",
+  "repo": "wshobson/agents",
+  "path": "plugins/conductor/skills/context-driven-development/SKILL.md",
+  "url": "https://github.com/wshobson/agents/tree/HEAD/plugins/conductor/skills/context-driven-development/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 1517,
+  "truncated": false
+}

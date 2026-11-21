@@ -1,0 +1,11 @@
+{
+  "name": "context-engineering",
+  "display_name": "Context Engineering",
+  "description": "Optimizes agent context setup. Use when starting a new session, when agent output quality degrades, when switching between tasks, or when you need to configure rules files and context for a project.",
+  "repo": "addyosmani/agent-skills",
+  "path": "skills/context-engineering/SKILL.md",
+  "url": "https://github.com/addyosmani/agent-skills/tree/HEAD/skills/context-engineering/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 15239,
+  "truncated": false
+}

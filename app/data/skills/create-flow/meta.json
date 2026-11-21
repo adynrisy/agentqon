@@ -1,0 +1,11 @@
+{
+  "name": "create-flow",
+  "display_name": "Create Flow",
+  "description": "Guided flow creation wizard. Use when the user wants to create a new flow interactively.",
+  "repo": "microsoft/power-platform-skills",
+  "path": "plugins/power-automate/skills/create-flow/SKILL.md",
+  "url": "https://github.com/microsoft/power-platform-skills/tree/HEAD/plugins/power-automate/skills/create-flow/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 2334,
+  "truncated": false
+}

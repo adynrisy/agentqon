@@ -1,0 +1,11 @@
+{
+  "name": "data-quality-frameworks",
+  "display_name": "Data Quality Frameworks",
+  "description": "Implement data quality validation with Great Expectations, dbt tests, and data contracts. Use when building data quality pipelines, implementing validation rules, or establishing data contracts.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/data-quality-frameworks/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/data-quality-frameworks/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 1478,
+  "truncated": false
+}

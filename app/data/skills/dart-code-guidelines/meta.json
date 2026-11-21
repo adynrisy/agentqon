@@ -1,0 +1,11 @@
+{
+  "name": "dart-code-guidelines",
+  "display_name": "Dart Code Guidelines",
+  "description": "Language-specific super-code guidelines for dart.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/super-code/dart/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/super-code/dart/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 7315,
+  "truncated": false
+}

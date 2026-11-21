@@ -1,0 +1,11 @@
+{
+  "name": "context-mapping",
+  "display_name": "Context Mapping",
+  "description": "Map relationships between bounded contexts and define integration contracts using DDD context mapping patterns.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/ddd-context-mapping/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/ddd-context-mapping/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 1304,
+  "truncated": false
+}

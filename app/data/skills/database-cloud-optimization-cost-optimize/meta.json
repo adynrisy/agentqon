@@ -1,0 +1,11 @@
+{
+  "name": "database-cloud-optimization-cost-optimize",
+  "display_name": "Database Cloud Optimization Cost Optimize",
+  "description": "You are a cloud cost optimization expert specializing in reducing infrastructure expenses while maintaining performance and reliability. Analyze cloud spending, identify savings opportunities, and implement cost-effective architectures across AWS, Azure, and GCP.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/database-cloud-optimization-cost-optimize/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/database-cloud-optimization-cost-optimize/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 1844,
+  "truncated": false
+}

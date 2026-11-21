@@ -1,0 +1,11 @@
+{
+  "name": "context-degradation",
+  "display_name": "Context Degradation",
+  "description": "Language models exhibit predictable degradation patterns as context length increases. Understanding these patterns is essential for diagnosing failures and designing resilient systems.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/context-degradation/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/context-degradation/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 15469,
+  "truncated": false
+}

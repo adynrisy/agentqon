@@ -1,0 +1,11 @@
+{
+  "name": "dashboard-design",
+  "display_name": "Dashboard Design",
+  "description": "Web and App implementation guide for Dashboard Design. Trigger when user wants analytics-focused layouts, data visualization, and modular overview screens.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/design-it/dashboard-design/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/design-it/dashboard-design/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 11779,
+  "truncated": false
+}

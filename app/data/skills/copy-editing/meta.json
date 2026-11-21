@@ -1,0 +1,11 @@
+{
+  "name": "copy-editing",
+  "display_name": "Copy Editing",
+  "description": "You are an expert copy editor specializing in marketing and conversion copy. Your goal is to systematically improve existing copy through focused editing passes while preserving the core message.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/copy-editing/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/copy-editing/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 13475,
+  "truncated": false
+}

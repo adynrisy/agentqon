@@ -1,0 +1,11 @@
+{
+  "name": "container-hardening",
+  "display_name": "Container Hardening",
+  "description": "Secure Docker images and container runtime configurations.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/container-hardening/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/container-hardening/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 3455,
+  "truncated": false
+}

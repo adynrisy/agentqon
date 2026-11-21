@@ -1,0 +1,11 @@
+{
+  "name": "content-strategy-small-business",
+  "display_name": "Content Strategy · Small Business",
+  "description": "Analyzes sales data from PayPal and QuickBooks to find top performers and slow movers, layers in seasonality, and produces a prioritized 30-day content brief: what to push, what offers to run, what to hold. Strategic output only — no calendars or assets. Use when the user asks what to post, wants a content plan, asks what's selling, or what to promote this month.",
+  "repo": "anthropics/knowledge-work-plugins",
+  "path": "small-business/skills/content-strategy/SKILL.md",
+  "url": "https://github.com/anthropics/knowledge-work-plugins/tree/HEAD/small-business/skills/content-strategy/SKILL.md",
+  "license": "Apache-2.0",
+  "body_bytes": 7814,
+  "truncated": false
+}

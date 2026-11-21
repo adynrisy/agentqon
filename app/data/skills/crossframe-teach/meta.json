@@ -1,0 +1,11 @@
+{
+  "name": "crossframe-teach",
+  "display_name": "Crossframe Teach",
+  "description": "Use when CrossFrame Suite routes explicit Chinese teaching of CrossFrame concepts, misreading boundaries, plain-language examples, signals, or exercises.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/crossframe-teach/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/crossframe-teach/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 5159,
+  "truncated": false
+}

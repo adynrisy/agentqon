@@ -1,0 +1,11 @@
+{
+  "name": "context-state-model",
+  "display_name": "Context State Model",
+  "description": "Context is the complete state available to a language model at inference time. It includes everything the model can attend to when generating responses: system instructions, tool definitions, retrieved documents, message history, and tool outputs.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/context-fundamentals/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/context-fundamentals/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 12006,
+  "truncated": false
+}

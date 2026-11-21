@@ -1,0 +1,11 @@
+{
+  "name": "contract-document-renewal",
+  "display_name": "Contract Document Renewal",
+  "description": "Contract register: counterparty, owner, start and end dates, auto-renewal flag, renewal notice deadline, value and tax basis. Use for renewal tracking and notice deadlines.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/contract-document-renewal/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/contract-document-renewal/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 18721,
+  "truncated": false
+}

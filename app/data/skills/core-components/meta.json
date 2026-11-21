@@ -1,0 +1,11 @@
+{
+  "name": "core-components",
+  "display_name": "Core Components",
+  "description": "Core component library and design system patterns. Use when building UI, using design tokens, or working with the component library.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/core-components/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/core-components/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 5038,
+  "truncated": false
+}

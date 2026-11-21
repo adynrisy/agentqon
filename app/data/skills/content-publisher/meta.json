@@ -1,0 +1,11 @@
+{
+  "name": "content-publisher",
+  "display_name": "Content Publisher",
+  "description": "Publishes prepared posts to the user's own accounts through their live browser, on schedule, with login checks, a no-duplicates ledger and a confirmation gate before anything goes public. Use when asked to publish posts.",
+  "repo": "khasky/awesome-agent-skills",
+  "path": "skills/awesome-content-publisher/SKILL.md",
+  "url": "https://github.com/khasky/awesome-agent-skills/tree/HEAD/skills/awesome-content-publisher/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 65536,
+  "truncated": true
+}

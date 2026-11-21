@@ -1,0 +1,11 @@
+{
+  "name": "cost-optimization",
+  "display_name": "Cost Optimization",
+  "description": "Optimize cloud costs across AWS, Azure, GCP, and OCI through resource rightsizing, tagging strategies, reserved instances, and spending analysis. Use when reducing cloud expenses, analyzing infrastructure costs, or implementing cost governance policies.",
+  "repo": "wshobson/agents",
+  "path": "plugins/cloud-infrastructure/skills/cost-optimization/SKILL.md",
+  "url": "https://github.com/wshobson/agents/tree/HEAD/plugins/cloud-infrastructure/skills/cost-optimization/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 6544,
+  "truncated": false
+}

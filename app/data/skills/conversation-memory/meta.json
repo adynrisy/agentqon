@@ -1,0 +1,11 @@
+{
+  "name": "conversation-memory",
+  "display_name": "Conversation Memory",
+  "description": "Persistent memory systems for LLM conversations including short-term, long-term, and entity-based memory",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/conversation-memory/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/conversation-memory/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 14218,
+  "truncated": false
+}

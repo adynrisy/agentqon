@@ -1,0 +1,11 @@
+{
+  "name": "connection-auth-rules",
+  "display_name": "Connection Auth Rules",
+  "description": "Build a Connection Auth Rules for a Monte Carlo connection type. Fetches live connector schemas and transform steps from the apollo-agent repo.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/connection-auth-rules/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/connection-auth-rules/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 7919,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "database-migration",
+  "display_name": "Database Migration",
+  "description": "Master database schema and data migrations across ORMs (Sequelize, TypeORM, Prisma), including rollback strategies and zero-downtime deployments.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/database-migration/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/database-migration/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 12257,
+  "truncated": false
+}

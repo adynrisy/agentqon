@@ -1,0 +1,11 @@
+{
+  "name": "cypress-production-e2e",
+  "display_name": "Cypress Production E2E",
+  "description": "Generates production-grade Cypress E2E and component tests in JavaScript or TypeScript. Supports local execution and TestMu AI cloud. Use when the user asks to write Cypress tests, set up Cypress, test with cy commands, or mentions \"Cypress\", \"cy.visit\", \"cy.get\", \"cy.intercept\".",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/cypress-skill/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/cypress-skill/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 7213,
+  "truncated": false
+}

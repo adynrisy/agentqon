@@ -1,0 +1,11 @@
+{
+  "name": "create-3d-visual",
+  "display_name": "Create 3D Visual",
+  "description": "Create 3D scenes, interactive experiences, and visual effects using Three.js. Use when user requests 3D graphics, WebGL experiences, 3D visualizations, animations, or interactive 3D elements.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/threejs-skills/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/threejs-skills/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 1655,
+  "truncated": false
+}

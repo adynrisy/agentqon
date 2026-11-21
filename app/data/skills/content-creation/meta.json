@@ -1,0 +1,11 @@
+{
+  "name": "content-creation",
+  "display_name": "Content Creation",
+  "description": "Draft marketing content across channels — blog posts, social media, email newsletters, landing pages, press releases, and case studies. Use when writing any marketing content, when you need channel-specific formatting, SEO-optimized copy, headline options, or calls to action.",
+  "repo": "anthropics/knowledge-work-plugins",
+  "path": "marketing/skills/content-creation/SKILL.md",
+  "url": "https://github.com/anthropics/knowledge-work-plugins/tree/HEAD/marketing/skills/content-creation/SKILL.md",
+  "license": "Apache-2.0",
+  "body_bytes": 8484,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "database-migrations-sql",
+  "display_name": "Database Migrations SQL",
+  "description": "SQL database migrations with zero-downtime strategies for PostgreSQL, MySQL, and SQL Server. Focus on data integrity and rollback plans.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/database-migrations-sql-migrations/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/database-migrations-sql-migrations/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 2243,
+  "truncated": false
+}

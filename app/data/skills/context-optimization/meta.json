@@ -1,0 +1,11 @@
+{
+  "name": "context-optimization",
+  "display_name": "Context Optimization",
+  "description": "Context optimization extends the effective capacity of limited context windows through strategic compression, masking, caching, and partitioning. The goal is not to magically increase context windows but to make better use of available capacity.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/context-optimization/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/context-optimization/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 8397,
+  "truncated": false
+}

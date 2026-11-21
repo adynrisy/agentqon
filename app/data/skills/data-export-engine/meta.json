@@ -1,0 +1,11 @@
+{
+  "name": "data-export-engine",
+  "display_name": "Data Export Engine",
+  "description": "Data export log: source module, purpose, format, requester and approver, delivery dates, personal-data flag and status. Use for export audit trails.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/data-export-engine/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/data-export-engine/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 12427,
+  "truncated": false
+}

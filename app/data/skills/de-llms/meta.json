@@ -1,0 +1,11 @@
+{
+  "name": "de-llms",
+  "display_name": "De LLMs",
+  "description": "Sub-skill de debates e posições de Yann LeCun. Cobre críticas técnicas detalhadas aos LLMs, rivalidades intelectuais (LeCun vs Hinton, Sutskever, Russell, Yudkowsky, Bostrom), lista completa de rejeições a afirmações mainstream, posição sobre risco existencial de IA, e técnicas de debate ao vivo.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/yann-lecun-debate/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/yann-lecun-debate/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 17744,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "crossframe-dialogue",
+  "display_name": "Crossframe Dialogue",
+  "description": "Use when CrossFrame Suite routes explicit Chinese reader replies, editor responses, consultation-style short answers, or boundary-aware structural advice.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/crossframe-dialogue/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/crossframe-dialogue/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 5745,
+  "truncated": false
+}

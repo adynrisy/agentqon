@@ -1,0 +1,11 @@
+{
+  "name": "create-pr",
+  "display_name": "Create PR",
+  "description": "Alias for pr-writer. Use when users explicitly ask for \"create-pr\" or reference the legacy skill name. Redirects to the canonical PR writing workflow.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/create-pr/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/create-pr/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 1311,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "data-privacy-controls",
+  "display_name": "Data Privacy Controls",
+  "description": "Data privacy control register: data category, lawful basis, retention period, access roles, encryption and consent requirement per module. Use for GDPR compliance.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/data-privacy-controls/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/data-privacy-controls/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 13067,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "cro-methodology",
+  "display_name": "Cro Methodology",
+  "description": "Audit websites and landing pages for conversion issues and design evidence-based A/B tests. Use when the user mentions \"landing page isnt converting\", \"conversion rate\", \"A/B test\", \"why visitors leave\", \"objection handling\", \"bounce rate\", \"conversion funnel\", \"increase signups\", or \"people add to cart but dont buy\". Also trigger when diagnosing why signups are low, designing experiment hypotheses, or auditing checkout flows for friction points. Covers funnel mapping, persuasion assets, and objection/counter-objection frameworks. For overall marketing strategy, see one-page-marketing. For usability issues, see ux-heuristics.",
+  "repo": "wondelai/skills",
+  "path": "cro-methodology/SKILL.md",
+  "url": "https://github.com/wondelai/skills/tree/HEAD/cro-methodology/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 16329,
+  "truncated": false
+}

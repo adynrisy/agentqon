@@ -1,0 +1,11 @@
+{
+  "name": "content-creator-long",
+  "display_name": "Content Creator · Long",
+  "description": "Long-form marketing content producer orchestrating the content-production skill (research → brief → draft → optimize → gate). Use when content must be written, scored, or made publish-ready — e.g., drafting a 2,000-word blog post against a target keyword and blocking publish until content_quality_gates.py passes, or auditing a draft for brand-voice drift with brand_voice_analyzer.py before it ships. Routes planning requests (topic clusters, calendars) to content-strategy. Supersedes the deprecated content-creator skill.",
+  "repo": "alirezarezvani/claude-skills",
+  "path": ".gemini/skills/cs-content-creator/SKILL.md",
+  "url": "https://github.com/alirezarezvani/claude-skills/tree/HEAD/.gemini/skills/cs-content-creator/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 9205,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "cross-platform-contract-propagation-audit",
+  "display_name": "Cross Platform Contract Propagation Audit",
+  "description": "Use when auditing whether a field, enum, flag, or API contract propagates consistently across storage, services, clients, analytics, and tests.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/cross-platform-contract-propagation-audit/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/cross-platform-contract-propagation-audit/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 8649,
+  "truncated": false
+}

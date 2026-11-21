@@ -1,0 +1,11 @@
+{
+  "name": "cookbooks-build-ai",
+  "display_name": "Cookbooks Build AI",
+  "description": "Build Weaviate AI apps from official cookbook blueprints for RAG, agentic RAG, data exploration, multimodal PDF search, async clients, and frontends.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/weaviate-cookbooks/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/weaviate-cookbooks/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 3608,
+  "truncated": false
+}

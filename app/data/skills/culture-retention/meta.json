@@ -1,0 +1,11 @@
+{
+  "name": "culture-retention",
+  "display_name": "Culture Retention",
+  "description": "Employee survey and retention register: engagement, growth, happiness, work-life balance and manager-relationship scores, key concern and retention risk. Use for culture surveys.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/culture-retention/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/culture-retention/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 14662,
+  "truncated": false
+}

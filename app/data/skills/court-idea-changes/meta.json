@@ -1,0 +1,11 @@
+{
+  "name": "court-idea-changes",
+  "display_name": "Court Idea Changes",
+  "description": "Put an idea on trial: a prosecutor and a defense Claude argue, 12 juror sub-agents vote independently, and a judge reads the verdict and the changes that would flip it.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/court/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/court/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 5462,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "cyberpunk-ui",
+  "display_name": "Cyberpunk UI",
+  "description": "Web and App implementation guide for Cyberpunk UI. Trigger when user wants neon colors, dark backgrounds, high-tech dystopian aesthetics, and hacking interfaces.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/design-it/cyberpunk-ui/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/design-it/cyberpunk-ui/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 7832,
+  "truncated": false
+}

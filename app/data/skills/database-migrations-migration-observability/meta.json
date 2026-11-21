@@ -1,0 +1,11 @@
+{
+  "name": "database-migrations-migration-observability",
+  "display_name": "Database Migrations Migration Observability",
+  "description": "Migration monitoring, CDC, and observability infrastructure",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/database-migrations-migration-observability/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/database-migrations-migration-observability/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 13302,
+  "truncated": false
+}

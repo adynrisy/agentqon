@@ -1,0 +1,11 @@
+{
+  "name": "cost-optimization-strategies",
+  "display_name": "Cost Optimization · Strategies",
+  "description": "Strategies and patterns for optimizing cloud costs across AWS, Azure, and GCP.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/cost-optimization/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/cost-optimization/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 7270,
+  "truncated": false
+}

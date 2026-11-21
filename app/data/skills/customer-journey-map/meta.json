@@ -1,0 +1,11 @@
+{
+  "name": "customer-journey-map",
+  "display_name": "Customer Journey Map",
+  "description": "Create a customer journey map across stages, touchpoints, actions, emotions, and metrics. Use when diagnosing a broken experience or aligning a team on the full customer flow.",
+  "repo": "deanpeters/Product-Manager-Skills",
+  "path": "skills/customer-journey-map/SKILL.md",
+  "url": "https://github.com/deanpeters/Product-Manager-Skills/tree/HEAD/skills/customer-journey-map/SKILL.md",
+  "license": "CC",
+  "body_bytes": 13736,
+  "truncated": false
+}

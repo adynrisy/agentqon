@@ -1,0 +1,11 @@
+{
+  "name": "consultant-de-c",
+  "display_name": "Consultant De C",
+  "description": "Usar al iniciar o mejorar un proyecto de IA: diagnostica código y restricciones, propone skills existentes y redacta tareas y un plan de implementación en español.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/00-andruia-consultant/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/00-andruia-consultant/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 5048,
+  "truncated": false
+}

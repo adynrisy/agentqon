@@ -1,0 +1,11 @@
+{
+  "name": "contact-center-android",
+  "display_name": "Contact Center Android",
+  "description": "Zoom Contact Center SDK for Android. Use for native Android chat/video/ZVA/scheduled callback integrations, campaign mode, service lifecycle, and rejoin handling.",
+  "repo": "anthropics/knowledge-work-plugins",
+  "path": "partner-built/zoom-plugin/skills/contact-center/android/SKILL.md",
+  "url": "https://github.com/anthropics/knowledge-work-plugins/tree/HEAD/partner-built/zoom-plugin/skills/contact-center/android/SKILL.md",
+  "license": "Apache-2.0",
+  "body_bytes": 1271,
+  "truncated": false
+}

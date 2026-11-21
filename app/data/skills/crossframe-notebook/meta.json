@@ -1,0 +1,11 @@
+{
+  "name": "crossframe-notebook",
+  "display_name": "Crossframe Notebook",
+  "description": "Use when CrossFrame Suite routes explicit Chinese notes for books, theories, articles, excerpts, bidirectional reading, absorption, or conflict mapping.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/crossframe-notebook/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/crossframe-notebook/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 5538,
+  "truncated": false
+}

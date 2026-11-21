@@ -1,0 +1,11 @@
+{
+  "name": "data-fetching",
+  "display_name": "Data Fetching",
+  "description": "Use when implementing or debugging ANY network request, API call, or data fetching. Covers fetch API, React Query, SWR, error handling, caching, offline support, loading/empty/error screen states, and Expo Router data loaders (`useLoaderData`).",
+  "repo": "expo/skills",
+  "path": "plugins/expo/skills/expo-data-fetching/SKILL.md",
+  "url": "https://github.com/expo/skills/tree/HEAD/plugins/expo/skills/expo-data-fetching/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 13338,
+  "truncated": false
+}

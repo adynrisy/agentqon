@@ -1,0 +1,11 @@
+{
+  "name": "create-asset",
+  "display_name": "Create Asset",
+  "description": "Build a customer deck, one-pager or leave-behind from your account data, call notes and approved materials, with no made-up numbers. Use when the user asks for a sales asset, one-pager, deck, leave-behind, \"create an asset for [prospect]\", or \"make something for [account]\".",
+  "repo": "anthropics/knowledge-work-plugins",
+  "path": "sales/skills/create-an-asset/SKILL.md",
+  "url": "https://github.com/anthropics/knowledge-work-plugins/tree/HEAD/sales/skills/create-an-asset/SKILL.md",
+  "license": "Apache-2.0",
+  "body_bytes": 8081,
+  "truncated": false
+}

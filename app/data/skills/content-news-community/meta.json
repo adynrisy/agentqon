@@ -1,0 +1,11 @@
+{
+  "name": "content-news-community",
+  "display_name": "Content News Community",
+  "description": "Latest news articles, regulatory filings, community discussion topics for listed stocks, and SEC EDGAR filing analysis (10-K/10-Q/8-K/proxy/Form 4) via Longbridge.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/longbridge-content/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/longbridge-content/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 3424,
+  "truncated": false
+}

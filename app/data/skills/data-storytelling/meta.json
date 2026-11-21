@@ -1,0 +1,11 @@
+{
+  "name": "data-storytelling",
+  "display_name": "Data Storytelling",
+  "description": "Transform raw data into compelling narratives that drive decisions and inspire action.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/data-storytelling/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/data-storytelling/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 13219,
+  "truncated": false
+}

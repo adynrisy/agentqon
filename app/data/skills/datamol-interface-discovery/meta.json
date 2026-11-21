@@ -1,0 +1,11 @@
+{
+  "name": "datamol-interface-discovery",
+  "display_name": "Datamol Interface Discovery",
+  "description": "Pythonic wrapper around RDKit with simplified interface and sensible defaults. Preferred for standard drug discovery including SMILES parsing, standardization, descriptors, fingerprints, clustering, 3D conformers, parallel processing. Returns native rdkit.Chem.Mol objects. For advanced control or custom parameters, use rdkit directly.",
+  "repo": "K-Dense-AI/scientific-agent-skills",
+  "path": "skills/datamol/SKILL.md",
+  "url": "https://github.com/K-Dense-AI/scientific-agent-skills/tree/HEAD/skills/datamol/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 10179,
+  "truncated": false
+}

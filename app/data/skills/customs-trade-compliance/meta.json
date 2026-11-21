@@ -1,0 +1,11 @@
+{
+  "name": "customs-trade-compliance",
+  "display_name": "Customs Trade Compliance",
+  "description": "Codified expertise for customs documentation, tariff classification, duty optimisation, restricted party screening, and regulatory compliance across multiple jurisdictions.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/customs-trade-compliance/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/customs-trade-compliance/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 28524,
+  "truncated": false
+}

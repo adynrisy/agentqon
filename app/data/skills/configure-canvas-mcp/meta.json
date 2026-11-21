@@ -1,0 +1,11 @@
+{
+  "name": "configure-canvas-mcp",
+  "display_name": "Configure Canvas MCP",
+  "description": "Configure the Canvas Authoring MCP server for the current coauthoring session. Use before starting to edit a canvas app with the /canvas-app skill if not already connected. USE WHEN \"configure MCP\", \"set up MCP server\", \"MCP not working\", \"connect Canvas Apps MCP\", \"canvas-authoring not available\", \"MCP not configured\", \"set up canvas apps\".",
+  "repo": "microsoft/power-platform-skills",
+  "path": "plugins/canvas-apps/skills/configure-canvas-mcp/SKILL.md",
+  "url": "https://github.com/microsoft/power-platform-skills/tree/HEAD/plugins/canvas-apps/skills/configure-canvas-mcp/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 7097,
+  "truncated": false
+}

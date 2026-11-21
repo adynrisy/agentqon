@@ -1,0 +1,11 @@
+{
+  "name": "context-driven-development-guide",
+  "display_name": "Context Driven Development · Guide",
+  "description": "Guide for implementing and maintaining context as a managed artifact alongside code, enabling consistent AI interactions and team alignment through structured project documentation.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/context-driven-development/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/context-driven-development/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 11945,
+  "truncated": false
+}

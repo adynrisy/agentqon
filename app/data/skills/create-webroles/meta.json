@@ -1,0 +1,11 @@
+{
+  "name": "create-webroles",
+  "display_name": "Create Webroles",
+  "description": "Creates and configures web roles for a Power Pages code site. Web roles control access and permissions for site users, including authenticated and anonymous roles. Use when the user wants to create, add, set up, or manage web roles for their site.",
+  "repo": "microsoft/power-platform-skills",
+  "path": "plugins/power-pages/skills/create-webroles/SKILL.md",
+  "url": "https://github.com/microsoft/power-platform-skills/tree/HEAD/plugins/power-pages/skills/create-webroles/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 13048,
+  "truncated": false
+}

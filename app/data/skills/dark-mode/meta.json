@@ -1,0 +1,11 @@
+{
+  "name": "dark-mode",
+  "display_name": "Dark Mode",
+  "description": "Web and App implementation guide for Dark Mode Design. Trigger when user wants dark surfaces, reduced eye strain, and premium sleek aesthetics.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/design-it/dark-mode/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/design-it/dark-mode/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 10987,
+  "truncated": false
+}

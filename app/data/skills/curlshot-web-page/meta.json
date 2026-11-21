@@ -1,0 +1,11 @@
+{
+  "name": "curlshot-web-page",
+  "display_name": "Curlshot Web Page",
+  "description": "Capture web page screenshots, PDFs and scrolling videos, or render HTML/Markdown to images, with the hosted CurlShot API.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/curlshot/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/curlshot/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 5114,
+  "truncated": false
+}

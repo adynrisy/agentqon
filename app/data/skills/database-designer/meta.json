@@ -1,0 +1,11 @@
+{
+  "name": "database-designer",
+  "display_name": "Database Designer",
+  "description": "Use when the user asks to design database schemas, plan data migrations, optimize queries, choose between SQL and NoSQL, or model data relationships.",
+  "repo": "alirezarezvani/claude-skills",
+  "path": ".gemini/skills/database-designer/SKILL.md",
+  "url": "https://github.com/alirezarezvani/claude-skills/tree/HEAD/.gemini/skills/database-designer/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 12571,
+  "truncated": false
+}

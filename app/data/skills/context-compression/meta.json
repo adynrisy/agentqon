@@ -1,0 +1,11 @@
+{
+  "name": "context-compression",
+  "display_name": "Context Compression",
+  "description": "When agent sessions generate millions of tokens of conversation history, compression becomes mandatory. The naive approach is aggressive compression to minimize tokens per request.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/context-compression/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/context-compression/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 12274,
+  "truncated": false
+}

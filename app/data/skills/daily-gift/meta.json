@@ -1,0 +1,11 @@
+{
+  "name": "daily-gift",
+  "display_name": "Daily Gift",
+  "description": "Relationship-aware daily gift engine with five-stage creative pipeline — editorial judgment, synthesis, concept generation, visual strategy, and rendering in H5, image, or video",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/daily-gift/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/daily-gift/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 5181,
+  "truncated": false
+}

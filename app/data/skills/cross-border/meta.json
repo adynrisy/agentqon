@@ -1,0 +1,11 @@
+{
+  "name": "cross-border",
+  "display_name": "Cross Border",
+  "description": "Cross-border e-commerce expansion advisor. Scores target markets on 8 weighted dimensions (market size, ecommerce penetration, competition, regulatory complexity, logistics infrastructure, payment ecosystem, cultural distance, IP protection), compares 5 fulfillment models with cost and transit data, provides country-by-country tax/duty compliance guides (EU VAT/IOSS, UK VAT, US sales tax, CA GST, AU GST, JP consumption tax), maps local payment preferences by market, and builds a phased expansion roadmap. No API key required.",
+  "repo": "nexscope-ai/eCommerce-Skills",
+  "path": "cross-border-ecommerce/SKILL.md",
+  "url": "https://github.com/nexscope-ai/eCommerce-Skills/tree/HEAD/cross-border-ecommerce/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 35959,
+  "truncated": false
+}

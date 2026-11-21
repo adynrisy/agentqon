@@ -1,0 +1,11 @@
+{
+  "name": "connectivity-triage",
+  "display_name": "Connectivity Triage",
+  "description": "Use this skill when debugging active macOS connectivity failures, when an API or MCP service times out or disconnects, when DNS resolution is failing or inconsistent, or when video calls or other interactive traffic show packet loss or latency. Isolate local-LAN, DNS, upstream-path, and remote-service/application fault domains with built-in, non-destructive tools.",
+  "repo": "wshobson/agents",
+  "path": "plugins/incident-response/skills/connectivity-triage/SKILL.md",
+  "url": "https://github.com/wshobson/agents/tree/HEAD/plugins/incident-response/skills/connectivity-triage/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 7686,
+  "truncated": false
+}

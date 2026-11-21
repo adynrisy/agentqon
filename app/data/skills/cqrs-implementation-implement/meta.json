@@ -1,0 +1,11 @@
+{
+  "name": "cqrs-implementation-implement",
+  "display_name": "Cqrs Implementation · Implement",
+  "description": "Implement Command Query Responsibility Segregation for scalable architectures. Use when separating read and write models, optimizing query performance, or building event-sourced systems.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/cqrs-implementation/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/cqrs-implementation/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 1296,
+  "truncated": false
+}

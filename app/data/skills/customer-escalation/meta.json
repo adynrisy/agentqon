@@ -1,0 +1,11 @@
+{
+  "name": "customer-escalation",
+  "display_name": "Customer Escalation",
+  "description": "Package an escalation for engineering, product, or leadership with full context. Use when a bug needs engineering attention beyond normal support, multiple customers report the same issue, a customer is threatening to churn, or an issue has sat unresolved past its SLA.",
+  "repo": "anthropics/knowledge-work-plugins",
+  "path": "customer-support/skills/customer-escalation/SKILL.md",
+  "url": "https://github.com/anthropics/knowledge-work-plugins/tree/HEAD/customer-support/skills/customer-escalation/SKILL.md",
+  "license": "Apache-2.0",
+  "body_bytes": 10838,
+  "truncated": false
+}

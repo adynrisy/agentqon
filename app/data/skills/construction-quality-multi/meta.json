@@ -1,0 +1,11 @@
+{
+  "name": "construction-quality-multi",
+  "display_name": "Construction Quality Multi",
+  "description": "Construct a quality-aware NEXRAD multi-radar mosaic from aligned single-site products with explicit coverage, beam geometry, quality weighting, overlap resolution, and provenance.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/nexrad-mosaic-construction/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/nexrad-mosaic-construction/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 11885,
+  "truncated": false
+}

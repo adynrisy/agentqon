@@ -1,0 +1,11 @@
+{
+  "name": "create-readonly-db-role",
+  "display_name": "Create Readonly DB Role",
+  "description": "Set up read-only PostgreSQL access for agents. Use only when the user explicitly invokes /create-readonly-db-role.",
+  "repo": "davidondrej/skills",
+  "path": "skills/ops-and-setup/create-readonly-db-role/SKILL.md",
+  "url": "https://github.com/davidondrej/skills/tree/HEAD/skills/ops-and-setup/create-readonly-db-role/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 5066,
+  "truncated": false
+}

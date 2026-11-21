@@ -1,0 +1,11 @@
+{
+  "name": "creator-ms",
+  "display_name": "Creator Ms",
+  "description": "Guide for creating effective skills for AI coding agents working with Azure SDKs and Microsoft Foundry services. Use when creating new skills or updating existing skills.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/skill-creator-ms/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/skill-creator-ms/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 1055,
+  "truncated": false
+}

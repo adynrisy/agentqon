@@ -1,0 +1,11 @@
+{
+  "name": "context-ignore-files-finops",
+  "display_name": "Context Ignore Files \u00b7 FinOps",
+  "description": "Configure and optimize .geminiignore files for AI context window efficiency and token cost reduction (FinOps).",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/geminiignore-finops/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/geminiignore-finops/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 5087,
+  "truncated": false
+}

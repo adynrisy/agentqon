@@ -1,0 +1,11 @@
+{
+  "name": "copywriting-short-product",
+  "display_name": "Copywriting Short Product",
+  "description": "Writes short product copy: headlines, titles, meta and store descriptions, buttons, empty states, error messages, subject lines, CTAs. Use when asked for such copy.",
+  "repo": "khasky/awesome-agent-skills",
+  "path": "skills/awesome-copywriting/SKILL.md",
+  "url": "https://github.com/khasky/awesome-agent-skills/tree/HEAD/skills/awesome-copywriting/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 12396,
+  "truncated": false
+}

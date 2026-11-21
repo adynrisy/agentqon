@@ -1,0 +1,11 @@
+{
+  "name": "deal-advance-gap",
+  "display_name": "Deal Advance Gap",
+  "description": "Forward-looking gap check on one opportunity - exactly what is missing to advance it to the next stage and to close, with who does what by when. Use when the user asks \"what's missing to advance [deal]\", \"what do I need to move [opp] forward\", \"why is [deal] stuck\", or \"what's between [account] and a close\".",
+  "repo": "anthropics/knowledge-work-plugins",
+  "path": "sales/skills/deal-advance-gap/SKILL.md",
+  "url": "https://github.com/anthropics/knowledge-work-plugins/tree/HEAD/sales/skills/deal-advance-gap/SKILL.md",
+  "license": "Apache-2.0",
+  "body_bytes": 7521,
+  "truncated": false
+}

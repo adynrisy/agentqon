@@ -1,0 +1,11 @@
+{
+  "name": "consciousness-council",
+  "display_name": "Consciousness Council",
+  "description": "Structures a multi-perspective council exercise for decisions, research trade-offs, and creative challenges. Simulates thinking archetypes, separates evidence from assumptions and values, and synthesizes a conditional recommendation. Use when the user requests a council, panel, devil's advocate analysis, \"mind council\", or deliberate comparison of perspectives on a difficult choice.",
+  "repo": "K-Dense-AI/scientific-agent-skills",
+  "path": "skills/consciousness-council/SKILL.md",
+  "url": "https://github.com/K-Dense-AI/scientific-agent-skills/tree/HEAD/skills/consciousness-council/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 13368,
+  "truncated": false
+}

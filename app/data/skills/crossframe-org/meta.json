@@ -1,0 +1,11 @@
+{
+  "name": "crossframe-org",
+  "display_name": "Crossframe Org",
+  "description": "Use when CrossFrame Suite routes explicit Chinese analysis of teams, projects, organizations, responsibility chains, feedback write-back, repair, or retrospectives.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/crossframe-org/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/crossframe-org/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 7242,
+  "truncated": false
+}

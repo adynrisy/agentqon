@@ -1,0 +1,11 @@
+{
+  "name": "create-mobile-app",
+  "display_name": "Create Mobile App",
+  "description": "Use when the user wants to start a new Power Apps mobile app (Expo / React Native / TypeScript, targeting iOS and Android) from scratch.",
+  "repo": "microsoft/power-platform-skills",
+  "path": "plugins/mobile-apps/skills/create-mobile-app/SKILL.md",
+  "url": "https://github.com/microsoft/power-platform-skills/tree/HEAD/plugins/mobile-apps/skills/create-mobile-app/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 65536,
+  "truncated": true
+}

@@ -1,0 +1,11 @@
+{
+  "name": "contract-audit",
+  "display_name": "Contract Audit",
+  "description": "Soroban smart contract security audit register: authorization checks, panic pathways, integer overflows, and storage footprint verification for Stellar.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/soroban-contract-audit/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/soroban-contract-audit/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 4982,
+  "truncated": false
+}

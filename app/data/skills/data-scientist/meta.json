@@ -1,0 +1,11 @@
+{
+  "name": "data-scientist",
+  "display_name": "Data Scientist",
+  "description": "Expert data scientist for advanced analytics, machine learning, and statistical modeling. Handles complex data analysis, predictive modeling, and business intelligence.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/data-scientist/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/data-scientist/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 10352,
+  "truncated": false
+}
