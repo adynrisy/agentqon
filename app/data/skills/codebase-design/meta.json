@@ -1,0 +1,11 @@
+{
+  "name": "codebase-design",
+  "display_name": "Codebase Design",
+  "description": "Shared vocabulary for designing deep modules. Use when the user wants to design or improve a module's interface, find deepening opportunities, decide where a seam goes, make code more testable or AI-navigable, or when another skill needs the deep-module vocabulary.",
+  "repo": "mattpocock/skills",
+  "path": "skills/engineering/codebase-design/SKILL.md",
+  "url": "https://github.com/mattpocock/skills/tree/HEAD/skills/engineering/codebase-design/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 6136,
+  "truncated": false
+}

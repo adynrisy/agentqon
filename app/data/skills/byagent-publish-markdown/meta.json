@@ -1,0 +1,11 @@
+{
+  "name": "byagent-publish-markdown",
+  "display_name": "Byagent Publish Markdown",
+  "description": "Publish agent-written Markdown or HTML as a shareable link with the byagent CLI, then read readers' line comments back, edit, republish to the same link and resolve them.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/byagent/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/byagent/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 5033,
+  "truncated": false
+}

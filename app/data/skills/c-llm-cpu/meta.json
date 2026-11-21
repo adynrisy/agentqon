@@ -1,0 +1,11 @@
+{
+  "name": "c-llm-cpu",
+  "display_name": "C++ LLM CPU",
+  "description": "Runs LLM inference on CPU, Apple Silicon, and consumer GPUs without NVIDIA hardware. Use for edge deployment, M1/M2/M3 Macs, AMD/Intel GPUs, or when CUDA is unavailable. Supports GGUF quantization (1.5-8 bit) for reduced memory and 4-10× speedup vs PyTorch on CPU.",
+  "repo": "Orchestra-Research/AI-Research-SKILLs",
+  "path": "12-inference-serving/llama-cpp/SKILL.md",
+  "url": "https://github.com/Orchestra-Research/AI-Research-SKILLs/tree/HEAD/12-inference-serving/llama-cpp/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 5372,
+  "truncated": false
+}

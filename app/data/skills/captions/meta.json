@@ -1,0 +1,11 @@
+{
+  "name": "captions",
+  "display_name": "Captions",
+  "description": "Transcribing, displaying and animating captions",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/remotion-captions/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/remotion-captions/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 1313,
+  "truncated": false
+}

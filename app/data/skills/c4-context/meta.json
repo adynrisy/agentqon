@@ -1,0 +1,11 @@
+{
+  "name": "c4-context",
+  "display_name": "C4 Context",
+  "description": "Expert C4 Context-level documentation specialist. Creates high-level system context diagrams, documents personas, user journeys, system features, and external dependencies.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/c4-context/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/c4-context/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 4926,
+  "truncated": false
+}

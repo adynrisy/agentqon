@@ -1,0 +1,11 @@
+{
+  "name": "code-documenter",
+  "display_name": "Code Documenter",
+  "description": "Generates, formats, and validates technical documentation — including docstrings, OpenAPI/Swagger specs, JSDoc annotations, doc portals, and user guides. Use when adding docstrings to functions or classes, creating API documentation, building documentation sites, or writing tutorials and user guides. Invoke for OpenAPI/Swagger specs, JSDoc, doc portals, getting started guides.",
+  "repo": "Jeffallan/claude-skills",
+  "path": "skills/code-documenter/SKILL.md",
+  "url": "https://github.com/Jeffallan/claude-skills/tree/HEAD/skills/code-documenter/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 4997,
+  "truncated": false
+}

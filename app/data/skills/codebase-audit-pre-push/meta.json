@@ -1,0 +1,11 @@
+{
+  "name": "codebase-audit-pre-push",
+  "display_name": "Codebase Audit Pre Push",
+  "description": "Deep audit before GitHub push: removes junk files, dead code, security holes, and optimization issues. Checks every file line-by-line for production readiness.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/codebase-audit-pre-push/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/codebase-audit-pre-push/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 8194,
+  "truncated": false
+}

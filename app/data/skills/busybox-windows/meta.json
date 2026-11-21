@@ -1,0 +1,11 @@
+{
+  "name": "busybox-windows",
+  "display_name": "Busybox Windows",
+  "description": "How to use a Win32 build of BusyBox to run many of the standard UNIX command line tools on Windows.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/busybox-on-windows/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/busybox-on-windows/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 3021,
+  "truncated": false
+}

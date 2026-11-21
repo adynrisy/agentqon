@@ -1,0 +1,11 @@
+{
+  "name": "code-review",
+  "display_name": "Code Review",
+  "description": "Reviews a diff, patch or pull request for correctness, security and team standards, with severity-ranked findings. Use when asked to review a change or PR, or before merging.",
+  "repo": "khasky/awesome-agent-skills",
+  "path": "skills/awesome-code-review/SKILL.md",
+  "url": "https://github.com/khasky/awesome-agent-skills/tree/HEAD/skills/awesome-code-review/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 25689,
+  "truncated": false
+}

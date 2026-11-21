@@ -1,0 +1,11 @@
+{
+  "name": "candidate-talent-pool",
+  "display_name": "Candidate Talent Pool",
+  "description": "Candidate and prospect pool: contact details, experience, skills, consent status and date, referral source and last contact. Use for talent pipelines and re-engagement.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/candidate-talent-pool/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/candidate-talent-pool/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 16429,
+  "truncated": false
+}

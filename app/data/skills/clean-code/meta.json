@@ -1,0 +1,11 @@
+{
+  "name": "clean-code",
+  "display_name": "Clean Code",
+  "description": "Write readable, maintainable code through disciplined naming, small functions, and clean error handling. Use when the user mentions \"clean up this code\", \"this function is too long\", \"code smells\", \"naming conventions\", \"boy scout rule\", \"single responsibility\", or \"unit test quality\". Also trigger when reviewing a pull request for readability, untangling a messy function, debating comment styles, or improving error-handling patterns. Covers SRP, comment discipline, formatting, and unit testing. For refactoring techniques, see refactoring-patterns. For architecture and dependency rules, see clean-architecture.",
+  "repo": "wondelai/skills",
+  "path": "clean-code/SKILL.md",
+  "url": "https://github.com/wondelai/skills/tree/HEAD/clean-code/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 14203,
+  "truncated": false
+}

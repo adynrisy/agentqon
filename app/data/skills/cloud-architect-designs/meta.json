@@ -1,0 +1,11 @@
+{
+  "name": "cloud-architect-designs",
+  "display_name": "Cloud Architect · Designs",
+  "description": "Designs cloud architectures, creates migration plans, generates cost optimization recommendations, and produces disaster recovery strategies across AWS, Azure, and GCP. Use when designing cloud architectures, planning migrations, or optimizing multi-cloud deployments. Invoke for Well-Architected Framework, cost optimization, disaster recovery, landing zones, security architecture, serverless design.",
+  "repo": "Jeffallan/claude-skills",
+  "path": "skills/cloud-architect/SKILL.md",
+  "url": "https://github.com/Jeffallan/claude-skills/tree/HEAD/skills/cloud-architect/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 6524,
+  "truncated": false
+}

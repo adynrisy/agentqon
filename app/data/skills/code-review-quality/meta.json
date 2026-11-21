@@ -1,0 +1,11 @@
+{
+  "name": "code-review-quality",
+  "display_name": "Code Review Quality",
+  "description": "Conducts multi-axis code review. Use before merging any change. Use when reviewing code written by yourself, another agent, or a human. Use when you need to assess code quality across multiple dimensions before it enters the main branch.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/code-review-and-quality/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/code-review-and-quality/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 19472,
+  "truncated": false
+}

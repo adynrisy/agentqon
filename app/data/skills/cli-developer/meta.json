@@ -1,0 +1,11 @@
+{
+  "name": "cli-developer",
+  "display_name": "CLI Developer",
+  "description": "Use when building CLI tools, implementing argument parsing, or adding interactive prompts. Invoke for parsing flags and subcommands, displaying progress bars and spinners, generating bash/zsh/fish completion scripts, CLI design, shell completions, and cross-platform terminal applications using commander, click, typer, or cobra.",
+  "repo": "Jeffallan/claude-skills",
+  "path": "skills/cli-developer/SKILL.md",
+  "url": "https://github.com/Jeffallan/claude-skills/tree/HEAD/skills/cli-developer/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 4035,
+  "truncated": false
+}

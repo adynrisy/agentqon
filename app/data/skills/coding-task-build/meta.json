@@ -1,0 +1,11 @@
+{
+  "name": "coding-task-build",
+  "display_name": "Coding Task Build",
+  "description": "Delegate a coding task to the Grok Build CLI as a background implementer, then review its diff and land it yourself. Use this whenever the user wants to hand implementation work to Grok — phrasings like \"have Grok do X\", \"delegate this to Grok\", \"run it through Grok\", \"use Grok Build to implement/fix/refactor\", or \"have grok CLI do this\" — or to run a queue of coding tasks through Grok while staying the reviewer. Prefer it when the user will review the diff and commit it themselves. DO NOT USE for tasks small enough to do inline, or when the user wants the code written directly without delegating.",
+  "repo": "amElnagdy/delegate-skills",
+  "path": "skills/grok-delegate/SKILL.md",
+  "url": "https://github.com/amElnagdy/delegate-skills/tree/HEAD/skills/grok-delegate/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 10203,
+  "truncated": false
+}

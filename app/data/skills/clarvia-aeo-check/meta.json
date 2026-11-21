@@ -1,0 +1,11 @@
+{
+  "name": "clarvia-aeo-check",
+  "display_name": "Clarvia Aeo Check",
+  "description": "Score any MCP server, API, or CLI for agent-readiness using Clarvia AEO (Agent Experience Optimization). Use current provider evidence as advisory input when evaluating a tool.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/clarvia-aeo-check/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/clarvia-aeo-check/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 4160,
+  "truncated": false
+}

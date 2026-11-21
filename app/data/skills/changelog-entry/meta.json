@@ -1,0 +1,11 @@
+{
+  "name": "changelog-entry",
+  "display_name": "Changelog Entry",
+  "description": "Generate a properly formatted CHANGELOG.md entry in Keep a Changelog format from a commit range or PR. Groups changes into Added/Changed/Deprecated/Removed/Fixed/Security categories and outputs a ready-to-paste block.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/changelog-entry/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/changelog-entry/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 4312,
+  "truncated": false
+}

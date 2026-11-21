@@ -1,0 +1,11 @@
+{
+  "name": "chaos-engineer",
+  "display_name": "Chaos Engineer",
+  "description": "Designs chaos experiments, creates failure injection frameworks, and facilitates game day exercises for distributed systems — producing runbooks, experiment manifests, rollback procedures, and post-mortem templates. Use when designing chaos experiments, implementing failure injection frameworks, or conducting game day exercises. Invoke for chaos experiments, resilience testing, blast radius control, game days, antifragile systems, fault injection, Chaos Monkey, Litmus Chaos.",
+  "repo": "Jeffallan/claude-skills",
+  "path": "skills/chaos-engineer/SKILL.md",
+  "url": "https://github.com/Jeffallan/claude-skills/tree/HEAD/skills/chaos-engineer/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 6098,
+  "truncated": false
+}

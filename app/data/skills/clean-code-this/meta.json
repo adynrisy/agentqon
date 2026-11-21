@@ -1,0 +1,11 @@
+{
+  "name": "clean-code-this",
+  "display_name": "Clean Code · This",
+  "description": "This skill embodies the principles of \"Clean Code\" by Robert C. Martin (Uncle Bob). Use it to transform \"code that works\" into \"code that is clean.\"",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/clean-code/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/clean-code/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 4540,
+  "truncated": false
+}

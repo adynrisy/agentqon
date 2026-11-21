@@ -1,0 +1,11 @@
+{
+  "name": "chro-advisor",
+  "display_name": "Chro Advisor",
+  "description": "People leadership for scaling companies. Hiring strategy, compensation design, org structure, culture, and retention. Use when building hiring plans, designing comp frameworks, restructuring teams, managing performance, building culture, or when user mentions CHRO, HR, people strategy, talent, headcount, compensation, org design, retention, or performance management.",
+  "repo": "alirezarezvani/claude-skills",
+  "path": ".gemini/skills/chro-advisor/SKILL.md",
+  "url": "https://github.com/alirezarezvani/claude-skills/tree/HEAD/.gemini/skills/chro-advisor/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 6573,
+  "truncated": false
+}

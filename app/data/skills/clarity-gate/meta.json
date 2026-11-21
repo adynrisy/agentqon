@@ -1,0 +1,11 @@
+{
+  "name": "clarity-gate",
+  "display_name": "Clarity Gate",
+  "description": "Pre-ingestion verification for epistemic quality in RAG systems. Ensures documents are properly qualified before entering knowledge bases. Produces CGD (Clarity-Gated Documents) and validates SOT (Source of Truth) files.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/clarity-gate/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/clarity-gate/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 1915,
+  "truncated": false
+}

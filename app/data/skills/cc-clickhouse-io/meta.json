@@ -1,0 +1,11 @@
+{
+  "name": "cc-clickhouse-io",
+  "display_name": "Cc Clickhouse Io",
+  "description": "ClickHouse database patterns, query optimization, analytics, and data engineering best practices for high-performance analytical workloads.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/cc-skill-clickhouse-io/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/cc-skill-clickhouse-io/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 10212,
+  "truncated": false
+}

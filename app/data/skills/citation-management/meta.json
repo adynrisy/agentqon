@@ -1,0 +1,11 @@
+{
+  "name": "citation-management",
+  "display_name": "Citation Management",
+  "description": "Manage citations systematically throughout the research and writing process.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/citation-management/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/citation-management/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 4457,
+  "truncated": false
+}

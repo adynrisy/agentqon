@@ -1,0 +1,11 @@
+{
+  "name": "competency-matrix",
+  "display_name": "Competency Matrix",
+  "description": "Competency matrix of expected proficiency by job title and grade, with assessment method and linked skill area. Use for role frameworks and hiring bars.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/competency-matrix/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/competency-matrix/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 14472,
+  "truncated": false
+}

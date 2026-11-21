@@ -1,0 +1,11 @@
+{
+  "name": "chrome-extension-developer",
+  "display_name": "Chrome Extension Developer",
+  "description": "Expert in building Chrome Extensions using Manifest V3. Covers background scripts, service workers, content scripts, and cross-context communication.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/chrome-extension-developer/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/chrome-extension-developer/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 4115,
+  "truncated": false
+}

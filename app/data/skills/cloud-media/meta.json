@@ -1,0 +1,11 @@
+{
+  "name": "cloud-media",
+  "display_name": "Cloud Media",
+  "description": "Generate Atlas Cloud images and videos through its asynchronous media API with schema-first model selection and credential-safe polling.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/atlas-cloud-media/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/atlas-cloud-media/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 10904,
+  "truncated": false
+}

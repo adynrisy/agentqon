@@ -1,0 +1,11 @@
+{
+  "name": "code-review-feedback",
+  "display_name": "Code Review Feedback",
+  "description": "Handles review comments others left on the user's change: which points to apply, clarify or push back on, each checked against the code. Use when asked to address reviewer or bot comments.",
+  "repo": "khasky/awesome-agent-skills",
+  "path": "skills/awesome-code-review-feedback/SKILL.md",
+  "url": "https://github.com/khasky/awesome-agent-skills/tree/HEAD/skills/awesome-code-review-feedback/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 10826,
+  "truncated": false
+}

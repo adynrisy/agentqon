@@ -1,0 +1,11 @@
+{
+  "name": "ci-cd-integration",
+  "display_name": "CI/CD Integration",
+  "description": "Generate ready-to-use CI/CD pipeline configurations that install and run Newman for automated API testing.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/newman-cicd-integration/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/newman-cicd-integration/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 8546,
+  "truncated": false
+}

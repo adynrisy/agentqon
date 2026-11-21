@@ -1,0 +1,11 @@
+{
+  "name": "compress-image",
+  "display_name": "Compress Image",
+  "description": "Compresses images to WebP (default) or PNG with automatic tool selection. Use when user asks to \"compress image\", \"optimize image\", \"convert to webp\", or reduce image file size.",
+  "repo": "JimLiu/baoyu-skills",
+  "path": "skills/baoyu-compress-image/SKILL.md",
+  "url": "https://github.com/JimLiu/baoyu-skills/tree/HEAD/skills/baoyu-compress-image/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 2013,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "clinical-decision-support",
+  "display_name": "Clinical Decision Support",
+  "description": "Prepares and validates research-only clinical decision-support evaluation, evidence-profile, cohort, survival, biomarker/model, privacy, and governance artifacts. Supports aggregate or synthetic research documentation and traceability, excluding patient care and live clinical operation.",
+  "repo": "K-Dense-AI/scientific-agent-skills",
+  "path": "skills/clinical-decision-support/SKILL.md",
+  "url": "https://github.com/K-Dense-AI/scientific-agent-skills/tree/HEAD/skills/clinical-decision-support/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 13581,
+  "truncated": false
+}

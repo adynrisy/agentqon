@@ -1,0 +1,11 @@
+{
+  "name": "choose-zoom-approach",
+  "display_name": "Choose Zoom Approach",
+  "description": "Choose the right Zoom architecture for a use case. Use when deciding between REST API, Webhooks, WebSockets, Meeting SDK, Video SDK, Zoom Apps SDK, Zoom MCP, Phone, Contact Center, or a hybrid approach.",
+  "repo": "anthropics/knowledge-work-plugins",
+  "path": "partner-built/zoom-plugin/skills/choose-zoom-approach/SKILL.md",
+  "url": "https://github.com/anthropics/knowledge-work-plugins/tree/HEAD/partner-built/zoom-plugin/skills/choose-zoom-approach/SKILL.md",
+  "license": "Apache-2.0",
+  "body_bytes": 1587,
+  "truncated": false
+}

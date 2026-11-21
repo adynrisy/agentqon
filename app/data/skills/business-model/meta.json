@@ -1,0 +1,11 @@
+{
+  "name": "business-model",
+  "display_name": "Business Model",
+  "description": "Generate a Business Model Canvas with all 9 building blocks. Use when creating a business model, documenting how a business creates value, or analyzing an existing business model.",
+  "repo": "phuryn/pm-skills",
+  "path": "pm-product-strategy/skills/business-model/SKILL.md",
+  "url": "https://github.com/phuryn/pm-skills/tree/HEAD/pm-product-strategy/skills/business-model/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 5560,
+  "truncated": false
+}

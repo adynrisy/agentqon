@@ -1,0 +1,11 @@
+{
+  "name": "chroma-open-source",
+  "display_name": "Chroma Open Source",
+  "description": "Open-source embedding database for AI applications. Store embeddings and metadata, perform vector and full-text search, filter by metadata. Simple 4-function API. Scales from notebooks to production clusters. Use for semantic search, RAG applications, or document retrieval. Best for local development and open-source projects.",
+  "repo": "Orchestra-Research/AI-Research-SKILLs",
+  "path": "15-rag/chroma/SKILL.md",
+  "url": "https://github.com/Orchestra-Research/AI-Research-SKILLs/tree/HEAD/15-rag/chroma/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 8567,
+  "truncated": false
+}

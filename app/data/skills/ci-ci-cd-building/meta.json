@@ -1,0 +1,11 @@
+{
+  "name": "ci-ci-cd-building",
+  "display_name": "CI CI/CD Building",
+  "description": "Configure GitLab CI/CD pipelines and runners for automated building, testing, and deployment.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/gitlab-ci/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/gitlab-ci/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 6122,
+  "truncated": false
+}

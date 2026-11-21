@@ -1,0 +1,11 @@
+{
+  "name": "co-marketing-user",
+  "display_name": "Co Marketing · User",
+  "description": "When the user wants to find co-marketing partners, plan joint campaigns, or brainstorm partnership opportunities.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/co-marketing/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/co-marketing/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 10342,
+  "truncated": false
+}

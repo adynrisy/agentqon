@@ -1,0 +1,11 @@
+{
+  "name": "chord-onchain",
+  "display_name": "Chord Onchain",
+  "description": "Read DEX market data and prepare best-route swap quotes and unsigned swap transactions on eight EVM chains with the Chord API. Never signs or moves funds.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/chord-onchain-trading/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/chord-onchain-trading/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 5762,
+  "truncated": false
+}

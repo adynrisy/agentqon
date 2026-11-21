@@ -1,0 +1,11 @@
+{
+  "name": "competitor-price-analysis",
+  "display_name": "Competitor Price Analysis",
+  "description": "Competitor pricing strategy analysis and market positioning. Price mapping, pricing gaps identification, elasticity signals evaluation, and strategic pricing optimization. Use when the user asks about competitor pricing, price analysis, pricing strategy, or competitive pricing research.",
+  "repo": "nexscope-ai/eCommerce-Skills",
+  "path": "competitor-price-analysis/SKILL.md",
+  "url": "https://github.com/nexscope-ai/eCommerce-Skills/tree/HEAD/competitor-price-analysis/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 10104,
+  "truncated": false
+}

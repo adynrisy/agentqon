@@ -1,0 +1,11 @@
+{
+  "name": "cmux-macos-app",
+  "display_name": "Cmux macOS App",
+  "description": "Control the cmux macOS terminal app: workspaces, panes, surfaces, browsers, notifications, settings, and hooks. Use only when the user explicitly names cmux. Read before running any cmux command.",
+  "repo": "davidondrej/skills",
+  "path": "skills/agent-orchestration/cmux/SKILL.md",
+  "url": "https://github.com/davidondrej/skills/tree/HEAD/skills/agent-orchestration/cmux/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 4654,
+  "truncated": false
+}

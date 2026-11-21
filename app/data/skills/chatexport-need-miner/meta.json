@@ -1,0 +1,11 @@
+{
+  "name": "chatexport-need-miner",
+  "display_name": "Chatexport Need Miner",
+  "description": "Mines offline Telegram Desktop chat exports (result.json) for unmet market needs and product opportunities using chunked streaming and verbatim quote grounding. Trigger phrases: mine chat export, telegram result.json, find unmet needs, analyze telegram chat.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/chatexport-need-miner/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/chatexport-need-miner/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 13541,
+  "truncated": false
+}

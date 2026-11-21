@@ -1,0 +1,11 @@
+{
+  "name": "changelog-automation-documentation-generation",
+  "display_name": "Changelog Automation · Documentation Generation",
+  "description": "Automate changelog generation from commits, PRs, and releases following Keep a Changelog format. Use when setting up release workflows, generating release notes, or standardizing commit conventions.",
+  "repo": "wshobson/agents",
+  "path": "plugins/documentation-generation/skills/changelog-automation/SKILL.md",
+  "url": "https://github.com/wshobson/agents/tree/HEAD/plugins/documentation-generation/skills/changelog-automation/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 3100,
+  "truncated": false
+}

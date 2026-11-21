@@ -1,0 +1,11 @@
+{
+  "name": "competitor-profiling-user",
+  "display_name": "Competitor Profiling · User",
+  "description": "When the user wants to research, profile, or analyze competitors from their URLs.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/competitor-profiling/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/competitor-profiling/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 14243,
+  "truncated": false
+}

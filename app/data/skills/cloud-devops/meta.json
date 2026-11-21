@@ -1,0 +1,11 @@
+{
+  "name": "cloud-devops",
+  "display_name": "Cloud DevOps",
+  "description": "Cloud infrastructure and DevOps workflow covering AWS, Azure, GCP, Kubernetes, Terraform, CI/CD, monitoring, and cloud-native development.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/cloud-devops/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/cloud-devops/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 5512,
+  "truncated": false
+}

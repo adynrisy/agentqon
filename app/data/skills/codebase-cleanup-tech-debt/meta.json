@@ -1,0 +1,11 @@
+{
+  "name": "codebase-cleanup-tech-debt",
+  "display_name": "Codebase Cleanup Tech Debt",
+  "description": "Identify technical debt from actual code and change history, estimate its impact, and prioritize bounded improvements with explicit assumptions.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/codebase-cleanup-tech-debt/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/codebase-cleanup-tech-debt/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 11306,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "compose-outreach",
+  "display_name": "Compose Outreach",
+  "description": "Generate personalized outreach messages using Common Room signals. Triggers on 'draft outreach to [person]', 'write an email to [name]', 'compose a message for [contact]', or any outreach drafting request.",
+  "repo": "anthropics/knowledge-work-plugins",
+  "path": "partner-built/common-room/skills/compose-outreach/SKILL.md",
+  "url": "https://github.com/anthropics/knowledge-work-plugins/tree/HEAD/partner-built/common-room/skills/compose-outreach/SKILL.md",
+  "license": "Apache-2.0",
+  "body_bytes": 5248,
+  "truncated": false
+}

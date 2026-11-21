@@ -1,0 +1,11 @@
+{
+  "name": "commitments-triage-open",
+  "display_name": "Commitments Triage Open",
+  "description": "Triage acc's open promises and close them with honest real-world verdicts via acc_act(runtime=\"outcome\").",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/accint-commitments/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/accint-commitments/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 1285,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "ci-cd-pipeline-builder",
+  "display_name": "CI CD Pipeline Builder",
+  "description": "Generate pragmatic CI/CD pipelines from detected project stack signals — fast baseline generation, repeatable checks, environment-aware deployment stages. Use when setting up CI for a new project, refactoring existing pipelines, or standardizing deployment workflows across multiple repos.",
+  "repo": "alirezarezvani/claude-skills",
+  "path": ".gemini/skills/ci-cd-pipeline-builder/SKILL.md",
+  "url": "https://github.com/alirezarezvani/claude-skills/tree/HEAD/.gemini/skills/ci-cd-pipeline-builder/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 2881,
+  "truncated": false
+}

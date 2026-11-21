@@ -1,0 +1,11 @@
+{
+  "name": "code-guide",
+  "display_name": "Code Guide",
+  "description": "To provide a comprehensive reference for configuring and using Claude Code (the agentic coding tool) to its full potential. This skill synthesizes best practices, configuration templates, and advanced usage patterns.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/claude-code-guide/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/claude-code-guide/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 3052,
+  "truncated": false
+}

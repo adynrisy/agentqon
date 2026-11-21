@@ -1,0 +1,11 @@
+{
+  "name": "close-month",
+  "display_name": "Close Month",
+  "description": "Closes the books and turns them into a decision as a three-link chain — month-end-prep reconciles the ledger against every connected payment processor and writes the P&L narrative, cash-flow-snapshot then refreshes the 30/60/90-day forecast off the newly closed numbers rather than raw ones, and report-builder publishes and distributes the close packet. Requires a ledger (MYOB, NetSuite, QuickBooks, Xero, or Zoho Books) and uses Gusto, PayPal, Ramp, Shopify, Square, and Stripe when connected, falling back to statement or CSV uploads. Trigger on \"close the month,\" \"month-end,\" \"close the books,\" \"reconcile,\" \"send the close packet to my accountant,\" or when the owner asks why revenue or margin moved last month. An owner who wants only the reconciliation and its flags, with no forecast refresh and no packet distribution, routes to month-end-prep directly.",
+  "repo": "anthropics/knowledge-work-plugins",
+  "path": "small-business/skills/close-month/SKILL.md",
+  "url": "https://github.com/anthropics/knowledge-work-plugins/tree/HEAD/small-business/skills/close-month/SKILL.md",
+  "license": "Apache-2.0",
+  "body_bytes": 5938,
+  "truncated": false
+}

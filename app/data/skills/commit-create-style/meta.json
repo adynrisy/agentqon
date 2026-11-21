@@ -1,0 +1,11 @@
+{
+  "name": "commit-create-style",
+  "display_name": "Commit Create Style",
+  "description": "Prepare or create commits using Sentry-style message conventions when the repository requests them; inspect staged scope and honor its protected branch workflow.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/commit/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/commit/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 4764,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "clean-code-guard",
+  "display_name": "Clean Code Guard",
+  "description": "Review generated or changed production code with Clean Code, SOLID, DRY, KISS, YAGNI, and LLM-specific failure-mode checks.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/clean-code-guard/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/clean-code-guard/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 16729,
+  "truncated": false
+}

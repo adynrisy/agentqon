@@ -1,0 +1,11 @@
+{
+  "name": "clerk-auth",
+  "display_name": "Clerk Auth",
+  "description": "Expert patterns for Clerk auth implementation, middleware, organizations, webhooks, and user sync",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/clerk-auth/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/clerk-auth/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 1201,
+  "truncated": false
+}

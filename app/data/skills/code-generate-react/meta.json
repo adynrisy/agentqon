@@ -1,0 +1,11 @@
+{
+  "name": "code-generate-react",
+  "display_name": "Code Generate React",
+  "description": "Generate React code with Rayden UI components using correct props, tokens, and premium layout patterns",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/rayden-code/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/rayden-code/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 4654,
+  "truncated": false
+}

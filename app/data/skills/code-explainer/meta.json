@@ -1,0 +1,11 @@
+{
+  "name": "code-explainer",
+  "display_name": "Code Explainer",
+  "description": "Explains how a codebase works, local or from any git URL, as one illustrated page: purpose, stack, structure, entry points, main flow, where to start reading, every claim cited. Use when asked to explain a repo.",
+  "repo": "khasky/awesome-agent-skills",
+  "path": "skills/awesome-code-explainer/SKILL.md",
+  "url": "https://github.com/khasky/awesome-agent-skills/tree/HEAD/skills/awesome-code-explainer/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 12679,
+  "truncated": false
+}

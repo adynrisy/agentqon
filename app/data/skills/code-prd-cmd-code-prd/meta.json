@@ -1,0 +1,11 @@
+{
+  "name": "code-prd-cmd-code-prd",
+  "display_name": "Code Prd · Cmd Code Prd",
+  "description": "Reverse-engineer a frontend codebase into a PRD. Usage: /code-to-prd [path]",
+  "repo": "alirezarezvani/claude-skills",
+  "path": ".gemini/skills/cmd-code-to-prd/SKILL.md",
+  "url": "https://github.com/alirezarezvani/claude-skills/tree/HEAD/.gemini/skills/cmd-code-to-prd/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 2504,
+  "truncated": false
+}

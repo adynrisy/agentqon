@@ -1,0 +1,11 @@
+{
+  "name": "closed-loop-delivery",
+  "display_name": "Closed Loop Delivery",
+  "description": "Use when a coding task must be completed against explicit acceptance criteria with minimal user re-intervention across implementation, review feedback, deployment, and runtime verification.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/closed-loop-delivery/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/closed-loop-delivery/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 4762,
+  "truncated": false
+}

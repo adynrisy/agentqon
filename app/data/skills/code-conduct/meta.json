@@ -1,0 +1,11 @@
+{
+  "name": "code-conduct",
+  "display_name": "Code Conduct",
+  "description": "Build a human-reviewed conduct register after context-first intake. Use when an SME needs policy acknowledgements, complaint handling, and breach follow-up.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/code-of-conduct/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/code-of-conduct/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 26444,
+  "truncated": false
+}

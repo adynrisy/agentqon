@@ -1,0 +1,11 @@
+{
+  "name": "code-refactoring-tech-debt",
+  "display_name": "Code Refactoring Tech Debt",
+  "description": "Identify technical debt from actual code and change history, estimate its impact, and prioritize bounded improvements with explicit assumptions.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/code-refactoring-tech-debt/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/code-refactoring-tech-debt/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 11230,
+  "truncated": false
+}

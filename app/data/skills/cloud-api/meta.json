@@ -1,0 +1,11 @@
+{
+  "name": "cloud-api",
+  "display_name": "Cloud API",
+  "description": "Integracao com WhatsApp Business Cloud API (Meta). Mensagens, templates, webhooks HMAC-SHA256, automacao de atendimento. Boilerplates Node.js e Python.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/whatsapp-cloud-api/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/whatsapp-cloud-api/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 17791,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "code-maturity-assessor",
+  "display_name": "Code Maturity Assessor",
+  "description": "Systematic code maturity assessment using Trail of Bits' 9-category framework. Analyzes codebase for arithmetic safety, auditing practices, access controls, complexity, decentralization, documentation, MEV risks, low-level code, and testing, then produces a scorecard with evidence-based ratings and a priority-ordered roadmap. Use when assessing or scoring the maturity of a smart contract or blockchain codebase, producing a maturity scorecard or evaluation, or judging how mature, well-tested, or well-documented such a project is against a rubric.",
+  "repo": "trailofbits/skills",
+  "path": "plugins/building-secure-contracts/skills/code-maturity-assessor/SKILL.md",
+  "url": "https://github.com/trailofbits/skills/tree/HEAD/plugins/building-secure-contracts/skills/code-maturity-assessor/SKILL.md",
+  "license": "CC",
+  "body_bytes": 6694,
+  "truncated": false
+}

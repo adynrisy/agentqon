@@ -1,0 +1,11 @@
+{
+  "name": "compliance-check",
+  "display_name": "Compliance Check",
+  "description": "Run a compliance check on a proposed action, product feature, or business initiative, surfacing applicable regulations, required approvals, and risk areas. Use when launching a feature that touches personal data, when marketing or product proposes something with regulatory implications, or when you need to know which approvals and jurisdictional requirements apply before proceeding.",
+  "repo": "anthropics/knowledge-work-plugins",
+  "path": "legal/skills/compliance-check/SKILL.md",
+  "url": "https://github.com/anthropics/knowledge-work-plugins/tree/HEAD/legal/skills/compliance-check/SKILL.md",
+  "license": "Apache-2.0",
+  "body_bytes": 14214,
+  "truncated": false
+}

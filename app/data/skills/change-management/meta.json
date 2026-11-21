@@ -1,0 +1,11 @@
+{
+  "name": "change-management",
+  "display_name": "Change Management",
+  "description": "Implement change management processes. Configure CAB reviews, change windows, and rollback procedures. Use when managing production changes.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/change-management/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/change-management/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 13343,
+  "truncated": false
+}

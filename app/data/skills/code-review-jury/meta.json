@@ -1,0 +1,11 @@
+{
+  "name": "code-review-jury",
+  "display_name": "Code Review Jury",
+  "description": "Multi-model panel review of a code change: blind reviewers, then one cross-examined verdict. Use when asked for a second opinion, a multi-model or panel review, or a high-stakes review.",
+  "repo": "khasky/awesome-agent-skills",
+  "path": "skills/awesome-code-review-jury/SKILL.md",
+  "url": "https://github.com/khasky/awesome-agent-skills/tree/HEAD/skills/awesome-code-review-jury/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 16621,
+  "truncated": false
+}

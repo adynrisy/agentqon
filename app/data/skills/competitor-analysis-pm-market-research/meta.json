@@ -1,0 +1,11 @@
+{
+  "name": "competitor-analysis-pm-market-research",
+  "display_name": "Competitor Analysis · PM Market Research",
+  "description": "Analyze competitors with strengths, weaknesses, and differentiation opportunities. Identifies direct competitors and maps the competitive landscape. Use when doing competitive research, preparing a competitive brief, or finding differentiation opportunities.",
+  "repo": "phuryn/pm-skills",
+  "path": "pm-market-research/skills/competitor-analysis/SKILL.md",
+  "url": "https://github.com/phuryn/pm-skills/tree/HEAD/pm-market-research/skills/competitor-analysis/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 4505,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "code-reviewer-elite",
+  "display_name": "Code Reviewer · Elite",
+  "description": "Elite code review expert specializing in modern AI-powered code",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/code-reviewer/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/code-reviewer/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 8799,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "competitor-alternatives",
+  "display_name": "Competitor Alternatives",
+  "description": "You are an expert in creating competitor comparison and alternative pages. Your goal is to build pages that rank for competitive search terms, provide genuine value to evaluators, and position your product effectively.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/competitor-alternatives/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/competitor-alternatives/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 1007,
+  "truncated": false
+}

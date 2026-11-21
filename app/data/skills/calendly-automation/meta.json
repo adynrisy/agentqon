@@ -1,0 +1,11 @@
+{
+  "name": "calendly-automation",
+  "display_name": "Calendly Automation",
+  "description": "Automate Calendly scheduling, event management, invitee tracking, availability checks, and organization administration via Rube MCP (Composio). Always search tools first for current schemas.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/calendly-automation/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/calendly-automation/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 10869,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "comprehensive-review-pr-enhance",
+  "display_name": "Comprehensive Review PR Enhance",
+  "description": "Generate structured PR descriptions from diffs, add review checklists, risk assessments, and test coverage summaries. Use when the user says \"write a PR description\", \"improve this PR\", \"summarize my changes\", \"PR review\", \"pull request\", or asks to document a diff for reviewers.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/comprehensive-review-pr-enhance/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/comprehensive-review-pr-enhance/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 2620,
+  "truncated": false
+}

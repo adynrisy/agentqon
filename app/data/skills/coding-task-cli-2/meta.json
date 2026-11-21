@@ -1,0 +1,11 @@
+{
+  "name": "coding-task-cli-2",
+  "display_name": "Coding Task CLI (2)",
+  "description": "Delegate a coding task to the Cursor Agent CLI (`cursor-agent`) as a background implementer, then review its diff and land it yourself. Use this whenever the user wants to hand implementation work to Cursor — phrasings like \"have Cursor implement X\", \"delegate this to Cursor\", \"run it through Cursor Agent\", or \"use Cursor to implement/fix/refactor\" — or wants to run a queue of coding tasks through Cursor while staying the reviewer. DO NOT USE for tasks small enough to do inline, or when the user wants the code written directly without delegating.",
+  "repo": "amElnagdy/delegate-skills",
+  "path": "skills/cursor-delegate/SKILL.md",
+  "url": "https://github.com/amElnagdy/delegate-skills/tree/HEAD/skills/cursor-delegate/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 8530,
+  "truncated": false
+}

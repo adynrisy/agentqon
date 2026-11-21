@@ -1,0 +1,11 @@
+{
+  "name": "cli-access-search",
+  "display_name": "CLI Access Search",
+  "description": "Command-line access to search, scraping, and structured web data.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/hasdata-cli/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/hasdata-cli/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 12519,
+  "truncated": false
+}

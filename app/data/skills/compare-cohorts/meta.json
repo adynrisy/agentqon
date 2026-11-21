@@ -1,0 +1,11 @@
+{
+  "name": "compare-cohorts",
+  "display_name": "Compare Cohorts",
+  "description": "Use when comparing process cohorts, departments, periods or before-and-after results under matched definitions.",
+  "repo": "microsoft/power-platform-skills",
+  "path": "plugins/process-intelligence/skills/compare-cohorts/SKILL.md",
+  "url": "https://github.com/microsoft/power-platform-skills/tree/HEAD/plugins/process-intelligence/skills/compare-cohorts/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 3495,
+  "truncated": false
+}

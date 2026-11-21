@@ -1,0 +1,11 @@
+{
+  "name": "business-email-template",
+  "display_name": "Business Email Template",
+  "description": "Business email template register: trigger, sender and recipient type, subject pattern, body structure, personalisation tokens and send checks. Use for repeatable outbound email.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/business-email-template/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/business-email-template/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 24299,
+  "truncated": false
+}

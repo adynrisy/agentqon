@@ -1,0 +1,11 @@
+{
+  "name": "cmux-macos-workflows",
+  "display_name": "Cmux macOS Workflows",
+  "description": "Control cmux workspaces, panes, surfaces, and agent sessions safely from macOS terminal workflows.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/cmux/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/cmux/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 14634,
+  "truncated": false
+}

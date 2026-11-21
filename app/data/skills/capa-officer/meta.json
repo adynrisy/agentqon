@@ -1,0 +1,11 @@
+{
+  "name": "capa-officer",
+  "display_name": "Capa Officer",
+  "description": "CAPA system management for medical device QMS. Covers root cause analysis, corrective action planning, effectiveness verification, and CAPA metrics. Use when running CAPA investigations, 5-Why analysis, fishbone diagrams, root cause determination, corrective action tracking, effectiveness verification, or CAPA program optimization.",
+  "repo": "alirezarezvani/claude-skills",
+  "path": ".gemini/skills/capa-officer/SKILL.md",
+  "url": "https://github.com/alirezarezvani/claude-skills/tree/HEAD/.gemini/skills/capa-officer/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 15426,
+  "truncated": false
+}

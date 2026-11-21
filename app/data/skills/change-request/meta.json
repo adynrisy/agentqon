@@ -1,0 +1,11 @@
+{
+  "name": "change-request",
+  "display_name": "Change Request",
+  "description": "Create a change management request with impact analysis and rollback plan. Use when proposing a system or process change that needs approval, preparing a change record for CAB review, documenting risk and rollback steps before a deployment, or planning stakeholder communications for a rollout.",
+  "repo": "anthropics/knowledge-work-plugins",
+  "path": "operations/skills/change-request/SKILL.md",
+  "url": "https://github.com/anthropics/knowledge-work-plugins/tree/HEAD/operations/skills/change-request/SKILL.md",
+  "license": "Apache-2.0",
+  "body_bytes": 3388,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "code-review-sensei",
+  "display_name": "Code Review Sensei",
+  "description": "Expert code reviewer that catches bugs, security issues, performance problems, and design flaws with actionable fix suggestions.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/code-review-sensei/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/code-review-sensei/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 4735,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "composition-patterns",
+  "display_name": "Composition Patterns",
+  "description": "Use when working with composition-patterns tasks or workflows",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/composition-patterns/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/composition-patterns/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 2766,
+  "truncated": false
+}

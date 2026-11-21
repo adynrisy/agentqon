@@ -1,0 +1,11 @@
+{
+  "name": "business-investment-advisor",
+  "display_name": "Business Investment Advisor",
+  "description": "Business investment analysis and capital allocation advisor. Use when evaluating whether to invest in equipment, real estate, a new business, hiring, technology, or any capital expenditure. Also use for ROI calculations, IRR, NPV, payback period, build vs buy decisions, lease vs buy analysis, vendor evaluation, or deciding where to allocate limited budget for maximum return.",
+  "repo": "alirezarezvani/claude-skills",
+  "path": ".gemini/skills/business-investment-advisor/SKILL.md",
+  "url": "https://github.com/alirezarezvani/claude-skills/tree/HEAD/.gemini/skills/business-investment-advisor/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 9572,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "code-audit",
+  "display_name": "Code Audit",
+  "description": "Authorized source-code security review and SAST workflows: Semgrep and CodeQL pattern hunting, dangerous API identification, and fix verification.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/code-audit/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/code-audit/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 2072,
+  "truncated": false
+}

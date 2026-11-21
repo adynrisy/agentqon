@@ -1,0 +1,11 @@
+{
+  "name": "c4-architecture",
+  "display_name": "C4 Architecture",
+  "description": "Generate comprehensive C4 architecture documentation for an existing repository/codebase using a bottom-up analysis approach.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/c4-architecture-c4-architecture/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/c4-architecture-c4-architecture/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 16580,
+  "truncated": false
+}

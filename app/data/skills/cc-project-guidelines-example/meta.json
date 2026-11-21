@@ -1,0 +1,11 @@
+{
+  "name": "cc-project-guidelines-example",
+  "display_name": "Cc Project Guidelines Example",
+  "description": "Project Guidelines Skill (Example)",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/cc-skill-project-guidelines-example/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/cc-skill-project-guidelines-example/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 9984,
+  "truncated": false
+}

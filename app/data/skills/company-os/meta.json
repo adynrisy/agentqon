@@ -1,0 +1,11 @@
+{
+  "name": "company-os",
+  "display_name": "Company OS",
+  "description": "The meta-framework for how a company runs — the connective tissue between all C-suite roles. Covers operating system selection (EOS, Scaling Up, OKR-native, hybrid), accountability charts, scorecards, meeting pulse, issue resolution, and 90-day rocks. Use when setting up company operations, selecting a management framework, designing meeting rhythms, building accountability systems, implementing OKRs, or when user mentions EOS, Scaling Up, operating system, L10 meetings, rocks, scorecard, accountability chart, or quarterly planning.",
+  "repo": "alirezarezvani/claude-skills",
+  "path": ".gemini/skills/company-os/SKILL.md",
+  "url": "https://github.com/alirezarezvani/claude-skills/tree/HEAD/.gemini/skills/company-os/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 10027,
+  "truncated": false
+}

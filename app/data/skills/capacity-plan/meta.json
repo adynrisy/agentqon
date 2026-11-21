@@ -1,0 +1,11 @@
+{
+  "name": "capacity-plan",
+  "display_name": "Capacity Plan",
+  "description": "Plan resource capacity — workload analysis and utilization forecasting. Use when heading into quarterly planning, the team feels overallocated and you need the numbers, deciding whether to hire or deprioritize, or stress-testing whether upcoming projects fit the people you have.",
+  "repo": "anthropics/knowledge-work-plugins",
+  "path": "operations/skills/capacity-plan/SKILL.md",
+  "url": "https://github.com/anthropics/knowledge-work-plugins/tree/HEAD/operations/skills/capacity-plan/SKILL.md",
+  "license": "Apache-2.0",
+  "body_bytes": 3122,
+  "truncated": false
+}

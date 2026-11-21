@@ -1,0 +1,11 @@
+{
+  "name": "ckw-design",
+  "display_name": "Ckw Design",
+  "description": "Frontend design entry point: direction, design system, visual philosophy. Use whenever building or touching the look of any web UI (components, pages, dashboards, React/Vue/HTML-CSS) or when the user says \"make this look better\", \"fix the spacing/layout\", or mentions styling, color, type, or polish.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/ckw-design/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/ckw-design/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 8753,
+  "truncated": false
+}

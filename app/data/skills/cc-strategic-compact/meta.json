@@ -1,0 +1,11 @@
+{
+  "name": "cc-strategic-compact",
+  "display_name": "Cc Strategic Compact",
+  "description": "Prepare a verified checkpoint before condensing an agent conversation at a phase boundary. Use during long tasks when context is repetitive; preserves constraints, evidence, decisions and the next action.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/cc-skill-strategic-compact/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/cc-skill-strategic-compact/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 4158,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "buywhere-product-catalog",
+  "display_name": "Buywhere Product Catalog",
+  "description": "Use BuyWhere's MCP and API surfaces to add product search, price comparison, and deal discovery to AI shopping agents.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/buywhere-product-catalog/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/buywhere-product-catalog/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 4396,
+  "truncated": false
+}

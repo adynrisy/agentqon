@@ -1,0 +1,11 @@
+{
+  "name": "complexity-cuts",
+  "display_name": "Complexity Cuts",
+  "description": "Lower Big-O on existing code via a one-transformation-at-a-time playbook with verify-revert-stop. For new code use lemmaly; for math-level wins escalate to mathguard.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/complexity-cuts/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/complexity-cuts/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 14668,
+  "truncated": false
+}

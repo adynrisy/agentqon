@@ -1,0 +1,11 @@
+{
+  "name": "coding-task-cli-code",
+  "display_name": "Coding Task CLI · Code",
+  "description": "Delegate a coding task to the Kimi Code CLI (`kimi`) as a background implementer, then review its diff and land it yourself. Use this whenever the user wants to hand implementation work to Kimi - phrasings like \"have Kimi implement X\", \"delegate this to Kimi\", \"run it through Kimi Code\", or \"use Kimi to implement/fix/refactor\" - or wants to run a queue of coding tasks through Kimi while staying the reviewer. DO NOT USE for tasks small enough to do inline, or when the user wants the code written directly without delegating.",
+  "repo": "amElnagdy/delegate-skills",
+  "path": "skills/kimi-delegate/SKILL.md",
+  "url": "https://github.com/amElnagdy/delegate-skills/tree/HEAD/skills/kimi-delegate/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 6357,
+  "truncated": false
+}

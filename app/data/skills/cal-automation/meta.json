@@ -1,0 +1,11 @@
+{
+  "name": "cal-automation",
+  "display_name": "Cal Automation",
+  "description": "Automate Cal.com tasks via Rube MCP (Composio): manage bookings, check availability, configure webhooks, and handle teams. Always search tools first for current schemas.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/cal-com-automation/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/cal-com-automation/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 7591,
+  "truncated": false
+}

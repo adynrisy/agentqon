@@ -1,0 +1,11 @@
+{
+  "name": "c4-container",
+  "display_name": "C4 Container",
+  "description": "Expert C4 Container-level documentation specialist.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/c4-container/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/c4-container/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 5399,
+  "truncated": false
+}

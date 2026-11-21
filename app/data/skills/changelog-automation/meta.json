@@ -1,0 +1,11 @@
+{
+  "name": "changelog-automation",
+  "display_name": "Changelog Automation",
+  "description": "Automate changelog generation from commits, PRs, and releases following Keep a Changelog format. Use when setting up release workflows, generating release notes, or standardizing commit conventions.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/changelog-automation/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/changelog-automation/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 1345,
+  "truncated": false
+}

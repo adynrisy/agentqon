@@ -1,0 +1,11 @@
+{
+  "name": "computer-vision-expert",
+  "display_name": "Computer Vision Expert",
+  "description": "Computer vision pipeline design and evaluation. Specialized in YOLO26, Segment Anything 3 (SAM 3), Vision Language Models, and real-time spatial analysis.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/computer-vision-expert/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/computer-vision-expert/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 5092,
+  "truncated": false
+}

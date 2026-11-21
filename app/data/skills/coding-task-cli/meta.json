@@ -1,0 +1,11 @@
+{
+  "name": "coding-task-cli",
+  "display_name": "Coding Task CLI",
+  "description": "Delegate a coding task to a separate Claude Code CLI process or another Claude session as an implementer, then review its diff and land it yourself. Use only when the user explicitly asks to delegate implementation to Claude Code, another Claude session, or the `claude` CLI — for example, \"have another Claude implement this\", \"delegate this to Claude Code\", or \"run this queue through a separate Claude session.\" Do not trigger merely because the current orchestrator is Claude, and do not use when the user asks the current Claude to implement directly without delegation.",
+  "repo": "amElnagdy/delegate-skills",
+  "path": "skills/claude-delegate/SKILL.md",
+  "url": "https://github.com/amElnagdy/delegate-skills/tree/HEAD/skills/claude-delegate/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 9386,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "competitor-analysis",
+  "display_name": "Competitor Analysis",
+  "description": "Research competitors with Browserbase discovery, enrichment lanes, screenshots, matrices, and HTML reports.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/competitor-analysis/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/competitor-analysis/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 31228,
+  "truncated": false
+}
