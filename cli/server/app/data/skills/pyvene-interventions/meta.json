@@ -1,0 +1,11 @@
+{
+  "name": "pyvene-interventions",
+  "display_name": "Pyvene Interventions",
+  "description": "Provides guidance for performing causal interventions on PyTorch models using pyvene's declarative intervention framework. Use when conducting causal tracing, activation patching, interchange intervention training, or testing causal hypotheses about model behavior.",
+  "repo": "Orchestra-Research/AI-Research-SKILLs",
+  "path": "04-mechanistic-interpretability/pyvene/SKILL.md",
+  "url": "https://github.com/Orchestra-Research/AI-Research-SKILLs/tree/HEAD/04-mechanistic-interpretability/pyvene/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 13617,
+  "truncated": false
+}

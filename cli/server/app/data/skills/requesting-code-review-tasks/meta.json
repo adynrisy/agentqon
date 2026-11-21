@@ -1,0 +1,11 @@
+{
+  "name": "requesting-code-review-tasks",
+  "display_name": "Requesting Code Review · Tasks",
+  "description": "Use when completing tasks, implementing major features, or before merging to verify work meets requirements",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/requesting-code-review/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/requesting-code-review/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 2963,
+  "truncated": false
+}

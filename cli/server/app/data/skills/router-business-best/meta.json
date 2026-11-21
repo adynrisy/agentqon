@@ -1,0 +1,11 @@
+{
+  "name": "router-business-best",
+  "display_name": "Router Business Best",
+  "description": "The front door to the Small Business plugin. Listens to what the owner needs right now — vague or specific — and routes them to the best skill or slash command for the moment. Also serves as a guide: explains what's available, suggests what to try next, and adapts recommendations based on stored business context. Trigger whenever the owner asks \"what can you do,\" \"help me with my business,\" \"what should I focus on,\" \"I don't know where to start,\" or any open-ended business request that doesn't clearly match a single skill.",
+  "repo": "anthropics/knowledge-work-plugins",
+  "path": "small-business/skills/smb-router/SKILL.md",
+  "url": "https://github.com/anthropics/knowledge-work-plugins/tree/HEAD/small-business/skills/smb-router/SKILL.md",
+  "license": "Apache-2.0",
+  "body_bytes": 14369,
+  "truncated": false
+}

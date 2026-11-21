@@ -1,0 +1,11 @@
+{
+  "name": "relic-observability-platform",
+  "display_name": "Relic Observability Platform",
+  "description": "Configure New Relic observability platform for infrastructure and application monitoring.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/new-relic/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/new-relic/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 10128,
+  "truncated": false
+}

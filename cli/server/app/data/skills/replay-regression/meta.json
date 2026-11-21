@@ -1,0 +1,11 @@
+{
+  "name": "replay-regression",
+  "display_name": "Replay Regression",
+  "description": "Use when independently verifying a supplied PoC against fresh live before/after deployments.",
+  "repo": "trailofbits/skills",
+  "path": "plugins/regression-hunt/skills/replay-regression/SKILL.md",
+  "url": "https://github.com/trailofbits/skills/tree/HEAD/plugins/regression-hunt/skills/replay-regression/SKILL.md",
+  "license": "CC",
+  "body_bytes": 1864,
+  "truncated": false
+}

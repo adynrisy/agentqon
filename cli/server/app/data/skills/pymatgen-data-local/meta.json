@@ -1,0 +1,11 @@
+{
+  "name": "pymatgen-data-local",
+  "display_name": "Pymatgen Data Local",
+  "description": "Analyzes, validates, converts, and transforms materials structures and computed materials data with pymatgen. Use for local phase diagrams, symmetry sensitivity, electronic-structure I/O, and bounded Materials Project queries.",
+  "repo": "K-Dense-AI/scientific-agent-skills",
+  "path": "skills/pymatgen/SKILL.md",
+  "url": "https://github.com/K-Dense-AI/scientific-agent-skills/tree/HEAD/skills/pymatgen/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 17511,
+  "truncated": false
+}

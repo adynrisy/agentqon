@@ -1,0 +1,11 @@
+{
+  "name": "report-markdown-cover",
+  "display_name": "Report Markdown Cover",
+  "description": "Summarize deep research results into markdown report, cover all fields, skip uncertain values.",
+  "repo": "Weizhena/Deep-Research-skills",
+  "path": "skills/research-codex-en/research-report/SKILL.md",
+  "url": "https://github.com/Weizhena/Deep-Research-skills/tree/HEAD/skills/research-codex-en/research-report/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 3637,
+  "truncated": false
+}

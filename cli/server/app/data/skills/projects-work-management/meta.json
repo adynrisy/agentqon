@@ -1,0 +1,11 @@
+{
+  "name": "projects-work-management",
+  "display_name": "Projects Work Management",
+  "description": "Project register: owner, team, priority, progress percentage, milestones, deliverables and budget against actual cost. Use for project tracking.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/projects-work-management/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/projects-work-management/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 15988,
+  "truncated": false
+}

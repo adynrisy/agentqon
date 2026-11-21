@@ -1,0 +1,11 @@
+{
+  "name": "report-issue-process-intelligence",
+  "display_name": "Report Issue · Process Intelligence",
+  "description": "Use when the user wants a Process Intelligence bug-report draft or support summary for a failed operation.",
+  "repo": "microsoft/power-platform-skills",
+  "path": "plugins/process-intelligence/skills/report-issue/SKILL.md",
+  "url": "https://github.com/microsoft/power-platform-skills/tree/HEAD/plugins/process-intelligence/skills/report-issue/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 1541,
+  "truncated": false
+}

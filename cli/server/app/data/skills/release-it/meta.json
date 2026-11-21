@@ -1,0 +1,11 @@
+{
+  "name": "release-it",
+  "display_name": "Release It",
+  "description": "Build production-ready systems with stability patterns: circuit breakers, bulkheads, timeouts, and retry logic. Use when the user mentions \"production outage\", \"circuit breaker\", \"deployment pipeline\", \"chaos engineering\", \"retry storm\", \"health checks\", \"my service keeps crashing\", \"prevent cascading failures\", or \"make it resilient\". Also trigger when designing resilient microservices, planning zero-downtime deployments, or capacity-planning for peak load. Covers stability patterns, capacity planning, deploy/release decoupling, and observability. For data systems, see ddia-systems. For system architecture, see system-design.",
+  "repo": "wondelai/skills",
+  "path": "plugins/systems-architecture/skills/release-it/SKILL.md",
+  "url": "https://github.com/wondelai/skills/tree/HEAD/plugins/systems-architecture/skills/release-it/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 15365,
+  "truncated": false
+}

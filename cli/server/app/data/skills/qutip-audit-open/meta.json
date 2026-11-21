@@ -1,0 +1,11 @@
+{
+  "name": "qutip-audit-open",
+  "display_name": "Qutip Audit Open",
+  "description": "Simulate and audit closed and open quantum-system models with QuTiP 5, including deterministic, trajectory, steady-state, spectral, and phase-space workflows. Use for local quantum-dynamics work where physical assumptions, dimensions, and numerical convergence must be explicit.",
+  "repo": "K-Dense-AI/scientific-agent-skills",
+  "path": "skills/qutip/SKILL.md",
+  "url": "https://github.com/K-Dense-AI/scientific-agent-skills/tree/HEAD/skills/qutip/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 14104,
+  "truncated": false
+}

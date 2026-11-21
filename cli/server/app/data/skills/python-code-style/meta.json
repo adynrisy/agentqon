@@ -1,0 +1,11 @@
+{
+  "name": "python-code-style",
+  "display_name": "Python Code Style",
+  "description": "Python code style, linting, formatting, naming conventions, and documentation standards. Use when writing new code, reviewing style, configuring linters, writing docstrings, or establishing project standards.",
+  "repo": "wshobson/agents",
+  "path": "plugins/python-development/skills/python-code-style/SKILL.md",
+  "url": "https://github.com/wshobson/agents/tree/HEAD/plugins/python-development/skills/python-code-style/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 7715,
+  "truncated": false
+}

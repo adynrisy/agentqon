@@ -1,0 +1,11 @@
+{
+  "name": "quality-documentation-manager",
+  "display_name": "Quality Documentation Manager",
+  "description": "Document control system management for medical device QMS. Covers document numbering, version control, change management, and 21 CFR Part 11 compliance. Use when working on document control procedures, change control workflows, document numbering, version management, electronic signature compliance, or regulatory documentation review.",
+  "repo": "alirezarezvani/claude-skills",
+  "path": ".gemini/skills/quality-documentation-manager/SKILL.md",
+  "url": "https://github.com/alirezarezvani/claude-skills/tree/HEAD/.gemini/skills/quality-documentation-manager/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 14923,
+  "truncated": false
+}

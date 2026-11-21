@@ -1,0 +1,11 @@
+{
+  "name": "rag-observability-evals",
+  "display_name": "RAG Observability Evals",
+  "description": "Monitor and evaluate RAG systems with retrieval quality metrics, groundedness checks, hallucination detection, and continuous regression testing.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/rag-observability-evals/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/rag-observability-evals/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 11827,
+  "truncated": false
+}

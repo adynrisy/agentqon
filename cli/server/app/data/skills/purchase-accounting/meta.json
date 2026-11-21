@@ -1,0 +1,11 @@
+{
+  "name": "purchase-accounting",
+  "display_name": "Purchase Accounting",
+  "description": "Purchase register: supplier, invoice, gross amount, VAT and TDS, net payable, ledger account and payment balance. Use for purchase accounting.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/purchase-accounting/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/purchase-accounting/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 19915,
+  "truncated": false
+}

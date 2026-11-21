@@ -1,0 +1,11 @@
+{
+  "name": "rep-context",
+  "display_name": "Rep Context",
+  "description": "Leader's prep on a single rep before a 1:1 - their pipeline, recent activity, what they've been working on per chat and calendar, and where they might need help. Use when the user asks \"prep for my 1:1 with [rep]\" (a rep you manage), \"how is [rep] doing\", or \"what's [rep] working on\".",
+  "repo": "anthropics/knowledge-work-plugins",
+  "path": "sales/skills/rep-context/SKILL.md",
+  "url": "https://github.com/anthropics/knowledge-work-plugins/tree/HEAD/sales/skills/rep-context/SKILL.md",
+  "license": "Apache-2.0",
+  "body_bytes": 6540,
+  "truncated": false
+}

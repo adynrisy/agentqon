@@ -1,0 +1,11 @@
+{
+  "name": "pypict-test-generation",
+  "display_name": "Pypict Test Generation",
+  "description": "Pairwise test generation",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/pypict-skill/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/pypict-skill/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 1401,
+  "truncated": false
+}

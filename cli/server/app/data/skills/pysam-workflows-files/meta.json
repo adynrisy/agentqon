@@ -1,0 +1,11 @@
+{
+  "name": "pysam-workflows-files",
+  "display_name": "Pysam Workflows Files",
+  "description": "Provides Python/HTSlib workflows for genomic files. Used when reading, querying, filtering, or writing SAM/BAM/CRAM, VCF/BCF, FASTA/FASTQ, or tabix data with pysam, including pileup, coverage, indexing, and CRAM references.",
+  "repo": "K-Dense-AI/scientific-agent-skills",
+  "path": "skills/pysam/SKILL.md",
+  "url": "https://github.com/K-Dense-AI/scientific-agent-skills/tree/HEAD/skills/pysam/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 13027,
+  "truncated": false
+}

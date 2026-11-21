@@ -1,0 +1,11 @@
+{
+  "name": "resolving-merge-conflicts",
+  "display_name": "Resolving Merge Conflicts",
+  "description": "Use when you need to resolve an in-progress git merge/rebase conflict.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/resolving-merge-conflicts/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/resolving-merge-conflicts/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 1407,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "purge-ai-code",
+  "display_name": "Purge AI Code",
+  "description": "Removes installed agent skills from every AI agent on the machine (Claude Code, Codex, Gemini CLI, Cursor...) behind a keep list, an archive and a confirmation gate. Use when asked to uninstall installed skills.",
+  "repo": "khasky/awesome-agent-skills",
+  "path": "skills/awesome-skills-purge/SKILL.md",
+  "url": "https://github.com/khasky/awesome-agent-skills/tree/HEAD/skills/awesome-skills-purge/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 13335,
+  "truncated": false
+}

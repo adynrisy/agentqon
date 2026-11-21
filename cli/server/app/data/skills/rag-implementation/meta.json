@@ -1,0 +1,11 @@
+{
+  "name": "rag-implementation",
+  "display_name": "RAG Implementation",
+  "description": "RAG (Retrieval-Augmented Generation) implementation workflow covering embedding selection, vector database setup, chunking strategies, and retrieval optimization.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/rag-implementation/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/rag-implementation/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 4303,
+  "truncated": false
+}

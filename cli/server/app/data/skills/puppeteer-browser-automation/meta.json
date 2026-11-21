@@ -1,0 +1,11 @@
+{
+  "name": "puppeteer-browser-automation",
+  "display_name": "Puppeteer Browser Automation",
+  "description": "Generates Puppeteer scripts for browser automation, scraping, and PDF generation. Triggers on: \"Puppeteer\", \"headless Chrome\", \"page.goto\", \"scrape\", \"PDF generation\".",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/puppeteer-skill/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/puppeteer-skill/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 4456,
+  "truncated": false
+}

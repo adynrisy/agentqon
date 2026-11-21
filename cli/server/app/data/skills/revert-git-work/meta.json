@@ -1,0 +1,11 @@
+{
+  "name": "revert-git-work",
+  "display_name": "Revert Git Work",
+  "description": "Git-aware undo by logical work unit (track, phase, or task)",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/conductor-revert/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/conductor-revert/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 9334,
+  "truncated": false
+}

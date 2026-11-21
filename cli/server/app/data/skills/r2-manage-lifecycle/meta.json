@@ -1,0 +1,11 @@
+{
+  "name": "r2-manage-lifecycle",
+  "display_name": "R2 Manage Lifecycle",
+  "description": "Manage Cloudflare R2 buckets, lifecycle, and signed URLs. Use for low-egress object storage and media delivery.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/cloudflare-r2/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/cloudflare-r2/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 9482,
+  "truncated": false
+}

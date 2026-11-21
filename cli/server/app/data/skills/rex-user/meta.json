@@ -1,0 +1,11 @@
+{
+  "name": "rex-user",
+  "display_name": "Rex User",
+  "description": "Translates user intent into a precise, unambiguous specification and requirements.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/agent-squad/rex/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/agent-squad/rex/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 5187,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "pyopenms-data-workflows",
+  "display_name": "Pyopenms Data Workflows",
+  "description": "Processes mass spectrometry data with pyOpenMS. Supports proteomics and metabolomics workflows—feature detection, peptide/protein identification, label-free quantification, adduct/accurate-mass annotation, and complex LC-MS/MS pipelines. Supports extensive file formats and algorithms. For simple spectral comparison and small-molecule library matching use matchms.",
+  "repo": "K-Dense-AI/scientific-agent-skills",
+  "path": "skills/pyopenms/SKILL.md",
+  "url": "https://github.com/K-Dense-AI/scientific-agent-skills/tree/HEAD/skills/pyopenms/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 11629,
+  "truncated": false
+}

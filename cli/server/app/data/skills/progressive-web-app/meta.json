@@ -1,0 +1,11 @@
+{
+  "name": "progressive-web-app",
+  "display_name": "Progressive Web App",
+  "description": "Build Progressive Web Apps (PWAs) with offline support, installability, and caching strategies. Trigger whenever the user mentions PWA, service workers, web app manifests, Workbox, 'add to home screen', or wants their web app to work offline, feel native, or be installable.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/progressive-web-app/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/progressive-web-app/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 12461,
+  "truncated": false
+}

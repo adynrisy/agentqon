@@ -1,0 +1,11 @@
+{
+  "name": "python-performance-optimization",
+  "display_name": "Python Performance Optimization",
+  "description": "Profile and optimize Python code using cProfile, memory profilers, and performance best practices. Use when debugging slow Python code, optimizing bottlenecks, or improving application performance.",
+  "repo": "wshobson/agents",
+  "path": "plugins/python-development/skills/python-performance-optimization/SKILL.md",
+  "url": "https://github.com/wshobson/agents/tree/HEAD/plugins/python-development/skills/python-performance-optimization/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 2995,
+  "truncated": false
+}

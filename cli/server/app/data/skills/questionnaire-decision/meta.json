@@ -1,0 +1,11 @@
+{
+  "name": "questionnaire-decision",
+  "display_name": "Questionnaire Decision",
+  "description": "Turn a decision you can't fully answer into a questionnaire for someone else to fill in.",
+  "repo": "mattpocock/skills",
+  "path": "skills/productivity/to-questionnaire/SKILL.md",
+  "url": "https://github.com/mattpocock/skills/tree/HEAD/skills/productivity/to-questionnaire/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 2739,
+  "truncated": false
+}

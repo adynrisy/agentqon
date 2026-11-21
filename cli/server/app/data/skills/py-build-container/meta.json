@@ -1,0 +1,11 @@
+{
+  "name": "py-build-container",
+  "display_name": "Py Build Container",
+  "description": "Build container-based Foundry Agents with Azure AI Projects SDK (HostedAgentDefinition). Use when creating hosted agents with custom container images in Azure AI Foundry.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/agents-v2-py/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/agents-v2-py/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 11755,
+  "truncated": false
+}

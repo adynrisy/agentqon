@@ -1,0 +1,11 @@
+{
+  "name": "python-code-guidelines",
+  "display_name": "Python Code Guidelines",
+  "description": "Language-specific super-code guidelines for python.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/super-code/python/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/super-code/python/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 6361,
+  "truncated": false
+}

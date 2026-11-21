@@ -1,0 +1,11 @@
+{
+  "name": "retro-design",
+  "display_name": "Retro Design",
+  "description": "Web and App implementation guide for Retro Design (60s-80s). Trigger when user wants vintage aesthetics, warm muted colors, and nostalgic layouts.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/design-it/retro-design/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/design-it/retro-design/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 9706,
+  "truncated": false
+}

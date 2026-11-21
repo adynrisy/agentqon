@@ -1,0 +1,11 @@
+{
+  "name": "projection-patterns",
+  "display_name": "Projection Patterns",
+  "description": "Build read models and projections from event streams. Use when implementing CQRS read sides, building materialized views, or optimizing query performance in event-sourced systems.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/projection-patterns/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/projection-patterns/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 1142,
+  "truncated": false
+}

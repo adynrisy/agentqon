@@ -1,0 +1,11 @@
+{
+  "name": "professional-proofreader",
+  "display_name": "Professional Proofreader",
+  "description": "Use when a user asks to \"proofread\", \"review and correct\", \"fix grammar\", \"improve readability while keeping my voice\", and to proofread a document file and save an updated version.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/professional-proofreader/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/professional-proofreader/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 2915,
+  "truncated": false
+}

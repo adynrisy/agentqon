@@ -1,0 +1,11 @@
+{
+  "name": "prospect-build-account",
+  "display_name": "Prospect Build Account",
+  "description": "Build targeted account or contact lists using Common Room's Prospector. Triggers on 'find companies that match [criteria]', 'build a prospect list', 'find contacts at [type of company]', 'show me companies hiring [role]', or any list-building request.",
+  "repo": "anthropics/knowledge-work-plugins",
+  "path": "partner-built/common-room/skills/prospect/SKILL.md",
+  "url": "https://github.com/anthropics/knowledge-work-plugins/tree/HEAD/partner-built/common-room/skills/prospect/SKILL.md",
+  "license": "Apache-2.0",
+  "body_bytes": 5896,
+  "truncated": false
+}

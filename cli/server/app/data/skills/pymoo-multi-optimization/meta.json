@@ -1,0 +1,11 @@
+{
+  "name": "pymoo-multi-optimization",
+  "display_name": "Pymoo Multi Optimization",
+  "description": "Solves and validates single-, multi-, and many-objective optimization with pymoo, including NSGA-II, NSGA-III, MOEA/D, constraints, Pareto approximations, reference directions, and ZDT/DTLZ benchmarks for engineering and research problems.",
+  "repo": "K-Dense-AI/scientific-agent-skills",
+  "path": "skills/pymoo/SKILL.md",
+  "url": "https://github.com/K-Dense-AI/scientific-agent-skills/tree/HEAD/skills/pymoo/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 13457,
+  "truncated": false
+}

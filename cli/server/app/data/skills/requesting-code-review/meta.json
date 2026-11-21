@@ -1,0 +1,11 @@
+{
+  "name": "requesting-code-review",
+  "display_name": "Requesting Code Review",
+  "description": "Use when completing tasks, implementing major features, or before merging to verify work meets requirements",
+  "repo": "obra/superpowers",
+  "path": "skills/requesting-code-review/SKILL.md",
+  "url": "https://github.com/obra/superpowers/tree/HEAD/skills/requesting-code-review/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 2815,
+  "truncated": false
+}

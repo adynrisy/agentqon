@@ -1,0 +1,11 @@
+{
+  "name": "review-monitoring",
+  "display_name": "Review Monitoring",
+  "description": "Set up systematic review monitoring across e-commerce platforms. Track new reviews, detect negative review spikes, monitor competitor reviews, and automate review response workflows.",
+  "repo": "nexscope-ai/eCommerce-Skills",
+  "path": "review-monitoring/SKILL.md",
+  "url": "https://github.com/nexscope-ai/eCommerce-Skills/tree/HEAD/review-monitoring/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 2070,
+  "truncated": false
+}

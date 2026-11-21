@@ -1,0 +1,11 @@
+{
+  "name": "pytdc-data-workflows",
+  "display_name": "Pytdc Data Workflows",
+  "description": "Provides Therapeutics Data Commons workflows through PyTDC for registry discovery, dataset access, task-aware splits, evaluator metrics, benchmark groups, and bounded molecular-oracle scoring. Use when working with TDC therapeutic ML datasets or benchmarks.",
+  "repo": "K-Dense-AI/scientific-agent-skills",
+  "path": "skills/pytdc/SKILL.md",
+  "url": "https://github.com/K-Dense-AI/scientific-agent-skills/tree/HEAD/skills/pytdc/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 13969,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "risk-manager",
+  "display_name": "Risk Manager",
+  "description": "Monitor portfolio risk, R-multiples, and position limits. Creates hedging strategies, calculates expectancy, and implements stop-losses.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/risk-manager/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/risk-manager/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 1964,
+  "truncated": false
+}

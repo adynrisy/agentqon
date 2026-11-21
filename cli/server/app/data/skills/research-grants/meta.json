@@ -1,0 +1,11 @@
+{
+  "name": "research-grants",
+  "display_name": "Research Grants",
+  "description": "Supports research proposal preparation and review for NSF, NIH, DOE, DARPA, and Taiwan NSTC, including opportunity-specific requirements, aims, review criteria, budgets, broader impacts, forms, and resubmissions. Use for investigator-authored grant development, compliance matrices, and proposal critiques.",
+  "repo": "K-Dense-AI/scientific-agent-skills",
+  "path": "skills/research-grants/SKILL.md",
+  "url": "https://github.com/K-Dense-AI/scientific-agent-skills/tree/HEAD/skills/research-grants/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 16584,
+  "truncated": false
+}

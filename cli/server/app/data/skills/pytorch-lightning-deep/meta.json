@@ -1,0 +1,11 @@
+{
+  "name": "pytorch-lightning-deep",
+  "display_name": "Pytorch Lightning · Deep",
+  "description": "Deep learning framework (PyTorch Lightning / lightning package). Organize PyTorch code into LightningModules, configure Trainers for multi-GPU/TPU, implement data pipelines, callbacks, logging (W&B, TensorBoard, MLflow), distributed training (DDP, FSDP, DeepSpeed), for scalable neural network training.",
+  "repo": "K-Dense-AI/scientific-agent-skills",
+  "path": "skills/pytorch-lightning/SKILL.md",
+  "url": "https://github.com/K-Dense-AI/scientific-agent-skills/tree/HEAD/skills/pytorch-lightning/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 9494,
+  "truncated": false
+}

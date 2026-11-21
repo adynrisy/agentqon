@@ -1,0 +1,11 @@
+{
+  "name": "report-issue-model-apps",
+  "display_name": "Report Issue · Model Apps",
+  "description": "Use this skill when the user wants to \"report a bug\", \"file an issue\", \"report an issue\", \"submit a bug report\", or report any problem with the model-apps plugin to the GitHub repository.",
+  "repo": "microsoft/power-platform-skills",
+  "path": "plugins/model-apps/skills/report-issue/SKILL.md",
+  "url": "https://github.com/microsoft/power-platform-skills/tree/HEAD/plugins/model-apps/skills/report-issue/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 305,
+  "truncated": false
+}

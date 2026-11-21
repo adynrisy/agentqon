@@ -1,0 +1,11 @@
+{
+  "name": "protect-mcp-governance",
+  "display_name": "Protect MCP Governance",
+  "description": "Agent governance skill for MCP tool calls — Cedar policy authoring, shadow-to-enforce rollout, and Ed25519 receipt verification.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/protect-mcp-governance/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/protect-mcp-governance/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 9014,
+  "truncated": false
+}

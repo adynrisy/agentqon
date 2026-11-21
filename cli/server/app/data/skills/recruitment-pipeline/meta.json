@@ -1,0 +1,11 @@
+{
+  "name": "recruitment-pipeline",
+  "display_name": "Recruitment Pipeline",
+  "description": "Recruitment pipeline: candidate, position, stage, source, applied and interview dates, interview score, notice period and offer. Use for hiring tracking.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/recruitment-pipeline/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/recruitment-pipeline/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 15673,
+  "truncated": false
+}

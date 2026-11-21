@@ -1,0 +1,11 @@
+{
+  "name": "react-patterns",
+  "display_name": "React Patterns",
+  "description": "Modern React patterns and principles. Hooks, composition, performance, TypeScript best practices.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/react-patterns/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/react-patterns/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 4375,
+  "truncated": false
+}

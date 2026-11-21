@@ -1,0 +1,11 @@
+{
+  "name": "retro-analyze-sprint",
+  "display_name": "Retro Analyze Sprint",
+  "description": "Analyze sprint retrospectives for patterns and action item tracking. Usage: /retro analyze <retro_data.json>",
+  "repo": "alirezarezvani/claude-skills",
+  "path": ".gemini/skills/retro/SKILL.md",
+  "url": "https://github.com/alirezarezvani/claude-skills/tree/HEAD/.gemini/skills/retro/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 966,
+  "truncated": false
+}

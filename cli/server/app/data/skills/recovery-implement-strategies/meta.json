@@ -1,0 +1,11 @@
+{
+  "name": "recovery-implement-strategies",
+  "display_name": "Recovery Implement Strategies",
+  "description": "Implement backup and recovery strategies. Configure rsync, Restic, and cloud backups. Use when designing data protection solutions.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/backup-recovery/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/backup-recovery/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 11212,
+  "truncated": false
+}

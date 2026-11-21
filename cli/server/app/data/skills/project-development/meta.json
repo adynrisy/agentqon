@@ -1,0 +1,11 @@
+{
+  "name": "project-development",
+  "display_name": "Project Development",
+  "description": "This skill covers the principles for identifying tasks suited to LLM processing, designing effective project architectures, and iterating rapidly using agent-assisted development.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/project-development/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/project-development/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 14721,
+  "truncated": false
+}

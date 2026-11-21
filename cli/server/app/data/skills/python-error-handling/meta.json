@@ -1,0 +1,11 @@
+{
+  "name": "python-error-handling",
+  "display_name": "Python Error Handling",
+  "description": "Python error handling patterns including input validation, exception hierarchies, and partial failure handling. Use when implementing validation logic, designing exception strategies, handling batch processing failures, or building robust APIs.",
+  "repo": "wshobson/agents",
+  "path": "plugins/python-development/skills/python-error-handling/SKILL.md",
+  "url": "https://github.com/wshobson/agents/tree/HEAD/plugins/python-development/skills/python-error-handling/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 5869,
+  "truncated": false
+}

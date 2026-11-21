@@ -1,0 +1,11 @@
+{
+  "name": "project-organizer",
+  "display_name": "Project Organizer",
+  "description": "Take a list of projects and their related documentation, and organize them into the SRED format for submission.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/sred-project-organizer/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/sred-project-organizer/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 7477,
+  "truncated": false
+}

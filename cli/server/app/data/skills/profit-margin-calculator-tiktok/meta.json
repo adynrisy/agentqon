@@ -1,0 +1,11 @@
+{
+  "name": "profit-margin-calculator-tiktok",
+  "display_name": "Profit Margin Calculator Tiktok",
+  "description": "TikTok Shop profit margin calculator for sellers. Calculate cost breakdowns including affiliate commissions, platform fees, and FBT costs. Includes return rate analysis for impulse buying patterns. No API key required.",
+  "repo": "nexscope-ai/eCommerce-Skills",
+  "path": "profit-margin-calculator/profit-margin-calculator-tiktok/SKILL.md",
+  "url": "https://github.com/nexscope-ai/eCommerce-Skills/tree/HEAD/profit-margin-calculator/profit-margin-calculator-tiktok/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 2519,
+  "truncated": false
+}

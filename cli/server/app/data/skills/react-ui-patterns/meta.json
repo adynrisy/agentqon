@@ -1,0 +1,11 @@
+{
+  "name": "react-ui-patterns",
+  "display_name": "React UI Patterns",
+  "description": "Modern React UI patterns for loading states, error handling, and data fetching. Use when building UI components, handling async data, or managing UI states.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/react-ui-patterns/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/react-ui-patterns/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 6707,
+  "truncated": false
+}

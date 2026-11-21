@@ -1,0 +1,11 @@
+{
+  "name": "pytest-production-patterns",
+  "display_name": "Pytest Production Patterns",
+  "description": "Generates production-grade pytest tests in Python with fixtures, parametrize, markers, mocking, and conftest patterns. Use when user mentions \"pytest\", \"conftest\", \"@pytest.fixture\", \"@pytest.mark\", \"Python test\".",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/pytest-skill/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/pytest-skill/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 5206,
+  "truncated": false
+}

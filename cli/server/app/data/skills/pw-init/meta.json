@@ -1,0 +1,11 @@
+{
+  "name": "pw-init",
+  "display_name": "Pw Init",
+  "description": "Set up Playwright in a project. Use when user says \"set up playwright\", \"add e2e tests\", \"configure playwright\", \"testing setup\", \"init playwright\", or \"add test infrastructure\".",
+  "repo": "alirezarezvani/claude-skills",
+  "path": ".gemini/skills/pw-init/SKILL.md",
+  "url": "https://github.com/alirezarezvani/claude-skills/tree/HEAD/.gemini/skills/pw-init/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 4471,
+  "truncated": false
+}

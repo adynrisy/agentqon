@@ -1,0 +1,11 @@
+{
+  "name": "prototype-build-design-throwaway",
+  "display_name": "Prototype Build Design · Throwaway",
+  "description": "Build a throwaway prototype to flesh out a design — a runnable terminal app for state/business-logic questions, or several radically different UI variations toggleable from one route.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/prototype/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/prototype/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 3448,
+  "truncated": false
+}

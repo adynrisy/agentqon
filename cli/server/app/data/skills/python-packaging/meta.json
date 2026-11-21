@@ -1,0 +1,11 @@
+{
+  "name": "python-packaging",
+  "display_name": "Python Packaging",
+  "description": "Comprehensive guide to creating, structuring, and distributing Python packages using modern packaging tools, pyproject.toml, and publishing to PyPI.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/python-packaging/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/python-packaging/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 1388,
+  "truncated": false
+}

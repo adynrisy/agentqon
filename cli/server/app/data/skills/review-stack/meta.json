@@ -1,0 +1,11 @@
+{
+  "name": "review-stack",
+  "display_name": "Review Stack",
+  "description": "Review AAS stack manifests, preview plans and selection evidence in Workbench without applying changes.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/aas-review-stack/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/aas-review-stack/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 2177,
+  "truncated": false
+}

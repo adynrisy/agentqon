@@ -1,0 +1,11 @@
+{
+  "name": "research-workflow-user",
+  "display_name": "Research Workflow User",
+  "description": "Curated upstream guidance for Longbridge Research; use when the workflow matches the user goal.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/longbridge-research/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/longbridge-research/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 7796,
+  "truncated": false
+}

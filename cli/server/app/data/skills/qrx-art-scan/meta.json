@@ -1,0 +1,11 @@
+{
+  "name": "qrx-art-scan",
+  "display_name": "Qrx Art Scan",
+  "description": "Make branded, print-ready art QR codes that always scan with QRX (qrx.codes). Use when a link needs a QR code that looks like artwork or matches a brand for print, packaging, signs, slides or event badges, and to list or re-point QRX codes. Not for plain QR codes the agent makes locally.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/qrx/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/qrx/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 9521,
+  "truncated": false
+}

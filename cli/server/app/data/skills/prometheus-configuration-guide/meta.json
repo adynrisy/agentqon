@@ -1,0 +1,11 @@
+{
+  "name": "prometheus-configuration-guide",
+  "display_name": "Prometheus Configuration · Guide",
+  "description": "Complete guide to Prometheus setup, metric collection, scrape configuration, and recording rules.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/prometheus-configuration/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/prometheus-configuration/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 11700,
+  "truncated": false
+}

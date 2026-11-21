@@ -1,0 +1,11 @@
+{
+  "name": "programmatic-seo-user",
+  "display_name": "Programmatic SEO · User",
+  "description": "When the user wants to create SEO-driven pages at scale using templates and data. Also use when the user mentions \"programmatic SEO,\" \"template pages,\" \"pages at scale,\" \"directory pages,\" \"location pages,\" \"[keyword] + [city] pages,\" \"comparison pages,\" \"integration pages,\" or \"building many pages for SEO.\" For auditing existing SEO issues, see seo-audit.",
+  "repo": "alirezarezvani/claude-skills",
+  "path": ".gemini/skills/programmatic-seo/SKILL.md",
+  "url": "https://github.com/alirezarezvani/claude-skills/tree/HEAD/.gemini/skills/programmatic-seo/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 10152,
+  "truncated": false
+}

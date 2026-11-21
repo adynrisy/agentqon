@@ -1,0 +1,11 @@
+{
+  "name": "radare2-drive-cli",
+  "display_name": "Radare2 Drive CLI",
+  "description": "Drive the radare2 CLI for binary reconnaissance, disassembly, analysis, function locating, export, and lightweight patching (r2/rabin2/rasm2/radiff2) without a GUI.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/radare2/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/radare2/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 14869,
+  "truncated": false
+}

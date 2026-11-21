@@ -1,0 +1,11 @@
+{
+  "name": "research-lookup",
+  "display_name": "Research Lookup",
+  "description": "Compiles current scholarly evidence for a scientific manuscript or research brief when the user explicitly asks to gather literature, references, background evidence, competing findings, or a manuscript research packet. Uses Parallel Search by default, Parallel Extract for source retrieval, Parallel Research for explicitly deep/exhaustive work, optional explicit Parallel Chat, and optional Perplexity only when requested or allowed as a failure fallback.",
+  "repo": "K-Dense-AI/scientific-agent-skills",
+  "path": "skills/research-lookup/SKILL.md",
+  "url": "https://github.com/K-Dense-AI/scientific-agent-skills/tree/HEAD/skills/research-lookup/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 16057,
+  "truncated": false
+}

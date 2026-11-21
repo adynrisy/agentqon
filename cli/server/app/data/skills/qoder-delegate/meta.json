@@ -1,0 +1,11 @@
+{
+  "name": "qoder-delegate",
+  "display_name": "Qoder Delegate",
+  "description": "Delegate coding tasks to the Qoder CLI (`qodercli`) only when the user explicitly requests it, while the orchestrator retains review and landing responsibility.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/qoder-delegate/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/qoder-delegate/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 6570,
+  "truncated": false
+}

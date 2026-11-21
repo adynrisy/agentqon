@@ -1,0 +1,11 @@
+{
+  "name": "review-c-plan-ciso-review",
+  "display_name": "Review C Plan · Ciso Review",
+  "description": "/c-level-agents:ciso-review [plan] — Risk-paranoid interrogation of any plan that touches data, compliance, or production access. Use when launching features that handle customer data, before a SOC 2 / ISO audit, or after any incident or near-miss.",
+  "repo": "alirezarezvani/claude-skills",
+  "path": ".gemini/skills/ciso-review/SKILL.md",
+  "url": "https://github.com/alirezarezvani/claude-skills/tree/HEAD/.gemini/skills/ciso-review/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 3086,
+  "truncated": false
+}

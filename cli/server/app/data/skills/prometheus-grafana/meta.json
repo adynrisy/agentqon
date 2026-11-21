@@ -1,0 +1,11 @@
+{
+  "name": "prometheus-grafana",
+  "display_name": "Prometheus Grafana",
+  "description": "Set up metrics collection and visualization with Prometheus and Grafana.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/prometheus-grafana/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/prometheus-grafana/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 10270,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "pyzotero-reference-python",
+  "display_name": "Pyzotero Reference Python",
+  "description": "Manages Zotero reference libraries using the pyzotero Python client: retrieves, creates, updates, and deletes items, collections, tags, and attachments via the Zotero Web API v3 or local API. Applies when working with Zotero libraries programmatically, managing bibliographic references, exporting citations, searching library contents, uploading PDF attachments, or building research automation workflows that integrate with Zotero.",
+  "repo": "K-Dense-AI/scientific-agent-skills",
+  "path": "skills/pyzotero/SKILL.md",
+  "url": "https://github.com/K-Dense-AI/scientific-agent-skills/tree/HEAD/skills/pyzotero/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 6606,
+  "truncated": false
+}

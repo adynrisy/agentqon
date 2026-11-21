@@ -1,0 +1,11 @@
+{
+  "name": "radio-sdr",
+  "display_name": "Radio Sdr",
+  "description": "Authorized RF/SDR security research: signal identification, replay-feasibility study in shielded labs, and wireless protocol analysis outside regulated bands.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/radio-sdr/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/radio-sdr/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 2171,
+  "truncated": false
+}

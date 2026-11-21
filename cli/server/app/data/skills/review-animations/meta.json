@@ -1,0 +1,11 @@
+{
+  "name": "review-animations",
+  "display_name": "Review Animations",
+  "description": "Use when reviewing animation and motion code against a strict craft, performance, accessibility, and interaction-quality bar.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/review-animations/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/review-animations/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 8817,
+  "truncated": false
+}

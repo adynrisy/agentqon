@@ -1,0 +1,11 @@
+{
+  "name": "qstash-expert-serverless",
+  "display_name": "Qstash Expert Serverless",
+  "description": "Upstash QStash expert for serverless message queues, scheduled jobs, and reliable HTTP-based task delivery without managing infrastructure.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/upstash-qstash/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/upstash-qstash/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 1126,
+  "truncated": false
+}

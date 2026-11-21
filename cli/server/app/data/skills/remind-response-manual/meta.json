@@ -1,0 +1,11 @@
+{
+  "name": "remind-response-manual",
+  "display_name": "Remind Response Manual",
+  "description": "Rewrite the last response simpler and shorter in plain English, prefixed with a 3-5 sentence TLDR of the conversation so far. Manual-only, invoked as /remind.",
+  "repo": "davidondrej/skills",
+  "path": "skills/thinking-and-docs/remind/SKILL.md",
+  "url": "https://github.com/davidondrej/skills/tree/HEAD/skills/thinking-and-docs/remind/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 814,
+  "truncated": false
+}

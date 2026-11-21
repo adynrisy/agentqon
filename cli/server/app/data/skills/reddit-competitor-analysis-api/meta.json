@@ -1,0 +1,11 @@
+{
+  "name": "reddit-competitor-analysis-api",
+  "display_name": "Reddit Competitor Analysis API",
+  "description": "This skill helps users extract structured data from Reddit posts and comments via BrowserAct API. Agent should proactively apply this skill when users express needs like analyzing competitor mentions on Reddit, tracking brand sentiment in Reddit comments, extracting Reddit discussions for market research, finding popular Reddit posts by keywords, monitoring community feedback on specific topics, gathering user reviews from Reddit threads, searching for Reddit posts within a specific date range, sorting Reddit discussions by relevance or hotness, compiling nested Reddit comments for deep analysis, building a structured dataset of Reddit conversations, discovering trending topics in specific subreddits, or monitoring social media activity for specific brands on Reddit.",
+  "repo": "browser-act/skills",
+  "path": "solutions/social-listening/reddit-competitor-analysis-api-skill/SKILL.md",
+  "url": "https://github.com/browser-act/skills/tree/HEAD/solutions/social-listening/reddit-competitor-analysis-api-skill/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 5738,
+  "truncated": false
+}

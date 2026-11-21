@@ -1,0 +1,11 @@
+{
+  "name": "risco-de-test",
+  "display_name": "Risco De Test",
+  "description": "Analise de risco em leiloes de imoveis. Score 36 pontos, riscos juridicos/financeiros/operacionais, stress test 4 cenarios e ROI ponderado por risco.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/leiloeiro-risco/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/leiloeiro-risco/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 1319,
+  "truncated": false
+}

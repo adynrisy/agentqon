@@ -1,0 +1,11 @@
+{
+  "name": "project-based-performance",
+  "display_name": "Project Based Performance",
+  "description": "Project performance review: role, project and manager, delivery, quality and collaboration scores, overall score and feedback. Use for project appraisals.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/project-based-performance/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/project-based-performance/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 13760,
+  "truncated": false
+}

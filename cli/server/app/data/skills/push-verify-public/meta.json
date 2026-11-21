@@ -1,0 +1,11 @@
+{
+  "name": "push-verify-public",
+  "display_name": "Push Verify Public",
+  "description": "Push skills and global AGENTS.md to the private repo and verify the public mirror. Use only when the user explicitly invokes /push-skills.",
+  "repo": "davidondrej/skills",
+  "path": "skills/skill-authoring/push-skills/SKILL.md",
+  "url": "https://github.com/davidondrej/skills/tree/HEAD/skills/skill-authoring/push-skills/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 5089,
+  "truncated": false
+}

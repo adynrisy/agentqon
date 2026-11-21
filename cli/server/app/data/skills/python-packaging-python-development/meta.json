@@ -1,0 +1,11 @@
+{
+  "name": "python-packaging-python-development",
+  "display_name": "Python Packaging · Python Development",
+  "description": "Create distributable Python packages with proper project structure, setup.py/pyproject.toml, and publishing to PyPI. Use when packaging Python libraries, creating CLI tools, or distributing Python code.",
+  "repo": "wshobson/agents",
+  "path": "plugins/python-development/skills/python-packaging/SKILL.md",
+  "url": "https://github.com/wshobson/agents/tree/HEAD/plugins/python-development/skills/python-packaging/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 3682,
+  "truncated": false
+}

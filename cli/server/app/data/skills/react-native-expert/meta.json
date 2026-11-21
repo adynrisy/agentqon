@@ -1,0 +1,11 @@
+{
+  "name": "react-native-expert",
+  "display_name": "React Native Expert",
+  "description": "Builds, optimizes, and debugs cross-platform mobile applications with React Native and Expo. Implements navigation hierarchies (tabs, stacks, drawers), configures native modules, optimizes FlatList rendering with memo and useCallback, and handles platform-specific code for iOS and Android. Use when building a React Native or Expo mobile app, setting up navigation, integrating native modules, improving scroll performance, handling SafeArea or keyboard input, or configuring Expo SDK projects.",
+  "repo": "Jeffallan/claude-skills",
+  "path": "skills/react-native-expert/SKILL.md",
+  "url": "https://github.com/Jeffallan/claude-skills/tree/HEAD/skills/react-native-expert/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 5791,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "react-native-dev",
+  "display_name": "React Native Dev",
+  "description": "React Native and Expo development guide covering components, styling, animations, navigation,\nstate management, forms, networking, performance optimization, testing, native capabilities,\nand engineering (project structure, deployment, SDK upgrades, CI/CD).\nUse when: building React Native or Expo apps, implementing animations or native UI, managing\nstate, fetching data, writing tests, optimizing performance, deploying to App Store/Play Store,\nsetting up CI/CD, upgrading Expo SDK, or configuring Tailwind/NativeWind.",
+  "repo": "MiniMax-AI/skills",
+  "path": "skills/react-native-dev/SKILL.md",
+  "url": "https://github.com/MiniMax-AI/skills/tree/HEAD/skills/react-native-dev/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 6369,
+  "truncated": false
+}

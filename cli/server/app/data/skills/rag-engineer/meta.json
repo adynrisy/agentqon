@@ -1,0 +1,11 @@
+{
+  "name": "rag-engineer",
+  "display_name": "RAG Engineer",
+  "description": "Expert in building Retrieval-Augmented Generation systems. Masters embedding models, vector databases, chunking strategies, and retrieval optimization for LLM applications.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/rag-engineer/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/rag-engineer/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 9781,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "retro-coding-session",
+  "display_name": "Retro Coding Session",
+  "description": "Conduct a retrospective on a coding session.",
+  "repo": "mattpocock/skills",
+  "path": "skills/engineering/retro/SKILL.md",
+  "url": "https://github.com/mattpocock/skills/tree/HEAD/skills/engineering/retro/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 4257,
+  "truncated": false
+}

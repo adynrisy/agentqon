@@ -1,0 +1,11 @@
+{
+  "name": "revops-design-improve",
+  "display_name": "Revops Design Improve",
+  "description": "Design and improve revenue operations, lead lifecycle rules, scoring, routing, handoffs, and CRM process automation. Use when marketing, sales, and customer success workflows need clearer operational structure.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/revops/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/revops/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 14891,
+  "truncated": false
+}

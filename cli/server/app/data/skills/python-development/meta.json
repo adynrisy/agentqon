@@ -1,0 +1,11 @@
+{
+  "name": "python-development",
+  "display_name": "Python Development",
+  "description": "You are a Python project architecture expert specializing in scaffolding production-ready Python applications. Generate complete project structures with modern tooling (uv, FastAPI, Django), type hint (Alias for python-development-python-scaffold)",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/python-development/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/python-development/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 1554,
+  "truncated": false
+}

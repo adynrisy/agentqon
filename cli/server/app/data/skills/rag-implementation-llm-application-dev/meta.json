@@ -1,0 +1,11 @@
+{
+  "name": "rag-implementation-llm-application-dev",
+  "display_name": "RAG Implementation · LLM Application Dev",
+  "description": "Build Retrieval-Augmented Generation (RAG) systems for LLM applications with vector databases and semantic search. Use when implementing knowledge-grounded AI, building document Q&A systems, or integrating LLMs with external knowledge bases.",
+  "repo": "wshobson/agents",
+  "path": "plugins/llm-application-dev/skills/rag-implementation/SKILL.md",
+  "url": "https://github.com/wshobson/agents/tree/HEAD/plugins/llm-application-dev/skills/rag-implementation/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 4266,
+  "truncated": false
+}

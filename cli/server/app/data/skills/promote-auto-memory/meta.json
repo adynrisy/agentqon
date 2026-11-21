@@ -1,0 +1,11 @@
+{
+  "name": "promote-auto-memory",
+  "display_name": "Promote Auto Memory",
+  "description": "Graduate a proven pattern from auto-memory (MEMORY.md) to CLAUDE.md or .claude/rules/ for permanent enforcement. Use when the user runs /si:promote or asks to make a learned behavior permanent.",
+  "repo": "alirezarezvani/claude-skills",
+  "path": ".gemini/skills/promote/SKILL.md",
+  "url": "https://github.com/alirezarezvani/claude-skills/tree/HEAD/.gemini/skills/promote/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 4357,
+  "truncated": false
+}

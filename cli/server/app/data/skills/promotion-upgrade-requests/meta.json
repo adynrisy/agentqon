@@ -1,0 +1,11 @@
+{
+  "name": "promotion-upgrade-requests",
+  "display_name": "Promotion Upgrade Requests",
+  "description": "Promotion register: current and requested role and grade, justification, OKR and behaviour scores, time in role, salary proposal and decision. Use for upgrade requests.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/promotion-upgrade-requests/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/promotion-upgrade-requests/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 16949,
+  "truncated": false
+}

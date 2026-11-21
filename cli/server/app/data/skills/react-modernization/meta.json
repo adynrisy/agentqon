@@ -1,0 +1,11 @@
+{
+  "name": "react-modernization",
+  "display_name": "React Modernization",
+  "description": "Upgrade React applications to latest versions, migrate from class components to hooks, and adopt concurrent features. Use when modernizing React codebases, migrating to React Hooks, or upgrading to latest React versions.",
+  "repo": "wshobson/agents",
+  "path": "plugins/framework-migration/skills/react-modernization/SKILL.md",
+  "url": "https://github.com/wshobson/agents/tree/HEAD/plugins/framework-migration/skills/react-modernization/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 6546,
+  "truncated": false
+}

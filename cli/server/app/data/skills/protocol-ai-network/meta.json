@@ -1,0 +1,11 @@
+{
+  "name": "protocol-ai-network",
+  "display_name": "Protocol AI Network",
+  "description": "Give an AI agent a permanent network address, encrypted P2P messaging, and an installable app store via Pilot Protocol",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/pilot-protocol/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/pilot-protocol/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 4590,
+  "truncated": false
+}

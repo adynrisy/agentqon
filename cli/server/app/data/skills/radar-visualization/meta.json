@@ -1,0 +1,11 @@
+{
+  "name": "radar-visualization",
+  "display_name": "Radar Visualization",
+  "description": "Plot NEXRAD Level II/III site scans and decoded radar mosaics with correct radar geometry, map grids, units, quality masks, timestamps, and provenance.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/nexrad-radar-visualization/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/nexrad-radar-visualization/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 14266,
+  "truncated": false
+}

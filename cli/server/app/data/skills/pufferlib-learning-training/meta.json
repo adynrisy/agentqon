@@ -1,0 +1,11 @@
+{
+  "name": "pufferlib-learning-training",
+  "display_name": "Pufferlib Learning Training",
+  "description": "Version-aware guidance for PufferLib reinforcement-learning environments, vectorization, policies, PuffeRL training, evaluation, and safe checkpoint review. Covers the native 5.0 build and environment API, published 3.0.0 Gymnasium/PettingZoo adaptation, and a pinned historical 4.0 profile.",
+  "repo": "K-Dense-AI/scientific-agent-skills",
+  "path": "skills/pufferlib/SKILL.md",
+  "url": "https://github.com/K-Dense-AI/scientific-agent-skills/tree/HEAD/skills/pufferlib/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 14800,
+  "truncated": false
+}

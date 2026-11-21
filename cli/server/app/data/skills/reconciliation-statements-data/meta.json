@@ -1,0 +1,11 @@
+{
+  "name": "reconciliation-statements-data",
+  "display_name": "Reconciliation Statements Data",
+  "description": "Reconcile accounts by comparing GL balances to subledgers, bank statements, or third-party data. Use when performing bank reconciliations, GL-to-subledger recs, intercompany reconciliations, or identifying and categorizing reconciling items.",
+  "repo": "anthropics/knowledge-work-plugins",
+  "path": "finance/skills/reconciliation/SKILL.md",
+  "url": "https://github.com/anthropics/knowledge-work-plugins/tree/HEAD/finance/skills/reconciliation/SKILL.md",
+  "license": "Apache-2.0",
+  "body_bytes": 7823,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "radix-ui-design-system",
+  "display_name": "Radix UI Design System",
+  "description": "Build accessible design systems with Radix UI primitives. Headless component customization, theming strategies, and compound component patterns for production-grade UI libraries.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/radix-ui-design-system/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/radix-ui-design-system/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 5132,
+  "truncated": false
+}

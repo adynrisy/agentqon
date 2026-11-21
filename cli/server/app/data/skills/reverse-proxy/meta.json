@@ -1,0 +1,11 @@
+{
+  "name": "reverse-proxy",
+  "display_name": "Reverse Proxy",
+  "description": "Configure nginx and Traefik as reverse proxies. Implement SSL termination and routing. Use when setting up application gateways.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/reverse-proxy/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/reverse-proxy/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 10566,
+  "truncated": false
+}

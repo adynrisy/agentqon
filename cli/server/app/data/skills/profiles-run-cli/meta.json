@@ -1,0 +1,11 @@
+{
+  "name": "profiles-run-cli",
+  "display_name": "Profiles Run CLI",
+  "description": "Use codex-profiles to run Codex CLI or Codex Desktop with isolated CODEX_HOME profiles for separate accounts, projects, and local state.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/codex-profiles/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/codex-profiles/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 6260,
+  "truncated": false
+}

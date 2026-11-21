@@ -1,0 +1,11 @@
+{
+  "name": "risk-metrics-calculation",
+  "display_name": "Risk Metrics Calculation",
+  "description": "Calculate portfolio risk metrics including VaR, CVaR, Sharpe, Sortino, and drawdown analysis. Use when measuring portfolio risk, implementing risk limits, or building risk monitoring systems.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/risk-metrics-calculation/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/risk-metrics-calculation/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 1154,
+  "truncated": false
+}

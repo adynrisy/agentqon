@@ -1,0 +1,11 @@
+{
+  "name": "pw-review",
+  "display_name": "Pw Review",
+  "description": "Review Playwright tests for quality. Use when user says \"review tests\", \"check test quality\", \"audit tests\", \"improve tests\", \"test code review\", or \"playwright best practices check\".",
+  "repo": "alirezarezvani/claude-skills",
+  "path": ".gemini/skills/pw-review/SKILL.md",
+  "url": "https://github.com/alirezarezvani/claude-skills/tree/HEAD/.gemini/skills/pw-review/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 2861,
+  "truncated": false
+}

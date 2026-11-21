@@ -1,0 +1,11 @@
+{
+  "name": "retro-futurism",
+  "display_name": "Retro Futurism",
+  "description": "Web and App implementation guide for Retro Futurism. Trigger when user wants vintage future concepts, 1950s space age aesthetics, or atompunk vibes.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/design-it/retro-futurism/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/design-it/retro-futurism/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 8865,
+  "truncated": false
+}

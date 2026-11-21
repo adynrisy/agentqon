@@ -1,0 +1,11 @@
+{
+  "name": "review-c-plan",
+  "display_name": "Review C Plan",
+  "description": "/c-level-agents:cfo-review [plan] — Numerate-skeptic interrogation of any plan that touches money. Unit economics, runway, dilution, capital allocation. Use when a plan commits meaningful spend — e.g. a hiring wave, a fundraise decision, or a new channel budget.",
+  "repo": "alirezarezvani/claude-skills",
+  "path": ".gemini/skills/cfo-review/SKILL.md",
+  "url": "https://github.com/alirezarezvani/claude-skills/tree/HEAD/.gemini/skills/cfo-review/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 3131,
+  "truncated": false
+}

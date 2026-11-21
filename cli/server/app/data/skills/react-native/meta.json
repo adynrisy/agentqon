@@ -1,0 +1,11 @@
+{
+  "name": "react-native",
+  "display_name": "React Native",
+  "description": "Use when working with react-native-skills tasks or workflows",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/react-native-skills/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/react-native-skills/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 4337,
+  "truncated": false
+}

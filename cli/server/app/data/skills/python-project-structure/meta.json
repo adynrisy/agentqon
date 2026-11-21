@@ -1,0 +1,11 @@
+{
+  "name": "python-project-structure",
+  "display_name": "Python Project Structure",
+  "description": "Python project organization, module architecture, and public API design. Use when setting up new projects, organizing modules, defining public interfaces with __all__, or planning directory layouts.",
+  "repo": "wshobson/agents",
+  "path": "plugins/python-development/skills/python-project-structure/SKILL.md",
+  "url": "https://github.com/wshobson/agents/tree/HEAD/plugins/python-development/skills/python-project-structure/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 6475,
+  "truncated": false
+}

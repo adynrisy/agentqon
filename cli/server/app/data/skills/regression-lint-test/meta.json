@@ -1,0 +1,11 @@
+{
+  "name": "regression-lint-test",
+  "display_name": "Regression Lint Test",
+  "description": "Read-only sweep for regressions against a recorded baseline: typecheck, lint, test suites, wire contracts, generated-file drift, downstream builds, deploy drift. Use to verify everything before or after a deploy.",
+  "repo": "khasky/awesome-agent-skills",
+  "path": "skills/awesome-regression-sweep/SKILL.md",
+  "url": "https://github.com/khasky/awesome-agent-skills/tree/HEAD/skills/awesome-regression-sweep/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 15303,
+  "truncated": false
+}

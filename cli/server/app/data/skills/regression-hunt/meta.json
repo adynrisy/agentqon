@@ -1,0 +1,11 @@
+{
+  "name": "regression-hunt",
+  "display_name": "Regression Hunt",
+  "description": "Use when investigating regressions in PRs or commits, coordinating a regression campaign, or resuming saved progress.",
+  "repo": "trailofbits/skills",
+  "path": "plugins/regression-hunt/skills/regression-hunt/SKILL.md",
+  "url": "https://github.com/trailofbits/skills/tree/HEAD/plugins/regression-hunt/skills/regression-hunt/SKILL.md",
+  "license": "CC",
+  "body_bytes": 4565,
+  "truncated": false
+}

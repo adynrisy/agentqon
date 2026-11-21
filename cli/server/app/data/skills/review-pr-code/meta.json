@@ -1,0 +1,11 @@
+{
+  "name": "review-pr-code",
+  "display_name": "Review PR Code",
+  "description": "PR code review that surfaces decay risks, design smells, and maintainability issues with concrete Symptom → Source → Consequence → Remedy findings, drawing on twelve classic engineering books.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/brooks-review/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/brooks-review/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 1882,
+  "truncated": false
+}

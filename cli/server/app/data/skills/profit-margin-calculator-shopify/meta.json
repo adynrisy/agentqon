@@ -1,0 +1,11 @@
+{
+  "name": "profit-margin-calculator-shopify",
+  "display_name": "Profit Margin Calculator Shopify",
+  "description": "Shopify/DTC profit margin calculator for sellers. Calculate cost breakdowns including ad spend, CAC, payment processing fees, and 3PL costs. Includes LTV/CAC analysis and DTC-specific benchmarks. No API key required.",
+  "repo": "nexscope-ai/eCommerce-Skills",
+  "path": "profit-margin-calculator/profit-margin-calculator-shopify/SKILL.md",
+  "url": "https://github.com/nexscope-ai/eCommerce-Skills/tree/HEAD/profit-margin-calculator/profit-margin-calculator-shopify/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 2417,
+  "truncated": false
+}

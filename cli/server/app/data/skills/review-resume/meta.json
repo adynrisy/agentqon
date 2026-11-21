@@ -1,0 +1,11 @@
+{
+  "name": "review-resume",
+  "display_name": "Review Resume",
+  "description": "Comprehensive PM resume review and tailoring against 10 best practices including XYZ+S formula, keyword optimization, job-specific tailoring, and structure. Use when reviewing a PM resume, preparing for job applications, or improving resume impact.",
+  "repo": "phuryn/pm-skills",
+  "path": "pm-toolkit/skills/review-resume/SKILL.md",
+  "url": "https://github.com/phuryn/pm-skills/tree/HEAD/pm-toolkit/skills/review-resume/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 11009,
+  "truncated": false
+}

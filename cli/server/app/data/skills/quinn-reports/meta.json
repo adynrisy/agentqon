@@ -1,0 +1,11 @@
+{
+  "name": "quinn-reports",
+  "display_name": "Quinn Reports",
+  "description": "Verifies specified behavior through appropriate tests and truthful coverage reports.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/agent-squad/quinn/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/agent-squad/quinn/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 6657,
+  "truncated": false
+}

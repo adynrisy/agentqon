@@ -1,0 +1,11 @@
+{
+  "name": "resumable-implementation-contracts",
+  "display_name": "Resumable Implementation Contracts",
+  "description": "Create repository-based execution contracts for multi-session implementation work, with stable task IDs, evidence, checkpoints, and exact resume state.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/resumable-implementation-contracts/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/resumable-implementation-contracts/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 9645,
+  "truncated": false
+}

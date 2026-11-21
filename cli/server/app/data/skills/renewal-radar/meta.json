@@ -1,0 +1,11 @@
+{
+  "name": "renewal-radar",
+  "display_name": "Renewal Radar",
+  "description": "Upcoming renewals with timing, risk, and uplift potential - and the renewal opportunity records to keep them honest. Use when the user asks \"what renewals are coming up\", \"renewal radar\", \"is [account] going to renew\", \"prep the [account] renewal\", or \"which renewals are at risk\".",
+  "repo": "anthropics/knowledge-work-plugins",
+  "path": "sales/skills/renewal-radar/SKILL.md",
+  "url": "https://github.com/anthropics/knowledge-work-plugins/tree/HEAD/sales/skills/renewal-radar/SKILL.md",
+  "license": "Apache-2.0",
+  "body_bytes": 7246,
+  "truncated": false
+}

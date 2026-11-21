@@ -1,0 +1,11 @@
+{
+  "name": "python-patterns",
+  "display_name": "Python Patterns",
+  "description": "Python development principles and decision-making. Framework selection, async patterns, type hints, project structure. Teaches thinking, not copying.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/python-patterns/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/python-patterns/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 9709,
+  "truncated": false
+}

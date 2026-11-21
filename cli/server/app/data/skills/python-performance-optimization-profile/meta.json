@@ -1,0 +1,11 @@
+{
+  "name": "python-performance-optimization-profile",
+  "display_name": "Python Performance Optimization · Profile",
+  "description": "Profile and optimize Python code using cProfile, memory profilers, and performance best practices. Use when debugging slow Python code, optimizing bottlenecks, or improving application performance.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/python-performance-optimization/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/python-performance-optimization/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 1429,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "qa-result-triage",
+  "display_name": "QA Result Triage",
+  "description": "Triage failed Agent QA runs with MCP evidence, artifacts, logs, fixed failure categories, confidence, and actionable next steps.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/agent-qa-result-triage/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/agent-qa-result-triage/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 2649,
+  "truncated": false
+}

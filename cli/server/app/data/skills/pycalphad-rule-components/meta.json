@@ -1,0 +1,11 @@
+{
+  "name": "pycalphad-rule-components",
+  "display_name": "Pycalphad Rule Components",
+  "description": "Computes finite-temperature CALPHAD equilibria, phase fractions, and phase compositions from thermodynamic TDB databases using pycalphad. Use for alloy phase stability, equilibrium temperature sweeps, tie lines, lever-rule checks, or reproducible phase-fraction calculations with explicit components and mole-fraction conditions.",
+  "repo": "K-Dense-AI/scientific-agent-skills",
+  "path": "skills/pycalphad/SKILL.md",
+  "url": "https://github.com/K-Dense-AI/scientific-agent-skills/tree/HEAD/skills/pycalphad/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 7466,
+  "truncated": false
+}

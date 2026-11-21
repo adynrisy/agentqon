@@ -1,0 +1,11 @@
+{
+  "name": "quantized-export",
+  "display_name": "Quantized Export",
+  "description": "Export a promoted fine-tuned model in the right deployment format — merged safetensors, LoRA-only, GGUF with imatrix, or FP8. Use after a checkpoint passes promotion, when choosing a quantization format for a target device, or when an exported model fails its smoke test.",
+  "repo": "wshobson/agents",
+  "path": "plugins/llm-finetuning/skills/quantized-export/SKILL.md",
+  "url": "https://github.com/wshobson/agents/tree/HEAD/plugins/llm-finetuning/skills/quantized-export/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 7660,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "runapi-cli",
+  "display_name": "Runapi CLI",
+  "description": "Generate AI images, videos, and music/audio from agents using the RunAPI CLI.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/runapi-cli/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/runapi-cli/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 4130,
+  "truncated": false
+}

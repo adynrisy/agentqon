@@ -1,0 +1,11 @@
+{
+  "name": "remote-work-tracker",
+  "display_name": "Remote Work Tracker",
+  "description": "Remote work register: employee, location, week start, HQ versus remote days, core-hours compliance and manager approval. Use for hybrid work tracking.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/remote-work-tracker/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/remote-work-tracker/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 12478,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "recruiting-pipeline",
+  "display_name": "Recruiting Pipeline",
+  "description": "Track and manage recruiting pipeline stages. Trigger with \"recruiting update\", \"candidate pipeline\", \"how many candidates\", \"hiring status\", or when the user discusses sourcing, screening, interviewing, or extending offers.",
+  "repo": "anthropics/knowledge-work-plugins",
+  "path": "human-resources/skills/recruiting-pipeline/SKILL.md",
+  "url": "https://github.com/anthropics/knowledge-work-plugins/tree/HEAD/human-resources/skills/recruiting-pipeline/SKILL.md",
+  "license": "Apache-2.0",
+  "body_bytes": 941,
+  "truncated": false
+}

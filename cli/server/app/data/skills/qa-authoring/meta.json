@@ -1,0 +1,11 @@
+{
+  "name": "qa-authoring",
+  "display_name": "QA Authoring",
+  "description": "Create, edit, validate, and run Agent QA tests, suites, and hooks through MCP or CLI while preserving canonical IDs and schema contracts.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/agent-qa-authoring/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/agent-qa-authoring/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 4043,
+  "truncated": false
+}

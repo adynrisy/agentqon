@@ -1,0 +1,11 @@
+{
+  "name": "risky-changes",
+  "display_name": "Risky Changes",
+  "description": "Verify assumptions before implementing large or risky changes to APIs, provider data, billing, pricing, quotas, or defaults. Use when a mistake could affect customers or the user asks if a change is safe to ship. Checks real-world impact beyond passing tests.",
+  "repo": "davidondrej/skills",
+  "path": "skills/ops-and-setup/risky-changes/SKILL.md",
+  "url": "https://github.com/davidondrej/skills/tree/HEAD/skills/ops-and-setup/risky-changes/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 2532,
+  "truncated": false
+}

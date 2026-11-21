@@ -1,0 +1,11 @@
+{
+  "name": "review-reputation",
+  "display_name": "Review Reputation",
+  "description": "Watches what customers are saying in public and in private, then does something about it. Aggregates Google, Yelp, and Facebook reviews alongside disputes, tickets, and email into themes backed by verbatim quotes; drafts a reply to every review in the owner's own voice for approval; spots customers who have gone quiet or look likely to leave; and drafts win-back offers for the ones worth keeping. With Shopify connected, order and fulfillment patterns become a sentiment signal too. Works from pasted or exported reviews when nothing is connected. Use this whenever the owner asks about reviews, ratings, reputation, complaints, or repeat business — including \"what are people saying about us,\" \"did we get any bad reviews,\" \"how do I respond to this one-star,\" \"our rating dropped,\" \"which customers have gone quiet,\" \"who hasn't ordered in a while,\" \"how do I win them back,\" or \"are customers happy.\"",
+  "repo": "anthropics/knowledge-work-plugins",
+  "path": "small-business/skills/review-reputation/SKILL.md",
+  "url": "https://github.com/anthropics/knowledge-work-plugins/tree/HEAD/small-business/skills/review-reputation/SKILL.md",
+  "license": "Apache-2.0",
+  "body_bytes": 9659,
+  "truncated": false
+}

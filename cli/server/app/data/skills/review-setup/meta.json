@@ -1,0 +1,11 @@
+{
+  "name": "review-setup",
+  "display_name": "Review Setup",
+  "description": "Configure human-in-the-loop gating for AI agent review actions in Claude Code. Use when setting up a project where an agent may post PR reviews, comments, merges, or edit CI configuration, and you want a cryptographically auditable approval trail with Cedar-enforced gates.",
+  "repo": "wshobson/agents",
+  "path": "plugins/review-agent-governance/skills/review-agent-setup/SKILL.md",
+  "url": "https://github.com/wshobson/agents/tree/HEAD/plugins/review-agent-governance/skills/review-agent-setup/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 5745,
+  "truncated": false
+}

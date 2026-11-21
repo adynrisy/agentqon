@@ -1,0 +1,11 @@
+{
+  "name": "production-code-audit",
+  "display_name": "Production Code Audit",
+  "description": "Autonomously deep-scan entire codebase line-by-line, understand architecture and patterns, then systematically transform it to production-grade, corporate-level professional quality with optimizations",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/production-code-audit/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/production-code-audit/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 8062,
+  "truncated": false
+}

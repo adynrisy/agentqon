@@ -1,0 +1,11 @@
+{
+  "name": "root-cause",
+  "display_name": "Root Cause",
+  "description": "Root-cause analysis for incidents, recurring failures and process problems with no failing test: 5 Whys, fishbone, PDCA, A3. Use for a postmortem or why something keeps happening.",
+  "repo": "khasky/awesome-agent-skills",
+  "path": "skills/awesome-root-cause/SKILL.md",
+  "url": "https://github.com/khasky/awesome-agent-skills/tree/HEAD/skills/awesome-root-cause/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 9672,
+  "truncated": false
+}
