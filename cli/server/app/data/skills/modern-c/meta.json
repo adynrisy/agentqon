@@ -1,0 +1,11 @@
+{
+  "name": "modern-c",
+  "display_name": "Modern C++",
+  "description": "Guides C++ code toward modern idioms (C++20/23/26). Use when writing new C++ code, modernizing legacy patterns, or working on security-critical C++. Replaces raw pointers with smart pointers, SFINAE with concepts, printf with std::print, error codes with std::expected.",
+  "repo": "trailofbits/skills",
+  "path": "plugins/modern-cpp/skills/modern-cpp/SKILL.md",
+  "url": "https://github.com/trailofbits/skills/tree/HEAD/plugins/modern-cpp/skills/modern-cpp/SKILL.md",
+  "license": "CC",
+  "body_bytes": 8347,
+  "truncated": false
+}

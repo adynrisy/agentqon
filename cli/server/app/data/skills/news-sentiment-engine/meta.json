@@ -1,0 +1,11 @@
+{
+  "name": "news-sentiment-engine",
+  "display_name": "News Sentiment Engine",
+  "description": "Multi-source RSS news aggregation with Claude-powered sentiment analysis and structured briefing output",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "skills/news-sentiment-engine/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/skills/news-sentiment-engine/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 3184,
+  "truncated": false
+}

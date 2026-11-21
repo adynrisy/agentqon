@@ -1,0 +1,11 @@
+{
+  "name": "mutation-testing",
+  "display_name": "Mutation Testing",
+  "description": "Configures mewt or muton campaigns, analyzes surviving mutants, and investigates bugs exposed by testing gaps. Use when setting up mutation testing, reviewing campaign results, identifying equivalent mutants, or finding bugs from surviving mutations.",
+  "repo": "trailofbits/skills",
+  "path": "plugins/mutation-testing/skills/mutation-testing/SKILL.md",
+  "url": "https://github.com/trailofbits/skills/tree/HEAD/plugins/mutation-testing/skills/mutation-testing/SKILL.md",
+  "license": "CC",
+  "body_bytes": 5890,
+  "truncated": false
+}

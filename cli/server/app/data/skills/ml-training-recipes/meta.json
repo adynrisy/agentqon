@@ -1,0 +1,11 @@
+{
+  "name": "ml-training-recipes",
+  "display_name": "ML Training Recipes",
+  "description": "Battle-tested PyTorch training recipes for all domains — LLMs, vision, diffusion, medical imaging, protein/drug discovery, spatial omics, genomics. Covers training loops, optimizer selection (AdamW, Muon), LR scheduling, mixed precision, debugging, and systematic experimentation. Use when training or fine-tuning neural networks, debugging loss spikes or OOM, choosing architectures, or optimizing GPU throughput.",
+  "repo": "Orchestra-Research/AI-Research-SKILLs",
+  "path": "10-optimization/ml-training-recipes/SKILL.md",
+  "url": "https://github.com/Orchestra-Research/AI-Research-SKILLs/tree/HEAD/10-optimization/ml-training-recipes/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 10524,
+  "truncated": false
+}

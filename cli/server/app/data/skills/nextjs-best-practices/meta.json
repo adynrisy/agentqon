@@ -1,0 +1,11 @@
+{
+  "name": "nextjs-best-practices",
+  "display_name": "Nextjs Best Practices",
+  "description": "Next.js App Router principles. Server Components, data fetching, routing patterns.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/nextjs-best-practices/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/nextjs-best-practices/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 3984,
+  "truncated": false
+}

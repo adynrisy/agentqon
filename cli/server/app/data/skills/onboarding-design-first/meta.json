@@ -1,0 +1,11 @@
+{
+  "name": "onboarding-design-first",
+  "display_name": "Onboarding Design First",
+  "description": "Design first-use and onboarding experiences that bring an early win, cut setup friction, build ownership and form habits through stable cues. Use when onboarding loses users early, time-to-value is long, or the first session should build confidence, momentum and a lasting habit.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/onboarding-psychologist/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/onboarding-psychologist/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 5299,
+  "truncated": false
+}

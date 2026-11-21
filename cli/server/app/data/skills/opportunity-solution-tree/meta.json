@@ -1,0 +1,11 @@
+{
+  "name": "opportunity-solution-tree",
+  "display_name": "Opportunity Solution Tree",
+  "description": "Build an Opportunity Solution Tree from outcomes to opportunities, solutions, and tests. Use when a stakeholder request needs problem framing before you decide what to build.",
+  "repo": "deanpeters/Product-Manager-Skills",
+  "path": "skills/opportunity-solution-tree/SKILL.md",
+  "url": "https://github.com/deanpeters/Product-Manager-Skills/tree/HEAD/skills/opportunity-solution-tree/SKILL.md",
+  "license": "CC",
+  "body_bytes": 16741,
+  "truncated": false
+}

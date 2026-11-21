@@ -1,0 +1,11 @@
+{
+  "name": "movie-returns-code",
+  "display_name": "Movie Returns Code",
+  "description": "Fetch movie ticket coupons from platforms like Taopiaopiao and Maoyan. Returns coupon links and QR code images for users to redeem via WeChat.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/movie-coupon/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/movie-coupon/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 4030,
+  "truncated": false
+}

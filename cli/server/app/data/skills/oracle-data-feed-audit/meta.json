@@ -1,0 +1,11 @@
+{
+  "name": "oracle-data-feed-audit",
+  "display_name": "Oracle Data Feed Audit",
+  "description": "DeFi price oracle integration and safety audit register: heartbeat bounds, stale price threshold reversion, and TWAP medianizer validation.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/soroban-oracle-data-feed-audit/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/soroban-oracle-data-feed-audit/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 4725,
+  "truncated": false
+}

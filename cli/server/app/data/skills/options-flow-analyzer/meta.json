@@ -1,0 +1,11 @@
+{
+  "name": "options-flow-analyzer",
+  "display_name": "Options Flow Analyzer",
+  "description": "Real vs lottery call separation for options P/C ratio analysis — prevents signal inversion from deep OTM noise",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/options-flow-analyzer/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/options-flow-analyzer/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 3348,
+  "truncated": false
+}

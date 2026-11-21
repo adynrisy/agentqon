@@ -1,0 +1,11 @@
+{
+  "name": "molfeat-virtual-ml",
+  "display_name": "Molfeat Virtual ML",
+  "description": "Featurizes small molecules with Molfeat for QSAR/QSPR, chemical similarity, virtual screening, and molecular ML. Covers ECFP/MACCS fingerprints, RDKit descriptors, pharmacophores, pretrained embeddings, configuration persistence, and molecule-to-label alignment.",
+  "repo": "K-Dense-AI/scientific-agent-skills",
+  "path": "skills/molfeat/SKILL.md",
+  "url": "https://github.com/K-Dense-AI/scientific-agent-skills/tree/HEAD/skills/molfeat/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 8745,
+  "truncated": false
+}

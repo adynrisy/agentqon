@@ -1,0 +1,11 @@
+{
+  "name": "mirrord-run-local",
+  "display_name": "Mirrord Run Local",
+  "description": "Run a local process inside a live Kubernetes cluster's network, env and traffic with mirrord, so changes are tested against real services without deploying.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/mirrord/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/mirrord/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 3190,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "openrouter-design-build",
+  "display_name": "Openrouter Design Build",
+  "description": "Design, build, debug, and optimize OpenRouter API integrations. Use for any OpenRouter API work, including models, reasoning, routing, media, tools, structured output, cost, or performance.",
+  "repo": "davidondrej/skills",
+  "path": "skills/ops-and-setup/openrouter/SKILL.md",
+  "url": "https://github.com/davidondrej/skills/tree/HEAD/skills/ops-and-setup/openrouter/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 4953,
+  "truncated": false
+}

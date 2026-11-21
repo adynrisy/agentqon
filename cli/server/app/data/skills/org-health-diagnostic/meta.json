@@ -1,0 +1,11 @@
+{
+  "name": "org-health-diagnostic",
+  "display_name": "Org Health Diagnostic",
+  "description": "Cross-functional organizational health check combining signals from all C-suite roles. Scores 8 dimensions on a traffic-light scale with drill-down recommendations. Use when assessing overall company health, preparing for board reviews, identifying at-risk functions, or when user mentions org health, health check, or health dashboard.",
+  "repo": "alirezarezvani/claude-skills",
+  "path": ".gemini/skills/org-health-diagnostic/SKILL.md",
+  "url": "https://github.com/alirezarezvani/claude-skills/tree/HEAD/.gemini/skills/org-health-diagnostic/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 8005,
+  "truncated": false
+}

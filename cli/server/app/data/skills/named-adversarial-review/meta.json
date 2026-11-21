@@ -1,0 +1,11 @@
+{
+  "name": "named-adversarial-review",
+  "display_name": "Named Adversarial Review",
+  "description": "Code review through the lens of real engineers' documented philosophies (Torvalds, Thompson, Carmack, Kent Beck, Jobs, Cagan). Complements abstract-role adversarial review with named, sourced perspectives. Use when automated review findings feel generic, when a PR has architectural or UX impact, or when the author wants pre-submit hardening beyond standard checks.",
+  "repo": "alirezarezvani/claude-skills",
+  "path": ".gemini/skills/named-persona-adversarial-review/SKILL.md",
+  "url": "https://github.com/alirezarezvani/claude-skills/tree/HEAD/.gemini/skills/named-persona-adversarial-review/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 10517,
+  "truncated": false
+}

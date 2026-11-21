@@ -1,0 +1,11 @@
+{
+  "name": "neurokit2-research-workflows",
+  "display_name": "Neurokit2 Research Workflows",
+  "description": "Builds and audits reproducible NeuroKit2 research workflows for physiological time-series preprocessing, event/interval analysis, multimodal alignment, variability, and complexity. Use when code imports neurokit2 or needs its current APIs, schemas, and method-aware validation—not for diagnosis or device validation.",
+  "repo": "K-Dense-AI/scientific-agent-skills",
+  "path": "skills/neurokit2/SKILL.md",
+  "url": "https://github.com/K-Dense-AI/scientific-agent-skills/tree/HEAD/skills/neurokit2/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 14742,
+  "truncated": false
+}

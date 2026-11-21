@@ -1,0 +1,11 @@
+{
+  "name": "open-sourcing",
+  "display_name": "Open Sourcing",
+  "description": "This skill should be used when the user asks to \"open source this project\", \"prepare this repository for public release\", \"make this repo public\", \"check open-source readiness\", \"choose a license for this project\", or \"set up release automation\" ahead of a public launch. Provides a release-readiness workflow covering secrets hygiene, licensing, documentation, CI, and language-specific packaging.",
+  "repo": "trailofbits/skills",
+  "path": "plugins/open-sourcing/skills/open-sourcing/SKILL.md",
+  "url": "https://github.com/trailofbits/skills/tree/HEAD/plugins/open-sourcing/skills/open-sourcing/SKILL.md",
+  "license": "CC",
+  "body_bytes": 10013,
+  "truncated": false
+}

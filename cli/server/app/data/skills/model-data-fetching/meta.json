@@ -1,0 +1,11 @@
+{
+  "name": "model-data-fetching",
+  "display_name": "Model Data Fetching",
+  "description": "Retrieve numerical weather prediction data from public AWS S3 and HTTP archives using GRIB2 inventories, byte ranges, Herbie, provider fallbacks, and verified caching.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/weather-model-data-fetching/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/weather-model-data-fetching/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 11506,
+  "truncated": false
+}

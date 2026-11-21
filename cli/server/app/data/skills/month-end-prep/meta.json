@@ -1,0 +1,11 @@
+{
+  "name": "month-end-prep",
+  "display_name": "Month End Prep",
+  "description": "Reconciles the accounting ledger (MYOB, NetSuite, QuickBooks, Xero, or Zoho Books) against PayPal, Shopify, Square, and Stripe settlements, flags transactions that need attention, suspicious duplicates, and missing receipts, then writes a plain-English P&L narrative and exports a close packet (xlsx + one-page PDF). This is the first link of the /close-month command; a request to close the month or the books routes there, and the command runs this skill before refreshing the forecast and distributing the packet. Use this skill directly only when the owner wants the reconciliation alone, with no forecast refresh and no distribution: \"just reconcile, no packet,\" \"what's missing from the books,\" \"flag the duplicates and missing receipts,\" or \"write the P&L narrative for this month.\"",
+  "repo": "anthropics/knowledge-work-plugins",
+  "path": "small-business/skills/month-end-prep/SKILL.md",
+  "url": "https://github.com/anthropics/knowledge-work-plugins/tree/HEAD/small-business/skills/month-end-prep/SKILL.md",
+  "license": "Apache-2.0",
+  "body_bytes": 18136,
+  "truncated": false
+}

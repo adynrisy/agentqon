@@ -1,0 +1,11 @@
+{
+  "name": "model-run-discovery",
+  "display_name": "Model Run Discovery",
+  "description": "Resolve the newest complete numerical weather prediction cycle and forecast objects across provider mirrors without downloading full payloads.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/weather-model-run-discovery/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/weather-model-run-discovery/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 9522,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "notion-manual-import",
+  "display_name": "Notion Manual Import",
+  "description": "Notion Manual Import: the Notion step for any module - CSV, property mapping, import steps and verification for the field list the active module confirmed. Use whenever the user picks Notion.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/notion-manual-import/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/notion-manual-import/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 14559,
+  "truncated": false
+}

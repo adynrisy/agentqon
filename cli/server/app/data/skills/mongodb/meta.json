@@ -1,0 +1,11 @@
+{
+  "name": "mongodb",
+  "display_name": "Mongodb",
+  "description": "Administer MongoDB databases. Configure replica sets, sharding, and backups. Use when managing MongoDB deployments.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/mongodb/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/mongodb/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 10077,
+  "truncated": false
+}

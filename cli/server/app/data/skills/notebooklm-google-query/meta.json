@@ -1,0 +1,11 @@
+{
+  "name": "notebooklm-google-query",
+  "display_name": "Notebooklm Google Query",
+  "description": "Interact with Google NotebookLM to query documentation with Gemini's source-grounded answers. Each question opens a fresh browser session, retrieves the answer exclusively from your uploaded documents, and closes.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "skills/notebooklm/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/skills/notebooklm/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 9974,
+  "truncated": false
+}

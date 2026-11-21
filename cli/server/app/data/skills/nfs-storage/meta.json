@@ -1,0 +1,11 @@
+{
+  "name": "nfs-storage",
+  "display_name": "Nfs Storage",
+  "description": "Configure NFS servers and clients. Implement network file sharing for Linux systems. Use when setting up shared storage.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/nfs-storage/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/nfs-storage/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 10838,
+  "truncated": false
+}

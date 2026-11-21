@@ -1,0 +1,11 @@
+{
+  "name": "moatmri-analyze-ai",
+  "display_name": "Moatmri Analyze AI",
+  "description": "Analyze AI disruption pressure across a business, map competitive exposure, and produce a 90-day defensive action plan.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/moatmri/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/moatmri/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 3861,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "monte-carlo-monitor-creation",
+  "display_name": "Monte Carlo Monitor Creation",
+  "description": "Guides creation of Monte Carlo monitors via MCP tools, producing monitors-as-code YAML for CI/CD deployment.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/monte-carlo-monitor-creation/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/monte-carlo-monitor-creation/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 11225,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "monday-automation",
+  "display_name": "Monday Automation",
+  "description": "Automate Monday.com work management including boards, items, columns, groups, subitems, and updates via Rube MCP (Composio). Always search tools first for current schemas.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/monday-automation/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/monday-automation/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 12354,
+  "truncated": false
+}

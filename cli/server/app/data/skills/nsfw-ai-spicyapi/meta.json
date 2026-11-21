@@ -1,0 +1,11 @@
+{
+  "name": "nsfw-ai-spicyapi",
+  "display_name": "Nsfw AI Spicyapi",
+  "description": "Generate adult (18+) images, image-to-video clips and image edits through the SpicyAPI API, with a cost quote before every paid run and adults-only / consent rules.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/nsfw-ai-spicyapi/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/nsfw-ai-spicyapi/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 6448,
+  "truncated": false
+}

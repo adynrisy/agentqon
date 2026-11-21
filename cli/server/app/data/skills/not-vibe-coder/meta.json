@@ -1,0 +1,11 @@
+{
+  "name": "not-vibe-coder",
+  "display_name": "Not Vibe Coder",
+  "description": "Turns vague prompts into 8 structured planning files for brand new projects. DO NOT use on existing codebases.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/not-a-vibe-coder/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/not-a-vibe-coder/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 7314,
+  "truncated": false
+}

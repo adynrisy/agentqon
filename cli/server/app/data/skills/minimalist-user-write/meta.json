@@ -1,0 +1,11 @@
+{
+  "name": "minimalist-user-write",
+  "display_name": "Minimalist User Write",
+  "description": "Use when the user asks to write code efficiently, avoid over-engineering, reduce dependencies, or prevent unnecessary abstractions. Enforces a strict efficiency ladder: YAGNI, reuse, stdlib, native platform, existing deps — before writing any new code.",
+  "repo": "alirezarezvani/claude-skills",
+  "path": ".gemini/skills/minimalist/SKILL.md",
+  "url": "https://github.com/alirezarezvani/claude-skills/tree/HEAD/.gemini/skills/minimalist/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 2946,
+  "truncated": false
+}

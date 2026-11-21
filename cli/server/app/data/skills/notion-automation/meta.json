@@ -1,0 +1,11 @@
+{
+  "name": "notion-automation",
+  "display_name": "Notion Automation",
+  "description": "Automate Notion tasks via Rube MCP (Composio): pages, databases, blocks, comments, users. Always search tools first for current schemas.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/notion-automation/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/notion-automation/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 8771,
+  "truncated": false
+}

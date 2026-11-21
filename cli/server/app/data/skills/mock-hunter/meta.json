@@ -1,0 +1,11 @@
+{
+  "name": "mock-hunter",
+  "display_name": "Mock Hunter",
+  "description": "Audit a live web page in five phases (catalog, click, trace, classify, report) to identify mock data, hardcoded values, LLM-generated metrics, and broken endpoints. Outputs a markdown report with REAL/MOCK/LLM/HARDCODED/BROKEN/UNKNOWN verdicts per visible value.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "skills/mock-hunter/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/skills/mock-hunter/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 6963,
+  "truncated": false
+}

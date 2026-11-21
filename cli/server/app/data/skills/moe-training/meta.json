@@ -1,0 +1,11 @@
+{
+  "name": "moe-training",
+  "display_name": "Moe Training",
+  "description": "Train Mixture of Experts (MoE) models using DeepSpeed or HuggingFace. Use when training large-scale models with limited compute (5× cost reduction vs dense models), implementing sparse architectures like Mixtral 8x7B or DeepSeek-V3, or scaling model capacity without proportional compute increase. Covers MoE architectures, routing mechanisms, load balancing, expert parallelism, and inference optimization.",
+  "repo": "Orchestra-Research/AI-Research-SKILLs",
+  "path": "19-emerging-techniques/moe-training/SKILL.md",
+  "url": "https://github.com/Orchestra-Research/AI-Research-SKILLs/tree/HEAD/19-emerging-techniques/moe-training/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 14241,
+  "truncated": false
+}

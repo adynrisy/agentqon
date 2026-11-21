@@ -1,0 +1,11 @@
+{
+  "name": "mode-prd-production",
+  "display_name": "Mode PRD Production",
+  "description": "Version 2.35.0 | PRD to Production | Zero Human Intervention > Research-enhanced: OpenAI SDK, DeepMind, Anthropic, AWS Bedrock, Agent SDK, HN Production (2025)",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/loki-mode/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/loki-mode/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 905,
+  "truncated": false
+}

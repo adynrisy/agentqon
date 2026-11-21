@@ -1,0 +1,11 @@
+{
+  "name": "nx-workspace-patterns-developer-essentials",
+  "display_name": "Nx Workspace Patterns · Developer Essentials",
+  "description": "Configure and optimize Nx monorepo workspaces. Use when setting up Nx, configuring project boundaries, optimizing build caching, or implementing affected commands.",
+  "repo": "wshobson/agents",
+  "path": "plugins/developer-essentials/skills/nx-workspace-patterns/SKILL.md",
+  "url": "https://github.com/wshobson/agents/tree/HEAD/plugins/developer-essentials/skills/nx-workspace-patterns/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 2071,
+  "truncated": false
+}

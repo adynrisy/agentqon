@@ -1,0 +1,58 @@
+<!--
+Source: microsoft/power-platform-skills
+Path: plugins/mobile-apps/skills/open-wrap-url/SKILL.md
+License: MIT
+URL: https://github.com/microsoft/power-platform-skills/tree/HEAD/plugins/mobile-apps/skills/open-wrap-url/SKILL.md
+-->
+
+> **Plugin check**: Run `node "${PLUGIN_ROOT}/scripts/check-version.js"` - if it outputs a message, show it to the user before proceeding.
+
+**📋 Shared instructions: [shared-instructions.md](../../shared/shared-instructions.md)** — read first.
+
+# Open Wrap URL
+
+Builds and opens the Wrap URL for a code app:
+
+`https://make.powerapps.com/environments/<envID>/wrap?appID=<appID>` for `--env Prod`
+
+`https://make.test.powerapps.com/environments/<envID>/wrap?appID=<appID>` for `--env Test`
+
+This skill delegates URL construction and browser open behavior to `scripts/open-wrap-url.js`.
+
+## Workflow
+
+1. Resolve app ID + env ID → 2. Open Wrap URL
+
+---
+
+### Step 1 — Resolve app ID + env ID
+
+**Telemetry checkpoint: `resolve_wrap_target`**
+
+Both arguments are required:
+
+- `--app-id <app-id>`
+- `--env-id <environment-id>`
+
+Optional host selector:
+
+- `--env <Prod|Test>` (default: `Prod`)
+
+If either value is missing in `$ARGUMENTS`, ask once for the missing value(s). If still missing, STOP.
+
+### Step 2 — Open Wrap URL
+
+**Telemetry checkpoint: `open_power_apps_wrap`**
+
+Run from the plugin root (or any app root):
+
+```bash
+node scripts/open-wrap-url.js --app-id "<app-id>" --env-id "<environment-id>" [--env "Prod|Test"]
+```
+
+Return the generated URL in the response. If the browser auto-open fails, still print the URL and tell the user to open it manually.
+
+## Notes
+
+- This skill is read-only with respect to project source files.
+- Works on macOS (`open`), Linux (`xdg-open`), and Windows (`start`).

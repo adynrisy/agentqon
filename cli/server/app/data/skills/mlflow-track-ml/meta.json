@@ -1,0 +1,11 @@
+{
+  "name": "mlflow-track-ml",
+  "display_name": "Mlflow Track ML",
+  "description": "Track ML experiments, manage model registry with versioning, deploy models to production, and reproduce experiments with MLflow - framework-agnostic ML lifecycle platform",
+  "repo": "Orchestra-Research/AI-Research-SKILLs",
+  "path": "13-mlops/mlflow/SKILL.md",
+  "url": "https://github.com/Orchestra-Research/AI-Research-SKILLs/tree/HEAD/13-mlops/mlflow/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 15145,
+  "truncated": false
+}

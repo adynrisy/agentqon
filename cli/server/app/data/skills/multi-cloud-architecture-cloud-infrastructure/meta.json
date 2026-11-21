@@ -1,0 +1,11 @@
+{
+  "name": "multi-cloud-architecture-cloud-infrastructure",
+  "display_name": "Multi Cloud Architecture · Cloud Infrastructure",
+  "description": "Design multi-cloud architectures using a decision framework to select and integrate services across AWS, Azure, GCP, and OCI. Use when building multi-cloud systems, avoiding vendor lock-in, or leveraging best-of-breed services from multiple providers.",
+  "repo": "wshobson/agents",
+  "path": "plugins/cloud-infrastructure/skills/multi-cloud-architecture/SKILL.md",
+  "url": "https://github.com/wshobson/agents/tree/HEAD/plugins/cloud-infrastructure/skills/multi-cloud-architecture/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 5409,
+  "truncated": false
+}

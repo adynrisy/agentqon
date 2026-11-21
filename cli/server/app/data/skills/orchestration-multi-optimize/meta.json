@@ -1,0 +1,11 @@
+{
+  "name": "orchestration-multi-optimize",
+  "display_name": "Orchestration Multi Optimize",
+  "description": "Optimize multi-agent systems with coordinated profiling, workload distribution, and cost-aware orchestration. Use when improving agent performance, throughput, or reliability.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/agent-orchestration-multi-agent-optimize/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/agent-orchestration-multi-agent-optimize/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 7567,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "ops-multi-cli",
+  "display_name": "Ops Multi CLI",
+  "description": "Multi-CLI job-search command center: evaluate offers, scan portals, tailor CVs, track applications, prep interviews. Invoke per mode.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/career-ops/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/career-ops/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 8062,
+  "truncated": false
+}

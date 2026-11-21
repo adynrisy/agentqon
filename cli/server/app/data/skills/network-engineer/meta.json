@@ -1,0 +1,11 @@
+{
+  "name": "network-engineer",
+  "display_name": "Network Engineer",
+  "description": "Expert network engineer specializing in modern cloud networking, security architectures, and performance optimization.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/network-engineer/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/network-engineer/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 9671,
+  "truncated": false
+}

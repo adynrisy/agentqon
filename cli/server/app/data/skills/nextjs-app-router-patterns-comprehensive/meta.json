@@ -1,0 +1,11 @@
+{
+  "name": "nextjs-app-router-patterns-comprehensive",
+  "display_name": "Nextjs App Router Patterns · Comprehensive",
+  "description": "Comprehensive patterns for Next.js 14+ App Router architecture, Server Components, and modern full-stack React development.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/nextjs-app-router-patterns/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/nextjs-app-router-patterns/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 1265,
+  "truncated": false
+}

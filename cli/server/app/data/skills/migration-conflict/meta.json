@@ -1,0 +1,11 @@
+{
+  "name": "migration-conflict",
+  "display_name": "Migration Conflict",
+  "description": "Diagnose, repair, and prevent Drizzle Kit migration conflicts involving generated SQL, snapshots, journals, merge queues, and team workflows.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/drizzle-migration-conflict/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/drizzle-migration-conflict/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 9425,
+  "truncated": false
+}

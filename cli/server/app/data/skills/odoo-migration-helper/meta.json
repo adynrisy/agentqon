@@ -1,0 +1,11 @@
+{
+  "name": "odoo-migration-helper",
+  "display_name": "Odoo Migration Helper",
+  "description": "Step-by-step guide for migrating Odoo custom modules between versions (v14→v15→v16→v17). Covers API changes, deprecated methods, and view migration.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/odoo-migration-helper/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/odoo-migration-helper/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 3880,
+  "truncated": false
+}

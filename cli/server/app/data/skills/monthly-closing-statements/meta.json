@@ -1,0 +1,11 @@
+{
+  "name": "monthly-closing-statements",
+  "display_name": "Monthly Closing Statements",
+  "description": "Monthly closing register: period dates, cash/bank/party/inventory/TDS reconciliation flags, profit, receivables, payables, working capital, open adjustments and reviewer. Use for period close.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/monthly-closing-statements/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/monthly-closing-statements/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 24382,
+  "truncated": false
+}

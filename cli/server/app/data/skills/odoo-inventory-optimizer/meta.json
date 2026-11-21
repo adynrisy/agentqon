@@ -1,0 +1,11 @@
+{
+  "name": "odoo-inventory-optimizer",
+  "display_name": "Odoo Inventory Optimizer",
+  "description": "Expert guide for Odoo Inventory: stock valuation (FIFO/AVCO), reordering rules, putaway strategies, routes, and multi-warehouse configuration.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/odoo-inventory-optimizer/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/odoo-inventory-optimizer/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 4382,
+  "truncated": false
+}

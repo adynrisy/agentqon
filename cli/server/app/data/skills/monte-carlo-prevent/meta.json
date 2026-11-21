@@ -1,0 +1,11 @@
+{
+  "name": "monte-carlo-prevent",
+  "display_name": "Monte Carlo Prevent",
+  "description": "Surfaces Monte Carlo data observability context (table health, alerts, lineage, blast radius) before SQL/dbt edits.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/monte-carlo-prevent/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/monte-carlo-prevent/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 12690,
+  "truncated": false
+}

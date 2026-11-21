@@ -1,0 +1,11 @@
+{
+  "name": "multi-cloud-architecture",
+  "display_name": "Multi Cloud Architecture",
+  "description": "Decision framework and patterns for architecting applications across AWS, Azure, and GCP.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/multi-cloud-architecture/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/multi-cloud-architecture/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 5376,
+  "truncated": false
+}

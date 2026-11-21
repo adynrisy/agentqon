@@ -1,0 +1,11 @@
+{
+  "name": "odoo-shopify-integration",
+  "display_name": "Odoo Shopify Integration",
+  "description": "Connect Odoo with Shopify: sync products, inventory, orders, and customers using the Shopify API and Odoo's external API or connector modules.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/odoo-shopify-integration/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/odoo-shopify-integration/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 4193,
+  "truncated": false
+}

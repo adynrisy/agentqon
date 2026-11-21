@@ -1,0 +1,11 @@
+{
+  "name": "odoo-accounting-setup",
+  "display_name": "Odoo Accounting Setup",
+  "description": "Expert guide for configuring Odoo Accounting: chart of accounts, journals, fiscal positions, taxes, payment terms, and bank reconciliation.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/odoo-accounting-setup/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/odoo-accounting-setup/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 3927,
+  "truncated": false
+}

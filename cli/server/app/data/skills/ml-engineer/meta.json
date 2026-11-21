@@ -1,0 +1,11 @@
+{
+  "name": "ml-engineer",
+  "display_name": "ML Engineer",
+  "description": "Build production ML systems with PyTorch 2.x, TensorFlow, and modern ML frameworks. Implements model serving, feature engineering, A/B testing, and monitoring.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/ml-engineer/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/ml-engineer/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 9263,
+  "truncated": false
+}

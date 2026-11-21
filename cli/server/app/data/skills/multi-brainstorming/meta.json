@@ -1,0 +1,11 @@
+{
+  "name": "multi-brainstorming",
+  "display_name": "Multi Brainstorming",
+  "description": "Simulate a structured peer-review process using multiple specialized agents to validate designs, surface hidden assumptions, and identify failure modes before implementation.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/multi-agent-brainstorming/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/multi-agent-brainstorming/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 5700,
+  "truncated": false
+}

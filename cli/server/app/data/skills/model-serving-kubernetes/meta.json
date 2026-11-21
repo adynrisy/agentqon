@@ -1,0 +1,11 @@
+{
+  "name": "model-serving-kubernetes",
+  "display_name": "Model Serving Kubernetes",
+  "description": "Deploy ML models on Kubernetes with KServe (formerly KFServing) and NVIDIA Triton Inference Server.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/model-serving-kubernetes/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/model-serving-kubernetes/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 8648,
+  "truncated": false
+}

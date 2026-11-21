@@ -1,0 +1,11 @@
+{
+  "name": "neverapply-find-jobs",
+  "display_name": "Neverapply Find Jobs",
+  "description": "Find matching jobs, tailor resumes, prepare for interviews and apply to jobs with the user's approval through NeverApply's hosted MCP server (OAuth sign-in).",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/neverapply/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/neverapply/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 7018,
+  "truncated": false
+}

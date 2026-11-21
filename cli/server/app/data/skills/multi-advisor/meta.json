@@ -1,0 +1,11 @@
+{
+  "name": "multi-advisor",
+  "display_name": "Multi Advisor",
+  "description": "Conselho de especialistas — consulta multiplos agentes do ecossistema em paralelo para analise multi-perspectiva de qualquer topico. Ativa personas, especialistas e agentes tecnicos simultaneamente, cada um pela sua otica unica, e consolida em sintese decisoria final.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/multi-advisor/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/multi-advisor/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 8860,
+  "truncated": false
+}

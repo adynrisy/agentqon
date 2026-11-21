@@ -1,0 +1,11 @@
+{
+  "name": "multisig-threshold-coordinator",
+  "display_name": "Multisig Threshold Coordinator",
+  "description": "Multi-signature signer and threshold coordination register: weight configurations, master key locks, and cosigner quorum thresholds for Stellar.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/stellar-multisig-threshold-coordinator/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/stellar-multisig-threshold-coordinator/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 4682,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "n8n-validation-expert",
+  "display_name": "N8n Validation Expert",
+  "description": "Expert guide for interpreting and fixing n8n validation errors.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/n8n-validation-expert/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/n8n-validation-expert/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 1014,
+  "truncated": false
+}

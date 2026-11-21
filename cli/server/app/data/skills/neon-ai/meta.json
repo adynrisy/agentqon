@@ -1,0 +1,11 @@
+{
+  "name": "neon-ai",
+  "display_name": "Neon AI",
+  "description": "One API and one credential for frontier and open-source LLMs, built into your Neon branch and powered by Databricks.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/neon-ai-gateway/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/neon-ai-gateway/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 14512,
+  "truncated": false
+}

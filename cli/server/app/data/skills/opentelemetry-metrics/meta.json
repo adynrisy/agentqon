@@ -1,0 +1,11 @@
+{
+  "name": "opentelemetry-metrics",
+  "display_name": "Opentelemetry Metrics",
+  "description": "Instrument applications and infrastructure with OpenTelemetry for unified traces, metrics, and logs.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/opentelemetry/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/opentelemetry/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 12247,
+  "truncated": false
+}

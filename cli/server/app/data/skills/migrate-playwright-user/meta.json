@@ -1,0 +1,11 @@
+{
+  "name": "migrate-playwright-user",
+  "display_name": "Migrate Playwright User",
+  "description": "Migrate from Cypress or Selenium to Playwright. Use when user mentions \"cypress\", \"selenium\", \"migrate tests\", \"convert tests\", \"switch to playwright\", \"move from cypress\", or \"replace selenium\".",
+  "repo": "alirezarezvani/claude-skills",
+  "path": ".gemini/skills/migrate/SKILL.md",
+  "url": "https://github.com/alirezarezvani/claude-skills/tree/HEAD/.gemini/skills/migrate/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 3982,
+  "truncated": false
+}

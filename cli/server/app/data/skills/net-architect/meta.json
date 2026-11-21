@@ -1,0 +1,11 @@
+{
+  "name": "net-architect",
+  "display_name": ".NET Architect",
+  "description": "Expert .NET backend architect specializing in C#, ASP.NET Core, Entity Framework, Dapper, and enterprise application patterns.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/dotnet-architect/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/dotnet-architect/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 7150,
+  "truncated": false
+}

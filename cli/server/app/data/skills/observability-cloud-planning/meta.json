@@ -1,0 +1,11 @@
+{
+  "name": "observability-cloud-planning",
+  "display_name": "Observability Cloud Planning",
+  "description": "Build a cloud, SLO, and incident-readiness register after intake. Use when an SME needs monitoring scope, alert ownership, cost limits, or service planning.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/observability-cloud-planning/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/observability-cloud-planning/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 25572,
+  "truncated": false
+}

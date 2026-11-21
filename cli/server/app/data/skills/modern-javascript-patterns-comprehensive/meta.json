@@ -1,0 +1,11 @@
+{
+  "name": "modern-javascript-patterns-comprehensive",
+  "display_name": "Modern Javascript Patterns · Comprehensive",
+  "description": "Comprehensive guide for mastering modern JavaScript (ES6+) features, functional programming patterns, and best practices for writing clean, maintainable, and performant code.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/modern-javascript-patterns/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/modern-javascript-patterns/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 1378,
+  "truncated": false
+}

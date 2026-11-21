@@ -1,0 +1,11 @@
+{
+  "name": "modern-python",
+  "display_name": "Modern Python",
+  "description": "Configures Python projects with modern tooling (uv, ruff, ty). Use when creating projects, writing standalone scripts, or migrating from pip/Poetry/mypy/black.",
+  "repo": "trailofbits/skills",
+  "path": "plugins/modern-python/skills/modern-python/SKILL.md",
+  "url": "https://github.com/trailofbits/skills/tree/HEAD/plugins/modern-python/skills/modern-python/SKILL.md",
+  "license": "CC",
+  "body_bytes": 9813,
+  "truncated": false
+}

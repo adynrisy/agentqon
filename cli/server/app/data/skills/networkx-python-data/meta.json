@@ -1,0 +1,11 @@
+{
+  "name": "networkx-python-data",
+  "display_name": "Networkx Python Data",
+  "description": "Creates, analyzes, and visualizes complex networks and graphs in Python with NetworkX. Use when working with network/graph data structures, computing graph algorithms (shortest paths, centrality, clustering), detecting communities, generating synthetic networks (random, scale-free, small-world), reading/writing graph file formats, or drawing network topologies. Common applications include social, biological, transportation, and citation networks.",
+  "repo": "K-Dense-AI/scientific-agent-skills",
+  "path": "skills/networkx/SKILL.md",
+  "url": "https://github.com/K-Dense-AI/scientific-agent-skills/tree/HEAD/skills/networkx/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 16085,
+  "truncated": false
+}

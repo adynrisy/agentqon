@@ -1,0 +1,11 @@
+{
+  "name": "ms365-tenant-manager",
+  "display_name": "Ms365 Tenant Manager",
+  "description": "Microsoft 365 tenant administration for Global Administrators. Automate M365 tenant setup, Office 365 admin tasks, Azure AD user management, Exchange Online configuration, Teams administration, and security policies. Generate PowerShell scripts for bulk operations, Conditional Access policies, license management, and compliance reporting. Use for M365 tenant manager, Office 365 admin, Azure AD users, Global Administrator, tenant configuration, or Microsoft 365 automation.",
+  "repo": "alirezarezvani/claude-skills",
+  "path": ".gemini/skills/ms365-tenant-manager/SKILL.md",
+  "url": "https://github.com/alirezarezvani/claude-skills/tree/HEAD/.gemini/skills/ms365-tenant-manager/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 10562,
+  "truncated": false
+}

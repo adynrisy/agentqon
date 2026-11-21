@@ -1,0 +1,11 @@
+{
+  "name": "odoo-performance-tuner",
+  "display_name": "Odoo Performance Tuner",
+  "description": "Expert guide for diagnosing and fixing Odoo performance issues: slow queries, worker configuration, memory limits, PostgreSQL tuning, and profiling tools.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/odoo-performance-tuner/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/odoo-performance-tuner/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 4638,
+  "truncated": false
+}

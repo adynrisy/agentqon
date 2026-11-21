@@ -1,0 +1,11 @@
+{
+  "name": "omp-delegate",
+  "display_name": "Omp Delegate",
+  "description": "Delegate coding tasks to Oh My Pi (`omp`) only when the user explicitly requests it, while the orchestrator retains review and landing responsibility.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/omp-delegate/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/omp-delegate/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 8937,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "office-productivity",
+  "display_name": "Office Productivity",
+  "description": "Office productivity workflow covering document creation, spreadsheet automation, presentation generation, and integration with LibreOffice and Microsoft Office formats.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/office-productivity/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/office-productivity/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 4642,
+  "truncated": false
+}

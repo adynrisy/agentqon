@@ -1,0 +1,11 @@
+{
+  "name": "muse-review",
+  "display_name": "Muse Review",
+  "description": "Launch an independent Meta Muse Wonder Max code review through Pi and OpenRouter, and return it verbatim. Use only when the user explicitly invokes /muse-review.",
+  "repo": "davidondrej/skills",
+  "path": "skills/agent-orchestration/muse-review/SKILL.md",
+  "url": "https://github.com/davidondrej/skills/tree/HEAD/skills/agent-orchestration/muse-review/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 1761,
+  "truncated": false
+}

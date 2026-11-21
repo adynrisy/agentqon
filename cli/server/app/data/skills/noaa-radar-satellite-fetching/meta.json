@@ -1,0 +1,11 @@
+{
+  "name": "noaa-radar-satellite-fetching",
+  "display_name": "Noaa Radar Satellite Fetching",
+  "description": "Retrieve NOAA NEXRAD and GOES products from public cloud archives using verified site, product, channel, sector, and scan-time selection.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/noaa-radar-satellite-fetching/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/noaa-radar-satellite-fetching/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 10467,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "openpiv-image-analysis",
+  "display_name": "Openpiv Image Analysis",
+  "description": "Performs Particle Image Velocimetry (PIV) analysis with OpenPIV. Use when extracting velocity fields from PIV image pairs, analyzing fluid dynamics or flow visualization experiments, cross-correlating interrogation windows, validating and replacing spurious PIV vectors, or computing vorticity, strain rate, and turbulence statistics from measured velocity fields.",
+  "repo": "K-Dense-AI/scientific-agent-skills",
+  "path": "skills/openpiv/SKILL.md",
+  "url": "https://github.com/K-Dense-AI/scientific-agent-skills/tree/HEAD/skills/openpiv/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 18293,
+  "truncated": false
+}

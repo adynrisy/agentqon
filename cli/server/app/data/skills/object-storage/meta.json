@@ -1,0 +1,11 @@
+{
+  "name": "object-storage",
+  "display_name": "Object Storage",
+  "description": "Configure object storage with S3, GCS, and MinIO. Implement lifecycle policies and access controls. Use when managing object storage.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/object-storage/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/object-storage/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 9884,
+  "truncated": false
+}

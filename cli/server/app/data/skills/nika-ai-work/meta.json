@@ -1,0 +1,11 @@
+{
+  "name": "nika-ai-work",
+  "display_name": "Nika AI Work",
+  "description": "Runs repeatable AI work as checked, budgeted workflow files.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/nika/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/nika/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 10076,
+  "truncated": false
+}

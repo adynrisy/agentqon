@@ -1,0 +1,11 @@
+{
+  "name": "monte-carlo-validation-notebook",
+  "display_name": "Monte Carlo Validation Notebook",
+  "description": "Generates SQL validation notebooks for dbt PR changes with before/after comparison queries.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/monte-carlo-validation-notebook/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/monte-carlo-validation-notebook/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 3863,
+  "truncated": false
+}

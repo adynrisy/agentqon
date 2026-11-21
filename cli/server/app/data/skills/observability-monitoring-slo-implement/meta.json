@@ -1,0 +1,11 @@
+{
+  "name": "observability-monitoring-slo-implement",
+  "display_name": "Observability Monitoring Slo Implement",
+  "description": "You are an SLO (Service Level Objective) expert specializing in implementing reliability standards and error budget-based engineering practices. Design comprehensive SLO frameworks, establish meaningful SLIs, and create monitoring systems that balance reliability with feature velocity.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/observability-monitoring-slo-implement/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/observability-monitoring-slo-implement/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 1849,
+  "truncated": false
+}

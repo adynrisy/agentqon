@@ -1,0 +1,11 @@
+{
+  "name": "not-human-search-mcp",
+  "display_name": "Not Human Search MCP",
+  "description": "Search AI-ready websites, inspect indexed site details, verify MCP endpoints, and discover tools and APIs using the Not Human Search MCP server",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/not-human-search-mcp/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/not-human-search-mcp/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 4239,
+  "truncated": false
+}

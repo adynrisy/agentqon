@@ -1,0 +1,11 @@
+{
+  "name": "objection-preemptor",
+  "display_name": "Objection Preemptor",
+  "description": "Map customer objections and address them with evidence and choice-preserving language when a funnel, sales page, or pitch encounters recurring hesitation.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/objection-preemptor/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/objection-preemptor/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 6810,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "orchestrator-meta-os",
+  "display_name": "Orchestrator Meta OS",
+  "description": "Meta-skill que orquestra todos os agentes do ecossistema. Scan automatico de skills, match por capacidades, coordenacao de workflows multi-skill e registry management.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/agent-orchestrator/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/agent-orchestrator/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 10910,
+  "truncated": false
+}

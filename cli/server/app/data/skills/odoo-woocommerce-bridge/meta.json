@@ -1,0 +1,11 @@
+{
+  "name": "odoo-woocommerce-bridge",
+  "display_name": "Odoo Woocommerce Bridge",
+  "description": "Sync Odoo with WooCommerce: products, inventory, orders, and customers via WooCommerce REST API and Odoo external API.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/odoo-woocommerce-bridge/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/odoo-woocommerce-bridge/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 5151,
+  "truncated": false
+}

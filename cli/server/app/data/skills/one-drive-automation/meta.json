@@ -1,0 +1,11 @@
+{
+  "name": "one-drive-automation",
+  "display_name": "One Drive Automation",
+  "description": "Automate OneDrive file management, search, uploads, downloads, sharing, permissions, and folder operations via Rube MCP (Composio). Always search tools first for current schemas.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/one-drive-automation/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/one-drive-automation/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 12899,
+  "truncated": false
+}

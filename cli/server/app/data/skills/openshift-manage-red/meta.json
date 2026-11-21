@@ -1,0 +1,11 @@
+{
+  "name": "openshift-manage-red",
+  "display_name": "Openshift Manage Red",
+  "description": "Manage Red Hat OpenShift clusters and deployments.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/openshift/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/openshift/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 9087,
+  "truncated": false
+}

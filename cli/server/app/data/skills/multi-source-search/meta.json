@@ -1,0 +1,11 @@
+{
+  "name": "multi-source-search",
+  "display_name": "Multi Source Search",
+  "description": "Cross-validate web research and produce an offline-checkable evidence ledger with explicit source diversity, confidence, conflicts, and gaps.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/multi-source-search/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/multi-source-search/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 5509,
+  "truncated": false
+}

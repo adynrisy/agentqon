@@ -1,0 +1,11 @@
+{
+  "name": "monte-carlo-asset-health",
+  "display_name": "Monte Carlo Asset Health",
+  "description": "Curated upstream guidance for Monte Carlo Asset Health; use when the workflow matches the user goal.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/monte-carlo-asset-health/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/monte-carlo-asset-health/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 9414,
+  "truncated": false
+}

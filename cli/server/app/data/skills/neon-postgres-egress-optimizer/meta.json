@@ -1,0 +1,11 @@
+{
+  "name": "neon-postgres-egress-optimizer",
+  "display_name": "Neon Postgres Egress Optimizer",
+  "description": "Diagnose and fix excessive Postgres egress (network data transfer) in a codebase.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/neon-postgres-egress-optimizer/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/neon-postgres-egress-optimizer/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 9513,
+  "truncated": false
+}

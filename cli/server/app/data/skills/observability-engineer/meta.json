@@ -1,0 +1,11 @@
+{
+  "name": "observability-engineer",
+  "display_name": "Observability Engineer",
+  "description": "Build production-ready monitoring, logging, and tracing systems. Implements comprehensive observability strategies, SLI/SLO management, and incident response workflows.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/observability-engineer/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/observability-engineer/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 14256,
+  "truncated": false
+}

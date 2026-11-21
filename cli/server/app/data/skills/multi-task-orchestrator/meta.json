@@ -1,0 +1,11 @@
+{
+  "name": "multi-task-orchestrator",
+  "display_name": "Multi Task Orchestrator",
+  "description": "Route tasks to specialized AI agents with anti-duplication, quality gates, and 30-minute heartbeat monitoring",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/multi-agent-task-orchestrator/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/multi-agent-task-orchestrator/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 5413,
+  "truncated": false
+}

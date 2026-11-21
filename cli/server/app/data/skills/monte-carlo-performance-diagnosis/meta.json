@@ -1,0 +1,11 @@
+{
+  "name": "monte-carlo-performance-diagnosis",
+  "display_name": "Monte Carlo Performance Diagnosis",
+  "description": "Diagnoses pipeline performance issues -- slow jobs, expensive queries, latency trends -- using Monte Carlo's cross-platform observability. Uses a tiered investigation approach: discover problems, bridge to affected tables, then drill into root causes.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/monte-carlo-performance-diagnosis/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/monte-carlo-performance-diagnosis/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 7734,
+  "truncated": false
+}

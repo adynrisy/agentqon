@@ -1,0 +1,11 @@
+{
+  "name": "nextflow-core-workflows",
+  "display_name": "Nextflow Core Workflows",
+  "description": "Builds, runs, and debugs Nextflow DSL2 pipelines and nf-core workflows. Use for Nextflow, nf-core, .nf files, nextflow.config, processes/channels/operators, samplesheets, nf-test, modules/subworkflows, container and executor configuration, HPC/SLURM or cloud deployment, and failed or resumed pipeline runs.",
+  "repo": "K-Dense-AI/scientific-agent-skills",
+  "path": "skills/nextflow/SKILL.md",
+  "url": "https://github.com/K-Dense-AI/scientific-agent-skills/tree/HEAD/skills/nextflow/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 14218,
+  "truncated": false
+}

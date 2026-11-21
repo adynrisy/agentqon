@@ -1,0 +1,11 @@
+{
+  "name": "odoo-rpc-api",
+  "display_name": "Odoo Rpc API",
+  "description": "Expert on Odoo's external JSON-RPC and XML-RPC APIs. Covers authentication, model calls, record CRUD, and real-world integration examples in Python, JavaScript, and curl.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/odoo-rpc-api/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/odoo-rpc-api/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 3772,
+  "truncated": false
+}

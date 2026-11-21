@@ -1,0 +1,11 @@
+{
+  "name": "modal-serverless-gpu",
+  "display_name": "Modal Serverless GPU",
+  "description": "Serverless GPU cloud platform for running ML workloads. Use when you need on-demand GPU access without infrastructure management, deploying ML models as APIs, or running batch jobs with automatic scaling.",
+  "repo": "Orchestra-Research/AI-Research-SKILLs",
+  "path": "09-infrastructure/modal/SKILL.md",
+  "url": "https://github.com/Orchestra-Research/AI-Research-SKILLs/tree/HEAD/09-infrastructure/modal/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 8150,
+  "truncated": false
+}

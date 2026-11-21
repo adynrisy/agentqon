@@ -1,0 +1,11 @@
+{
+  "name": "molykit-ai-chat",
+  "display_name": "Molykit AI Chat",
+  "description": "CRITICAL: Use for MolyKit AI chat toolkit. Triggers on:\nBotClient, OpenAI, SSE streaming, AI chat, molykit,\nPlatformSend, spawn(), ThreadToken, cross-platform async,\nChat widget, Messages, PromptInput, Avatar, LLM",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "skills/molykit/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/skills/molykit/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 10239,
+  "truncated": false
+}

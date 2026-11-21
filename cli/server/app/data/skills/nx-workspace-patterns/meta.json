@@ -1,0 +1,11 @@
+{
+  "name": "nx-workspace-patterns",
+  "display_name": "Nx Workspace Patterns",
+  "description": "Configure and optimize Nx monorepo workspaces. Use when setting up Nx, configuring project boundaries, optimizing build caching, or implementing affected commands.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/nx-workspace-patterns/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/nx-workspace-patterns/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 11226,
+  "truncated": false
+}

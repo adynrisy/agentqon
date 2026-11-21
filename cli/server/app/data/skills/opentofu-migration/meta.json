@@ -1,0 +1,11 @@
+{
+  "name": "opentofu-migration",
+  "display_name": "Opentofu Migration",
+  "description": "Migrate from Terraform to OpenTofu with state compatibility, provider registry setup, and CI/CD pipeline updates. Use when adopting the open-source Terraform fork or evaluating license-free IaC.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/opentofu-migration/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/opentofu-migration/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 7269,
+  "truncated": false
+}

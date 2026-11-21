@@ -1,0 +1,11 @@
+{
+  "name": "online-shopping",
+  "display_name": "Online Shopping",
+  "description": "Research online purchases, prices, and shop trust. Use for buying advice, subscriptions, or shopping photos, links, and checkout screens.",
+  "repo": "davidondrej/skills",
+  "path": "skills/research-and-web/online-shopping/SKILL.md",
+  "url": "https://github.com/davidondrej/skills/tree/HEAD/skills/research-and-web/online-shopping/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 5469,
+  "truncated": false
+}

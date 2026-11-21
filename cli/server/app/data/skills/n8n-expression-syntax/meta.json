@@ -1,0 +1,11 @@
+{
+  "name": "n8n-expression-syntax",
+  "display_name": "N8n Expression Syntax",
+  "description": "Validate n8n expression syntax and fix common errors. Use when writing n8n expressions, using {{}} syntax, accessing $json/$node variables, troubleshooting expression errors, or working with webhook data in workflows.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/n8n-expression-syntax/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/n8n-expression-syntax/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 2696,
+  "truncated": false
+}

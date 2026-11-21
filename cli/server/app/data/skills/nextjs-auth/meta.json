@@ -1,0 +1,11 @@
+{
+  "name": "nextjs-auth",
+  "display_name": "Nextjs Auth",
+  "description": "Expert integration of Supabase Auth with Next.js App Router",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/nextjs-supabase-auth/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/nextjs-supabase-auth/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 7813,
+  "truncated": false
+}

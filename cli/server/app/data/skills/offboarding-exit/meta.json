@@ -1,0 +1,11 @@
+{
+  "name": "offboarding-exit",
+  "display_name": "Offboarding Exit",
+  "description": "Offboarding register: exit type, employee and manager, notice and final day, reason, handover owner, and done flags for knowledge transfer, assets, access and settlement. Use for exit tracking.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/offboarding-exit/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/offboarding-exit/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 14756,
+  "truncated": false
+}

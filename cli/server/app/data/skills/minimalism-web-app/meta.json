@@ -1,0 +1,11 @@
+{
+  "name": "minimalism-web-app",
+  "display_name": "Minimalism Web App",
+  "description": "Web and App implementation guide for the Minimalism design style. Trigger when the user wants simple layouts, lots of whitespace, few colors, and clear hierarchy.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/design-it/minimalism/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/design-it/minimalism/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 8602,
+  "truncated": false
+}

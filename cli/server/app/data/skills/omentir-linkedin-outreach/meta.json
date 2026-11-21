@@ -1,0 +1,11 @@
+{
+  "name": "omentir-linkedin-outreach",
+  "display_name": "Omentir Linkedin Outreach",
+  "description": "Run LinkedIn prospecting and outreach through the Omentir MCP server: find people, score fit, draft messages, and check campaigns. Never signs into LinkedIn.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/omentir-linkedin-outreach/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/omentir-linkedin-outreach/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 4995,
+  "truncated": false
+}
