@@ -1,0 +1,11 @@
+{
+  "name": "react-nextjs-development",
+  "display_name": "React Nextjs Development",
+  "description": "React and Next.js 14+ application development with App Router, Server Components, TypeScript, Tailwind CSS, and modern frontend patterns.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/react-nextjs-development/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/react-nextjs-development/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 5442,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "saas-economics-efficiency-metrics",
+  "display_name": "SaaS Economics Efficiency Metrics",
+  "description": "Evaluate SaaS unit economics and capital efficiency. Use when deciding whether the business can scale efficiently or needs correction.",
+  "repo": "deanpeters/Product-Manager-Skills",
+  "path": "skills/saas-economics-efficiency-metrics/SKILL.md",
+  "url": "https://github.com/deanpeters/Product-Manager-Skills/tree/HEAD/skills/saas-economics-efficiency-metrics/SKILL.md",
+  "license": "CC",
+  "body_bytes": 24886,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "rowan-cloud-native",
+  "display_name": "Rowan Cloud Native",
+  "description": "Rowan is a cloud-native molecular modeling and medicinal-chemistry workflow platform with a Python API. Use for pKa and macropKa prediction, conformer and tautomer ensembles, docking and analogue docking, protein-ligand cofolding, MSA generation, molecular dynamics, permeability, descriptor workflows, and related small-molecule or protein modeling tasks. Ideal for programmatic batch screening, multi-step chemistry pipelines, and workflows that would otherwise require maintaining local HPC/GPU infrastructure.",
+  "repo": "K-Dense-AI/scientific-agent-skills",
+  "path": "skills/rowan/SKILL.md",
+  "url": "https://github.com/K-Dense-AI/scientific-agent-skills/tree/HEAD/skills/rowan/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 16135,
+  "truncated": false
+}

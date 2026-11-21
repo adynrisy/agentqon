@@ -1,0 +1,11 @@
+{
+  "name": "responsive-design",
+  "display_name": "Responsive Design",
+  "description": "Implement modern responsive layouts using container queries, fluid typography, CSS Grid, and mobile-first breakpoint strategies. Use when building adaptive interfaces, implementing fluid layouts, or creating component-level responsive behavior.",
+  "repo": "wshobson/agents",
+  "path": "plugins/ui-design/skills/responsive-design/SKILL.md",
+  "url": "https://github.com/wshobson/agents/tree/HEAD/plugins/ui-design/skills/responsive-design/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 1698,
+  "truncated": false
+}

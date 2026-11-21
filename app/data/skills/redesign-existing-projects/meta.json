@@ -1,0 +1,11 @@
+{
+  "name": "redesign-existing-projects",
+  "display_name": "Redesign Existing Projects",
+  "description": "Use when upgrading existing websites or apps by auditing generic UI patterns and applying premium design fixes without rewrites.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/redesign-existing-projects/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/redesign-existing-projects/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 15815,
+  "truncated": false
+}

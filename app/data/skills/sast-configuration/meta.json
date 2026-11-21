@@ -1,0 +1,11 @@
+{
+  "name": "sast-configuration",
+  "display_name": "SAST Configuration",
+  "description": "Configure Static Application Security Testing (SAST) tools for automated vulnerability detection in application code. Use when setting up security scanning, implementing DevSecOps practices, or automating code vulnerability detection.",
+  "repo": "wshobson/agents",
+  "path": "plugins/security-scanning/skills/sast-configuration/SKILL.md",
+  "url": "https://github.com/wshobson/agents/tree/HEAD/plugins/security-scanning/skills/sast-configuration/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 5121,
+  "truncated": false
+}

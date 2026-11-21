@@ -1,0 +1,11 @@
+{
+  "name": "search-specialist",
+  "display_name": "Search Specialist",
+  "description": "Expert web researcher using advanced search techniques and",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/search-specialist/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/search-specialist/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 2450,
+  "truncated": false
+}

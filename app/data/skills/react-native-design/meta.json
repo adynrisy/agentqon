@@ -1,0 +1,11 @@
+{
+  "name": "react-native-design",
+  "display_name": "React Native Design",
+  "description": "Master React Native styling, navigation, and Reanimated animations for cross-platform mobile development. Use when building React Native apps, implementing navigation patterns, or creating performant animations.",
+  "repo": "wshobson/agents",
+  "path": "plugins/ui-design/skills/react-native-design/SKILL.md",
+  "url": "https://github.com/wshobson/agents/tree/HEAD/plugins/ui-design/skills/react-native-design/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 3689,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "re-create",
+  "display_name": "Re Create",
+  "description": "Completely delete and rewrite a file or module from scratch when structural rot makes patching impossible.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/re-create/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/re-create/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 11106,
+  "truncated": false
+}

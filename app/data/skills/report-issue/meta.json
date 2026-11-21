@@ -1,0 +1,11 @@
+{
+  "name": "report-issue",
+  "display_name": "Report Issue",
+  "description": "Use this skill when the user wants to \"report a bug\", \"file an issue\", \"report an issue\", \"submit a bug report\", or report any problem with the power-automate plugin to the GitHub repository.",
+  "repo": "microsoft/power-platform-skills",
+  "path": "plugins/power-automate/skills/report-issue/SKILL.md",
+  "url": "https://github.com/microsoft/power-platform-skills/tree/HEAD/plugins/power-automate/skills/report-issue/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 161,
+  "truncated": false
+}

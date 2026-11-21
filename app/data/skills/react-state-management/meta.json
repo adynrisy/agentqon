@@ -1,0 +1,11 @@
+{
+  "name": "react-state-management",
+  "display_name": "React State Management",
+  "description": "Master modern React state management with Redux Toolkit, Zustand, Jotai, and React Query. Use when setting up global state, managing server state, or choosing between state management solutions.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/react-state-management/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/react-state-management/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 11845,
+  "truncated": false
+}

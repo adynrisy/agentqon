@@ -1,0 +1,11 @@
+{
+  "name": "review-code-comments",
+  "display_name": "Review Code Comments",
+  "description": "Rewrites code review comments so they read like a human teammate wrote them. Cuts corporate-AI throat-clearing (\"I noticed...\", \"I was wondering if perhaps...\", \"It might be worth considering...\"). Each comment is direct: location, the issue, a concrete fix.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/unslop-review/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/unslop-review/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 4130,
+  "truncated": false
+}

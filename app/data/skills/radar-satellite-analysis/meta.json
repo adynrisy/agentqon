@@ -1,0 +1,11 @@
+{
+  "name": "radar-satellite-analysis",
+  "display_name": "Radar Satellite Analysis",
+  "description": "Interpret weather radar and satellite observations by validating product metadata and geometry, deriving storm and cloud structures, tracking evolution, and quantifying uncertainty.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/radar-satellite-analysis/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/radar-satellite-analysis/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 15070,
+  "truncated": false
+}

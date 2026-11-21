@@ -1,0 +1,11 @@
+{
+  "name": "react-best-practices",
+  "display_name": "React Best Practices",
+  "description": "Comprehensive performance optimization guide for React and Next.js applications, maintained by Vercel. Use when writing new React components or Next.js pages, implementing data fetching (client or server-side), or reviewing code for performance issues.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/react-best-practices/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/react-best-practices/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 5291,
+  "truncated": false
+}

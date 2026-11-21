@@ -1,0 +1,11 @@
+{
+  "name": "saas-health",
+  "display_name": "SaaS Health",
+  "description": "Calculate SaaS health metrics (ARR, MRR, churn, CAC, LTV, NRR) and benchmark against industry standards. Usage: /saas-health <metrics|quick-ratio|simulate> [options]",
+  "repo": "alirezarezvani/claude-skills",
+  "path": ".gemini/skills/saas-health/SKILL.md",
+  "url": "https://github.com/alirezarezvani/claude-skills/tree/HEAD/.gemini/skills/saas-health/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 1213,
+  "truncated": false
+}

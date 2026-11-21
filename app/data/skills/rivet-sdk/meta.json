@@ -1,0 +1,11 @@
+{
+  "name": "rivet-sdk",
+  "display_name": "Rivet SDK",
+  "description": "Reference skill for Zoom Rivet SDK. Use after routing to a Rivet-based server workflow when implementing auth handling, webhook consumers, API wrappers, multi-module composition, or Lambda receiver patterns.",
+  "repo": "anthropics/knowledge-work-plugins",
+  "path": "partner-built/zoom-plugin/skills/rivet-sdk/SKILL.md",
+  "url": "https://github.com/anthropics/knowledge-work-plugins/tree/HEAD/partner-built/zoom-plugin/skills/rivet-sdk/SKILL.md",
+  "license": "Apache-2.0",
+  "body_bytes": 4139,
+  "truncated": false
+}

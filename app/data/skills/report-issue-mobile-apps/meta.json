@@ -1,0 +1,11 @@
+{
+  "name": "report-issue-mobile-apps",
+  "display_name": "Report Issue · Mobile Apps",
+  "description": "Use when the user wants to report a bug, file an issue, submit a bug report, or report any problem with the mobile-app plugin.",
+  "repo": "microsoft/power-platform-skills",
+  "path": "plugins/mobile-apps/skills/report-issue/SKILL.md",
+  "url": "https://github.com/microsoft/power-platform-skills/tree/HEAD/plugins/mobile-apps/skills/report-issue/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 7025,
+  "truncated": false
+}

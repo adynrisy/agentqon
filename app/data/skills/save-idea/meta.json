@@ -1,0 +1,11 @@
+{
+  "name": "save-idea",
+  "display_name": "Save Idea",
+  "description": "Save ideas, observations, content topics, projects, and convictions in ~/path/to/ideas. Use when the user asks to capture an idea or insight. Adds to idea backlogs, not reminders or tasks.",
+  "repo": "davidondrej/skills",
+  "path": "skills/thinking-and-docs/save-idea/SKILL.md",
+  "url": "https://github.com/davidondrej/skills/tree/HEAD/skills/thinking-and-docs/save-idea/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 4857,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "salesforce-developer",
+  "display_name": "Salesforce Developer",
+  "description": "Writes and debugs Apex code, builds Lightning Web Components, optimizes SOQL queries, implements triggers, batch jobs, platform events, and integrations on the Salesforce platform. Use when developing Salesforce applications, customizing CRM workflows, managing governor limits, bulk processing, or setting up Salesforce DX and CI/CD pipelines.",
+  "repo": "Jeffallan/claude-skills",
+  "path": "skills/salesforce-developer/SKILL.md",
+  "url": "https://github.com/Jeffallan/claude-skills/tree/HEAD/skills/salesforce-developer/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 6826,
+  "truncated": false
+}

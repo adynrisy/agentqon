@@ -1,0 +1,11 @@
+{
+  "name": "quality-nonconformance",
+  "display_name": "Quality Nonconformance",
+  "description": "Codified expertise for quality control, non-conformance investigation, root cause analysis, corrective action, and supplier quality management in regulated manufacturing.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/quality-nonconformance/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/quality-nonconformance/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 30789,
+  "truncated": false
+}

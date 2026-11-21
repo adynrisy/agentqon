@@ -1,0 +1,11 @@
+{
+  "name": "receipt-accounting",
+  "display_name": "Receipt Accounting",
+  "description": "Receipt register: payer, mode, gross amount received, invoice allocation, unapplied amount and TDS collected. Use for receipt and sales-income accounting.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/receipt-accounting/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/receipt-accounting/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 21580,
+  "truncated": false
+}

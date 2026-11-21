@@ -1,0 +1,11 @@
+{
+  "name": "rails-project",
+  "display_name": "Rails Project",
+  "description": "Create a new Rails project",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/new-rails-project/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/new-rails-project/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 3333,
+  "truncated": false
+}

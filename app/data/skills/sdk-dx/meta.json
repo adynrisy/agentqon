@@ -1,0 +1,11 @@
+{
+  "name": "sdk-dx",
+  "display_name": "SDK Dx",
+  "description": "Design SDKs that developers love to use—APIs that feel native, error messages that guide, and experiences that reduce friction. This skill covers creating SDKs that drive adoption through exceptional developer experience rather than aggressive marketing.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/sdk-dx/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/sdk-dx/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 1311,
+  "truncated": false
+}

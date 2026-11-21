@@ -1,0 +1,11 @@
+{
+  "name": "scvelo-analysis-models",
+  "display_name": "Scvelo Analysis Models",
+  "description": "Performs RNA velocity analysis with scVelo from spliced and unspliced single-cell RNA counts. Fits deterministic or dynamical models, examines gene phase portraits, builds velocity graphs, estimates relative latent time, and ranks velocity-associated genes. Use for directional trajectory hypotheses and kinetic-model diagnostics alongside Scanpy; velocity alone does not establish cell fate or causal drivers.",
+  "repo": "K-Dense-AI/scientific-agent-skills",
+  "path": "skills/scvelo/SKILL.md",
+  "url": "https://github.com/K-Dense-AI/scientific-agent-skills/tree/HEAD/skills/scvelo/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 11651,
+  "truncated": false
+}

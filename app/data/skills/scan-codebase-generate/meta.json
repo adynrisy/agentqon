@@ -1,0 +1,11 @@
+{
+  "name": "scan-codebase-generate",
+  "display_name": "Scan Codebase Generate",
+  "description": "Scans the codebase to generate project-doc.md and AGENTS.md. Use when bootstrapping a new agent-driven repo, refreshing project documentation after architectural changes, or running a delta scan to detect drift. Runs a full scan on first use and a smart delta scan on subsequent runs. Uses understand-anything + context-mode when available, falls back to native tools otherwise. Only updates AGENTS.md on detected architectural changes with human confirmation.",
+  "repo": "wshobson/agents",
+  "path": "plugins/ship-mate/skills/scan/SKILL.md",
+  "url": "https://github.com/wshobson/agents/tree/HEAD/plugins/ship-mate/skills/scan/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 5963,
+  "truncated": false
+}

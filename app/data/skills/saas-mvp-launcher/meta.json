@@ -1,0 +1,11 @@
+{
+  "name": "saas-mvp-launcher",
+  "display_name": "SaaS Mvp Launcher",
+  "description": "Use when planning or building a SaaS MVP from scratch. Provides a structured roadmap covering tech stack, architecture, auth, payments, and launch checklist.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/saas-mvp-launcher/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/saas-mvp-launcher/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 7471,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "rust-async-patterns",
+  "display_name": "Rust Async Patterns",
+  "description": "Master Rust async programming with Tokio, async traits, error handling, and concurrent patterns. Use when building async Rust applications, implementing concurrent systems, or debugging async code.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/rust-async-patterns/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/rust-async-patterns/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 1169,
+  "truncated": false
+}

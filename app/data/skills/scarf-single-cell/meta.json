@@ -1,0 +1,11 @@
+{
+  "name": "scarf-single-cell",
+  "display_name": "Scarf Single Cell",
+  "description": "Analyze single-cell RNA-seq at million-cell scale with Scarf: out-of-core Zarr stores on disk or object storage, provenance-tracked artifacts, audited QC, clustering, markers and donor comparisons.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/scarf-single-cell/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/scarf-single-cell/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 21887,
+  "truncated": false
+}

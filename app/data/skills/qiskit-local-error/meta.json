@@ -1,0 +1,11 @@
+{
+  "name": "qiskit-local-error",
+  "display_name": "Qiskit Local Error",
+  "description": "Builds, simulates, transpiles, and executes quantum circuits with Qiskit and IBM Quantum Runtime. Use for Qiskit 2.x circuits and operators, V2 Sampler or Estimator primitives, target-aware transpilation, local or noisy simulation, IBM QPU execution, Runtime sessions or batches, error mitigation, and Qiskit ecosystem packages.",
+  "repo": "K-Dense-AI/scientific-agent-skills",
+  "path": "skills/qiskit/SKILL.md",
+  "url": "https://github.com/K-Dense-AI/scientific-agent-skills/tree/HEAD/skills/qiskit/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 12563,
+  "truncated": false
+}

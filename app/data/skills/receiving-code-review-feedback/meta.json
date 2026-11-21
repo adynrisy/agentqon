@@ -1,0 +1,11 @@
+{
+  "name": "receiving-code-review-feedback",
+  "display_name": "Receiving Code Review · Feedback",
+  "description": "Use when receiving code review feedback, before implementing suggestions, especially if feedback seems unclear or technically questionable - requires technical rigor and verification, not performative agreement or blind implementation",
+  "repo": "obra/superpowers",
+  "path": "skills/receiving-code-review/SKILL.md",
+  "url": "https://github.com/obra/superpowers/tree/HEAD/skills/receiving-code-review/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 5918,
+  "truncated": false
+}

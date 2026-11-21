@@ -1,0 +1,11 @@
+{
+  "name": "review-c-plan-cto-review",
+  "display_name": "Review C Plan · Cto Review",
+  "description": "/c-level-agents:cto-review [plan] — Architecture and scaling interrogation. Tech debt, scaling cliffs, team scaling, build-vs-buy. Use when committing to an architecture, planning for 10x load, or weighing a rebuild against a vendor.",
+  "repo": "alirezarezvani/claude-skills",
+  "path": ".gemini/skills/cto-review/SKILL.md",
+  "url": "https://github.com/alirezarezvani/claude-skills/tree/HEAD/.gemini/skills/cto-review/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 3260,
+  "truncated": false
+}

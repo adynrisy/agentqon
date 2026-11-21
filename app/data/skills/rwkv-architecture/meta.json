@@ -1,0 +1,11 @@
+{
+  "name": "rwkv-architecture",
+  "display_name": "Rwkv Architecture",
+  "description": "RNN+Transformer hybrid with O(n) inference. Linear time, infinite context, no KV cache. Train like GPT (parallel), infer like RNN (sequential). Linux Foundation AI project. Production at Windows, Office, NeMo. RWKV-7 (March 2025). Models up to 14B parameters.",
+  "repo": "Orchestra-Research/AI-Research-SKILLs",
+  "path": "01-model-architecture/rwkv/SKILL.md",
+  "url": "https://github.com/Orchestra-Research/AI-Research-SKILLs/tree/HEAD/01-model-architecture/rwkv/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 6536,
+  "truncated": false
+}

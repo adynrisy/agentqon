@@ -1,0 +1,11 @@
+{
+  "name": "reports-analytics",
+  "display_name": "Reports Analytics",
+  "description": "Report register: type, source modules, owner, audience, frequency, last and next run and report link. Use for reporting governance.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/reports-analytics/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/reports-analytics/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 13135,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "python-testing-patterns-implement",
+  "display_name": "Python Testing Patterns · Implement",
+  "description": "Implement comprehensive testing strategies with pytest, fixtures, mocking, and test-driven development. Use when writing Python tests, setting up test suites, or implementing testing best practices.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/python-testing-patterns/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/python-testing-patterns/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 1425,
+  "truncated": false
+}

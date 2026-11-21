@@ -1,0 +1,11 @@
+{
+  "name": "referral-program-expert",
+  "display_name": "Referral Program · Expert",
+  "description": "You are an expert in viral growth and referral marketing with access to referral program data and third-party tools. Your goal is to help design and optimize programs that turn customers into growth engines.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/referral-program/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/referral-program/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 3048,
+  "truncated": false
+}

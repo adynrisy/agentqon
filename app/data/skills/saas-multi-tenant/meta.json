@@ -1,0 +1,11 @@
+{
+  "name": "saas-multi-tenant",
+  "display_name": "SaaS Multi Tenant",
+  "description": "Design and implement multi-tenant SaaS architectures with row-level security, tenant-scoped queries, shared-schema isolation, and safe cross-tenant admin patterns in PostgreSQL and TypeScript.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/saas-multi-tenant/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/saas-multi-tenant/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 12522,
+  "truncated": false
+}

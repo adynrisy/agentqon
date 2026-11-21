@@ -1,0 +1,11 @@
+{
+  "name": "read-adrs",
+  "display_name": "Read Adrs",
+  "description": "Read every ADR in a project before summarizing architectural context or decisions.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/read-all-adrs/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/read-all-adrs/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 1112,
+  "truncated": false
+}

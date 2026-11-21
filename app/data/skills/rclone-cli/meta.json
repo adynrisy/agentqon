@@ -1,0 +1,11 @@
+{
+  "name": "rclone-cli",
+  "display_name": "Rclone CLI",
+  "description": "Rclone command-line cloud storage manager reference and usage guide. Use this skill whenever the user mentions rclone, or any task involving terminal-based cloud file operations such as upload, download, sync, copy, move, mount, or remote management.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/rclone-cli/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/rclone-cli/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 15187,
+  "truncated": false
+}

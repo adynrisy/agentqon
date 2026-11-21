@@ -1,0 +1,11 @@
+{
+  "name": "saga-orchestration",
+  "display_name": "Saga Orchestration",
+  "description": "Patterns for managing distributed transactions and long-running business processes.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/saga-orchestration/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/saga-orchestration/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 1159,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "security-automation",
+  "display_name": "Security Automation",
+  "description": "Automate security workflows and remediation. Build security pipelines, automate compliance checks, and implement SOAR capabilities. Use when scaling security operations or implementing DevSecOps.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/security-automation/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/security-automation/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 3233,
+  "truncated": false
+}

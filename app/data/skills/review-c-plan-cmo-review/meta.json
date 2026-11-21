@@ -1,0 +1,11 @@
+{
+  "name": "review-c-plan-cmo-review",
+  "display_name": "Review C Plan · Cmo Review",
+  "description": "/c-level-agents:cmo-review [plan] — Narrative-first interrogation of positioning, ICP, message house, and channel mix. Use when launching a campaign or repositioning, or when CAC is rising and the one-sentence positioning test fails.",
+  "repo": "alirezarezvani/claude-skills",
+  "path": ".gemini/skills/cmo-review/SKILL.md",
+  "url": "https://github.com/alirezarezvani/claude-skills/tree/HEAD/.gemini/skills/cmo-review/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 3099,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "reset-acp",
+  "display_name": "Reset Acp",
+  "description": "Reset a stuck Cursor ACP thread in your chat app and reload its configuration. Use only when the user explicitly invokes /reset-cursor-acp.",
+  "repo": "davidondrej/skills",
+  "path": "skills/agent-orchestration/reset-cursor-acp/SKILL.md",
+  "url": "https://github.com/davidondrej/skills/tree/HEAD/skills/agent-orchestration/reset-cursor-acp/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 2583,
+  "truncated": false
+}

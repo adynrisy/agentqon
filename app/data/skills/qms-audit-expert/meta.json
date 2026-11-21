@@ -1,0 +1,11 @@
+{
+  "name": "qms-audit-expert",
+  "display_name": "Qms Audit Expert",
+  "description": "ISO 13485 internal audit expertise for medical device QMS. Covers audit planning, execution, nonconformity classification, and CAPA verification. Use when planning internal audits, executing audits, classifying findings, preparing for external audits, or managing an audit program.",
+  "repo": "alirezarezvani/claude-skills",
+  "path": ".gemini/skills/qms-audit-expert/SKILL.md",
+  "url": "https://github.com/alirezarezvani/claude-skills/tree/HEAD/.gemini/skills/qms-audit-expert/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 9145,
+  "truncated": false
+}

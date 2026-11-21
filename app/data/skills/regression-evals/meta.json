@@ -1,0 +1,11 @@
+{
+  "name": "regression-evals",
+  "display_name": "Regression Evals",
+  "description": "Use when an agent, prompt, model or tool change needs proof it did not make the agent worse — setting up a regression eval suite, deciding whether a pass-rate drop is real or noise, grading tool-call trajectories, finding flaky eval cases, or wiring an eval gate into CI that blocks the merge. Runs repeated trials, reports pass@k and pass^k, compares candidate to baseline with paired statistics, and refuses to pass a dropped case, a critical-case regression, or a forbidden tool call.",
+  "repo": "alirezarezvani/claude-skills",
+  "path": ".gemini/skills/agent-regression-evals/SKILL.md",
+  "url": "https://github.com/alirezarezvani/claude-skills/tree/HEAD/.gemini/skills/agent-regression-evals/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 4606,
+  "truncated": false
+}

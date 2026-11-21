@@ -1,0 +1,11 @@
+{
+  "name": "ratelimit-add-api",
+  "display_name": "Ratelimit Add API",
+  "description": "Add rate limiting to API routes, middleware, and edge functions with @upstash/ratelimit: sliding window, fixed window, and token bucket backed by Upstash Redis.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/upstash-ratelimit/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/upstash-ratelimit/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 6770,
+  "truncated": false
+}

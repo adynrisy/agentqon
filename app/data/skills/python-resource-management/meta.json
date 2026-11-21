@@ -1,0 +1,11 @@
+{
+  "name": "python-resource-management",
+  "display_name": "Python Resource Management",
+  "description": "Python resource management with context managers, cleanup patterns, and streaming. Use when managing connections, file handles, implementing cleanup logic, or building streaming responses with accumulated state.",
+  "repo": "wshobson/agents",
+  "path": "plugins/python-development/skills/python-resource-management/SKILL.md",
+  "url": "https://github.com/wshobson/agents/tree/HEAD/plugins/python-development/skills/python-resource-management/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 6745,
+  "truncated": false
+}

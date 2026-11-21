@@ -1,0 +1,11 @@
+{
+  "name": "scarcity-urgency",
+  "display_name": "Scarcity Urgency",
+  "description": "Design honest scarcity and urgency messaging when verified inventory, capacity, or deadlines justify a timely decision.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/scarcity-urgency-psychologist/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/scarcity-urgency-psychologist/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 6269,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "review-model-pr",
+  "display_name": "Review Model PR",
+  "description": "Two-model debate review of a GitHub PR, GitLab MR, Azure DevOps PR, or local working tree, posted as inline comments or printed. Use for any PR/MR review request, or a local review before a PR exists.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/debate-review/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/debate-review/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 4072,
+  "truncated": false
+}

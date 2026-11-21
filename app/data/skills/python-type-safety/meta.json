@@ -1,0 +1,11 @@
+{
+  "name": "python-type-safety",
+  "display_name": "Python Type Safety",
+  "description": "Python type safety with type hints, generics, protocols, and strict type checking. Use when adding type annotations, implementing generic classes, defining structural interfaces, or configuring mypy/pyright.",
+  "repo": "wshobson/agents",
+  "path": "plugins/python-development/skills/python-type-safety/SKILL.md",
+  "url": "https://github.com/wshobson/agents/tree/HEAD/plugins/python-development/skills/python-type-safety/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 5508,
+  "truncated": false
+}

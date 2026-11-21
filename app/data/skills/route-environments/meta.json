@@ -1,0 +1,11 @@
+{
+  "name": "route-environments",
+  "display_name": "Route Environments",
+  "description": "Check Power Platform environment routing status and understand default environment resolution. Use when the user asks about environment routing, developer environments, or new maker landing. Routing is configured in the admin center, not here. NOT for listing flows or managing connections.",
+  "repo": "microsoft/power-platform-skills",
+  "path": "plugins/power-automate/skills/route-environments/SKILL.md",
+  "url": "https://github.com/microsoft/power-platform-skills/tree/HEAD/plugins/power-automate/skills/route-environments/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 2322,
+  "truncated": false
+}

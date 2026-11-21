@@ -1,0 +1,11 @@
+{
+  "name": "risk-assessment",
+  "display_name": "Risk Assessment",
+  "description": "Identify, assess, and mitigate operational risks. Trigger with \"what are the risks\", \"risk assessment\", \"risk register\", \"what could go wrong\", or when the user is evaluating risks associated with a project, vendor, process, or decision.",
+  "repo": "anthropics/knowledge-work-plugins",
+  "path": "operations/skills/risk-assessment/SKILL.md",
+  "url": "https://github.com/anthropics/knowledge-work-plugins/tree/HEAD/operations/skills/risk-assessment/SKILL.md",
+  "license": "Apache-2.0",
+  "body_bytes": 1348,
+  "truncated": false
+}

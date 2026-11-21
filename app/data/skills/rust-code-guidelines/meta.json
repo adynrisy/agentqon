@@ -1,0 +1,11 @@
+{
+  "name": "rust-code-guidelines",
+  "display_name": "Rust Code Guidelines",
+  "description": "Language-specific super-code guidelines for rust.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/super-code/rust/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/super-code/rust/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 6471,
+  "truncated": false
+}

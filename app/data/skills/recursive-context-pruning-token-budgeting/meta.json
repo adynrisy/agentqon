@@ -1,0 +1,11 @@
+{
+  "name": "recursive-context-pruning-token-budgeting",
+  "display_name": "Recursive Context Pruning Token Budgeting",
+  "description": "Optimizes AI agent performance by pruning redundant context, managing token usage, and enforcing ultra-concise, direct-to-value responses.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/recursive-context-pruning-token-budgeting/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/recursive-context-pruning-token-budgeting/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 4008,
+  "truncated": false
+}

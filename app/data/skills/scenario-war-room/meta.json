@@ -1,0 +1,11 @@
+{
+  "name": "scenario-war-room",
+  "display_name": "Scenario War Room",
+  "description": "Cross-functional what-if modeling for cascading multi-variable scenarios. Unlike single-assumption stress testing, this models compound adversity across all business functions simultaneously. Use when facing complex risk scenarios, strategic decisions with major downside, or when the user asks 'what if X AND Y both happen?'",
+  "repo": "alirezarezvani/claude-skills",
+  "path": ".gemini/skills/scenario-war-room/SKILL.md",
+  "url": "https://github.com/alirezarezvani/claude-skills/tree/HEAD/.gemini/skills/scenario-war-room/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 7446,
+  "truncated": false
+}

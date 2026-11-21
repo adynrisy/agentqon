@@ -1,0 +1,11 @@
+{
+  "name": "qdrant-vector-search",
+  "display_name": "Qdrant Vector Search",
+  "description": "High-performance vector similarity search engine for RAG and semantic search. Use when building production RAG systems requiring fast nearest neighbor search, hybrid search with filtering, or scalable vector storage with Rust-powered performance.",
+  "repo": "Orchestra-Research/AI-Research-SKILLs",
+  "path": "15-rag/qdrant/SKILL.md",
+  "url": "https://github.com/Orchestra-Research/AI-Research-SKILLs/tree/HEAD/15-rag/qdrant/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 12948,
+  "truncated": false
+}

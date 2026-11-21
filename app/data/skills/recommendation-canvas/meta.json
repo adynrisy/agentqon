@@ -1,0 +1,11 @@
+{
+  "name": "recommendation-canvas",
+  "display_name": "Recommendation Canvas",
+  "description": "Evaluate an AI product idea across outcomes, hypotheses, risks, and positioning. Use when deciding whether an AI solution deserves investment or recommendation.",
+  "repo": "deanpeters/Product-Manager-Skills",
+  "path": "skills/recommendation-canvas/SKILL.md",
+  "url": "https://github.com/deanpeters/Product-Manager-Skills/tree/HEAD/skills/recommendation-canvas/SKILL.md",
+  "license": "CC",
+  "body_bytes": 13865,
+  "truncated": false
+}

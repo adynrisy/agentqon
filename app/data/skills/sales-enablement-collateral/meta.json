@@ -1,0 +1,11 @@
+{
+  "name": "sales-enablement-collateral",
+  "display_name": "Sales Enablement · Collateral",
+  "description": "Create sales collateral such as decks, one-pagers, objection docs, demo scripts, playbooks, and proposal templates. Use when a sales team needs assets that help reps move deals forward and close.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/sales-enablement/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/sales-enablement/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 14186,
+  "truncated": false
+}

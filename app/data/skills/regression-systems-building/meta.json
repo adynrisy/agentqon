@@ -1,0 +1,11 @@
+{
+  "name": "regression-systems-building",
+  "display_name": "Regression Systems Building",
+  "description": "Use when deploying before/after systems and building a live-system PoC for a regression candidate.",
+  "repo": "trailofbits/skills",
+  "path": "plugins/regression-hunt/skills/reproduce-regression/SKILL.md",
+  "url": "https://github.com/trailofbits/skills/tree/HEAD/plugins/regression-hunt/skills/reproduce-regression/SKILL.md",
+  "license": "CC",
+  "body_bytes": 1977,
+  "truncated": false
+}

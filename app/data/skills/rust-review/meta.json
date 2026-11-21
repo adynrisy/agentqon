@@ -1,0 +1,11 @@
+{
+  "name": "rust-review",
+  "display_name": "Rust Review",
+  "description": "Performs comprehensive Rust security review for safe/unsafe boundary issues, memory safety in unsafe blocks, concurrency hazards, panic-induced DoS, FFI safety, and async runtime mistakes. Use when auditing Rust crates, services, or libraries — particularly those with `unsafe`, FFI, or concurrent code.",
+  "repo": "trailofbits/skills",
+  "path": "plugins/rust-review/skills/rust-review/SKILL.md",
+  "url": "https://github.com/trailofbits/skills/tree/HEAD/plugins/rust-review/skills/rust-review/SKILL.md",
+  "license": "CC",
+  "body_bytes": 44078,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "scanpy-selection-visualization",
+  "display_name": "Scanpy Selection Visualization",
+  "description": "Performs Scanpy single-cell RNA-seq QC, normalization, HVG selection, PCA/UMAP/t-SNE, clustering, exploratory marker ranking, pseudobulk preparation, visualization, and Seurat or SingleCellExperiment RDS conversion to h5ad. Applies to established exploratory scRNA-seq workflows with explicit count and expression provenance; complementary skills cover scvi-tools models and AnnData format details.",
+  "repo": "K-Dense-AI/scientific-agent-skills",
+  "path": "skills/scanpy/SKILL.md",
+  "url": "https://github.com/K-Dense-AI/scientific-agent-skills/tree/HEAD/skills/scanpy/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 19481,
+  "truncated": false
+}

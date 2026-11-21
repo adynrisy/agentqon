@@ -1,0 +1,11 @@
+{
+  "name": "returns-management",
+  "display_name": "Returns Management",
+  "description": "Optimize e-commerce returns process and reduce return rates. Returns policy design, reverse logistics, root cause analysis, and customer retention through better returns experience.",
+  "repo": "nexscope-ai/eCommerce-Skills",
+  "path": "ecommerce-returns-management/SKILL.md",
+  "url": "https://github.com/nexscope-ai/eCommerce-Skills/tree/HEAD/ecommerce-returns-management/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 2115,
+  "truncated": false
+}

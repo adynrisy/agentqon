@@ -1,0 +1,11 @@
+{
+  "name": "riffkit-create-short",
+  "display_name": "Riffkit Create Short",
+  "description": "Create short videos with Riffkit: Adapt a source formula, Swap approved footage, or generate from an idea. Use for UGC ads and localized video; requires an account and render approval.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/riffkit/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/riffkit/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 8406,
+  "truncated": false
+}

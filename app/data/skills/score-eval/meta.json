@@ -1,0 +1,11 @@
+{
+  "name": "score-eval",
+  "display_name": "Score Eval",
+  "description": "Use when scoring an evaluation diff against a supplied rubric and baseline fixture: retain evidence for detected/fixed findings and report unscorable or unexecuted checks.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/score-eval/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/score-eval/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 2543,
+  "truncated": false
+}

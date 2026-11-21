@@ -1,0 +1,11 @@
+{
+  "name": "review-simplify-changes",
+  "display_name": "Review Simplify Changes",
+  "description": "Review a git diff or explicit file scope for reuse, code quality, efficiency, clarity, and standards issues, then optionally apply safe Codex-driven fixes.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/review-and-simplify-changes/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/review-and-simplify-changes/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 8309,
+  "truncated": false
+}

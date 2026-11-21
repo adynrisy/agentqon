@@ -1,0 +1,11 @@
+{
+  "name": "reels-find-animation",
+  "display_name": "Reels Find Animation",
+  "description": "Find animation and video references on 1human, consult a human-agent shared library, and contribute public creations only with prior owner permission.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/agent-reels/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/agent-reels/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 10423,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "search-one-query",
+  "display_name": "Search One Query",
+  "description": "Search across all connected sources in one query. Trigger with \"find that doc about...\", \"what did we decide on...\", \"where was the conversation about...\", or when looking for a decision, document, or discussion that could live in chat, email, cloud storage, or a project tracker.",
+  "repo": "anthropics/knowledge-work-plugins",
+  "path": "enterprise-search/skills/search/SKILL.md",
+  "url": "https://github.com/anthropics/knowledge-work-plugins/tree/HEAD/enterprise-search/skills/search/SKILL.md",
+  "license": "Apache-2.0",
+  "body_bytes": 6240,
+  "truncated": false
+}

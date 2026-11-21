@@ -1,0 +1,11 @@
+{
+  "name": "saas-security-posture",
+  "display_name": "SaaS Security Posture",
+  "description": "Audit and harden your SaaS tool stack",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/saas-security-posture/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/saas-security-posture/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 13704,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "sci-fi-interface",
+  "display_name": "Sci Fi Interface",
+  "description": "Web and App implementation guide for Sci-Fi Interface Design. Trigger when user wants HUDs, spacecraft dashboards, or tactical military readouts.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/design-it/sci-fi-interface/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/design-it/sci-fi-interface/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 12040,
+  "truncated": false
+}

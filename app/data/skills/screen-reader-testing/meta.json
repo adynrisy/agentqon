@@ -1,0 +1,11 @@
+{
+  "name": "screen-reader-testing",
+  "display_name": "Screen Reader Testing",
+  "description": "Practical guide to testing web applications with screen readers for comprehensive accessibility validation.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/screen-reader-testing/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/screen-reader-testing/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 1177,
+  "truncated": false
+}

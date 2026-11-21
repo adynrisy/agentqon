@@ -1,0 +1,225 @@
+<!--
+Source: microsoft/power-platform-skills
+Path: plugins/mobile-apps/skills/report-issue/SKILL.md
+License: MIT
+URL: https://github.com/microsoft/power-platform-skills/tree/HEAD/plugins/mobile-apps/skills/report-issue/SKILL.md
+-->
+
+> **Plugin check**: Run `node "${PLUGIN_ROOT}/scripts/check-version.js"` - if it outputs a message, show it to the user before proceeding.
+
+**📋 Shared instructions: [shared-instructions.md](${PLUGIN_ROOT}/shared/shared-instructions.md)** — read this first.
+
+# Report Issue — mobile-app
+
+Generates a fully-populated GitHub issue body for the `microsoft/power-platform-skills` repo, scoped to the `mobile-app` plugin. Read-only — no project modifications.
+
+## Workflow
+
+1. Capture user description → 2. Detect project context → 3. Collect diagnostics → 4. Render issue body → 5. Print URL
+
+---
+
+### Step 1 — Capture user description
+
+**Telemetry checkpoint: `capture_issue_description`**
+
+If `$ARGUMENTS` contains a description, use it. Otherwise prompt:
+
+> "What's the issue? Briefly describe what you expected vs. what happened. (You can paste error output if helpful.)"
+
+Then ask via `AskUserQuestion`:
+
+> "Issue category?
+> (a) Bug — something broke
+> (b) Unexpected behavior — wrong output but no error
+> (c) Documentation — docs are wrong / missing
+> (d) Feature request
+> (e) Question / discussion"
+
+> "How blocking is this?
+> (a) Blocking — can't proceed at all
+> (b) Workaround exists — but painful
+> (c) Annoying — non-critical
+> (d) Polish — nice-to-have"
+
+### Step 2 — Detect project context
+
+Read-only checks:
+
+```bash
+test -f power.config.json && echo "in_project=true" || echo "in_project=false"
+pwd
+node --version
+npm --version
+node scripts/resolve-environment.js "$(node -e \"console.log(require('./power.config.json').environmentId)\")" 2>/dev/null || true
+az --version 2>/dev/null | head -1
+npx --no-install expo --version 2>/dev/null
+uname -srm
+```
+
+If in a project:
+
+```bash
+node -e "console.log(require('./package.json').name, require('./package.json').version)" 2>/dev/null
+node -e "console.log(JSON.stringify({env: require('./power.config.json').environmentId, name: require('./power.config.json').displayName}))"
+test -f memory-bank.md && echo "memory_bank=present"
+test -f native-app-plan.md && echo "plan=present"
+ls src/generated/services/ 2>/dev/null | head -10
+```
+
+If the description names a package matching `@microsoft/power-apps-native-*`, collect its declared and lockfile-resolved versions from `package.json` and `package-lock.json`. Do not read package source or metadata from `node_modules/`.
+
+```bash
+node - <<'NODE'
+const fs = require('node:fs');
+const manifest = JSON.parse(fs.readFileSync('package.json', 'utf8'));
+const lockfile = fs.existsSync('package-lock.json')
+  ? JSON.parse(fs.readFileSync('package-lock.json', 'utf8'))
+  : null;
+const dependencies = { ...manifest.dependencies, ...manifest.devDependencies };
+for (const [name, declared] of Object.entries(dependencies)) {
+  if (!name.startsWith('@microsoft/power-apps-native-')) continue;
+  const resolved = lockfile?.packages?.[`node_modules/${name}`]?.version ?? 'unknown';
+  console.log(`${name}\tdeclared=${declared}\tresolved=${resolved}`);
+}
+NODE
+```
+
+For native-build issues also capture:
+
+```bash
+[ "$(uname)" = "Darwin" ] && xcode-select -p
+[ "$(uname)" = "Darwin" ] && pod --version 2>/dev/null
+java -version 2>&1 | head -1
+echo "ANDROID_HOME=$ANDROID_HOME"
+```
+
+### Step 3 — Collect diagnostics
+
+**Telemetry checkpoint: `collect_issue_diagnostics`**
+
+Run `npx --no-install expo doctor` and capture the text output verbatim.
+
+Ask for the affected workflow's Support ID when available. Use the telemetry
+helper's read-only `--report` mode from the affected project to inspect only its
+allowlisted timeline. Include the Support ID and relevant step/error category in
+the issue body, not environment, tenant, or organization IDs. Do not
+upload the telemetry directory or raw timing/authentication files.
+
+If the user pasted an error, capture verbatim. Otherwise look for recent failure signals:
+
+- Last 50 lines of any Metro / Gradle / Xcode log if user mentions a build failure
+- `git status --short` if in a git repo (to show modified files — sanitize for secrets first)
+- Output of `npx --no-install tsc --noEmit` if relevant
+
+**Do NOT capture:**
+- Contents of `src/playerConfig.ts` (contains tenantId / clientId — sensitive)
+- Contents of `.env` or any file matching `.env*`
+- Connection IDs unless the user explicitly opted in (PII / can map to tenant)
+- Anything under `node_modules/`
+- Package source excerpts, patched package contents, or proposed fork code
+- Tenant/environment/organization IDs in a public issue, even though verified
+  IDs can exist in access-controlled telemetry
+
+### Step 4 — Render issue body
+
+**Telemetry checkpoint: `render_issue_report`**
+
+Print this block — user copies into a new issue:
+
+```markdown
+### Description
+
+<user's description>
+
+### Category
+
+<Bug / Unexpected behavior / Docs / Feature / Question>
+
+### Severity
+
+<Blocking / Workaround / Annoying / Polish>
+
+### Environment
+
+| | |
+|---|---|
+| Plugin | mobile-app |
+| Plugin version | <from .plugin/plugin.json, or legacy .claude-plugin/plugin.json fallback, or "unknown"> |
+| OS | <uname output> |
+| Node | <version> |
+| npm | <version> |
+| Power Apps CLI | <version> |
+| Expo CLI | <version> |
+| Xcode | <if macOS> |
+| JDK | <if android> |
+| ANDROID_HOME set | <yes/no> |
+
+### Project context
+
+<if in project>
+- Mobile project detected: yes
+- Support ID: `<affected workflow run GUID, or unavailable>`
+- Failed step / error category: `<registered step and fixed category, or unknown>`
+- Memory bank present: <yes/no>
+- Plan present: <yes/no>
+- Connector count: <count, not generated service or business-table names>
+</if>
+
+<if not in project>
+Not run inside a mobile-app project.
+</if>
+
+### Affected native package
+
+<include only when the issue concerns @microsoft/power-apps-native-*>
+- Package: `<package name>`
+- Declared version: `<package.json range>`
+- Resolved version: `<package-lock.json version or unknown>`
+- Platform: `<iOS / Android>`
+- Ownership evidence: <why the documented caller contract is satisfied and the failure is package-internal>
+
+### Reproduction steps
+
+1.
+2.
+3.
+
+### Expected
+
+<what should have happened>
+
+### Actual
+
+<what happened>
+
+### Logs / errors
+
+```
+<paste verbatim — sensitive values redacted>
+```
+
+### Notes
+
+<anything else>
+```
+
+### Step 5 — Print URL
+
+**Telemetry checkpoint: `generate_issue_submission_url`**
+
+Tell the user:
+
+> Open this URL to file the issue:
+>
+> <https://github.com/microsoft/power-platform-skills/issues/new?labels=plugin%3Amobile-app>
+>
+> Paste the block above into the body. Review for any sensitive values before submitting.
+
+If the user wants to open it, suggest `open <url>` (macOS) / `xdg-open <url>` (Linux) / `start <url>` (Windows). Do not auto-open without confirmation.
+
+## Notes
+
+- This skill never modifies any file or invokes mutating commands. Pure diagnostic.
+- For diagnosing connection-specific failures, suggest the user run `/list-connections` first and paste that output into the issue.
+- For diagnosing build failures, suggest they include the full Metro/Gradle/Xcode log (not truncated).

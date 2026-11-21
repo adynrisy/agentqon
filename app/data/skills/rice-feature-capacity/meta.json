@@ -1,0 +1,11 @@
+{
+  "name": "rice-feature-capacity",
+  "display_name": "Rice Feature Capacity",
+  "description": "RICE feature prioritization with scoring and capacity planning. Usage: /rice prioritize <features.csv> [options]",
+  "repo": "alirezarezvani/claude-skills",
+  "path": ".gemini/skills/rice/SKILL.md",
+  "url": "https://github.com/alirezarezvani/claude-skills/tree/HEAD/.gemini/skills/rice/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 866,
+  "truncated": false
+}

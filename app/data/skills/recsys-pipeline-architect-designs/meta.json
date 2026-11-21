@@ -1,0 +1,11 @@
+{
+  "name": "recsys-pipeline-architect-designs",
+  "display_name": "Recsys Pipeline Architect · Designs",
+  "description": "Designs composable recommendation, ranking, and feed pipelines using the six-stage Source→Hydrator→Filter→Scorer→Selector→SideEffect framework",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/recsys-pipeline-architect/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/recsys-pipeline-architect/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 7511,
+  "truncated": false
+}

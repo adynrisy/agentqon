@@ -1,0 +1,11 @@
+{
+  "name": "review-swarm",
+  "display_name": "Review Swarm",
+  "description": "Parallel read-only multi-agent review of a current git diff or explicit file scope to find behavioral regressions, security or privacy risks, performance or reliability issues, and contract or test coverage gaps.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/review-swarm/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/review-swarm/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 7094,
+  "truncated": false
+}

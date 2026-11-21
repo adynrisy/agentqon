@@ -1,0 +1,11 @@
+{
+  "name": "react-state-management-frontend-mobile-development",
+  "display_name": "React State Management · Frontend Mobile Development",
+  "description": "Master modern React state management with Redux Toolkit, Zustand, Jotai, and React Query. Use when setting up global state, managing server state, or choosing between state management solutions.",
+  "repo": "wshobson/agents",
+  "path": "plugins/frontend-mobile-development/skills/react-state-management/SKILL.md",
+  "url": "https://github.com/wshobson/agents/tree/HEAD/plugins/frontend-mobile-development/skills/react-state-management/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 3759,
+  "truncated": false
+}

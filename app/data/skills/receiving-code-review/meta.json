@@ -1,0 +1,11 @@
+{
+  "name": "receiving-code-review",
+  "display_name": "Receiving Code Review",
+  "description": "Code review requires technical evaluation, not emotional performance.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/receiving-code-review/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/receiving-code-review/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 6451,
+  "truncated": false
+}

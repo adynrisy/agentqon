@@ -1,0 +1,11 @@
+{
+  "name": "report-regressions",
+  "display_name": "Report Regressions",
+  "description": "Use when assembling or refreshing an evidence-linked regression report from saved campaign decisions.",
+  "repo": "trailofbits/skills",
+  "path": "plugins/regression-hunt/skills/report-regressions/SKILL.md",
+  "url": "https://github.com/trailofbits/skills/tree/HEAD/plugins/regression-hunt/skills/report-regressions/SKILL.md",
+  "license": "CC",
+  "body_bytes": 2232,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "salary-benchmarking",
+  "display_name": "Salary Benchmarking",
+  "description": "Salary benchmark register: role, department and grade against market and internal minimum, median and maximum. Use for compensation review.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/salary-benchmarking/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/salary-benchmarking/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 13334,
+  "truncated": false
+}

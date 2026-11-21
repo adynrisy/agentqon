@@ -1,0 +1,11 @@
+{
+  "name": "research-ops",
+  "display_name": "Research Ops",
+  "description": "Use when planning, funding, scoping, or synthesizing enterprise research across workstreams — clinical study design, R&D program finance, market sizing/surveys, or product/user research. Triggers on \"design this clinical study\", \"what sample size\", \"R&D budget\", \"burn rate\", \"capitalize or expense\", \"TAM SAM SOM\", \"market sizing\", \"survey design\", \"segment the market\", \"plan user interviews\", \"usability test\", \"synthesize research insights\". Forks context to route to one of four Research-Operations sub-skills (clinical-research, research-finance, market-research, product-research) and returns a digest. Distinct from ra-qm-team (regulatory submission), finance (corporate close/valuation), research/grants (funding discovery), product-team (persona/journey/live experiments), and marketing-skill (campaign analytics).",
+  "repo": "alirezarezvani/claude-skills",
+  "path": ".gemini/skills/research-ops-skills/SKILL.md",
+  "url": "https://github.com/alirezarezvani/claude-skills/tree/HEAD/.gemini/skills/research-ops-skills/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 10059,
+  "truncated": false
+}

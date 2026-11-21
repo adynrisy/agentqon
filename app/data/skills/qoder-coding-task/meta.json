@@ -1,0 +1,11 @@
+{
+  "name": "qoder-coding-task",
+  "display_name": "Qoder Coding Task",
+  "description": "Delegate a coding task to the Qoder CLI (`qodercli`) as a background implementer, then review its diff and land it yourself. Use this whenever the user asks to have Qoder implement, fix, refactor, or run a queue of coding tasks while the orchestrator remains the reviewer. DO NOT USE for tasks small enough to do inline, or when the user wants code written directly without delegation.",
+  "repo": "amElnagdy/delegate-skills",
+  "path": "skills/qoder-delegate/SKILL.md",
+  "url": "https://github.com/amElnagdy/delegate-skills/tree/HEAD/skills/qoder-delegate/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 6530,
+  "truncated": false
+}

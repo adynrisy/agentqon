@@ -1,0 +1,11 @@
+{
+  "name": "rich-elicitation",
+  "display_name": "Rich Elicitation",
+  "description": "Asks clarifying questions in multiple rounds before starting ambiguous tasks. Fires when 2+ task dimensions each have 3+ viable answers.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/rich-elicitation/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/rich-elicitation/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 7368,
+  "truncated": false
+}

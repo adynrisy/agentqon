@@ -1,0 +1,11 @@
+{
+  "name": "python-pro",
+  "display_name": "Python Pro",
+  "description": "Master Python 3.12+ with modern features, async programming, performance optimization, and production-ready practices. Expert in the latest Python ecosystem including uv, ruff, pydantic, and FastAPI.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/python-pro/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/python-pro/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 7309,
+  "truncated": false
+}

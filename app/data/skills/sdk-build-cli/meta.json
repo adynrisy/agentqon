@@ -1,0 +1,11 @@
+{
+  "name": "sdk-build-cli",
+  "display_name": "SDK Build CLI",
+  "description": "Build applications that programmatically interact with GitHub Copilot. The SDK wraps the Copilot CLI via JSON-RPC, providing session management, custom tools, hooks, MCP server integration, and streaming across Node.js, Python, Go, and .NET.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/copilot-sdk/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/copilot-sdk/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 1284,
+  "truncated": false
+}

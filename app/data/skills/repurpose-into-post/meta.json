@@ -1,0 +1,11 @@
+{
+  "name": "repurpose-into-post",
+  "display_name": "Repurpose Into Post",
+  "description": "Turn an article, newsletter, transcript or video into a Twitter/X or LinkedIn post that stands on its own. Use when someone wants to repurpose, share or promote content they already made.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/repurpose-into-a-post/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/repurpose-into-a-post/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 5580,
+  "truncated": false
+}

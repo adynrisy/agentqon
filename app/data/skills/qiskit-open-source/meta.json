@@ -1,0 +1,11 @@
+{
+  "name": "qiskit-open-source",
+  "display_name": "Qiskit Open Source",
+  "description": "Qiskit is the world's most popular open-source quantum computing framework with 13M+ downloads. Build quantum circuits, optimize for hardware, execute on simulators or real quantum computers, and analyze results. Supports IBM Quantum (100+ qubit systems), IonQ, Amazon Braket, and other providers.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/qiskit/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/qiskit/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 9092,
+  "truncated": false
+}

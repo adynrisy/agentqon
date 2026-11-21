@@ -1,0 +1,11 @@
+{
+  "name": "react-component-performance",
+  "display_name": "React Component Performance",
+  "description": "Diagnose slow React components and suggest targeted performance fixes.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/react-component-performance/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/react-component-performance/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 4885,
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "research-synthesis",
+  "display_name": "Research Synthesis",
+  "description": "Synthesize user research into themes, insights, and recommendations. Use when you have interview transcripts, survey results, usability test notes, support tickets, or NPS responses that need to be distilled into patterns, user segments, and prioritized next steps.",
+  "repo": "anthropics/knowledge-work-plugins",
+  "path": "design/skills/research-synthesis/SKILL.md",
+  "url": "https://github.com/anthropics/knowledge-work-plugins/tree/HEAD/design/skills/research-synthesis/SKILL.md",
+  "license": "Apache-2.0",
+  "body_bytes": 2636,
+  "truncated": false
+}

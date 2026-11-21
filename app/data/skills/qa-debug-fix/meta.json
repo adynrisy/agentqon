@@ -1,0 +1,11 @@
+{
+  "name": "qa-debug-fix",
+  "display_name": "QA Debug Fix",
+  "description": "Debug, patch, and verify failed Agent QA runs from MCP evidence, artifacts, logs, and local code without hiding product or infrastructure defects.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/agent-qa-debug-fix/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/agent-qa-debug-fix/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 3489,
+  "truncated": false
+}

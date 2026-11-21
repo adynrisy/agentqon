@@ -1,0 +1,11 @@
+{
+  "name": "ralph-loop",
+  "display_name": "Ralph Loop",
+  "description": "Execute exactly one explicitly assigned YYLO Ledger task through the Ralph loop to a validated queued commit. Use only when the user explicitly requests ralph-loop-yylo.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/ralph-loop-yylo/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/ralph-loop-yylo/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 1969,
+  "truncated": false
+}

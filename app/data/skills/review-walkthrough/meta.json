@@ -1,0 +1,11 @@
+{
+  "name": "review-walkthrough",
+  "display_name": "Review Walkthrough",
+  "description": "Generates an interactive HTML walkthrough for reviewing code changes. Use only when explicitly called.",
+  "repo": "trailofbits/skills",
+  "path": "plugins/review-walkthrough/skills/review-walkthrough/SKILL.md",
+  "url": "https://github.com/trailofbits/skills/tree/HEAD/plugins/review-walkthrough/skills/review-walkthrough/SKILL.md",
+  "license": "CC",
+  "body_bytes": 6568,
+  "truncated": false
+}

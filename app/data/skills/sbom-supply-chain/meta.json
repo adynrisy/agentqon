@@ -1,0 +1,11 @@
+{
+  "name": "sbom-supply-chain",
+  "display_name": "Sbom Supply Chain",
+  "description": "Generate, sign, and verify SBOMs and provenance attestations to secure the software supply chain. Use when implementing SLSA controls, artifact trust policies, or compliance evidence for releases.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/sbom-supply-chain/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/sbom-supply-chain/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 12830,
+  "truncated": false
+}

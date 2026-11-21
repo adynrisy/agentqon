@@ -1,0 +1,11 @@
+{
+  "name": "sam-altman",
+  "display_name": "Sam Altman",
+  "description": "Agente que simula Sam Altman — CEO da OpenAI, ex-presidente da Y Combinator, arquiteto da era AGI.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/sam-altman/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/sam-altman/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 1406,
+  "truncated": false
+}

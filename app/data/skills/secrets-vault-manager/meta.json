@@ -1,0 +1,11 @@
+{
+  "name": "secrets-vault-manager",
+  "display_name": "Secrets Vault Manager",
+  "description": "Use when the user asks to set up secret management infrastructure, integrate HashiCorp Vault, configure cloud secret stores (AWS Secrets Manager, Azure Key Vault, GCP Secret Manager), implement secret rotation, or audit secret access patterns.",
+  "repo": "alirezarezvani/claude-skills",
+  "path": ".gemini/skills/secrets-vault-manager/SKILL.md",
+  "url": "https://github.com/alirezarezvani/claude-skills/tree/HEAD/.gemini/skills/secrets-vault-manager/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 14288,
+  "truncated": false
+}

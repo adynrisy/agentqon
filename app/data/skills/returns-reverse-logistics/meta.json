@@ -1,0 +1,11 @@
+{
+  "name": "returns-reverse-logistics",
+  "display_name": "Returns Reverse Logistics",
+  "description": "Codified expertise for returns authorisation, receipt and inspection, disposition decisions, refund processing, fraud detection, and warranty claims management.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/returns-reverse-logistics/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/returns-reverse-logistics/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 25339,
+  "truncated": false
+}

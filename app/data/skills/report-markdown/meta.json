@@ -1,0 +1,11 @@
+{
+  "name": "report-markdown",
+  "display_name": "Report Markdown",
+  "description": "将deep调研结果汇总为markdown报告，覆盖所有字段，跳过不确定值。",
+  "repo": "Weizhena/Deep-Research-skills",
+  "path": "skills/research-zh/research-report/SKILL.md",
+  "url": "https://github.com/Weizhena/Deep-Research-skills/tree/HEAD/skills/research-zh/research-report/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 3398,
+  "truncated": false
+}

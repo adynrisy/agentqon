@@ -1,0 +1,11 @@
+{
+  "name": "seaborn-python-visualization",
+  "display_name": "Seaborn Python Visualization",
+  "description": "Seaborn is a Python visualization library for creating publication-quality statistical graphics. Use this skill for dataset-oriented plotting, multivariate analysis, automatic statistical estimation, and complex multi-panel figures with minimal code.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/seaborn/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/seaborn/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 990,
+  "truncated": false
+}

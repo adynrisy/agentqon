@@ -1,0 +1,11 @@
+{
+  "name": "search-strategy",
+  "display_name": "Search Strategy",
+  "description": "Query decomposition and multi-source search orchestration. Breaks natural language questions into targeted searches per source, translates queries into source-specific syntax, ranks results by relevance, and handles ambiguity and fallback strategies.",
+  "repo": "anthropics/knowledge-work-plugins",
+  "path": "enterprise-search/skills/search-strategy/SKILL.md",
+  "url": "https://github.com/anthropics/knowledge-work-plugins/tree/HEAD/enterprise-search/skills/search-strategy/SKILL.md",
+  "license": "Apache-2.0",
+  "body_bytes": 6881,
+  "truncated": false
+}

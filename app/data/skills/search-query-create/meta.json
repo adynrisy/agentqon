@@ -1,0 +1,11 @@
+{
+  "name": "search-query-create",
+  "display_name": "Search Query Create",
+  "description": "Search, query, inspect, create, and import data into Weaviate vector database collections using official scripts and references.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/weaviate/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/weaviate/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 6229,
+  "truncated": false
+}

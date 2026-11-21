@@ -1,0 +1,11 @@
+{
+  "name": "robot-framework",
+  "display_name": "Robot Framework",
+  "description": "Generates Robot Framework tests in keyword-driven syntax with Python. Supports SeleniumLibrary, RequestsLibrary, and custom keywords. Use when user mentions \"Robot Framework\", \"*** Test Cases ***\", \"SeleniumLibrary\", \".robot file\".",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/robot-framework-skill/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/robot-framework-skill/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 5208,
+  "truncated": false
+}

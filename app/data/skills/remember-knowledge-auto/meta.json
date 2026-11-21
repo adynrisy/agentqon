@@ -1,0 +1,11 @@
+{
+  "name": "remember-knowledge-auto",
+  "display_name": "Remember Knowledge Auto",
+  "description": "Explicitly save important knowledge to auto-memory with timestamp and context. Use when a discovery is too important to rely on auto-capture.",
+  "repo": "alirezarezvani/claude-skills",
+  "path": ".gemini/skills/remember/SKILL.md",
+  "url": "https://github.com/alirezarezvani/claude-skills/tree/HEAD/.gemini/skills/remember/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 2971,
+  "truncated": false
+}

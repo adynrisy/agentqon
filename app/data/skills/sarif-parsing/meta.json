@@ -1,0 +1,11 @@
+{
+  "name": "sarif-parsing",
+  "display_name": "Sarif Parsing",
+  "description": "Parses and processes SARIF files from static analysis tools like CodeQL, Semgrep, or other scanners. Triggers on \"parse sarif\", \"read scan results\", \"aggregate findings\", \"deduplicate alerts\", or \"process sarif output\". Handles filtering, deduplication, format conversion, and CI/CD integration of SARIF data. Does NOT run scans — use the Semgrep or CodeQL skills for that.",
+  "repo": "trailofbits/skills",
+  "path": "plugins/static-analysis/skills/sarif-parsing/SKILL.md",
+  "url": "https://github.com/trailofbits/skills/tree/HEAD/plugins/static-analysis/skills/sarif-parsing/SKILL.md",
+  "license": "CC",
+  "body_bytes": 17461,
+  "truncated": false
+}

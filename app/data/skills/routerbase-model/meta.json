@@ -1,0 +1,11 @@
+{
+  "name": "routerbase-model",
+  "display_name": "Routerbase Model",
+  "description": "Integrate RouterBase as an OpenAI-compatible model gateway for routing GPT, Claude, Gemini, media, audio, and embedding requests.",
+  "repo": "sickn33/agentic-awesome-skills",
+  "path": "plugins/agentic-awesome-skills-claude/skills/routerbase-model-gateway/SKILL.md",
+  "url": "https://github.com/sickn33/agentic-awesome-skills/tree/HEAD/plugins/agentic-awesome-skills-claude/skills/routerbase-model-gateway/SKILL.md",
+  "license": "MIT",
+  "body_bytes": 6615,
+  "truncated": false
+}
